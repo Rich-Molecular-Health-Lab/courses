@@ -1,0 +1,26 @@
+/* Style the checklist container */
+ul[id^="checklist-"] {
+  list-style: none;         /* Remove bullets */
+  padding-left: 0;
+  margin-top: 1em;
+}
+
+/* Style each list item */
+ul[id^="checklist-"] li {
+  margin-bottom: 0.6em;
+  font-size: 1rem;
+}
+
+/* Style the checkboxes */
+ul[id^="checklist-"] input[type="checkbox"] {
+  transform: scale(1.3);
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+/* Optional: Add hover effect */
+ul[id^="checklist-"] li:hover {
+  background-color: #f7f7f7;
+  border-radius: 4px;
+  padding-left: 5px;
+}

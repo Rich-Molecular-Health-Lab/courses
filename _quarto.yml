@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Courses with Dr. Rich at UNO"
+  favicon: images/logo_richlab.png
+  base_url: https://rich-molecular-health-lab.github.io/courses
+  description: |
+    Courses at UNO taught by Dr. Alicia Rich
+  output_dir: "docs"
+  navbar:
+    class: "navbar navbar-expand-lg bg-dark"
+    data-bs-theme: "dark"
+    logo: images/logo_richlab.png
+    logo-href: https://rich-molecular-health-lab.github.io
+    logo-alt: "Rich Lab Website"
+    left:
+      - href: index.qmd
+        text: All Courses
+      - text: Fall 2025
+        menu:
+          - text: "Conservation Biology"
+            - conbio_25f.qmd
+          - text: "Health & the Environment"
+            - hhe_25f.qmd
+      - text: Spring 2026
+        menu:
+          - text: "Conservation Biology"
+            - href: conbio_26s.qmd
+          - text: "Zoo Biology"
+            - href: zoobio_26s.qmd
+
+format:
+  html:
+    theme:
+      - lux
+    css: styles/lux.css
+    toc: true
+
+editor: source
+
