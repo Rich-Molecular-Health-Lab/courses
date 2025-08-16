@@ -1,11 +1,15 @@
 ---
-title: "courses"
+title: "UNO Classes with Dr. Rich"
+execute:
+  echo: false
 ---
 
-This is a Quarto website.
+```{r setup, include=FALSE}
+here::i_am("index.qmd")
+source(here("_common.R"))
+```
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+imap(course_info, \(x, idx) course_card(x, idx))
 ```

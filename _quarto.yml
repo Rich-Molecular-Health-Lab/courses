@@ -1,5 +1,8 @@
 project:
   type: website
+date: now
+execute-dir: project
+date-format: full
 
 website:
   title: "Courses with Dr. Rich at UNO"
@@ -36,6 +39,11 @@ format:
       - lux
     css: styles/lux.css
     toc: true
+    code-links: repo
+    embed-resources: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 editor: source
 
