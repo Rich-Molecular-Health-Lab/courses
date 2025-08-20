@@ -1,0 +1,207 @@
+---
+title: "Schedule Management"
+format: html
+params:
+  course: "conbio_25f"
+---
+
+```{r setup, include = FALSE}
+
+here::i_am("schedules/schedule_management.qmd")
+source(here::here("_common.R"))
+library(reactable)
+library(reactablefmtr)
+library(tippy)
+source(here("helpers/course_list.R"))
+source(here("helpers/agenda_helpers.R"))
+
+semester     <- str_extract(params$course, "(?<=_)\\d{2}\\w")
+course_short <- str_extract(params$course, "\\w+(?=_)")
+```
+
+```{r}
+#| context: data
+#| 
+source(here("helpers/semesters.R"))
+source(here(paste0(semester, "/", course_short, "/topics.R")))
+source(here(paste0(semester, "/", course_short, "/schedule_detail.R")))
+blank_schedule <- semester_days(params$course)
+```
+
+
+```{r}
+topics_revised <- revise_topics(topics, discarded)
+topics_flat    <- flatten_topics(topics_revised)
+
+schedule_draft <- map_topics(topics_flat, topics_nested, blank_schedule)
+schedule <- enframe_schedule(schedule_draft, assignments, locations, params$course)
+```
+
+```{r}
+weekly_schedule <- select(
+  schedule,
+  week,
+  theme,
+  title
+) %>%
+  summarize(
+    theme   = str_flatten_comma(unique(theme)),
+    title   = str_flatten_comma(unique(title)),
+    .by = "week"
+  ) %>%
+  mutate(
+    theme = case_when(
+      theme == "Other" & str_detect(title, "EXAM") ~ "Exam",
+      theme == "Other" & !str_detect(title, "EXAM") & str_detect(title, "Film") ~ lag(theme),
+      .default = theme
+    )
+  )
+
+daily_schedule <- schedule %>%
+  mutate(date = as_date(date)) %>%
+  select(
+    week,
+    date,
+    location,
+    reading,
+    agenda = topic,
+    assignment
+)
+
+tooltips <- list(
+  assignments = tippy(
+        "Turn in",
+        "You will receive completion credit for in-class exercises at the end of that class and do not need to complete any extra work ahead of class. Keep in mind that I will not offer makeup opportunities for in-class activities, and these dates may change without advance notice. Other assignments are due on Canvas by 4 PM on the day listed."
+      ),
+  reading = tippy(
+        "Reading",
+        "You should have read the assigned textbook section(s) before the start of that class. I may give a short preparation quiz at the start of class related to material from that day's assigned reading."
+      ),
+  location = tippy(
+        "Location",
+        "Alternative locations (e.g., field trips, computer labs) are tentative until confirmed the week before."
+      )
+)
+
+location_font <- function(location, course) {
+  location_default <- pluck(course_info, course, "location")
+  location_exam    <- pluck(course_info, course, "location_assigned")
+  style_defaults <- "font-variant:small-caps"
+  
+  if (location == location_default) {
+    style_spec <- "font-size:12px; font-weight:lighter; color:gray"
+    
+  } else {
+    style_spec <- "font-size:15px; font-weight:bold"
+  }
+
+  display <-  div(
+      style = paste(style_defaults, style_spec, sep = ";"),
+      location
+    )
+  
+  return(display)
+}
+```
+
+
+```{r}
+week_cell <- function(data, value, index) {
+  theme <- data$theme[index]
+  display <- tippy(value, paste("Theme: ", theme))
+  return(display)
+}
+
+row_color <- function(data, index) {
+  theme <- data$theme[index]
+  shade <- if (str_detect(theme, "Foundations")) "#1D457FFF" else if (str_detect(theme, "Threats")) "#61599DFF" else if (str_detect(theme, "Approaches")) "#C36377FF" else "#F2AF4AFF"
+
+  return(paste0("display:flex; flex-flow:row nowrap; justify-content:center; align-items:center; margin:0px; padding:1px; border-left:6px solid", shade))
+}
+
+
+date_pill <- function(value) {
+  day <- wday(value, label = TRUE, abbr = TRUE)
+  date <- as.character(paste0(month(value), "/", mday(value)))
+  button_style <- paste0("margin:5px; font-variant:small-caps; font-size:12px; text-align:center; font-weight:bold; border:1px solid black; border-radius:45%; padding:5px; color:white; background-color:", if (day %in% c("Mon", "Tue")) "#3B7C70FF" else if (day %in% c("Wed", "Thu")) "#CE9642FF" else "#898E9FFF")
+  cell_style <- "display:flex; flex-flow:row wrap; justify-content:space-between; align-items:center"
+  
+ display <- div(
+   style = cell_style, 
+   tags$button(style = button_style, str_sub(day, 1L, 1L)), 
+   span(date)
+   )
+ return(display)
+}
+
+daily_reactable <- function(daily) {
+  header_css <- "font-variant:small-caps; font-size:12px; color:gray"
+  div(
+    style = "margin:5px 10px 10px 20px; padding:20px",
+    reactable(
+      daily, 
+      highlight = TRUE,
+      columns = list(
+    week  = colDef(show = FALSE),
+    date  = colDef(
+      headerStyle = header_css,
+      name        = "Day", 
+      maxWidth    = 90, 
+      sticky      = "left", 
+      align       = "left",
+      cell        = function(value) { date_pill(value) }
+      ),
+    location = colDef(
+      headerStyle = header_css,
+      header      = tooltips$location,
+      maxWidth    = 90, 
+      vAlign      = "center",
+      cell        = function(value) { location_font(value, params$course) }
+    ),
+    agenda     = colDef(
+      headerStyle = header_css,
+      vAlign      = "center", 
+      name        = "Agenda",
+      minWidth    = 300
+      ),
+    reading    = colDef(
+      headerStyle = header_css,
+      vAlign      = "center", 
+      header      = tooltips$reading
+      ),
+    assignment = colDef(
+      headerStyle = header_css,
+      vAlign      = "center", 
+      header      = tooltips$assignment
+      )
+    )
+      )
+    )
+}
+
+schedule_display <- reactable(
+  weekly_schedule,
+  highlight = TRUE,
+  columns = list(
+    theme = colDef(show = FALSE),
+    week  = colDef(
+      name = "Week", maxWidth = 50, 
+      align = "left",
+      headerStyle = "font-variant:small-caps; font-size:13px",
+      style = "font-family:monospace; font-weight:bold",
+      details = function(index) {
+        daily <- filter(daily_schedule, week == weekly_schedule$week[index])
+        daily_reactable(daily)
+    }
+      ),
+    title = colDef(
+      headerStyle = "font-variant:small-caps; font-size:14px",
+      name = "Chapter", minWidth = 300, 
+      style = "font-variant:small-caps")
+    ),
+  rowStyle = function(index) {
+    row_color(weekly_schedule, index)
+  }
+)
+```
+

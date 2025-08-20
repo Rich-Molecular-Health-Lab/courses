@@ -34,7 +34,7 @@ card_template <- function(name_role,
     card_header(tags$h3(name_role)),
     card_body(
       tags$div(layout_columns(col_widths = c(2, 10),
-                              card_image(file = paste0("images/", photo), border_radius = "all", width = "100%"),
+                              card_image(file = here::here(paste0("images/", photo)), border_radius = "all", width = "100%"),
                               tags$div(education,
                                        tags$div(tags$span(
                                          tags$small(tags$b("Pronouns: "), tags$i(pronouns), tags$br(),
@@ -75,4 +75,81 @@ course_card <- function(course_info, file_prefix) {
       )
     )
     )
+}
+
+li_cols <- function(
+    item_content,
+    lead_text,
+    layout,
+    col_widths = c(4, 8),
+    justify    = "between",
+    align      = "center") {
+  if (layout == "flex") {
+    withTags(
+      li(
+        class = paste0("list-group-item d-flex justify-content-", justify, " align-items-", align),
+        span(h6(class="text-body-secondary", lead_text)),
+        item_content
+      )
+    )
+  } else if (layout == "bscols") {
+    withTags(
+      li(
+        class = "list-group-item",
+        bscols(
+          widths = col_widths,
+          h6(class="text-body-secondary", lead_text),
+          item_content
+        )
+      )
+    )
+  }
+}
+
+ul_group <- function(list_lead = NULL, layout, item_list, col_widths = c(4, 8), justify = "between", align = "center") {
+  if (!is.null(list_lead)) {
+    withTags(
+      ul(
+        class = "list-group",
+        li(
+          class = "list-group-item d-flex",
+          h6(list_lead)
+        ),
+        imap(item_list, \(x, idx) li_cols(x, idx, layout, col_widths, justify, align))
+      )
+    )
+  } else {
+    withTags(
+      ul(
+        class = "list-group",
+        imap(item_list, \(x, idx) li_cols(x, idx, layout, col_widths, justify, align))
+      )
+    )
+  }
+
+}
+
+content_card <- function(title_text, subtitle_text, body, footer_text, card_class, heading, icon_name) {
+    card(
+      class = paste0("card border-", card_class, " mb-3"),
+      card_header(
+        class = paste0("card-header text-white bg-", card_class),
+        span(shiny::icon(name = icon_name, class = "fa-solid")),
+        span(strong(heading))
+      ),
+      card_title(
+        class = "card-title mb-1",
+        h4(title_text),
+        h6(
+          class = "card-subtitle text-muted",
+          subtitle_text
+        )
+      ),
+      card_body(body),
+      card_footer(
+        class = "text-warning-emphasis",
+        p(footer_text)
+      )
+    )
+
 }

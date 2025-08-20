@@ -7,11 +7,13 @@ library(here)
 library(bslib)
 library(crosstalk)
 library(shiny)
-source(here("helpers/card_templates.R"))
-source(here("helpers/course_list.R"))
+library(gt)
+library(gtExtras)
+source(here("helpers/common_helpers.R"))
 knitr::opts_chunk$set(message = FALSE,
                       warning = FALSE,
-                      include = FALSE,
+                      include = TRUE,
+                      echo    = FALSE,
                       eval    = TRUE,
                       comment = "")
 conflicts_prefer(dplyr::filter)
@@ -19,3 +21,4 @@ conflicts_prefer(DT::dataTableOutput)
 conflicts_prefer(DT::renderDataTable)
 conflicts_prefer(readr::col_factor)
 conflicts_prefer(purrr::discard)
+conflicts_prefer(dplyr::lag)

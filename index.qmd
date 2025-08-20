@@ -1,12 +1,12 @@
 ---
-title: "UNO Classes with Dr. Rich"
+title: "Course Summaries"
 execute:
   echo: false
 ---
 
 ```{r setup, include=FALSE}
 here::i_am("index.qmd")
-source(here("_common.R"))
+source(here::here("_common.R"))
 ```
 
 

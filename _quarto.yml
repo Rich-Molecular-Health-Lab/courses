@@ -1,16 +1,12 @@
 project:
   type: website
-date: now
-execute-dir: project
-date-format: full
-
+  output-dir: "docs"
+  execute-dir: project
 website:
   title: "Courses with Dr. Rich at UNO"
   favicon: images/logo_richlab.png
-  base_url: https://rich-molecular-health-lab.github.io/courses
   description: |
     Courses at UNO taught by Dr. Alicia Rich
-  output_dir: "docs"
   navbar:
     class: "navbar navbar-expand-lg bg-dark"
     data-bs-theme: "dark"
@@ -20,19 +16,12 @@ website:
     left:
       - href: index.qmd
         text: All Courses
-      - text: Fall 2025
+      - text: Syllabi
         menu:
-          - text: "Conservation Biology"
-            - conbio_25f.qmd
-          - text: "Health & the Environment"
-            - hhe_25f.qmd
-      - text: Spring 2026
-        menu:
-          - text: "Conservation Biology"
-            - href: conbio_26s.qmd
-          - text: "Zoo Biology"
-            - href: zoobio_26s.qmd
-
+          - text: Conservation Biology
+            href: 25f/conbio/syllabus_conbio25f.qmd
+          - text: Health & the Environment
+            href: 25f/hhe/syllabus_hhe25f.qmd
 format:
   html:
     theme:
@@ -44,6 +33,5 @@ format:
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true
-
 editor: source
 
