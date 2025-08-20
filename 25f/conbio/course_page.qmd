@@ -1,0 +1,26 @@
+---
+title: "Conservation Biology - Fall 2025"
+format: html
+params:
+  course: "conbio_25f"
+---
+
+```{r setup, include = FALSE}
+
+here::i_am("25f/conbio/course_page.qmd")
+source(here::here("_common.R"))
+library(reactable)
+library(reactablefmtr)
+library(tippy)
+source(here("helpers/course_list.R"))
+source(here("helpers/agenda_helpers.R"))
+source(here("schedules/schedule_reactable.R"))
+
+load(here("25f/conbio/schedule.RData"))
+
+```
+
+```{r}
+schedule_reactable(schedule)
+```
+

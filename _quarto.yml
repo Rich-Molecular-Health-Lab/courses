@@ -10,23 +10,27 @@ website:
   navbar:
     class: "navbar navbar-expand-lg bg-dark"
     data-bs-theme: "dark"
-    logo: images/logo_richlab.png
-    logo-href: https://rich-molecular-health-lab.github.io
     logo-alt: "Rich Lab Website"
     left:
       - href: index.qmd
-        text: All Courses
-      - text: Syllabi
+        text: Overview
+      - text: Course Info
         menu:
           - text: Conservation Biology
-            href: 25f/conbio/syllabus_conbio25f.qmd
+            href: "25f/conbio/course_page.qmd"
           - text: Health & the Environment
-            href: 25f/hhe/syllabus_hhe25f.qmd
 format:
   html:
     theme:
       - lux
-    css: styles/lux.css
+    css:
+      - styles/lux.css
+      - styles/fonts.css
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&family=Cabin+Condensed:wght@400;500;600;700&family=Yaldevi:wght@200..700&display=swap" rel="stylesheet">
     toc: true
     code-links: repo
     embed-resources: true
