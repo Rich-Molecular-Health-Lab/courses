@@ -68,6 +68,27 @@ item_do_dont <- function(text, type, text_style = "font-size:13px; padding:5px",
     )
 }
 
+accordion_do_dont <- function(x, idx) {
+    accordion_panel(
+      idx,
+        div(
+          style = "display:grid; grid-template: auto / 50% 50%",
+          item_do_dont(
+            "Do", "do",
+            text_style = "font-size:15px; font-weight:bold; font-variant:small-caps",
+            justify = "justify-content-start"
+          ),
+          item_do_dont(
+            "Don't", "dont",
+            text_style = "font-size:15px; font-weight:bold; font-variant:small-caps",
+            justify = "justify-content-start"
+          ),
+          imap(list_flatten(x, name_spec = "{inner}"), \(y, idy) item_do_dont(y, idy))
+        )
+    )
+}
+
+
 
 list_do_dont <- function(x, idx) {
   withTags(
@@ -102,10 +123,11 @@ list_do_dont <- function(x, idx) {
 class_culture <- function(value_list) {
   withTags(
     card(
-      class = "card bg-light mb-1",
+      class = "card bg-light mb-3",
       card_header(h6("The following three values form the foundation of my classroom culture and expectations:")),
-      card_body(
-        imap(value_list, \(x, idx) list_do_dont(x, idx))
+      accordion(
+        imap(value_list, \(x, idx) accordion_do_dont(x, idx)),
+        open = FALSE
       )
     )
   )
@@ -163,114 +185,6 @@ quiz_rubric <- function() {
 
 }
 
-instructor_card <- function() {
-  withTags(
-    card(
-      class = "card border-secondary mb-3",
-      card_header(
-        h3(
-          "Course Instructor - ",
-          span(class = "text-body-secondary", "Alicia M. Rich, Ph.D."),
-        ),
-        h6(
-          class = "text-body-secondary",
-          span("Assistant Professor - ", span(class = "text-body-tertiary",em("Biology & Environmental Science")))
-        ),
-        h6(
-          class = "text-body-secondary",
-          span("Principal Investigator - ", span(class = "text-body-tertiary", em("Rich Lab for Molecular Health")))
-        )
-      ),
-      card_body(
-        bscols(
-          widths = c(3, 9),
-          card_image(file = here("images/headshot_rich.png")),
-          ul(
-            class = "list-group",
-            li(
-              class="list-group-item d-flex justify-content-between align-items-start",
-              span(h6(class="text-body-secondary", "Please call me: ")),
-              "Dr. Rich or Professor Rich ",
-              span(em(class = "text-body-tertiary", "(she/her)"))
-            ),
-            li(
-              class="list-group-item d-flex justify-content-between align-items-start",
-              span(h6(class="text-body-secondary", "Find me in: ")),
-              span("Allwine Hall 413", span(em(class = "text-body-tertiary", "(Office)")), ", 501b", span(em(class = "text-body-tertiary", "(Lab)")))
-            ),
-            li(
-              class="list-group-item d-flex justify-content-between align-items-start",
-              span(h6(class="text-body-secondary", "Office Hours: ")),
-              span(em("By appointment "), "Thur 12-2, Fri 1-3")
-            ),
-            li(
-              class="list-group-item d-flex justify-content-between align-items-start",
-              span(h6(class="text-body-secondary", "Remote Meetings: ")),
-              span(a(href = "https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu", "Video or direct message via Zoom"))
-            ),
-            li(
-              class="list-group-item d-flex justify-content-between align-items-start",
-              span(h6(class="text-body-secondary", "Email me at: ")),
-              span(a(href = "mailto:aliciarich@unomaha.edu", "aliciarich@unomaha.edu"))
-            )
-          )
-        )
-      ),
-      card_footer(
-        class = "text-body-secondary",
-        p("I will be reachable via Zoom during office hours, or you may email me at least 1 business day in advance to arrange an in-person meeting."),
-        p("I do not schedule student meetings outside regular workday hours (M-F, 9-5), so please do not ask me to meet with you in the evenings or on weekends."),
-        p(span(b("I do not use Canvas messages")), ", so please only contact me via email. You can expect a response within 2 business days, ", span(b("but I do not monitor my email during evenings or on the weekends.")), "If you are still waiting for a response after three business days, please reach out again.")
-      ),
-      card_footer(card_image(file = here("graphics/comics/prof_door.png")))
-    )
-  )
-}
-
-accommodations <- function() {
-  body <- div(
-    p(
-      "The University of Nebraska at Omaha is committed to providing reasonable accommodations for all persons with disabilities. This syllabus is available in alternate formats upon request. Reasonable accommodations are offered to students who are registered with the ",
-      span(tags$a(href = "https://www.unomaha.edu/student-life/accessibility/student-services.php", "Accessibility Services Center (ASC)."))
-    ),
-    ul_group(
-        layout    = "flex",
-        item_list = list(
-          "For more information: " = card_image(
-              here("images/button_asc.png"),
-              width = "300px",
-              href = "https://www.unomaha.edu/student-life/accessibility/index.php"
-            ),
-          "Location: " = "104 H&K",
-          "Phone: "    = "402.554.2872",
-          "Email: "    = span(tags$a(href = "mailto:unoaccessibility@unomaha.edu", "unoaccessibility@unomaha.edu"))
-        ),
-        align  = "start"
-    ),
-    p(
-      class = "text-body",
-      "I do my best to integrate a reasonable and universal degree of flexibility into our schedule and assessment plan to accommodate some work/life balance while also ensuring equity and reasonable progress in your learning. I am happy to receive requests and recommendations to help me update and improve this approach for everyone, but I will only create personalized accommodations by working directly with the ASC."
-      ),
-    p(
-      class = "text-body-tertiary",
-      style = "font-size:13px",
-      tags$em("Note: Please do not provide me with any personal or medical details to explain your barriers to attendance or assignment completion. While I do care about accommodating these issues when they arise,",
-      span(tags$b("I also care about your privacy and respect that office's expertise in managing the conditions and complications that are outside of my purview.")))
-    )
-  )
-  result <- content_card(
-    title_text    = "Accessibility Services Center",
-    subtitle_text = "The Accessibility Services Center (ASC) collaborates with students, administrators, faculty, and staff to ensure access to reasonable and appropriate student disability accommodations.",
-    body          = tagList(body),
-    footer_text   = "I genuinely appreciate opportunities to work with and around student barriers by collaborating with the ASC. If you know that you are coming into the semester with learning barriers (e.g., neurodivergence, visual/auditory processing differences), I strongly encourage you to register this with their office and then communicate with me about the ways I can work this into my approach from the beginning.",
-    card_class    = "danger",
-    heading       = "Accommodations",
-    icon_name     = "users"
-  )
-  return(result)
-
-}
-
 attendance <- function() {
   body <- div(
     h6("In-class, low-stakes graded assessments may or may not be announced in advance throughout the semester."),
@@ -297,90 +211,6 @@ attendance <- function() {
     icon_name     = "person-chalkboard"
   )
   return(result)
-}
-
-
-
-exam_format <- function(course) {
-  withTags(
-    card(
-      class = "card border-info mb-3",
-      card_header(
-        class = "card-header text-white bg-info",
-        span(icon("circle-info", class = "fa-solid")),
-        span(strong("Format Details"))
-      ),
-      card_body(
-        class = "card-text",
-        h5(paste0("You will take ", length(pluck(assessment, course, "exams")), " synchronous, written exams this semester.")),
-        bscols(
-          widths = c(8, 4),
-          p(
-            "You may reference any materials you wish during the exam (e.g., notes, text), but ",
-            span(b("electronic devices are not permitted. ")),
-            "That means you should plan ahead to bring a hard-copy version of any materials you plan to use."
-          ),
-            ul(
-              class = "list-group",
-              li(
-                class="list-group-item d-flex justify-content-between align-items-center",
-                h6("General Exam Format:")
-              ),
-              li(
-                class="list-group-item d-flex justify-content-between align-items-center",
-                span(h6(class="text-body-secondary", "50%")),
-                "Multiple Choice"
-              ),
-              li(
-                class="list-group-item d-flex justify-content-between align-items-center",
-                span(h6(class="text-body-secondary", "10%")),
-                "True/False"
-              ),
-              li(
-                class="list-group-item d-flex justify-content-between align-items-center",
-                span(h6(class="text-body-secondary", "40%")),
-                "Short Essay*"
-              )
-            ),
-          p(
-            "You are soley responsible for exam preparation and compilation of materials. That means you should not only attend class every day, but ",
-            span(b("also take down clear and organized notes ")),
-            "for your exams. I may or may not provide access to lecture slides, ",
-            span(b("so you should rely entirely on my slides as your notes."))
-          ),
-            small(
-              class = "text-tertiary",
-              "*In most cases, you will answer ~2-3 total short essay questions, but I provide a choice of at least two prompts for each."
-            )
-        )
-      )
-    )
-  )
-}
-
-missed_exams <- function() {
-  withTags(
-    card(
-      class = "card border-warning mb-3",
-      card_header(
-        class = "card-header text-white bg-warning",
-        span(icon("circle-exclamation", class = "fa-solid")),
-        span(strong("Important Note"))
-      ),
-      card_body(
-        class = "card-text",
-        h5("All course exams follow a traditional, in-person, synchronous format."),
-        p(
-          "Most of the course schedule may change significantly as we progress. As a result, the content covered in each exam may change accordingly, but ",
-          span(b("I will keep to the exam dates and times that I set at the beginning of the semester. ")),
-        )
-      ),
-      card_footer(
-        class = "text-warning-emphasis",
-        "You should mark those dates and times on your calendar now, because I will only offer makeup opportunities under extenuating circumstances that the Accessibility Services Center communicates directly to me."
-      )
-    )
-  )
 }
 
 
@@ -452,7 +282,217 @@ plagiarism <- function() {
 
 }
 
+accommodations <- function() {
+  body <- div(
+    p(
+      "The University of Nebraska at Omaha is committed to providing reasonable accommodations for all persons with disabilities. This syllabus is available in alternate formats upon request. Reasonable accommodations are offered to students who are registered with the ",
+      span(tags$a(href = "https://www.unomaha.edu/student-life/accessibility/student-services.php", "Accessibility Services Center (ASC)."))
+    ),
+    div(
+      style = "padding:10px",
+      ul_group(
+        layout    = "grid",
+        item_list = list(
+          "For more information: " = card_image(
+            here("images/button_asc.png"),
+            width = "200px",
+            href = "https://www.unomaha.edu/student-life/accessibility/index.php"
+          ),
+          "Location: " = "104 H&K",
+          "Phone: "    = "402.554.2872",
+          "Email: "    = span(tags$a(href = "mailto:unoaccessibility@unomaha.edu", "unoaccessibility@unomaha.edu"))
+        ),
+        align   = "start",
+        justify = "evenly"
+      )
+    ),
+    p(
+      class = "text-body",
+      "I do my best to integrate a reasonable and universal degree of flexibility into our schedule and assessment plan to accommodate some work/life balance while also ensuring equity and reasonable progress in your learning. I am happy to receive requests and recommendations to help me update and improve this approach for everyone, but I will only create personalized accommodations by working directly with the ASC."
+    ),
+    p(
+      class = "text-body-tertiary",
+      style = "font-size:13px",
+      tags$em("Note: Please do not provide me with any personal or medical details to explain your barriers to attendance or assignment completion. While I do care about accommodating these issues when they arise,",
+              span(tags$b("I also care about your privacy and respect that office's expertise in managing the conditions and complications that are outside of my purview.")))
+    )
+  )
+  result <- content_card(
+    title_text    = "Accessibility Services Center",
+    subtitle_text = "The Accessibility Services Center (ASC) collaborates with students, administrators, faculty, and staff to ensure access to reasonable and appropriate student disability accommodations.",
+    body          = tagList(body),
+    footer_text   = "I genuinely appreciate opportunities to work with and around student barriers by collaborating with the ASC. If you know that you are coming into the semester with learning barriers (e.g., neurodivergence, visual/auditory processing differences), I strongly encourage you to register this with their office and then communicate with me about the ways I can work this into my approach from the beginning.",
+    card_class    = "danger",
+    heading       = "Accommodations",
+    icon_name     = "users"
+  )
+  return(result)
 
+}
 
+instructor_card <- function() {
+  body <- ul_group(
+        layout    = "grid",
+        item_list = list(
+          "Please call me:"   = "Dr. Rich or Professor Rich (she/her)",
+          "Find me in:"       = "Allwine Hall 413",
+          "Office Hours:"     = "By appointment Thur 12-2 or Fri 1-3",
+          "Remote Meetings:"  = tags$a(href = "https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu", "Video or direct message via Zoom"),
+          "Contact me via:"   = tags$a(href = "mailto:aliciarich@unomaha.edu", "aliciarich@unomaha.edu")
+        )
+      )
+  content_card(
+    title_text    = "Alicia M. Rich, Ph.D.",
+    subtitle_text = "Assistant Professor of Biology & Environmental Science",
+    body          = tagList(body),
+    footer_text   = div(
+      p("I will be reachable via Zoom during office hours, or you may email me at least 1 business day in advance to arrange an in-person meeting."),
+      p(
+        span(tags$strong("Please use email and not canvas messages for communication.")),
+        "You can expect a response within 2 business days, ",
+        span(tags$strong("but I do not monitor my work email during evenings or on the weekends."))
+      )
+    ),
+    card_class    = "info",
+    heading       = "Course Instructor",
+    icon_name     = "user",
+    image         = card_image(file = here("images/headshot_rich.png"), width = "200px")
+  )
+}
 
+exam_format <- function(course) {
+  body <- div(
+    ul_group(
+      list_lead = "General Exam Format:",
+      layout    = "grid",
+      item_list = list(
+        "Multiple Choice" = "50%",
+        "True/False"      = "10%",
+        "Short Essay*"    = "40%"
+      )
+    ),
+    p(
+      "You are soley responsible for exam preparation and compilation of materials. That means you should not only attend class every day, but ",
+      span(tags$strong("also take down clear and organized notes ")),
+      "for your exams. I may or may not provide access to lecture slides, ",
+      span(tags$strong("so you should rely entirely on my slides as your notes."))
+    )
+  )
+
+  display <- content_card(
+    title_text    = paste0("You will take ", length(pluck(assessment, course, "exams")), " synchronous, written exams this semester."),
+    subtitle_text = span(
+      "You may reference any materials you wish during the exam (e.g., notes, text), but ",
+      span(tags$strong("electronic devices are not permitted. ")),
+      "That means you should plan ahead to bring a hard-copy version of any materials you plan to use."
+    ),
+    body          = tagList(body),
+    footer_text   = "*In most cases, you will answer ~2-3 total short essay questions, but I provide a choice of at least two prompts for each.",
+    card_class    = "info",
+    heading       = "Exam Details",
+    icon_name     = "pen-to-square"
+  )
+  return(display)
+}
+
+missed_exams <- function() {
+
+  content_card(
+    title_text    = "Exam Policy",
+    subtitle_text = "All course exams follow a traditional, in-person, synchronous format.",
+    body          = p(
+        "Most of the course schedule may change significantly as we progress. As a result, the content covered in each exam may change accordingly, but ",
+        span(tags$strong("I will keep to the exam dates and times that I set at the beginning of the semester.")),
+      ),
+    footer_text   = "You should mark those dates and times on your calendar now, because I will only offer makeup opportunities under extenuating circumstances that the Accessibility Services Center communicates directly to me.",
+    card_class    = "danger",
+    heading       = "Note",
+    icon_name     = "circle-exclamation"
+  )
+}
+
+titleix <- function() {
+  content_card(
+    title_text    = "Title IX Sexual Misconduct",
+    subtitle_text = "As your instructor, one of my responsibilities is to help create a safe learning environment on our campus.",
+    body          = div(
+      p("Title IX and our Sexual Misconduct policy prohibit sexual misconduct.  If you have experienced sexual misconduct or know someone who has, the University can help."),
+      p(
+        tags$a(
+          href = "https://www.unomaha.edu/university-compliance/civil-rights/title-ix-information/index.php",
+          "I encourage you to visit the Title IX website to learn more."
+          ),
+        tags$a(
+          href = "https://www.unomaha.edu/student-life/wellness/counseling-and-psychological-services/index.php",
+          "If you seek help and want to speak to someone confidentially, you can contact the Counseling and Psychological Services (CAPS)."
+          )
+        )
+    ),
+    footer_text   = "It is also crucial that you know that federal regulations and University policy require me to promptly convey any information about potential sexual misconduct known to me to UNO’s Title IX Coordinator. In that event, they will work with a few others on campus to ensure appropriate measures are taken, and resources are available to the student who may have been harmed.  Protecting a student’s privacy is of utmost concern, and all involved will only share information with those who need to know to ensure the University can respond and assist.",
+    card_class    = "warning",
+    heading       = "University Policies",
+    icon_name     = "landmark-flag"
+  )
+}
+
+inclusion_office <- function() {
+  content_card(
+    title_text    = "Office of Student Leadership, Involvement, and Inclusion",
+    subtitle_text = "The university's former Gender and Sexuality Resource Center has been reorganized to form a more intersectional program.",
+    body          = "This office is meant as a space for students to learn from each other, build relationships, and foster an environment of understanding and respect. If you are interested in contributing to or benefiting from their work to make UNO a more inclusive environment or you find yourself in need of support and resources, I recommend you start with a visit to their office.",
+    footer_text   = tags$a(
+      href = "https://www.unomaha.edu/office-of-student-leadership-involvement-and-inclusion/",
+      "You can find them in rooms 112 and 113 of the Milo Bail Student Center or online."
+      ),
+    card_class    = "info",
+    heading       = "University Resources",
+    icon_name     = "handshake"
+  )
+}
+
+prep_quizzes <- function() {
+  content_card(
+    title_text    = "Preparation Quizzes",
+    subtitle_text = "We will begin some of our classes with a short assessment of your preparation for that week's materials.",
+    body          = div(
+      p("These quizzes will only serve as an incentive to ensure widespread accountability for engaging with our discussions and keeping up with the assigned background material. I will ask 1-2 questions that require you to provide a surface-level reflection on some component of the assigned material in no more than 1-3 sentences."),
+      accordion(
+        accordion_panel(
+          "Quiz Rubric",
+          quiz_rubric()
+        ),
+        open = FALSE
+      )
+    ),
+    footer_text   = "Please arrive to each class on time, having completed the assigned background material for that week and brought a writing utencil. If you arrrive after a quiz is over, I will not interrupt the class to give you the quiz, and I will not let you take the quiz after recieving additional information that the others did not access before taking theirs.",
+    card_class    = "info",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
+  )
+}
+
+activities <- function() {
+  content_card(
+    title_text    = "In-Class Activities",
+    subtitle_text = "Some classes may include group-based exercises or other graded work.",
+    body          = "You will submit your work at the end of class for completion credit. I may or may not give advance notice for graded, in-class activities.",
+    footer_text   = "You will not have any makeup opportunities for missed work, but I will drop at least one of your lowest scores.",
+    card_class    = "info",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
+  )
+}
+
+late_work <- function() {
+  content_card(
+    title_text    = "Late Submissions",
+    subtitle_text = "While I prefer to implement as flexible a deadline policy as possible, I also have to maintain reasonable processing times for assessing every student's submissions and submitting grades.",
+    body          = p(span(tags$strong("To incentivize timely submissions, I will deduct 10% from the final grade on any assignment submitted after the deadline.")), "I will not accept any work from the first half of the semester submitted after our Midterm Exam, and I will not accept any work from the second half of the semester submitted after 5:00 PM on the last Friday of classes (i.e., the Friday before final exams begin). Unless Accessibility Services reaches out to discuss extremely extenuating circumstances with me, I will not make any exceptions to grade your work after the Final Exam."),
+    footer_text   = "If you have arranged formal accommodation requests through Accessibility Services for your assignment deadlines (see above), then I will be happy to honor those to my full ability. Please do not hesitate to remind me if that is the case and I inadvertently apply any late penalties to a grade.",
+    card_class    = "secondary",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
+
+  )
+}
 

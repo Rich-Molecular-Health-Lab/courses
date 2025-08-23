@@ -10,6 +10,13 @@ library(shiny)
 library(gt)
 library(gtExtras)
 source(here("helpers/common_helpers.R"))
+source(here("helpers/semesters.R"))
+source(here("helpers/course_list.R"))
+source(here("helpers/agenda_helpers.R"))
+source(here("helpers/card_templates.R"))
+source(here("helpers/syllabus_helpers.R"))
+source(here("helpers/syllabus_defaults.R"))
+source(here("helpers/syllabus_table_functions.R"))
 knitr::opts_chunk$set(message = FALSE,
                       warning = FALSE,
                       include = TRUE,
@@ -22,3 +29,4 @@ conflicts_prefer(DT::renderDataTable)
 conflicts_prefer(readr::col_factor)
 conflicts_prefer(purrr::discard)
 conflicts_prefer(dplyr::lag)
+conflicts_prefer(gt::google_font)

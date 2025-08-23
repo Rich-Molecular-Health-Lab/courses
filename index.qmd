@@ -1,15 +1,20 @@
 ---
-title: "Course Summaries"
-execute:
-  echo: false
+title: "Welcome"
 ---
 
-```{r setup, include=FALSE}
-here::i_am("index.qmd")
-source(here::here("_common.R"))
-```
+On this site you can find the most up to date syllabi and schedules for any courses I am currently teaching at UNO. Please check back often, as I will update the schedules as needed.[^1]
 
 
-```{r}
-imap(course_info, \(x, idx) course_card(x, idx))
-```
+## Current Courses (Fall 2025)
+
+- **Conservation Biology** *(BIOL-4120/BIOL-8126)*
+  - [Syllabus](syllabus_conbio.qmd)
+  - [Schedule](schedule_conbio.qmd)
+
+
+- **Human Health & the Environment** *(ENVN-4320/BIOL-4030)*
+  - [Syllabus](syllabus_hhe.qmd)
+  - [Schedule](schedule_hhe.qmd)
+
+
+[^1]: The information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.

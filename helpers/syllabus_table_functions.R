@@ -91,7 +91,7 @@ resources <- function(course) {
       Comment
       ) %>%
     gt(rowname_col = "Image") %>%
-    tab_options(column_labels.hidden = TRUE) %>%
+    rm_header() %>%
     fmt_image(columns = stub()) %>%
     fmt_url(columns = "Link", label = from_column("Resource")) %>%
     cols_hide("Resource") %>%
@@ -110,7 +110,7 @@ resources <- function(course) {
                 align  = "left",
                 weight = "bolder")),
       locations = cells_title()) %>%
-    cols_width(stub()   ~ px(50),
+    cols_width(stub()   ~ px(100),
                Link     ~ px(300),
                Comment  ~ px(400))
 }
@@ -124,29 +124,16 @@ learning_outcomes <- function(course) {
       "Remember"   ~ "list-check",
       "Understand" ~ "lightbulb",
       "Apply"      ~ "wrench",
-      "Analyze"    ~ "magnifying-glass"
+      "Analyze"    ~ "chart-line",
+      "Evaluate"   ~ "bars",
+      "Critique"   ~ "pen-nib",
+      "Recognize"  ~ "eye",
+      "Summarize"  ~ "comment"
     )) %>%
     relocate(icon) %>%
     gt() %>%
-    cols_label(
-      icon    ~ "",
-      Level   ~ "Students will...",
-      Outcome ~ ""
-      ) %>%
     fmt_icon(columns = "icon") %>%
     opt_table_lines(extent = "none") %>%
-    tab_style(style = list(
-      cell_fill(color    = "#84697FFF"),
-      cell_text(style    = "oblique",
-                font     = google_font("Arsenal SC"),
-                color    = "#E8EADFFF",
-                weight   = "bolder"),
-      cell_borders(sides = c("top", "bottom"))),
-      locations = list(cells_column_labels())) %>%
-    tab_style(style = cell_text(align = "left"),
-              locations = cells_column_labels(columns = -c("icon"))) %>%
-    tab_style(style = cell_text(align = "right"),
-              locations = cells_column_labels(columns = "icon")) %>%
     tab_style(style = list(
       cell_fill(color    = "#84697F40"),
       cell_text(
@@ -172,7 +159,18 @@ learning_outcomes <- function(course) {
     ) %>%
     cols_width(icon          ~ px(50),
                Level         ~ px(150),
-               Outcome       ~ px(500))
+               Outcome       ~ px(500)) %>%
+    rm_header() %>%
+    tab_spanner(label = "Students will be able to...", columns = everything()) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697FFF"),
+      cell_text(style    = "oblique",
+                font     = google_font("Arsenal SC"),
+                color    = "#E8EADFFF",
+                weight   = "bolder",
+                align    = "left"),
+      cell_borders(sides = c("top", "bottom"))),
+      locations = list(cells_column_spanners()))
 }
 
 grade_breakdown <- function(course) {

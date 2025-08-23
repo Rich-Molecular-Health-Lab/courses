@@ -1,0 +1,22 @@
+---
+title: "Current Schedule"
+format: html
+params:
+  course: "conbio_25f"
+---
+
+```{r setup, include = FALSE}
+here::i_am("schedule_conbio.qmd")
+source(here::here("_common.R"))
+source(here("helpers/schedule_reactable.R"))
+```
+
+```{r data, include = FALSE}
+#| context: data
+
+load(here("25f/conbio/schedule.RData"))
+```
+
+```{r}
+schedule_reactable(params$course, schedule)
+```

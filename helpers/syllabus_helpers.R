@@ -21,70 +21,43 @@ resource_card <- function(course) {
 
   course_short <- str_extract(course, "\\w+(?=_)")
   if (course_short == "hhe") {
-   resources <-   withTags(
-        card(
-          class = "card text-white bg-primary mb-3",
-          card_header("Required Media"),
-          card_title(
-            h3(
-              textbooks[[course_short]][["title"]],
-              p(class = "card-subtitle text-muted",  "See course schedule for deadlines.")
-            )
-          ),
-          card_body(embed_resource(course)),
-          card_footer(
-            class = "text-secondary",
-            "Assigned listening may be subject to change at least 2 weeks ahead of the deadline."
-          )
-        )
-      )
-  } else if (course_short == "conbio") {
-    resources <-    withTags(
-        card(
-          class = "card text-white bg-primary mb-3",
-          card_header(h3("Required Text")),
-          card_body(
-            bscols(
-              widths = c(4, 8),
-              card_image(textbooks[[course_short]][["image"]]),
-              card_body(
-                h3(textbooks[[course_short]][["title"]]),
-                ul(
-                  class = "list-group",
-                  li(
-                    class="list-group-item list-group-item-primary d-flex justify-content-between align-items-start",
-                    span(h6(em("eText Available via Canvas IA-Bookshelf"))
-                  ),
-                  li(
-                    class="list-group-item list-group-item-primary d-flex justify-content-between align-items-start",
-                    span(h6(class="text-body-secondary", "Authors: ")),
-                    textbooks[[course_short]][["authors"]]
-                  ),
-                  li(
-                    class="list-group-item list-group-item-primary d-flex justify-content-between align-items-start",
-                    span(h6(class="text-body-secondary", "Edition: ")),
-                    span(
-                      textbooks[[course_short]][["edition"]],
-                      span(class = "text-body-tertiary", paste0(" (", textbooks[[course_short]][["date"]], ")"))
-                    )
-                  ),
-                  li(
-                    class="list-group-item list-group-item-primary d-flex justify-content-between align-items-start",
-                    span(h6(class="text-body-secondary", "ISBN: ")),
-                    textbooks[[course_short]][["isbn"]]
-                  )
-                )
-              )
-            )
-          )
-          ),
-          card_footer(
-            class = "card-footer text-light",
-            em("See course schedule for assigned chapters."),
-            em("If you prefer a hardcopy version then you must opt out of automatic purchase of the eBook through Canvas by the end of Week 2.")
-          )
-        )
+
+    resources <- content_card(
+      title_text    = textbooks[[course_short]][["title"]],
+      subtitle_text = "See course schedule for deadlines.",
+      body          = accordion(
+        accordion_panel(
+          "Access Spotify Playlist",
+          embed_resource(course)
+        ),
+        open = FALSE
+      ),
+      footer_text   = "Assigned listening may be subject to change at least 2 weeks ahead of the deadline.",
+      card_class    = "primary",
+      heading       = "Required Media",
+      icon_name     = "podcast"
     )
+
+  } else if (course_short == "conbio") {
+
+   resources <- content_card(
+      title_text    = textbooks[[course_short]][["title"]],
+      subtitle_text = "eText Available via Canvas IA-Bookshelf",
+      body          = ul_group(
+        layout    = "grid",
+        item_list = list(
+          "Authors:" = textbooks[[course_short]][["authors"]],
+          "Edition:" = span(textbooks[[course_short]][["edition"]], paste0(" (", textbooks[[course_short]][["date"]], ")")),
+          "ISBN:"    = textbooks[[course_short]][["isbn"]]
+        )
+      ),
+      footer_text   = "If you prefer a hardcopy version then you must opt out of automatic purchase of the eBook through Canvas by the end of Week 2.",
+      card_class    = "primary",
+      heading       = "Required Text",
+      icon_name     = "book",
+      image         = textbooks[[course_short]][["image"]]
+    )
+
   } else if (course_short == "zoobio") {
     resources <-    withTags(
         card(
@@ -129,7 +102,13 @@ logistics_card <- function(course) {
         ),
         card_image(file = paste0("graphics/", course_info[[course]][["file_prefix"]], "_header.png"), width = "100%"),
         card_title(paste0("This course meets: ", course_info[[course]][["day_time"]], " in ", course_info[[course]][["location"]])),
-        course_info[[course]][["course_description"]],
+        accordion(
+          accordion_panel(
+            "Description",
+            course_info[[course]][["course_description"]]
+          ),
+          open = FALSE
+        ),
         card_footer(
           span(if (!is.na(course_info[[course]][["prereqs"]])) paste0("Prerequisites: ", course_info[[course]][["prereqs"]]) else ""),
           span(layout_columns(p(course_info[[course]][["semester"]]), p(paste(course_info[[course]][["credits"]], "Credits"))))
@@ -178,76 +157,41 @@ project_details <- function(course) {
     points   <- assessment[[course]]$assignments$grant_proposal
     subtitle <- "Essay Assignment"
     detail   <- span("Modified version of the ", a(href = "https://www.aza.org/cgf-tips-for-success", "AZA Conservation Grants Fund Proposal"))
-    deadline <- "Deadline placeholder"
+    deadline <- "See course schedule"
 
   } else if (str_detect(format, "Portfolio")) {
     points <- assessment[[course]]$assignments$portfolio
     subtitle <- "Group Assignment"
     detail   <- "Online portfolio summarizing a fictional zoo designed over the semester's lab exercises"
-    deadline <- "Deadline placeholder"
+    deadline <- "See course schedule"
 
   } else if (str_detect(format, "Poster")) {
     points <- assessment[[course]]$assignments$poster
     subtitle <- "Independent Project"
     detail   <- "Poster communicating a leading issue introduced this semester and your proposed approach to mitigation"
-    deadline <- "Deadline placeholder"
+    deadline <- "See course schedule"
 
   }
 
   percent <- round((points/sum(totals$total))*100, 0)
 
-  li_class   <- "list-group-item"
-  col_widths <- c(4, 8)
-
-  display <- withTags(
-    card(
-      class = "card border-info mb-3",
-      card_header(
-        class = "card-header text-white bg-info",
-        span(icon("circle-info", class = "fa-solid")),
-        span(strong("Format Details"))
-      ),
-      card_title(
-        class = "card-title mb-1",
-        h2(format),
-        h3(class = "card-subtitle text-muted", subtitle)
-        ),
-      card_body(
-        ul(
-          class = "list-group",
-          li(
-            class = li_class,
-            bscols(
-              widths = col_widths,
-              h6(class="text-body-secondary", "Deadline: "),
-              deadline
-            )
-          ),
-          li(
-            class = li_class,
-            bscols(
-              widths = col_widths,
-              h6(class="text-body-secondary", "Points: "),
-              p(points, span(class = "text-body-secondary", i(paste0("(", percent, "%)"))))
-            )
-          ),
-          li(
-            class = li_class,
-            bscols(
-              widths = col_widths,
-              h6(class="text-body-secondary", "Format: "),
-              detail
-              )
-            )
-          )
-        ),
-      card_footer(
-        class = "text-body-tertiary",
-        p("You will submit your final assignment via canvas."),
-        em("Note: These details (especially points and deadlines) may be subject to change no less than 2 weeks before the final deadline.")
-        )
+  display <- content_card(
+    title_text    = format,
+    subtitle_text = subtitle,
+    body          = ul_group(
+      layout    = "grid",
+      item_list = list(
+        "Deadline:" = deadline,
+        "Points:"   = p(points, span(class = "text-body-secondary", tags$i(paste0("(", percent, "%)")))),
+        "Format:"   = detail
       )
-    )
-  return(display)
+    ),
+    footer_text   = "These details (especially points and deadlines) may be subject to change no less than 2 weeks before the final deadline.",
+    card_class    = "info",
+    heading       = "Graded Project",
+    icon_name     = "pen-to-square"
+  )
+
+   return(display)
 }
 

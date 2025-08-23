@@ -60,11 +60,11 @@ course_card <- function(course_info, file_prefix) {
             widths = c(4, 4, 4),
             course_info[["course_no"]],
             tags$a(
-              href = paste0("https://rich-molecular-health-lab.github.io/courses/docs/", semester_short, "/", name_short, "/syllabus_", file_prefix, ".html"),
+              href = paste0("syllabus_", file_prefix, ".qmd"),
               paste0("Syllabus (", course_info[["semester"]], ")")
             ),
             tags$a(
-              href = paste0("https://rich-molecular-health-lab.github.io/courses/docs/", semester_short, "/", name_short, "/schedule_", file_prefix, ".html"),
+              href = paste0("schedule_", file_prefix, ".qmd"),
               paste0("Schedule (", course_info[["semester"]], ")")
             )
           )
@@ -87,9 +87,10 @@ li_cols <- function(
   if (layout == "flex") {
     withTags(
       li(
-        class = paste0("list-group-item d-flex justify-content-", justify, " align-items-", align),
-        span(h6(class="text-body-secondary", lead_text)),
-        item_content
+        class = "list-group-item",
+        style = paste0("display:flex; flex-flow:row nowrap; justify-content:space-", justify, "; align-items:", align),
+        h6(class = "text-body-secondary", lead_text),
+        div(item_content)
       )
     )
   } else if (layout == "bscols") {
@@ -98,11 +99,25 @@ li_cols <- function(
         class = "list-group-item",
         bscols(
           widths = col_widths,
-          h6(class="text-body-secondary", lead_text),
-          item_content
+          div(h6(class="text-body-secondary", lead_text)),
+          div(item_content)
         )
       )
     )
+  } else if (layout == "wrap") {
+    div(
+      layout_column_wrap(
+        div(h6(class="text-body-secondary", lead_text)),
+        div(item_content),
+        gap = "2px"
+      )
+    )
+  } else if (layout == "grid") {
+    div(
+      style = "display:grid; grid-template: auto / 25% 75%",
+        div(h6(class="text-body-secondary", lead_text)),
+        div(item_content)
+      )
   }
 }
 
@@ -111,8 +126,9 @@ ul_group <- function(list_lead = NULL, layout, item_list, col_widths = c(4, 8), 
     withTags(
       ul(
         class = "list-group",
+        style = "width:90%",
         li(
-          class = "list-group-item d-flex",
+          class = "list-group-item",
           h6(list_lead)
         ),
         imap(item_list, \(x, idx) li_cols(x, idx, layout, col_widths, justify, align))
@@ -122,6 +138,7 @@ ul_group <- function(list_lead = NULL, layout, item_list, col_widths = c(4, 8), 
     withTags(
       ul(
         class = "list-group",
+        style = "width:90%",
         imap(item_list, \(x, idx) li_cols(x, idx, layout, col_widths, justify, align))
       )
     )
@@ -129,27 +146,52 @@ ul_group <- function(list_lead = NULL, layout, item_list, col_widths = c(4, 8), 
 
 }
 
-content_card <- function(title_text, subtitle_text, body, footer_text, card_class, heading, icon_name) {
-    card(
-      class = paste0("card border-", card_class, " mb-3"),
-      card_header(
-        class = paste0("card-header text-white bg-", card_class),
-        span(shiny::icon(name = icon_name, class = "fa-solid")),
-        span(strong(heading))
-      ),
-      card_title(
-        class = "card-title mb-1",
-        h4(title_text),
-        h6(
-          class = "card-subtitle text-muted",
-          subtitle_text
-        )
-      ),
-      card_body(body),
-      card_footer(
-        class = "text-warning-emphasis",
-        p(footer_text)
-      )
+content_card <- function(title_text, subtitle_text, body, footer_text, card_class, heading, icon_name, image = NULL) {
+
+  class_card <- paste0("card border-", card_class, " mb-3")
+
+  title <- div(
+    style = "display:flex; flex-flow:column nowrap; justify-content:flex-start; align-items:flex-start; padding-bottom:10px; margin-top:0px",
+    h4(title_text),
+    div(
+      class = "card-subtitle text-muted",
+      subtitle_text
     )
+  )
+
+  card_heading <- card_header(
+    class = paste0("card-header text-white bg-", card_class),
+    style = "margin-bottom:0px",
+    span(shiny::icon(name = icon_name, class = "fa-solid")),
+    tags$strong(heading)
+  )
+
+  footer <- card_footer(
+      class = "text-warning-emphasis",
+      tags$small(footer_text)
+    )
+
+  if (is.null(image)) {
+    card(
+      class = class_card,
+      card_heading,
+      title,
+      card_body(body),
+      footer
+    )
+  } else {
+    card(
+      class = class_card,
+      style = "margin-top:20px; margin-bottom:70px",
+      card_heading,
+      title,
+      div(
+        style = "display:flex; flex-flow:row nowrap; justify-content:space-between; align-items:flex-start; padding-top:0px; margin-top:0px",
+        image,
+        card_body(body)
+      ),
+      footer
+    )
+  }
 
 }

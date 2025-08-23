@@ -12,30 +12,38 @@ website:
     data-bs-theme: "dark"
     logo-alt: "Rich Lab Website"
     left:
-      - href: index.qmd
-        text: Overview
-      - text: Course Info
+      - text: Overview
+        href: "index.qmd"
+      - text: Conservation Biology
         menu:
-          - text: Conservation Biology
-            href: "25f/conbio/course_page.qmd"
-          - text: Health & the Environment
+          - text: Current Schedule
+            href: "schedule_conbio.qmd"
+          - text: Syllabus
+            href: "syllabus_conbio.qmd"
+      - text: Human Health & the Environment
+        menu:
+          - text: Current Schedule
+            href: "schedule_hhe.qmd"
+          - text: Syllabus
+            href: "syllabus_hhe.qmd"
 format:
   html:
     theme:
-      - lux
+      - yeti
+    page-layout: article
     css:
-      - styles/lux.css
+      - styles/yeti.css
       - styles/fonts.css
+      - styles/headings.css
     include-in-header:
       - text: |
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&family=Cabin+Condensed:wght@400;500;600;700&family=Yaldevi:wght@200..700&display=swap" rel="stylesheet">
     toc: true
-    code-links: repo
-    embed-resources: true
+    toc-depth: 4
+    toc-location: left
+    toc-title: "Contents"
     smooth-scroll: true
-    link-external-icon: true
-    link-external-newwindow: true
 editor: source
 

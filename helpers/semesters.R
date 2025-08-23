@@ -48,3 +48,42 @@ semester_days <- function(course) {
 
   return(result)
 }
+
+semester_weeks <- function(semester = "25f") {
+  first <- floor_date(semesters[[semester]][["start_class"]], unit = "week")
+  last  <- ceiling_date(semesters[[semester]][["end_class"]], unit = "week") - days(1)
+  days_seq  <- as.list(seq.Date(first, last))
+  weeks_seq <- as.list(paste0("W", rep(1:16, each = 7)))
+  days_finals <- as.list(seq.Date(
+    floor_date(semesters[[semester]][["start_finals"]], unit = "week"),
+    ceiling_date(semesters[[semester]][["end_finals"]], unit = "week") - days(1)
+  )) %>%
+    set_names(map(., \(x) as.character(wday(x, label = TRUE, abbr = TRUE))))
+
+  result <- map2(days_seq, weeks_seq, \(x, y) list(
+    date  = ymd(as.character(x), tz = "America/Chicago"),
+    daywk = as.character(wday(x, label = TRUE, abbr = TRUE))
+  )) %>%
+    set_names(weeks_seq) %>%
+    split(names(.)) %>%
+    map(\(x) set_names(x, map(x, \(y) pluck(y, "daywk")))) %>%
+    map_depth(2, \(x) keep_at(x, "date")) %>%
+    map_depth(1, \(x) list_flatten(x, name_spec = "{outer}")) %>%
+    assign_in("F17", days_finals)
+
+  return(result)
+}
+
+
+current_week <- function(semester = "25f") {
+  weeks <- semester_weeks(semester)
+  if (today() < semesters[[semester]][["start_class"]]) {
+    week <- "W1"
+  } else if (today() > semesters[[semester]][["end_finals"]]) {
+    week <- "F17"
+  } else {
+    week <- names(keep(weeks, \(x) between(now_date, x[["Sun"]], x[["Sat"]])))
+  }
+
+  return(week)
+}

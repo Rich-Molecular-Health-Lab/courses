@@ -1,0 +1,23 @@
+---
+title: "Current Schedule"
+format: html
+params:
+  course: "hhe_25f"
+---
+
+```{r setup, include = FALSE}
+here::i_am("schedule_hhe.qmd")
+source(here::here("_common.R"))
+source(here("helpers/schedule_reactable.R"))
+```
+
+```{r data, include = FALSE}
+#| context: data
+
+load(here("25f/hhe/schedule.RData"))
+load(here("25f/hhe/schedule_list.RData"))
+```
+
+```{r}
+schedule_reactable(params$course, schedule, schedule_list)
+```

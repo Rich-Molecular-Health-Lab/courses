@@ -58,7 +58,7 @@ course_info <- list(
     day_time           = "M/W, 4:00 - 5:15",
     wdays              = c(2, 4),
     start_time         = "16:00",
-    location           = "AH 422D",
+    location           = "AH 304",
     location_assigned  = "AH 304",
     semesters          = "Fall & Spring",
     credits            = 3,
@@ -108,7 +108,7 @@ textbooks <- list(
     type    = "etext"
   ),
   hhe = list(
-    title   = "Podcast Playlist for Human Health & the Environment",
+    title   = "Podcast Playlist",
     href    = "https://open.spotify.com/playlist/4NTGkvvAL2OxXaDIzV3BS0?si=b21104990e8d4971",
     image   = "images/logo_spotify.png",
     authors = "Misc.",
@@ -131,11 +131,16 @@ slos <- list(
   ),
   conbio = tribble(
     ~Level       , ~Outcome           ,
-    "Remember"   , "Identify and recall key concepts and terminology related to zoo biology, such as taxonomic classifications, animal behavior terms, and basic biological principles." ,
-    "Understand" , "Explain the fundamental theories and principles of zoo biology, including the importance of biodiversity conservation and the role of zoos in wildlife conservation efforts." ,
-    "Apply"      , "Apply their knowledge of zoo biology to analyze and solve real-world problems related to animal care, exhibit design, and wildlife conservation strategies within a controlled zoo environment.",
-    "Analyze"    , "Evaluate the ethical and practical considerations involved in managing zoo populations, critically assess the impact of human activities on animal habitats, and propose evidence-based solutions for enhancing animal welfare and conservation efforts."
-  )
+    "Understand" , "Understand contemporary global patterns of change in biological diversity and ecosystem services and identify issues of particular importance." ,
+    "Evaluate"   , "Evaluate the human context of these changes, including how human activities impact ecosystems and the plants and animals that depend on them and how social, economic, political, and ethical factors determine the possible solutions." ,
+    "Analyze"    , "Analyze how science contributes to solutions for preserving biological diversity."
+  ),
+  hhe = tribble(
+    ~Level       , ~Outcome           ,
+    "Recognize"  , "Recognize historic and contemporary phenomena created by connections between human health and the environment.",
+    "Summarize"  , "Identify and summarize more than one complex pathway mediated by social and biological variables which connects human health to the environment." ,
+    "Critique"   , "Compose and critique practical solutions that will benefit the health of humans and their environment."
+    )
 )
 
 assessment <- list(
