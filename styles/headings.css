@@ -1,0 +1,7 @@
+.heading-hide-text::before {
+  content: '';
+}
+
+.heading-hide-text {
+  color: transparent;
+}
