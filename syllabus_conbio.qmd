@@ -1,6 +1,10 @@
 ---
-title: "Course Syllabus"
+title: "Syllabus"
+subtitle: "Conservation Biology" 
+author: "Dr. Alicia M. Rich"
+date: "August 25, 2025"
 format: html
+image: "graphics/conbio_25f_header.png"
 params:
   course: "conbio_25f"
 ---

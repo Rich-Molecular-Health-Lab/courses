@@ -1,20 +1,16 @@
 ---
-title: "Welcome"
+title: "Current Course Info"
+subtitle: "Dr. Alicia M. Rich, University of Nebraska Omaha"
+listing: 
+  contents:
+    - "syllabus_conbio.qmd"
+    - "schedule_conbio.qmd"
+    - "syllabus_hhe.qmd"
+    - "schedule_hhe.qmd"
+  fields: [title, subtitle, description, date, image]
 ---
 
 On this site you can find the most up to date syllabi and schedules for any courses I am currently teaching at UNO. Please check back often, as I will update the schedules as needed.[^1]
-
-
-## Current Courses (Fall 2025)
-
-- **Conservation Biology** *(BIOL-4120/BIOL-8126)*
-  - [Syllabus](syllabus_conbio.qmd)
-  - [Schedule](schedule_conbio.qmd)
-
-
-- **Human Health & the Environment** *(ENVN-4320/BIOL-4030)*
-  - [Syllabus](syllabus_hhe.qmd)
-  - [Schedule](schedule_hhe.qmd)
 
 
 [^1]: The information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.

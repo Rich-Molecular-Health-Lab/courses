@@ -1,6 +1,10 @@
 ---
-title: "Course Syllabus"
+title: "Syllabus"
+subtitle: "Human Health & the Environment"
+date: "August 25, 2025"
+author: "Dr. Alicia M. Rich"
 format: html
+image: "graphics/hhe_25f_header.png"
 params:
   course: "hhe_25f"
 ---

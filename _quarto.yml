@@ -16,12 +16,16 @@ website:
         href: "index.qmd"
       - text: Conservation Biology
         menu:
+          - text: Course Homepage
+            href: "index_conbio.qmd"
           - text: Current Schedule
             href: "schedule_conbio.qmd"
           - text: Syllabus
             href: "syllabus_conbio.qmd"
       - text: Human Health & the Environment
         menu:
+          - text: Course Homepage
+            href: "index_hhe.qmd"
           - text: Current Schedule
             href: "schedule_hhe.qmd"
           - text: Syllabus

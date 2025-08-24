@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/index_hhe.html",
+    "items": [
+      "/schedule_hhe.html",
+      "/syllabus_hhe.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/schedule_conbio.html",
+      "/schedule_hhe.html",
+      "/syllabus_conbio.html",
+      "/syllabus_hhe.html"
+    ]
+  },
+  {
+    "listing": "/index_conbio.html",
+    "items": [
+      "/schedule_conbio.html",
+      "/syllabus_conbio.html"
+    ]
+  }
+]
