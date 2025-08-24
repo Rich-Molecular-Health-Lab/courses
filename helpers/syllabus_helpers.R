@@ -24,7 +24,7 @@ resource_card <- function(course) {
 
     resources <- content_card(
       title_text    = textbooks[[course_short]][["title"]],
-      subtitle_text = "See course schedule for deadlines.",
+      subtitle_text = tags$a(href = paste0("schedule_", course_short, ".qmd"), "See course schedule for deadlines."),
       body          = accordion(
         accordion_panel(
           "Access Spotify Playlist",
@@ -153,24 +153,21 @@ project_details <- function(course) {
   format       <- pluck(course_info, course, "project")
   course_short <- str_extract(course, "\\w+(?=_)")
   totals       <- assessment_course(course)
+  deadline     <- tags$a(href = paste0("schedule_", course_short, ".qmd"), "See course schedule")
   if (format == "Grant Proposal") {
     points   <- assessment[[course]]$assignments$grant_proposal
     subtitle <- "Essay Assignment"
     detail   <- span("Modified version of the ", a(href = "https://www.aza.org/cgf-tips-for-success", "AZA Conservation Grants Fund Proposal"))
-    deadline <- "See course schedule"
 
   } else if (str_detect(format, "Portfolio")) {
     points <- assessment[[course]]$assignments$portfolio
     subtitle <- "Group Assignment"
     detail   <- "Online portfolio summarizing a fictional zoo designed over the semester's lab exercises"
-    deadline <- "See course schedule"
 
   } else if (str_detect(format, "Poster")) {
     points <- assessment[[course]]$assignments$poster
     subtitle <- "Independent Project"
     detail   <- "Poster communicating a leading issue introduced this semester and your proposed approach to mitigation"
-    deadline <- "See course schedule"
-
   }
 
   percent <- round((points/sum(totals$total))*100, 0)

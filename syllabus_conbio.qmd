@@ -57,7 +57,7 @@ project_details(params$course)
 
 ```{r}
 #| title: "Exams"
-missed_exams()
+missed_exams(params$course)
 exam_format(params$course)
 ```
 

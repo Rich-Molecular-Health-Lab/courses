@@ -395,8 +395,8 @@ exam_format <- function(course) {
   return(display)
 }
 
-missed_exams <- function() {
-
+missed_exams <- function(course) {
+course_short <- str_extract(course, "\\w+(?=_)")
   content_card(
     title_text    = "Exam Policy",
     subtitle_text = "All course exams follow a traditional, in-person, synchronous format.",
@@ -404,7 +404,7 @@ missed_exams <- function() {
         "Most of the course schedule may change significantly as we progress. As a result, the content covered in each exam may change accordingly, but ",
         span(tags$strong("I will keep to the exam dates and times that I set at the beginning of the semester.")),
       ),
-    footer_text   = "You should mark those dates and times on your calendar now, because I will only offer makeup opportunities under extenuating circumstances that the Accessibility Services Center communicates directly to me.",
+    footer_text   = p(span(tags$a(href = paste0("schedule_", course_short, ".qmd"), "You should mark those dates and times on your calendar now, ")), "because I will only offer makeup opportunities under extenuating circumstances that the Accessibility Services Center communicates directly to me."),
     card_class    = "danger",
     heading       = "Note",
     icon_name     = "circle-exclamation"
