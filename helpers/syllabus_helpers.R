@@ -55,7 +55,7 @@ resource_card <- function(course) {
       card_class    = "primary",
       heading       = "Required Text",
       icon_name     = "book",
-      image         = textbooks[[course_short]][["image"]]
+      image         = card_image(textbooks[[course_short]][["image"]], width = "20%")
     )
 
   } else if (course_short == "zoobio") {
