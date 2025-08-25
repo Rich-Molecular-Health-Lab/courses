@@ -134,6 +134,11 @@ learning_outcomes <- function(course) {
     gt() %>%
     fmt_icon(columns = "icon") %>%
     opt_table_lines(extent = "none") %>%
+    cols_label(
+      icon ~ "",
+      Level ~ "",
+      Outcome ~ ""
+    ) %>%
     tab_style(style = list(
       cell_fill(color    = "#84697F40"),
       cell_text(

@@ -54,6 +54,7 @@ format:
     author: "Dr. Alicia Rich"
     institute: "University of Nebraska Omaha"
     slide-number: true
+    css: styles/slides.css
     revealjs-plugins:
       -fullscreen
       -r-stack

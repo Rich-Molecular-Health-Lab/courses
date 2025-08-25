@@ -52,22 +52,6 @@ value_list <- list(
   )
 )
 
-slide_do_dont <- function(text, type, text_style = "font-size:25px") {
-  div(
-    class = paste0("list-group-item list-group-item-", if (type == "do") "success" else "danger"),
-    style = "display:flex; flex-flow:row nowrap; justify-content:space-between; align-items:center",
-    span(
-      style = "margin:10px",
-      shiny::icon(name = if (type == "do") "circle-check" else "ban", class = "fa-solid")
-    ),
-    span(
-      style = paste0(text_style, "; line-height:1.3; margin-bottom:10px"),
-      text
-    )
-  )
-}
-
-
 
 item_do_dont <- function(text, type, text_style = "font-size:13px; padding:5px", justify = "justify-content-between") {
     div(

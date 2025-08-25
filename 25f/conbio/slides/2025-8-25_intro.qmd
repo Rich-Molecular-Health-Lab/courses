@@ -1,10 +1,13 @@
 ---
-title: "Course Overview"
-subtitle: "Welcome to Conservation Biology"
-date: "2025-8-25"
+title: ""
+title-slide-attributes:
+  data-background-image: "../../../graphics/slides_intro/welcome_conbio.png"
+  data-background-size: cover
 image: "graphics/conbio_25f_header.png"
 keywords: intro, syllabus, overview
-format: revealjs
+format: 
+  revealjs:
+    theme: serif
 params:
   course: "conbio_25f"
 ---
@@ -14,25 +17,29 @@ here::i_am("25f/conbio/slides/2025-8-25_intro.qmd")
 source(here::here("_common.R"))
 ```
 
-# Course Syllabus
+##  
 
-## Instructor
+![](../../../graphics/slides_intro/welcome_conbio.png){.r-stretch}
+
+# Introductions
+
+## Dr. Alicia Rich *she/her*
 
 :::{.columns}
 ::: {.column width = "40%"}
 
-!["Dr. Rich *she/her*"](../../../images/headshot_rich.png)
+![](../../../images/headshot_rich.png)
 :::
 ::: {.column width = "60%"}
 - Assistant Professor of Biology
 - Environmental Studies Program
-- ![](../../../images/logo_richlab.png)
+- ![](../../../images/logo_richlab.png){width=100px} Molecular Ecologist, Primatologist
 
 :::
 
 :::
 
-## Communication {.smaller}
+## If you Need my Help {.smaller}
 
 :::{.columns}
 ::: {.column width = "60%"}
@@ -57,12 +64,13 @@ source(here::here("_common.R"))
 :::
 
 
-## Communication {.smaller}
+## If you Need my Help {.smaller}
 
 :::{.columns}
 ::: {.column width = "60%"}
 
 ![](../../../graphics/comics/emails.gif)
+
 
 [aliciarich@unomaha.edu]("mailto:aliciarich@unomaha.edu")
 
@@ -84,7 +92,30 @@ source(here::here("_common.R"))
 
 :::
 
+## If you Need my Help {.smaller}
 
+:::{.columns}
+
+::: {.column width = "40%"}
+- Expect 24-48 hours for a response to emails
+- Not in the evenings or on weekends
+  - I don't schedule meetings at these times either
+:::
+
+::: {.column width = "60%"}
+
+![](../../../graphics/comics/academia_work_schedule.gif){fig-align=center}
+
+
+[aliciarich@unomaha.edu]("mailto:aliciarich@unomaha.edu")
+
+
+:::
+:::
+
+::: aside
+If you do not hear back from me after 3 days, then please remind me with another email or in class/office hours.
+:::
 
 ## Office Hours
 
@@ -93,61 +124,138 @@ source(here::here("_common.R"))
 - [Remotely via Zoom](https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu)
 - **Thur 12-2 or Fri 1-3**
 
-![](../../../graphics/comics/prof_door.gif)
+![](../../../graphics/comics/prof_door.gif){fig-align=center}
 
-## Classroom Culture
+# Classroom Culture
 
-### My Role
+## Values
 
-- Organize topics & resources
-- Distill & clarify major themes
-- Guide discussions & answer questions
-- Ensure classroom equity & accessibility
-- Assess your mastery of the learning outcomes
+***Authenticity*** --- ***Curiosity*** --- ***Responsibility***
 
-## Classroom Culture
-
-### Your Role
-
-- Manage your time, priorities, and needs
-- Study assigned content & investigate further
-- Engage with your classmates during scheduled meetings
-- Set your goals and monitor your progress
-- Record, organize, and manage all necessary information
-  - *This means <strong>take your own notes</strong>*
-  
-## Classroom Culture
-
-### Values
-
-1. Authenticity
-2. Curiosity
-3. Responsibility
-
-## Authenticity
+### Authenticity
 
 ```{r}
-div(
-  style = "display:grid; grid-template: auto / 50% 50%",
-  slide_do_dont(
-    "Do", "do",
-    text_style = "font-size:40px; font-weight:bold; font-variant:small-caps"
-    ),
-  slide_do_dont(
-    "Don't", "dont",
-    text_style = "font-size:40px; font-weight:bold; font-variant:small-caps"
-    ),
-  imap(list_flatten(value_list[["Authenticity"]], name_spec = "{inner}"), \(y, idy) slide_do_dont(y, idy))
-)
+slide_list_cols(
+  slides_value_list[["Authenticity"]],
+  head_left = span(shiny::icon(name = "circle-check", class = "fa-solid"), "Do"),
+  head_right = span(shiny::icon(name = "ban", class = "fa-solid"), "Don't")
+  )
+```
+
+## Values
+
+***Authenticity*** --- ***Curiosity*** --- ***Responsibility***
+
+### Curiosity
+
+```{r}
+slide_list_cols(
+  slides_value_list[["Curiosity"]],
+  head_left = span(shiny::icon(name = "circle-check", class = "fa-solid"), "Do"),
+  head_right = span(shiny::icon(name = "ban", class = "fa-solid"), "Don't")
+  )
+```
+
+## Values
+
+***Authenticity*** --- ***Curiosity*** --- ***Responsibility***
+
+### Responsibility
+
+```{r}
+slide_list_cols(
+  slides_value_list[["Responsibility"]],
+  head_left = span(shiny::icon(name = "circle-check", class = "fa-solid"), "Do"),
+  head_right = span(shiny::icon(name = "ban", class = "fa-solid"), "Don't")
+  )
 ```
 
 
-
-## Student Learning Outcomes
+## Expectations
 
 ```{r}
-learning_outcomes(params$course)
+slide_list_cols(
+  roles,
+  head_left = span(shiny::icon(name = "chalkboard-user", class = "fa-solid"), "My Role"),
+  head_right = span(shiny::icon(name = "users", class = "fa-solid"), "Your Role")
+  )
 ```
+
+::: aside
+**This means <strong>take your own notes</strong>*
+:::
+
+## Attendance {.smaller}
+
+:::{.columns}
+:::{.column width="40%"}
+- Not a hybrid or asynchronous course
+  - *I only present content during class time.*
+  - *I only offer one opportunity for participation*
+:::
+
+:::{.column width="60%"}
+![](../../../graphics/gifs/attendance_rory.gif)
+:::
+:::
+- I build in flexibility to allow everyone to miss occasionally without penalty
+  - I do not micromanage attendance
+  - Excuses are not necessary
+  - Collaborate with classmates to get notes or ask what you missed
+
+
+
+## Instructor cringe
+
+
+:::{.columns}
+:::{.column width="40%"}
+
+- *"What did I miss?"*
+- *"Will this be on the test?"*
+- *"Do we need to take notes on this?"*
+- *"When can you set aside time to help me catch up on all the classes I missed this semester?"*
+
+:::
+:::{.column width="60%"}
+
+![](../../../graphics/comics/syllabus.gif)
+:::
+:::
+
+## Accessibility & Inclusion {.smaller}
+
+
+:::{.columns}
+:::{.column width="50%"}
+
+![](../../../graphics/slides_intro/accessibility.png){fig-align=flush}
+
+:::
+:::{.column width="50%"}
+
+>"Educational materials and technologies are “accessible” to people with disabilities if they are able to “acquire the same information, engage in the same interactions, and enjoy the same services” as people who do not have disabilities." <small>--*Joint Letter US Department of Justice and US Department of Education*</small>
+
+:::
+:::
+
+
+#### Accessibility Services Center (ASC)
+
+[![<small>*Students who are registered with ASC can use the button above to log into the online portal and send their accommodation notification emails to faculty.*</small>](../../../images/button_asc.png)](https://kea.accessiblelearning.com/unomaha)
+
+
+# Course Overview
+
+
+## Student Learning Outcomes {.center}
+
+
+![](../../../graphics/gifs/greys-anatomy-miranda-bailey.gif){width=400px fig-align=center}
+
+![](../../../graphics/tables/conbio_25flearning_outcomes.png){width=700px fig-align=center}
+
+
 
 
 ## Required Materials
@@ -168,16 +276,6 @@ learning_outcomes(params$course)
 :::
 :::
 :::
-
-## Schedule
-
-
-<iframe 
-  src="https://rich-molecular-health-lab.github.io/courses/schedule_conbio.html" 
-  width="100%" 
-  height="600px" 
-  style="border: 1px solid #ccc; border-radius: 8px;">
-</iframe>
 
 ## Quizzes
 
@@ -207,19 +305,37 @@ No makeup options, but the lowest scores will be dropped (*15% of total number o
 - Submit on Canvas **Wed, Dec 3 at 4:00 PM**
 - 40 points
 
+
+![](../../../graphics/comics/page_limits.gif)
+
 ::: aside
 I will post a rubric and examples
 :::
 
 ## Exams
 
+
 **Midterm on Mon, Oct 6** | **Final on Mon, Dec 15** (5:00 - 7:00 PM)
+
+
+:::{.columns}
+:::{.column width = "40%"}
 
 - 60 points each
 - In-person, synchronous, and written
-- Open book/open-note
-  - ***Hard-copy only***
 - Multiple choice, True/False, Short Essay
+
+:::
+
+:::{.column width = "60%"}
+
+![](../../../graphics/comics/student_prof_exams.gif)
+:::
+:::
+
+::: aside
+Open book/open-note, but ***hard-copy only***
+:::
 
 ## Grade Breakdown
 
@@ -233,15 +349,21 @@ grade_breakdown(params$course)
 
 :::
 
-
 :::{.column width = "40%"}
 
-:::
+![](../../../graphics/gifs/ready-to-slay-buffy.gif)
 
 :::
 
-## Accommodations
+:::
 
+## Schedule
 
+<iframe 
+  src="https://rich-molecular-health-lab.github.io/courses/schedule_conbio.html" 
+  width="100%" 
+  height="600px" 
+  style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
 
 
