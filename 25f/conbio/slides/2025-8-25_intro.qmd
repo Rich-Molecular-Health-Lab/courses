@@ -1,0 +1,206 @@
+---
+title: "Course Overview"
+subtitle: "Welcome to Conservation Biology"
+date: "2025-8-25"
+image: "graphics/conbio_25f_header.png"
+keywords: intro, syllabus, overview
+format: revealjs
+params:
+  course: "conbio_25f"
+---
+
+```{r setup, include = FALSE}
+here::i_am("25f/conbio/slides/2025-8-25_intro.qmd")
+source(here::here("_common.R"))
+```
+
+# Course Syllabus
+
+## Instructor
+
+:::{.columns}
+::: {.column width = "40%"}
+
+!["Dr. Rich *she/her*"](../../../images/headshot_rich.png)
+:::
+::: {.column width = "60%"}
+- Assistant Professor of Biology
+- Environmental Studies Program
+- ![](../../../images/logo_richlab.png)
+
+:::
+
+:::
+
+## Communication {.smaller}
+
+:::{.columns}
+::: {.column width = "60%"}
+
+![](../../../graphics/comics/emails.gif)
+
+[aliciarich@unomaha.edu]("mailto:aliciarich@unomaha.edu")
+
+::: aside
+**Please do not try to contact me via Canvas Messages**
+:::
+
+:::
+::: {.column width = "40%"}
+- Before you send an email, make sure you know exactly what a productive response would look like
+  - A few sentences? 
+  - A yes or no?
+  - A specific file?
+  - A time to meet?
+
+:::
+:::
+
+
+## Communication {.smaller}
+
+:::{.columns}
+::: {.column width = "60%"}
+
+![](../../../graphics/comics/emails.gif)
+
+[aliciarich@unomaha.edu]("mailto:aliciarich@unomaha.edu")
+
+::: aside
+**Please do not try to contact me via Canvas Messages**
+:::
+
+:::
+::: {.column width = "40%"}
+
+::: {.nonincremental}
+- A few sentences, A yes or no, A specific file, A time to meet
+  - All good reasons to send an email
+:::
+
+- More than a few sentences will require a meeting
+- For venting or emotional/personal support, make use of [Counseling and Psychological Services](http://www.unomaha.edu/counseling-and-psychological-services).
+:::
+
+:::
+
+
+
+## Office Hours
+
+- **Allwine Hall 413**
+  - In-person by appointment
+- [Remotely via Zoom](https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu)
+- **Thur 12-2 or Fri 1-3**
+
+![](../../../graphics/comics/prof_door.gif)
+
+## Classroom Culture
+
+```{r}
+class_culture(value_list)
+```
+
+
+## Student Learning Outcomes
+
+```{r}
+learning_outcomes(params$course)
+```
+
+
+## Required Materials
+
+:::{.columns}
+
+:::{.column width = "40%"}
+
+![Conservation Biology (2nd Edition)](../../../images/conbio_text.jpg)
+:::
+
+:::{.column width = "60%"}
+
+- eText via IA Bookshelf
+  - *Opt out by next week*
+- Assigned readings in [Course Schedule](https://rich-molecular-health-lab.github.io/courses/schedule_conbio.html)
+
+:::
+:::
+:::
+
+## Schedule
+
+
+<iframe 
+  src="https://rich-molecular-health-lab.github.io/courses/schedule_conbio.html" 
+  width="100%" 
+  height="600px" 
+  style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
+
+## Quizzes
+
+- Preparation check-ins at the start of class
+  - 1-4 questions (3 points)
+- Use your phone, tablet, or laptop
+- Open book/note
+  - ***But no AI/chatBots allowed***
+
+::: aside
+No makeup options, but the lowest scores will be dropped (*15% of total number of quizzes*).
+:::
+
+## In-Class Work
+
+- Submitted at the end of class for completion credit
+  - same value as a quiz (3 points)
+- Notice may or may not be given on the [Course Schedule](https://rich-molecular-health-lab.github.io/courses/schedule_conbio.html)
+
+::: aside
+No makeup options, but the lowest scores will be dropped (*15% of total number of quizzes*).
+:::
+
+## Grant Proposal
+
+- Modified version of the [AZA Conservation Grants Fund Proposal](https://www.aza.org/cgf-tips-for-success)
+- Submit on Canvas **Wed, Dec 3 at 4:00 PM**
+- 40 points
+
+::: aside
+I will post a rubric and examples
+:::
+
+## Exams
+
+**Midterm on Mon, Oct 6** | **Final on Mon, Dec 15** (5:00 - 7:00 PM)
+
+- 60 points each
+- In-person, synchronous, and written
+- Open book/open-note
+  - ***Hard-copy only***
+- Multiple choice, True/False, Short Essay
+
+## Grade Breakdown
+
+:::{.columns}
+
+:::{.column width = "60%"}
+
+```{r}
+grade_breakdown(params$course)
+```
+
+:::
+
+
+:::{.column width = "40%"}
+
+:::
+
+:::
+
+## Accommodations
+
+
+
+

@@ -15,6 +15,53 @@ locations <- list(
 )
 
 videos <- list(
+  films = list(
+    "Poisoned Water" = list(
+      minutes   = 120,
+      streaming = "PBS",
+      date      = ym("2017-1"),
+      topics    = list(
+        "Toxicology",
+        "Habitat Degradation",
+        "Threats to Biodiversity",
+        "Environmental Justice",
+        "Heavy Metals"
+        ),
+      chapters = c(9)
+      ),
+    "Kiss the Ground" = list(
+      minutes   = 85,
+      streaming = "Prime",
+      date      = ym("2022-1"),
+      topics    = list(
+        "Agriculture",
+        "Regenerative Agriculture",
+        "Food",
+        "Cattle",
+        "Climate",
+        "Microbiology",
+        "Innovation",
+        "Biodiversity and Ecosystem Services"
+      ),
+      chapters = c(6)
+    ),
+    "Common Ground" = list(
+      minutes   = 85,
+      streaming = "Prime",
+      date      = ym("2025-1"),
+      topics    = list(
+        "Agriculture",
+        "Regenerative Agriculture",
+        "Food",
+        "Cattle",
+        "Climate",
+        "Microbiology",
+        "Innovation",
+        "Biodiversity and Ecosystem Services"
+      ),
+      chapters = c(6)
+    )
+    ),
   series = list(
     "Human Footprint" = list(
       streaming = "PBS",
@@ -24,8 +71,41 @@ videos <- list(
           minutes = 55,
           date    = ym("2023-7"),
           topics  = list(
+            "Threats to Biodiversity",
             "Invasive Alien Species"
+          ),
+          chapters = c(11)
+        ),
+        "S1E2" = list(
+          title   = "Top Predator",
+          minutes = 55,
+          date    = ym("2023-7"),
+          topics  = list(
+            "Threats to Biodiversity",
+            "Overexploitation"
+          ),
+          chapters = c(10)
+        ),
+        "S1E5" = list(
+          title   = "The Urban Jungle",
+          minutes = 55,
+          date    = ym("2023-8"),
+          topics  = list(
+            "Built Environments",
+            "Urban Infrastructure",
+            "Urban Pests"
           )
+        ),
+        "S2E6" = list(
+          title   = "Vanishing Act",
+          minutes = 55,
+          date    = ym("2025-7"),
+          topics  = list(
+            "Threats to Biodiversity",
+            "Extinction",
+            "Species-Level Conservation"
+          ),
+          chapters = c(8, 13)
         )
       )
     )

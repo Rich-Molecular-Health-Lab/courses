@@ -49,5 +49,13 @@ format:
     toc-location: left
     toc-title: "Contents"
     smooth-scroll: true
+  revealjs:
+    incremental: true
+    author: "Dr. Alicia Rich"
+    institute: "University of Nebraska Omaha"
+    slide-number: true
+    revealjs-plugins:
+      -fullscreen
+      -r-stack
 editor: source
 

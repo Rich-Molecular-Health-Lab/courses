@@ -145,13 +145,13 @@ slos <- list(
 
 assessment <- list(
   conbio_25f = list(
-    exams       = map(paste0("exam", 1:3), \(x) list_scores(x, 50)),
-    quizzes     = map(paste0("quiz", 1:10), \(x) list_scores(x, 3)),
-    assignments = list(grant_proposal = 50),
+    exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 60)),
+    quizzes     = map(paste0("quiz", 1:15), \(x) list_scores(x, 3)),
+    assignments = list(grant_proposal = 40),
     inclass     = map(paste0("exercise", 1:5), \(x) list_scores(x, 3))
   ),
   hhe_25f = list(
-    exams       = map(paste0("exam", 1:3), \(x) list_scores(x, 50)),
+    exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 60)),
     quizzes     = map(paste0("quiz", 1:10), \(x) list_scores(x, 3)),
     assignments = list(poster = 50),
     inclass     = map(paste0("exercise", 1:5), \(x) list_scores(x, 3))
