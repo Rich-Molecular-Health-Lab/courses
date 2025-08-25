@@ -97,9 +97,50 @@ source(here::here("_common.R"))
 
 ## Classroom Culture
 
+### My Role
+
+- Organize topics & resources
+- Distill & clarify major themes
+- Guide discussions & answer questions
+- Ensure classroom equity & accessibility
+- Assess your mastery of the learning outcomes
+
+## Classroom Culture
+
+### Your Role
+
+- Manage your time, priorities, and needs
+- Study assigned content & investigate further
+- Engage with your classmates during scheduled meetings
+- Set your goals and monitor your progress
+- Record, organize, and manage all necessary information
+  - *This means <strong>take your own notes</strong>*
+  
+## Classroom Culture
+
+### Values
+
+1. Authenticity
+2. Curiosity
+3. Responsibility
+
+## Authenticity
+
 ```{r}
-class_culture(value_list)
+div(
+  style = "display:grid; grid-template: auto / 50% 50%",
+  slide_do_dont(
+    "Do", "do",
+    text_style = "font-size:40px; font-weight:bold; font-variant:small-caps"
+    ),
+  slide_do_dont(
+    "Don't", "dont",
+    text_style = "font-size:40px; font-weight:bold; font-variant:small-caps"
+    ),
+  imap(list_flatten(value_list[["Authenticity"]], name_spec = "{inner}"), \(y, idy) slide_do_dont(y, idy))
+)
 ```
+
 
 
 ## Student Learning Outcomes
