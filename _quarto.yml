@@ -17,19 +17,19 @@ website:
       - text: Conservation Biology
         menu:
           - text: Course Homepage
-            href: "index_conbio.qmd"
+            href: "conbio/index.qmd"
           - text: Current Schedule
-            href: "schedule_conbio.qmd"
+            href: "conbio/schedule.qmd"
           - text: Syllabus
-            href: "syllabus_conbio.qmd"
+            href: "conbio/syllabus.qmd"
       - text: Human Health & the Environment
         menu:
           - text: Course Homepage
-            href: "index_hhe.qmd"
+            href: "hhe/index.qmd"
           - text: Current Schedule
-            href: "schedule_hhe.qmd"
+            href: "hhe/schedule.qmd"
           - text: Syllabus
-            href: "syllabus_hhe.qmd"
+            href: "hhe/syllabus.qmd"
 format:
   html:
     theme:
@@ -55,8 +55,5 @@ format:
     institute: "University of Nebraska Omaha"
     slide-number: true
     css: styles/slides.css
-    revealjs-plugins:
-      -fullscreen
-      -r-stack
 editor: source
 

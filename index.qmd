@@ -3,11 +3,11 @@ title: "Current Course Info"
 subtitle: "Dr. Alicia M. Rich, University of Nebraska Omaha"
 listing: 
   contents:
-    - "syllabus_conbio.qmd"
-    - "schedule_conbio.qmd"
-    - "syllabus_hhe.qmd"
-    - "schedule_hhe.qmd"
-  fields: [title, subtitle, description, date, image]
+    - "conbio/syllabus.qmd"
+    - "conbio/schedule.qmd"
+    - "hhe/syllabus.qmd"
+    - "hhe/schedule.qmd"
+  fields: [title, subtitle, date, image]
 ---
 
 On this site you can find the most up to date syllabi and schedules for any courses I am currently teaching at UNO. Please check back often, as I will update the schedules as needed.[^1]

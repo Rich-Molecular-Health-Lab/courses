@@ -77,9 +77,10 @@ semester_weeks <- function(semester = "25f") {
 
 current_week <- function(semester = "25f") {
   weeks <- semester_weeks(semester)
-  if (today() < semesters[[semester]][["start_class"]]) {
+  now_date <- today()
+  if (now_date < semesters[[semester]][["start_class"]]) {
     week <- "W1"
-  } else if (today() > semesters[[semester]][["end_finals"]]) {
+  } else if (now_date > semesters[[semester]][["end_finals"]]) {
     week <- "F17"
   } else {
     week <- names(keep(weeks, \(x) between(now_date, x[["Sun"]], x[["Sat"]])))

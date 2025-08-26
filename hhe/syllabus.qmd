@@ -1,0 +1,171 @@
+---
+title: "Syllabus"
+subtitle: "Human Health & the Environment"
+date: "August 25, 2025"
+author: "Dr. Alicia M. Rich"
+format: html
+image: "../graphics/hhe_25f_header.png"
+params:
+  course: "hhe_25f"
+---
+
+```{r setup, include = FALSE}
+here::i_am("hhe/syllabus.qmd")
+source(here::here("_common.R"))
+```
+
+## Basics
+
+```{r}
+logistics_card(params$course)
+```
+
+### Instructor  { .heading-hide-text }
+
+```{r}
+instructor_card()
+```
+
+### Required Materials { .heading-hide-text }
+
+```{r}
+resource_card(params$course)
+```
+
+### Student Learning Outcomes 
+
+```{r}
+learning_outcomes(params$course)
+```
+
+
+## Details
+
+### Assessment
+
+::: {.panel-tabset}
+
+#### Graded Project { .heading-hide-text }
+
+```{r}
+#| title: "Graded Project"
+
+project_details(params$course)
+```
+
+#### Exams { .heading-hide-text }
+
+```{r}
+#| title: "Exams"
+missed_exams(params$course)
+exam_format(params$course)
+```
+
+#### Quizzes { .heading-hide-text }
+
+```{r}
+#| title: "Quizzes"
+prep_quizzes()
+```
+
+#### In-Class Activities { .heading-hide-text }
+
+```{r}
+#| title: "In-Class Activities"
+activities()
+```
+
+:::
+
+#### Grade Breakdown
+
+```{r}
+grade_breakdown(params$course)
+```
+
+
+### Policies & Expectations
+
+::: {.panel-tabset}
+
+#### Classroom Culture { .heading-hide-text }
+
+```{r}
+#| title: "Classroom Culture"
+class_culture(value_list)
+```
+
+#### Classroom Engagement { .heading-hide-text }
+
+```{r}
+#| title: "Classroom Engagement"
+engagement()
+```
+
+#### Late Submissions  { .heading-hide-text }
+
+```{r}
+#| title: "Late Submissions"
+late_work()
+```
+
+#### Accommodations  { .heading-hide-text }
+
+```{r}
+#| title: "Accommodations"
+accommodations()
+```
+
+#### Academic Integrity { .heading-hide-text }
+
+```{r}
+#| title: "Academic Integrity"
+plagiarism()
+```
+
+
+:::
+
+
+### University Policies & Resources
+
+::: {.panel-tabset}
+
+#### Grade Appeal
+
+Individuals who believe that their grade in a particular course does not properly reflect their performance or that the instructor acted arbitrarily or capriciously in determining the grade should first contact the instructor to determine the rationale for the grade or if there was an error in reporting. Consultation with the instructor should occur before formal action regarding a grade appeal.  
+  
+After the instructor has provided the rationale for the grade in question and has indicated that no error in reporting was made, the individual may petition the department/school for reconsideration. In such instances, the student should contact the department chair/school director to obtain information on the procedures to follow in requesting an appeal at the department/school level.  
+
+>The grade appeal process exists to correct inadvertent errors or misunderstandings about your grade, not to extend the term we've been given to work together for this class. ***Please, do not contact me after the final grade deadline to request an opportunity to revise, resubmit, or update work that has already been properly assigned, assessed, and graded unless you have already worked directly with the Accessibility Services Center and reached out to me at their recommendation.*** I will not consider any continued work on your progress in this course or attention to your materials without extremely extenuating circumstances. If you regret your performance in the class or opportunities you have missed and would like a second chance, I encourage you to re-enroll the next time I am teaching this course and follow the same standards and policies as your classmates.
+
+
+#### Dropping a Course
+
+A class can be dropped from your schedule via MavLINK until the last day to withdraw.  The last day to withdraw can be [found on the Academic Calendar](https://www.unomaha.edu/registrar/academic-calendar.php). You can click the "refund" link next to each class in your schedule if you are enrolled.  You can also contact the Office of the University Registrar to verify the last day to withdraw.  
+  
+Drops can only be completed in your course's 100% refund period. If you drop the course from your schedule during this period, it will not be listed on your academic transcript. Withdraws can be completed until the last day to withdraw for the semester.  **If you withdraw from a course, a grade of "W" is given for that course, which will be listed on your academic transcript.  "W" grades have no impact on your academic GPA.** 
+
+#### Title IX { .heading-hide-text }
+
+```{r}
+#| title: "Title IX"
+
+titleix()
+
+inclusion_office()
+```
+
+#### Code of Student Rights, Responsibilities, and Conduct
+
+Students at the University of Nebraska Omaha are expected to maintain standards of personal integrity per institutional goals for the success of all students. This means students are expected to assume responsibility for their actions, observe national, state, and local laws, follow university policies, and respect the rights and property of all people. For more information, [see Student Conduct and Community Standards.](https://www.unomaha.edu/student-life/student-conduct-and-community-standards/index.php)
+
+:::
+
+### Other Notices
+
+```{r}
+other_notices()
+```
+
+
