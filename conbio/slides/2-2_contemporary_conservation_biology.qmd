@@ -127,7 +127,7 @@ After WWII, DDT was promoted as a wonder chemical
 ## Silent Spring (1962)
 
 <iframe width="800" height="450"
-  src="https://youtu.be/ezVEzCmiXM4?si=ZY9cC7eOZ0Xlja0p"
+  src="https://www.youtube.com/embed/ezVEzCmiXM4?cc_load_policy=1&cc_lang_pref=en"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
@@ -152,7 +152,7 @@ The river repeatedly caught fire over several years.
 ## Cuyahoga River (1969)
 
 <iframe width="800" height="450"
-  src="https://youtu.be/nlHiaZFvcXA?si=qQMxqNxt4bJijCb2"
+  src="https://www.youtube.com/embed/nlHiaZFvcXA?cc_load_policy=1&cc_lang_pref=en"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
@@ -177,7 +177,7 @@ This also correlates with the emergence of Conservation Biology as a scientific 
 ## Earth Day (1970)
 
 <iframe width="800" height="450"
-  src="https://youtu.be/pCcxIQYdH24?si=mHUMUnagLSsn0jaG"
+  src="https://www.youtube.com/embed/pCcxIQYdH24?cc_load_policy=1&cc_lang_pref=en"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
@@ -253,7 +253,7 @@ Practitioners must take action even in the absence of complete information, beca
 
 
 <iframe width="800" height="450"
-  src="https://youtu.be/AeZbbEaLj4c?si=UxWThtf-pr89_KWU"
+  src="https://www.youtube.com/embed/AeZbbEaLj4c?cc_load_policy=1&cc_lang_pref=en"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
