@@ -2,8 +2,17 @@ format:
   revealjs:
     incremental: true
     slide-number: true
-    css: ../../styles/slides.css
+    theme:
+      - ../../styles/sky_mtmkinley.scss
+    css:
+      - ../../styles/slides.css
     institute: "University of Nebraska Omaha"
     author: "Dr. Alicia M. Rich"
     subtitle: "Conservation Biology"
     smooth-scroll: true
+    auto-stretch: true
+    center: true
+    transition: slide
+    background-transition: fade
+include-before-body: "../../styles/slide-border.html"
+

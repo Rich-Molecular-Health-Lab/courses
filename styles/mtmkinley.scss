@@ -1,0 +1,52 @@
+/**
+ * MtMckinley adapted from:
+ * Solarized Light theme for reveal.js.
+ * Author: Achim Staebler
+ *
+ * Adapted for Quarto by Posit, PBC
+ * Copyright (C) 2024 Posit, PBC
+ */
+
+/*-- scss:defaults --*/
+
+// Include theme-specific fonts
+@import url(./fonts/league-gothic/league-gothic.css);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+$font-family-sans-serif: Lato, sans-serif !default;
+
+/**
+ */
+// MtMckinley colors
+$base03: #6E6C81FF;
+$base02: #D5AE63FF;
+$base01: #93AD90FF;
+$base00: #3F3939FF;
+$base0: #839496;
+$base1: #93a1a1;
+$base2: #C9B793FF;
+$base3: #F7ECD8FF;
+
+// Override theme settings
+$body-color: $base00 !default;
+$presentation-heading-font: "League Gothic", sans-serif !default; // from settings.scss
+$presentation-heading-color: $base03 !default;
+$presentation-heading-text-transform: uppercase !default; // from settings.scss
+$presentation-heading-text-shadow: none !default;
+$presentation-heading-font-weight: normal !default;
+$body-bg: $base3 !default;
+$link-color: $base03 !default;
+$selection-bg: $base02 !default;
+
+$overlayElementBgColor: 0, 0, 0 !default;
+$overlayElementFgColor: 240, 240, 240 !default;
+
+// code blocks
+$code-block-border-color: $base2 !default;
+
+/*-- scss:rules --*/
+
+html * {
+  color-profile: sRGB;
+  rendering-intent: auto;
+}

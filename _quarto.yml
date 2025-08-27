@@ -2,6 +2,12 @@ project:
   type: website
   output-dir: "docs"
   execute-dir: project
+  resources:
+    - styles/robot-lung.css
+    - styles/slides.css
+    - styles/yeti.css
+    - styles/fonts.css
+    - styles/headings.css
 
 website:
   title: "Course Information"

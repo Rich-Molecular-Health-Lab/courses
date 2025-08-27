@@ -1,0 +1,5 @@
+butterfly <- c("#784116FF", "#9CB6A9FF", "#ACCFCBFF", "#A8BE74FF", "#BF7417FF")
+navajo    <- c("#660D20FF", "#E59A52FF", "#EDCE79FF", "#094568FF", "#E1C59AFF")
+acadia    <- c("#FED789FF", "#023743FF", "#72874EFF", "#476F84FF", "#A4BED5FF", "#453947FF")
+arches    <- c("#A8CDECFF", "#F6955EFF", "#682C37FF", "#9B6981FF", "#7887A4FF", "#A89F8EFF")
+saguaro   <- c("#847CA3FF", "#E45A5AFF", "#F4A65EFF", "#80792BFF", "#F2D56FFF", "#1A1237FF")

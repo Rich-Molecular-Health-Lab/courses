@@ -1,5 +1,51 @@
+
 .center {
   text-align: center;
 }
 
+/* Force white title on the title slide, regardless of theme */
+.reveal section.title-slide.title-white h1,
+.reveal section.title-white .quarto-title-block .quarto-title h1,
+.reveal section.title-white h1.title,
+.reveal section.title-white h1 {
+  color: #fff !important;
+}
+
+/* Also set the heading color variable at the slide scope */
+.reveal section.title-white {
+  --r-heading-color: #fff;
+}
+
+/* Scope all overrides to your custom title slide */
+.reveal section.title-white {
+  /* this already works for body text */
+  color: #fff !important;
+
+  /* make headings (incl. the H1 title) white */
+  --r-heading-color: #fff;
+  /* optional: unify links & main color too */
+  --r-main-color: #fff;
+  --r-link-color: #fff;
+}
+
+/* Belt-and-suspenders: target Quarto’s title H1 directly */
+.reveal section.title-white .quarto-title-block .quarto-title h1.title {
+  color: #fff !important;
+}
+
+/* Hide the slide title text, but keep the slide visible for TOC and bg */
+section.toc-only > h1,
+section.toc-only > h2,
+section.toc-only > h3 {
+  position: absolute;
+  left: -9999px;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+/* Hide the robot-lung border on slides with class .noborder */
+.reveal section.noborder.present ~ .line {
+  display: none !important;
+}
 
