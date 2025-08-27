@@ -1,0 +1,9 @@
+format:
+  revealjs:
+    incremental: true
+    slide-number: true
+    css: ../../styles/slides.css
+    institute: "University of Nebraska Omaha"
+    author: "Dr. Alicia M. Rich"
+    subtitle: "Conservation Biology"
+    smooth-scroll: true

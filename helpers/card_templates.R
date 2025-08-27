@@ -1,3 +1,6 @@
+
+conflicts_prefer(dplyr::filter)
+
 list_education <- function(phd       = NULL,
                            masters   = NULL,
                            undergrad = NULL) {

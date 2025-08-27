@@ -1,6 +1,3 @@
-content_card_slides <- function(title_text, subtitle_text, body, footer_text, card_class, heading, icon_name, image = NULL) {
-
-}
 
 slides_value_list <- list(
   Authenticity = list(
@@ -75,3 +72,5 @@ slide_list_cols <- function(list, layout = NULL, font_size = "25px", head_left =
     )
   }
 }
+
+

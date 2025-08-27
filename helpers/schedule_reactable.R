@@ -1,7 +1,4 @@
 
-library(reactable)
-library(reactablefmtr)
-library(tippy)
 
 
 tooltips <- list(
@@ -311,8 +308,8 @@ title_colDef <- function(data) {
 schedule_reactable <- function(course, schedule, schedule_list = NULL) {
   weekly_schedule <- schedule_weeks(course, schedule)
   daily_schedule  <- schedule_days(course, schedule)
-  course_short <- str_remove(course, "_\\d{2}\\w")
-  semester     <- str_remove(course, "\\w+_")
+  course_short    <- str_remove(course, "_\\d{2}\\w")
+  semester        <- str_remove(course, "\\w+_")
 
   week_now <- as.integer(str_remove(current_week(semester), "\\w"))
 
@@ -351,7 +348,7 @@ schedule_reactable <- function(course, schedule, schedule_list = NULL) {
          align       = "left",
          style       = "font-weight:bold",
          details     = function(index) {
-           daily <- filter(daily_schedule, week == weekly_schedule$week[index])
+           daily <- dplyr::filter(daily_schedule, week == weekly_schedule$week[index])
            week_expanded(course, daily, daily$week[1], week_now, schedule_list)
          }
        )

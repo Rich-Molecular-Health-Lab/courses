@@ -1,14 +1,12 @@
 ---
 title: "Conservation Biology"
 subtitle: "Dr. Alicia M. Rich, University of Nebraska Omaha"
-listing: 
-  contents:
-    - "syllabus.qmd"
-    - "schedule.qmd"
-  fields: [title, subtitle, file-modified, image]
 ---
 
 On this site you can find the most up to date syllabi and schedules for Conservation Biology at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
 
 
 [^1]: The information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.
+
+
+

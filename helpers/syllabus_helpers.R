@@ -1,4 +1,6 @@
 
+conflicts_prefer(dplyr::filter)
+
 embed_resource <- function(course) {
   if (str_detect(course, "hhe")) {
     withTags(
@@ -24,7 +26,7 @@ resource_card <- function(course) {
 
     resources <- content_card(
       title_text    = textbooks[[course_short]][["title"]],
-      subtitle_text = tags$a(href = paste0("schedule_", course_short, ".qmd"), "See course schedule for deadlines."),
+      subtitle_text = tags$a(href = paste0(course_short, "/schedule.qmd"), "See course schedule for deadlines."),
       body          = accordion(
         accordion_panel(
           "Access Spotify Playlist",
@@ -153,7 +155,7 @@ project_details <- function(course) {
   format       <- pluck(course_info, course, "project")
   course_short <- str_extract(course, "\\w+(?=_)")
   totals       <- assessment_course(course)
-  deadline     <- tags$a(href = paste0("schedule_", course_short, ".qmd"), "See course schedule")
+  deadline     <- tags$a(href = paste0(course_short, "/schedule.qmd"), "See course schedule")
   if (format == "Grant Proposal") {
     points   <- assessment[[course]]$assignments$grant_proposal
     subtitle <- "Essay Assignment"

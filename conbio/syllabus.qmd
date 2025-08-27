@@ -1,10 +1,9 @@
 ---
 title: "Syllabus"
 subtitle: "Conservation Biology" 
-author: "Dr. Alicia M. Rich"
 date: "August 25, 2025"
 format: html
-image: "../graphics/conbio_25f_header.png"
+image: "figures/course_header.png"
 params:
   course: "conbio_25f"
 ---
@@ -12,30 +11,180 @@ params:
 ```{r setup, include = FALSE}
 here::i_am("conbio/syllabus.qmd")
 source(here::here("_common.R"))
+course_short <- str_extract(params$course, "\\w+(?=_)")
 ```
+
 
 ## Basics
 
 ```{r}
-logistics_card(params$course)
+withTags(
+  card(
+    class = "card text-white bg-primary mb-3",
+    card_header(
+      span("Course Logistics"),
+      span(course_info[[params$course]][["course_no"]])
+    ),
+    card_image(file = paste0("graphics/", course_info[[params$course]][["file_prefix"]], "_header.png"), width = "100%"),
+    card_title(paste0("This course meets: ", course_info[[params$course]][["day_time"]], " in ", course_info[[params$course]][["location"]])),
+    accordion(
+      accordion_panel(
+        "Description",
+        course_info[[params$course]][["course_description"]]
+      ),
+      open = FALSE
+    ),
+    card_footer(
+      span(if (!is.na(course_info[[params$course]][["prereqs"]])) paste0("Prerequisites: ", course_info[[params$course]][["prereqs"]]) else ""),
+      span(layout_columns(p(course_info[[params$course]][["semester"]]), p(paste(course_info[[params$course]][["credits"]], "Credits"))))
+    )
+  )
+)
 ```
 
 ### Instructor  { .heading-hide-text }
 
 ```{r}
-instructor_card()
+
+content_card(
+    title_text    = "Alicia M. Rich, Ph.D.",
+    subtitle_text = "Assistant Professor of Biology & Environmental Science",
+    body          = tagList(
+      ul_group(
+        layout    = "grid",
+        item_list = list(
+          "Please call me:"   = "Dr. Rich or Professor Rich (she/her)",
+          "Find me in:"       = "Allwine Hall 413",
+          "Office Hours:"     = "By appointment Thur 12-2 or Fri 1-3",
+          "Remote Meetings:"  = tags$a(href = "https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu", "Video or direct message via Zoom"),
+          "Contact me via:"   = tags$a(href = "mailto:aliciarich@unomaha.edu", "aliciarich@unomaha.edu")
+        )
+      )
+    ),
+    footer_text   = div(
+      p("I will be reachable via Zoom during office hours, or you may email me at least 1 business day in advance to arrange an in-person meeting."),
+      p(
+        span(tags$strong("Please use email and not canvas messages for communication.")),
+        "You can expect a response within 2 business days, ",
+        span(tags$strong("but I do not monitor my work email during evenings or on the weekends."))
+      )
+    ),
+    card_class    = "info",
+    heading       = "Course Instructor",
+    icon_name     = "user",
+    image         = card_image(file = here("images/headshot_rich.png"), width = "200px")
+  )
 ```
+
 
 ### Required Materials { .heading-hide-text }
 
 ```{r}
-resource_card(params$course)
+
+if (course_short == "hhe") {
+  content_card(
+      title_text    = textbooks[[course_short]][["title"]],
+      subtitle_text = tags$a(href = sprintf("https://rich-molecular-health-lab.github.io/courses/%s/schedule.html", course_short), "See course schedule for deadlines."),
+      body          = accordion(
+        accordion_panel(
+          "Access Spotify Playlist",
+          embed_resource(params$course)
+        ),
+        open = FALSE
+      ),
+      footer_text   = "Assigned listening may be subject to change at least 2 weeks ahead of the deadline.",
+      card_class    = "primary",
+      heading       = "Required Media",
+      icon_name     = "podcast"
+    )
+
+  } else if (course_short == "conbio") {
+
+content_card(
+      title_text    = textbooks[[course_short]][["title"]],
+      subtitle_text = "eText Available via Canvas IA-Bookshelf",
+      body          = ul_group(
+        layout    = "grid",
+        item_list = list(
+          "Authors:" = textbooks[[course_short]][["authors"]],
+          "Edition:" = span(textbooks[[course_short]][["edition"]], paste0(" (", textbooks[[course_short]][["date"]], ")")),
+          "ISBN:"    = textbooks[[course_short]][["isbn"]]
+        )
+      ),
+      footer_text   = "If you prefer a hardcopy version then you must opt out of automatic purchase of the eBook through Canvas by the end of Week 2.",
+      card_class    = "primary",
+      heading       = "Required Text",
+      icon_name     = "book",
+      image         = card_image(textbooks[[course_short]][["image"]], width = "20%")
+    )
+
+  }
 ```
+
+
 
 ### Student Learning Outcomes 
 
 ```{r}
-learning_outcomes(params$course)
+
+slos[[course_short]] %>%
+    mutate(icon = case_match(
+      Level,
+      "Remember"   ~ "list-check",
+      "Understand" ~ "lightbulb",
+      "Apply"      ~ "wrench",
+      "Analyze"    ~ "chart-line",
+      "Evaluate"   ~ "bars",
+      "Critique"   ~ "pen-nib",
+      "Recognize"  ~ "eye",
+      "Summarize"  ~ "comment"
+    )) %>%
+    relocate(icon) %>%
+    gt() %>%
+    fmt_icon(columns = "icon") %>%
+    opt_table_lines(extent = "none") %>%
+    cols_label(
+      icon ~ "",
+      Level ~ "",
+      Outcome ~ ""
+    ) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697F40"),
+      cell_text(
+        size      = "larger",
+        weight    = "bold",
+        font      = google_font("Arsenal SC"),
+        stretch   = "semi-expanded"
+        )),
+      locations = list(cells_body(columns = c("icon", "Level")))) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697F40"),
+      cell_text(align    = "right")),
+      locations = cells_body(columns = "icon")) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697F40"),
+      cell_text(align    = "left")),
+      locations = cells_body(columns = -c("icon"))) %>%
+    tab_style(style = cell_text(
+      font     = google_font("Arsenal"),
+      style    = "italic"
+    ),
+    locations = cells_body(columns = "Outcome")
+    ) %>%
+    cols_width(icon          ~ px(50),
+               Level         ~ px(150),
+               Outcome       ~ px(500)) %>%
+    rm_header() %>%
+    tab_spanner(label = "Students will be able to...", columns = everything()) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697FFF"),
+      cell_text(style    = "oblique",
+                font     = google_font("Arsenal SC"),
+                color    = "#E8EADFFF",
+                weight   = "bolder",
+                align    = "left"),
+      cell_borders(sides = c("top", "bottom"))),
+      locations = list(cells_column_spanners()))
 ```
 
 
@@ -48,31 +197,127 @@ learning_outcomes(params$course)
 #### Graded Project { .heading-hide-text }
 
 ```{r}
+
 #| title: "Graded Project"
 
-project_details(params$course)
+  format       <- pluck(course_info, params$course, "project")
+  totals       <- assessment_course(params$course)
+  deadline     <- tags$a(href = sprintf("https://rich-molecular-health-lab.github.io/courses/%s/schedule.html", course_short), "See course schedule")
+  if (format == "Grant Proposal") {
+    points   <- assessment[[params$course]]$assignments$grant_proposal
+    subtitle <- "Essay Assignment"
+    detail   <- span("Modified version of the ", a(href = "https://www.aza.org/cgf-tips-for-success", "AZA Conservation Grants Fund Proposal"))
+
+  } else if (str_detect(format, "Portfolio")) {
+    points <- assessment[[params$course]]$assignments$portfolio
+    subtitle <- "Group Assignment"
+    detail   <- "Online portfolio summarizing a fictional zoo designed over the semester's lab exercises"
+
+  } else if (str_detect(format, "Poster")) {
+    points <- assessment[[params$course]]$assignments$poster
+    subtitle <- "Independent Project"
+    detail   <- "Poster communicating a leading issue introduced this semester and your proposed approach to mitigation"
+  }
+
+  percent <- round((points/sum(totals$total))*100, 0)
+
+content_card(
+    title_text    = format,
+    subtitle_text = subtitle,
+    body          = ul_group(
+      layout    = "grid",
+      item_list = list(
+        "Deadline:" = deadline,
+        "Points:"   = p(points, span(class = "text-body-secondary", tags$i(paste0("(", percent, "%)")))),
+        "Format:"   = detail
+      )
+    ),
+    footer_text   = "These details (especially points and deadlines) may be subject to change no less than 2 weeks before the final deadline.",
+    card_class    = "info",
+    heading       = "Graded Project",
+    icon_name     = "pen-to-square"
+  )
+
 ```
+
 
 #### Exams { .heading-hide-text }
 
 ```{r}
 #| title: "Exams"
-missed_exams(params$course)
-exam_format(params$course)
+
+content_card(
+    title_text    = paste0("You will take ", length(pluck(assessment, params$course, "exams")), " synchronous, written exams this semester."),
+    subtitle_text = span(
+      "You may reference any materials you wish during the exam (e.g., notes, text), but ",
+      span(tags$strong("electronic devices are not permitted. ")),
+      "That means you should plan ahead to bring a hard-copy version of any materials you plan to use."
+    ),
+    body          = tagList(
+      div(
+    ul_group(
+      list_lead = "General Exam Format:",
+      layout    = "grid",
+      item_list = list(
+        "Multiple Choice" = "50%",
+        "True/False"      = "10%",
+        "Short Essay*"    = "40%"
+      )
+    ),
+    p(
+      "You are soley responsible for exam preparation and compilation of materials. That means you should not only attend class every day, but ",
+      span(tags$strong("also take down clear and organized notes ")),
+      "for your exams. I may or may not provide access to lecture slides, ",
+      span(tags$strong("so you should rely entirely on my slides as your notes."))
+    )
+  )
+    ),
+    footer_text   = "*In most cases, you will answer ~2-3 total short essay questions, but I provide a choice of at least two prompts for each.",
+    card_class    = "info",
+    heading       = "Exam Details",
+    icon_name     = "pen-to-square"
+  )
 ```
 
 #### Quizzes { .heading-hide-text }
 
 ```{r}
 #| title: "Quizzes"
-prep_quizzes()
+
+content_card(
+    title_text    = "Preparation Quizzes",
+    subtitle_text = "We will begin some of our classes with a short assessment of your preparation for that week's materials.",
+    body          = div(
+      p("These quizzes will only serve as an incentive to ensure widespread accountability for engaging with our discussions and keeping up with the assigned background material. I will ask 1-2 questions that require you to provide a surface-level reflection on some component of the assigned material in no more than 1-3 sentences."),
+      accordion(
+        accordion_panel(
+          "Quiz Rubric",
+          quiz_rubric()
+        ),
+        open = FALSE
+      )
+    ),
+    footer_text   = "Please arrive to each class on time, having completed the assigned background material for that week and brought a writing utencil. If you arrrive after a quiz is over, I will not interrupt the class to give you the quiz, and I will not let you take the quiz after recieving additional information that the others did not access before taking theirs.",
+    card_class    = "info",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
+  )
 ```
 
 #### In-Class Activities { .heading-hide-text }
 
 ```{r}
 #| title: "In-Class Activities"
-activities()
+
+content_card(
+    title_text    = "In-Class Activities",
+    subtitle_text = "Some classes may include group-based exercises or other graded work.",
+    body          = "You will submit your work at the end of class for completion credit. I may or may not give advance notice for graded, in-class activities.",
+    footer_text   = "You will not have any makeup opportunities for missed work, but I will drop at least one of your lowest scores.",
+    card_class    = "info",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
+  )
 ```
 
 :::
@@ -80,7 +325,82 @@ activities()
 #### Grade Breakdown
 
 ```{r}
-grade_breakdown(params$course)
+
+assessment_course(params$course)  %>%
+    mutate(
+      Percent_total = total/sum(total),
+      Format        = if_else(Format == "inclass", "Activity", str_to_title(Format))
+      ) %>%
+    select(
+      Format,
+      Points_each  = points_each,
+      Count        = count,
+      N_dropped    = n_dropped,
+      Points_total = total,
+      Percent_total
+    ) %>%
+    gt(rowname_col = "Format") %>%
+    tab_stubhead(label = "Format") %>%
+    cols_label(Points_each   ~ "Points",
+               Count         ~ "Count",
+               N_dropped     ~ "Drops",
+               Points_total  ~ "Total",
+               Percent_total ~ "% Total") %>%
+    fmt_percent(columns  = Percent_total,
+                decimals = 0) %>%
+    opt_table_lines(extent = "none") %>%
+    tab_style(style = list(cell_borders(color   = "#43475BFF",
+                                        sides   = c("top", "bottom"),
+                                        style   = "double"),
+                           cell_text(stretch = "ultra-condensed",
+                                     size    = "small",
+                                     weight  = "bold",
+                                     style   = "oblique",
+                                     align   = "right")),
+              locations = list(cells_stubhead(), cells_column_labels())) %>%
+    tab_style(style = list(cell_fill(color   = "#E8EADFFF"),
+                           cell_borders(sides = "bottom",
+                                        color = "#43475BFF",
+                                        style = "double"),
+                           cell_text(align   = "right",
+                                     weight  = "bold",
+                                     size    = "large")),
+              locations = list(cells_stub(), cells_body(columns = Percent_total))) %>%
+    tab_style(style = list(cell_fill(color   = "#E8EADFFF"),
+                           cell_borders(sides = "bottom",
+                                        color = "#43475BFF",
+                                        style = "double"),
+                           cell_text(align   = "right",
+                                     size    = "large")),
+              locations = cells_body(columns = !Percent_total)) %>%
+    tab_footnote(
+      paste0(
+        "Assignment credit mainly comes from a ",
+        pluck(course_info, params$course, "project"),
+        " that you will submit toward the end of the semester."
+        ),
+      locations = cells_stub(rows = Format == "Assignments")) %>%
+    tab_footnote(
+      md("These exercises will involve in-class, group activities. You will submit your work at the end of class for completion credit. I may or may not give advance notice for graded in-class activities. **You will not have any makeup opportunities for missed work**, but I will drop at least one of your lowest scores."),
+      locations = cells_stub(rows = Format == "Activity")) %>%
+    tab_footnote(
+      md("These are short quizzes given at the start of class to assess your preparation for the week's topic. **You will not have any makeup opportunities for missed quizzes**, but I will drop at least one of your lowest scores."),
+      locations = cells_stub(rows = Format == "Quizzes")) %>%
+    tab_footnote(
+      "Number (if any) of lowest scores that will automatically be dropped from your final grade. I will drop at least 1 and up to 15% of the total number of quizzes and activities at the end of the semester.",
+       locations = cells_column_labels(columns = N_dropped)) %>%
+    tab_footnote(
+      "You may use hard copy notes/materials for all exams, but not electronic devices/resources.",
+      locations = cells_stub(rows = Format == "Exams")) %>%
+    tab_style(style     = cell_text(size = "small"),
+              locations = cells_footnotes()) %>%
+    tab_source_note("These values are predicted estimates, which will likely change as we progress and adjust pace. You should maintain your own assessment records and cross-reference with canvas for the most up-to-date estimates.") %>%
+    cols_width(stub()        ~ px(120),
+               Points_each   ~ px(85),
+               Count         ~ px(85),
+               N_dropped     ~ px(85),
+               Points_total  ~ px(85),
+               Percent_total ~ px(100))
 ```
 
 
@@ -92,35 +412,134 @@ grade_breakdown(params$course)
 
 ```{r}
 #| title: "Classroom Culture"
-class_culture(value_list)
+
+withTags(
+    card(
+      class = "card bg-light mb-3",
+      card_header(h6("The following three values form the foundation of my classroom culture and expectations:")),
+      accordion(
+        imap(value_list, \(x, idx) accordion_do_dont(x, idx)),
+        open = FALSE
+      )
+    )
+  )
+
 ```
 
 #### Classroom Engagement { .heading-hide-text }
 
 ```{r}
 #| title: "Classroom Engagement"
-engagement()
+
+content_card(
+    title_text    = "Engagement & Record-Keeping",
+    subtitle_text = "You will only succeed in this class if you take full responsibility for your processing and retentionof the content.",
+    body          = div(
+        p(
+          "While I am deeply committed to open science, I believe that open access to teaching materials can also deincentivize the development of note-taking skills. As a result, ",
+          span(strong("you should not assume you will have open access to all slides and other teaching materials for this class in any asynchronous format ")),
+          " (e.g., posting my slides to canvas or emailing them after class). You are more than welcome to take pictures of slides during class or use other forms of recording to help you later, but you must attend class and pay attention to grasp the key concepts and decide which ideas or concepts are worth noting for later, but ",
+          span(strong("you should remember that your instructor's role is to organize and disseminate content during scheduled class time, while yours is to record, review, and retain the most pertinent information."))
+        ),
+        p(
+          "This also means that if you miss class, you should rely on reciprocal collaboration with your classmates, if they are willing to share their notes with you. This is also an important skill for learning how to work on teams and collaborate with colleagues for long-term success.",
+          span(strong("If you do miss class, please, do not ask me to provide a comprehensive written or oral record of what you missed.")),
+          "I do not give repeat lectures and cannot prepare individualized lesson plans for each member of the class."
+          )
+        ),
+    footer_text   = "Work directly with Accessibility Services if legitimate barriers arise, and then I will arrange offical make-up options for you.",
+    card_class    = "success",
+    heading       = "Expectations",
+    icon_name     = "book-open-reader"
+  )
 ```
 
 #### Late Submissions  { .heading-hide-text }
 
 ```{r}
 #| title: "Late Submissions"
-late_work()
+
+content_card(
+    title_text    = "Late Submissions",
+    subtitle_text = "While I prefer to implement as flexible a deadline policy as possible, I also have to maintain reasonable processing times for assessing every student's submissions and submitting grades.",
+    body          = p(span(tags$strong("To incentivize timely submissions, I will deduct 10% from the final grade on any assignment submitted after the deadline.")), "I will not accept any work from the first half of the semester submitted after our Midterm Exam, and I will not accept any work from the second half of the semester submitted after 5:00 PM on the last Friday of classes (i.e., the Friday before final exams begin). Unless Accessibility Services reaches out to discuss extremely extenuating circumstances with me, I will not make any exceptions to grade your work after the Final Exam."),
+    footer_text   = "If you have arranged formal accommodation requests through Accessibility Services for your assignment deadlines (see above), then I will be happy to honor those to my full ability. Please do not hesitate to remind me if that is the case and I inadvertently apply any late penalties to a grade.",
+    card_class    = "secondary",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
+
+  )
 ```
 
 #### Accommodations  { .heading-hide-text }
 
 ```{r}
 #| title: "Accommodations"
-accommodations()
+
+content_card(
+    title_text    = "Accessibility Services Center",
+    subtitle_text = "The Accessibility Services Center (ASC) collaborates with students, administrators, faculty, and staff to ensure access to reasonable and appropriate student disability accommodations.",
+    body          = div(
+    p(
+      "The University of Nebraska at Omaha is committed to providing reasonable accommodations for all persons with disabilities. This syllabus is available in alternate formats upon request. Reasonable accommodations are offered to students who are registered with the ",
+      span(tags$a(href = "https://www.unomaha.edu/student-life/accessibility/student-services.php", "Accessibility Services Center (ASC)."))
+    ),
+    div(
+      style = "padding:10px",
+      ul_group(
+        layout    = "grid",
+        item_list = list(
+          "For more information: " = card_image(
+            here("images/button_asc.png"),
+            width = "200px",
+            href = "https://www.unomaha.edu/student-life/accessibility/index.php"
+          ),
+          "Location: " = "104 H&K",
+          "Phone: "    = "402.554.2872",
+          "Email: "    = span(tags$a(href = "mailto:unoaccessibility@unomaha.edu", "unoaccessibility@unomaha.edu"))
+        ),
+        align   = "start",
+        justify = "evenly"
+      )
+    ),
+    p(
+      class = "text-body",
+      "I do my best to integrate a reasonable and universal degree of flexibility into our schedule and assessment plan to accommodate some work/life balance while also ensuring equity and reasonable progress in your learning. I am happy to receive requests and recommendations to help me update and improve this approach for everyone, but I will only create personalized accommodations by working directly with the ASC."
+    ),
+    p(
+      class = "text-body-tertiary",
+      style = "font-size:13px",
+      tags$em("Note: Please do not provide me with any personal or medical details to explain your barriers to attendance or assignment completion. While I do care about accommodating these issues when they arise,",
+              span(tags$b("I also care about your privacy and respect that office's expertise in managing the conditions and complications that are outside of my purview.")))
+    )
+  ),
+    footer_text   = "I genuinely appreciate opportunities to work with and around student barriers by collaborating with the ASC. If you know that you are coming into the semester with learning barriers (e.g., neurodivergence, visual/auditory processing differences), I strongly encourage you to register this with their office and then communicate with me about the ways I can work this into my approach from the beginning.",
+    card_class    = "danger",
+    heading       = "Accommodations",
+    icon_name     = "users"
+  )
 ```
 
 #### Academic Integrity { .heading-hide-text }
 
 ```{r}
 #| title: "Academic Integrity"
-plagiarism()
+
+content_card(
+    title_text    = "Academic Integrity",
+    subtitle_text = span("Plagiarism and cheating of any kind on an examination, quiz, or assignment will result at least in an 'F' for that assignment.",
+    span(
+      class = "card-subtitle text-muted",
+      "(and may, depending on the severity of the case, lead to an 'F' for the entire course) and may be subject to appropriate referral to the Office of Academic and Student Affairs for further action."
+    )),
+    body          = p("I will assume that for this course, you will adhere to the University of Nebraska at Omaha policies and maintain the highest academic integrity standards. In other words, don't cheat by giving answers to others or taking them from anyone else. I will also adhere to the highest standards of academic integrity, so please do not ask me to change (or expect me to change) your grade illegitimately or to bend or break the rules for one person that will not apply to everyone."),
+    footer_text   = span(
+      "Advances in AI continue to necessitate new boundaries and policies in our definition of authenticity and originality. If you are ever unsure where the line between plagiarism and original work is, ",
+      span(tags$strong("it is always better to ask your instructor and not to guess."))),
+    card_class    = "danger",
+    heading       = "Policies",
+    icon_name     = "certificate"
+  )
 ```
 
 
@@ -151,9 +570,40 @@ Drops can only be completed in your course's 100% refund period. If you drop the
 ```{r}
 #| title: "Title IX"
 
-titleix()
+  content_card(
+    title_text    = "Title IX Sexual Misconduct",
+    subtitle_text = "As your instructor, one of my responsibilities is to help create a safe learning environment on our campus.",
+    body          = div(
+      p("Title IX and our Sexual Misconduct policy prohibit sexual misconduct.  If you have experienced sexual misconduct or know someone who has, the University can help."),
+      p(
+        tags$a(
+          href = "https://www.unomaha.edu/university-compliance/civil-rights/title-ix-information/index.php",
+          "I encourage you to visit the Title IX website to learn more."
+          ),
+        tags$a(
+          href = "https://www.unomaha.edu/student-life/wellness/counseling-and-psychological-services/index.php",
+          "If you seek help and want to speak to someone confidentially, you can contact the Counseling and Psychological Services (CAPS)."
+          )
+        )
+    ),
+    footer_text   = "It is also crucial that you know that federal regulations and University policy require me to promptly convey any information about potential sexual misconduct known to me to UNO’s Title IX Coordinator. In that event, they will work with a few others on campus to ensure appropriate measures are taken, and resources are available to the student who may have been harmed.  Protecting a student’s privacy is of utmost concern, and all involved will only share information with those who need to know to ensure the University can respond and assist.",
+    card_class    = "warning",
+    heading       = "University Policies",
+    icon_name     = "landmark-flag"
+  )
 
-inclusion_office()
+  content_card(
+    title_text    = "Office of Student Leadership, Involvement, and Inclusion",
+    subtitle_text = "The university's former Gender and Sexuality Resource Center has been reorganized to form a more intersectional program.",
+    body          = "This office is meant as a space for students to learn from each other, build relationships, and foster an environment of understanding and respect. If you are interested in contributing to or benefiting from their work to make UNO a more inclusive environment or you find yourself in need of support and resources, I recommend you start with a visit to their office.",
+    footer_text   = tags$a(
+      href = "https://www.unomaha.edu/office-of-student-leadership-involvement-and-inclusion/",
+      "You can find them in rooms 112 and 113 of the Milo Bail Student Center or online."
+      ),
+    card_class    = "info",
+    heading       = "University Resources",
+    icon_name     = "handshake"
+  )
 ```
 
 #### Code of Student Rights, Responsibilities, and Conduct
@@ -165,7 +615,19 @@ Students at the University of Nebraska Omaha are expected to maintain standards 
 ### Other Notices
 
 ```{r}
-other_notices()
+
+content_card(
+    title_text    = "Right of Revision",
+    subtitle_text = "The instructor reserves the right to revise or adjust the course syllabus best to accommodate the pace and needs of the students.",
+    body          = div(
+    h3("Fair Use Policy"),
+    p("Copying or recording synchronous classes and asynchronous course materials without the express prior approval of Dr. Rich is prohibited. All copies and recordings remain the property of UNO and Dr. Rich. UNO and Dr. Rich reserve the right to retrieve, inspect, or destroy them after their intended use. These policies are not intended to affect the rights of students with disabilities under applicable law or UNO policies.")
+  ),
+    footer_text   = "Please contact Dr. Rich if you would like a text-file version of this syllabus.",
+    card_class    = "secondary",
+    heading       = "Policies",
+    icon_name     = "certificate"
+  )
 ```
 
 

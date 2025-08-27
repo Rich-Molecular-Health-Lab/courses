@@ -2,9 +2,8 @@
 title: "Schedule"
 subtitle: "Human Health & the Environment"
 date: "August 25, 2025"
-author: "Dr. Alicia M. Rich"
 format: html
-image: "../graphics/hhe_25f_header.png"
+image: "figures/course_header.png"
 params:
   course: "hhe_25f"
 ---
@@ -12,18 +11,151 @@ params:
 ```{r setup, include = FALSE}
 here::i_am("hhe/schedule.qmd")
 source(here::here("_common.R"))
-source(here("helpers/schedule_reactable.R"))
+course_short <- str_extract(params$course, "\\w+(?=_)")
+semester     <- str_remove(params$course, "\\w+_")
+source(here(paste0(course_short, "/topics.R")))
+source(here(paste0(course_short, "/schedule_detail.R")))
 ```
 
-```{r data, include = FALSE}
-#| context: data
+```{r}
 
-load(here("hhe/schedule.RData"))
-load(here("hhe/schedule_list.RData"))
+blank_schedule <- semester_days(params$course)
+week_now <- as.integer(str_remove(current_week(semester), "\\w"))
+
+if (str_detect(params$course, "hhe")) {
+schedule_list <- populate_schedule(
+  params$course,
+  blank_schedule,
+  topics,
+  podcasts,
+  podcast_selections,
+  videos,
+  film_selections,
+  assignments
+)
+schedule      <- enframe_hhe_schedule(schedule_list)
+daily_schedule  <-   schedule %>%
+      mutate(date = as_date(date)) %>%
+      select(
+        week,
+        date,
+        agenda,
+        location,
+        assignment
+      ) %>%
+      mutate(reading = NA)
+
+
+    cols <- list(
+      theme = colDef(
+        name     = "Agenda",
+        minWidth = 300
+      )
+    )
+    
+    weekly_schedule <- select(
+      schedule,
+      week,
+      theme
+    ) %>%
+      summarize(
+        theme    = str_flatten_comma(unique(theme)),
+        .by = "week"
+      )
+
+} else if (str_detect(params$course, "conbio")) {
+topics_revised <- revise_topics(topics, discarded)
+topics_flat    <- flatten_topics(topics_revised)
+schedule_list  <- map_topics(topics_flat, topics_nested, blank_schedule)
+schedule       <- enframe_schedule(schedule_list, assignments, locations, params$course)
+
+daily_schedule  <-   schedule %>%
+      mutate(date = as_date(date)) %>%
+      select(
+        week,
+        date,
+        reading,
+        agenda = topic,
+        location,
+        assignment
+      )
+
+
+    cols <- list(
+      theme = colDef(show = FALSE),
+      title = title_colDef(weekly_schedule)
+      )
+    
+    weekly_schedule <- select(
+      schedule,
+      week,
+      theme,
+      title
+    ) %>%
+      summarize(
+        theme   = str_flatten_comma(unique(theme)),
+        title   = str_flatten_comma(unique(title)),
+        .by = "week"
+      ) %>%
+      mutate(
+        theme = case_when(
+          theme == "Other" & str_detect(title, "EXAM") ~ "Exam",
+          theme == "Other" & !str_detect(title, "EXAM") & str_detect(title, "Film") ~ lag(theme),
+          .default = theme
+        )
+      )
+}
+
 ```
 
 *Check back often for updates.*
 
 ```{r}
-schedule_reactable(params$course, schedule, schedule_list)
+tags$button(
+      class = "btn btn-primary",
+     "Expand/Collapse All Weeks",
+     onclick = sprintf("Reactable.toggleAllRowsExpanded('schedule_%s')", params$course),
+     )
+
+reactable(
+     weekly_schedule,
+     borderless      = TRUE,
+     theme           = maintab_theme,
+     defaultExpanded = FALSE,
+     defaultPageSize = 17,
+     elementId       = paste0("schedule_", params$course),
+     columns         = list_assign(
+       cols,
+       week  = colDef(
+         name        = "Week",
+         maxWidth    = 100,
+         align       = "left",
+         style       = "font-weight:bold",
+         details     = function(index) {
+           daily <- dplyr::filter(daily_schedule, week == weekly_schedule$week[index])
+           week_expanded(params$course, daily, daily$week[1], week_now, schedule_list)
+         }
+       )
+     ),
+     rowStyle        = function(index) {
+       theme  <- str_remove_all(weekly_schedule$theme[index], ",.+")
+       color <- pluck(theme_colors, course_short, theme)
+       color_border <- if (week_now > index) gsub("FF", "30", color) else color
+       color_bg <- if (week_now == index) gsub("FF", "30", color) else "#ffffff"
+       font_weight <- if (week_now == index) "bolder" else if (week_now > index) "lighter" else "normal"
+
+       style <- paste0(
+         "border-left: 6px solid ",
+         color_border,
+         "; background-color:",
+         color_bg,
+         "; font-weight:", font_weight
+         )
+
+       return(style)
+     }
+   )
 ```
+
+
+

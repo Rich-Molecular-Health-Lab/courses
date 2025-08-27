@@ -2,36 +2,40 @@ project:
   type: website
   output-dir: "docs"
   execute-dir: project
+
 website:
-  title: "Courses with Dr. Rich at UNO"
+  title: "Course Information"
   favicon: images/logo_richlab.png
-  description: |
-    Courses at UNO taught by Dr. Alicia Rich
+  description: "Courses at UNO taught by Dr. Alicia Rich"
   navbar:
     class: "navbar navbar-expand-lg bg-dark"
     data-bs-theme: "dark"
     logo-alt: "Rich Lab Website"
     left:
-      - text: Overview
-        href: "index.qmd"
-      - text: Conservation Biology
+      - text: "Conservation Biology"
         menu:
-          - text: Course Homepage
+          - text: "Course Homepage"
             href: "conbio/index.qmd"
-          - text: Current Schedule
+          - text: "Current Schedule"
             href: "conbio/schedule.qmd"
-          - text: Syllabus
+          - text: "Syllabus"
             href: "conbio/syllabus.qmd"
-      - text: Human Health & the Environment
+      - text: "Human Health & the Environment"
         menu:
-          - text: Course Homepage
+          - text: "Course Homepage"
             href: "hhe/index.qmd"
-          - text: Current Schedule
+          - text: "Current Schedule"
             href: "hhe/schedule.qmd"
-          - text: Syllabus
+          - text: "Syllabus"
             href: "hhe/syllabus.qmd"
+
+author: "Dr. Alicia M. Rich"
 format:
   html:
+    toc: true
+    toc-depth: 4
+    toc-location: left
+    toc-title: "Contents"
     theme:
       - yeti
     page-layout: article
@@ -39,21 +43,12 @@ format:
       - styles/yeti.css
       - styles/fonts.css
       - styles/headings.css
+    smooth-scroll: true
     include-in-header:
       - text: |
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&family=Cabin+Condensed:wght@400;500;600;700&family=Yaldevi:wght@200..700&display=swap" rel="stylesheet">
-    toc: true
-    toc-depth: 4
-    toc-location: left
-    toc-title: "Contents"
-    smooth-scroll: true
-  revealjs:
-    incremental: true
-    author: "Dr. Alicia Rich"
-    institute: "University of Nebraska Omaha"
-    slide-number: true
-    css: styles/slides.css
+
 editor: source
 
