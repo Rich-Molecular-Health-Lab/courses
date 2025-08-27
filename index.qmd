@@ -1,6 +1,6 @@
 ---
 title: "Current Course Info"
-subtitle: "Dr. Alicia M. Rich, University of Nebraska Omaha"
+subtitle: "Fall 2025"
 listing: 
   contents:
     - "conbio/syllabus.qmd"

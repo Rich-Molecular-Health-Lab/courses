@@ -1,9 +1,8 @@
 ---
 title: "Syllabus"
-subtitle: "Conservation Biology" 
 date: "August 25, 2025"
 format: html
-image: "figures/course_header.png"
+freeze: true
 params:
   course: "conbio_25f"
 ---

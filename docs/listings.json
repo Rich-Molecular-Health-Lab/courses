@@ -9,10 +9,9 @@
     ]
   },
   {
-    "listing": "/hhe/index.html",
+    "listing": "/hhe/slides_listing.html",
     "items": [
-      "/hhe/schedule.html",
-      "/hhe/syllabus.html"
+      "/hhe/slides/2025-8-26_intro.html"
     ]
   },
   {
@@ -20,6 +19,19 @@
     "items": [
       "/conbio/schedule.html",
       "/conbio/syllabus.html"
+    ]
+  },
+  {
+    "listing": "/conbio/slides_listing.html",
+    "items": [
+      "/conbio/slides/2025-8-25_intro.html"
+    ]
+  },
+  {
+    "listing": "/hhe/index.html",
+    "items": [
+      "/hhe/schedule.html",
+      "/hhe/syllabus.html"
     ]
   }
 ]

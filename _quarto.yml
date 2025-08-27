@@ -20,6 +20,8 @@ website:
             href: "conbio/schedule.qmd"
           - text: "Syllabus"
             href: "conbio/syllabus.qmd"
+          - text: "Slide Decks"
+            href: "conbio/slides_listing.qmd"
       - text: "Human Health & the Environment"
         menu:
           - text: "Course Homepage"
@@ -28,6 +30,8 @@ website:
             href: "hhe/schedule.qmd"
           - text: "Syllabus"
             href: "hhe/syllabus.qmd"
+          - text: "Slide Decks"
+            href: "conbio/slides_listing.qmd"
 
 author: "Dr. Alicia M. Rich"
 date-modified: today
