@@ -30,6 +30,8 @@ website:
             href: "hhe/syllabus.qmd"
 
 author: "Dr. Alicia M. Rich"
+date-modified: today
+date-format: "ddd MMM D, YYYY"
 format:
   html:
     toc: true

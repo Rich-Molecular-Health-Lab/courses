@@ -1,6 +1,12 @@
 ---
 title: "Human Health & the Environment"
 subtitle: "Dr. Alicia M. Rich, University of Nebraska Omaha"
+listing: 
+  contents:
+    - "syllabus.qmd"
+    - "schedule.qmd"
+  type: grid
+  fields: [image, date-modified, title, subtitle]
 ---
 
 On this site you can find the most up to date syllabi and schedules for Human Health & the Environment at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
