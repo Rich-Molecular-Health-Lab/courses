@@ -1,0 +1,66 @@
+---
+title: "3.2 Genetic Diversity"
+date: "2025-8-27"
+title-slide-attributes:
+  data-background-image: backgrounds/2-2_title.png
+  data-background-size: cover 
+  class: title-white
+format: revealjs
+---
+
+# Introduction
+
+## Hierarchical Levels of Biodiversity
+
+::: {.img-frame}
+
+![](figures/Ch03/c03fig001.jpg){height=500px}
+
+:::
+
+::: {.notes}
+Biological variation is a continuum, and it is notoriously difficult to divide life into discrete categories.
+
+- Genetic diversity refers to the genetic variation within species, both among individuals within single populations and among geographically distinct populations.
+- Species diversity refers to the variety of species that comprise a biological community—the collection of species that occupy and interact in a particular location.
+- Community and ecosystem diversity refers to the different biological communities and their associated ecosystems that comprise whole landscapes.
+
+:::
+
+# Sources of Genetic Variation
+
+## Population-Level
+
+::: {.notes}
+
+- A population is a group of individual organisms of the same species living within a given (or particular) geographical area at the same time. 
+- The geographical area is usually defined to be of a size in which individuals are likely to find mates and reproduce. 
+- Species that are geographically widespread are often subdivided into distinct breeding groups that live in different geographical areas. 
+- These geographically separated groups are sometimes referred to as different populations of the same species or as subpopulations of the species.
+
+:::
+
+## London's Great Smog (1952)
+
+:::{.columns}
+
+:::{.column}
+
+![](figures/){.img-border}
+
+:::
+
+:::{.column}
+
+:::
+
+:::
+
+. . .
+
+
+::: {.notes}
+
+
+:::
+

@@ -1,5 +1,7 @@
 format:
   revealjs:
+    toc: true
+    toc-depth: 2
     incremental: true
     slide-number: true
     theme:

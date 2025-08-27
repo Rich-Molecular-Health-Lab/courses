@@ -8,6 +8,7 @@ title-slide-attributes:
 format: revealjs
 ---
 
+
 # Historic Context
 
 ## Timeline Part 1 { .toc-only data-background-image="canva_slides/2_2_historic_context1.png" data-background-size="cover" }
@@ -183,6 +184,7 @@ This also correlates with the emergence of Conservation Biology as a scientific 
   allowfullscreen>
 </iframe>
 
+# Foundational Concept & Theory
 
 ## An Interdisciplinary Field
 
