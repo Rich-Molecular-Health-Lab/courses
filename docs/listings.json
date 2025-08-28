@@ -11,21 +11,8 @@
   {
     "listing": "/hhe/slides_listing.html",
     "items": [
-      "/hhe/slides/2025-8-26_intro.html"
-    ]
-  },
-  {
-    "listing": "/conbio/index.html",
-    "items": [
-      "/conbio/schedule.html",
-      "/conbio/syllabus.html"
-    ]
-  },
-  {
-    "listing": "/conbio/slides_listing.html",
-    "items": [
-      "/conbio/slides/2-2_contemporary_conservation_biology.html",
-      "/conbio/slides/0_syllabus_overview.html"
+      "/hhe/slides/1_climate.html",
+      "/hhe/slides/0_syllabus_overview.html"
     ]
   },
   {
@@ -33,6 +20,21 @@
     "items": [
       "/hhe/schedule.html",
       "/hhe/syllabus.html"
+    ]
+  },
+  {
+    "listing": "/conbio/slides_listing.html",
+    "items": [
+      "/conbio/slides/2-2_contemporary_conservation_biology.html",
+      "/conbio/slides/3-2_genetic_diversity.html",
+      "/conbio/slides/0_syllabus_overview.html"
+    ]
+  },
+  {
+    "listing": "/conbio/index.html",
+    "items": [
+      "/conbio/schedule.html",
+      "/conbio/syllabus.html"
     ]
   }
 ]

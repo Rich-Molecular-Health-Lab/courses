@@ -1,8 +1,20 @@
 format:
   revealjs:
+    toc: true
+    toc-depth: 2
     incremental: true
     slide-number: true
-    css: ../../styles/slides.css
+    theme:
+      - ../../styles/sky_shuksan2.scss
+    css:
+      - ../../styles/headings.css
+      - ../../styles/slides.css
     institute: "University of Nebraska Omaha"
     author: "Dr. Alicia M. Rich"
-    smooth-scroll: true
+    subtitle: "Human Health & the Environment"
+    center: true
+    transition: slide
+    background-transition: fade
+    auto-animate: true
+include-before-body: "../../styles/slide-border.html"
+

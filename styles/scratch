@@ -1,0 +1,39 @@
+.reveal section.title-highlight-light h1,
+.reveal section.title-highlight-light h2,
+.reveal section.title-highlight-light h3,
+.reveal section.title-highlight-light .subtitle,
+.reveal section.title-highlight-light .author,
+.reveal section.title-highlight-light .quarto-title-authors .quarto-title-affiliation > p ,
+.reveal section.title-highlight-light .date {
+  background: #ffffffB3;
+  color: #000 !important;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  display: inline-block;           /* make the background hug the text */
+  text-shadow: 1px 1px 3px #eeeeee; /* subtle extra pop */
+}
+
+/* Light highlight box on all title slide meta */
+.reveal section.title-highlight-light .quarto-title-block .quarto-title .title,
+.reveal section.title-highlight-light .quarto-title-block .quarto-title .subtitle,
+.reveal section.title-highlight-light .quarto-title-block .quarto-title-authors .quarto-title-author,
+.reveal section.title-highlight-light .quarto-title-block .quarto-title-authors .quarto-title-affiliation,
+.reveal section.title-highlight-light p.author,           /* fallback pattern */
+.reveal section.title-highlight-light .quarto-title-authors .quarto-title-affiliation > p {       /* fallback pattern */
+  background: #ffffffB3;   /* white @ 70% */
+  color: #000 !important;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  display: inline-block;   /* keep the box tight around text */
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+}
+
+
+.reveal section.title-highlight-light .quarto-title-authors .quarto-title-author > p,
+.reveal section.title-highlight-light .quarto-title-authors .quarto-title-affiliation > p {
+  background: #ffffffB3;
+  color: #000 !important;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  display: inline-block;
+}

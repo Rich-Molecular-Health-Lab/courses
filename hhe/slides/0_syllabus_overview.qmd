@@ -9,7 +9,7 @@ params:
 ---
 
 ```{r setup, include = FALSE}
-here::i_am("hhe/slides/2025-8-26_intro.qmd")
+here::i_am("hhe/slides/0_syllabus_overview.qmd")
 source(here::here("_common.R"))
 ```
 
