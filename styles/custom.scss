@@ -1,0 +1,146 @@
+/*-- scss:defaults --*/
+
+// Include theme-specific fonts
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+
+// Primary/body text
+$presentation-heading-font: "Encode Sans SC", sans-serif !default;
+$font-family-sans-serif: "Work Sans", sans-serif;
+$presentation-font-size-root: 35px;
+$body-color: #000;
+
+ */
+// taylor_midnights colors
+$body-bg: #F1F3F2FF;
+$text-muted	lighten($body-color, 50%);
+$link-color	#8897A4FF;
+$link-color-hover	lighten($link-color, 15%);
+$selection-bg	lighten($link-color, 25%);
+$selection-color	$border-color !default;
+$light-bg-text-color	$body-color;
+$border-color: #2B152CFF !default;
+$border-width: 10px !default;
+
+// code blocks
+$code-block-border-color: lighten($link-color, 30%) !default;
+$code-block-bg: #B3A6A3BC !default;
+
+// Vertical spacing between blocks of text
+$presentation-block-margin: 30px !default;
+
+// Headings
+$headingMargin: 0 0 $blockMargin 0;
+$presentation-heading-color: $border-color !default;
+$presentation-heading-line-height: 1.2;
+$presentation-heading-letter-spacing: normal;
+$presentation-heading-text-transform: normal;
+$presentation-heading-text-shadow: none;
+$presentation-heading-font-weight: normal;
+$presentation-h1-text-shadow: $headingTextShadow;
+
+$presentation-h1-font-size: 3.77em;
+$presentation-h2-font-size: 2.11em;
+$presentation-h3-font-size: 1.55em;
+$presentation-h4-font-size: 1.00em;
+
+$font-family-monospace: monospace;
+
+// Colors used for UI elements that are overlaid on top of
+// the presentation
+$overlayElementBgColor: 240, 240, 240;
+$overlayElementFgColor: 0, 0, 0;
+
+
+// Generates the presentation background, can be overridden
+// to return a background image or gradient
+@mixin bodyBackground() {
+	background: $backgroundColor;
+}
+
+/*-- scss:rules --*/
+
+// Fix links so they are not cut off
+.reveal a {
+  line-height: 1.3em;
+}
+
+/* Expose image-border tokens (driven by SCSS theme vars) */
+:root {
+  --img-border-color: #{$border-color};   /* comes from your SCSS $border-color */
+  --img-border-width: 7px;
+  --img-border-radius: 10px;
+
+  /* optional accents tied to your theme vars */
+  --img-border-accent: #{$link-color};    /* useful “brand” accent */
+  --img-shadow: 0 6px 18px rgba(0,0,0,.18);
+}
+
+/* Default bordered image */
+.reveal section img.img-border {
+  border: var(--img-border-width) solid var(--img-border-color);
+  border-radius: var(--img-border-radius);
+  padding: 0px;                 /* small inner gap (optional) */
+  background: transparent;      /* or #fff if you want a mat */
+  box-shadow: var(--img-shadow);
+  max-width: 95%;
+  max-height: 95%;
+}
+
+/* Accent-colored border (uses link color) */
+.reveal section img.img-border-accent {
+  border: var(--img-border-width) solid var(--img-border-accent);
+  border-radius: var(--img-border-radius);
+  padding: 0px;
+  background: transparent;
+  box-shadow: var(--img-shadow);
+}
+
+/* “Card” frame if you want a mat + square corners */
+.reveal section .img-frame {
+  display: inline-block;
+  padding: 1px;
+  border: var(--img-border-width) solid var(--img-border-color);
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: var(--img-shadow);
+}
+
+.reveal section img.img-border,
+.reveal section img.img-border-accent {
+  display: block;
+  margin: 0 auto;     /* horizontal center */
+  max-width: 70%;     /* smaller footprint */
+  max-height: 70%;
+}
+
+/* Override default highlight color for []{.mark} */
+.reveal .mark,
+.reveal mark {
+  background: $selection-bg;   /* warm yellow, change to your color */
+  color: $body-color;           /* text color inside the highlight */
+  padding: 0.1em 0.2em;  /* optional padding for readability */
+  border-radius: 5px;    /* optional rounded corners */
+  text-shadow: 1px 1px 4px #eeeeee;
+}
+
+/* Style blockquotes */
+.reveal blockquote {
+  font-size: 0.8em;                 /* a bit larger */
+  line-height: 1.5;
+  padding: 0.8em 1.2em;
+  margin: 1.2em auto;
+  width: 85%;                       /* keep them narrow */
+  background: $selection-bg; /* translucent background */
+  border-left: 6px solid $border-color; /* accent color */
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* Remove inline italics on nested <p> */
+.reveal blockquote p {
+  margin: 0.5em 0;
+}
+
