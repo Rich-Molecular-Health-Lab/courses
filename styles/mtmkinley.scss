@@ -1,7 +1,7 @@
 /**
- * MtMckinley adapted from:
- * Solarized Light theme for reveal.js.
- * Author: Achim Staebler
+ * Custom version of sky theme for reveal.js.
+ *
+ * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  *
  * Adapted for Quarto by Posit, PBC
  * Copyright (C) 2024 Posit, PBC
@@ -10,43 +10,88 @@
 /*-- scss:defaults --*/
 
 // Include theme-specific fonts
-@import url(./fonts/league-gothic/league-gothic.css);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
-
-$font-family-sans-serif: Lato, sans-serif !default;
-
-/**
- */
-// MtMckinley colors
-$base03: #6E6C81FF;
-$base02: #D5AE63FF;
-$base01: #93AD90FF;
-$base00: #3F3939FF;
-$base0: #839496;
-$base1: #93a1a1;
-$base2: #C9B793FF;
-$base3: #F7ECD8FF;
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
 
 // Override theme settings
-$body-color: $base00 !default;
-$presentation-heading-font: "League Gothic", sans-serif !default; // from settings.scss
-$presentation-heading-color: $base03 !default;
-$presentation-heading-text-transform: uppercase !default; // from settings.scss
+$font-family-sans-serif: "Open Sans", sans-serif !default;
+$body-color: #3F3939FF !default;
+$presentation-heading-font: "Quicksand", sans-serif !default;
+$presentation-heading-color: $body-color !default;
+$presentation-heading-letter-spacing: -0.08em !default;
 $presentation-heading-text-shadow: none !default;
-$presentation-heading-font-weight: normal !default;
-$body-bg: $base3 !default;
-$link-color: $base03 !default;
-$selection-bg: $base02 !default;
+$body-bg: #F7ECD8FF !default;
+$border-color: #93AD90FF !default;
+$border-width: 10px !default;
+$link-color: #6E6C81FF !default;
+$selection-bg: #D5AE63FF !default;
+
+$presentation-heading-text-transform: uppercase !default; // from settings.scss
+$presentation-heading-font-weight: normal !default; // from settings.scss
 
 $overlayElementBgColor: 0, 0, 0 !default;
 $overlayElementFgColor: 240, 240, 240 !default;
 
+// Change text colors against dark slide backgrounds
+$dark-bg-text-color: #F7ECD8FF !default;
+
 // code blocks
-$code-block-border-color: $base2 !default;
+$code-block-border-color: lighten($link-color, 30%) !default;
+$code-block-bg: transparent !default;
 
 /*-- scss:rules --*/
 
-html * {
-  color-profile: sRGB;
-  rendering-intent: auto;
+// Fix links so they are not cut off
+.reveal a {
+  line-height: 1.3em;
 }
+
+/* Expose image-border tokens (driven by SCSS theme vars) */
+:root {
+  --img-border-color: #{$border-color};   /* comes from your SCSS $border-color */
+  --img-border-width: 6px;
+  --img-border-radius: 10px;
+
+  /* optional accents tied to your theme vars */
+  --img-border-accent: #{$link-color};    /* useful “brand” accent */
+  --img-shadow: 0 6px 18px rgba(0,0,0,.18);
+}
+
+/* Default bordered image */
+.reveal section img.img-border {
+  border: var(--img-border-width) solid var(--img-border-color);
+  border-radius: var(--img-border-radius);
+  padding: 0px;                 /* small inner gap (optional) */
+  background: transparent;      /* or #fff if you want a mat */
+  box-shadow: var(--img-shadow);
+  max-width: 95%;
+  max-height: 95%;
+}
+
+/* Accent-colored border (uses link color) */
+.reveal section img.img-border-accent {
+  border: var(--img-border-width) solid var(--img-border-accent);
+  border-radius: var(--img-border-radius);
+  padding: 0px;
+  background: transparent;
+  box-shadow: var(--img-shadow);
+}
+
+/* “Card” frame if you want a mat + square corners */
+.reveal section .img-frame {
+  display: inline-block;
+  padding: 8px;
+  border: var(--img-border-width) solid var(--img-border-color);
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: var(--img-shadow);
+}
+
+.reveal section img.img-border,
+.reveal section img.img-border-accent {
+  display: block;
+  margin: 0 auto;     /* horizontal center */
+  max-width: 70%;     /* smaller footprint */
+  max-height: 70%;
+}
+

@@ -2,12 +2,6 @@ project:
   type: website
   output-dir: "docs"
   execute-dir: project
-  resources:
-    - styles/robot-lung.css
-    - styles/slides.css
-    - styles/yeti.css
-    - styles/fonts.css
-    - styles/headings.css
 
 website:
   title: "Course Information"
@@ -37,7 +31,7 @@ website:
           - text: "Syllabus"
             href: "hhe/syllabus.qmd"
           - text: "Slide Decks"
-            href: "conbio/slides_listing.qmd"
+            href: "hhe/slides_listing.qmd"
 
 author: "Dr. Alicia M. Rich"
 date-modified: today

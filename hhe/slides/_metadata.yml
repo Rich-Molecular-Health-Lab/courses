@@ -5,7 +5,7 @@ format:
     incremental: true
     slide-number: true
     theme:
-      - ../../styles/sky_shuksan2.scss
+      - ../../styles/shuksan2.scss
     css:
       - ../../styles/headings.css
       - ../../styles/slides.css

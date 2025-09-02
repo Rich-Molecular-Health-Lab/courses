@@ -5,7 +5,7 @@ format:
     incremental: true
     slide-number: true
     theme:
-      - ../../styles/sky_mtmkinley.scss
+      - ../../styles/mtmkinley.scss
     css:
       - ../../styles/slides.css
     institute: "University of Nebraska Omaha"
