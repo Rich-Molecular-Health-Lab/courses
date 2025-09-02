@@ -5,6 +5,9 @@ listing:
   contents:
     - "syllabus.qmd"
     - "schedule.qmd"
+  sort: 
+    - "date"
+    - "title"
   type: grid
   fields: [image, date-modified, title, subtitle]
 ---
