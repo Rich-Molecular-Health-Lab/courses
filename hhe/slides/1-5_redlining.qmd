@@ -1,0 +1,70 @@
+---
+title: "Environmental Justice (cont.)"
+subtitle: "Redlining"
+date: "2025-9-2"
+title-slide-attributes:
+  data-background-image: backgrounds/1.png
+  data-background-size: cover 
+  class: "title-left title-highlight-light"
+format: revealjs
+---
+
+```{r}
+#| context: setup
+#| include: false
+
+here::i_am("hhe/slides/1-5_redlining.qmd")
+source(here::here("_common.R"))
+source(here("courses/hhe/slides/helpers.R"))
+```
+
+```{r}
+#| context: data
+
+load(here("courses/hhe/slides/tables/holc.RData"))
+```
+
+
+## Redlining
+
+“Redlining” refers to a now-illegal practice from the 1930s when the federal government labeled non-White neighborhoods as undesirable for real estate investment. 
+: Public and private lenders often withheld loans and other services from people in those areas, depriving residents of opportunities to grow their wealth.
+
+
+## The Home Owners’ Loan Corporation
+
+- A government agency established in 1933 by FDR as part of the New Deal to help homeowners who were at risk of losing their homes to foreclosure.
+- The HOLC also created a housing plan that served as the basis for the National Housing Act of 1934.
+- Most of the neighborhoods (74%) that the HOLC graded as high-risk or “Hazardous” are low-to-moderate income (LMI) today.
+- Most of the HOLC-graded “Hazardous” areas (nearly 64%) are minority neighborhoods now.
+
+[](https://ncrc.org/holc-health/)
+
+
+## Redlining Legacies
+
+```{r}
+holc_tbl(holc$baltimore, "Baltimore, MA")
+```
+
+
+## Redlining Legacies
+
+```{r}
+holc_tbl(holc$dallas, "Dallas, TX")
+```
+
+## Redlining Legacies
+
+```{r}
+holc_tbl(holc$kansascity, "Kansas City, MO")
+```
+
+## Redlining Legacies
+
+```{r}
+holc_tbl(holc$baltimore, "Baltimore, MA")
+holc_tbl(holc$dallas, "Dallas, TX")
+holc_tbl(holc$kansascity, "Kansas City, MO")
+```
+

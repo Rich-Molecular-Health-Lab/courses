@@ -1,0 +1,11 @@
+---
+title: "Natural Disasters"
+subtitle: "Hurricanes & Floods"
+date: "2025-9-9"
+title-slide-attributes:
+  data-background-image: backgrounds/1.png
+  data-background-size: cover 
+  class: "title-left title-highlight-light"
+format: revealjs
+---
+

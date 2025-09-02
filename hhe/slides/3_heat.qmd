@@ -1,0 +1,254 @@
+---
+title: "Heat Waves & Extreme Heat"
+date: "2025-9-2"
+title-slide-attributes:
+  data-background-image: backgrounds/1.png
+  data-background-size: cover 
+  class: "title-left title-highlight-light"
+format: revealjs
+---
+
+# Causes of Extreme Heat
+
+## What influences Heat?
+
+While temperature is largely caused by the sun and weather systems there are other factors that influence it. 
+
+:::{.columns}
+
+:::{.column}
+
+### Weather
+
+### Shape of the Land
+
+:::
+
+:::{.column}
+
+### Bodies of Water
+
+### Urban Landscapes
+
+:::
+
+:::
+
+
+## Weather
+
+### Where the wind comes from
+
+- Winds coming off the water will carry cooler maritime air over the warm land.
+- Winds coming over the land will generally be warmer
+  - particularly if they're coming from lower latitudes or the desert
+
+### Temperatures in the upper atmosphere
+
+- Temperatures high enough above the surface aren't influenced by daytime changes caused by the sun
+  - or low-level winds such as coastal sea breezes
+- Air mixing throughout the day brings this upper-level air down.
+  - becomes warmer as it approaches the surface
+  - Air is more compressed at lower levels, because air pressure increases as height decreases.
+  - This compression increases its temperature at a rate of around 10°C/k – a process known as **adiabatic warming**.
+
+## Weather
+
+### Sunlight and Shade
+
+- Air temperature is officially measured in the shade at 2 m off the ground
+  - *away from influences that can cause fluctuations in the reading*
+  
+### Humidity and Wind Chill
+
+- They're not taken into account where temperature is measured.
+
+## Shape of the Land
+
+### Mountains and high places
+
+- Temperatures decrease as height increases, at an average rate of 6.5°C for every 1000m.
+  - The atmosphere becomes thinner with height, due to gravity.
+
+### Valleys
+
+- Valleys that dip below sea level record some of the highest temperatures on the planet.
+  - Valleys are excellent at collecting and holding hot air that sinks.
+- Air moving down the valley from above can also add to the heat.
+  - This is called **katabatic wind**
+    - *adiabatic warming* is at play.
+- Sloping surfaces around the valley also mean a greater surface area is available to capture solar heat (*compared to a flat surface*).
+- At night, valleys can become colder than surrounding areas.
+  - Colder air is more dense, so it will sink towards the bottom of a valley.
+
+## Bodies of Water
+
+### Water Bodies moderate Surrounding Land Temperatures
+
+- Retain large amounts of heat.
+- Take a long time to heat up and cool down compared to the land.
+
+### Ocean Currents
+
+- Warmer currents translate to warmer land temperatures and vice versa.
+  - The best global example of this is the Atlantic Gulf Stream.
+  - Southern Europe remains much warmer than the northeast of the USA in the winter despite being at similar latitudes.
+
+## Urban Heat Island Effect
+
+Heat islands are urbanized areas that experience higher temperatures than outlying areas.
+: Buildings, roads, and other infrastructure absorb and re-emit the sun’s heat more than natural landscapes such as forests and water bodies.
+
+
+## Urban Heat Island Effect
+
+- Temperatures are different at the surface of the earth and in the atmospheric air, higher above the city.
+- For this reason, there are two types of heat islands:
+  1.  **Surface Heat Islands**
+  2.  **Atmospheric Heat Islands**
+- Surface temperatures vary more than atmospheric air temperatures during the day, but they are generally similar at night.
+
+
+[The dips and spikes in surface temperatures over the pond area show how water maintains a nearly constant temperature day and night because it does not absorb the sun’s energy the same way as buildings and paved surfaces.]
+
+::: {.notes}
+
+- Parks, open land, and bodies of water can create cooler areas within a city.
+- Temperatures are typically lower at suburban-rural borders than in downtown areas. 
+
+:::
+
+## Surface Heat Islands
+
+- These heat islands form because urban surfaces such as roadways and rooftops absorb and emit heat more effectively than most natural surfaces.
+
+. . . 
+
+>On a warm day with a temperature of 91°F, conventional roofing materials may reach as high as 60°F warmer than air temperatures.
+
+- Surface heat islands tend to be most intense during the day when the sun is shining.
+
+## Atmospheric Heat Islands
+
+- These heat islands form as a result of warmer air in urban areas compared to cooler air in outlying areas.
+
+. . .
+
+>Atmospheric heat islands vary much less in intensity than surface heat islands.
+
+# Consequences of Extreme Heat
+
+## Impacts of Urban Heat Islands
+
+### Increased Energy Consumption
+
+### Elevated Emissions of Air Pollutants and Greenhouse Gases
+
+### Compromised Human Health and Comfort
+
+### Impaired Water Quality
+
+## Vulnerable Populations
+
+::: {.columns}
+
+::: {.column}
+
+### Older Adults
+
+- Older adults are more likely to be in poor health, less mobile and isolated, more sensitive to high heat, and to live on reduced incomes.
+
+:::
+
+::: {.column}
+
+### Young Children
+
+- More rapid breathing rates relative to body size
+- More time spent outdoors
+- Developing respiratory systems 
+
+. . .
+
+All raise childrens' chances of aggravated asthma and other lung diseases caused by ozone air pollution and smog, which usually increases during heat waves.
+
+:::
+
+:::
+
+## Vulnerable Populations
+
+::: {.columns}
+
+::: {.column}
+
+### Low Income Communities
+
+- Greater risk of heat-related illnesses due to poor housing conditions
+  - E.g., lack of air conditioning, small living spaces
+- Inadequate resources to find alternative shelter during a heat wave.
+
+:::
+
+::: {.column}
+
+### Outdoor Workers
+
+- They have higher exposures to ozone air pollution and heat stress
+  - Especially if work tasks involve heavy exertion.
+
+:::
+
+:::
+
+## Vulnerable Populations
+
+::: {.columns}
+
+::: {.column}
+
+### People with Chronic Illnesses
+
+- Chronic conditions like diabetes and cardiovascular illness place people at higher risk of death. 
+- Certain medications impair thermoregulation.
+
+:::
+
+::: {.column}
+
+### People with Disabilities
+
+- Physical impairments and cognitive deficits increase risk during heat waves. 
+- Mobility constraints increase negative impacts and risk.
+
+:::
+
+:::
+
+# Mitigation & Resilience
+
+## Reduce the Risks
+
+The EPA suggests four main strategies for long-term risk reduction.
+
+::: {.columns}
+
+::: {.column}
+
+### Increase Tree and Vegetative Cover
+
+### Create Green Roofs
+
+:::
+
+::: {.column}
+
+### Install Reflective Roofs
+
+### Use Cool Pavements
+
+:::
+
+:::
+
+
