@@ -1114,9 +1114,9 @@ podcasts <- list(
 
 podcast_selections <- list(
   W1  = c("A Storm is Brewing. Is it Climate Change?"),
-  W2  =  c("Presenting: The Carbon Copy - Why Heat Waves Become Deadly", "Catching Fire"),
+  W2  =  c("Presenting: The Carbon Copy - Why Heat Waves Become Deadly"),
   W3  =  c("Tempestology (Hurricanes)"),
-  W4  =  c("Critical Ecology (Social Systems & Environment)"),
+  W4  =  c("Critical Ecology (Social Systems & Environment)", "Catching Fire"),
   W5  =  c("Are Rats Running This Podcast?", "Disease Ecology (Lyme/Tick-borne Illnesses)"),
   W6  =  c("Does it Feel Like Mosquitoes are Getting Worse?"),
   W7  =  c(),

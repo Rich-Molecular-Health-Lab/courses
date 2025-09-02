@@ -4,45 +4,42 @@ topics <- list(
       days = "D1"
     ),
     "Public Health"         = list(
-      days = "D1"
+      days = "D2"
       ),
     "Environmental Justice" = list(
-      days = "D1"
+      days = "D2"
+    ),
+    "Redlining" = list(
+      days = "D3"
     )
   ),
   "Climate"             = list(
     "Observing and Modelling Climate" = list(
-      days = "D2"
+      days = "D4"
     ),
     "Consequences of Climate Change"  = list(
-      days = "D2"
+      days = "D4"
     ),
     "Heat Waves & Extreme Heat"       = list(
-      days = "D3"
+      days = "D4"
     )
   ),
   "Natural Disasters"   = list(
     "Hurricanes"  = list(
-      days = "D5"
+      days = c("D5", "D6")
     ),
     "Floods"      = list(
-      days = "D5"
+      days = c("D5", "D6")
     ),
     "Wildfires"   = list(
-      days = "D4"
+      days = "D7"
     )
   ),
   "Built Environments"  = list(
-    "Suburban Sprawl" = list(
-      days = "D6"
-    ),
     "Urban Infrastructure"    = list(
-      days = "D6"
+      days = "D8"
     ),
-    "Housing Justice" = list(
-      days = c("D7", "D8")
-    ),
-    "Urban Pests"     = list(
+    "Pests & Public Health"     = list(
       days = "D9"
     )
   ),
