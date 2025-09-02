@@ -1,6 +1,6 @@
 format:
   revealjs:
-    toc: true
+    toc: false
     toc-depth: 2
     incremental: true
     slide-number: true

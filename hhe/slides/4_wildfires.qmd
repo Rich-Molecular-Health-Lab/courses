@@ -8,3 +8,42 @@ title-slide-attributes:
 format: revealjs
 ---
 
+## California Wildfires
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.pbs.org/video/why-are-socal-wildfires-getting-worse-nruiae/"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+
+## Suburban Sprawl
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.pbs.org/video/is-this-the-real-reason-more-homes-are-burning-in-wildfires-rv6jr4/"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+
+## Air Quality
+
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.youtube.com/embed/3i70gR7lrp8?cc_load_policy=1&cc_lang_pref=en"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::

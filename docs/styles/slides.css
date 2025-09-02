@@ -171,5 +171,11 @@ section.toc-only > h3 {
   text-align: left !important;
 }
 
+<style>
+  /* Make iframes reliably fill most of the slide */
+  .reveal .map-wrap { height: 80vh; }
+  .reveal .map-wrap iframe { width: 100%; height: 100%; }
+</style>
+
 
 

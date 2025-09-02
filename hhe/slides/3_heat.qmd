@@ -251,4 +251,18 @@ The EPA suggests four main strategies for long-term risk reduction.
 
 :::
 
+## Climate Resilience
+
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.pbs.org/video/how-americas-hottest-city-is-innovating-to-survive-w1yzdb/"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+
 

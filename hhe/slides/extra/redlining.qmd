@@ -1,0 +1,21 @@
+---
+title: "redlining"
+format: html
+---
+
+:::{img-frame}
+
+![Break points for quartiles of the historical redlining score for census tracts with at least 20% of their area HOLC graded and ranked nationally](figures/redlining_grading_quartiles.jpg)
+
+:::
+
+
+:::{img-frame}
+
+![Maps of the original HOLC grading, divisions of census tracts into quartiles by the historic redlining score, life expectancy at birth and social vulnerability by quartiles. - St. Louis](figures/redlining_health_stlouis.jpg)
+
+:::
+
+:::{.notes}
+Source: Mapping Inequality Project, Univ. of Richmond; author’s calculation of historic redlining score; CDC life expectancy 2010-2015, and CDC SVI 2018
+:::
