@@ -31,8 +31,8 @@
   {
     "listing": "/conbio/slides_listing.html",
     "items": [
-      "/conbio/slides/2-2_contemporary_conservation_biology.html",
       "/conbio/slides/3-2_genetic_diversity.html",
+      "/conbio/slides/2-2_contemporary_conservation_biology.html",
       "/conbio/slides/0_syllabus_overview.html"
     ]
   },

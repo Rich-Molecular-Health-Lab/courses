@@ -6,6 +6,7 @@ title-slide-attributes:
   data-background-size: cover 
   class: title-white
 format: revealjs
+freeze: true
 ---
 
 
