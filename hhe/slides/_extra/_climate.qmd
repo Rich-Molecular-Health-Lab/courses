@@ -1,0 +1,49 @@
+---
+title: "_climate"
+format: revealjs
+render: false
+freeze: true
+---
+
+## Key Issues
+
+::: {.columns}
+
+:::{.column}
+
+1.  Weather Attribution
+  - How reliably can we now attribute specific events and phenomena to anthropogenic climate change?
+  - Does this also correlate with clear public health trends?
+  
+:::
+
+:::{.column}
+
+2.  Heat Waves
+  - How detrimental are severe heat waves to human health?
+  - Are heat waves becoming more frequent and severe or does it just seem that way?
+  - Which people or communities or regions experience disproportionate impacts and which are buffered?
+
+:::
+
+:::{.column}
+
+3.  Wild Fires
+  - On what scale and at what magnitude are wild fires impacting human health?
+  - How are wild fires and their impacts changing?
+  - What is unique about wildfire mitigation and management on the current/future scale?
+
+:::
+
+:::
+  
+. . .
+
+>What can we do about it?
+
+
+## Climate
+
+- What the weather is like over a long period of time in a specific area.
+- Different regions can have different climates.
+- To describe the climate of a place, we might say what the temperatures are like during different seasons, how windy it usually is, or how much rain or snow typically falls.

@@ -4,6 +4,7 @@ format:
     toc-depth: 2
     incremental: true
     slide-number: true
+    smaller: true
     theme:
       - solarized
       - ../../styles/mtmkinley.scss
@@ -15,5 +16,9 @@ format:
     transition: slide
     background-transition: fade
     auto-animate: true
-include-before-body: "../../styles/slide-border.html"
+  letterbox-revealjs:
+    css: [style/custom.css]
+    progress: false
+    menu: true
+    preview-links: true
 

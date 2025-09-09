@@ -1,106 +1,131 @@
 ---
 title: "Observing & Modeling Climate"
-date: "2025-9-2"
+date: "2025-9-4"
 title-slide-attributes:
-  data-background-image: backgrounds/1.png
-  data-background-size: cover 
-  class: "title-left title-highlight-light"
-format: revealjs
+  data-background-image: backgrounds/climate.png
+  data-background-size: contain
+format: letterbox-revealjs
+    
 ---
 
 # Basics
 
-## Climate
+## Climate {.smaller}
 
-Anthropogenic emission of greenhouse gases have increased dramatically in the postindustrial era, reaching unprecedented concentrations.
-: There is consensus among scientists that Earth's climate in changing rapidly and that these changes are almost entirely due to human activities.
+:::columns
+:::{.column width="70%"}
+![](figures/climate_text/c12fig001.jpg)
+:::
 
-## Climate
+:::{.column width="30%"}
+Anthropogenic emission of [greenhouse gases]{.green} have increased dramatically in the postindustrial era, reaching [unprecedented concentrations]{.green}.
 
-:::{.img-frame}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false style="margin-top:100px"}
+There is consensus among scientists that Earth's climate in changing rapidly and that these changes are [almost entirely]{.green} due to human activities.
+:::
+:::
+:::
+:::
 
-<iframe width="800" height="450"
-  src="https://www.youtube.com/embed/Y1mPWVzaGQY?cc_load_policy=1&cc_lang_pref=en"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
 
+## Crash Course: Climate Change
+
+{{< video https://youtu.be/Y1mPWVzaGQY?si=fgoBIlf_RkCJ6ogt width="100%" height="85%" >}}
+
+::: {.notes}
+Video length = 14 min
 :::
 
 ## Warming
 
-The planet's average surface temperature has warmed by 1.4 degrees F
+::: columns
+:::{.column width="40%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+The planet's average surface temperature has warmed by [1.4&deg;F]{.green}.
+:::
+:::
+:::
+:::
+
+![](figures/climate_text/c12fig002.jpg){.image-right}
+
+
+
 
 ## Sea Level
 
-Global average sea level has risen 8–9 inches (21–24 centimeters) since 1880.
+::: columns
+:::{.column width="20%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+Global average [sea level has risen]{.green} 8–9" (21–24cm) since 1880.
+:::
+:::
+:::
+:::
+
+![](figures/climate_text/c12fig003.jpg){.image-right}
+
 
 ## Species Redistributions
 
-87% of species are shifting their ranges toward Earth’s poles at ~6.1 km per decade.
-
-. . .
-
+::: columns
+:::{.column width="50%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+87% of [species are shifting their ranges]{.green} toward Earth’s poles at ~6.1km per decade.
+:::
+:::
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
 This is influencing:
-: Food security
-: Disease transmission
-: Biological asynchronies
-
-## Key Issues
-
-::: {.columns}
-
-:::{.column}
-
-1.  Weather Attribution
-  - How reliably can we now attribute specific events and phenomena to anthropogenic climate change?
-  - Does this also correlate with clear public health trends?
-  
+: [Food security]{.fragment .fade-in}
+: [Disease transmission]{.fragment .fade-in}
+: [Biological asynchronies]{.fragment .fade-in}
+<br>
+<br>
+:::
+:::
+:::
 :::
 
-:::{.column}
+![](figures/climate_text/c12fig016.jpg){.image-right}
 
-2.  Heat Waves
-  - How detrimental are severe heat waves to human health?
-  - Are heat waves becoming more frequent and severe or does it just seem that way?
-  - Which people or communities or regions experience disproportionate impacts and which are buffered?
 
+# Monitoring Climate
+
+
+___
+
+![](figures/climate_canva/global.png){.image-left}
+
+
+:::{.text-overlay}
+Global climate is a description of a planet's climate as a whole, with [all the regional differences averaged]{.green}.
+<br>
+<br>
+Depends on the amount of energy received by the sun and the amount of energy that is [trapped in the system]{.green}.
 :::
 
-:::{.column}
-
-3.  Wild Fires
-  - On what scale and at what magnitude are wild fires impacting human health?
-  - How are wild fires and their impacts changing?
-  - What is unique about wildfire mitigation and management on the current/future scale?
-
-:::
-
+::: notes
+NOAA (National Oceanic and Atmospheric Administration)
+: * Agency's work includes monitoring rising global temperatures, increasing sea levels, shrinking glaciers, rising atmospheric CO2 levels, and changes in ocean health.
+: * They also provide climate information to help communities and businesses prepare for and respond to impacts like severe floods, droughts, and disruptions to marine ecosystems and industries.
 :::
   
-. . .
+## Climate Normals {.incremental}
 
->What can we do about it?
+![](figures/climate_canva/lincoln_normals.png){.image-right}
 
-# Climate vs. Weather
+:::columns
+:::{.column width="35%"}
+:::{.callout-tip icon=false}
+Normals might be measured over decades or more.
+:::
 
-## Climate
-
-- What the weather is like over a long period of time in a specific area.
-- Different regions can have different climates.
-- To describe the climate of a place, we might say what the temperatures are like during different seasons, how windy it usually is, or how much rain or snow typically falls.
-
-## Monitoring Climate
-
-- NOAA: National Oceanic and Atmospheric Administration
-- Like the United States, different regions of the world have varying climates.
-- **Global climate** is a description of a planet's climate as a whole, with all the regional differences averaged.
-  - Depends on the amount of energy received by the sun and the amount of energy that is trapped in the system. 
-  
-## Climate Normals
-
-Scientists measure climate normals as averages in:
+Averages in:
 
 - Precipitation
 - Temperature
@@ -108,19 +133,30 @@ Scientists measure climate normals as averages in:
 - Sunshine
 - Wind
 
-. . .
+:::
+:::
 
-**Normals might be measured over decades or more.**
+## Climate {.smaller}
 
-## Climate
+![](figures/climate_canva/weathervsclimate.png){.image-right}
 
+:::columns
+:::{.column width="25%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
 Can tell us:
 : When might we expect the warmest day of the year or the coldest day of the year in Eastern Nebraska?
-
-. . .
-
+:::
+:::
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
 Can’t tell us:
 : What will the weather conditions be like on those specific days?
+:::
+:::
+:::
+:::
+
 
 ## Weather
 
@@ -135,7 +171,19 @@ Can’t tell us:
 
 ## Weather
 
-- Most weather happens in the part of Earth’s atmosphere that is closest to the ground - called the **troposphere**.
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+
+Most weather happens in the part of Earth’s atmosphere that is closest to the ground - called the **troposphere**.
+
+:::
+:::
+
+
+![](figures/climate_canva/troposphere.png)
+
+::: notes
+
 - Many different factors can change the atmosphere in a certain area
   - air pressure
   - temperature
@@ -143,9 +191,7 @@ Can’t tell us:
   - wind speed and direction
   - *many others*...
   
-. . .
-
-Together, they determine the weather at a given time and location.
+:::
   
 # Bridging the Gap
 
