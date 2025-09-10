@@ -7,8 +7,6 @@ format:
     embed-resources: true
 params:
   course: "conbio_25f"
-execute: 
-  freeze: true
 ---
 
 ```{r setup, include = FALSE}

@@ -2,9 +2,18 @@ project:
   type: website
   output-dir: "docs"
   execute-dir: project
-
-execute:
-  freeze: auto
+  render:
+    - slides/hhe/*.qmd
+    - slides/conbio/*.qmd
+    - conbio/schedule.qmd
+    - hhe/schedule.qmd
+    - conbio/syllabus.qmd
+    - hhe/syllabus.qmd
+    - conbio_slides.qmd
+    - hhe_slides.qmd
+    - conbio/index.qmd
+    - hhe/index.qmd
+    - index.qmd
 
 website:
   title: "Course Information"

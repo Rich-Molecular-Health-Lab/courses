@@ -4,11 +4,11 @@ subtitle: "Conservation Biology"
 listing: 
   id: slides
   contents:
-    - "slides/conbio/*.qmd"
+    - "slides/conbio/2-2_contemporary_conservation_biology.qmd"
+    - "slides/conbio/3-2_genetic_diversity.qmd"
+    - "slides/conbio/3-3_species_diversity.qmd"
   fields: [image, date, date-modified, title, subtitle]
   sort: "date desc"
-execute:
-  freeze: true
 ---
 
 I post updated versions of class slide decks to this page. Please remember that these slides should **enhance**, but ***not replace*** your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.
