@@ -1,0 +1,11 @@
+---
+title: "Built Environments"
+subtitle: "Suburban Sprawl, Urban Infrastructure"
+date: "2025-9-11"
+title-slide-attributes:
+  data-background-image: ../backgrounds/1.png
+  data-background-size: cover 
+  class: "title-left title-highlight-light"
+format: revealjs
+---
+

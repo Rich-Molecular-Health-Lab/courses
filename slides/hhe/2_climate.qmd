@@ -1,0 +1,420 @@
+---
+title: "Observing & Modeling Climate"
+date: "2025-9-4"
+title-slide-attributes:
+  data-background-image: ../backgrounds/climate.png
+  data-background-size: contain
+  class: "center middle"
+format: letterbox-revealjs
+    
+---
+
+# Basics
+
+## Climate {.smaller}
+
+:::columns
+:::{.column width="70%"}
+![](figures/climate_text/c12fig001.jpg)
+:::
+
+:::{.column width="30%"}
+Anthropogenic emission of [greenhouse gases]{.green} have increased dramatically in the postindustrial era, reaching [unprecedented concentrations]{.green}.
+
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false style="margin-top:100px"}
+There is consensus among scientists that Earth's climate in changing rapidly and that these changes are [almost entirely]{.green} due to human activities.
+:::
+:::
+:::
+:::
+
+
+## Crash Course: Climate Change
+
+{{< video https://youtu.be/Y1mPWVzaGQY?si=fgoBIlf_RkCJ6ogt width="100%" height="85%" >}}
+
+::: {.notes}
+Video length = 14 min
+:::
+
+## Warming
+
+::: columns
+:::{.column width="40%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+The planet's average surface temperature has warmed by [1.4&deg;F]{.green}.
+:::
+:::
+:::
+:::
+
+![](figures/climate_text/c12fig002.jpg){.image-right}
+
+
+
+
+## Sea Level
+
+::: columns
+:::{.column width="20%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+Global average [sea level has risen]{.green} 8–9" (21–24cm) since 1880.
+:::
+:::
+:::
+:::
+
+![](figures/climate_text/c12fig003.jpg){.image-right}
+
+
+## Species Redistributions
+
+::: columns
+:::{.column width="50%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+87% of [species are shifting their ranges]{.green} toward Earth’s poles at ~6.1km per decade.
+:::
+:::
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+This is influencing:
+: [Food security]{.fragment .fade-in}
+: [Disease transmission]{.fragment .fade-in}
+: [Biological asynchronies]{.fragment .fade-in}
+<br>
+<br>
+:::
+:::
+:::
+:::
+
+![](figures/climate_text/c12fig016.jpg){.image-right}
+
+
+# Monitoring Climate
+
+
+___
+
+![](figures/climate_canva/global.png){.image-left}
+
+
+:::{.text-overlay}
+Global climate is a description of a planet's climate as a whole, with [all the regional differences averaged]{.green}.
+<br>
+<br>
+Depends on the amount of energy received by the sun and the amount of energy that is [trapped in the system]{.green}.
+:::
+
+::: notes
+NOAA (National Oceanic and Atmospheric Administration)
+: * Agency's work includes monitoring rising global temperatures, increasing sea levels, shrinking glaciers, rising atmospheric CO2 levels, and changes in ocean health.
+: * They also provide climate information to help communities and businesses prepare for and respond to impacts like severe floods, droughts, and disruptions to marine ecosystems and industries.
+:::
+  
+## Climate Normals {.incremental}
+
+![](figures/climate_canva/lincoln_normals.png){.image-right}
+
+:::columns
+:::{.column width="35%"}
+:::{.callout-tip icon=false}
+Normals might be measured over decades or more.
+:::
+
+Averages in:
+
+- Precipitation
+- Temperature
+- Humidity
+- Sunshine
+- Wind
+
+:::
+:::
+
+## Climate {.smaller}
+
+![](figures/climate_canva/weathervsclimate.png){.image-right}
+
+:::columns
+:::{.column width="25%"}
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+Can tell us:
+: When might we expect the warmest day of the year or the coldest day of the year in Eastern Nebraska?
+:::
+:::
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+Can’t tell us:
+: What will the weather conditions be like on those specific days?
+:::
+:::
+:::
+:::
+
+
+## Weather
+
+*The mix of events that happen each day in our atmosphere*
+
+- Even though there’s only one atmosphere on Earth, the weather isn’t the same all around the world.
+- Weather is different in different parts of the world and changes over
+  - minutes
+  - hours
+  - days
+  - weeks
+
+## Weather
+
+:::{.fragment .fade-in}
+:::{.callout-tip icon=false}
+
+Most weather happens in the part of Earth’s atmosphere that is closest to the ground - called the **troposphere**.
+
+:::
+:::
+
+
+![](figures/climate_canva/troposphere.png)
+
+::: notes
+
+- Many different factors can change the atmosphere in a certain area
+  - air pressure
+  - temperature
+  - humidity
+  - wind speed and direction
+  - *many others*...
+  
+:::
+  
+# Bridging the Gap
+
+## Why is it difficult to definitively link extreme weather events to climate change?
+
+. . .
+
+And why does this matter?
+
+## Models
+
+- A model-based investigation requires some combination of model, data, analysis, and computation to better understand or predict a complex, real-world system.
+- An iterative process, using initial results and inferences and human judgment to improve data collection, modeling, computation, and/or analysis methods.
+
+## Climate Models
+
+- Over the years, the number of components being modeled has increased, as has the size and disciplinary expertise of the teams developing the models.
+  
+## World Weather Attribution  
+
+- An international effort to analyze and communicate the possible influence of climate change on extreme weather events, such as storms, extreme rainfall, heatwaves, cold spells, and droughts.
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.youtube.com/embed/AeZbbEaLj4c?cc_load_policy=1&cc_lang_pref=en"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+
+# Health-Specific Threats
+
+## Key Health Impacts
+
+- Exacerbation of existing health problems.
+- Creation of new and unanticipated health problems.
+
+## Extreme Weather Events
+
+Changes in:
+: Frequency
+: Intensity
+: Duration of extreme events
+
+. . .
+
+Overall Impacts:
+: Loss of life
+: Economic damages
+
+. . .
+
+Event-Related Health Risks:
+: Risks during, before, and after events.
+: Extended health risks due to property damage and environmental degradation.
+: Unique risks from simultaneous or successive events.
+
+[This figure provides 10-year estimates of fatalities related to extreme events from 2004 to 2013, as well as estimated economic damages from 58 weather and climate disaster events with losses exceeding $1 billion.]
+
+## Temperature-Related Health Issues
+
+Hotter-than-average summer days and colder-than-average winter days compromise the body's ability to regulate temperature.
+
+[This figure shows the projected increase in deaths due to warming in the summer months (hot season, April–September), the projected decrease in deaths due to warming in the winter months (cold season, October–March), and the projected net change in deaths compared to a 1990 baseline period for the 209 U.S. cities examined, using the GFDL–CM3 and MIROC5 climate models]
+
+## Heat-Related Health Issues
+
+
+::: {.columns}
+
+:::{.column}
+
+**Extreme Heat Can Cause:**
+
+- Heat cramps
+- Heat exhaustion
+- Heatstroke
+- Hyperthermia
+
+:::
+
+:::{.column}
+
+**Prolonged high temperatures increase hospital admissions for:**
+
+- Cardiovascular disorders
+- Kidney disorders
+- Respiratory disorders
+
+:::
+
+:::
+
+## Cold-Related Health Issues
+
+
+::: {.columns}
+
+:::{.column}
+
+**Extreme Cold Can Cause:**
+
+- Hypothermia
+- Frostbite
+
+:::
+
+:::{.column}
+
+**Temperature extremes can exacerbate:**
+
+- Cardiovascular disease
+- Respiratory disease
+- Cerebrovascular disease
+- Diabetes-related conditions
+
+:::
+
+:::
+
+## Climate Change and Air Quality
+
+::: {.columns}
+
+:::{.column}
+
+Modified weather patterns impact the levels and locations of outdoor air pollutants, such as:
+
+- Ground-level ozone (O3)
+- Fine particulate matter
+
+:::
+
+. . .
+
+:::{.column}
+
+Poor air quality, whether outdoors or indoors, negatively affects:
+
+- Respiratory systems
+- Cardiovascular systems
+
+:::
+
+:::
+
+[Two downscaled global climate model projections using two greenhouse gas concentration pathways estimate increases in average daily maximum temperatures of 1.8°F to 7.2°F (1°C to 4°C) and increases of 1 to 5 parts per billion (ppb) in daily 8-hour maximum ozone in the year 2030 relative to the year 2000 throughout the continental United States. ]
+
+
+## Impact of Increasing CO2 Levels
+
+Elevated CO2 levels promote the growth of plants that release airborne allergens (aeroallergens).
+
+. . .
+
+Changes in outdoor air quality and aeroallergens also impact indoor air quality as:
+
+: Pollutants
+: Aeroallergens
+
+## Pollen Effects
+
+Increased pollen concentrations and extended pollen seasons lead to:
+: Higher rates of allergic sensitization
+: More frequent asthma episodes
+: Reduced productivity at work and school
+
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.youtube.com/embed/WEhKSWYGluk?cc_load_policy=1&cc_lang_pref=en"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+
+## Impacts on Water
+
+- Precipitation and temperature changes affect fresh and marine water quantity and quality primarily through urban, rural, and agriculture runoff.
+- This runoff, in turn, affects human exposure to water-related illnesses primarily through drinking water, recreational water, and fish or shellfish contamination.
+
+
+## Impacts on Water
+
+::: {.columns}
+
+:::{.column}
+
+### Water Resources
+
+- Climate change is expected to affect fresh and marine water resources across most of the United States.
+- These changes will likely increase exposure to water-related contaminants that cause illness.
+
+:::
+
+:::{.column}
+
+### Illnesses
+
+- Waterborne pathogens: Bacteria, Viruses, Protozoa
+- Toxins produced by: harmful algae, cyanobacteria
+- Exposure via ingestion of contaminated drinking water, inhalation or skin contact with recreational water, consumption of contaminated fish/shellfish.
+
+:::
+
+:::{.column}
+
+### Risk Management
+
+- Temperature, precipitation runoff, hurricanes, and storm surges influence the growth, spread, and toxicity of pathogens and toxins.
+- Water quality monitoring, Drinking water treatment standards and practices, Beach closures, Advisories for boiling drinking water and shellfish harvesting
+
+:::
+
+:::
+
+
+
+

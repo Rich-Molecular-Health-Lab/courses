@@ -3,6 +3,9 @@ project:
   output-dir: "docs"
   execute-dir: project
 
+execute:
+  freeze: auto
+
 website:
   title: "Course Information"
   favicon: images/logo_richlab.png
@@ -21,7 +24,7 @@ website:
           - text: "Syllabus"
             href: "conbio/syllabus.qmd"
           - text: "Slide Decks"
-            href: "conbio/slides_listing.qmd"
+            href: "conbio_slides.qmd"
       - text: "Human Health & the Environment"
         menu:
           - text: "Course Homepage"
@@ -31,7 +34,7 @@ website:
           - text: "Syllabus"
             href: "hhe/syllabus.qmd"
           - text: "Slide Decks"
-            href: "hhe/slides_listing.qmd"
+            href: "hhe_slides.qmd"
 
 author: "Dr. Alicia M. Rich"
 date-modified: today

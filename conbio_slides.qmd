@@ -1,0 +1,24 @@
+---
+title: "Slide Decks"
+subtitle: "Conservation Biology"
+listing: 
+  id: slides
+  contents:
+    - "slides/conbio/*.qmd"
+  fields: [image, date, date-modified, title, subtitle]
+  sort: "date desc"
+execute:
+  freeze: true
+---
+
+I post updated versions of class slide decks to this page. Please remember that these slides should **enhance**, but ***not replace*** your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.
+
+::: {#slides}
+:::
+
+::: {.callout-warning}
+## Copyright Notice
+© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.  
+Lecture slides are provided for enrolled students’ personal reference only.  
+Redistribution or reuse is not permitted without permission.
+:::

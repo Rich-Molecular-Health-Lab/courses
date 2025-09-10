@@ -1,0 +1,233 @@
+---
+title: "Key Terms & Themes"
+date: "2025-8-28"
+title-slide-attributes:
+  data-background-image: ../backgrounds/1.png
+  data-background-size: cover 
+  class: "title-left title-highlight-light"
+format: revealjs
+---
+
+# Misinformation & Disinformation
+
+## Misinformation
+
+False information shared [*without the intention*]{.mark} to mislead.
+
+![](figures/misinformation.jpg){.img-border}
+
+## Disinformation
+
+False information [*deliberately created and spread*]{.mark} to deceive or cause harm.
+
+![](figures/disinformation.jpg){.img-border}
+
+## Malinformation
+
+Genuine information used [*out of context*]{.mark} to cause harm.
+
+![](figures/misdisinformation.jpg){.img-border .nostretch}
+
+## Malinformation
+
+Genuine information used [*out of context*]{.mark} to cause harm.
+
+![](figures/misdisinformation2.jpg){.img-border}
+
+## Green Washing
+
+Misinformation, Disinformation, or Malinformation?
+
+. . .
+
+![](figures/greenwashing5.png){.img-border}
+
+
+## Green Washing
+
+Examples?
+
+. . .
+
+![](figures/greenwashing_vw1.png){.img-border}
+
+::: {.notes}
+
+- Dieselgate refers to the 2015 Volkswagen emissions scandal
+- Volkswagon used a software trick to circumvent EPA emissions testing
+- The automaker’s so-called clean diesel cars actually produced nitrogen oxide emissions up to 40 times the legal limit. 
+- The scandal involved approximately 11 million vehicles globally and led to massive fines, settlements, vehicle buybacks, recalls, criminal charges against executives, and a significant drop in Volkswagen's reputation and sales. 
+
+:::
+
+
+## Green Washing
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.youtube.com/embed/GemJWrp0nAM?cc_load_policy=1&cc_lang_pref=en"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+
+
+::: {.notes}
+
+- Dieselgate refers to the 2015 Volkswagen emissions scandal
+- Volkswagon used a software trick to circumvent EPA emissions testing
+- The automaker’s so-called clean diesel cars actually produced nitrogen oxide emissions up to 40 times the legal limit. 
+- The scandal involved approximately 11 million vehicles globally and led to massive fines, settlements, vehicle buybacks, recalls, criminal charges against executives, and a significant drop in Volkswagen's reputation and sales. 
+
+:::
+
+# One Health
+
+## Definition {.smaller .vcenter}
+
+::: {.columns}
+
+::: {.column}
+
+::: {.img-frame}
+
+![](figures/one_health4.png)
+
+:::
+
+:::
+
+::: {.column .vcenter-left}
+
+- The health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent.
+
+- One Health aims to sustainably balance and optimize the health of people, animals and ecosystems.
+
+
+:::
+
+:::
+
+
+## Scope {.smaller}
+
+
+::: {.img-frame}
+
+![](figures/one_health2.png){height=400px}
+:::
+
+::: aside
+
+The approach mobilizes multiple sectors, disciplines and communities at varying levels of society.
+
+:::
+
+
+
+## Goals {.smaller}
+
+:::{.columns}
+
+:::{.column}
+
+::: {.img-frame}
+
+![](figures/one_health3.png)
+
+:::
+
+:::
+
+:::{.column}
+
+- Tackle threats to health and ecosystems
+- Address the collective need for clean water, energy and air, safe and nutritious food
+- Take action on climate changes and contributing to sustainable development.
+
+:::
+
+:::
+
+# Environmental Justice
+
+## Environmental Justice Defined {.smaller}
+
+![](figures/environmental_justice2.png){.img-border}
+
+>*The just treatment and meaningful involvement of all people in environmental decision-making to ensure full protection from disproportionate environmental and health impacts, and equitable access to a healthy, sustainable, and resilient environment.* 
+<br><small> -- U.S. Environmental Protection Agency (EPA) (2024)</small>
+
+## Justice & Equity
+
+![](figures/equity2.png){.img-border .nostretch}
+
+::: aside
+
+Everyone is a product of diverse biological and cultural histories, existing in a system that disproportionately benefits those most recently in power.
+
+:::
+
+## Environmental Justice
+
+![](figures/pollution_justice.png){.img-border}
+
+::: {.notes}
+
+A landmark 2007 study found “race to be more important than socioeconomic status in predicting the location of the nation’s commercial hazardous waste facilities”. 
+
+https://www.nrdc.org/sites/default/files/toxic-wastes-and-race-at-twenty-1987-2007.pdf
+
+
+:::
+
+## Environmental Justice {.smaller}
+
+:::{.columns}
+
+:::{.column width=60%}
+
+![](figures/pollution_justice.png){.img-border}
+
+:::
+
+:::{.column width=40%}
+
+- Black children were 5x more likely to have lead poisoning than white children were.
+- Even black Americans making 50-60K/year were more likely to live in polluted areas than their white counterparts making only 10K/year
+
+:::
+
+:::
+
+::: {.notes}
+
+In the UK meanwhile, a government report found that black British children are exposed to up to 30% more air pollution than white children.
+
+:::
+
+## Environmental Justice
+
+![](figures/environmental_justice.png){.img-border}
+
+::: {.notes}
+
+The term “environmental justice” initially referred to the movement that arose to confront environmental racism, but it has since expanded to encompass multiple forms of environmental inequities and problems.
+
+:::
+
+## Redlining & Environmental Racism
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.youtube.com/embed/O5FBJyqfoLM?cc_load_policy=1&cc_lang_pref=en"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::

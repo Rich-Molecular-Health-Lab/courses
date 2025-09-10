@@ -1,0 +1,28 @@
+format:
+  revealjs:
+    toc: false
+    toc-depth: 2
+    incremental: true
+    slide-number: true
+    smaller: true
+    theme:
+      - solarized
+      - style/mtmkinley.scss
+    css:
+      - style/headings.css
+      - style/slides.css
+    author: "Dr. Alicia M. Rich"
+    center: true
+    transition: slide
+    background-transition: fade
+    auto-animate: true
+    self-contained: true
+  letterbox-revealjs:
+    css: [style/timeline.css, style/hex.css, style/custom.css]
+    progress: true
+    auto-animate: true
+    menu: true
+    preview-links: true
+    self-contained: true
+execute:
+  freeze: auto

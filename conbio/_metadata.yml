@@ -1,3 +1,31 @@
+execute:
+  freeze: auto
 
 subtitle: "Conservation Biology"
 image: "figures/course_header.png"
+
+author: "Dr. Alicia M. Rich"
+date-modified: today
+date-format: "ddd MMM D, YYYY"
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: left
+    toc-title: "Contents"
+    theme:
+      - yeti
+    page-layout: article
+    css:
+      - ../styles/yeti.css
+      - ../styles/fonts.css
+      - ../styles/headings.css
+    smooth-scroll: true
+    self-contained: true
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&family=Cabin+Condensed:wght@400;500;600;700&family=Yaldevi:wght@200..700&display=swap" rel="stylesheet">
+
+editor: source
