@@ -3,11 +3,11 @@ title: "letterbox slides"
 subtitle: "quarto-revealjs-letterbox"
 format: 
   letterbox-revealjs:
-    css: [_styles/custom.css, _styles/hex.css, _styles/timeline.css]
-    progress: false
-    menu: false
-    width: 1280
-    height: 720
+    css: [style/timeline.css, style/hex.css, style/custom.css]
+    progress: true
+    auto-animate: true
+    menu: true
+    preview-links: true
 callout-appearance: simple
 ---
 

@@ -5,5 +5,418 @@
     "title": "Slide Decks",
     "section": "",
     "text": "I post updated versions of class slide decks to this page. Please remember that these slides should enhance, but not replace your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.\n\n\n\n\n\n\n\n\n\n\n3.3 Species Diversity\n\n\nConservation Biology\n\n\n\n\n\nMon Sep 8, 2025\n\n\nWed Sep 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Genetic Diversity\n\n\nConservation Biology\n\n\n\n\n\nWed Sep 3, 2025\n\n\nWed Sep 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 Contemporary Conservation Biology\n\n\nConservation Biology\n\n\n\n\n\nWed Aug 27, 2025\n\n\nWed Sep 10, 2025\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nCopyright Notice\n\n\n\n© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.\nLecture slides are provided for enrolled students’ personal reference only.\nRedistribution or reuse is not permitted without permission."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#welcome-framing",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#welcome-framing",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Welcome & framing",
+    "text": "Welcome & framing\nHurricanes, Katrina & Health\nEcosystems ↔︎ infrastructure ↔︎ people\n\nSet the session arc: 1) hurricane physics vs. impacts, 2) Katrina as environmental justice case, 3) health systems & preparedness, 4) designing better risk communication than “category only”."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#roadmap",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#roadmap",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Roadmap",
+    "text": "Roadmap\n\nHurricane basics (multi-hazard, not just wind)\n\nCategory vs. consequence\n\nClimate change & rapid intensification\n\nModeling, AI & data gaps\n\nKatrina: infrastructure, justice, and health\n\nPreparedness & community capacity\n\nDiscussion & applications\n\n\nEmphasize synthesis over recall. We’ll connect to prior units: redlining, weather attribution, and extreme events & health."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#what-a-hurricane-is-and-isnt",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#what-a-hurricane-is-and-isnt",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "What a hurricane is (and isn’t)",
+    "text": "What a hurricane is (and isn’t)\n\n\nWarm-core, low-pressure tropical cyclones with organized rotation\n\n\n\n\n\nHurricane Hazards\n\n\n\nWind\n\n\nStorm surge\n\n\nRain\n\n\nTornadoes\n\n\n\n\n\n\n\n\n\n\nPodcast: “warm core” due to latent heat release; strongest winds near surface. Frame risk as Hazard × Exposure × Vulnerability."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#names-across-basins",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#names-across-basins",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Names across basins",
+    "text": "Names across basins\n\nHurricanes (N. Atlantic, E. North Pacific)\n\nTyphoons (W. North Pacific)\n\nCyclones (Indian Ocean, S. Hemisphere)\n\n\nMeasurement conventions differ (1-min vs 10-min sustained winds). Useful caveat when reading global studies or WHO briefs."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#why-storms-dont-cross-the-equator",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#why-storms-dont-cross-the-equator",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Why storms don’t cross the equator",
+    "text": "Why storms don’t cross the equator\nInsufficient Coriolis (spin) near 0° latitude\n\nQuick think-pair: other rotation-dependent features (trade winds, Hadley cells, gyres). Bring it back in 2 minutes."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#early-season-quiet-saharan-air-layer",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#early-season-quiet-saharan-air-layer",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Early-season quiet: Saharan Air Layer",
+    "text": "Early-season quiet: Saharan Air Layer\nDry, dusty air → suppresses Atlantic development\nBonus: nutrient delivery to Amazon soils\n\nTeleconnections matter: the same dust that dims storms can fertilize ecosystems. Great “systems thinking” example."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#saffirsimpson-helpful-but-narrow",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#saffirsimpson-helpful-but-narrow",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Saffir–Simpson: helpful, but narrow",
+    "text": "Saffir–Simpson: helpful, but narrow\nCategories are wind-only → underplay surge/rain risks\n\nTie to Harvey/Imelda examples from podcast: lower categories can still be catastrophic via flooding. Set up later redesign activity."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#weakening-safe",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#weakening-safe",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Weakening ≠ safe",
+    "text": "Weakening ≠ safe\nA weakening hurricane can expand → bigger wind/surge footprint\n\nPublic messaging risk: people anchor to the number, not the footprint. Previews Katrina dynamics at landfall."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#rapid-intensification-ri",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#rapid-intensification-ri",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Rapid Intensification (RI)",
+    "text": "Rapid Intensification (RI)\n\nMore frequent near landfall\n\nCompressed decision windows for evacuation & hospitals\n\n\nPrompt: If you run a coastal hospital, which actions move from T-48h to T-72h under higher RI risk? (Dialysis scheduling, O2 logistics, early discharges, staff lodging.)"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#modeling-today",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#modeling-today",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Modeling today",
+    "text": "Modeling today\nPhysics-based NWP + data assimilation (balloons, aircraft, satellites)\nEmerging AI track/intensity guidance → hybrid future\n\nKey point: AI complements physics; data gaps (e.g., fewer radiosondes) degrade both. Funding = forecast skill = public health outcomes."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#interlude-video",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#interlude-video",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Interlude video",
+    "text": "Interlude video\n(Swap in a short eye/eyewall or surge explainer clip)\n\nKeep it to 3–4 minutes. Ask them to identify the hazard chain they see: wind → surge → infrastructure failure → health outcomes."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-anatomy-of-a-cyclone",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-anatomy-of-a-cyclone",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Image: anatomy of a cyclone",
+    "text": "Image: anatomy of a cyclone\n\nplaceholder\nNarrate inflow/outflow, eyewall, rainbands, and where hazards concentrate relative to track."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#case-study-hurricane-katrina-2005",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#case-study-hurricane-katrina-2005",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Case study: Hurricane Katrina (2005)",
+    "text": "Case study: Hurricane Katrina (2005)\n\n\n\n\nWhat made this a particularly devestating disaster?\n\n\n\nGet into groups of 2-4 and create a list of the top 3 contributing factors.\n\nBe prepared to explain the spatial/temporal and the social/economic context mediating each factor.\n\nReturn to discuss as a group\n\n\n\n\n\n\nStress that many deaths were from post-landfall flooding, not peak winds. Infrastructure failure + social vulnerability → health catastrophe."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-environmental-justice",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-environmental-justice",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Katrina & environmental justice",
+    "text": "Katrina & environmental justice\n\n\n\n\n\nHow did the legacy of redlining contribute to the impacts?\n\n\nLow-elevation, levee-adjacent neighborhoods, Car access & evacuation ability, Disproportionate impact in Lower Ninth/St. Bernard\n\n\n\n\n\nConnect to previous class: how historical housing policy maps onto present-day disaster risk and health inequities."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#public-health-cascades",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#public-health-cascades",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Public health cascades",
+    "text": "Public health cascades\nAcute: drowning, trauma, CO poisoning\nSubacute: waterborne disease, mold, asthma\nChronic: PTSD/depression, DV rise, displacement\n\nIntroduce disaster epidemiology terms (excess mortality, indirect deaths, syndemics). Ask: What surveillance would you deploy at 1 week / 1 month?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#evacuation-paradox-hurricane-rita-2005",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#evacuation-paradox-hurricane-rita-2005",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Evacuation paradox: Hurricane Rita (2005)",
+    "text": "Evacuation paradox: Hurricane Rita (2005)\n\nMass evacuation → heat, dehydration, traffic mortality\n\n\nRita saw &gt;2.5M evacuees; &gt;50% of deaths occurred during evacuation. Discussion: When is shelter-in-place safer, and how do we message that?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#communication-that-helps",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#communication-that-helps",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Communication that helps",
+    "text": "Communication that helps\nLocal trusted mets (hype-free)\nTranslate cones/probabilities to actions\nWaffle House Index as on-the-ground proxy\n\n120-char exercise: Draft a text for a coastal ZIP under 48-hr TS warning with high surge risk (who/what/when/where)."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-lessons-for-today",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-lessons-for-today",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Katrina lessons for today",
+    "text": "Katrina lessons for today\n\nCategory ≠ consequence\n\nCommunity capacity drives mortality trajectory\n\nMitigation is equity-positive public health policy\n\n\nBridge to ROI and planning: “Mitigation Saves” (~$6 per $1). Ask which two investments (grey/green or social) they’d prioritize now for NOLA."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#background-image-placeholder",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#background-image-placeholder",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Background image placeholder",
+    "text": "Background image placeholder\n\nUse a powerful image (levees, surge, shelters). Let it breathe, then solicit 2 reflections before moving on."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#preparedness-across-scales",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#preparedness-across-scales",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Preparedness across scales",
+    "text": "Preparedness across scales\nHousehold ↔︎ neighborhood ↔︎ clinic/hospital ↔︎ city\n\nWe’ll ladder through: home kits & meds, neighbor check-ins, clinic surge, municipal transit/shelter ops. Assign a brief preparedness plan later."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#household-neighborhood",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#household-neighborhood",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Household & neighborhood",
+    "text": "Household & neighborhood\n\nRedundant alerts; meds & docs ready\n\nKnow your floodplain / drainage\n\nPets, caregivers, carpool networks, mutual aid\n\n\nQuick activity: sketch a neighbor check-in grid (names, needs, contact, “last seen”)."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#clinics-hospitals",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#clinics-hospitals",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Clinics & hospitals",
+    "text": "Clinics & hospitals\n\nPre-position oxygen/dialysis/insulin; backup power\n\nOn-site staff lodging & childcare\n\nEarly discharges; telehealth triage\n\nPost-storm: heat, mold, vector control\n\n\nMini-scenario: A Cat 2 is forecast to RI to Cat 4 in 24–36h. What activates at T-36h, T-12h, and +48h?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#community-policy-levers",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#community-policy-levers",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Community & policy levers",
+    "text": "Community & policy levers\n\nCool roofs, raised utilities, permeable streets\n\nSurge barriers, wetland restoration, buyouts\n\nTransit-enabled evacuation\n\nFund local EM; measure outcomes\n\n\nHighlight co-benefits (air quality, heat). Note who benefits first if budgets are tight; link to equity."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#video-policy-or-health-case",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#video-policy-or-health-case",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Video: policy or health case",
+    "text": "Video: policy or health case\n(Paste a short YouTube explainer; adjust for autoplay per your policy.)\n\nPrompt: list three “no-regret” investments with health benefits even absent a storm next year."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#designing-better-risk-metrics",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#designing-better-risk-metrics",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Designing better risk metrics",
+    "text": "Designing better risk metrics\nBeyond category: surge, rainfall, footprint, RI risk\nExposure: population, assets, hospitals\nVulnerability: SVI, car access, language, disability\n\nGroup task (5–6 min): Propose a 4-component index for your chosen coastal city. One team shares out."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-left",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-left",
+    "title": "Natural Disasters: Hurricanes",
+    "section": ".image-left",
+    "text": ".image-left\n\n\nUse .image-left/.image-right to keep visuals behind text.\n\n\n\nReplace with a storm surge photo or clinic operations shot; keep the text minimal to let the image do the work."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-right",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-right",
+    "title": "Natural Disasters: Hurricanes",
+    "section": ".image-right",
+    "text": ".image-right\n\n\nReserve foreground for a single, strong callout or question.\n\n\n\nTry a discussion question overlay: “How would rapid intensification change evacuation for car-limited neighborhoods?”"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#quick-attribution-sidebar",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#quick-attribution-sidebar",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Quick attribution sidebar",
+    "text": "Quick attribution sidebar\n\nEvent attribution: probability & intensity shifting\n\nCommunicate as probabilistic, not deterministic\n\n\nUse the “loaded dice” metaphor; avoid over-claiming single-cause narratives."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#takeaways",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#takeaways",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nHazard ↔︎ exposure ↔︎ vulnerability → health\n\nCategory is not destiny; context rules\n\nMitigation + justice are core public health strategies\n\n\nAsk for 1-minute reflections: “One action I’ll advocate locally is…”"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#next-steps",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#next-steps",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Next steps",
+    "text": "Next steps\n\nAdd local flood maps, shelters, bus routes\n\nInvite clinic/EM partners for a tabletop\n\nOptional: 2-page Preparedness Plan with equity focus\n\n\nOffer extra credit for community engagement (e.g., helping a neighbor build a kit or mapping a shelter route)."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#todays-roadmap",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#todays-roadmap",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Today’s roadmap",
+    "text": "Today’s roadmap\n\nHurricane basics (what they are / aren’t)\nFrom category to consequences\nClimate change & rapid intensification\nModeling, AI & funding realities\nKatrina: infrastructure, justice, and health\nPreparedness & community resilience\nDiscussion & applications\n\n\nFlag that we’ll emphasize application & synthesis more than memorization. Encourage students to annotate 2–3 insights they can use in their ICP/PVA or health risk frameworks."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#hurricane-just-wind",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#hurricane-just-wind",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Hurricane ≠ just wind",
+    "text": "Hurricane ≠ just wind\n\nWarm-core cyclones; low-pressure centers\nMulti-hazard: wind + storm surge + rain + tornadoes\nImpacts shaped by exposure, vulnerability, capacity\n\n\nPodcast points: Saffir–Simpson is wind-only; underplays flooding/surge. Emphasize that risk = hazard × exposure × vulnerability. Tie to environmental health determinants."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#a-global-vocabulary",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#a-global-vocabulary",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "A global vocabulary",
+    "text": "A global vocabulary\n\nHurricanes (N. Atlantic, E. North Pacific)\nTyphoons (W. North Pacific)\nCyclones (Indian Ocean, S. Hemisphere)\n\n\nClarify naming differences & measurement conventions (1-min vs 10-min sustained winds). Useful when reading global literature and surveillance reports."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#why-they-dont-cross-the-equator",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#why-they-dont-cross-the-equator",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Why they don’t cross the equator",
+    "text": "Why they don’t cross the equator\n\nNeed Coriolis to sustain rotation\nInsufficient spin near 0° latitude\n\n\nInvite quick think-pair-share: What other Earth system features depend on rotation? (Trade winds, Hadley cells, ocean gyres.)"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#early-season-dust-quiet-periods",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#early-season-dust-quiet-periods",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Early-season dust & quiet periods",
+    "text": "Early-season dust & quiet periods\nSaharan Air Layer: dry, dusty air → suppresses Atlantic development\nAlso fertilizes the Amazon with nutrients\n\nContrast “seed vs suppress” narratives; here dust is a suppressor of early-season storms while still part of a planetary teleconnection benefiting ecosystems."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#saffirsimpson-useful-but-limited",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#saffirsimpson-useful-but-limited",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Saffir–Simpson: useful but limited",
+    "text": "Saffir–Simpson: useful but limited\n\nCategories = wind speed only\nPublic perception: “Only a Cat 1” ⇒ under-prep\nFlood, surge, compound hazards often dominate harm\n\n\nUse Harvey (flooding), Imelda (tropical storm but huge rain) as examples. Ask: what alternative indicators would help communities decide?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#from-physics-to-people",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#from-physics-to-people",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "From physics to people",
+    "text": "From physics to people\n\nA weakening storm can grow in size, expanding the footprint of damaging winds & surge.\n\n\nThis nuance matters for evacuation timing and health system surge planning. We’ll revisit when we get to Katrina’s landfall dynamics."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#rapid-intensification-ri-1",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#rapid-intensification-ri-1",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Rapid intensification (RI)",
+    "text": "Rapid intensification (RI)\n\nIncreasingly frequent near landfall\nCompresses decision windows for evacuation & hospitals\nWarmer SSTs + conducive atmospheric conditions\n\n\nPrompt: If you manage a hospital on the coast, what 48–72 hr protocols change under higher RI risk? (Dialysis scheduling, oxygen logistics, early discharges, staff housing.)"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#modeling-ai-data",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#modeling-ai-data",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Modeling, AI & data",
+    "text": "Modeling, AI & data\n\nPhysics-based models + data assimilation (balloons, aircraft, satellites)\nNew AI models: fast track guidance ⇒ hybrid future\nData gaps (e.g., fewer balloon launches) degrade forecasts\n\n\nEmphasize “hybrid”: AI complements, not replaces, physics. Funding/staffing cuts propagate to forecast skill and thus public health outcomes."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#funding-and-institutions",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#funding-and-institutions",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Funding and institutions",
+    "text": "Funding and institutions\n\nNOAA/NWS staffing & research matter\nMitigation ROI: ~$6 saved for every $1 invested\nWeather risk is bipartisan; budgets shape outcomes\n\n\nTie to policy literacy: how line items become lives saved. Connect to students’ local EM budgets and grant programs (BRIC, HMGP)."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#interlude-video-short",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#interlude-video-short",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Interlude video (short)",
+    "text": "Interlude video (short)\n[YouTube placeholder – eye/eyewall flight or storm surge explainer]\n\nPaste link here: https://www.youtube.com/watch?v=YOUR_ID\n\n\nKeep under 3–4 minutes. Cue students to watch for hazard chain: wind → surge → infrastructure → health."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-timeline-geography",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-timeline-geography",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Katrina: timeline & geography",
+    "text": "Katrina: timeline & geography\n\nRapid escalation in Gulf\nLandfall region & track overview\nLevee breaches → 80% of New Orleans flooded\n\n\nEmphasize failure of structural defenses; many fatalities occurred after peak winds due to flooding and delayed rescue."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#infrastructure-environmental-justice",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#infrastructure-environmental-justice",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Infrastructure & environmental justice",
+    "text": "Infrastructure & environmental justice\n\nAging levees, canals, subsidence, wetland loss\nRedlining & disinvestment shaped who was at risk\nDisparate impacts in Lower Ninth Ward & St. Bernard Parish\n\n\nConnect to prior class on redlining: land value, elevation, building codes, and access to cars predict evacuation ability. Ask: Where would you map cooling centers/shelters?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#public-health-cascades-1",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#public-health-cascades-1",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Public health cascades",
+    "text": "Public health cascades\n\nAcute: drowning, trauma, carbon monoxide poisoning\nSubacute: waterborne disease, mold, asthma exacerbations\nChronic: mental health (PTSD, depression), domestic violence, displacement\n\n\nUse disaster epidemiology terms: excess mortality, indirect deaths, syndemics, social determinants. Compare to heat waves & wildfire smoke."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#evacuation-counterexamples-rita",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#evacuation-counterexamples-rita",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Evacuation & counterexamples (Rita)",
+    "text": "Evacuation & counterexamples (Rita)\n\nRita (2005): &gt;2.5M evacuees; &gt;50% of deaths during evacuation\nHeat, dehydration, traffic → health risks en route\n\n\nDiscussion: When is shelter-in-place safer than evacuation? How should messaging incorporate transportation & heat risks?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#communication-that-works",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#communication-that-works",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Communication that works",
+    "text": "Communication that works\n\nLocal, trusted meteorologists (hype-free)\nTranslate cones & probabilistic info to action\nThe (legendary) Waffle House Index as a proxy\n\n\nExercise: Draft a 120-character text alert balancing urgency and specificity for a coastal zip code under a 48-hr tropical storm warning with high surge risk."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-lessons-for-today-1",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#katrina-lessons-for-today-1",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Katrina: lessons for today",
+    "text": "Katrina: lessons for today\n\nCategory ≠ consequence\nCommunity capacity sets mortality trajectory\nPre-disaster mitigation pays off (and is equitable policy)\n\n\nPrompt: Which two investments (infrastructure or social services) would you prioritize today for New Orleans? Justify with expected health benefits."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-placeholder-levees-surge-ej-map",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#image-placeholder-levees-surge-ej-map",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Image placeholder (levees / surge / EJ map)",
+    "text": "Image placeholder (levees / surge / EJ map)\n\nInsert map/graphic here\nAdd an EJ overlay (e.g., SVI) + elevation. Ask students: where would a temporary clinic be most effective in the first 72 hours?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#household-neighborhood-1",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#household-neighborhood-1",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Household & neighborhood",
+    "text": "Household & neighborhood\n\nRedundancy in alerts; meds & documentation ready\nKnow your floodplain and drainage\nPet & caregiver plans; carpool networks; mutual aid\n\n\nAssign: Students sketch a 2-page family comms plan + a neighbor check-in grid for their real residence."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#clinics-hospitals-1",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#clinics-hospitals-1",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Clinics & hospitals",
+    "text": "Clinics & hospitals\n\nPre-position oxygen, dialysis, insulin; backup power\nStaffing: on-site lodging & daycare\nDischarge acceleration & telehealth triage\nHeat, mold, and vector control in aftermath\n\n\nMini-scenario: A Cat 2 is forecast to RI to Cat 4 within 24–36 hrs. What do you activate now vs 12 hrs vs post-landfall?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#community-policy",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#community-policy",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Community & policy",
+    "text": "Community & policy\n\nCool roofs, raised utilities, permeable surfaces\nSurge barriers, wetland restoration, buyouts\nInvest in public transit evacuation\nFund local EM; measure outcomes\n\n\nLink back to mitigation ROI and co-benefits (air quality, heat relief)."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#ecology-health",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#ecology-health",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Ecology & health",
+    "text": "Ecology & health\n\nDisplaced wildlife, altered vector ranges\nMold blooms, degraded indoor air\nWater quality: sewage overflows, chemical releases\n\n\nTie to One Health. Ask: how would you monitor post-storm water and indoor air in schools?"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#short-video-policy-or-health",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#short-video-policy-or-health",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Short video (policy or health)",
+    "text": "Short video (policy or health)\n[YouTube placeholder – mitigation saves or hospital prep]\n\nPaste link here: https://www.youtube.com/watch?v=YOUR_ID\n\n\nAsk students to list 3 “no-regret” investments with health benefits even without a storm next year."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#letterbox-visual-placeholder",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#letterbox-visual-placeholder",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Letterbox visual placeholder",
+    "text": "Letterbox visual placeholder\n\nBig full-bleed image slot\nUse a powerful image (surge, shelter, or hospital ops). Let it breathe; then debrief with 2–3 guided questions."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#discussion-prompts",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#discussion-prompts",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Discussion prompts",
+    "text": "Discussion prompts\n\nHow would rapid intensification change your evacuation messaging?\nWhich policy lever (local/state/federal) gives the biggest health return?\nWhat did Katrina reveal about health inequities that persists today?\n\n\nLet this run; encourage examples from students’ hometowns or field sites."
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#quick-attribution-sidebar-1",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#quick-attribution-sidebar-1",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Quick attribution sidebar",
+    "text": "Quick attribution sidebar\n\nWeather attribution: linking event likelihood/intensity to climate change\nCommunicate as probabilistic, not deterministic\n\n\n2–3 lines on framing: “Climate change loaded the dice.”"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#takeaways-1",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#takeaways-1",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nHazard ↔︎ exposure ↔︎ vulnerability → health\nCategory is not destiny; context is king\nMitigation and justice are public health interventions\n\n\nInvite a 1-minute reflection: “One action I’ll advocate on campus/city council is…”"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#hurricane-structure-eye-eyewall",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#hurricane-structure-eye-eyewall",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Hurricane Structure: Eye & Eyewall",
+    "text": "Hurricane Structure: Eye & Eyewall"
+  },
+  {
+    "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#storm-surge-explained",
+    "href": "slides/hhe/3_1_natural_disasters_hurricanes.html#storm-surge-explained",
+    "title": "Natural Disasters: Hurricanes",
+    "section": "Storm Surge Explained",
+    "text": "Storm Surge Explained"
   }
 ]

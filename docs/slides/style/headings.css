@@ -1,0 +1,37 @@
+.heading-hide-text::before {
+  content: '';
+}
+
+.heading-hide-text {
+  color: transparent;
+}
+
+/* Quarto website left/inline TOC: make links look like normal text */
+nav#TOC, #TOC {
+  text-transform: none !important;
+  font-variant: normal !important;
+  letter-spacing: normal !important;
+  font-family: var(--bs-body-font-family, inherit) !important;
+  font-weight: 600 !important;    /* body weight */
+}
+
+nav#TOC a, #TOC a,
+#TOC .nav-link, nav#TOC .nav-link {
+  text-transform: none !important;
+  font-variant: normal !important;
+  letter-spacing: normal !important;
+  font-weight: 400 !important;
+  font-size: 0.95rem;             /* close to body size */
+  line-height: 1.35;              /* comfortable line spacing */
+}
+
+/* Optional: active item emphasis (but still “normal” text) */
+#TOC .nav-link.active {
+  font-weight: 600;
+}
+
+/* Safety: some themes style generic nav-links */
+.sidebar .nav-link {
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}

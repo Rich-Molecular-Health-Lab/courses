@@ -1,9 +1,9 @@
 ---
-title: "Environmental Justice (cont.)"
+title: "Introduction: Environmental Justice (cont.)"
 subtitle: "Redlining"
 date: "2025-9-2"
 title-slide-attributes:
-  data-background-image: ../backgrounds/1.png
+  data-background-image: ../backgrounds/4.png
   data-background-size: cover 
   class: "title-left title-highlight-light"
 format: revealjs
@@ -13,7 +13,7 @@ format: revealjs
 #| context: setup
 #| include: false
 
-here::i_am("slides/hhe/1-5_redlining.qmd")
+here::i_am("slides/hhe/1_3_introduction_redlining.qmd")
 source(here::here("_common.R"))
 source(here("slides/hhe/helpers.R"))
 ```

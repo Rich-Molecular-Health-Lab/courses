@@ -11,8 +11,8 @@ format:
     css:
       - style/headings.css
       - style/slides.css
+      - style/custom.css
     author: "Dr. Alicia M. Rich"
-    center: true
     transition: slide
     background-transition: fade
     auto-animate: true
@@ -22,3 +22,10 @@ format:
     auto-animate: true
     menu: true
     preview-links: true
+title-slide-classes: [title-right-img]
+title-slide-attributes:
+  data-background-image: backgrounds/4.png
+  data-background-position: contain
+  data-background-opacity: "0.5"
+  class: "center middle"
+callout-appearance: simple

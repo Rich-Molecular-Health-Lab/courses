@@ -100,22 +100,3 @@ html.print-pdf .quarto-dark {
   width: $slide-width !important;
   left: -$border-leftright-width;
 }
-
-/* Utility: only columns with .stack-even get space-around */
-.reveal .slides section .columns .column.stack-even {
-  display: flex !important;
-  flex-direction: column;
-  justify-content: space-around;
-  gap: 0.5em;
-}
-
-/* Apply to a list to distribute its li items top→bottom */
-.reveal .slides section .columns .column .stack-list {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  min-height: 100%;     /* helps when it's the main content of the column */
-  margin: 0;            /* remove default gaps that fight flex spacing */
-  padding-left: 1.2em;  /* keep bullet indent */
-}
-

@@ -26,3 +26,11 @@ schedule      <- enframe_hhe_schedule(schedule_list)
 
 save(schedule_list, file = here("hhe/schedule_list.RData"))
 save(schedule, file = here("hhe/schedule.RData"))
+
+
+save(topics, file = here("../assessment/hhe/topics.RData"))
+save(videos, file = here("../assessment/hhe/videos.RData"))
+save(podcast_selections, file = here("../assessment/hhe/podcast_selections.RData"))
+save(film_selections, file = here("../assessment/hhe/film_selections.RData"))
+save(schedule_list, file = here("../assessment/hhe/schedule_list.RData"))
+save(schedule, file = here("../assessment/hhe/schedule.RData"))

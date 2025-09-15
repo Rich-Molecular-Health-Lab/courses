@@ -1,8 +1,8 @@
 ---
-title: "Key Terms & Themes"
+title: "Introduction: Key Terms & Themes"
 date: "2025-8-28"
 title-slide-attributes:
-  data-background-image: ../backgrounds/1.png
+  data-background-image: ../backgrounds/4.png
   data-background-size: cover 
   class: "title-left title-highlight-light"
 format: revealjs
