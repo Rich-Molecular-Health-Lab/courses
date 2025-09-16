@@ -1,16 +1,131 @@
 ---
 title: "Natural Disasters: Wildfires"
-date: "2025-9-4"
-title-slide-attributes:
-  data-background-image: backgrounds/1.png
-  data-background-size: cover 
-  class: "title-left title-highlight-light"
-format: revealjs
+date: "2025-9-16"
+format: letterbox-revealjs
 ---
 
-## California Wildfires
+## Immediate/Direct Hazards {.smaller}
 
-:::{.img-frame}
+::: {.fragment .fade-in}
+Burn injuries & fatalities
+: from flames, radiant heat, entrapment
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Trauma
+: during evacuation (vehicle crashes, falls, stress-related events)
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Acute smoke exposure
+: respiratory distress, asthma attacks, COPD exacerbations
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Firefighting & responder risks
+: heat stress, smoke inhalation, physical injury.
+:::
+
+## Water, Soil & Food Systems {.smaller}
+
+::: {.fragment .fade-in}
+Water contamination
+: Ash and debris runoff into reservoirs, rivers, groundwater.
+: Chemicals from burned infrastructure (plastics, metals).
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Soil erosion
+: downstream flooding, sediment loads.
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Food insecurity
+: if agricultural areas burn (loss of crops, livestock, pasture).
+:::
+
+## Infrastructure & Access to Care {.smaller}
+
+::: {.fragment .fade-in}
+Healthcare disruption
+: clinics, hospitals evacuated/damaged; staff displaced.
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Power outages
+: loss of refrigeration for medications, oxygen concentrators, dialysis.
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Transportation blockages
+: hinder access to emergency care.
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Shelter quality
+: overcrowding, poor ventilation, increased risk of infectious disease.
+:::
+
+
+## Air Quality & Smoke {.smaller}
+
+::: {.fragment .fade-in}
+Fine particulate matter (PM2.5, PM10)
+: deep lung penetration, systemic inflammation.
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Gases
+: carbon monoxide, ozone, nitrogen oxides, volatile organics.
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Sensitive populations
+: children, older adults, pregnant individuals, people with chronic lung/heart disease
+:::
+
+<br>
+
+::: {.fragment .fade-in}
+Geographic spread
+: smoke plumes travel hundreds–thousands of miles → health impacts far beyond burn zone
+:::
+
+::: aside
+[External slides](https://www.canva.com/design/DAGzLIvZsCw/wXR4wHo_HWPXi9NuJB6DOA/edit)
+:::
+
+## Living with Wildfires
+
+<iframe width="800" height="450"
+  src="https://www.pbs.org/video/we-cant-stop-wildfiresbut-heres-how-we-live-with-them-lpxtxc"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
+## California Wildfires
 
 <iframe width="800" height="450"
   src="https://www.pbs.org/video/why-are-socal-wildfires-getting-worse-nruiae/"
@@ -19,11 +134,8 @@ format: revealjs
   allowfullscreen>
 </iframe>
 
-:::
 
 ## Suburban Sprawl
-
-:::{.img-frame}
 
 <iframe width="800" height="450"
   src="https://www.pbs.org/video/is-this-the-real-reason-more-homes-are-burning-in-wildfires-rv6jr4/"
@@ -32,18 +144,4 @@ format: revealjs
   allowfullscreen>
 </iframe>
 
-:::
 
-## Air Quality
-
-
-:::{.img-frame}
-
-<iframe width="800" height="450"
-  src="https://www.youtube.com/embed/3i70gR7lrp8?cc_load_policy=1&cc_lang_pref=en"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
-:::
