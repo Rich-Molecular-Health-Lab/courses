@@ -14,5 +14,14 @@
       "/slides/conbio/9-2_habitat_fragmentation.html",
       "/slides/conbio/9-4_metapopulations.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/conbio/schedule.html",
+      "/hhe/schedule.html",
+      "/conbio/syllabus.html",
+      "/hhe/syllabus.html"
+    ]
   }
 ]
