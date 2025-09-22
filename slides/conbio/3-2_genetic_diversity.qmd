@@ -1,12 +1,36 @@
 ---
 title: "3.2 Genetic Diversity"
 date: "2025-9-3"
-title-slide-attributes:
-  data-background-image: ../backgrounds/2-2_title.png
-  data-background-size: cover 
-  class: "title-left title-highlight-light"
-format: revealjs
+format: letterbox-revealjs
+image: figures/Ch03/c03fig001.jpg
 ---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/Ch03/c03fig001.jpg){.image-right}
+
+:::
 
 # Introduction
 
@@ -277,5 +301,5 @@ This example shows how to calculate polymorphism and heterozygosity of a hypothe
 
 :::
 
-# Species Diversity
+
 

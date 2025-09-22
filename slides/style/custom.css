@@ -78,7 +78,7 @@ img.sticker-float-midright {
   height: 100%;
 }
 
-.box.opaque {
+.box-opaque {
   width: 100%;
   border-radius: 25px;
   padding: 5px 0px 5px 25px;
@@ -248,27 +248,3 @@ span.term {
   line-height: 1.3;
 }
 
-/* ---------- Title slide: left text, vertical center, right image ------------- */
-
-/* 1) Ensure the title slide section fills the viewport and isn't offset by Reveal transforms */
-.reveal .slides section#title-slide.present {
-  top: 0 !important;
-  transform: none !important;
-  min-height: 100vh;              /* fill slide height */
-  display: flex !important;       /* make it a flex container */
-  flex-direction: column;
-  justify-content: center !important;  /* vertical centering */
-  align-items: center !important;      /* horizontal centering */
-}
-
-/* 2) Remove extra margins Quarto adds around the title block */
-.reveal .slides section#title-slide .quarto-title-block {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-/* (Optional) keep text centered */
-.reveal .slides section#title-slide .quarto-title-block,
-.reveal .slides section#title-slide .quarto-title-block * {
-  text-align: center;
-}

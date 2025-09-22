@@ -7,13 +7,6 @@
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles"><link href="../../images/logo_richlab.png" rel="icon" type="image/png">
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-html/tabby.min.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.7.32">
 
@@ -37,9 +30,10 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-07c8492adab4c5a2d8f0329ee0e1a3e0.css">
-  <link rel="stylesheet" href="../style/headings.css">
-  <link rel="stylesheet" href="../style/slides.css">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-fb210103e903f339b1e0624e1a17492a.css">
+  <link rel="stylesheet" href="../style/timeline.css">
+  <link rel="stylesheet" href="../style/hex.css">
+  <link rel="stylesheet" href="../style/custom.css">
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -136,7 +130,7 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" class="center middle" data-background-image="../backgrounds/species_diversity.png" data-background-size="cover">
+<section id="title-slide" data-visibility="hidden" class="quarto-title-block center">
   <h1 class="title">3.3 Species Diversity</h1>
   <p class="subtitle">Conservation Biology</p>
 
@@ -150,21 +144,37 @@ Dr.&nbsp;Alicia M. Rich
 
   <p class="date">Mon Sep 8, 2025</p>
 </section>
+<section id="section" class="slide level2">
+<h2></h2>
+<div class="columns">
+<div class="column" style="width:65%;">
+<div class="box-opaque">
+<div class="dateplace">
+<p>Conservation Biology - Mon Sep 8, 2025</p>
+</div>
+<div class="title">
+<p>3.3 Species Diversity</p>
+</div>
+</div>
+</div></div>
+<div class="column">
+<p><img data-src="figures/Ch03/c03fig001.jpg" class="image-right"></p>
+</div></section>
 <section id="measures-of-species-diversity" class="slide level2 center">
 <h2>Measures of Species Diversity</h2>
 <p><img data-src="figures/Ch03/species_diversity_indices.png" style="width:70.0%"></p>
 <p><br><br></p>
 
-<aside><div><div>
+<aside><div>
 <p>Diversity metrics that consider species evenness in addition to richness can be used to represent the higher diversity of species.</p>
-</div></div></aside></section>
-<section id="species-accumulation-curves" class="slide level2 smaller center">
+</div></aside></section>
+<section id="species-accumulation-curves" class="slide level2 smaller">
 <h2>Species Accumulation Curves</h2>
 <div class="columns">
 <div class="column" style="margin-top:100px">
 <ul>
-<li class="fragment">Used to show when sampling is <span class="green">complete</span> and <span class="green">all species</span> have been identified</li>
-<li class="fragment">Quantifies the <span class="green">number of species</span> found <em>(y)</em> per <span class="green">sampling effort</span> <em>(x)</em>.</li>
+<li>Used to show when sampling is <span class="green">complete</span> and <span class="green">all species</span> have been identified</li>
+<li>Quantifies the <span class="green">number of species</span> found <em>(y)</em> per <span class="green">sampling effort</span> <em>(x)</em>.</li>
 </ul>
 </div><div class="column">
 <div class="center">
@@ -178,7 +188,7 @@ Dr.&nbsp;Alicia M. Rich
 </div>
 </div></div>
 </section>
-<section id="extrapolation-curves" class="slide level2 smaller center">
+<section id="extrapolation-curves" class="slide level2 smaller">
 <h2>Extrapolation Curves</h2>
 <div class="columns">
 <div class="column" style="margin-top:100px">
@@ -195,15 +205,15 @@ Dr.&nbsp;Alicia M. Rich
 </div>
 </div>
 </div></div>
-<aside><div><div>
+<aside><div>
 <p>Advanced techniques may estimate the asymptotic richness of a collection that has been undersampled.</p>
-</div></div></aside></section>
-<section id="comparing-sampling-efforts" class="slide level2 smaller center">
+</div></aside></section>
+<section id="comparing-sampling-efforts" class="slide level2 smaller">
 <h2>Comparing Sampling Efforts</h2>
 <div class="columns">
 <div class="column">
 <div title="At which site would you expect to document more species?">
-<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout callout-tip callout-titled callout-style-simple">
 <div class="callout-body">
 <div class="callout-title">
 <div class="callout-icon-container">
@@ -214,7 +224,7 @@ Dr.&nbsp;Alicia M. Rich
 <div class="callout-content">
 <div class="fragment fade-in" data-fragment-index="1">
 <ul>
-<li class="fragment"><em>Probably at Site 1, where sampling effort is greater.</em></li>
+<li><em>Probably at Site 1, where sampling effort is greater.</em></li>
 </ul>
 </div>
 </div>
@@ -223,7 +233,7 @@ Dr.&nbsp;Alicia M. Rich
 </div>
 <div class="fragment fade-in" data-fragment-index="2">
 <div title="How can we test whether site differences are meaningful?">
-<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout callout-tip callout-titled callout-style-simple">
 <div class="callout-body">
 <div class="callout-title">
 <div class="callout-icon-container">
@@ -237,8 +247,8 @@ Dr.&nbsp;Alicia M. Rich
 </div>
 <div class="fragment fade-in" data-fragment-index="4">
 <ul>
-<li class="fragment"><span class="green">Rarefaction</span> randomly selects a subset of observations from each site to equalize the sampling effort.</li>
-<li class="fragment">The resulting <span class="green">rarefaction curve</span> can be used to compare species richness at the same level of sampling effort.</li>
+<li><span class="green">Rarefaction</span> randomly selects a subset of observations from each site to equalize the sampling effort.</li>
+<li>The resulting <span class="green">rarefaction curve</span> can be used to compare species richness at the same level of sampling effort.</li>
 </ul>
 </div>
 </div>
@@ -273,7 +283,7 @@ Dr.&nbsp;Alicia M. Rich
 <h2>Species Diversity and Sampling Effort</h2>
 
 <img data-src="figures/Ch03/c03fig008.jpg" class="r-stretch"></section>
-<section id="scales-of-biodiversity" class="slide level2 smaller center">
+<section id="scales-of-biodiversity" class="slide level2 smaller">
 <h2>Scales of Biodiversity</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -289,8 +299,8 @@ Dr.&nbsp;Alicia M. Rich
 <div class="callout-content">
 <div class="fragment fade-in">
 <dl>
-<dt class="fragment">Region 2</dt>
-<dd class="fragment">
+<dt>Region 2</dt>
+<dd>
 the greatest gamma (total) diversity.
 </dd>
 </dl>
@@ -310,8 +320,8 @@ the greatest gamma (total) diversity.
 <div class="callout-content">
 <div class="fragment fade-in">
 <dl>
-<dt class="fragment">Region 1</dt>
-<dd class="fragment">
+<dt>Region 1</dt>
+<dd>
 the greatest alpha (local) diversity.
 </dd>
 </dl>
@@ -341,16 +351,6 @@ the greatest alpha (local) diversity.
 <aside class="notes">
 <p>Biodiversity indexes for three regions, each consisting of three separate mountains. Each letter represents a population of a species; some species are found on only one mountain, while other species are found on two or three mountains. Alpha, gamma, and beta diversity values are shown for each region. If funds were available to protect only one mountain range, region 2 should be selected because it has the greatest gamma (total) diversity. However, if only one mountain could be protected, a mountain in region 1 should be selected because these mountains have the highest alpha (local) diversity, that is, the greatest average number of species per mountain. Each mountain in region 3 has a more distinct assemblage of species than the mountains in the other two regions, as shown by the higher beta diversity. If region 3 were selected for protection, the relative priority of the individual mountains should then be judged based on the relative rarity of the assemblages.</p>
 <style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style><style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
           clip: rect(1px, 1px, 1px, 1px);
@@ -401,16 +401,6 @@ the greatest alpha (local) diversity.
 'jumpToSlide': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'smaller': false,
-
-'controlsAuto': true,
-'previewLinksAuto': false,
-'pdfSeparateFragments': false,
-'autoAnimateEasing': "ease",
-'autoAnimateDuration': 1,
-'autoAnimateUnmatched': true,
-'jumpToSlide': true,
-'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'smaller': true,
  
         // Display controls in the bottom right corner
         controls: false,
@@ -430,10 +420,10 @@ the greatest alpha (local) diversity.
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: 'c/t',
+        slideNumber: false,
 
         // 'all', 'print', or 'speaker'
-        showSlideNumber: 'all',
+        showSlideNumber: 'speaker',
 
         // Add the current slide number to the URL hash so that reloading the
         // page/copying the URL will return you to the same slide
@@ -459,7 +449,7 @@ the greatest alpha (local) diversity.
         disableLayout: false,
 
         // Vertical centering of slides
-        center: true,
+        center: false,
 
         // Enables touch navigation on devices with touch input
         touch: true,
@@ -532,17 +522,17 @@ the greatest alpha (local) diversity.
         hideCursorTime: 5000,
 
         // Opens links in an iframe preview overlay
-        previewLinks: false,
+        previewLinks: true,
 
         // Transition style (none/fade/slide/convex/concave/zoom)
-        transition: 'slide',
+        transition: 'none',
 
         // Transition speed (default/fast/slow)
         transitionSpeed: 'default',
 
         // Transition style for full page slide backgrounds
         // (none/fade/slide/convex/concave/zoom)
-        backgroundTransition: 'fade',
+        backgroundTransition: 'none',
 
         // Number of slides away from the current that are visible
         viewDistance: 3,
@@ -581,7 +571,6 @@ the greatest alpha (local) diversity.
 
         // reveal.js plugins
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
-QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
 
           RevealMath,
           RevealNotes,
@@ -590,6 +579,146 @@ QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
         ]
       });
     </script>
+    <script>
+    // Copy over background colors to new div
+    divs = document.querySelectorAll('[data-background-color]');
+
+    Array.from(divs).map(function (x) {
+      const color = x.dataset.backgroundColor;
+
+      var new_div = document.createElement('div');
+      new_div.setAttribute("class", "background-color-div");
+      new_div.style.backgroundColor = color;
+      x.appendChild(new_div);
+      x.removeAttribute("data-background-color");
+    })
+
+    // Remove background colors from backgrounds div
+    Array.from(
+      document.querySelectorAll("[data-background-hash]")
+    ).map(function (x) {
+      x.removeAttribute("data-background-hash");
+      x.style.backgroundColor = null;
+    })
+    </script>
+
+    <script>
+    // Copy over background images to new div
+    divs = document.querySelectorAll('[data-background-image]');
+
+    Array.from(divs).map(function (x) {
+      var new_div = document.createElement('div');
+      new_div.setAttribute("class", "background-image-div");
+
+      if (x.dataset.backgroundImage != undefined) {
+        new_div.style.backgroundImage = "url(" + x.dataset.backgroundImage + ")";
+        x.removeAttribute("data-background-image");
+      }
+      if (x.dataset.backgroundSize != undefined) {
+        new_div.style.backgroundSize = x.dataset.backgroundSize;
+        x.removeAttribute("data-background-size");
+      }
+      if (x.dataset.backgroundPosition != undefined) {
+        new_div.style.backgroundPosition = x.dataset.backgroundPosition;
+        x.removeAttribute("data-background-position");
+      }
+      if (x.dataset.backgroundRepeat != undefined) {
+        new_div.style.backgroundRepeat = x.dataset.backgroundRepeat;
+        x.removeAttribute("data-background-repeat");
+      }
+      if (x.dataset.backgroundOpacity != undefined) {
+        new_div.style.backgroundOpacity = x.dataset.backgroundOpacity;
+        x.removeAttribute("data-background-opacity");
+      }
+
+      x.appendChild(new_div);
+    })
+    </script>
+
+    <script>
+    // Copy over background vidoes
+
+    // Run once when we load
+    var video_div = document.querySelectorAll(".backgrounds video");
+    var slide_div = document.querySelectorAll("[data-background-video]");
+
+    for (let i = 0; i < video_div.length; i++) {
+      video_div[i].setAttribute("class", "background-video-div");
+
+      slide_div[i].appendChild(video_div[i]);
+      slide_div[i].removeAttribute("data-background-video");
+    }
+
+    Reveal.getCurrentSlide().querySelectorAll("video").forEach(x => x.play());
+
+    // Each time we advance slides, as the background videos aren't loaded
+    // unless they are a few slides away
+    Reveal.on('slidechanged', event => {
+      var video_div = document.querySelectorAll(".backgrounds video");
+      var slide_div = document.querySelectorAll("[data-background-video]");
+
+      for (let i = 0; i < video_div.length; i++) {
+        video_div[i].setAttribute("class", "background-video-div");
+
+        slide_div[i].appendChild(video_div[i]);
+        slide_div[i].removeAttribute("data-background-video");
+      }
+
+      Reveal.getCurrentSlide().querySelectorAll("video").forEach(x => x.play());
+    });
+    </script>
+
+    <script>
+    // Copy over background vidoes
+
+    // Run once when we load
+    var iframe_div = document.querySelectorAll(".backgrounds iframe");
+    var slide_div = document.querySelectorAll("[data-background-iframe]");
+
+    for (let i = 0; i < iframe_div.length; i++) {
+      iframe_div[i].setAttribute("class", "background-iframe-div");
+
+      slide_div[i].appendChild(iframe_div[i]);
+      slide_div[i].removeAttribute("data-background-iframe");
+    }
+
+    // Each time we advance slides, as the background videos aren't loaded
+    // unless they are a few slides away
+    Reveal.on('slidechanged', event => {
+      var iframe_div = document.querySelectorAll(".backgrounds iframe");
+      var slide_div = document.querySelectorAll("[data-background-iframe]");
+
+      for (let i = 0; i < iframe_div.length; i++) {
+        iframe_div[i].setAttribute("class", "background-iframe-div");
+
+        slide_div[i].appendChild(iframe_div[i]);
+        slide_div[i].removeAttribute("data-background-iframe");
+      }
+    });
+    </script>
+
+    <script>
+    // Clean up slide background styles
+    divs = document.querySelectorAll('.slide-background-content');
+    Array.from(divs).map(function (x) {
+      x.style = null;
+    })
+    </script>
+
+    <script>
+    // Move menu button
+    menu_div = document.querySelector(".slide-menu-button");
+    if (menu_div !== null) {
+      document.querySelector(".slides").prepend(menu_div);
+    }
+
+    // Move progress bar
+    progress_div = document.querySelector(".progress");
+    if (progress_div !== null) {
+      document.querySelector(".slides").prepend(progress_div);
+    }
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")

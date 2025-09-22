@@ -1,0 +1,37 @@
+---
+title: "8.3 Extinction: Controls of Extinction Risk"
+date: "2025-9-17"
+format: letterbox-revealjs
+image: figures/Ch08/c08boxfig01.jpg
+---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAGzRO-ya1c/c6euqwKQVqWJKmbWKfVonw/view?utm_content=DAGzRO-ya1c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h36e8f252bc)
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/Ch08/c08boxfig01.jpg){.image-right}
+
+:::

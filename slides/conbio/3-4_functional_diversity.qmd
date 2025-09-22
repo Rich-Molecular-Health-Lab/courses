@@ -1,0 +1,37 @@
+---
+title: "3.4 Functional & Phylogenetic Diversity"
+date: "2025-9-8"
+format: letterbox-revealjs
+image: figures/Ch03/c03fig001.jpg
+---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAGx9M2QoMM/Wzf5fGw4hdNGZq4AAKbO-g/view?utm_content=DAGx9M2QoMM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2cb47d7d78)
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/Ch03/c03fig001.jpg){.image-right}
+
+:::

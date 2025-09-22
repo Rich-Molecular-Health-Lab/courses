@@ -1,0 +1,37 @@
+---
+title: "3.5-3.6 Community & Ecosystem Diversity"
+date: "2025-9-10"
+format: letterbox-revealjs
+image: figures/Ch03/c03fig001.jpg
+---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAGzuSVKVWk/2F3mz59ZxsA0aQ3uds_F0w/view?utm_content=DAGzuSVKVWk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0370327716)
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/Ch03/c03fig001.jpg){.image-right}
+
+:::

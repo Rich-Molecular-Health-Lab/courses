@@ -1,12 +1,38 @@
 ---
 title: "3.3 Species Diversity"
 date: "2025-9-8"
-title-slide-attributes:
-  data-background-image: ../backgrounds/species_diversity.png
-  data-background-size: cover
-  class: "center middle"
 format: letterbox-revealjs
+image: figures/Ch03/c03fig001.jpg
 ---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/Ch03/c03fig001.jpg){.image-right}
+
+:::
+
+
 
 ## Measures of Species Diversity {.center}
 
