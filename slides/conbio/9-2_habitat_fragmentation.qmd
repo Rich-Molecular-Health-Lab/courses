@@ -1,0 +1,37 @@
+---
+title: "9.2 Habitat Fragmentation"
+date: "2025-9-22"
+format: letterbox-revealjs
+image: figures/Ch09/c09fig009.jpg
+---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAGzu-0sWo8/5CssX5zmIofsnNEzPz5ecg/view?utm_content=DAGzu-0sWo8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7c836ff1ca)
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/Ch09/c09fig009.jpg){.image-right}
+
+:::

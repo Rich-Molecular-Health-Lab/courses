@@ -1,0 +1,37 @@
+---
+title: "9.1 Habitat Loss"
+date: "2025-9-22"
+format: letterbox-revealjs
+image: figures/Ch09/c09fig009.jpg
+---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAGzu_PZQNw/e04NgSmjpDHUuqLkoF5ENg/view?utm_content=DAGzu_PZQNw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6c20f5ed24)
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/Ch09/c09fig009.jpg){.image-right}
+
+:::
