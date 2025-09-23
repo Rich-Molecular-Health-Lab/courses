@@ -21,9 +21,11 @@ format:
       data-visibility: hidden
     css: [style/timeline.css, style/hex.css, style/custom.css]
     progress: true
+    incremental: true
     auto-animate: true
+    smaller: true
     menu: true
     preview-links: true
-    show-slide-number: speaker
+    show-slide-number: all
 callout-appearance: simple
 author: "Dr. Alicia M. Rich"

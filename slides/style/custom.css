@@ -148,24 +148,24 @@ img.icon {
 }
 
 div.callout-tip .callout-icon::before {
-  background-image: url('resources/lightbulb.png') !important;
+  background-image: url('../resources/lightbulb.png') !important;
 }
 div.callout-paper .callout-icon::before {
-  background-image: url('resources/school.png');
+  background-image: url('../resources/school.png');
 }
 div.callout-paper {
   border-left-color: #4582ec !important;
 }
 
 div.callout-link .callout-icon::before {
-  background-image: url('resources/link-variant.png');
+  background-image: url('../resources/link-variant.png');
 }
 div.callout-link {
   border-left-color: #4582ec !important;
 }
 
 div.callout-unsplash .callout-icon::before {
-  background-image: url('resources/unsplash.png');
+  background-image: url('../resources/unsplash.png');
 }
 div.callout-unsplash {
   border-left-color: #000 !important;
@@ -175,7 +175,7 @@ div.callout-unsplash {
 }
 
 div.callout-question .callout-icon::before {
-  background-image: url('resources/help.png');
+  background-image: url('../resources/help.png');
 }
 div.callout-question {
   border-left-color: #04d42c !important;
@@ -185,7 +185,7 @@ div.callout-question {
 
 
 div.callout-pro .callout-icon::before {
-  background-image: url('resources/check.svg');
+  background-image: url('../resources/check.svg');
 }
 div.callout-pro {
   border-left-color: #04d42c !important;
@@ -193,7 +193,7 @@ div.callout-pro {
   white-space: nowrap;
 }
 div.callout-con .callout-icon::before {
-  background-image: url('resources/cross.svg');
+  background-image: url('../resources/cross.svg');
 }
 div.callout-con {
   border-left-color: #d9534f !important;
