@@ -5,6 +5,8 @@ format:
     incremental: true
     slide-number: true
     smaller: true
+    resource-path: ["figures"]
+    default-image-extension: png
     theme:
       - solarized
       - style/mtmkinley.scss
@@ -27,5 +29,7 @@ format:
     menu: true
     preview-links: true
     show-slide-number: all
+    resource-path: ["figures"]
+    default-image-extension: png
 callout-appearance: simple
 author: "Dr. Alicia M. Rich"

@@ -3,6 +3,7 @@ title: "Evidence and Hypothesis-Testing in Epidemiology"
 date: "2025-9-25"
 format: letterbox-revealjs
 image: figures/epidemiology/epidemiological_triangle.png
+resource-path: ["figures/epidemiology"]
 ---
 
 ## {}
@@ -35,14 +36,27 @@ image: figures/epidemiology/epidemiological_triangle.png
 
 ## What is epidemiology? {.smaller}
 
-:::{.callout}
+:::{.green}
 The study of patterns, causes, and effects of health and disease conditions in populations.
 :::
 
-Epidemiologists
-: observe health conditions among groups of individuals in populations at risk,
-: offer estimates of the severity of the health condition in the population,
-: and identify factors and interventions that health programms can target to prevent and control the condition.
+::: columns
+:::{.column width="35%"}
+
+Epidemiologists <br><br>
+: {{< fa check >}} [observe]{.green} health conditions among groups of individuals in populations at risk,
+<br><br>
+: {{< fa check >}} [offer estimates]{.green} of the severity of the health condition in the population,
+<br><br>
+: {{< fa check >}} and [identify factors]{.green} and interventions that health programms can target to prevent and control the condition.
+
+:::
+:::{.column width="65%"}
+
+![](figures/epidemiology/risk-factors-of-dementia)
+
+:::
+:::
 
 ::: aside
 [Recommended reading: *The CDC Field Epidemiology Manual*](https://www.cdc.gov/field-epi-manual/php/about/index.html)
@@ -50,16 +64,17 @@ Epidemiologists
 
 ## Research Approaches
 
+:::{style="font-size:2em"}
 :::{.fragment}
 :::{.callout}
 A good research question should
-: be focused
-: be relevant
-: be meaningful
-: build on what is previously known
+:  {{< fa hand-point-right >}} be [focused]{.green}
+:  {{< fa hand-point-right >}} be [relevant]{.green}
+:  {{< fa hand-point-right >}} be [meaningful]{.green}
+:  {{< fa hand-point-right >}} build on what is [previously known]{.green}
 :::
 :::
-
+:::
 
 ```{r}
 library(tidyverse)
@@ -107,187 +122,264 @@ tibble(
 
 ## Scale of the Problem
 
-:::{.green}
+:::{style="font-size:0.8em"}
 *What is the prevalence of a disease/condition, where and among which groups is it prevalent?*
 :::
 
-::: columns
-:::{.column}
 :::{.fragment}
-:::{.callout}
-
 ### Cross-sectional Study
 
-*Random samples of individuals in a population at a point in time.*
-
-Approach:
-: Describe the prevalence of the disease/condition by other characteristics of the population.
-
-Use:
-: Informs about the scale, and demographic and geographical distribution of conditions
-: Repeated surveys can establish trends and generate hypotheses
-
-Caveats:
-: Not useful for rare conditions of very short duration
-: Hard to control for confounding or to attribute causality
-:::
-:::
-:::
-
+::: columns
 :::{.column}
-![](figures/epidemiology/epidemiology_design.jpg)
-:::
-:::
+*Random samples of individuals in a population at a point in time.*
+![](figures/epidemiology/cross_sectional)
 
-:::{.callout}
+:::{.callout style="font-size:1.1em"}
 [Prevalence rate:]{.green} the proportion of people in a population who have a condition of interest at a point in time (or, for *period prevalence*, during a period of time).
 :::
+:::
+:::{.column style="font-size:1.3em"}
+:::{.fragment}
+:::{.callout title="Approach"}
+:::{.nonincremental}
+- Describe the prevalence of the disease/condition by other characteristics of the population.
+:::
+:::
+:::
+:::{.fragment}
+:::{.callout title="Use"}
+:::{.nonincremental}
+- Informs about the scale, and demographic and geographical distribution of conditions
+- Repeated surveys can establish trends and generate hypotheses
+:::
+:::
+:::
+:::{.fragment}
+:::{.callout title="Caveats"}
+:::{.nonincremental}
+- Not useful for rare conditions of very short duration
+- Hard to control for confounding or to attribute causality
+:::
+:::
+:::
+:::
+:::
+:::
+
+
+
 
 ## Association of Problem with Risk Factors
 
-:::{.green}
-Which are the risk groups and factors associated with the disease/condition that an intervention could target?
+:::{style="font-size:0.8em"}
+*Which are the risk groups and factors associated with the disease/condition that an intervention could target?*
 :::
-
-::: columns
-:::{.column}
-:::{.fragment}
-:::{.callout}
-
+:::{.fragment fragment-index=1}
 ### Cohort (Longitudinal) Study
 
 *Follows a well-defined population over time who are exposed to risk factors of interest.*
 
-Approach:
-: Compare incidence of a disease/condition in those exposed and in those who are not (relative risk).
+::: columns
+:::{.column}
+![](figures/epidemiology/prospective_cohort){width="110%"}
 
-Use:
-: Describes incidence and the course of the condition (prognosis).
-: Identifies risk factors to target for interventions.
-
-Caveats:
-: Takes time.
-: Not feasible for rare conditions or diseases with long latency.
-: Suitable cohorts can be difficult to identify and costly to follow.
-: Ethical considerations include confidentiality and privacy.
-:::
-:::
-:::{.fragment}
-:::{.callout}
+:::{.r-stack}
+:::{.fragment .fade-out fragment-index=5}
+:::{.callout style="font-size:1.1em"}
 [Incidence rate:]{.green} the proportion of people in a population who contract a condition during a period of time.
 :::
 :::
-:::{.fragment}
+:::{.fragment fragment-index=5}
 :::{.callout}
-[Relative risk (RR):]{.green} the ratio of the incidence of the outcome of interest in a risk group to the incidence of the outcome in a comparison group.
+[Relative risk (RR):]{.green} the ratio of the incidence of the outcome of interest in a [risk group]{.mark} to the incidence of the outcome in a [comparison group]{.mark}.
 
-- [RR = 1]{.green} -> No association between the risk factor and the outcome
-- [RR > 1]{.green} -> Positive association
-- [RR < 1]{.green} -> Negative association
+:::{.nonincremental}
+- [RR = 1]{.green} {{< fa arrow-right >}} No association between the risk factor and the outcome
+- [RR > 1]{.green} {{< fa arrow-right >}} Positive association
+- [RR < 1]{.green} {{< fa arrow-right >}} Negative association
 :::
 :::
 :::
-:::{.column}
-![](figures/epidemiology/epidemiology_design.jpg)
 :::
 :::
 
+:::{.column style="font-size:1.3em"}
+
+:::{.fragment fragment-index=2}
+:::{.callout title="Approach"}
+
+:::{.nonincremental}
+- Compare incidence of a disease/condition in those exposed and in those who are not (relative risk).
+:::
+:::
+:::
+:::{.fragment fragment-index=3}
+:::{.callout title="Use"}
+
+:::{.nonincremental}
+- Describes incidence and the course of the condition (prognosis).
+- Identifies risk factors to target for interventions.
+:::
+:::
+:::
+:::{.fragment fragment-index=4}
+:::{.callout title="Caveats"}
+
+:::{.nonincremental}
+- Takes time.
+- Not feasible for rare conditions or diseases with long latency.
+- Suitable cohorts can be difficult to identify and costly to follow.
+- Ethical considerations include confidentiality and privacy.
+:::
+:::
+:::
+:::
+:::
+:::
 
 ## Association of Problem with Risk Factors
 
-:::{.green}
-Which are the risk groups and factors associated with the disease/condition that an intervention could target?
+:::{style="font-size:0.8em"}
+*Which are the risk groups and factors associated with the disease/condition that an intervention could target?*
 :::
-
+:::{.fragment fragment-index=1}
+### Case-control (Retrospective)  Study
 ::: columns
 :::{.column}
-![](figures/epidemiology/epidemiology_design.jpg)
-:::
-:::{.column}
-:::{.fragment}
-:::{.callout}
-
-### Case-control (Retrospective)  Study
-
 *Selects a group of cases with a disease/condition and a group of controls without the condition (but otherwise similar) and records history of exposure to potential risk factors in both groups.*
+![](figures/epidemiology/CohortStudy)
 
-Approach:
-: Examine odds ratio as a measure of association.
-
-Use:
-: Rapid way to establish (multiple) risk factors to target for interventions.
-: Especially for diseases that are rare or have long latency.
-
-Caveats:
-: Information collected retrospectively.
-: Prone to confounding and measurement bias.
-: Difficult to establish a temporal relationship between risk and development of the condition.
-: Selection of a suitable control group can be difficult.
-:::
-:::
-:::{.fragment}
-:::{.callout}
+:::{.r-stack}
+:::{.fragment .fade-out fragment-index=5}
+:::{.callout style="font-size:1.1em"}
 [Odds ratio (OR):]{.green} the ratio of the odds that an outcome occurs in a risk group to the odds that the outcome occurs in a comparison group.
-
-[For uncommon outcomes, the OR approximates the RR for an association.]{.aside}
+:::
+:::
+:::{.fragment fragment-index=5}
+[For uncommon outcomes, the OR approximates the RR for an association.]{.green}
+:::
+:::
+:::
+:::{.column style="font-size:1.3em"}
+:::{.fragment fragment-index=2}
+:::{.callout title="Approach"}
+:::{.nonincremental}
+- Examine odds ratio as a measure of association.
+:::
+:::
+:::
+:::{.fragment fragment-index=3}
+:::{.callout title="Use"}
+:::{.nonincremental}
+- Rapid way to establish (multiple) risk factors to target for interventions.
+- Especially for diseases that are rare or have long latency.
+:::
+:::
+:::
+:::{.fragment fragment-index=4}
+:::{.callout title="Caveats"}
+:::{.nonincremental}
+- Information collected retrospectively.
+- Prone to confounding and measurement bias.
+- Difficult to establish a temporal relationship between risk and development of the condition.
+- Selection of a suitable control group can be difficult.
 :::
 :::
 :::
 :::
-
+:::
+:::
 
 
 ## Choice of Treatment or Intervention
 
-:::{.green}
-Which intervention to recommend?
+:::{style="font-size:0.8em"}
+*Which intervention to recommend?*
+:::
+:::{.fragment fragment-index=1}
+### Randomized Controlled Trial (RCT)
+
+::: {style="font-size:0.8em"}
+*Randomly assigns consenting participants, groups or communities to an experimental treatment, or to a standard treatment, no treatment, or a placebo.*
 :::
 
 ::: columns
+:::{.column style="font-size:0.8em"}
 
-:::{.column}
-:::{.fragment}
-:::{.callout}
+![](figures/epidemiology/clinical_trial){width="110%"}
 
-### Randomized Controlled Trial (RCT)
-
-*Randomly assigns consenting participants, groups or communities to an experimental treatment, or to a standard treatment, no treatment, or a placebo.*
-
-Approach:
-: Mask assignment and limit the knowledge of treatment providers where possible.
-
-Use:
-: Provides the best available evidence on the efficacy of treatments.
-
-Caveats:
-: Expensive and cumbersome 
-: Trade-off between internal and external validity due to selected samples 
-: Study of harm is not feasible for ethical reasons 
-: For field interventions findings may not be generalizable beyond the study context.
+:::
+:::{.column style="font-size:1.3em"}
+:::{.fragment fragment-index=2}
+:::{.callout title="Approach"}
+:::{.nonincremental}
+- Mask assignment and limit the knowledge of treatment providers where possible.
+:::
+:::
+:::
+:::{.fragment fragment-index=3}
+:::{.callout title="Use"}
+:::{.nonincremental}
+- Provides the best available evidence on the efficacy of treatments.
+:::
+:::
+:::
 :::
 :::
 :::
 
-:::{.column}
-:::{.fragment}
-:::{.callout}
 
+:::{.fragment fragment-index=4}
+:::{.callout title="Caveats" style="font-size:1.3em"}
+:::{.nonincremental}
+- Expensive and cumbersome 
+- Trade-off between internal and external validity due to selected samples 
+- Study of harm is not feasible for ethical reasons 
+- For field interventions findings may not be generalizable beyond the study context.
+:::
+:::
+:::
+
+## Choice of Treatment or Intervention
+
+:::{style="font-size:0.8em"}
+*Which intervention to recommend?*
+:::
+:::{.fragment fragment-index=1}
 ### Quasi-experimental Study Designs
 
+::: {style="font-size:0.8em"}
 *Utilizes control groups which are selected or matched, or statistically simulated, to be as comparable as possible to the subjects exposure to the new intervention.*
-
-Use:
-: Most useful when RCTs are either logistically infeasible or ethically unacceptable *(e.g., to evaluate the effects of legislation, on entire populations)*.
-
-Caveats:
-: Each study design has its pros and cons (especially its risk of failure to control for potential confounders)
-: Considerable experience is required to judge the most appropriate design for a given situation.
-:::
-:::
-:::
 :::
 
-![](figures/epidemiology/epidemiology_design.jpg){width="40%"}
+::: columns
+:::{.column}
+
+![](figures/epidemiology/quasiexperimental){width="150%"}
+
+:::
+
+:::{.column style="font-size:1.3em"}
+:::{.fragment fragment-index=2}
+:::{.callout title="Use"}
+:::{.nonincremental}
+- Most useful when RCTs are either logistically infeasible or ethically unacceptable *(e.g., to evaluate the effects of legislation, on entire populations)*.
+:::
+:::
+:::
+
+:::{.fragment fragment-index=3}
+:::{.callout title="Caveats"}
+:::{.nonincremental}
+- Each study design has its pros and cons (especially its risk of failure to control for potential confounders)
+- Considerable experience is required to judge the most appropriate design for a given situation.
+:::
+:::
+:::
+:::
+:::
+:::
+
 
 ## Research Methods & Ethics
 

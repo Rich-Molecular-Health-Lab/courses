@@ -244,7 +244,16 @@ span.term {
 
 
 .reveal li {
-  padding-bottom: 1em;
-  line-height: 1.3;
+  padding-bottom: 0.4em;
+  line-height: 1.1;
 }
 
+/* Add vertical spacing between definition list items */
+dl dd {
+  margin-bottom: 0.75em;  /* tweak value as needed */
+}
+
+/* Optional: add a little space above/below the term itself */
+dl dt {
+  margin-top: 0.5em;
+}
