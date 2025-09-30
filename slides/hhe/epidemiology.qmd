@@ -422,11 +422,18 @@ Open source software developed by the CDC to provide customized tools for data e
 :::
 :::
 
+
+
+:::{.nonincremental}
+
 ## Critical Design Aspects 
 
-::: {.panel-tabset}
 
+::: {.panel-tabset}
 ### Participant Selection
+
+::: columns
+:::{.column}
 
 Simple random sampling
 : not often feasible or appropriate
@@ -443,8 +450,16 @@ Random stratified sampling
 Cluster sampling
 : investigators sample clusters from a population partitioned into homogeneous groups (or clusters), such as enumeration areas, villages or schools
 
+:::
+:::{.column}
+![](figures/epidemiology/sampling_methods)
+:::
+:::
+
 ### Measurement Accuracy
 
+::: columns
+::: {.column}
 Disease status can be ascertained by
 : examining participants for symptoms and signs consistent with the disease or event using diagnostic laboratory tests, 
 : administering questionnaires or conducting interviews,
@@ -459,20 +474,24 @@ Accuracy requires
 
 To ensure proper data quality, investigators can 
 : conduct pilot studies, 
-: monitor and supervise procedures, 
-: employ laboratory quality assurance, 
-: and commission periodic audits of long-term studies.
+: employ laboratory quality assurance
+
+:::
+::: {.column}
+
+![](figures/epidemiology/postpartum-preeclampsia)
+:::
+:::
 
 ### Sample Size
 
 :::{.callout-note}
 [Epi Info](https://www.cdc.gov/epiinfo/index.html)[^2] includes a sample size calculator, which addresses the aim of the study, the type of study and the chosen sampling method.
 
-:::{.nonincremental}
 The investigator provides
 : a margin of error or width of confidence interval they expect to obtain.
 : estimated indicator values via literature review or pilot investigation. 
-:::
+
 [The smaller the intended margin of error, the larger the required sample size.]{.green}
 
 :::
@@ -499,6 +518,9 @@ For cohort and case-control studies and surveys, investigators may select partic
 ::: {.panel-tabset}
 ### Selection Bias
 
+::: columns
+:::{.column}
+
 In cross-sectional studies
 : *when sample members do not represent the population to which the investigator hopes to make inference.*
 <br><br>
@@ -510,7 +532,19 @@ For case-control or cohort studies
 In clinical trials
 : *selection bias arises when there are systematic differences between treatment groups in factors that can influence the study outcomes being measured.*
 
+:::
+:::{.column}
+
+![](figures/epidemiology/selection_bias)
+
+:::
+:::
+
 ### Measurement Bias
+
+::: columns
+
+:::{.column width="30%"}
 
 Occurs through
 : errors in recording observations
@@ -518,6 +552,15 @@ Occurs through
 : instrument bias
 : misclassification of exposure and disease status
 
+:::
+
+
+:::{.column width="70%"}
+
+![](figures/epidemiology/cancer_diagnosis)
+
+:::
+:::
 :::
 
 ## Counfounders
@@ -544,20 +587,19 @@ Researchers should consider all plausible potential confounders, design their st
 
 ## Other Common Pitfalls
 
-:::{.panel-tabset}
-
+:::{.fragment}
+:::{.callout}
 ### Correlation and Causation
 
-:::{.callout}
 “X is linked to Y” ≠ “X causes Y.”
-:::
-:::{.nonincremental}
+
 To establish causality after showing association, researchers need to:
 
 1.  Satisfy themselves that potential biases have not importantly influenced their conclusions
 2.  Demonstrate that the risk factor occurred before the health outcome
 3.  Exclude spurious explanations for the association
 4.  Describe a plausible chain of causality between the risk factor or treatment and the outcome.
+
 :::
 
 :::{.callout-important}
@@ -566,32 +608,51 @@ It is difficult to establish a temporal relationship between risk and developmen
 RCTs provide the best form of evidence of causality, *but they may not always be logistically or ethically feasible.*
 :::
 
-### Absence of evidence ≠ evidence of absence
+:::
+
+
+:::{.fragment}
 
 :::{.callout}
+
+### Absence of evidence ≠ evidence of absence
+
 We cannot conclude something does not exist or occur just because we have not observed it.
 :::
 
-### Cherry-picking studies
+:::
+
+
+:::{.fragment}
 
 :::{.callout}
+
+### Cherry-picking studies
+
 The relative weight of evidence matters.
 :::
+:::
+
+
+:::{.fragment}
+
+:::{.callout}
 
 ### Overgeneralization
 
-:::{.callout}
 One study's findings cannot be applied universally.
 :::
+:::
 
-### Relative vs. absolute risk
+
+:::{.fragment}
 
 :::{.callout}
+### Relative vs. absolute risk
+
 “Doubles your risk!” might mean from 25% to 75% or from 0.01% to 0.02%.
 :::
 :::
-
-# Applying Concepts
 
 ## Case Study
 
