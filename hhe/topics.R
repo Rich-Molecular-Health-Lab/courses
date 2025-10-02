@@ -32,23 +32,17 @@ topics <- list(
       days = c("D5", "D6")
     ),
     "Wildfires"   = list(
-      days = "D7"
+      days = c("D7", "D8")
     )
   ),
   "Built Environments"  = list(
     "Urban Infrastructure"    = list(
-      days = "D8"
-    ),
-    "Pests & Public Health"     = list(
-      days = "D9"
+      days = c("D9", "D10")
     )
   ),
-  "Vector Ecology"     = list(
-    "Ticks"      = list(
-      days = c("D10", "D11")
-    ),
-    "Mosquitoes" = list(
-      days = "D12"
+  "Evidence & Research Design"  = list(
+    "Epidemiology"    = list(
+      days = c("D11", "D12")
     )
   ),
   "Exam Week"        = list(
@@ -59,15 +53,20 @@ topics <- list(
       days = "D14"
     )
   ),
-  "Zoonotic Transmission" = list(
-    "Human-Wildlife Interfaces"    = list(
+  "Vector Ecology"     = list(
+    "Pests & Public Health"     = list(
       days = "D15"
     ),
+    "Ticks"      = list(
+      days = c("D16", "D17")
+    )
+  ),
+  "Zoonotic Transmission" = list(
     "Historic Spillovers"          = list(
-      days = "D16"
+      days = "D18"
     ),
     "Emergent Infectious Diseases" = list(
-      days = c("D17", "D18")
+      days = "D18"
     )
   ),
   "Toxicology"          = list(
