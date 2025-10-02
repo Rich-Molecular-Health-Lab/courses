@@ -26,6 +26,15 @@
   },
   {
     "listing": "/hhe_slides.html",
-    "items": []
+    "items": [
+      "/slides/hhe/1_2_introduction_keyterms.html",
+      "/slides/hhe/1_3_introduction_redlining.html",
+      "/slides/hhe/2_1_climate_models.html",
+      "/slides/hhe/2_2_climate_heat.html",
+      "/slides/hhe/3_1_natural_disasters_hurricanes.html",
+      "/slides/hhe/3_2_natural_disasters_wildfires.html",
+      "/slides/hhe/4_built_environments.html",
+      "/slides/hhe/4-5_epidemiology.html"
+    ]
   }
 ]
