@@ -1,0 +1,14 @@
+
+  revealjs:
+    title-slide-attributes:
+      data-visibility: hidden
+    css: [style/timeline.css, style/hex.css, style/custom.css]
+    progress: true
+    incremental: true
+    auto-animate: true
+    smaller: true
+    menu: true
+    preview-links: true
+    show-slide-number: all
+    resource-path: ["figures"]
+    default-image-extension: png

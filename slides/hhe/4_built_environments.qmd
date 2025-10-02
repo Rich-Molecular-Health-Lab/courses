@@ -1,5 +1,36 @@
 ---
-title: "1_introduction"
-format: html
+title: "Built Environments and Public Health"
+date: "2025-9-23"
+format: letterbox-revealjs
+image: figures/healthy_housing.png
 ---
 
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} <br> {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAG0rn8idck/f9b4envjBeOLA4bYkOM7TQ/view?utm_content=DAG0rn8idck&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hafce94dac2)
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/healthy_housing.png){.image-right}
+
+:::
+:::

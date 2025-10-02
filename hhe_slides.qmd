@@ -4,11 +4,9 @@ subtitle: "Human Health & the Environment"
 listing: 
   id: slides
   contents:
-    - "slides/hhe/1_keyterms.qmd"
-    - "slides/hhe/1-5_redlining.qmd"
-    - "slides/hhe/2_climate.qmd"
+    - "slides/hhe/*.qmd"
   fields: [image, date, date-modified, title, subtitle]
-  sort: "date desc"
+  sort: "date"
 ---
 
 I post updated versions of class slide decks to this page. Please remember that these slides should **enhance**, but ***not replace*** your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.

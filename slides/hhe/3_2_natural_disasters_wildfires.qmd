@@ -2,7 +2,34 @@
 title: "Natural Disasters: Wildfires"
 date: "2025-9-16"
 format: letterbox-revealjs
+image: figures/forest_fire.jpeg
 ---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} <br> {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/forest_fire.jpeg){.image-right}
+
+:::
+:::
 
 ## Immediate/Direct Hazards {.smaller}
 
@@ -111,9 +138,15 @@ Geographic spread
 : smoke plumes travel hundreds–thousands of miles → health impacts far beyond burn zone
 :::
 
-::: aside
-[External slides](https://www.canva.com/design/DAGzLIvZsCw/wXR4wHo_HWPXi9NuJB6DOA/edit)
+
+## More Slides on Canva
+
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAGzLLTrMdg/fa8j3zI_CUT8HOXcYEEulg/view?utm_content=DAGzLLTrMdg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf92d57326c)
 :::
+
+
+
 
 ## Living with Wildfires
 
@@ -123,6 +156,10 @@ Geographic spread
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
+::: aside
+*Extra video not covered in class*
+:::
 
 
 ## California Wildfires
@@ -134,6 +171,10 @@ Geographic spread
   allowfullscreen>
 </iframe>
 
+::: aside
+*Extra video not covered in class*
+:::
+
 
 ## Suburban Sprawl
 
@@ -143,5 +184,11 @@ Geographic spread
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
+::: aside
+*Extra video not covered in class*
+:::
+
+
 
 

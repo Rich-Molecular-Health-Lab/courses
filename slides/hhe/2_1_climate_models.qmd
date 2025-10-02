@@ -1,13 +1,34 @@
 ---
 title: "Observing & Modeling Climate"
 date: "2025-9-4"
-title-slide-attributes:
-  data-background-image: ../backgrounds/climate.png
-  data-background-size: contain
-  class: "center middle"
 format: letterbox-revealjs
+image: figures/climate_text/c12fig001.jpg
     
 ---
+
+## {}
+
+::: columns
+
+::: {.column width="65%"}
+
+:::{.box-opaque}
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+::: {.title}
+{{< meta title >}}
+:::
+:::
+
+:::
+
+::: {.column width="35%"}
+
+![](figures/climate_text/c12fig001.jpg){.image-right}
+
+:::
+:::
 
 # Basics
 

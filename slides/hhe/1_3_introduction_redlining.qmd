@@ -1,12 +1,8 @@
 ---
-title: "Introduction: Environmental Justice (cont.)"
-subtitle: "Redlining"
+title: "Environmental Justice: Redlining"
 date: "2025-9-2"
-title-slide-attributes:
-  data-background-image: ../backgrounds/4.png
-  data-background-size: cover 
-  class: "title-left title-highlight-light"
-format: revealjs
+format: letterbox-revealjs
+image: figures/holc_sale.jpg
 ---
 
 ```{r}
@@ -23,6 +19,30 @@ source(here("slides/hhe/helpers.R"))
 
 load(here("slides/hhe/tables/holc.RData"))
 ```
+
+## {}
+
+::: columns
+
+::: {.column width="65%"}
+
+:::{.box-opaque}
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+::: {.title}
+{{< meta title >}}
+:::
+:::
+
+:::
+
+::: {.column}
+
+![](figures/holc_sale.jpg){.image-right}
+
+:::
+:::
 
 # History
 

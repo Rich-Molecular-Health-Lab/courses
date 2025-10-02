@@ -1,12 +1,36 @@
 ---
 title: "Heat Waves & Extreme Heat"
 date: "2025-9-4"
-title-slide-attributes:
-  data-background-image: backgrounds/1.png
-  data-background-size: cover 
-  class: "title-left title-highlight-light"
-format: revealjs
+format: letterbox-revealjs
+image: figures/heat_island_charlotte.png
 ---
+
+## {}
+
+::: columns
+
+::: {.column width="65%"}
+
+:::{.box-opaque}
+::: {.dateplace}
+{{< meta subtitle >}}<br>
+{{< meta date >}}
+:::
+::: {.title}
+{{< meta title >}}
+:::
+:::
+
+:::
+
+::: {.column width="35%"}
+
+![](figures/heat_island_charlotte.png){.image-right}
+
+:::
+:::
+
+
 
 # Causes of Extreme Heat
 
@@ -136,133 +160,10 @@ Heat islands are urbanized areas that experience higher temperatures than outlyi
 
 >Atmospheric heat islands vary much less in intensity than surface heat islands.
 
-# Consequences of Extreme Heat
+## More Slides on Canva
 
-## Impacts of Urban Heat Islands
-
-### Increased Energy Consumption
-
-### Elevated Emissions of Air Pollutants and Greenhouse Gases
-
-### Compromised Human Health and Comfort
-
-### Impaired Water Quality
-
-## Vulnerable Populations
-
-::: {.columns}
-
-::: {.column}
-
-### Older Adults
-
-- Older adults are more likely to be in poor health, less mobile and isolated, more sensitive to high heat, and to live on reduced incomes.
-
-:::
-
-::: {.column}
-
-### Young Children
-
-- More rapid breathing rates relative to body size
-- More time spent outdoors
-- Developing respiratory systems 
-
-. . .
-
-All raise childrens' chances of aggravated asthma and other lung diseases caused by ozone air pollution and smog, which usually increases during heat waves.
-
-:::
-
-:::
-
-## Vulnerable Populations
-
-::: {.columns}
-
-::: {.column}
-
-### Low Income Communities
-
-- Greater risk of heat-related illnesses due to poor housing conditions
-  - E.g., lack of air conditioning, small living spaces
-- Inadequate resources to find alternative shelter during a heat wave.
-
-:::
-
-::: {.column}
-
-### Outdoor Workers
-
-- They have higher exposures to ozone air pollution and heat stress
-  - Especially if work tasks involve heavy exertion.
-
-:::
-
-:::
-
-## Vulnerable Populations
-
-::: {.columns}
-
-::: {.column}
-
-### People with Chronic Illnesses
-
-- Chronic conditions like diabetes and cardiovascular illness place people at higher risk of death. 
-- Certain medications impair thermoregulation.
-
-:::
-
-::: {.column}
-
-### People with Disabilities
-
-- Physical impairments and cognitive deficits increase risk during heat waves. 
-- Mobility constraints increase negative impacts and risk.
-
-:::
-
-:::
-
-# Mitigation & Resilience
-
-## Reduce the Risks
-
-The EPA suggests four main strategies for long-term risk reduction.
-
-::: {.columns}
-
-::: {.column}
-
-### Increase Tree and Vegetative Cover
-
-### Create Green Roofs
-
-:::
-
-::: {.column}
-
-### Install Reflective Roofs
-
-### Use Cool Pavements
-
-:::
-
-:::
-
-## Climate Resilience
-
-
-:::{.img-frame}
-
-<iframe width="800" height="450"
-  src="https://www.pbs.org/video/how-americas-hottest-city-is-innovating-to-survive-w1yzdb/"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
+:::{.callout}
+[Click here for redirect to Canva slide deck.](https://www.canva.com/design/DAGyDPbArVU/E8sE7svnYDhQ7ZS868emFA/view?utm_content=DAGyDPbArVU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f82c5d936
 :::
 
 

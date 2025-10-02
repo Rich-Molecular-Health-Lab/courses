@@ -2,23 +2,33 @@
 title: "Natural Disasters: Hurricanes"
 date: "2025-9-11"
 format: letterbox-revealjs
+image: figures/3_hurricanekiko.jpg
 ---
 
+## {}
 
-## Welcome & framing {.center}
+::: columns
 
-**Hurricanes, Katrina & Health**  
-_Ecosystems ↔ infrastructure ↔ people_
+::: {.column width="65%"}
 
-::: notes
-Set the session arc: 
-1) hurricane physics vs. impacts, 
-2) Katrina as environmental justice case, 
-3) health systems & preparedness, 
-4) designing better risk communication than “category only”. 
+:::{.box-opaque}
+::: {.dateplace}
+{{< meta subtitle >}} <br> {{< meta date >}}
+:::
+::: {.title}
+{{< meta title >}}
+:::
 :::
 
----
+:::
+
+::: {.column width="35%"}
+
+![](figures/3_hurricanekiko.jpg){.image-right}
+
+:::
+:::
+
 
 ## What a hurricane is (and isn’t) {.image-right}
 
@@ -125,107 +135,6 @@ Low-elevation, levee-adjacent neighborhoods, Car access & evacuation ability, Di
 Connect to previous class: how historical housing policy maps onto present-day disaster risk and **health inequities**.
 :::
 
----
+## Film
 
-## Public health cascades
-
-**Acute:** drowning, trauma, CO poisoning  
-**Subacute:** waterborne disease, mold, asthma  
-**Chronic:** PTSD/depression, DV rise, displacement
-
-::: notes
-Introduce **disaster epidemiology** terms (excess mortality, indirect deaths, syndemics). Ask: What surveillance would you deploy at 1 week / 1 month?
-:::
-
----
-
-## Evacuation paradox: Hurricane Rita (2005)
-
-> Mass evacuation → **heat, dehydration, traffic** mortality
-
-::: notes
-Rita saw >2.5M evacuees; >50% of deaths occurred **during evacuation**. Discussion: When is **shelter-in-place** safer, and how do we message that?
-:::
-
----
-
-## Katrina lessons for today
-
-- **Category ≠ consequence**  
-- Community **capacity** drives mortality trajectory  
-- **Mitigation** is equity-positive public health policy
-
-::: notes
-Bridge to ROI and planning: “Mitigation Saves” (~\$6 per \$1). Ask which two investments (grey/green or social) they’d prioritize **now** for NOLA.
-:::
-
----
-
-## Preparedness across scales
-
-Household ↔ neighborhood ↔ clinic/hospital ↔ city
-
-::: notes
-We’ll ladder through: home kits & meds, neighbor check-ins, clinic surge, municipal transit/shelter ops. Assign a brief preparedness plan later.
-:::
-
----
-
-## Household & neighborhood
-
-- Redundant alerts; meds & docs ready  
-- Know your **floodplain** / drainage  
-- Pets, caregivers, carpool networks, **mutual aid**
-
-::: notes
-Quick activity: sketch a neighbor **check-in grid** (names, needs, contact, “last seen”).
-:::
-
----
-
-## Clinics & hospitals
-
-- Pre-position **oxygen/dialysis/insulin**; backup power  
-- On-site staff lodging & childcare  
-- Early discharges; **telehealth** triage  
-- Post-storm: **heat, mold, vector** control
-
-::: notes
-Mini-scenario: A Cat 2 is forecast to **RI to Cat 4** in 24–36h. What activates at **T-36h**, **T-12h**, and **+48h**?
-:::
-
----
-
-## Community & policy levers
-
-- Cool roofs, raised utilities, permeable streets  
-- Surge barriers, wetland restoration, buyouts  
-- **Transit-enabled** evacuation  
-- Fund local EM; measure outcomes
-
-::: notes
-Highlight co-benefits (air quality, heat). Note who benefits first if budgets are tight; link to equity.
-:::
-
----
-
-## Video: policy or health case {background-iframe="https://www.youtube.com/embed/VIDEO_ID?rel=0"}
-
-*(Paste a short YouTube explainer; adjust for autoplay per your policy.)*
-
-::: notes
-Prompt: list **three “no-regret” investments** with health benefits even absent a storm next year.
-:::
-
----
-
-## Designing better risk metrics
-
-Beyond category: **surge**, **rainfall**, **footprint**, **RI risk**  
-Exposure: **population, assets, hospitals**  
-Vulnerability: **SVI**, car access, language, disability
-
-::: notes
-Group task (5–6 min): Propose a **4-component index** for your chosen coastal city. One team shares out.
-:::
-
+>[Hurricane Katrina: Race Against Time - Ep2 *Worst Case Scenario*](https://www.hulu.com/watch/3ef57a04-0ac1-4ac0-96e3-2427fa6ec4d1)

@@ -23,5 +23,9 @@
       "/conbio/syllabus.html",
       "/hhe/syllabus.html"
     ]
+  },
+  {
+    "listing": "/hhe_slides.html",
+    "items": []
   }
 ]

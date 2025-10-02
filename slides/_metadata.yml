@@ -1,23 +1,4 @@
 format:
-  revealjs:
-    toc: false
-    toc-depth: 2
-    incremental: true
-    slide-number: true
-    smaller: true
-    resource-path: ["figures"]
-    default-image-extension: png
-    theme:
-      - solarized
-      - style/mtmkinley.scss
-    css:
-      - style/headings.css
-      - style/slides.css
-      - style/custom.css
-    transition: slide
-    background-transition: fade
-    auto-animate: true
-    title-slide: false
   letterbox-revealjs:
     title-slide-attributes:
       data-visibility: hidden

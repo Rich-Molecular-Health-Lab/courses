@@ -1,14 +1,35 @@
 ---
 title: "Introduction: Key Terms & Themes"
 date: "2025-8-28"
-title-slide-attributes:
-  data-background-image: ../backgrounds/4.png
-  data-background-size: cover 
-  class: "title-left title-highlight-light"
-format: revealjs
+format: letterbox-revealjs
+image: figures/one_health4.png
 ---
 
-# Misinformation & Disinformation
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} <br> {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/one_health4.png){.image-right}
+
+:::
+:::
 
 ## Misinformation
 
@@ -151,8 +172,6 @@ The approach mobilizes multiple sectors, disciplines and communities at varying 
 :::
 
 :::
-
-# Environmental Justice
 
 ## Environmental Justice Defined {.smaller}
 

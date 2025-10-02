@@ -1,0 +1,229 @@
+---
+title: "_hhe_extra"
+format: html
+---
+
+# Consequences of Extreme Heat
+
+## Impacts of Urban Heat Islands
+
+### Increased Energy Consumption
+
+### Elevated Emissions of Air Pollutants and Greenhouse Gases
+
+### Compromised Human Health and Comfort
+
+### Impaired Water Quality
+
+## Vulnerable Populations
+
+::: {.columns}
+
+::: {.column}
+
+### Older Adults
+
+- Older adults are more likely to be in poor health, less mobile and isolated, more sensitive to high heat, and to live on reduced incomes.
+
+:::
+
+::: {.column}
+
+### Young Children
+
+- More rapid breathing rates relative to body size
+- More time spent outdoors
+- Developing respiratory systems 
+
+. . .
+
+All raise childrens' chances of aggravated asthma and other lung diseases caused by ozone air pollution and smog, which usually increases during heat waves.
+
+:::
+
+:::
+
+## Vulnerable Populations
+
+::: {.columns}
+
+::: {.column}
+
+### Low Income Communities
+
+- Greater risk of heat-related illnesses due to poor housing conditions
+  - E.g., lack of air conditioning, small living spaces
+- Inadequate resources to find alternative shelter during a heat wave.
+
+:::
+
+::: {.column}
+
+### Outdoor Workers
+
+- They have higher exposures to ozone air pollution and heat stress
+  - Especially if work tasks involve heavy exertion.
+
+:::
+
+:::
+
+## Vulnerable Populations
+
+::: {.columns}
+
+::: {.column}
+
+### People with Chronic Illnesses
+
+- Chronic conditions like diabetes and cardiovascular illness place people at higher risk of death. 
+- Certain medications impair thermoregulation.
+
+:::
+
+::: {.column}
+
+### People with Disabilities
+
+- Physical impairments and cognitive deficits increase risk during heat waves. 
+- Mobility constraints increase negative impacts and risk.
+
+:::
+
+:::
+
+# Mitigation & Resilience
+
+## Reduce the Risks
+
+The EPA suggests four main strategies for long-term risk reduction.
+
+::: {.columns}
+
+::: {.column}
+
+### Increase Tree and Vegetative Cover
+
+### Create Green Roofs
+
+:::
+
+::: {.column}
+
+### Install Reflective Roofs
+
+### Use Cool Pavements
+
+:::
+
+:::
+
+## Climate Resilience
+
+
+:::{.img-frame}
+
+<iframe width="800" height="450"
+  src="https://www.pbs.org/video/how-americas-hottest-city-is-innovating-to-survive-w1yzdb/"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+:::
+
+# Hurricanes 
+
+---
+
+## Evacuation paradox: Hurricane Rita (2005)
+
+> Mass evacuation → **heat, dehydration, traffic** mortality
+
+::: notes
+Rita saw >2.5M evacuees; >50% of deaths occurred **during evacuation**. Discussion: When is **shelter-in-place** safer, and how do we message that?
+:::
+
+---
+
+## Katrina lessons for today
+
+- **Category ≠ consequence**  
+- Community **capacity** drives mortality trajectory  
+- **Mitigation** is equity-positive public health policy
+
+::: notes
+Bridge to ROI and planning: “Mitigation Saves” (~\$6 per \$1). Ask which two investments (grey/green or social) they’d prioritize **now** for NOLA.
+:::
+
+---
+
+## Preparedness across scales
+
+Household ↔ neighborhood ↔ clinic/hospital ↔ city
+
+::: notes
+We’ll ladder through: home kits & meds, neighbor check-ins, clinic surge, municipal transit/shelter ops. Assign a brief preparedness plan later.
+:::
+
+---
+
+## Household & neighborhood
+
+- Redundant alerts; meds & docs ready  
+- Know your **floodplain** / drainage  
+- Pets, caregivers, carpool networks, **mutual aid**
+
+::: notes
+Quick activity: sketch a neighbor **check-in grid** (names, needs, contact, “last seen”).
+:::
+
+---
+
+## Clinics & hospitals
+
+- Pre-position **oxygen/dialysis/insulin**; backup power  
+- On-site staff lodging & childcare  
+- Early discharges; **telehealth** triage  
+- Post-storm: **heat, mold, vector** control
+
+::: notes
+Mini-scenario: A Cat 2 is forecast to **RI to Cat 4** in 24–36h. What activates at **T-36h**, **T-12h**, and **+48h**?
+:::
+
+---
+
+## Community & policy levers
+
+- Cool roofs, raised utilities, permeable streets  
+- Surge barriers, wetland restoration, buyouts  
+- **Transit-enabled** evacuation  
+- Fund local EM; measure outcomes
+
+::: notes
+Highlight co-benefits (air quality, heat). Note who benefits first if budgets are tight; link to equity.
+:::
+
+---
+
+## Video: policy or health case {background-iframe="https://www.youtube.com/embed/VIDEO_ID?rel=0"}
+
+*(Paste a short YouTube explainer; adjust for autoplay per your policy.)*
+
+::: notes
+Prompt: list **three “no-regret” investments** with health benefits even absent a storm next year.
+:::
+
+---
+
+## Designing better risk metrics
+
+Beyond category: **surge**, **rainfall**, **footprint**, **RI risk**  
+Exposure: **population, assets, hospitals**  
+Vulnerability: **SVI**, car access, language, disability
+
+::: notes
+Group task (5–6 min): Propose a **4-component index** for your chosen coastal city. One team shares out.
+:::
+
+

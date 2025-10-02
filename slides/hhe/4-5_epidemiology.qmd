@@ -9,28 +9,29 @@ resource-path: ["figures/epidemiology"]
 ## {}
 
 ::: columns
-::: {.column width="45%"}
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} <br> {{< meta date >}}
+:::
 
 ::: {.title}
 {{< meta title >}}
 :::
-<br><br>
-
-::: {.dateplace}
-{{< meta subtitle >}}  
-{{< meta date >}}
-:::
-
 
 :::
 
-::: {.column width="55%"}
+:::
+
+::: {.column}
 
 ![](figures/epidemiology/epidemiological_triangle.png){.image-right}
 
 :::
-
 :::
+
 
 # Introduction
 
