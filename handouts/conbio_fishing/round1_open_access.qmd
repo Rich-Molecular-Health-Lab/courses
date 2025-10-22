@@ -1,0 +1,74 @@
+---
+title: "Fishing for Sustainability — Round 1"
+subtitle: "Open-Access Fishing"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+---
+
+**Name:** _________________________________________   
+
+## Goal
+
+Experience how individual self-interest can deplete a shared resource when there are **no regulations**.
+
+## Materials (Instructor provides)
+
+- 1 bowl = **lake** (starts with **30 fish**: candies/beans/tokens)
+- 8 cups = **boats** (one per student)
+
+> **Biological Rule**  
+> After harvest, fish remaining in the lake **double** (up to a **maximum of 30**).
+
+---
+
+## Communication Rules (Read aloud & follow exactly)
+
+- **Do NOT** talk, signal, make eye contact, or coordinate in any way.  
+- **You are independent fishers.** No communication is permitted **until after** this handout is collected.
+
+::: callout-warning
+
+### You may communicate:
+
+Nothing at all. No talking, signaling, or writing to each other.
+
+:::
+
+---
+
+## Procedure
+
+1. **Secret Choice (0–6):** Privately decide how many fish to take (0–6). Write the number on your paper; **do not show** anyone.
+2. **Simultaneous Harvest:** When the instructor says “**Fish!**” everyone takes their chosen fish at the same time.
+3. **If total fish taken > fish available:** The fishery **collapses** (0 fish remain). **Stop.**
+4. **If fish remain:** Instructor counts the remaining fish, then **doubles** them (up to 30).
+5. **Record** your results in the table below.
+
+### Data Table (Round 1)
+
+| Item | Value |
+|---|---|
+| Your catch |  |
+| Total class catch |  |
+| Fish remaining after harvest |  |
+| Fish after reproduction (doubled, max 30) |  |
+
+---
+
+## Individual Reflection (submit with this handout)
+
+1. Did you try to cooperate (take fewer) or maximize personal catch? Why?\bigskip\bigskip\bigskip
+2. Did you trust others to restrain themselves? Why or why not?\bigskip\bigskip\bigskip
+3. Predict how many **more** rounds this fishery could last under open access.\bigskip\bigskip\bigskip
+4. In one sentence, explain how Round 1 illustrates the **Tragedy of the Commons**.\bigskip\bigskip\bigskip
+
+---
+
+## Participation Check (instructor initials when reviewed)
+- [ ] Data table filled  
+- [ ] Four reflection answers written
+
+**Stop here.** Hand this sheet in. Wait quietly for the next handout.

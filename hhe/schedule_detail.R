@@ -18,6 +18,43 @@ videos <- list(
         "Heavy Metals"
       )
     ),
+    "Mossville: When Great Trees Fall" = list(
+      minutes   = 76,
+      streaming = "Prime",
+      date      = ym("2019-1"),
+      topics    = list(
+        "Toxicology",
+        "Environmental Justice"
+      )
+    ),
+    "Out of Plain Sight" = list(
+      minutes   = 94,
+      streaming = "None",
+      date      = ym("2024-1"),
+      topics    = list(
+        "Toxicology",
+        "Environmental Justice"
+      )
+    ),
+    "Upstream, Downriver: Uniting for Water Justice" = list(
+      minutes   = 58,
+      streaming = "None",
+      date      = ym("2025-1"),
+      topics    = list(
+        "Toxicology",
+        "Environmental Justice",
+        "Indigenous Rights"
+      )
+    ),
+    "Black Snow" = list(
+      minutes   = 100,
+      streaming = "None",
+      date      = ym("2024-1"),
+      topics    = list(
+        "Toxicology",
+        "Environmental Justice"
+      )
+    ),
     "Poisoned Water" = list(
       minutes   = 120,
       streaming = "PBS",
@@ -125,6 +162,15 @@ videos <- list(
         "Vector Ecology"
       )
     ),
+    "Emergence" = list(
+      minutes   = 60,
+      streaming = "None",
+      date      = ym("2014-1"),
+      topics    = list(
+        "Zoonotic Transmission",
+        "Vector Ecology"
+      )
+    ),
     "Atomic People" = list(
       minutes   = 85,
       streaming = "PBS",
@@ -142,6 +188,75 @@ videos <- list(
       streaming = "PBS",
       episodes = list(
         "S1E5" = list(
+          title   = "The Urban Jungle",
+          minutes = 55,
+          date    = ym("2023-8"),
+          topics  = list(
+            "Built Environments",
+            "Urban Infrastructure",
+            "Urban Pests"
+          )
+        ),
+        "S2E2" = list(
+          title   = "The Enemy of My Enemy",
+          minutes = 55,
+          date    = ym("2025-7"),
+          topics  = list(
+            "Toxicology",
+            "Pesticides" ,
+            "Agriculture"
+          )
+        )
+      )
+    ),
+    "Nova" = list(
+      streaming = "PBS",
+      episodes = list(
+        "S52E9" = list(
+          title   = "Critical Condition: Health in Black America",
+          minutes = 96,
+          date    = ym("2025-1"),
+          topics  = list(
+            "Built Environments",
+            "Urban Infrastructure",
+            "Environmental Justice",
+            "Epidemiology",
+            "Race"
+          )
+        ),
+        "S50E17" = list(
+          title   = "The Battle to Beat Malaria",
+          minutes = 54,
+          date    = ym("2023-1"),
+          topics  = list(
+            "Mosquitoes",
+            "Emergent Infectious Diseases",
+            "Vector Ecology"
+          )
+        )
+      )
+    ),
+    "Frontline" = list(
+      streaming = "PBS",
+      episodes = list(
+        "S2020E8" = list(
+          title   = "Plastic Wars",
+          minutes = 96,
+          date    = ym("2020-3"),
+          topics  = list(
+            "Built Environments",
+            "Urban Infrastructure",
+            "Environmental Justice",
+            "Toxicology",
+            "Waste"
+          )
+        )
+      )
+    ),
+    "Invisible Shield" = list(
+      streaming = "PBS",
+      episodes = list(
+        "S1E1" = list(
           title   = "The Urban Jungle",
           minutes = 55,
           date    = ym("2023-8"),

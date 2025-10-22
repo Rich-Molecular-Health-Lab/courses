@@ -112,4 +112,8 @@ videos <- list(
   )
 )
 
+film_selections <- list(
+  W4D1   = "Vanishing Act",
+  W7D2   = "Strangers in Paradise"
+)
 
