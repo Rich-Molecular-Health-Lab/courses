@@ -1,0 +1,51 @@
+---
+title: "Fishing for Sustainability — Supply Checklist"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+---
+
+## Class Info
+
+- **Class size:** 8 students  
+- **Activity duration:** ~40–50 minutes total (3 rounds + debrief)
+
+## Core Materials
+
+| Item | Quantity | Notes |
+|---|---:|---|
+| Large bowl (lake) | 1 | Holds shared “fish” population. |
+| Small cups (boats) | 8 | One per student. |
+| Tokens (“fish”: candies/beans/beads) | 40–50 | Start each round with **30** in the bowl; extras cover loss/spills. |
+| Scratch paper / notecards | 8 | Students record private decisions. |
+| Pens/pencils | 8 | For decisions + reflections. |
+| Printed student handouts | 32 | 4 per student: Round 1, Round 2, Round 3, Final Debrief. |
+| Instructor master copy | 1 | To track counts and timings. |
+
+## Optional Visualization / Tools
+
+| Item | Quantity | Notes |
+|---|---:|---|
+| Whiteboard or notepad | 1 | Show totals & reproduction each round. |
+| Dry-erase markers | 2–3 | Differentiate catch vs. reproduction. |
+| Calculator (or phone) | 1 | Quick doubling checks. |
+
+## Suggested “Fish” Tokens
+
+| Type | Pros | Cons |
+|---|---|---|
+| Small candies (Skittles/M&Ms) | Engaging; edible reward afterward. | Tempting; bring extras. |
+| Dried beans/pasta | Cheap; reusable; low distraction. | Less colorful. |
+| Plastic tokens/beads | Durable; easy to count/store. | Requires storage afterward. |
+
+## Quick Setup Notes
+
+1. **Pre-class:** Count **30 fish** into the bowl; place 8 boats; keep extra tokens handy.  
+2. **Round flow:**  
+   - **R1 (Open Access):** No discussion. Start with 30.  
+   - **R2 (Fixed Quota):** Reset to 30; allow **2 min** to agree on a class quota.  
+   - **R3 (Fixed Effort):** Reset to 30; allow **2 min** to agree on a per-person limit.  
+3. **Between rounds:** Count remaining fish, **double** (cap at 30). Record on board.  
+4. **End:** Collect all four student sheets for participation credit; distribute candies if desired.

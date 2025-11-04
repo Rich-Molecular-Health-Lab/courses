@@ -1,0 +1,70 @@
+---
+title: "Fishing for Sustainability — Instructor Setup Sheet"
+subtitle: "One-Page Facilitation & Tracking"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+---
+
+> **Reproduction Rule:** After harvest each round, fish remaining in the lake **double**, up to a **maximum of 30**.
+
+## Pre-Class Checklist
+- [ ] Bowl with **30** fish (tokens)  
+- [ ] **8** cups (boats)  
+- [ ] Extra tokens (10–20)  
+- [ ] **32** printed student handouts (R1, R2, R3, Debrief)  
+- [ ] Pens/pencils & scratch paper (8)  
+- [ ] (Optional) Whiteboard + markers, calculator
+
+## Timing Guide (target)
+| Segment | Time |
+|---|---:|
+| Round 1 (no discussion) | 10 min |
+| Round 2 (quota; 2-min discussion) | 12 min |
+| Round 3 (per-person; 2-min discussion) | 10 min |
+| Final Debrief handout | 8–12 min |
+
+## Round Trackers (fill during class)
+
+### Round 1 — Open Access (no communication)
+| Field | Value |
+|---|---|
+| Start fish | 30 |
+| Total class catch |  |
+| Fish remaining after harvest |  |
+| Fish after reproduction (double, max 30) |  |
+
+### Round 2 — Fixed Quota (2-min group discussion to set total quota)
+
+| Field | Value |
+|---|---|
+| Start fish | 30 |
+| Agreed class quota |  |
+| Total class catch |  |
+| Over quota? (Y/N) |  |
+| Fish remaining after harvest |  |
+| Fish after reproduction (double, max 30) |  |
+
+### Round 3 — Fixed Effort (2-min discussion to set per-person limit)
+
+| Field | Value |
+|---|---|
+| Start fish | 30 |
+| Agreed per-person limit |  |
+| Total class catch (limit × 8) |  |
+| Fish remaining after harvest |  |
+| Fish after reproduction (double, max 30) |  |
+
+## End-of-Class Reminders
+
+- Collect **all four** student sheets per student for participation credit.  
+- Optional: candy “fish” rewards.  
+- Jot debrief highlights to seed exam items:
+
+**Quick Debrief Points:**  
+- **Tragedy of the Commons:** incentives vs. collective outcomes.  
+- **MSY & K (30):** Highest sustainable yield occurs when stock left post-harvest is near ~½K.  
+- **Policy tradeoffs:** Quota (monitoring/enforcement) vs. effort limits (equity/compliance).  
+- **Transferability:** forests, groundwater, wildlife, carbon.
