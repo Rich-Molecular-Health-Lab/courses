@@ -5,6 +5,7 @@ project:
   render:
     - slides/hhe/*.qmd
     - slides/conbio/*.qmd
+    - slides/lab_mtg/*.qmd
     - conbio/schedule.qmd
     - hhe/schedule.qmd
     - conbio/syllabus.qmd

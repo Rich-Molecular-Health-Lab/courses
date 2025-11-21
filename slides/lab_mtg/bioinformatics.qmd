@@ -1,0 +1,62 @@
+---
+title: "Intro to Bioinformatics"
+date: "2025-11-21"
+format: letterbox-revealjs
+image: figures/minion-sequencer-internal-structure.png
+---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} - {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/minion-sequencer-internal-structure.png){.image-right}
+
+:::
+
+##
+
+![](figures/the-history-of-dna-sequencing.png)
+
+##
+
+![](figures/shotgun-sequencing-sanger-vs-ngs.png){.image-center}
+
+##
+
+![](figures/nanopore-sequencing.png)
+
+
+##
+
+![](figures/mtgenome-ont.png)
+
+##
+
+![](figures/structural-overview-of-a-bacterial-cell.png)
+
+##
+
+![](figures/long-read-dna-sequencing-data-analysis.png)
+
+##
+
+![](figures/nanoMB.png)
