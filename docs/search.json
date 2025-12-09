@@ -4,7 +4,7 @@
     "href": "conbio_slides.html",
     "title": "Slide Decks",
     "section": "",
-    "text": "I post updated versions of class slide decks to this page. Please remember that these slides should enhance, but not replace your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.\n\n\n\n\n\n\n\n\n\n\nCourse Overview\n\n\nConservation Biology\n\n\n\n\n\nMon Aug 25, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 Contemporary Conservation Biology\n\n\nConservation Biology\n\n\n\n\n\nWed Aug 27, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Genetic Diversity\n\n\nConservation Biology\n\n\n\n\n\nWed Sep 3, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Species Diversity\n\n\nConservation Biology\n\n\n\n\n\nMon Sep 8, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Functional & Phylogenetic Diversity\n\n\nConservation Biology\n\n\n\n\n\nMon Sep 8, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n3.5-3.6 Community & Ecosystem Diversity\n\n\nConservation Biology\n\n\n\n\n\nWed Sep 10, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n8.1 Extinction: Global Patterns of Endangerment\n\n\nConservation Biology\n\n\n\n\n\nMon Sep 15, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n8.3 Extinction: Controls of Extinction Risk\n\n\nConservation Biology\n\n\n\n\n\nWed Sep 17, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n9.1 Habitat Loss\n\n\nConservation Biology\n\n\n\n\n\nMon Sep 22, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n9.2 Habitat Fragmentation\n\n\nConservation Biology\n\n\n\n\n\nMon Sep 22, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n9.4 Metapopulations & Landscape Mosaics\n\n\nConservation Biology\n\n\n\n\n\nWed Sep 24, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n13.3-7 Quantitative Methods in Species-level Conservation\n\n\nConservation Biology\n\n\n\n\n\nMon Nov 17, 2025\n\n\nTue Dec 9, 2025\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nCopyright Notice\n\n\n\n© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.\nLecture slides are provided for enrolled students’ personal reference only.\nRedistribution or reuse requires explicit permission."
+    "text": "I post updated versions of class slide decks to this page. Please remember that these slides should enhance, but not replace your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content."
   },
   {
     "objectID": "slides/hhe/3_1_natural_disasters_hurricanes.html#welcome-framing",
@@ -2098,5 +2098,40 @@
     "title": "13.3-7 Quantitative Methods in Species-level Conservation",
     "section": "Slide 8 – Models of Population Size & Predicting Persistence",
     "text": "Slide 8 – Models of Population Size & Predicting Persistence\n\nKey Concepts and Context\n\nDeterministic models of population growth (e.g., Nₜ₊₁ = Nₜ × λ) assume fixed rates, no randomness — useful for large populations and baseline comparisons.\n\nStochastic models incorporate randomness: demographic stochasticity (chance births/deaths), environmental stochasticity (year‐to‐year variation), catastrophes, genetic stochasticity. These are especially important for small populations.\nPopulation Viability Analysis (PVA): a set of quantitative methods to estimate the probability that a population will avoid extinction (or remain above a threshold) over a given time horizon.\n\nMetrics from PVA: extinction probability, mean time to extinction/quasi‐extinction, minimum viable population (MVP) size.\n\nInputs and structure of models: life‐table or stage‐structured vital rates (survival, fecundity, transitions), variance/uncertainty parameters, carrying capacity or density dependence (if used), transfers/immigration (in managed populations).\n\nSensitivity and elasticity analyses: identifying which vital rates have the greatest influence on growth or extinction risk—important for prioritising management.\n\nData & methodological issues:\n\nShort time‐series data reduce the precision of extinction‐risk estimates.\nAssumptions (closed population, constant environment, independence of events) may be violated.\n\nDefining extinction or quasi‐extinction thresholds (e.g., N drops below XXX) and choosing time horizons matter.\n\n\nApplication in conservation decision‐making: Model outputs can support management trade-offs — e.g., how many individuals need to be supplemented, is survival improvement more effective than augmentation, what budget yields greatest persistence improvement.\n\nRelevance to captive or managed populations (studbooks/zoos): Although classic PVA is often used in wild systems, the same principles apply to populations such as zoo studbooks: we can model transfers/releases, simulate persistence under demographic/genetic risks, and evaluate management actions."
+  },
+  {
+    "objectID": "conbio_slides.html#links-to-canva-slide-decks",
+    "href": "conbio_slides.html#links-to-canva-slide-decks",
+    "title": "Slide Decks",
+    "section": "Links to Canva Slide Decks",
+    "text": "Links to Canva Slide Decks\nHere are links to the slide decks that I only created/shared through Canva:\n\nHabitat Fragmentation\nMetapopulations\nHabitat Degredation\nOverexploitation\nInvasive Alien Species\nClimate Change\nSpecies-Level Approaches\nEx Situ Conservation\nLandscape-Scale Approaches & Connectivity\n\n\n\n\n\n\n\nCopyright Notice\n\n\n\n© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.\nLecture slides are provided for enrolled students’ personal reference only.\nRedistribution or reuse requires explicit permission."
+  },
+  {
+    "objectID": "conbio/canva_slides.html",
+    "href": "conbio/canva_slides.html",
+    "title": "Course Information",
+    "section": "",
+    "text": "Here are links to the slide decks that I only created/shared through Canva:\n\nHabitat Fragmentation\nMetapopulations\nHabitat Degredation\nOverexploitation\nInvasive Alien Species\nClimate Change\nSpecies-Level Approaches\nEx Situ Conservation\nLandscape-Scale Approaches & Connectivity"
+  },
+  {
+    "objectID": "conbio/canva_slides.html#links-to-canva-slide-decks",
+    "href": "conbio/canva_slides.html#links-to-canva-slide-decks",
+    "title": "Course Information",
+    "section": "",
+    "text": "Here are links to the slide decks that I only created/shared through Canva:\n\nHabitat Fragmentation\nMetapopulations\nHabitat Degredation\nOverexploitation\nInvasive Alien Species\nClimate Change\nSpecies-Level Approaches\nEx Situ Conservation\nLandscape-Scale Approaches & Connectivity"
+  },
+  {
+    "objectID": "hhe/canva_slides.html",
+    "href": "hhe/canva_slides.html",
+    "title": "Course Information",
+    "section": "",
+    "text": "Here are links to the slide decks that I only created/shared through Canva:\n\nUrban Heat Islands\nWildfires & Air Quality\nBuilt Environments: Part 1\nBuilt Environments: Part 2\nVector Ecology\nZoonotic Disease & Spillovers\nToxicology"
+  },
+  {
+    "objectID": "hhe/canva_slides.html#links-to-canva-slide-decks",
+    "href": "hhe/canva_slides.html#links-to-canva-slide-decks",
+    "title": "Course Information",
+    "section": "",
+    "text": "Here are links to the slide decks that I only created/shared through Canva:\n\nUrban Heat Islands\nWildfires & Air Quality\nBuilt Environments: Part 1\nBuilt Environments: Part 2\nVector Ecology\nZoonotic Disease & Spillovers\nToxicology"
   }
 ]

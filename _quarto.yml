@@ -8,6 +8,8 @@ project:
     - slides/lab_mtg/*.qmd
     - conbio/schedule.qmd
     - hhe/schedule.qmd
+    - hhe/canva_slides.qmd
+    - conbio/canva_slides.qmd
     - conbio/syllabus.qmd
     - hhe/syllabus.qmd
     - conbio_slides.qmd
