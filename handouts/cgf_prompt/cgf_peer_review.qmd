@@ -1,0 +1,234 @@
+---
+title: "Peer Review of Grant Proposals"
+subtitle: "Adapted from the AZA Conservation Grants Fund Reviewer Evaluation Form"
+format:
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+---
+
+## Overview
+
+In this activity, you will act as **peer reviewers** for your classmates’ Conservation Biology Student Grant Proposals. This exercise mirrors the review process used in the Association of Zoos & Aquariums (AZA) Conservation Grants Fund (CGF), and provides practice evaluating the quality, feasibility, clarity, and conservation significance of real conservation proposals.
+
+This exercise will help you:
+
+- Evaluate conservation proposals using professional criteria.  
+- Provide constructive, detailed written assessment.  
+- Make funding allocation decisions under a limited budget.  
+- Understand how reviewers prioritize competing conservation goals.
+
+## Instructions
+
+1. You will be assigned **six (6)** proposals from your classmates.
+2. First, complete detailed reviews for two assigned proposals.
+    a. For each proposal, complete the **Detailed Peer Reviewer Evaluation Form** included below.
+3. Next, read the other four proposals to make an informed funding decision.
+    a. You do not need to complete full evaluations for these four proposals.  
+    b. However, read them carefully enough to make an informed funding decision.
+4. Submit your individual budget allocation after comparing all 6 proposals.
+    a. You have a hypothetical conservation budget of **$35,000** to distribute among the six proposals.  
+    b. Your task is to allocate these funds in a way that maximizes conservation impact, feasibility, and alignment with the One Plan Approach.
+      - You may:
+        - Fully fund proposals  
+        - Partially fund proposals  
+        - Decline to fund proposals  
+        - Assign an “Honorable Mention” (no funds)
+      - The **two proposals that receive the highest total funding across all reviewers** will earn **extra credit** on the proposal assignment.
+
+### You will submit:
+
+- A budget table showing your **funding allocation**
+- A written **rationale** explaining your decisions
+
+{{< pagebreak >}}
+
+## Detailed Peer Reviewer Evaluation Form 1
+
+_Complete this section for **each** of your two assigned proposals._
+
+**Proposal Title:** _______________________________________________  
+
+**Reviewer Name:** ______________________________________________
+
+### Conservation Significance
+
+- Does the project address a clear conservation or management need?  
+- Is the justification grounded in course concepts (biodiversity, threats, extinction risk, habitat loss, One Plan thinking)?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+### Goals and Objectives
+
+- Are goals and objectives specific, measurable, achievable within one year, and logically connected?  
+- Do they support meaningful long-term conservation outcomes?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+### Methods, Monitoring, and Evaluation
+
+- Are the proposed methods appropriate for the project's objectives?  
+- Is the study design, outreach plan, or implementation described clearly?  
+- Is there a realistic plan to evaluate success?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+#### Budget and Feasibility
+
+- Are requested funds reasonable for the proposed scope of work?  
+- Are line items clearly justified?  
+- Is the project feasible given constraints?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+### Overall Rating
+
+- [ ] **5** Excellent proposal and project
+- [ ] **4** Strong proposal and project
+- [ ] **3** Average proposal and project
+- [ ] **2** Some good ideas but not a strong proposal or priority project
+- [ ] **1** Weak proposal and project
+
+Provide a concise summary of the proposal’s strengths and areas needing improvement.  
+  
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+
+{{< pagebreak >}}
+
+
+
+## Detailed Peer Reviewer Evaluation Form 2
+
+_Complete this section for **each** of your two assigned proposals._
+
+**Proposal Title:** _______________________________________________  
+
+**Reviewer Name:** ______________________________________________
+
+### Conservation Significance
+
+- Does the project address a clear conservation or management need?  
+- Is the justification grounded in course concepts (biodiversity, threats, extinction risk, habitat loss, One Plan thinking)?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+### Goals and Objectives
+
+- Are goals and objectives specific, measurable, achievable within one year, and logically connected?  
+- Do they support meaningful long-term conservation outcomes?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+### Methods, Monitoring, and Evaluation
+
+- Are the proposed methods appropriate for the project's objectives?  
+- Is the study design, outreach plan, or implementation described clearly?  
+- Is there a realistic plan to evaluate success?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+#### Budget and Feasibility
+
+- Are requested funds reasonable for the proposed scope of work?  
+- Are line items clearly justified?  
+- Is the project feasible given constraints?
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+#### Overall Strengths and Weaknesses
+
+Provide a concise summary of the proposal’s strengths and areas needing improvement.
+
+**Comments:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+
+### Overall Rating
+
+Using the scale below, rate the overall quality of this proposal.
+
+- [ ] **5** Excellent proposal and project
+- [ ] **4** Strong proposal and project
+- [ ] **3** Average proposal and project
+- [ ] **2** Some good ideas but not a strong proposal or priority project
+- [ ] **1** Weak proposal and project
+
+
+{{< pagebreak >}}
+
+## Your Individual Funding Allocation
+
+After reviewing all six proposals, complete the table below.
+
+**Reviewer Name:** ____________________________________________
+
+**Total Budget Available:** **$35,000**
+
+| Proposal Title | Award Type (Full / Partial / None / Honorable Mention) | Amount Awarded |
+|----------------|--------------------------------------------------------|-----------------|
+| Proposal 1 | | _______ |
+| Proposal 2 | | _______ |
+| Proposal 3 | | _______ |
+| Proposal 4 | | _______ |
+| Proposal 5 | | _______ |
+| Proposal 6 | | _______ |
+| **TOTAL SPENT** | | **_______** |
+
+## Funding Rationale
+
+Provide a short justification (1 paragraph) explaining:
+
+- Why you allocated funds as you did  
+- How you balanced feasibility, clarity, and conservation significance  
+- Any tradeoffs or prioritization decisions  
+
+**Rationale:**  
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
