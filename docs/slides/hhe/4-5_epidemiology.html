@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -21,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -38,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-cf3f2c26eef976f46b51aa29f3e196e4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -228,7 +263,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">Thu Oct 2, 2025</p>
+      <p class="date-modified">Tue Dec 9, 2025</p>
     </div>
   </div>
     
@@ -316,25 +351,71 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.6
+✔ forcats   1.0.1     ✔ stringr   1.6.0
+✔ ggplot2   4.0.1     ✔ tibble    3.3.0
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.2.0     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(gt)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(gtExtras)</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="fu">tibble</span>(</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">Method         =</span> <span class="fu">c</span>(</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Public health surveillance"</span>,</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a><span class="st">"Disease registries"</span>,</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a><span class="st">"Health facility records of health events"</span>,</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a><span class="st">"Civil registration and vital statistics"</span></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  ),</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">Definition     =</span> <span class="fu">c</span>(</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Continual systematic monitoring of the occurrence of disease/condition in a population using data from different sources."</span>,</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Legally mandated systematic registration, in a geographic area, of all individuals who contract a specific chronic disease, with longitudinal follow-up of all relevant events related to each individual."</span>,</span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>   <span class="st">"Continuous systematic, reporting of the occurrences of health events and mandatory reporting of notifiable diseases."</span>,</span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>   <span class="st">"Mandatory continuous recording of all births and deaths (and cause) in a population."</span></span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  ),</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>  <span class="at">Use =</span> <span class="fu">c</span>(</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a><span class="st">"Provides managers with ongoing data of the occurrence and distribution of conditions; can provide real-time warning of when and where an outbreak will occur."</span>,</span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a><span class="st">"Offers detailed information on the incidence and duration, treatment and outcomes of a disease to advise prevention and control policies and programmes."</span>,</span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a><span class="st">"Assists public health departments to plan disease control and prevention policies and programs; and contributes to knowledge of global disease patterns."</span>,</span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a><span class="st">"Supports planning by providing birth and death rates and causes of death."</span></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  ),</span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>  <span class="at">Comments   =</span> <span class="fu">c</span>(</span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Requires rapid and efficient long-term collaboration to collect and analyse data across health and other sectors"</span>,</span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a><span class="st">"Expensive and difficult to follow-up cases especially in low-income countries; requires efficient long-term collaboration across health facilities and multiple professionals to collect and analyse data."</span>,</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a><span class="st">"Requires efficient and rapid information systems; trade-off between number of diseases to notify and reporting workload."</span>,</span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a><span class="st">"Not fully functional in many LIMCs where causes of death are hard to ascertain."</span></span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>) <span class="sc">%&gt;%</span></span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>  <span class="fu">gt</span>(<span class="at">rowname_col =</span> <span class="st">"Method"</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>  <span class="fu">gt_theme_pff</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tab_header</span>(<span class="st">"Sources of epidemiological data to inform health policy and manage programs"</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tab_style</span>(<span class="fu">cell_text</span>(<span class="at">size =</span> <span class="st">"medium"</span>), <span class="at">locations =</span> <span class="fu">cells_title</span>()) <span class="sc">%&gt;%</span></span>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>  <span class="fu">tab_source_note</span>(<span class="fu">md</span>(<span class="st">"[Adapted from *The Palgrave Handbook of Global Health Data Methods for Policy and Practice*](https://link.springer.com/book/10.1057/978-1-137-54984-6)"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<div id="xvufjycwtv" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ruaxbiykde" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-#xvufjycwtv table {
+#ruaxbiykde table {
   font-family: Roboto, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#xvufjycwtv thead, #xvufjycwtv tbody, #xvufjycwtv tfoot, #xvufjycwtv tr, #xvufjycwtv td, #xvufjycwtv th {
+#ruaxbiykde thead, #ruaxbiykde tbody, #ruaxbiykde tfoot, #ruaxbiykde tr, #ruaxbiykde td, #ruaxbiykde th {
   border-style: none;
 }
 
-#xvufjycwtv p {
+#ruaxbiykde p {
   margin: 0;
   padding: 0;
 }
 
-#xvufjycwtv .gt_table {
+#ruaxbiykde .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -360,12 +441,12 @@ ul.task-list li input[type="checkbox"] {
   border-left-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_caption {
+#ruaxbiykde .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#xvufjycwtv .gt_title {
+#ruaxbiykde .gt_title {
   color: #333333;
   font-size: 30px;
   font-weight: bold;
@@ -377,7 +458,7 @@ ul.task-list li input[type="checkbox"] {
   border-bottom-width: 0;
 }
 
-#xvufjycwtv .gt_subtitle {
+#ruaxbiykde .gt_subtitle {
   color: #333333;
   font-size: 16px;
   font-weight: initial;
@@ -389,7 +470,7 @@ ul.task-list li input[type="checkbox"] {
   border-top-width: 0;
 }
 
-#xvufjycwtv .gt_heading {
+#ruaxbiykde .gt_heading {
   background-color: #FFFFFF;
   text-align: left;
   border-bottom-color: #FFFFFF;
@@ -401,13 +482,13 @@ ul.task-list li input[type="checkbox"] {
   border-right-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_bottom_border {
+#ruaxbiykde .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_col_headings {
+#ruaxbiykde .gt_col_headings {
   border-top-style: solid;
   border-top-width: 3px;
   border-top-color: rgba(255, 255, 255, 0);
@@ -422,7 +503,7 @@ ul.task-list li input[type="checkbox"] {
   border-right-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_col_heading {
+#ruaxbiykde .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -442,7 +523,7 @@ ul.task-list li input[type="checkbox"] {
   overflow-x: hidden;
 }
 
-#xvufjycwtv .gt_column_spanner_outer {
+#ruaxbiykde .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -454,15 +535,15 @@ ul.task-list li input[type="checkbox"] {
   padding-right: 4px;
 }
 
-#xvufjycwtv .gt_column_spanner_outer:first-child {
+#ruaxbiykde .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xvufjycwtv .gt_column_spanner_outer:last-child {
+#ruaxbiykde .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xvufjycwtv .gt_column_spanner {
+#ruaxbiykde .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 3px;
   border-bottom-color: rgba(255, 255, 255, 0);
@@ -474,11 +555,11 @@ ul.task-list li input[type="checkbox"] {
   width: 100%;
 }
 
-#xvufjycwtv .gt_spanner_row {
+#ruaxbiykde .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#xvufjycwtv .gt_group_heading {
+#ruaxbiykde .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -504,7 +585,7 @@ ul.task-list li input[type="checkbox"] {
   text-align: left;
 }
 
-#xvufjycwtv .gt_empty_group_heading {
+#ruaxbiykde .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -519,15 +600,15 @@ ul.task-list li input[type="checkbox"] {
   vertical-align: middle;
 }
 
-#xvufjycwtv .gt_from_md > :first-child {
+#ruaxbiykde .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xvufjycwtv .gt_from_md > :last-child {
+#ruaxbiykde .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xvufjycwtv .gt_row {
+#ruaxbiykde .gt_row {
   padding-top: 6px;
   padding-bottom: 6px;
   padding-left: 5px;
@@ -546,7 +627,7 @@ ul.task-list li input[type="checkbox"] {
   overflow-x: hidden;
 }
 
-#xvufjycwtv .gt_stub {
+#ruaxbiykde .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -559,7 +640,7 @@ ul.task-list li input[type="checkbox"] {
   padding-right: 5px;
 }
 
-#xvufjycwtv .gt_stub_row_group {
+#ruaxbiykde .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -573,15 +654,15 @@ ul.task-list li input[type="checkbox"] {
   vertical-align: top;
 }
 
-#xvufjycwtv .gt_row_group_first td {
+#ruaxbiykde .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#xvufjycwtv .gt_row_group_first th {
+#ruaxbiykde .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#xvufjycwtv .gt_summary_row {
+#ruaxbiykde .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -591,16 +672,16 @@ ul.task-list li input[type="checkbox"] {
   padding-right: 5px;
 }
 
-#xvufjycwtv .gt_first_summary_row {
+#ruaxbiykde .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_first_summary_row.thick {
+#ruaxbiykde .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#xvufjycwtv .gt_last_summary_row {
+#ruaxbiykde .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -610,7 +691,7 @@ ul.task-list li input[type="checkbox"] {
   border-bottom-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_grand_summary_row {
+#ruaxbiykde .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -620,7 +701,7 @@ ul.task-list li input[type="checkbox"] {
   padding-right: 5px;
 }
 
-#xvufjycwtv .gt_first_grand_summary_row {
+#ruaxbiykde .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -630,7 +711,7 @@ ul.task-list li input[type="checkbox"] {
   border-top-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_last_grand_summary_row_top {
+#ruaxbiykde .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -640,11 +721,11 @@ ul.task-list li input[type="checkbox"] {
   border-bottom-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_striped {
+#ruaxbiykde .gt_striped {
   background-color: #F5F5F5;
 }
 
-#xvufjycwtv .gt_table_body {
+#ruaxbiykde .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -653,7 +734,7 @@ ul.task-list li input[type="checkbox"] {
   border-bottom-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_footnotes {
+#ruaxbiykde .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -667,7 +748,7 @@ ul.task-list li input[type="checkbox"] {
   border-right-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_footnote {
+#ruaxbiykde .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -676,7 +757,7 @@ ul.task-list li input[type="checkbox"] {
   padding-right: 5px;
 }
 
-#xvufjycwtv .gt_sourcenotes {
+#ruaxbiykde .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -690,7 +771,7 @@ ul.task-list li input[type="checkbox"] {
   border-right-color: #D3D3D3;
 }
 
-#xvufjycwtv .gt_sourcenote {
+#ruaxbiykde .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -698,72 +779,72 @@ ul.task-list li input[type="checkbox"] {
   padding-right: 5px;
 }
 
-#xvufjycwtv .gt_left {
+#ruaxbiykde .gt_left {
   text-align: left;
 }
 
-#xvufjycwtv .gt_center {
+#ruaxbiykde .gt_center {
   text-align: center;
 }
 
-#xvufjycwtv .gt_right {
+#ruaxbiykde .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xvufjycwtv .gt_font_normal {
+#ruaxbiykde .gt_font_normal {
   font-weight: normal;
 }
 
-#xvufjycwtv .gt_font_bold {
+#ruaxbiykde .gt_font_bold {
   font-weight: bold;
 }
 
-#xvufjycwtv .gt_font_italic {
+#ruaxbiykde .gt_font_italic {
   font-style: italic;
 }
 
-#xvufjycwtv .gt_super {
+#ruaxbiykde .gt_super {
   font-size: 65%;
 }
 
-#xvufjycwtv .gt_footnote_marks {
+#ruaxbiykde .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#xvufjycwtv .gt_asterisk {
+#ruaxbiykde .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#xvufjycwtv .gt_indent_1 {
+#ruaxbiykde .gt_indent_1 {
   text-indent: 5px;
 }
 
-#xvufjycwtv .gt_indent_2 {
+#ruaxbiykde .gt_indent_2 {
   text-indent: 10px;
 }
 
-#xvufjycwtv .gt_indent_3 {
+#ruaxbiykde .gt_indent_3 {
   text-indent: 15px;
 }
 
-#xvufjycwtv .gt_indent_4 {
+#ruaxbiykde .gt_indent_4 {
   text-indent: 20px;
 }
 
-#xvufjycwtv .gt_indent_5 {
+#ruaxbiykde .gt_indent_5 {
   text-indent: 25px;
 }
 
-#xvufjycwtv .katex-display {
+#ruaxbiykde .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#xvufjycwtv div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#ruaxbiykde div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -805,8 +886,8 @@ ul.task-list li input[type="checkbox"] {
 <td class="gt_row gt_left gt_striped" headers="stub_1_4 Use">Supports planning by providing birth and death rates and causes of death.</td>
 <td class="gt_row gt_left gt_striped" headers="stub_1_4 Comments">Not fully functional in many LIMCs where causes of death are hard to ascertain.</td>
 </tr>
-</tbody><tfoot class="gt_sourcenotes">
-<tr class="odd">
+</tbody><tfoot>
+<tr class="gt_sourcenotes odd">
 <td colspan="4" class="gt_sourcenote"><a href="https://link.springer.com/book/10.1057/978-1-137-54984-6">Adapted from <em>The Palgrave Handbook of Global Health Data Methods for Policy and Practice</em></a></td>
 </tr>
 </tfoot>
@@ -1643,44 +1724,6 @@ Can you use this to explain at least one of the following pitfalls:
 <li id="fn2"><p>Currently unavailable.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
-
-<script>
-  // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-  // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-  // slide changes (different for each slide format).
-  (function () {
-    // dispatch for htmlwidgets
-    function fireSlideEnter() {
-      const event = window.document.createEvent("Event");
-      event.initEvent("slideenter", true, true);
-      window.document.dispatchEvent(event);
-    }
-
-    function fireSlideChanged(previousSlide, currentSlide) {
-      fireSlideEnter();
-
-      // dispatch for shiny
-      if (window.jQuery) {
-        if (previousSlide) {
-          window.jQuery(previousSlide).trigger("hidden");
-        }
-        if (currentSlide) {
-          window.jQuery(currentSlide).trigger("shown");
-        }
-      }
-    }
-
-    // hookup for slidy
-    if (window.w3c_slidy) {
-      window.w3c_slidy.add_observer(function (slide_num) {
-        // slide_num starts at position 1
-        fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-      });
-    }
-
-  })();
-</script>
-
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

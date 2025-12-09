@@ -1,0 +1,37 @@
+---
+title: "13.3-7 Quantitative Methods in Species-level Conservation"
+date: "2025-11-17"
+format: letterbox-revealjs
+image: figures/Ch09/c09fig018.jpg
+---
+
+## Slide 7 – Estimating Population Size & Viability  
+### Key Concepts and Context  
+- **Census population size (N):** the total number of individuals in a population or sub-population at a given time.  
+- **Effective population size (Nₑ):** defined as the size of an idealised (Wright–Fisher) population that would lose genetic diversity or suffer drift/inbreeding at the same rate as the real population  
+- Why it matters: When N is small, stochastic and genetic risks increase; but Nₑ often is *much smaller* than N in real populations.
+- Methods to estimate N and Nₑ:  
+  - For N: direct counts, sampling (transects, quadrats), mark–recapture/resight.  
+  - For Nₑ: demographic estimators (sex‐ratio, variance in reproductive success, fluctuations through time) and genetic estimators (allele‐frequency changes, coalescent methods).
+- Factors that reduce Nₑ relative to N: unequal sex ratios, variation in family size, overlapping generations, population bottlenecks/fluctuations.
+- Data‐collection considerations:  
+  - Detection probability and sampling bias in census data.  
+  - Closed vs open population assumptions.  
+  - Pedigree completeness (in captive systems) or genetic sampling representativeness (in wild).  
+  - Time series length for reliable estimation of Nₑ or extinction risk.  
+- Relevance to conservation: Accurate estimates of N and Nₑ help assess extinction risk, genetic health, need for management intervention (e.g., captive breeding, supplementation).  
+
+## Slide 8 – Models of Population Size & Predicting Persistence  
+### Key Concepts and Context  
+- **Deterministic models** of population growth (e.g., Nₜ₊₁ = Nₜ × λ) assume fixed rates, no randomness — useful for large populations and baseline comparisons.  
+- **Stochastic models** incorporate randomness: demographic stochasticity (chance births/deaths), environmental stochasticity (year‐to‐year variation), catastrophes, genetic stochasticity. These are especially important for small populations.
+- **Population Viability Analysis (PVA):** a set of quantitative methods to estimate the probability that a population will avoid extinction (or remain above a threshold) over a given time horizon.
+  - Metrics from PVA: extinction probability, mean time to extinction/quasi‐extinction, minimum viable population (MVP) size.
+- **Inputs and structure of models:** life‐table or stage‐structured vital rates (survival, fecundity, transitions), variance/uncertainty parameters, carrying capacity or density dependence (if used), transfers/immigration (in managed populations).  
+- **Sensitivity and elasticity analyses:** identifying which vital rates have the greatest influence on growth or extinction risk—important for prioritising management.  
+- **Data & methodological issues:**  
+  - Short time‐series data reduce the precision of extinction‐risk estimates.
+  - Assumptions (closed population, constant environment, independence of events) may be violated.  
+  - Defining extinction or quasi‐extinction thresholds (e.g., N drops below XXX) and choosing time horizons matter.  
+- **Application in conservation decision‐making:** Model outputs can support management trade-offs — e.g., how many individuals need to be supplemented, is survival improvement more effective than augmentation, what budget yields greatest persistence improvement.  
+- **Relevance to captive or managed populations (studbooks/zoos):** Although classic PVA is often used in wild systems, the same principles apply to populations such as zoo studbooks: we can model transfers/releases, simulate persistence under demographic/genetic risks, and evaluate management actions.
