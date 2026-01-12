@@ -1,0 +1,28 @@
+---
+format: html
+---
+
+```{r}
+withTags(
+  card(
+    class = "card text-white bg-primary mb-3",
+    card_header(
+      span("Course Logistics"),
+      span(course_info[[params$course]][["course_no"]])
+    ),
+    card_image(file = sprintf("graphics/%s_header.png", course_info[[params$course]][["file_prefix"]]), width = "100%"),
+    card_title(paste0("This course meets: ", course_info[[params$course]][["day_time"]], " in ", course_info[[params$course]][["location"]])),
+    accordion(
+      accordion_panel(
+        "Description",
+        course_info[[params$course]][["course_description"]]
+      ),
+      open = FALSE
+    ),
+    card_footer(
+      span(if (!is.na(course_info[[params$course]][["prereqs"]])) paste0("Prerequisites: ", course_info[[params$course]][["prereqs"]]) else ""),
+      span(layout_columns(p(course_info[[params$course]][["semester"]]), p(paste(course_info[[params$course]][["credits"]], "Credits"))))
+    )
+  )
+)
+```

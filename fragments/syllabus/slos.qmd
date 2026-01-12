@@ -1,0 +1,67 @@
+---
+format: html
+---
+
+### Student Learning Outcomes 
+
+```{r}
+
+slos[[course_short]] %>%
+    mutate(icon = case_match(
+      Level,
+      "Remember"   ~ "list-check",
+      "Understand" ~ "lightbulb",
+      "Apply"      ~ "wrench",
+      "Analyze"    ~ "chart-line",
+      "Evaluate"   ~ "bars",
+      "Critique"   ~ "pen-nib",
+      "Recognize"  ~ "eye",
+      "Summarize"  ~ "comment"
+    )) %>%
+    relocate(icon) %>%
+    gt() %>%
+    fmt_icon(columns = "icon") %>%
+    opt_table_lines(extent = "none") %>%
+    cols_label(
+      icon ~ "",
+      Level ~ "",
+      Outcome ~ ""
+    ) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697F40"),
+      cell_text(
+        size      = "larger",
+        weight    = "bold",
+        font      = google_font("Arsenal SC"),
+        stretch   = "semi-expanded"
+        )),
+      locations = list(cells_body(columns = c("icon", "Level")))) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697F40"),
+      cell_text(align    = "right")),
+      locations = cells_body(columns = "icon")) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697F40"),
+      cell_text(align    = "left")),
+      locations = cells_body(columns = -c("icon"))) %>%
+    tab_style(style = cell_text(
+      font     = google_font("Arsenal"),
+      style    = "italic"
+    ),
+    locations = cells_body(columns = "Outcome")
+    ) %>%
+    cols_width(icon          ~ px(50),
+               Level         ~ px(150),
+               Outcome       ~ px(500)) %>%
+    rm_header() %>%
+    tab_spanner(label = "Students will be able to...", columns = everything()) %>%
+    tab_style(style = list(
+      cell_fill(color    = "#84697FFF"),
+      cell_text(style    = "oblique",
+                font     = google_font("Arsenal SC"),
+                color    = "#E8EADFFF",
+                weight   = "bolder",
+                align    = "left"),
+      cell_borders(sides = c("top", "bottom"))),
+      locations = list(cells_column_spanners()))
+```
