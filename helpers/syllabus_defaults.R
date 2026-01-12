@@ -139,13 +139,15 @@ quiz_rubric <- function() {
   tribble(
     ~Score,   ~Standard,
     0     ,   "Nothing submitted." ,
-    1     ,   "Response suggests the student is not familiar with any of the background content." ,
-    2     ,   "Response suggests the student reviewed some of the material but did not fully comprehend or has not thought critically about it." ,
-    3     ,   "Response suggests the student has reviewed the background material and came to class prepared to engage in a thoughtful discussion."
+    1     ,   "Student in attendance but all responses are incorrect." ,
+    2     ,   "Response suggests the student is barely familiar with some of the background content." ,
+    3     ,   "Response suggests the student reviewed some of the material but did not fully comprehend it." ,
+    4     ,   "Response suggests the student reviewed most of the material but has not thought critically about it." ,
+    5     ,   "Response suggests the student has reviewed the background material and came to class prepared to engage in a thoughtful discussion."
   ) %>%
     gt(rowname_col = "Score") %>%
     opt_table_lines("none") %>%
-    tab_header(title = "Quiz Rubric", subtitle = "The assessment system will be broad, so each quiz will only recieve a 0, 1, 2, or 3 as an assessment of the student's basic preparation level for the class.") %>%
+    tab_header(title = "Quiz Rubric", subtitle = "The assessment system will be broad, so each quiz will only recieve a 0, 1, 2, 3, 4, or 5 as an assessment of the student's basic preparation level for the class.") %>%
     tab_stubhead("Score") %>%
     cols_label(Standard ~ "Standard Met by Response") %>%
     tab_style(style = list(cell_fill(color  = "#CBB593FF"),
@@ -190,7 +192,7 @@ quiz_rubric <- function() {
 attendance <- function() {
   body <- div(
     h6("In-class, low-stakes graded assessments may or may not be announced in advance throughout the semester."),
-    p("These may include group activities or short quizzes to assess class preparation, and will generally amount to 3 points each."),
+    p("These may include group activities or short quizzes to assess class preparation, and will generally amount to 5 points each."),
     p(
       "I do not accommodate any unregistered accommodation requests for class absences.",
       span(tags$strong("Instead, I will drop the lowest 1 or more scores on these items for every student at the end of the semester.")),
@@ -338,7 +340,7 @@ instructor_card <- function() {
         item_list = list(
           "Please call me:"   = "Dr. Rich or Professor Rich (she/her)",
           "Find me in:"       = "Allwine Hall 413",
-          "Office Hours:"     = "By appointment Thur 12-2 or Fri 1-3",
+          "Office Hours:"     = tags$a(href = "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink", "By appointment Tues 11-1 or Thur 1-2"),
           "Remote Meetings:"  = tags$a(href = "https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu", "Video or direct message via Zoom"),
           "Contact me via:"   = tags$a(href = "mailto:aliciarich@unomaha.edu", "aliciarich@unomaha.edu")
         )
@@ -348,7 +350,7 @@ instructor_card <- function() {
     subtitle_text = "Assistant Professor of Biology & Environmental Science",
     body          = tagList(body),
     footer_text   = div(
-      p("I will be reachable via Zoom during office hours, or you may email me at least 1 business day in advance to arrange an in-person meeting."),
+      p(tags$a(href = "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink", "Use this bookings link to schedule a meeting during office hours.")),
       p(
         span(tags$strong("Please use email and not canvas messages for communication.")),
         "You can expect a response within 2 business days, ",
@@ -368,9 +370,9 @@ exam_format <- function(course) {
       list_lead = "General Exam Format:",
       layout    = "grid",
       item_list = list(
-        "Multiple Choice" = "50%",
-        "True/False"      = "10%",
-        "Short Essay*"    = "40%"
+        "Multiple Choice" = "60%",
+        "True/False"      = "20%",
+        "Short Essay*"    = "20%"
       )
     ),
     p(

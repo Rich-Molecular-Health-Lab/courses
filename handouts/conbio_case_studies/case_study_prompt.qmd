@@ -1,0 +1,91 @@
+---
+title: "Guided Case Conversations"
+subtitle: "Conservation Biology: Spring 2026"
+format: 
+  pdf:
+    documentclass: article
+    geometry:
+      - top=1in
+      - left=1in
+---
+
+## Assignment Overview
+
+In this recurring assignment, students will work in small groups to **lead a structured, whole-class discussion** focused on a **real conservation action or management decision**.
+
+Rather than giving a formal presentation, your role is to **guide discussion** around:
+
+* How conservation threats are defined and prioritized
+* How progress or success is measured
+* Whether goals are well-defined using **SMART goals**
+* What ethical, social, or equity-related tradeoffs are involved
+
+Each facilitation should fill around **20–30 minutes** of class time. The instructor may add examples or extend discussion afterward as time allows.
+
+This format mirrors how conservation professionals evaluate projects in meetings, review panels, and collaborative decision-making settings.
+
+### What Counts as a “Case”?
+
+Your group will select **one real, publicly documented conservation project or action** involving a clear decision or intervention.
+
+Acceptable examples include:
+: * Species recovery or management programs
+: * Habitat protection, restoration, or connectivity initiatives
+: * Reintroduction, translocation, or captive breeding programs
+: * Zoo, NGO, or government conservation initiatives
+: * Conservation education or community-based projects
+
+Your case must:
+: * Be real (not hypothetical)
+: * Be publicly documented
+: * Include explicit goals, actions, or outcomes
+
+Primary research papers are **optional**, not required.
+
+### Group Preparation (Submitted Before Class)
+
+Each group submits a **Preparation sheet** before their facilitation day.
+This is graded for **completion**.
+
+
+### In-Class Facilitation (20–30 minutes)
+
+#### Context framing (5 min)
+
+* Introduce the case and decision
+* Reading directly from notes is allowed
+
+Presentation slides are not required,
+: but you are welcome to share visuals using canva, powerpoint, google slides, or extra handouts if it helps you introduce key information.
+
+
+#### Guided whole-class discussion (15–20 min)
+
+* Ask your prepared questions
+* Encourage multiple perspectives
+* Your role is to guide, not lecture
+
+#### Brief synthesis (2–5 min)
+
+* Summarize key insights
+* Reflect on whether goals and metrics captured conservation success
+
+Each group member should have a visible role.
+
+### Assessment
+
+| Criterion                                                | Points |
+| -------------------------------------------------------- | ------ |
+| Preparation sheet submitted on time                      | 4      |
+| Clear explanation of the conservation decision & threats | 4      |
+| Thoughtful analysis of metrics & quantification          | 4      |
+| Accurate use of SMART goals                              | 4      |
+| Engagement with ethical or social tradeoffs              | 4      |
+| Effective facilitation & shared participation            | 4      |
+| **Total**                                                | **24** |
+
+This is **not** a public-speaking performance. Structure and preparation matter more than polish.
+
+### Peer Engagement (5 points, completion credit)
+
+On days you are **not** facilitating, you will complete a short peer engagement form at the end of class.

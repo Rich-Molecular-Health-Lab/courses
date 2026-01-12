@@ -161,6 +161,11 @@ project_details <- function(course) {
     subtitle <- "Essay Assignment"
     detail   <- span("Modified version of the ", a(href = "https://www.aza.org/cgf-tips-for-success", "AZA Conservation Grants Fund Proposal"))
 
+  } else if (str_detect(format, "Guided Case Conversations")) {
+    points <- sum(assessment[[course]]$assignments$case_convo1, assessment[[course]]$assignments$case_convo2)
+    subtitle <- "Group Assignment"
+    detail   <- "Online portfolio summarizing a fictional zoo designed over the semester's lab exercises"
+
   } else if (str_detect(format, "Portfolio")) {
     points <- assessment[[course]]$assignments$portfolio
     subtitle <- "Group Assignment"

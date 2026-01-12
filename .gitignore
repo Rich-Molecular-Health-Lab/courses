@@ -4,6 +4,10 @@
 private
 _archive
 
+# Large Files
+slides/conbio/_pdfs/*
+slides/hhe/_pdfs/*
+
 # General
 .DS_Store
 .AppleDouble

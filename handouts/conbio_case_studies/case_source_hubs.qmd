@@ -1,0 +1,73 @@
+---
+title: "Approved Case Source Hubs for Guided Case Conversations"
+format: html
+---
+
+
+You are encouraged (but not required) to select cases from the sources below. These sources provide **real, publicly documented conservation actions** with clearly stated goals, constraints, and outcomes.
+
+You do **not** need to ask for approval if your case comes from one of these hubs.
+
+### Zoo & Ex Situ–Linked Conservation Programs
+
+AZA SAFE (Saving Animals From Extinction) Species Programs
+: * Species action plans and program summaries
+: * Strong alignment with One Plan thinking
+: * Clear goals, partners, and constraints
+
+Zoo-Based Conservation Program Pages
+: * Many accredited zoos publish conservation initiative summaries
+: * Often include education, fieldwork, and captive management components
+
+### Government Recovery & Management Plans
+
+U.S. Fish & Wildlife Service (USFWS)
+: * Species recovery plans
+: * Critical habitat designations
+: * Reintroduction and management actions
+
+State Wildlife Agency Conservation Programs
+: * Species of Greatest Conservation Need (SGCN) plans
+: * Habitat restoration or corridor projects
+
+### International & NGO Conservation Initiatives
+
+IUCN Red List & Species Action Plans
+: * Threat prioritization
+: * Conservation actions and research needs
+
+Major Conservation NGOs
+: * World Wildlife Fund (WWF)
+: * Wildlife Conservation Society (WCS)
+: * Conservation International (CI)
+
+### Habitat Protection, Restoration & Connectivity Projects
+
+Protected Area Creation or Expansion
+: * National parks, reserves, marine protected areas
+
+Habitat Restoration Projects
+: * Wetlands, forests, coral reefs
+
+Connectivity & Corridor Initiatives
+: * Wildlife crossings
+: * Landscape-scale planning
+
+### Community-Based & Human–Wildlife Conflict Projects
+
+Community-Based Conservation Programs
+: * Co-management agreements
+: * Indigenous-led conservation initiatives
+
+Human–Wildlife Conflict Mitigation
+: * Compensation programs
+: * Non-lethal deterrents
+: * Land-use planning
+
+### Optional: Primary Literature (Use Selectively)
+
+Primary research articles may be used **if** they:
+: * directly inform a management decision or action
+: * include explicit discussion of conservation outcomes
+
+Primary literature is **not required** and should not be the sole source.

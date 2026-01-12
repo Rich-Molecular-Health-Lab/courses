@@ -1,0 +1,47 @@
+---
+title: "Guided Case Conversation – Peer Engagement Form"
+format: 
+  pdf:
+    documentclass: article
+    geometry:
+      - top=1in
+      - left=1in
+---
+
+
+**Your name:**_________________________  **Date:** _____________________________
+
+Please answer each prompt in **2–4 sentences**. These are graded for **completion**, not correctness.
+
+1.  Identify **one metric, indicator, or proxy** used in today’s case to assess threats, progress, or success.
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+2.  Name **one concept from this course** (e.g., extinction risk, habitat fragmentation, genetic diversity, metapopulations, overexploitation) that helped you understand the case.
+    *How did this concept clarify the conservation decision or tradeoffs involved?*
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+3.  Identify **one ethical, social, or equity-related issue** raised by the case or discussion.
+    Who benefited? Who bore costs or risks? Whose perspectives may have been missing?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+
+4.  What is **one question, uncertainty, or concern** you still have about this conservation decision?
+    *Hint:* This could relate to: long-term outcomes, unintended consequences, alternative strategies, or the limits of available data
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+Submit this form at the end of class
+**5 points for completion**
+
+

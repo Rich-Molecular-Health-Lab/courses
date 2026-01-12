@@ -68,6 +68,38 @@ course_info <- list(
     final_exam         = ymd_hm("2025-12-15 17:00", tz = "America/Chicago"),
     grade_deadline     = ymd("2025-12-22")
   ),
+  conbio_26s = list(
+    course_no          = "BIOL-4120, BIOL-8126",
+    file_prefix        = "conbio_26s",
+    semester           = "Spring 2026",
+    course_description = tagList(
+      withTags(
+        card_body(
+          p(
+            "Engage with the urgent task of protecting biodiversity in Conservation Biology—a dynamic, interdisciplinary course addressing the global ecological crisis. Often described as a ",
+            em("crisis discipline"),
+            ", conservation biology emphasizes swift, informed actions in response to rapidly evolving environmental challenges. You'll explore topics like ",
+            strong("species extinction, habitat loss, ecosystem management, invasive species, climate impacts, and conservation genetics"),
+            " through engaging discussions and real-world case studies. Skills-based assignments and activities will introduce you to ",
+            strong("essential tools for management, practical application, and quantitative assessment.")
+          ),
+          p("Open to students across biology, environmental sciences, social sciences, and humanities, this course empowers you with the knowledge and practical skills needed to contribute meaningfully to conservation efforts.")
+        )
+      )
+    ),
+    day_time           = "M/W, 4:00 - 5:15",
+    wdays              = c(2, 4),
+    start_time         = "16:00",
+    location           = "AH 305",
+    location_assigned  = "AH 305",
+    semesters          = "Fall & Spring",
+    credits            = 3,
+    prereqs            = "BIOL 1450, 1750, 2140 and Junior-Senior in biology. Not open to non-degree graduate students.",
+    canvas             = "91321",
+    project            = "Guided Case Conversations",
+    final_exam         = ymd_hm("2026-05-04 17:00", tz = "America/Chicago"),
+    grade_deadline     = ymd("2026-05-11")
+  ),
   zoobio_26s = list(
     course_no          = "BIOL-4030/4034",
     file_prefix        = "zoobio_26s",
@@ -149,6 +181,12 @@ assessment <- list(
     quizzes     = map(paste0("quiz", 1:15), \(x) list_scores(x, 3)),
     assignments = list(grant_proposal = 40),
     inclass     = map(paste0("exercise", 1:5), \(x) list_scores(x, 3))
+  ),
+  conbio_26s = list(
+    exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 50)),
+    quizzes     = map(paste0("quiz", 1:8), \(x) list_scores(x, 5)),
+    assignments = map(paste0("case_convo", 1:2), \(x) list_scores(x, 24)),
+    inclass     = map(paste0("exercise", 1:8), \(x) list_scores(x, 5))
   ),
   hhe_25f = list(
     exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 60)),

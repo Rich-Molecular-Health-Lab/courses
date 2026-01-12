@@ -4,8 +4,6 @@ project:
   execute-dir: project
   render:
     - slides/hhe/*.qmd
-    - slides/conbio/*.qmd
-    - slides/lab_mtg/*.qmd
     - conbio/schedule.qmd
     - hhe/schedule.qmd
     - hhe/canva_slides.qmd
@@ -18,6 +16,7 @@ project:
     - hhe/index.qmd
     - index.qmd
     - handouts/*.qmd
+    - slides/conbio/*.qmd
 
 website:
   title: "Course Information"
@@ -48,6 +47,10 @@ website:
             href: "hhe/syllabus.qmd"
           - text: "Slide Decks"
             href: "hhe_slides.qmd"
+    right:
+      - text: "Book a Meeting"
+        href: "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink"
+        icon: "calendar-event"
 
 author: "Dr. Alicia M. Rich"
 date-modified: today

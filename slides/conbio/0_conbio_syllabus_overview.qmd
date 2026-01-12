@@ -1,12 +1,12 @@
 ---
 title: "Course Overview"
-date: "2025-8-25"
+date: "2026-1-12"
 format: 
   revealjs:
     theme: serif
     embed-resources: true
 params:
-  course: "conbio_25f"
+  course: "conbio_26s"
 ---
 
 ```{r setup, include = FALSE}
@@ -28,7 +28,7 @@ source(here::here("_common.R"))
 ::: {.column width = "60%"}
 
 - Assistant Professor of Biology
-- Environmental Studies Program
+- Environmental Science Program
 - ![](figures/course_intro/logo_richlab.png){width=100px} Molecular Ecologist, Primatologist
 
 :::
@@ -129,9 +129,14 @@ If you do not hear back from me after 3 days, then please remind me with another
 ## Office Hours
 
 - **Allwine Hall 413**
-  - In-person by appointment
 - [Remotely via Zoom](https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu)
-- **Thur 12-2 or Fri 1-3**
+- **Tues 11-1 or Thur 1-2**
+
+:::{.callout-note}
+
+[Use this link to book a meeting](https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink)
+
+:::
 
 ![](figures/course_intro/prof_door.gif){fig-align=center}
 
@@ -298,7 +303,7 @@ slide_list_cols(
 ## Quizzes
 
 - Preparation check-ins at the start of class
-  - 1-4 questions (3 points)
+  - 1-4 questions (5 points)
 - Use your phone, tablet, or laptop
 - Open book/note
   - ***But no AI/chatBots allowed***
@@ -312,7 +317,7 @@ No makeup options, but the lowest scores will be dropped (*15% of total number o
 ## In-Class Work
 
 - Submitted at the end of class for completion credit
-  - same value as a quiz (3 points)
+  - same value as a quiz (5 points)
 - Notice may or may not be given on the [Course Schedule](https://rich-molecular-health-lab.github.io/courses/conbio/schedule.html)
 
 ::: aside
@@ -321,21 +326,35 @@ No makeup options, but the lowest scores will be dropped (*15% of total number o
 
 :::
 
-## Grant Proposal
+## Guided Case Conversations
 
 :::{.columns}
 
 :::{.column}
 
-- Modified version of the [AZA Conservation Grants Fund Proposal](https://www.aza.org/cgf-tips-for-success)
-- Submit on Canvas **Wed, Dec 3 at 4:00 PM**
-- 40 points
+>In this recurring assignment, students will work in small groups to **lead a structured, whole-class discussion** focused on a **real conservation action or management decision**.
+
+Rather than giving a formal presentation, your role is to guide discussion around:
+: * How conservation threats are defined and prioritized
+: * How progress or success is measured
+: * Whether goals are well-defined using **SMART goals**
+: * What ethical, social, or equity-related tradeoffs are involved
+
 
 :::
 
 :::{.column}
 
-![](figures/course_intro/page_limits.gif)
+| Criterion                                                | Points |
+| -------------------------------------------------------- | ------ |
+| Preparation sheet submitted on time                      | 4      |
+| Clear explanation of the conservation decision & threats | 4      |
+| Thoughtful analysis of metrics & quantification          | 4      |
+| Accurate use of SMART goals                              | 4      |
+| Engagement with ethical or social tradeoffs              | 4      |
+| Effective facilitation & shared participation            | 4      |
+| **Total**                                                | **24** |
+
 
 :::
 
@@ -343,19 +362,19 @@ No makeup options, but the lowest scores will be dropped (*15% of total number o
 
 ::: aside
 
-I will post a rubric and examples
+Each group submits a **Preparation sheet** before their facilitation day. On days you are **not** facilitating, you will complete a short peer engagement form at the end of class.
 
 :::
 
 ## Exams
 
-**Midterm on Mon, Oct 6** | **Final on Mon, Dec 15** (5:00 - 7:00 PM)
+**Midterm on Mon, Mar 2** | **Final on Mon, May 4** (5:00 - 7:00 PM)
 
 :::{.columns}
 
 :::{.column width = "40%"}
 
-- 60 points each
+- 50 points each
 - In-person, synchronous, and written
 - Multiple choice, True/False, Short Essay
 

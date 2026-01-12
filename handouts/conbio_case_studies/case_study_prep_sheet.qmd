@@ -1,0 +1,125 @@
+---
+title: "Guided Case Conversation – Preparation sheet"
+format: 
+  docx:
+    number-sections: true
+    reference-doc: "../../handout-doc.docx"
+---
+
+### Case Conversation:
+
+- [ ] Case 1: Extinction
+- [ ] Case 2: Habitat Loss, Fragmentation, and Degradation
+- [ ] Case 3: Overexploitation
+- [ ] Case 4: Invasive Alien Species
+- [ ] Case 5: Climate Change
+- [ ] Case 6: Species-Level Approaches
+- [ ] Case 7: Community & Ecosystem Approaches
+- [ ] Case 8: Landscape-Scale Approaches
+
+### Group Members:
+
+* [Type Name 1]
+* [Type Name 2]
+* [Type Name 3]
+* [Type Name 4]
+
+## Case Overview
+
+Project name:
+: [Type name here]
+
+Organization(s):
+: [Type organization here]
+
+Location: 
+: [Type location here]
+
+Sources (2–4 links):
+: - [Paste Source 1]
+: - [Paste Source 2]
+
+## The Conservation Decision
+
+### What action was taken or proposed?
+
+[Type your response here]
+
+### Who made the decision, and what problem was it addressing?
+
+[Type your response here]
+
+## Threats & Metrics
+
+### What threats was the project addressing?
+
+[Type your response here]
+
+### How were these threats defined or prioritized?
+
+[Type your response here]
+
+### What indicators or metrics were used to assess progress or success?
+
+[Type your response here]
+
+### What was difficult or impossible to measure?
+
+[Type your response here]
+
+## SMART Goals Evaluation
+
+### Identify one major project goal and evaluate it:
+
+Specific:
+: [Your Assessment]
+
+Measurable:
+: [Your Assessment]
+
+Achievable:
+: [Your Assessment]
+
+Relevant:
+: [Your Assessment]
+
+Time-bound:
+: [Your Assessment]
+
+### Where did the goal fall short of being fully SMART, if applicable?
+
+[Type your response here]
+
+## Ethical & Social Dimensions
+
+### Who benefited most from this project?
+
+[Type your response here]
+
+### Who bore costs or risks?
+
+[Type your response here]
+
+### What ethical or social tradeoffs were involved?
+
+[Type your response here]
+
+## Guided Discussion Questions
+
+### Quantification of threats or success:
+
+[Type your discussion prompt/question here]
+
+### Application of course concept:
+
+[Type your discussion prompt/question here]
+
+### Ethical or social consideration:
+
+[Type your discussion prompt/question here]
+
+### Uncertainty, unintended consequences, or alternatives:
+
+[Type your discussion prompt/question here]
+
+

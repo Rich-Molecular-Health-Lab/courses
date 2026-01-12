@@ -32,7 +32,6 @@ source(here("helpers/card_templates.R"))
 source(here("helpers/syllabus_helpers.R"))
 source(here("helpers/syllabus_defaults.R"))
 source(here("helpers/syllabus_table_functions.R"))
-source(here("helpers/schedule_reactable.R"))
 knitr::opts_chunk$set(message = FALSE,
                       warning = FALSE,
                       include = TRUE,

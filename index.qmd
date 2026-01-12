@@ -1,12 +1,10 @@
 ---
 title: "Current Course Info"
-subtitle: "Fall 2025"
+subtitle: "Spring 2026"
 listing: 
   contents:
     - "conbio/syllabus.qmd"
     - "conbio/schedule.qmd"
-    - "hhe/syllabus.qmd"
-    - "hhe/schedule.qmd"
   type: grid
   fields: [image, date-modified, title, subtitle]
 execute:

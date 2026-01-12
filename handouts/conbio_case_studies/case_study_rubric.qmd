@@ -1,0 +1,61 @@
+---
+title: "Guided Case Conversation – Grading Rubric"
+format: 
+  docx:
+    number-sections: true
+    reference-doc: "../../handout-doc.docx"
+  pdf:
+    documentclass: article
+    geometry:
+      - top=1in
+      - left=1in
+---
+
+**Group:** ___________________  **Date:** _________________ **Total:** ______ / 24
+
+Preparation sheet submitted on time
+: - [ ] Yes 4 / 4
+: - [ ] Partial ______ / 4
+: - [ ] No 0 / 4
+
+|
+|
+
+Conservation decision clearly explained
+: - [ ] Yes 4 / 4
+: - [ ] Partial ______ / 4
+: - [ ] No 0 / 4
+
+|
+|
+
+Threats and metrics thoughtfully analyzed
+: - [ ] Yes 4 / 4
+: - [ ] Partial ______ / 4
+: - [ ] No 0 / 4
+
+|
+|
+
+SMART goals applied accurately
+: - [ ] Yes 4 / 4
+: - [ ] Partial ______ / 4
+: - [ ] No 0 / 4
+
+|
+|
+
+Ethical/social issues meaningfully addressed
+: - [ ] Yes 4 / 4
+: - [ ] Partial ______ / 4
+: - [ ] No 0 / 4
+
+|
+|
+
+Shared facilitation & structured discussion
+: - [ ] Yes 4 / 4
+: - [ ] Partial ______ / 4
+: - [ ] No 0 / 4
+
+

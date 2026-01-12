@@ -1,0 +1,19 @@
+project:
+  output-dir: "to_print"
+  execute-dir: project
+  render:
+    - handouts/*.qmd
+
+author: "Dr. Alicia M. Rich"
+date-modified: today
+date-format: "ddd MMM D, YYYY"
+format:
+  pdf:
+    pdf-engine: xelatex
+  docx:
+    toc: true
+    number-sections: true
+    reference-doc: "handout-doc.docx"
+
+editor: source
+
