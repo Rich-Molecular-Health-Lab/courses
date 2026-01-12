@@ -250,7 +250,8 @@ span.term {
 
 /* Add vertical spacing between definition list items */
 dl dd {
-  margin-bottom: 0.75em;  /* tweak value as needed */
+  padding-bottom: 0.4em;
+  margin-bottom: 0.45em;  /* tweak value as needed */
 }
 
 /* Optional: add a little space above/below the term itself */

@@ -1,10 +1,8 @@
 ---
 title: "Course Overview"
 date: "2026-1-12"
-format: 
-  revealjs:
-    theme: serif
-    embed-resources: true
+format: letterbox-revealjs
+image: figures/course_header.png
 params:
   course: "conbio_26s"
 ---
@@ -14,7 +12,7 @@ here::i_am("slides/conbio/0_conbio_syllabus_overview.qmd")
 source(here::here("_common.R"))
 ```
 
-# Introductions
+## Introductions
 
 ## Dr. Alicia Rich *she/her*
 
@@ -140,7 +138,7 @@ If you do not hear back from me after 3 days, then please remind me with another
 
 ![](figures/course_intro/prof_door.gif){fig-align=center}
 
-# Classroom Culture
+## Classroom Culture
 
 ## Values
 
@@ -269,7 +267,7 @@ slide_list_cols(
 [![<small>*Students who are registered with ASC can use the button above to log into the online portal and send their accommodation notification emails to faculty.*</small>](figures/course_intro/button_asc.png)](https://kea.accessiblelearning.com/unomaha)
 
 
-# Course Overview
+## Course Overview
 
 
 ## Student Learning Outcomes {.center}
@@ -328,43 +326,48 @@ No makeup options, but the lowest scores will be dropped (*15% of total number o
 
 ## Guided Case Conversations
 
-:::{.columns}
+:::{.callout style="font-size:0.8em"}
 
-:::{.column}
-
->In this recurring assignment, students will work in small groups to **lead a structured, whole-class discussion** focused on a **real conservation action or management decision**.
-
-Rather than giving a formal presentation, your role is to guide discussion around:
-: * How conservation threats are defined and prioritized
-: * How progress or success is measured
-: * Whether goals are well-defined using **SMART goals**
-: * What ethical, social, or equity-related tradeoffs are involved
-
+In this recurring assignment, students will work in small groups to **lead a structured, whole-class discussion** focused on a **real conservation action or management decision**.
 
 :::
 
-:::{.column}
+:::{.r-stack}
 
-| Criterion                                                | Points |
-| -------------------------------------------------------- | ------ |
-| Preparation sheet submitted on time                      | 4      |
-| Clear explanation of the conservation decision & threats | 4      |
-| Thoughtful analysis of metrics & quantification          | 4      |
-| Accurate use of SMART goals                              | 4      |
-| Engagement with ethical or social tradeoffs              | 4      |
-| Effective facilitation & shared participation            | 4      |
-| **Total**                                                | **24** |
+:::{.fragment .fade-out fragment-index=1}
 
+:::{.callout title="Acceptable examples include"}
+
+* Species recovery or management programs
+* Habitat protection, restoration, or connectivity initiatives
+* Reintroduction, translocation, or captive breeding programs
+* Zoo, NGO, or government conservation initiatives
+* Conservation education or community-based projects
 
 :::
 
 :::
 
-::: aside
 
-Each group submits a **Preparation sheet** before their facilitation day. On days you are **not** facilitating, you will complete a short peer engagement form at the end of class.
+:::{.fragment .fade-in fragment-index=2}
+
+:::{.callout title="Choose 2 Topics"}
+
+1. Extinction
+2. Habitat Loss, Fragmentation, and Degradation
+3. Overexploitation
+4. Invasive Alien Species
+5. Climate Change
+6. Species-Level Approaches
+7. Community & Ecosystem Approaches
+8. Landscape-Scale Approaches
 
 :::
+
+:::
+
+:::
+
 
 ## Exams
 
@@ -419,4 +422,23 @@ Open book/open-note, but ***hard-copy only***
   style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
 
+## On Wednesday
+
+:::{columns}
+
+:::{.column}
+
+Before Class
+: * Read the Syllabus online
+: * Read section 2.2 of the textbook
+
+:::
+
+:::{.column}
+
+![](figures/Ch02/c02fig009.jpg)
+
+:::
+
+:::
 

@@ -1,29 +1,5 @@
 [
   {
-    "listing": "/conbio_slides.html",
-    "items": [
-      "/slides/conbio/0_conbio_syllabus_overview.html",
-      "/slides/conbio/2-2_contemporary_conservation_biology.html",
-      "/slides/conbio/3-2_genetic_diversity.html",
-      "/slides/conbio/3-3_species_diversity.html",
-      "/slides/conbio/3-4_functional_diversity.html",
-      "/slides/conbio/3-5_3-6_community_ecosystem_diversity.html",
-      "/slides/conbio/8-1_extinction_patterns.html",
-      "/slides/conbio/8-3_extinction_risk.html",
-      "/slides/conbio/9-1_habitat_loss.html",
-      "/slides/conbio/9-2_habitat_fragmentation.html",
-      "/slides/conbio/9-4_metapopulations.html",
-      "/slides/conbio/13_3-7_species_population_size.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/conbio/syllabus.html",
-      "/conbio/schedule.html"
-    ]
-  },
-  {
     "listing": "/hhe_slides.html",
     "items": [
       "/slides/hhe/1_2_introduction_keyterms.html",
@@ -34,6 +10,19 @@
       "/slides/hhe/3_2_natural_disasters_wildfires.html",
       "/slides/hhe/4_built_environments.html",
       "/slides/hhe/4-5_epidemiology.html"
+    ]
+  },
+  {
+    "listing": "/conbio_slides.html",
+    "items": [
+      "/slides/conbio/0_conbio_syllabus_overview.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/conbio/syllabus.html",
+      "/conbio/schedule.html"
     ]
   }
 ]

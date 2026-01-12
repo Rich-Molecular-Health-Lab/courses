@@ -45,7 +45,9 @@ schedule_data  <- as.list(seq.Date(
     )
   ) %>%
   left_join(agendas, by = c("Week", "Day")) %>%
-  mutate(Day = if_else((is.na(topic) & is.na(agenda)) | topic %in% c("Holiday", "Spring Break", "Fall Break", "No Class"), "NO CLASS", Day))
+  mutate(
+    Day = if_else((is.na(topic) & is.na(agenda)) | topic %in% c("Holiday", "Spring Break", "Fall Break", "No Class"), "NO CLASS", Day)
+    )
 
 ```
 
@@ -70,13 +72,15 @@ schedule <- reactable(
   theme      = journal(),
   columns    = list(
     Week = colDef(
-      "Wk",
+      "",
       maxWidth = 60
     ),
     Day = colDef(
+      "",
       maxWidth = 50
     ),
     Date = colDef(
+      "",
       format = colFormat(datetime = TRUE),
       aggregate = "min"
     ),
@@ -85,14 +89,24 @@ schedule <- reactable(
       aggregate = "unique",
       minWidth = 150
     ),
-    topic  = colDef("Ch/Topic",
+    topic  = colDef(
+      "Ch/Topic",
       aggregate = "unique",
-      minWidth = 200
+      minWidth  = 200
       ),
     agenda = colDef(
       header = tippy::tippy("Class Agenda", "Case Conversations will be student-led. This agenda may change without notice to include graded, in-class excercises or quizzes."),
       aggregate = "unique",
       minWidth = 200
+    ),
+    materials = colDef(
+      "",
+      maxWidth = 50,
+      cell = function(value) {
+        if (is.na(value)) { return("") } else {
+          tags$a(href = sprintf("https://rich-molecular-health-lab.github.io/%s", value), shiny::icon("file-circle-check"))
+        }
+      }
     )
   )
 )

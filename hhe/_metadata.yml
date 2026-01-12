@@ -29,3 +29,4 @@ format:
           <link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&family=Cabin+Condensed:wght@400;500;600;700&family=Yaldevi:wght@200..700&display=swap" rel="stylesheet">
 
 editor: source
+freeze: true
