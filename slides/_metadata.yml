@@ -6,7 +6,7 @@ format:
     progress: true
     incremental: true
     auto-animate: true
-    smaller: true
+    smaller: false
     menu: true
     preview-links: true
     show-slide-number: all

@@ -1,0 +1,39 @@
+---
+title: "Guided Case Conversations - Schedule"
+format: docx
+---
+
+```{r}
+#| context: setup
+#| include: false
+
+here::i_am("handouts/conbio_case_studies/case_convo_schedule.qmd")
+source(here::here("_common.R"))
+course_short <- "conbio"
+semester     <- "26s"
+
+library(kableExtra)
+
+load(here("conbio/schedule_data.RData"))
+
+case_convo_schedule <- filter(schedule_data, str_detect(agenda, "Case Conversation")) %>%
+  mutate(Date = as_date(Date)) %>%
+  mutate(Date = format(Date, "%a %b %d")) %>%
+  select(
+    Date,
+    topic
+  ) %>%
+  mutate(
+    `Name 1` = "              ",
+    `Name 2` = "              ",
+    `Name 3` = "              ",
+    `Name 4` = "              "
+  )
+```
+
+```{r}
+#| column: screen
+
+kable(case_convo_schedule)
+```
+

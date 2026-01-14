@@ -49,6 +49,8 @@ schedule_data  <- as.list(seq.Date(
     Day = if_else((is.na(topic) & is.na(agenda)) | topic %in% c("Holiday", "Spring Break", "Fall Break", "No Class"), "NO CLASS", Day)
     )
 
+save(schedule_data, file = sprintf("%s/schedule_data.RData", course_short))
+
 ```
 
 ## Course Schedule
