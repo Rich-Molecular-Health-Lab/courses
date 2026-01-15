@@ -3,6 +3,8 @@ title: "2.2 Contemporary Conservation Biology"
 date: "2025-8-27"
 format: letterbox-revealjs
 image: figures/Ch02/c02fig008.jpg
+execute:
+  freeze: true
 ---
 
 ## {}

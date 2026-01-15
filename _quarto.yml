@@ -17,6 +17,7 @@ project:
     - index.qmd
     - handouts/*.qmd
     - slides/conbio/*.qmd
+    - slides/bio2lab/*.qmd
 
 website:
   title: "Course Information"
@@ -47,6 +48,10 @@ website:
             href: "hhe/syllabus.qmd"
           - text: "Slide Decks"
             href: "hhe_slides.qmd"
+      - text: "Biology 2 Lab"
+        menu:
+          - text: "Slide Decks"
+            href: "bio2lab_slides.qmd"
     right:
       - text: "Book a Meeting"
         href: "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink"

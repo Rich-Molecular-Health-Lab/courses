@@ -12,5 +12,7 @@ format:
     show-slide-number: all
     resource-path: ["figures"]
     default-image-extension: png
+    width: 1920
+    height: 1080
 callout-appearance: simple
 author: "Dr. Alicia M. Rich"
