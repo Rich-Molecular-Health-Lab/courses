@@ -12,6 +12,7 @@ project:
     - hhe/syllabus.qmd
     - conbio_slides.qmd
     - hhe_slides.qmd
+    - bio2lab_slides.qmd
     - conbio/index.qmd
     - hhe/index.qmd
     - index.qmd

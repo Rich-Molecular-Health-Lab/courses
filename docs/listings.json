@@ -25,5 +25,11 @@
       "/conbio/syllabus.html",
       "/conbio/schedule.html"
     ]
+  },
+  {
+    "listing": "/bio2lab_slides.html",
+    "items": [
+      "/slides/bio2lab/lab_1.html"
+    ]
   }
 ]
