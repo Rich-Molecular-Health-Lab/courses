@@ -5,6 +5,8 @@ listing:
   contents:
     - "conbio/syllabus.qmd"
     - "conbio/schedule.qmd"
+    - "hhe/syllabus.qmd"
+    - "hhe/schedule.qmd"
   type: grid
   fields: [image, date-modified, title, subtitle]
 execute:

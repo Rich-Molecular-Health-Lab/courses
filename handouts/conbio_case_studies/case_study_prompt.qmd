@@ -1,12 +1,6 @@
 ---
 title: "Guided Case Conversations"
 subtitle: "Conservation Biology: Spring 2026"
-format: 
-  pdf:
-    documentclass: article
-    geometry:
-      - top=1in
-      - left=1in
 ---
 
 ## Assignment Overview
