@@ -3,15 +3,11 @@ project:
   output-dir: "docs"
   execute-dir: project
   render:
-    - slides/hhe/*.qmd
     - conbio/schedule.qmd
-    - hhe/schedule.qmd
-    - hhe/canva_slides.qmd
     - conbio/canva_slides.qmd
     - conbio/syllabus.qmd
     - hhe/syllabus.qmd
     - conbio_slides.qmd
-    - hhe_slides.qmd
     - bio2lab_slides.qmd
     - conbio/index.qmd
     - hhe/index.qmd
@@ -19,6 +15,8 @@ project:
     - handouts/conbio_case_studies/*.qmd
     - slides/conbio/*.qmd
     - slides/bio2lab/*.qmd
+execute:
+  freeze: true
 
 website:
   title: "Course Information"
@@ -39,6 +37,8 @@ website:
             href: "conbio/syllabus.qmd"
           - text: "Slide Decks"
             href: "conbio_slides.qmd"
+          - text: "Resources"
+            href: "conbio_resources.qmd"
       - text: "Human Health & the Environment"
         menu:
           - text: "Course Homepage"
@@ -53,6 +53,8 @@ website:
         menu:
           - text: "Slide Decks"
             href: "bio2lab_slides.qmd"
+          - text: "Resources"
+            href: "bio2lab_resources.qmd"
     right:
       - text: "Book a Meeting"
         href: "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink"

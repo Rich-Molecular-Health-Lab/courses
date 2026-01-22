@@ -1,0 +1,21 @@
+---
+title: "Resources"
+subtitle: "Conservation Biology"
+listing: 
+  id: resources
+  contents:
+    - "resources/conbio/*.qmd"
+  fields: [image, date, date-modified, title, subtitle]
+  sort: "date"
+---
+
+
+::: {#resources}
+:::
+
+
+::: {.callout-warning}
+## Copyright Notice
+© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.  
+Redistribution or reuse requires explicit permission.
+:::
