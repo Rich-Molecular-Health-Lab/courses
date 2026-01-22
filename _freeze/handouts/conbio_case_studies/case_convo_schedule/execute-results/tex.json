@@ -1,0 +1,21 @@
+{
+  "hash": "52e3b1076a17270c647cbe65e079fc77",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Guided Case Conversations - Schedule\"\nformat: docx\n---\n\n\n\n\n::: {.cell .column-screen}\n::: {.cell-output-display}\n\n\n|Date       |topic                                        |Name 1 |Name 2 |Name 3 |Name 4 |\n|:----------|:--------------------------------------------|:------|:------|:------|:------|\n|Wed Feb 04 |Extinction                                   |       |       |       |       |\n|Mon Feb 16 |Habitat Loss, Fragmentation, and Degradation |       |       |       |       |\n|Mon Feb 23 |Overexploitation                             |       |       |       |       |\n|Wed Mar 04 |Invasive Alien Species                       |       |       |       |       |\n|Wed Mar 11 |Climate Change                               |       |       |       |       |\n|Wed Apr 01 |Species-Level Approaches                     |       |       |       |       |\n|Wed Apr 15 |Community & Ecosystem Approaches             |       |       |       |       |\n|Wed Apr 22 |Landscape-Scale Approaches                   |       |       |       |       |\n\n\n:::\n:::\n\n\n",
+    "supporting": [
+      "case_convo_schedule_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "\\usepackage{booktabs}\n\\usepackage{longtable}\n\\usepackage{array}\n\\usepackage{multirow}\n\\usepackage{wrapfig}\n\\usepackage{float}\n\\usepackage{colortbl}\n\\usepackage{pdflscape}\n\\usepackage{tabu}\n\\usepackage{threeparttable}\n\\usepackage{threeparttablex}\n\\usepackage[normalem]{ulem}\n\\usepackage{makecell}\n\\usepackage{xcolor}\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

@@ -5,6 +5,8 @@ format: html
 freeze: true
 params:
   course: "conbio_26s"
+execute:
+  freeze: auto
 ---
 
 ```{r}

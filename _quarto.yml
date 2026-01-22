@@ -3,20 +3,20 @@ project:
   output-dir: "docs"
   execute-dir: project
   render:
-    - conbio/schedule.qmd
-    - conbio/canva_slides.qmd
-    - conbio/syllabus.qmd
-    - hhe/syllabus.qmd
-    - conbio_slides.qmd
-    - bio2lab_slides.qmd
+    - index.qmd
     - conbio/index.qmd
     - hhe/index.qmd
-    - index.qmd
-    - handouts/conbio_case_studies/*.qmd
+    - conbio_slides.qmd
+    - bio2lab_slides.qmd
     - slides/conbio/*.qmd
     - slides/bio2lab/*.qmd
+    - resources/conbio/*.qmd
+    - resources/bio2lab/*.qmd
+    - conbio/schedule.qmd
+    - conbio/syllabus.qmd
+    - hhe/syllabus.qmd
 execute:
-  freeze: true
+  freeze: auto
 
 website:
   title: "Course Information"
@@ -39,22 +39,18 @@ website:
             href: "conbio_slides.qmd"
           - text: "Resources"
             href: "conbio_resources.qmd"
-      - text: "Human Health & the Environment"
-        menu:
-          - text: "Course Homepage"
-            href: "hhe/index.qmd"
-          - text: "Current Schedule"
-            href: "hhe/schedule.qmd"
-          - text: "Syllabus"
-            href: "hhe/syllabus.qmd"
-          - text: "Slide Decks"
-            href: "hhe_slides.qmd"
       - text: "Biology 2 Lab"
         menu:
           - text: "Slide Decks"
             href: "bio2lab_slides.qmd"
           - text: "Resources"
             href: "bio2lab_resources.qmd"
+      - text: "Human Health & the Environment"
+        menu:
+          - text: "Course Homepage"
+            href: "hhe/index.qmd"
+          - text: "Syllabus"
+            href: "hhe/syllabus.qmd"
     right:
       - text: "Book a Meeting"
         href: "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink"

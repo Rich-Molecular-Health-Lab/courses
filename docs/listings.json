@@ -2,7 +2,15 @@
   {
     "listing": "/bio2lab_slides.html",
     "items": [
-      "/slides/bio2lab/lab_1.html"
+      "/slides/bio2lab/lab_1-1.html",
+      "/slides/bio2lab/lab_1-2.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/conbio/syllabus.html",
+      "/conbio/schedule.html"
     ]
   },
   {
@@ -14,28 +22,6 @@
       "/slides/conbio/0_conbio_syllabus_overview.html",
       "/slides/conbio/3-2_genetic_diversity.html",
       "/slides/conbio/3-3_species_diversity.html"
-    ]
-  },
-  {
-    "listing": "/hhe_slides.html",
-    "items": [
-      "/slides/hhe/1_2_introduction_keyterms.html",
-      "/slides/hhe/1_3_introduction_redlining.html",
-      "/slides/hhe/2_1_climate_models.html",
-      "/slides/hhe/2_2_climate_heat.html",
-      "/slides/hhe/3_1_natural_disasters_hurricanes.html",
-      "/slides/hhe/3_2_natural_disasters_wildfires.html",
-      "/slides/hhe/4_built_environments.html",
-      "/slides/hhe/4-5_epidemiology.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/conbio/syllabus.html",
-      "/conbio/schedule.html",
-      "/hhe/schedule.html",
-      "/hhe/syllabus.html"
     ]
   }
 ]
