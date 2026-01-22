@@ -21,8 +21,8 @@ agendas <- list(
       materials = NA
     ),
     D2 = list(
-      sections = c(3.2, 3.3, 3.4, 3.5, 3.6),
-      topic    = "Biodiversity Concepts & Measurement",
+      sections = c(2.2),
+      topic    = "The Rise of Conservation Biology",
       agenda   = NA,
       materials = NA
     )
