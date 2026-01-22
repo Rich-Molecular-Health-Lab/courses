@@ -16,7 +16,7 @@ project:
     - conbio/index.qmd
     - hhe/index.qmd
     - index.qmd
-    - handouts/*.qmd
+    - handouts/conbio_case_studies/*.qmd
     - slides/conbio/*.qmd
     - slides/bio2lab/*.qmd
 

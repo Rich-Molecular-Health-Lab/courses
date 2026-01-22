@@ -126,6 +126,97 @@
     "text": "Reminders\n\n\n\n\n\n\n\nNo quiz next week!\n\n\nThe Introduction writing assignment takes the place of the pre-lab quiz.\nDue at the beginning of lab next week."
   },
   {
+    "objectID": "slides/conbio/3-4_functional_diversity.html#section",
+    "href": "slides/conbio/3-4_functional_diversity.html#section",
+    "title": "3.4 Functional & Phylogenetic Diversity",
+    "section": "",
+    "text": "Conservation Biology - Tue Jan 21, 2025\n\n\n3.4 Functional & Phylogenetic Diversity\n\n\n\n\nClick here for redirect to Canva slide deck."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#section",
+    "href": "slides/conbio/3-2_genetic_diversity.html#section",
+    "title": "3.2 Genetic Diversity",
+    "section": "",
+    "text": "Conservation Biology - Wed Jan 21, 2026\n\n\n3.2 Genetic Diversity"
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#hierarchical-levels-of-biodiversity",
+    "href": "slides/conbio/3-2_genetic_diversity.html#hierarchical-levels-of-biodiversity",
+    "title": "3.2 Genetic Diversity",
+    "section": "Hierarchical Levels of Biodiversity",
+    "text": "Hierarchical Levels of Biodiversity\n\n\n\n\n\n\n\nGenetic diversity\n\nThe genetic variation within species, both among individuals within single populations and among geographically distinct populations  \n\nSpecies diversity\n\nThe variety of species that comprise a biological community—the collection of species that occupy and interact in a particular location  \n\nCommunity and ecosystem diversity\n\nThe different biological communities and their associated ecosystems that comprise whole landscapes  \n\n\n\n\nBiological variation is a continuum, and it is notoriously difficult to divide life into discrete categories."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-level",
+    "href": "slides/conbio/3-2_genetic_diversity.html#population-level",
+    "title": "3.2 Genetic Diversity",
+    "section": "Population-Level",
+    "text": "Population-Level\n\nPopulation\n\nA group of individual organisms of the same species living within a given (or particular) geographical area at the same time.\n\n\n\nHow do we define the boundary of that geographical area?\n\nUsually defined to be of a size in which individuals are likely to find mates and reproduce\nSpecies that are geographically widespread are often subdivided into distinct breeding groups that live in different geographical areas.\nThese geographically separated groups are sometimes referred to as different populations of the same species or as subpopulations of the species."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics",
+    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics",
+    "title": "3.2 Genetic Diversity",
+    "section": "Population Genetics",
+    "text": "Population Genetics\n\n\n\n\n\n\nIndividuals all have the same set of homologous chromosomes.\n \nThe ____ on those chromosomes are represented by different ____."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-1",
+    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-1",
+    "title": "3.2 Genetic Diversity",
+    "section": "Population Genetics",
+    "text": "Population Genetics\n\n\n\n\n\n\nIndividuals all have the same set of homologous chromosomes.\n \nThe genes on those chromosomes are represented by different alleles."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-2",
+    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-2",
+    "title": "3.2 Genetic Diversity",
+    "section": "Population Genetics",
+    "text": "Population Genetics\n\n\n\n\n\n\n____ are different forms of the same ____."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-3",
+    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-3",
+    "title": "3.2 Genetic Diversity",
+    "section": "Population Genetics",
+    "text": "Population Genetics\n\n\n\n\n\n\nAlleles are different forms of the same gene.   We could also describe them as sequences of DNA that are found on the same gene ______."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-4",
+    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-4",
+    "title": "3.2 Genetic Diversity",
+    "section": "Population Genetics",
+    "text": "Population Genetics\n\n\n\n\n\n\nAlleles are different forms of the same gene.   We could also describe them as sequences of DNA that are found on the same gene locus."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#genetic-inheritance",
+    "href": "slides/conbio/3-2_genetic_diversity.html#genetic-inheritance",
+    "title": "3.2 Genetic Diversity",
+    "section": "Genetic Inheritance",
+    "text": "Genetic Inheritance\n\n\n\n\n\n\nFor the F2 Generation:\n\nWhat is the genotype frequency of YyRr?\nWhat is the allele frequency of r?\nIf we only consider the Y gene, what is the frequency of heterozygotes?\nIf we only consider the R gene, what is the frequency of homozygotes?"
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#markers-in-population-genetics",
+    "href": "slides/conbio/3-2_genetic_diversity.html#markers-in-population-genetics",
+    "title": "3.2 Genetic Diversity",
+    "section": "Markers in Population Genetics",
+    "text": "Markers in Population Genetics\n\nPolymorphic Locus\n\nA gene for which more than one allele exists in the population  \n\nPolymorphism\n\nthe fraction of gene loci in which alternative alleles of a gene occur"
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#measures-of-genetic-diversity",
+    "href": "slides/conbio/3-2_genetic_diversity.html#measures-of-genetic-diversity",
+    "title": "3.2 Genetic Diversity",
+    "section": "Measures of Genetic Diversity",
+    "text": "Measures of Genetic Diversity\n\n\n\n\nThis example shows how to calculate polymorphism and heterozygosity of a hypothetical population of frogs (left).\n\nAssume that five frogs are sampled randomly such that they are representative of the larger population of frogs.\nEach of the five frogs is then genotyped to determine which alleles it has at each of two loci:\n\nat locus A it has either allele A1 or A2, while at locus B it has either allele B1, B2, or B3.\n\nAfter genotyping each frog, one can calculate the proportion of loci at which each individual is heterozygous, hi, which is then used to calculate the average heterozygosity, H, of frogs that were sampled.\nOne can also calculate the degree of polymorphism, P, of the sampled frogs, as well as the frequency of each allele in the sampled population."
+  },
+  {
+    "objectID": "slides/conbio/3-2_genetic_diversity.html#application-in-conservation-genetics",
+    "href": "slides/conbio/3-2_genetic_diversity.html#application-in-conservation-genetics",
+    "title": "3.2 Genetic Diversity",
+    "section": "Application in Conservation Genetics",
+    "text": "Application in Conservation Genetics"
+  },
+  {
     "objectID": "slides/conbio/0_conbio_syllabus_overview.html#introductions",
     "href": "slides/conbio/0_conbio_syllabus_overview.html#introductions",
     "title": "Course Overview",
@@ -294,6 +385,34 @@
     "text": "On Wednesday\n\n\n\nBefore Class\n\n\nRead the Syllabus online\n\n\n\n\nRead section 2.2 of the textbook"
   },
   {
+    "objectID": "handouts/conbio_case_studies/case_study_prompt.html",
+    "href": "handouts/conbio_case_studies/case_study_prompt.html",
+    "title": "Guided Case Conversations",
+    "section": "",
+    "text": "In this recurring assignment, students will work in small groups to lead a structured, whole-class discussion focused on a real conservation action or management decision.\nRather than giving a formal presentation, your role is to guide discussion around:\n\nHow conservation threats are defined and prioritized\nHow progress or success is measured\nWhether goals are well-defined using SMART goals\nWhat ethical, social, or equity-related tradeoffs are involved\n\nEach facilitation should fill around 20–30 minutes of class time. The instructor may add examples or extend discussion afterward as time allows.\nThis format mirrors how conservation professionals evaluate projects in meetings, review panels, and collaborative decision-making settings.\n\n\nYour group will select one real, publicly documented conservation project or action involving a clear decision or intervention.\n\nAcceptable examples include:\n\n\nSpecies recovery or management programs\n\n\n\n\nHabitat protection, restoration, or connectivity initiatives\n\n\n\n\nReintroduction, translocation, or captive breeding programs\n\n\n\n\nZoo, NGO, or government conservation initiatives\n\n\n\n\nConservation education or community-based projects\n\n\nYour case must:\n\n\nBe real (not hypothetical)\n\n\n\n\nBe publicly documented\n\n\n\n\nInclude explicit goals, actions, or outcomes\n\n\n\nPrimary research papers are optional, not required.\n\n\n\nEach group submits a Preparation sheet before their facilitation day. This is graded for completion.\n\n\n\n\n\n\nIntroduce the case and decision\nReading directly from notes is allowed\n\n\nPresentation slides are not required,\n\nbut you are welcome to share visuals using canva, powerpoint, google slides, or extra handouts if it helps you introduce key information.\n\n\n\n\n\n\nAsk your prepared questions\nEncourage multiple perspectives\nYour role is to guide, not lecture\n\n\n\n\n\nSummarize key insights\nReflect on whether goals and metrics captured conservation success\n\nEach group member should have a visible role.\n\n\n\n\n\n\n\nCriterion\nPoints\n\n\n\n\nPreparation sheet submitted on time\n4\n\n\nClear explanation of the conservation decision & threats\n4\n\n\nThoughtful analysis of metrics & quantification\n4\n\n\nAccurate use of SMART goals\n4\n\n\nEngagement with ethical or social tradeoffs\n4\n\n\nEffective facilitation & shared participation\n4\n\n\nTotal\n24\n\n\n\nThis is not a public-speaking performance. Structure and preparation matter more than polish.\n\n\n\nOn days you are not facilitating, you will complete a short peer engagement form at the end of class."
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prompt.html#assignment-overview",
+    "href": "handouts/conbio_case_studies/case_study_prompt.html#assignment-overview",
+    "title": "Guided Case Conversations",
+    "section": "",
+    "text": "In this recurring assignment, students will work in small groups to lead a structured, whole-class discussion focused on a real conservation action or management decision.\nRather than giving a formal presentation, your role is to guide discussion around:\n\nHow conservation threats are defined and prioritized\nHow progress or success is measured\nWhether goals are well-defined using SMART goals\nWhat ethical, social, or equity-related tradeoffs are involved\n\nEach facilitation should fill around 20–30 minutes of class time. The instructor may add examples or extend discussion afterward as time allows.\nThis format mirrors how conservation professionals evaluate projects in meetings, review panels, and collaborative decision-making settings.\n\n\nYour group will select one real, publicly documented conservation project or action involving a clear decision or intervention.\n\nAcceptable examples include:\n\n\nSpecies recovery or management programs\n\n\n\n\nHabitat protection, restoration, or connectivity initiatives\n\n\n\n\nReintroduction, translocation, or captive breeding programs\n\n\n\n\nZoo, NGO, or government conservation initiatives\n\n\n\n\nConservation education or community-based projects\n\n\nYour case must:\n\n\nBe real (not hypothetical)\n\n\n\n\nBe publicly documented\n\n\n\n\nInclude explicit goals, actions, or outcomes\n\n\n\nPrimary research papers are optional, not required.\n\n\n\nEach group submits a Preparation sheet before their facilitation day. This is graded for completion.\n\n\n\n\n\n\nIntroduce the case and decision\nReading directly from notes is allowed\n\n\nPresentation slides are not required,\n\nbut you are welcome to share visuals using canva, powerpoint, google slides, or extra handouts if it helps you introduce key information.\n\n\n\n\n\n\nAsk your prepared questions\nEncourage multiple perspectives\nYour role is to guide, not lecture\n\n\n\n\n\nSummarize key insights\nReflect on whether goals and metrics captured conservation success\n\nEach group member should have a visible role.\n\n\n\n\n\n\n\nCriterion\nPoints\n\n\n\n\nPreparation sheet submitted on time\n4\n\n\nClear explanation of the conservation decision & threats\n4\n\n\nThoughtful analysis of metrics & quantification\n4\n\n\nAccurate use of SMART goals\n4\n\n\nEngagement with ethical or social tradeoffs\n4\n\n\nEffective facilitation & shared participation\n4\n\n\nTotal\n24\n\n\n\nThis is not a public-speaking performance. Structure and preparation matter more than polish.\n\n\n\nOn days you are not facilitating, you will complete a short peer engagement form at the end of class."
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_peer_feedback.html",
+    "href": "handouts/conbio_case_studies/case_study_peer_feedback.html",
+    "title": "Guided Case Conversation – Peer Engagement Form",
+    "section": "",
+    "text": "Your name:_________________________ Date: _____________________________\nPlease answer each prompt in 2–4 sentences. These are graded for completion, not correctness.\n\nIdentify one metric, indicator, or proxy used in today’s case to assess threats, progress, or success.\n\n\n\n\n\nName one concept from this course (e.g., extinction risk, habitat fragmentation, genetic diversity, metapopulations, overexploitation) that helped you understand the case. How did this concept clarify the conservation decision or tradeoffs involved?\n\n\n\n\n\nIdentify one ethical, social, or equity-related issue raised by the case or discussion. Who benefited? Who bore costs or risks? Whose perspectives may have been missing?\n\n\n\n\n\nWhat is one question, uncertainty, or concern you still have about this conservation decision? Hint: This could relate to: long-term outcomes, unintended consequences, alternative strategies, or the limits of available data\n\n\n\n\nSubmit this form at the end of class 5 points for completion"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_convo_schedule.html",
+    "href": "handouts/conbio_case_studies/case_convo_schedule.html",
+    "title": "Guided Case Conversations - Schedule",
+    "section": "",
+    "text": "Date\ntopic\nName 1\nName 2\nName 3\nName 4\n\n\n\n\nWed Feb 04\nExtinction\n\n\n\n\n\n\nMon Feb 16\nHabitat Loss, Fragmentation, and Degradation\n\n\n\n\n\n\nMon Feb 23\nOverexploitation\n\n\n\n\n\n\nWed Mar 04\nInvasive Alien Species\n\n\n\n\n\n\nWed Mar 11\nClimate Change\n\n\n\n\n\n\nWed Apr 01\nSpecies-Level Approaches\n\n\n\n\n\n\nWed Apr 15\nCommunity & Ecosystem Approaches\n\n\n\n\n\n\nWed Apr 22\nLandscape-Scale Approaches"
+  },
+  {
     "objectID": "hhe/index.html",
     "href": "hhe/index.html",
     "title": "Human Health & the Environment",
@@ -312,7 +431,7 @@
     "href": "bio2lab_slides.html",
     "title": "Slide Decks",
     "section": "",
-    "text": "I post updated versions of class slide decks to this page. Please remember that these slides should enhance, but not replace your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.\n\n\n\n\n\n\n\n\n\n\nScientific Method and Experimental Design: Termite Behavior\n\n\nBIOL 1750 – Biology II Lab\n\n\n\n\n\nThu Jan 15, 2026\n\n\nWed Jan 14, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nCopyright Notice\n\n\n\n© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.\nLecture slides are provided for enrolled students’ personal reference only.\nRedistribution or reuse requires explicit permission."
+    "text": "I post updated versions of class slide decks to this page. Please remember that these slides should enhance, but not replace your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.\n\n\n\n\n\n\n\n\n\n\nScientific Method and Experimental Design: Termite Behavior\n\n\nBIOL 1750 – Biology II Lab\n\n\n\n\n\nThu Jan 15, 2026\n\n\nWed Jan 21, 2026\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nCopyright Notice\n\n\n\n© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.\nLecture slides are provided for enrolled students’ personal reference only.\nRedistribution or reuse requires explicit permission."
   },
   {
     "objectID": "conbio_slides.html",
@@ -1190,6 +1309,69 @@
     "text": "Footnotes\n\n\nThe information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.↩︎"
   },
   {
+    "objectID": "handouts/conbio_case_studies/case_source_hubs.html",
+    "href": "handouts/conbio_case_studies/case_source_hubs.html",
+    "title": "Approved Case Source Hubs for Guided Case Conversations",
+    "section": "",
+    "text": "You are encouraged (but not required) to select cases from the sources below. These sources provide real, publicly documented conservation actions with clearly stated goals, constraints, and outcomes.\nYou do not need to ask for approval if your case comes from one of these hubs.\n\nZoo & Ex Situ–Linked Conservation Programs\n\nAZA SAFE (Saving Animals From Extinction) Species Programs\n\n\nSpecies action plans and program summaries\n\n\n\n\nStrong alignment with One Plan thinking\n\n\n\n\nClear goals, partners, and constraints\n\n\nZoo-Based Conservation Program Pages\n\n\nMany accredited zoos publish conservation initiative summaries\n\n\n\n\nOften include education, fieldwork, and captive management components\n\n\n\n\n\nGovernment Recovery & Management Plans\n\nU.S. Fish & Wildlife Service (USFWS)\n\n\nSpecies recovery plans\n\n\n\n\nCritical habitat designations\n\n\n\n\nReintroduction and management actions\n\n\nState Wildlife Agency Conservation Programs\n\n\nSpecies of Greatest Conservation Need (SGCN) plans\n\n\n\n\nHabitat restoration or corridor projects\n\n\n\n\n\nInternational & NGO Conservation Initiatives\n\nIUCN Red List & Species Action Plans\n\n\nThreat prioritization\n\n\n\n\nConservation actions and research needs\n\n\nMajor Conservation NGOs\n\n\nWorld Wildlife Fund (WWF)\n\n\n\n\nWildlife Conservation Society (WCS)\n\n\n\n\nConservation International (CI)\n\n\n\n\n\nHabitat Protection, Restoration & Connectivity Projects\n\nProtected Area Creation or Expansion\n\n\nNational parks, reserves, marine protected areas\n\n\nHabitat Restoration Projects\n\n\nWetlands, forests, coral reefs\n\n\nConnectivity & Corridor Initiatives\n\n\nWildlife crossings\n\n\n\n\nLandscape-scale planning\n\n\n\n\n\nCommunity-Based & Human–Wildlife Conflict Projects\n\nCommunity-Based Conservation Programs\n\n\nCo-management agreements\n\n\n\n\nIndigenous-led conservation initiatives\n\n\nHuman–Wildlife Conflict Mitigation\n\n\nCompensation programs\n\n\n\n\nNon-lethal deterrents\n\n\n\n\nLand-use planning\n\n\n\n\n\nOptional: Primary Literature (Use Selectively)\n\nPrimary research articles may be used if they:\n\n\ndirectly inform a management decision or action\n\n\n\n\ninclude explicit discussion of conservation outcomes\n\n\n\nPrimary literature is not required and should not be the sole source."
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prep_sheet.html",
+    "href": "handouts/conbio_case_studies/case_study_prep_sheet.html",
+    "title": "Guided Case Conversation – Preparation sheet",
+    "section": "",
+    "text": "Case 1: Extinction\nCase 2: Habitat Loss, Fragmentation, and Degradation\nCase 3: Overexploitation\nCase 4: Invasive Alien Species\nCase 5: Climate Change\nCase 6: Species-Level Approaches\nCase 7: Community & Ecosystem Approaches\nCase 8: Landscape-Scale Approaches"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prep_sheet.html#case-overview",
+    "href": "handouts/conbio_case_studies/case_study_prep_sheet.html#case-overview",
+    "title": "Guided Case Conversation – Preparation sheet",
+    "section": "Case Overview",
+    "text": "Case Overview\n\nProject name:\n\n[Type name here]\n\nOrganization(s):\n\n[Type organization here]\n\nLocation:\n\n[Type location here]\n\nSources (2–4 links):\n\n\n[Paste Source 1]\n\n\n\n\n[Paste Source 2]"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prep_sheet.html#the-conservation-decision",
+    "href": "handouts/conbio_case_studies/case_study_prep_sheet.html#the-conservation-decision",
+    "title": "Guided Case Conversation – Preparation sheet",
+    "section": "The Conservation Decision",
+    "text": "The Conservation Decision\n\nWhat action was taken or proposed?\n[Type your response here]\n\n\nWho made the decision, and what problem was it addressing?\n[Type your response here]"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prep_sheet.html#threats-metrics",
+    "href": "handouts/conbio_case_studies/case_study_prep_sheet.html#threats-metrics",
+    "title": "Guided Case Conversation – Preparation sheet",
+    "section": "Threats & Metrics",
+    "text": "Threats & Metrics\n\nWhat threats was the project addressing?\n[Type your response here]\n\n\nHow were these threats defined or prioritized?\n[Type your response here]\n\n\nWhat indicators or metrics were used to assess progress or success?\n[Type your response here]\n\n\nWhat was difficult or impossible to measure?\n[Type your response here]"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prep_sheet.html#smart-goals-evaluation",
+    "href": "handouts/conbio_case_studies/case_study_prep_sheet.html#smart-goals-evaluation",
+    "title": "Guided Case Conversation – Preparation sheet",
+    "section": "SMART Goals Evaluation",
+    "text": "SMART Goals Evaluation\n\nIdentify one major project goal and evaluate it:\n\nSpecific:\n\n[Your Assessment]\n\nMeasurable:\n\n[Your Assessment]\n\nAchievable:\n\n[Your Assessment]\n\nRelevant:\n\n[Your Assessment]\n\nTime-bound:\n\n[Your Assessment]\n\n\n\n\nWhere did the goal fall short of being fully SMART, if applicable?\n[Type your response here]"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prep_sheet.html#ethical-social-dimensions",
+    "href": "handouts/conbio_case_studies/case_study_prep_sheet.html#ethical-social-dimensions",
+    "title": "Guided Case Conversation – Preparation sheet",
+    "section": "Ethical & Social Dimensions",
+    "text": "Ethical & Social Dimensions\n\nWho benefited most from this project?\n[Type your response here]\n\n\nWho bore costs or risks?\n[Type your response here]\n\n\nWhat ethical or social tradeoffs were involved?\n[Type your response here]"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_prep_sheet.html#guided-discussion-questions",
+    "href": "handouts/conbio_case_studies/case_study_prep_sheet.html#guided-discussion-questions",
+    "title": "Guided Case Conversation – Preparation sheet",
+    "section": "Guided Discussion Questions",
+    "text": "Guided Discussion Questions\n\nQuantification of threats or success:\n[Type your discussion prompt/question here]\n\n\nApplication of course concept:\n[Type your discussion prompt/question here]\n\n\nEthical or social consideration:\n[Type your discussion prompt/question here]\n\n\nUncertainty, unintended consequences, or alternatives:\n[Type your discussion prompt/question here]"
+  },
+  {
+    "objectID": "handouts/conbio_case_studies/case_study_rubric.html",
+    "href": "handouts/conbio_case_studies/case_study_rubric.html",
+    "title": "Guided Case Conversation – Grading Rubric",
+    "section": "",
+    "text": "Group: ___________________ Date: _________________ Total: ______ / 24\n\nPreparation sheet submitted on time\n\n\nYes 4 / 4\n\n\n\n\nPartial ______ / 4\n\n\n\n\nNo 0 / 4\n\n\n\n\n\n\nConservation decision clearly explained\n\n\nYes 4 / 4\n\n\n\n\nPartial ______ / 4\n\n\n\n\nNo 0 / 4\n\n\n\n\n\n\nThreats and metrics thoughtfully analyzed\n\n\nYes 4 / 4\n\n\n\n\nPartial ______ / 4\n\n\n\n\nNo 0 / 4\n\n\n\n\n\n\nSMART goals applied accurately\n\n\nYes 4 / 4\n\n\n\n\nPartial ______ / 4\n\n\n\n\nNo 0 / 4\n\n\n\n\n\n\nEthical/social issues meaningfully addressed\n\n\nYes 4 / 4\n\n\n\n\nPartial ______ / 4\n\n\n\n\nNo 0 / 4\n\n\n\n\n\n\nShared facilitation & structured discussion\n\n\nYes 4 / 4\n\n\n\n\nPartial ______ / 4\n\n\n\n\nNo 0 / 4"
+  },
+  {
     "objectID": "slides/conbio/2-2_contemporary_conservation_biology.html#section",
     "href": "slides/conbio/2-2_contemporary_conservation_biology.html#section",
     "title": "2.2 Contemporary Conservation Biology",
@@ -1323,90 +1505,6 @@
     "text": "Wrapping Up"
   },
   {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#section",
-    "href": "slides/conbio/3-2_genetic_diversity.html#section",
-    "title": "3.2 Genetic Diversity",
-    "section": "",
-    "text": "Conservation Biology - Wed Jan 21, 2026\n\n\n3.2 Genetic Diversity"
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#hierarchical-levels-of-biodiversity",
-    "href": "slides/conbio/3-2_genetic_diversity.html#hierarchical-levels-of-biodiversity",
-    "title": "3.2 Genetic Diversity",
-    "section": "Hierarchical Levels of Biodiversity",
-    "text": "Hierarchical Levels of Biodiversity\n\n\n\n\n\n\n\nGenetic diversity\n\nThe genetic variation within species, both among individuals within single populations and among geographically distinct populations  \n\nSpecies diversity\n\nThe variety of species that comprise a biological community—the collection of species that occupy and interact in a particular location  \n\nCommunity and ecosystem diversity\n\nThe different biological communities and their associated ecosystems that comprise whole landscapes  \n\n\n\n\nBiological variation is a continuum, and it is notoriously difficult to divide life into discrete categories."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-level",
-    "href": "slides/conbio/3-2_genetic_diversity.html#population-level",
-    "title": "3.2 Genetic Diversity",
-    "section": "Population-Level",
-    "text": "Population-Level\n\nPopulation\n\nA group of individual organisms of the same species living within a given (or particular) geographical area at the same time.\n\n\n\nHow do we define the boundary of that geographical area?\n\nUsually defined to be of a size in which individuals are likely to find mates and reproduce\nSpecies that are geographically widespread are often subdivided into distinct breeding groups that live in different geographical areas.\nThese geographically separated groups are sometimes referred to as different populations of the same species or as subpopulations of the species."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics",
-    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics",
-    "title": "3.2 Genetic Diversity",
-    "section": "Population Genetics",
-    "text": "Population Genetics\n\n\n\n\n\n\nIndividuals all have the same set of homologous chromosomes.\n \nThe ____ on those chromosomes are represented by different ____."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-1",
-    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-1",
-    "title": "3.2 Genetic Diversity",
-    "section": "Population Genetics",
-    "text": "Population Genetics\n\n\n\n\n\n\nIndividuals all have the same set of homologous chromosomes.\n \nThe genes on those chromosomes are represented by different alleles."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-2",
-    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-2",
-    "title": "3.2 Genetic Diversity",
-    "section": "Population Genetics",
-    "text": "Population Genetics\n\n\n\n\n\n\n____ are different forms of the same ____."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-3",
-    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-3",
-    "title": "3.2 Genetic Diversity",
-    "section": "Population Genetics",
-    "text": "Population Genetics\n\n\n\n\n\n\nAlleles are different forms of the same gene.   We could also describe them as sequences of DNA that are found on the same gene ______."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#population-genetics-4",
-    "href": "slides/conbio/3-2_genetic_diversity.html#population-genetics-4",
-    "title": "3.2 Genetic Diversity",
-    "section": "Population Genetics",
-    "text": "Population Genetics\n\n\n\n\n\n\nAlleles are different forms of the same gene.   We could also describe them as sequences of DNA that are found on the same gene locus."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#genetic-inheritance",
-    "href": "slides/conbio/3-2_genetic_diversity.html#genetic-inheritance",
-    "title": "3.2 Genetic Diversity",
-    "section": "Genetic Inheritance",
-    "text": "Genetic Inheritance\n\n\n\n\n\n\nFor the F2 Generation:\n\nWhat is the genotype frequency of YyRr?\nWhat is the allele frequency of r?\nIf we only consider the Y gene, what is the frequency of heterozygotes?\nIf we only consider the R gene, what is the frequency of homozygotes?"
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#markers-in-population-genetics",
-    "href": "slides/conbio/3-2_genetic_diversity.html#markers-in-population-genetics",
-    "title": "3.2 Genetic Diversity",
-    "section": "Markers in Population Genetics",
-    "text": "Markers in Population Genetics\n\nPolymorphic Locus\n\nA gene for which more than one allele exists in the population  \n\nPolymorphism\n\nthe fraction of gene loci in which alternative alleles of a gene occur"
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#measures-of-genetic-diversity",
-    "href": "slides/conbio/3-2_genetic_diversity.html#measures-of-genetic-diversity",
-    "title": "3.2 Genetic Diversity",
-    "section": "Measures of Genetic Diversity",
-    "text": "Measures of Genetic Diversity\n\n\n\n\nThis example shows how to calculate polymorphism and heterozygosity of a hypothetical population of frogs (left).\n\nAssume that five frogs are sampled randomly such that they are representative of the larger population of frogs.\nEach of the five frogs is then genotyped to determine which alleles it has at each of two loci:\n\nat locus A it has either allele A1 or A2, while at locus B it has either allele B1, B2, or B3.\n\nAfter genotyping each frog, one can calculate the proportion of loci at which each individual is heterozygous, hi, which is then used to calculate the average heterozygosity, H, of frogs that were sampled.\nOne can also calculate the degree of polymorphism, P, of the sampled frogs, as well as the frequency of each allele in the sampled population."
-  },
-  {
-    "objectID": "slides/conbio/3-2_genetic_diversity.html#application-in-conservation-genetics",
-    "href": "slides/conbio/3-2_genetic_diversity.html#application-in-conservation-genetics",
-    "title": "3.2 Genetic Diversity",
-    "section": "Application in Conservation Genetics",
-    "text": "Application in Conservation Genetics"
-  },
-  {
     "objectID": "slides/conbio/3-3_species_diversity.html#section",
     "href": "slides/conbio/3-3_species_diversity.html#section",
     "title": "3.3 Species Diversity",
@@ -1454,13 +1552,6 @@
     "title": "3.3 Species Diversity",
     "section": "Scales of Biodiversity",
     "text": "Scales of Biodiversity\n\n\n\n\n\n\n\n\n\nIf funds were available to protect only one mountain range, which should be selected?\n\n\n\n\nRegion 2\n\nthe greatest gamma (total) diversity.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf funds were available to protect only one mountain, which should be selected?\n\n\n\n\nRegion 1\n\nthe greatest alpha (local) diversity.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf region 3 were selected for protection:\n\n\n\nThe relative priority of the individual mountains should then be judged based on the relative rarity of the assemblages.\n\n\n\n\n\n\n\n\nBiodiversity indexes for three regions, each consisting of three separate mountains. Each letter represents a population of a species; some species are found on only one mountain, while other species are found on two or three mountains. Alpha, gamma, and beta diversity values are shown for each region. If funds were available to protect only one mountain range, region 2 should be selected because it has the greatest gamma (total) diversity. However, if only one mountain could be protected, a mountain in region 1 should be selected because these mountains have the highest alpha (local) diversity, that is, the greatest average number of species per mountain. Each mountain in region 3 has a more distinct assemblage of species than the mountains in the other two regions, as shown by the higher beta diversity. If region 3 were selected for protection, the relative priority of the individual mountains should then be judged based on the relative rarity of the assemblages."
-  },
-  {
-    "objectID": "slides/conbio/3-4_functional_diversity.html#section",
-    "href": "slides/conbio/3-4_functional_diversity.html#section",
-    "title": "3.4 Functional & Phylogenetic Diversity",
-    "section": "",
-    "text": "Conservation Biology - Tue Jan 21, 2025\n\n\n3.4 Functional & Phylogenetic Diversity\n\n\n\n\nClick here for redirect to Canva slide deck."
   },
   {
     "objectID": "slides/conbio/3-5_3-6_community_ecosystem_diversity.html#section",

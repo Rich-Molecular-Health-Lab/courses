@@ -1,5 +1,5 @@
 project:
-  output-dir: "to_print"
+  output-dir: "docs/handouts"
   execute-dir: project
   render:
     - handouts/*.qmd
