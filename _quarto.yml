@@ -19,6 +19,7 @@ execute:
   freeze: auto
 
 website:
+  open-graph: true
   title: "Course Information"
   favicon: images/logo_richlab.png
   description: "Courses at UNO taught by Dr. Alicia Rich"
@@ -65,16 +66,13 @@ format:
     toc-depth: 4
     toc-location: left
     toc-title: "Contents"
-    theme:
-      - yeti
-    page-layout: article
-    css:
-      - styles/yeti.css
-      - styles/fonts.css
-      - styles/headings.css
+    theme: flatly
+    css: styles/schedule.css
+    page-layout: full
     smooth-scroll: true
     include-in-header:
       - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&family=Cabin+Condensed:wght@400;500;600;700&family=Yaldevi:wght@200..700&display=swap" rel="stylesheet">

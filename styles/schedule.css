@@ -1,0 +1,56 @@
+.dnoclass {
+  font-weight: lighter;
+  font-style: oblique;
+  color: #7b8a8b;
+  border-color: #7b8a8b;
+  background-color: #ecf0f1;
+  border-style: inset;
+  border-width: 1px 0px 1px 4px;
+}
+
+.dexam {
+  font-weight: bolder;
+  color: #613e07;
+  border-color: #f5b041;
+  background-color: #f5b0411A;
+  border-width: 1px 0px 1px 4px;
+  border-style: groove none hidden groove;
+}
+
+
+.d1 {
+  border-color: #566573;
+  border-width: 1px 0px 1px 4px;
+  border-style: outset none hidden hidden;
+}
+
+.d2 {
+  border-color: #bdc0c1;
+  border-width: 1px 0px 1px 4px;
+  border-style: outset none solid hidden;
+}
+
+.case {
+  color: #fff;
+  background-color: #18bc9c;
+  font-weight: bold;
+  border: 1px outset #fff;
+  font-variant: small-caps;
+}
+
+.film {
+  color: #fff;
+  background-color: #3498db;
+  font-weight: bold;
+  border: 1px outset #fff;
+  font-variant: small-caps;
+}
+
+
+.exam {
+  font-variant: small-caps;
+}
+
+.normal {
+  font-weight: normal;
+}

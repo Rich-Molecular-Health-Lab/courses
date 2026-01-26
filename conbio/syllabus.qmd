@@ -6,7 +6,7 @@ freeze: true
 params:
   course: "conbio_26s"
 execute:
-  freeze: auto
+  freeze: true
 ---
 
 ```{r}

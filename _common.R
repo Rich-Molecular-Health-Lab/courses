@@ -14,6 +14,7 @@ library(quarto)
 library(reactable)
 library(reactablefmtr)
 library(tippy)
+library(vvcanvas)
 
 conflicts_prefer(dplyr::filter)
 conflicts_prefer(DT::dataTableOutput)
