@@ -89,7 +89,6 @@ readings <- list(
 
 films <- list(
   "Extinction"                 = list(title = "Human Footprint: Vanishing Act (S2E6)", url = "https://www.pbs.org/show/human-footprint/"),
-  "Habitat Loss, Fragmentation, and Degradation" = list(title = "The Territory", url = "https://films.nationalgeographic.com/the-territory"),
   "Invasive Alien Species"     = list(title = "Human Footprint: Strangers in Paradise (S1E1)", url = "https://www.pbs.org/video/strangers-in-paradise-sd5mkz/"),
   "Climate Change"             = list(title = "Dynamic Planet: Earth (S1E4)", url = "https://www.pbs.org/show/dynamic-planet/"),
   "Landscape-Scale Approaches" = list(title = "Nature: Running with the Beest", url = "https://www.pbs.org/wnet/nature/about-running-with-the-beest/27769/")
