@@ -268,6 +268,12 @@ Polymorphism
 
 ## Measures of Genetic Diversity
 
+:::{.callout}
+
+Run through this example from your textbook on your own to make sure you understand what these metrics represent.
+
+:::
+
 :::{.img-frame}
 
 ![](figures/Ch03/c03fig003.jpg)
@@ -287,17 +293,8 @@ This example shows how to calculate polymorphism and heterozygosity of a hypothe
 
 ## Application in Conservation Genetics
 
+<iframe width="900" height="500" src="https://www.youtube.com/embed/oFQmNq8sJ2Y?si=CsFIbCXUJM1_q_UT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-:::{.img-frame}
-
-<iframe width="800" height="450"
-  src="https://www.youtube.com/embed/oFQmNq8sJ2Y?cc_load_policy=1&cc_lang_pref=en"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
-:::
 
 
 ## 3.3 Species Diversity
