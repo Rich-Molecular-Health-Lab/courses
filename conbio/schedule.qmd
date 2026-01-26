@@ -3,7 +3,8 @@ date: "January 11, 2026"
 format: 
   html:
     toc: false
-    theme: lux
+    theme: flatly
+    css: ../styles/schedule.css
 image: "figures/course_header.png"
 params:
   course: "conbio_26s"
@@ -88,14 +89,17 @@ readings <- list(
 #| include: false
 
 films <- list(
-  "Extinction"                 = list(title = "Human Footprint: Vanishing Act (S2E6)", url = "https://www.pbs.org/show/human-footprint/"),
-  "Invasive Alien Species"     = list(title = "Human Footprint: Strangers in Paradise (S1E1)", url = "https://www.pbs.org/video/strangers-in-paradise-sd5mkz/"),
-  "Climate Change"             = list(title = "Dynamic Planet: Earth (S1E4)", url = "https://www.pbs.org/show/dynamic-planet/"),
-  "Landscape-Scale Approaches" = list(title = "Nature: Running with the Beest", url = "https://www.pbs.org/wnet/nature/about-running-with-the-beest/27769/")
+  "Extinction"                 = list(title = "Human Footprint: Vanishing Act (S2E6)", url = "films/human_footprint_s2e6.html"),
+  "Invasive Alien Species"     = list(title = "Human Footprint: Strangers in Paradise (S1E1)", url = "films/human_footprint_s1e1.html"),
+  "Climate Change"             = list(title = "Evolution Earth: Ice (S1E4)", url = "films/evolution_earth_s1e4.html"),
+  "Landscape-Scale Approaches" = list(title = "Nature: Running with the Beest", url = "films/nature_s41e1.qmd")
 ) %>%
   enframe(name = "topic") %>%
   unnest_wider("value") %>%
-  rename(film = title)
+  rename(film = title) %>%
+  mutate(url = if_else(str_starts(url, "films/"), as.character(str_glue(
+    "https://rich-molecular-health-lab.github.io/courses/{url}"
+    )), url))
 ```
 
 
@@ -216,16 +220,15 @@ schedule_data <- list(
   "Biodiversity Concepts & Measurement"          = list("W3D1", "W3D2"),
   "Extinction"                                   = list("W4D1", "W4D2"),
   "Habitat Loss, Fragmentation, and Degradation" = list("W5D1", "W5D2", "W6D1"),
-  "Overexploitation"                             = list("W6D2", "W7D1"),
-  "Invasive Alien Species"                       = list("W7D2", "W8D2"),
+  "Overexploitation"                             = list("W6D2", "W7D1", "W7D2"),
   "Exam 1"                                       = list("W8D1"),
-  "Climate Change"                               = list("W9D1", "W9D2"),
+  "Invasive Alien Species"                       = list("W8D2", "W9D1"),
+  "Climate Change"                               = list("W9D2", "W11D1", "W11D2"),
   "Spring Break"                                 = list("W10D1", "W10D2"),
-  "Ex Situ Conservation"                         = list("W11D1", "W11D2"),
-  "Species-Level Approaches"                     = list("W12D1", "W12D2", "W13D1"),
-  "Community & Ecosystem Approaches"             = list("W13D2", "W14D1", "W14D2"),
-  "Landscape-Scale Approaches"                   = list("W15D1", "W15D2", "W16D1"),
-  "Review"                                       = list("W16D2"),
+  "Ex Situ Conservation"                         = list("W12D1", "W12D2"),
+  "Species-Level Approaches"                     = list("W13D1", "W13D2"),
+  "Community & Ecosystem Approaches"             = list("W14D1", "W14D2", "W15D1"),
+  "Landscape-Scale Approaches"                   = list("W15D2", "W16D1", "W16D2"),
   "Final Exam"                                   = list("W17D1")
 ) %>%
   enframe(name = "topic") %>%

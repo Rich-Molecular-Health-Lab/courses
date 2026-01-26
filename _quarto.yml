@@ -8,6 +8,7 @@ project:
     - hhe/index.qmd
     - conbio_slides.qmd
     - bio2lab_slides.qmd
+    - films/*.qmd
     - slides/conbio/*.qmd
     - slides/bio2lab/*.qmd
     - resources/conbio/*.qmd
@@ -67,7 +68,6 @@ format:
     toc-location: left
     toc-title: "Contents"
     theme: flatly
-    css: styles/schedule.css
     page-layout: full
     smooth-scroll: true
     include-in-header:

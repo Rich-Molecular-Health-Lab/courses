@@ -1,0 +1,10 @@
+execute:
+  freeze: auto
+
+subtitle: "Film Transcript"
+image: "figures/course_header.png"
+
+format:
+  html:
+    theme: flatly
+    toc: true
