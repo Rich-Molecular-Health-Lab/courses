@@ -11,7 +11,7 @@ project:
     - films/*.qmd
     - slides/conbio/*.qmd
     - slides/bio2lab/*.qmd
-    - resources/conbio/*.qmd
+    - resources/conbio/*/*.qmd
     - resources/bio2lab/*.qmd
     - conbio/schedule.qmd
     - conbio/syllabus.qmd

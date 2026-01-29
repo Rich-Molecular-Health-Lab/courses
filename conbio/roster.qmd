@@ -1,0 +1,41 @@
+---
+title: "Student Roster"
+params:
+  course: conbio
+  canvas_id: 96266
+---
+
+```{r}
+#| context: setup
+
+here::i_am("conbio/roster.qmd")
+
+source(here::here("_common.R"))
+```
+
+```{r}
+roster <- get_course_students(my_canvas, params$canvas_id) %>%
+  filter(name != "Test Student") %>%
+  separate_wider_delim(sortable_name, ", ", names = c("last", "first_official")) %>%
+  mutate(first = case_match(
+    last,
+    "Bradley" ~ "E.",
+    "Dillon"  ~ "Sam",
+    .default = first_official
+  )) %>%
+  mutate(
+    name = as.character(str_glue("{first} {last}"))
+  ) %>%
+  select(
+    last,
+    name,
+    login_id,
+    sis_user_id,
+    id,
+    first_official
+  ) %>%
+  arrange(last)
+
+save(roster, file = here(params$course, "roster.RData"))
+```
+

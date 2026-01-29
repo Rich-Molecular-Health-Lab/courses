@@ -52,6 +52,7 @@ blank_schedule  <- as.list(seq.Date(
   arrange(Date) %>%
   bind_rows(finals)
 
+save(blank_schedule, file = here(course_short, "blank_schedule.RData"))
 ```
 
 ```{r}
@@ -192,6 +193,8 @@ case_convos <- list(
     case = topic,
     leaders
   )
+
+save(case_convos, file = here("resources", course_short, "case_convos", "case_convos.RData"))
 ```
 
 
@@ -278,6 +281,8 @@ schedule_data <- list(
     detail,
     row
   )
+
+save(schedule_data, file = here(course_short, "schedule_data.RData"))
 ```
 
 ## Course Schedule

@@ -8,16 +8,43 @@ You are encouraged (but not required) to select cases from the sources below. Th
 
 You do **not** need to ask for approval if your case comes from one of these hubs.
 
-### Zoo & Ex Situ–Linked Conservation Programs
+### Assorted Materials
 
-AZA SAFE (Saving Animals From Extinction) Species Programs
-: * Species action plans and program summaries
-: * Strong alignment with One Plan thinking
-: * Clear goals, partners, and constraints
+:::{.callout-note}
 
-Zoo-Based Conservation Program Pages
-: * Many accredited zoos publish conservation initiative summaries
-: * Often include education, fieldwork, and captive management components
+The following sites contain resources that may be useful for identifying case studies that you want to investigate further.
+
+:::
+
+- [HHMI Biointeractive](https://www.biointeractive.org/classroom-resources)
+- [PBS Nature Series](https://www.pbs.org/wnet/nature/)
+- [Waterbear](https://waterbear.com/)
+- [Nonprofit Association of the Midlands](https://www.nonprofitam.org/)
+- [Wildlabs](https://wildlabs.net/)
+
+### Projects and Organizations
+
+- [Conservation Drones](https://conservationdrones.org/)
+- [World Weather Attribution](https://www.worldweatherattribution.org/)
+- [Natural Resources Defense Council](https://www.nrdc.org/)
+- [Living Planet Index](https://www.livingplanetindex.org/)
+- [AZA SAFE (Saving Animals From Extinction) Species Programs](https://www.aza.org/aza-safe)
+
+#### Omaha Local
+
+- [Fontenelle Forest](https://fontenelleforest.org/)
+- [Lauritzen Gardens](https://www.lauritzengardens.org/)
+
+### Citizen Science
+
+- [Zooniverse](https://www.zooniverse.org/)
+- [iNaturalist](https://www.inaturalist.org/)
+- [Association for Advancing Participatory Sciences](https://participatorysciences.org/)
+
+### Funders or Crowd Sources
+
+- [SciStarter](https://scistarter.org/)
+
 
 ### Government Recovery & Management Plans
 
@@ -30,6 +57,11 @@ State Wildlife Agency Conservation Programs
 : * Species of Greatest Conservation Need (SGCN) plans
 : * Habitat restoration or corridor projects
 
+#### Links to Agencies
+
+- [NASA Climate Change](https://science.nasa.gov/climate-change/)
+- [EPA (Environmental Protection Agency)](https://www.epa.gov/)
+
 ### International & NGO Conservation Initiatives
 
 IUCN Red List & Species Action Plans
@@ -37,9 +69,10 @@ IUCN Red List & Species Action Plans
 : * Conservation actions and research needs
 
 Major Conservation NGOs
-: * World Wildlife Fund (WWF)
-: * Wildlife Conservation Society (WCS)
-: * Conservation International (CI)
+: * [IUCN (*International Union for Conservation of Nature*)](https://iucn.org/)
+: * [World Wildlife Fund (WWF)](https://www.worldwildlife.org/)
+: * [Wildlife Conservation Society (WCS)](https://www.wcs.org/)
+: * [Conservation International (CI)](https://www.conservation.org/)
 
 ### Habitat Protection, Restoration & Connectivity Projects
 

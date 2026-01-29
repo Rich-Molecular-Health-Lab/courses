@@ -1,0 +1,166 @@
+---
+title: "Guided Case Conversation Schedule"
+params:
+  course: conbio
+  canvas_id: 96266
+format:
+  html:
+    theme: sandstone
+---
+
+```{r}
+#| context: setup
+#| include: false
+
+here::i_am("resources/conbio/case_convos/groups.qmd")
+
+source(here::here("_common.R"))
+source(here("resources/conbio/case_convos/helpers.R"))
+
+load(here(params$course, "roster.RData"))
+load(here(params$course, "blank_schedule.RData"))
+load(here("resources", params$course, "case_convos", "case_convos.RData"))
+```
+
+```{r}
+#| context: data
+#| include: false
+
+groups <- get_course_groups(my_canvas, params$canvas_id) %>%
+    select(
+      group_id   = id,
+      group_name = name,
+      group_category_id,
+      max_membership,
+      members_count,
+      has_submission
+    ) %>%
+  group_by(group_id) %>%
+  group_split() %>%
+  set_names(map(., \(x) first(x$group_id))) %>%
+  imap(\(x, idx) tibble(
+    members        = pull(
+      get_group_users(my_canvas, idx),
+      sortable_name
+      ),
+    group_name     = first(x$group_name),
+    group_category = first(x$group_category_id),
+    members_count  = first(x$members_count),
+    has_submission = first(x$has_submission)
+    )) %>%
+  list_rbind(names_to = "group_id") %>%
+  separate_wider_delim(group_name, ": ", names = c("case_num", "case")) %>%
+  separate_wider_delim(members, ", ", names = c("member_last", "member_first")) %>%
+  select(-member_first) %>%
+  left_join(case_convos, by = "case")  %>%
+  left_join(blank_schedule, by = c("Week", "Day")) %>%
+  left_join(roster, by = join_by(member_last == last), relationship = "many-to-many") %>%
+  mutate(Date = format(Date, "%a, %b %d")) %>%
+  select(
+    case_id,
+    Week,
+    Date,
+    case,
+    member       = name,
+    member_email = login_id,
+    group_id,
+    members_count
+  ) %>%
+  distinct() %>%
+  group_by(
+    case_id,
+    Week,
+    Date,
+    case,
+    group_id,
+    members_count
+  ) %>%
+  summarize(leaders = list(unique(member)))
+  
+```
+
+```{r}
+
+group_leaders <- function() {
+  JS("
+    function(rowInfo) {
+      const leadersWrapped = rowInfo.values.leaders;
+
+      const leaders =
+        (leadersWrapped && leadersWrapped.value !== undefined)
+          ? leadersWrapped.value
+          : (leadersWrapped || []);
+
+      const leaderArray = Array.isArray(leaders) ? leaders : [leaders];
+
+      const items = leaderArray.map((item, index) =>
+        React.createElement(
+          'li',
+          { key: index, className: 'list-group-item text-muted mx-1 border-0' },
+          String(item)
+        )
+      );
+
+      return React.createElement(
+        'ul',
+        { className: 'list-group list-group-horizontal list-group-flush border border-light mx-5 mt-1 mb-5 p-0' },
+        items
+      );
+    }
+  ")
+}
+
+cell_wbadge <- function(badge_col, badge_prefix = "") {
+  JS(sprintf("
+    function(cellInfo) {
+      const row = cellInfo.row;
+      const badgeVal = row.%s;
+      const string  = cellInfo.value;
+
+      return React.createElement(
+        'button',
+        { className: 'btn btn-bg-primary btn-sm btn-block justify-content-around align-items-start' },
+        React.createElement(
+          'span',
+          { className: 'badge outline-primary rounded-pill me-2' },
+          '%s' + String(badgeVal)
+        ),
+        React.createElement('span', null, string)
+      );
+    }
+  ", badge_col, badge_prefix))
+}
+
+badge_cell <- function(badge_prefix = "", badge_class = "secondary") {
+  JS(sprintf("
+    function(cellInfo) {
+      const badgeVal = cellInfo.value;
+
+      return React.createElement(
+          'badge',
+          { className: 'badge bg-%s rounded-pill me-1' },
+          '%s' + String(badgeVal)
+      );
+    }
+  ", badge_class, badge_prefix))
+}
+
+
+reactable(
+  groups,
+  theme           = sandstone(),
+  defaultExpanded = TRUE,
+  defaultColDef   = colDef(align = "left"),
+  columns = list(
+    case_id       = colDef("No." , maxWidth = 50, html = TRUE, cell = badge_cell()),
+    Date          = colDef("Date", maxWidth = 250),
+    case          = colDef("Topic"),
+    leaders       = colDef(show = FALSE),
+    Week          = colDef(show = FALSE),
+    group_id      = colDef(show = FALSE),
+    members_count = colDef(show = FALSE)
+  ), 
+  details = group_leaders()
+)
+```
+

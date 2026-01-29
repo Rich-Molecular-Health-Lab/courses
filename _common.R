@@ -40,4 +40,5 @@ knitr::opts_chunk$set(message = FALSE,
                       eval    = TRUE,
                       comment = "")
 
+my_canvas <- canvas_authenticate("9322~r3LXarauFhUWw3caMNXPcxAn6QMceLvPrvQ4Bc9ZuvmVw696k23eCe3Y7GEQzrmt", "https://unomaha.instructure.com")
 
