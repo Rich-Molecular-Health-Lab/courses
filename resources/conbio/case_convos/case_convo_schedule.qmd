@@ -7,7 +7,7 @@ format: docx
 #| context: setup
 #| include: false
 
-here::i_am("handouts/conbio_case_studies/case_convo_schedule.qmd")
+here::i_am("resources/conbio/case_convos/case_convo_schedule.qmd")
 source(here::here("_common.R"))
 course_short <- "conbio"
 semester     <- "26s"

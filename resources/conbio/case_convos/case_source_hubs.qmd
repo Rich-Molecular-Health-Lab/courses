@@ -3,104 +3,127 @@ title: "Approved Case Source Hubs for Guided Case Conversations"
 format: html
 ---
 
+## Using This List
 
-You are encouraged (but not required) to select cases from the sources below. These sources provide **real, publicly documented conservation actions** with clearly stated goals, constraints, and outcomes.
+You are encouraged (but not required) to select your case study from the approved source hubs below. These sites document real conservation actions with clearly stated goals, constraints, stakeholders, and outcomes.
 
-You do **not** need to ask for approval if your case comes from one of these hubs.
+* No additional approval is required if your case comes from one of these hubs.
+* Your case may focus on a species, ecosystem, place, program, or policy decision.
+* Strong cases make it possible to explain *what problem existed*, *what actions were taken*, and *what trade offs or outcomes followed*.
 
-### Assorted Materials
+## Curated Case & Media Libraries
 
-:::{.callout-note}
+These sites aggregate well-documented conservation stories suitable for case analysis.
 
-The following sites contain resources that may be useful for identifying case studies that you want to investigate further.
+HHMI BioInteractive
+: Classroom-ready conservation cases and data-driven activities
+: [https://www.biointeractive.org/classroom-resources](https://www.biointeractive.org/classroom-resources)
 
-:::
+PBS Nature
+: Documentary episodes highlighting conservation decision-making and ecological tradeoffs
+: [https://www.pbs.org/wnet/nature/](https://www.pbs.org/wnet/nature/)
 
-- [HHMI Biointeractive](https://www.biointeractive.org/classroom-resources)
-- [PBS Nature Series](https://www.pbs.org/wnet/nature/)
-- [Waterbear](https://waterbear.com/)
-- [Nonprofit Association of the Midlands](https://www.nonprofitam.org/)
-- [Wildlabs](https://wildlabs.net/)
+WaterBear
+: Short-form documentaries focused on environmental and conservation action
+: [https://waterbear.com/](https://waterbear.com/)
 
-### Projects and Organizations
+## Applied Conservation Programs & Organizations
 
-- [Conservation Drones](https://conservationdrones.org/)
-- [World Weather Attribution](https://www.worldweatherattribution.org/)
-- [Natural Resources Defense Council](https://www.nrdc.org/)
-- [Living Planet Index](https://www.livingplanetindex.org/)
-- [AZA SAFE (Saving Animals From Extinction) Species Programs](https://www.aza.org/aza-safe)
+These organizations implement on-the-ground conservation actions and publish project descriptions, reports, or outcomes.
 
-#### Omaha Local
+AZA SAFE (Saving Animals From Extinction)
+: Species-focused conservation programs
+: [https://www.aza.org/aza-safe](https://www.aza.org/aza-safe)
 
-- [Fontenelle Forest](https://fontenelleforest.org/)
-- [Lauritzen Gardens](https://www.lauritzengardens.org/)
+Conservation Drones :Technology-driven wildlife monitoring and protection projects
+: [https://conservationdrones.org/](https://conservationdrones.org/)
 
-### Citizen Science
+Conservation Corridor Projects :Landscape connectivity and corridor initiatives
+: [https://conservationcorridor.org/](https://conservationcorridor.org/)
 
-- [Zooniverse](https://www.zooniverse.org/)
-- [iNaturalist](https://www.inaturalist.org/)
-- [Association for Advancing Participatory Sciences](https://participatorysciences.org/)
+Natural Resources Defense Council (NRDC) 
+:  Policy-based conservation campaigns and litigation
+: [https://www.nrdc.org/](https://www.nrdc.org/)
 
-### Funders or Crowd Sources
+World Weather Attribution 
+: Climate attribution science applied to real-world impacts
+: [https://www.worldweatherattribution.org/](https://www.worldweatherattribution.org/)
 
-- [SciStarter](https://scistarter.org/)
+Living Planet Index 
+: Global biodiversity trends used to guide conservation priorities
+: [https://www.livingplanetindex.org/](https://www.livingplanetindex.org/)
 
+## Citizen Science & Participatory Conservation
 
-### Government Recovery & Management Plans
+These platforms support conservation through public participation, monitoring, and community engagement.
 
-U.S. Fish & Wildlife Service (USFWS)
-: * Species recovery plans
-: * Critical habitat designations
-: * Reintroduction and management actions
+iNaturalist 
+: Biodiversity observations used in research and management
+: [https://www.inaturalist.org/](https://www.inaturalist.org/)
 
-State Wildlife Agency Conservation Programs
-: * Species of Greatest Conservation Need (SGCN) plans
-: * Habitat restoration or corridor projects
+Zooniverse 
+: Crowd-sourced research projects in ecology and conservation
+: [https://www.zooniverse.org/](https://www.zooniverse.org/)
 
-#### Links to Agencies
+Association for Advancing Participatory Sciences 
+: Community-engaged science initiatives
+: [https://participatorysciences.org/](https://participatorysciences.org/)
 
-- [NASA Climate Change](https://science.nasa.gov/climate-change/)
-- [EPA (Environmental Protection Agency)](https://www.epa.gov/)
+SciStarter 
+: Directory of citizen science projects and programs
+: [https://scistarter.org/](https://scistarter.org/)
 
-### International & NGO Conservation Initiatives
+## Government Conservation & Management Plans
 
-IUCN Red List & Species Action Plans
-: * Threat prioritization
-: * Conservation actions and research needs
+Government agencies publish detailed plans that explicitly link science, policy, and management.
 
-Major Conservation NGOs
-: * [IUCN (*International Union for Conservation of Nature*)](https://iucn.org/)
-: * [World Wildlife Fund (WWF)](https://www.worldwildlife.org/)
-: * [Wildlife Conservation Society (WCS)](https://www.wcs.org/)
-: * [Conservation International (CI)](https://www.conservation.org/)
+U.S. Fish & Wildlife Service (USFWS) 
+: Species recovery plans, critical habitat designations, reintroduction efforts
+: [https://www.fws.gov/](https://www.fws.gov/)
 
-### Habitat Protection, Restoration & Connectivity Projects
+State Wildlife Agencies 
+: Species of Greatest Conservation Need (SGCN) plans and habitat projects
 
-Protected Area Creation or Expansion
-: * National parks, reserves, marine protected areas
+NASA Climate Change 
+: Climate science relevant to conservation and resource management
+: [https://science.nasa.gov/climate-change/](https://science.nasa.gov/climate-change/)
 
-Habitat Restoration Projects
-: * Wetlands, forests, coral reefs
+U.S. Environmental Protection Agency (EPA) 
+: Environmental regulation, restoration, and risk assessment
+: [https://www.epa.gov/](https://www.epa.gov/)
 
-Connectivity & Corridor Initiatives
-: * Wildlife crossings
-: * Landscape-scale planning
+## International & NGO-Led Conservation Initiatives
 
-### Community-Based & Human–Wildlife Conflict Projects
+These organizations operate globally and provide well-documented conservation strategies and evaluations.
 
-Community-Based Conservation Programs
-: * Co-management agreements
-: * Indigenous-led conservation initiatives
+IUCN (International Union for Conservation of Nature) 
+: Red List assessments and Species Action Plans
+: [https://iucn.org/](https://iucn.org/)
 
-Human–Wildlife Conflict Mitigation
-: * Compensation programs
-: * Non-lethal deterrents
-: * Land-use planning
+World Wildlife Fund (WWF) 
+: Species, ecosystem, and policy-based conservation programs
+: [https://www.worldwildlife.org/](https://www.worldwildlife.org/)
 
-### Optional: Primary Literature (Use Selectively)
+Wildlife Conservation Society (WCS) 
+: Field-based conservation and applied research
+: [https://www.wcs.org/](https://www.wcs.org/)
 
-Primary research articles may be used **if** they:
-: * directly inform a management decision or action
-: * include explicit discussion of conservation outcomes
+Conservation International (CI) 
+: Biodiversity protection linked to human well-being
+: [https://www.conservation.org/](https://www.conservation.org/)
 
-Primary literature is **not required** and should not be the sole source.
+## Community-Based Conservation & Human–Wildlife Conflict
+
+These cases emphasize social, cultural, and economic dimensions of conservation.
+
+* Community-based or co-management conservation programs
+* Indigenous-led conservation initiatives
+* Human–wildlife conflict mitigation (compensation programs, non-lethal deterrents, land-use planning)
+
+## Optional: Primary Literature (Use Selectively)
+
+Primary research articles may be used only if they:
+: * Directly inform a conservation or management decision
+: * Explicitly discuss outcomes, trade offs, or implementation challenges
+
+*Primary literature is not required and should not be your sole source.*
