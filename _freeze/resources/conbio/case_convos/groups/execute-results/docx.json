@@ -1,0 +1,17 @@
+{
+  "hash": "ce45fd649eb821cf94d21f6da83be0ca",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Guided Case Conversation Schedule\"\nparams:\n  course: conbio\n  canvas_id: 96266\nformat:\n  html:\n    theme: sandstone\n---\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](groups_files/figure-docx/unnamed-chunk-3-1.png)\n:::\n:::\n\n\n",
+    "supporting": [
+      "groups_files/figure-docx"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}
