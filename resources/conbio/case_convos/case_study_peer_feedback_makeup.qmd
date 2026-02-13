@@ -1,0 +1,126 @@
+---
+title: "Guided Case Conversation – Makeup Engagement Worksheet"
+format: 
+  pdf:
+    documentclass: article
+    geometry:
+      - top=1in
+      - left=1in
+---
+
+
+**Your name:**_________________________  **Date:** _____________________________
+
+Instructions:
+: If you were absent on a Guided Case Conversation day, complete this handwritten worksheet after reviewing the case materials provided by Dr. Rich.
+: - Answer each prompt in 2–4 sentences.
+: - Responses must be handwritten.
+: - Submit at the beginning of class on the day you return or within a week of when you recieve these makeup materials.
+
+## Conservation Decision:
+
+A.  What conservation action was taken or proposed?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+B.  What problem or threat was it addressing?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+C.  Who made or implemented the decision?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+
+## Threats & Metrics:
+
+A.  Identify one metric, indicator, or proxy used to assess threats, progress, or success.
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+B.  What type of metric was it (ecological, demographic, social, economic, policy)?
+  
+\noindent\rule{15cm}{0.4pt}
+
+C.  What is one strength and one limitation of this metric?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+## SMART Goal Evaluation:
+
+A.  Identify one major goal from the project.
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+B.  Was it:
+
+- []  **S**pecific
+- []  **M**easurable
+- []  **A**chievable
+- []  **R**elevant
+- []  **T**ime-bound
+
+C.  Where did it fall short (if at all)?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+## Ethical or Social Tradeoffs:
+
+A.  Identify one ethical, social, or equity-related issue raised by the case.
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+B.  Who benefited most?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+C.  Who bore costs or risks?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+D.  Whose perspectives may have been missing?
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+## Critical Reflection: Identify one of each below, and explain your reasoning using at least one course concept.
+
+A.  Uncertainty
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+B.  Potential unintended consequence
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+C.  Alternative strategy
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
