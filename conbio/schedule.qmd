@@ -91,7 +91,6 @@ readings <- list(
 
 films <- list(
   "Extinction"                 = list(title = "Human Footprint: Vanishing Act (S2E6)", url = "films/human_footprint_s2e6.html"),
-  "Invasive Alien Species"     = list(title = "Human Footprint: Strangers in Paradise (S1E1)", url = "films/human_footprint_s1e1.html"),
   "Climate Change"             = list(title = "Evolution Earth: Ice (S1E4)", url = "films/evolution_earth_s1e4.html"),
   "Landscape-Scale Approaches" = list(title = "Nature: Running with the Beest", url = "films/nature_s41e1.qmd")
 ) %>%
@@ -165,6 +164,11 @@ case_convos <- list(
     day   = "W12D2",
     leaders = c("Amanda Fagan", "Litzy Jaime", "Chloe Miller", "Joel Miller")
   ),
+  "Case Conversation 9" = list(
+    topic = "Species-Level Approaches or Ex-Situ Conservation",
+    day   = "W13D2",
+    leaders = c("Quinton Vieyra")
+  ),
   "Case Conversation 7" = list(
     topic = "Community & Ecosystem Approaches",
     day   = "W14D2",
@@ -222,16 +226,16 @@ schedule_data <- list(
   "Holiday"                                      = list("W2D1"),
   "Biodiversity Concepts & Measurement"          = list("W3D1", "W3D2", "W4D1", "W4D2"),
   "Extinction"                                   = list("W5D1", "W5D2", "W6D1"),
-  "Habitat Loss, Fragmentation, and Degradation" = list("W6D2", "W7D1", "W7D2"),
+  "Habitat Loss, Fragmentation, and Degradation" = list("W6D2", "W7D1", "W7D2", "W8D2", "W9D1"),
   "Exam 1"                                       = list("W8D1"),
-  "Overexploitation"                             = list("W8D2", "W9D1"),
-  "Invasive Alien Species"                       = list("W9D2"),
+  "Overexploitation"                             = list("W9D2", "W11D1"),
   "Spring Break"                                 = list("W10D1", "W10D2"),
-  "Climate Change"                               = list("W11D1", "W11D2"),
-  "Ex Situ Conservation"                         = list("W12D1", "W12D2"),
-  "Species-Level Approaches"                     = list("W13D1", "W13D2", "W14D1"),
-  "Community & Ecosystem Approaches"             = list("W14D2", "W15D1"),
-  "Landscape-Scale Approaches"                   = list("W15D2", "W16D1", "W16D2"),
+  "Invasive Alien Species"                       = list("W11D2"),
+  "Climate Change"                               = list("W12D1", "W12D2"),
+  "Ex Situ Conservation"                         = list("W13D1", "W13D2"),
+  "Species-Level Approaches"                     = list("W14D1", "W14D2"),
+  "Community & Ecosystem Approaches"             = list("W15D1", "W15D2"),
+  "Landscape-Scale Approaches"                   = list("W16D1", "W16D2"),
   "Final Exam"                                   = list("W17D1")
 ) %>%
   enframe(name = "topic") %>%
