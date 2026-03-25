@@ -1,0 +1,214 @@
+---
+title: "Fishing for Sustainability"
+subtitle: "Assignment Submission"
+date: today
+format:
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+execute:
+  echo: false
+---
+
+**Name:**_________________________
+
+>Each person should submit their own copy of this handout at the end of class for today's completion credit.
+
+## Round 1: Open Access
+
+### Data Table
+
+```{r}
+knitr::kable(
+  data.frame(
+    Item = c(
+      "Your catch",
+      "Total class catch",
+      "Fish remaining after harvest",
+      "Fish after reproduction (doubled, max 30)"
+    ),
+    Value = c("", "", "", "")
+  ),
+  booktabs = FALSE,
+  align = c("l", "l")
+)
+```
+
+
+### Reflection
+
+\bigskip
+
+(@) Based on what happened, is this situation a **social dilemma**? Explain briefly.
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+\bigskip
+
+(@) In one sentence, explain how Round 1 illustrates the **Tragedy of the Commons** (focus on individual incentives vs. group outcomes).
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+{{< pagebreak >}}
+
+## Round 2: Fixed Quota
+
+### Data Table
+
+```{r}
+knitr::kable(
+  data.frame(
+    Item = c(
+      "Agreed class quota",
+      "Your catch",
+      "Total class catch",
+      "Fish remaining after harvest",
+      "Fish after reproduction (doubled, max 30)"
+    ),
+    Value = c("", "", "", "", "")
+  ),
+  booktabs = FALSE,
+  align = c("l", "l")
+)
+```
+
+
+### Reflection
+
+\bigskip
+
+(@) During the discussion, did the class choose a quota aimed at **maximizing long-term sustainability** or **maximizing short-term catch**?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+\bigskip
+
+(@) How does this round illustrate challenges of **enforcement, trust, or cheating** in managing common-pool resources?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+{{< pagebreak >}}
+
+## Round 3: Fixed Effort
+
+### Data Table
+
+```{r}
+knitr::kable(
+  data.frame(
+    Item = c(
+      "Agreed per-person limit",
+      "Total class catch (limit × 8)",
+      "Fish remaining after harvest",
+      "Fish after reproduction (doubled, max 30)"
+    ),
+    Value = c("", "", "", "")
+  ),
+  booktabs = FALSE,
+  align = c("l", "l")
+)
+```
+
+### Reflection
+
+\bigskip
+
+(@) Was it easier to comply with this rule compared to the quota in Round 2? Why or why not?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+\bigskip
+
+(@) How does this round reduce (or fail to reduce) the **social dilemma** you experienced earlier?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+
+{{< pagebreak >}}
+
+## Synthesis
+
+### Data Overview
+
+```{r}
+knitr::kable(
+  data.frame(
+    Round = c("1", "2", "3"),
+    Strategy = c("Open Access", "Fixed Quota", "Fixed Effort"),
+    `Total Catch` = c("", "", ""),
+    `Fish Remaining After Harvest` = c("", "", ""),
+    `Fish After Reproduction` = c("", "", "")
+  ),
+  booktabs = FALSE,
+  align = c("c", "l", "l", "l", "l")
+)
+```
+
+
+## Synthesis Questions
+
+\bigskip
+
+(@) Looking at your data, which round left the fish population **closest to the midpoint (~15 fish)** after harvest? Why does leaving the population near this level tend to produce the **highest sustainable yield over time**?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+\bigskip
+
+(@) For each strategy, give **one advantage and one drawback** based on your experience:
+
+  - Open Access:
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+  - Fixed Quota:
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+  - Fixed Effort (Per-Person Limit):
+  
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+\bigskip
+
+(@) Which round depended most on **trust** between individuals? Which round relied most on **enforcement**? Why are these factors so important in managing real-world common-pool resources?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+\bigskip
+
+(@) If you were managing a real fishery, which strategy (or combination of strategies) would you recommend?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+
+\bigskip
+
+(@) Name **two specific actions** you would implement in your strategy from the previous question (e.g., monitoring, enforcement, adaptive limits, stakeholder involvement).
+
+\bigskip
+
+(@) Give one example of another **common-pool resource** (e.g., groundwater, forests, wildlife, carbon emissions). Which management approach from this activity might work best there—and why?
+
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
+\noindent\rule{15cm}{0.4pt}
