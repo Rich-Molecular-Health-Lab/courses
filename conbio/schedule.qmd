@@ -228,14 +228,14 @@ schedule_data <- list(
   "Extinction"                                   = list("W5D1", "W5D2", "W6D1"),
   "Habitat Loss, Fragmentation, and Degradation" = list("W6D2", "W7D1", "W7D2", "W8D2", "W9D1"),
   "Exam 1"                                       = list("W8D1"),
-  "Overexploitation"                             = list("W9D2", "W11D1"),
+  "Overexploitation"                             = list("W9D2", "W11D1", "W11D2"),
   "Spring Break"                                 = list("W10D1", "W10D2"),
-  "Invasive Alien Species"                       = list("W11D2"),
-  "Climate Change"                               = list("W12D1", "W12D2"),
-  "Ex Situ Conservation"                         = list("W13D1", "W13D2"),
-  "Species-Level Approaches"                     = list("W14D1", "W14D2"),
-  "Community & Ecosystem Approaches"             = list("W15D1", "W15D2"),
-  "Landscape-Scale Approaches"                   = list("W16D1", "W16D2"),
+  "Invasive Alien Species"                       = list("W12D1", "W12D2"),
+  "Climate Change"                               = list("W13D1", "W13D2", "W14D1"),
+  "Ex Situ Conservation"                         = list("W14D2"),
+  "Species-Level Approaches"                     = list("W15D1", "W15D2"),
+  "Community & Ecosystem Approaches"             = list("W16D1"),
+  "Landscape-Scale Approaches"                   = list("W16D2"),
   "Final Exam"                                   = list("W17D1")
 ) %>%
   enframe(name = "topic") %>%
