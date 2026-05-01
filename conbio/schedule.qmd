@@ -92,7 +92,12 @@ readings <- list(
 films <- list(
   "Extinction"                 = list(title = "Human Footprint: Vanishing Act (S2E6)", url = "films/human_footprint_s2e6.html"),
   "Climate Change"             = list(title = "Evolution Earth: Ice (S1E4)", url = "films/evolution_earth_s1e4.html"),
-  "Landscape-Scale Approaches" = list(title = "Nature: Running with the Beest", url = "films/nature_s41e1.qmd")
+  "Community & Ecosystem Approaches" = list(
+    title = "Nature WILD HOPE: Seabird Sanctuary", url = "films/hature_wildhope_seabirds.html"
+    ),
+  "Landscape-Scale Approaches" = list(
+    title = "Nature WILD HOPE: Road Warriors", url = "films/hature_wildhope_roadwarrior.html"
+    )
 ) %>%
   enframe(name = "topic") %>%
   unnest_wider("value") %>%
@@ -119,7 +124,7 @@ slides <- list(
   "Ex Situ Conservation"                         = "https://www.canva.com/design/DAG_FazNkaM/0BKQycwch8o4O7QIk6WnVA/view?utm_content=DAG_FazNkaM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e2d368ff4",
   "Species-Level Approaches"                     = "https://www.canva.com/design/DAG_FVnmq38/SiEbro-JPcm4SAQzIMAreg/view?utm_content=DAG_FVnmq38&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8ec3e6d54",
   "Community & Ecosystem Approaches"             = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac",
-  "Landscape-Scale Approaches"                   = "https://www.canva.com/design/DAG_FeFF5jE/PmA4uO66UzdWHIPM0hurAQ/view?utm_content=DAG_FeFF5jE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc225bf3f9a"
+  "Landscape-Scale Approaches"                   = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac"
 ) %>%
   enframe(name = "topic", value = "slides") %>%
   unnest("slides") %>%
@@ -232,9 +237,9 @@ schedule_data <- list(
   "Spring Break"                                 = list("W10D1", "W10D2"),
   "Invasive Alien Species"                       = list("W12D1", "W12D2"),
   "Climate Change"                               = list("W13D1", "W13D2", "W14D1"),
-  "Ex Situ Conservation"                         = list("W14D2"),
-  "Species-Level Approaches"                     = list("W15D1", "W15D2"),
-  "Community & Ecosystem Approaches"             = list("W16D1"),
+  "Ex Situ Conservation"                         = list("W14D2", "W15D1", "W15D2"),
+  "Species-Level Approaches"                     = list("W16D1"),
+  "Community & Ecosystem Approaches"             = list("W16D2"),
   "Landscape-Scale Approaches"                   = list("W16D2"),
   "Final Exam"                                   = list("W17D1")
 ) %>%
