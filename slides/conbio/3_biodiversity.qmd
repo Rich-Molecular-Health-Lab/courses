@@ -1,6 +1,6 @@
 ---
 title: "3: Biodiversity Concepts and Measures"
-date: "2026-1-21"
+date: "2026-09-02"
 format: letterbox-revealjs
 image: figures/Ch03/c03fig001.jpg
 ---

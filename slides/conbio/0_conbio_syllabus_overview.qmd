@@ -1,10 +1,10 @@
 ---
 title: "Course Overview"
-date: "2026-1-12"
+date: "2026-08-26"
 format: letterbox-revealjs
 image: figures/course_header.png
 params:
-  course: "conbio_26s"
+  course: "conbio_26f"
 ---
 
 ```{r setup, include = FALSE}
