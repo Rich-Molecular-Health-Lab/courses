@@ -18,12 +18,12 @@ source(here::here("_common.R"))
 
 :::{.columns}
 
-::: {.column width = "40%"}
+::: {.column width="40%"}
 
 ![](figures/course_intro/headshot_rich.png)
 :::
 
-::: {.column width = "60%"}
+::: {.column width="60%"}
 
 - Assistant Professor of Biology
 - Environmental Science Program
@@ -37,7 +37,7 @@ source(here::here("_common.R"))
 
 :::{.columns}
 
-::: {.column width = "60%"}
+::: {.column width="60%"}
 
 ![](figures/course_intro/emails.gif)
 
@@ -128,7 +128,7 @@ If you do not hear back from me after 3 days, then please remind me with another
 
 - **Allwine Hall 413**
 - [Remotely via Zoom](https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu)
-- **Tues 11-1 or Thur 1-2**
+- **Wed-Friday Afternoons**
 
 :::{.callout-note}
 
