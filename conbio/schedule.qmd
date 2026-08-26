@@ -1,5 +1,5 @@
 ---
-date: "January 11, 2026"
+date: "August 26, 2026"
 format: 
   html:
     toc: false
@@ -7,7 +7,7 @@ format:
     css: ../styles/schedule.css
 image: "figures/course_header.png"
 params:
-  course: "conbio_26s"
+  course: "conbio_26f"
 execute:
   freeze: auto
 ---
@@ -70,11 +70,12 @@ readings <- list(
   "Invasive Alien Species"                       = c(11.1, 11.2, 11.4),
   "Exam 1"                                       = c(NA),
   "Climate Change"                               = c(12.1, 12.2, 12.3, 12.4),
-  "Spring Break"                                 = c(NA),
+  "Fall Break"                                   = c(NA),
   "Ex Situ Conservation"                         = c(16.1, 16.2),
   "Species-Level Approaches"                     = c(13.1, 13.2, 13.3, 13.4, 13.5, 13.6),
   "Community & Ecosystem Approaches"             = c(14.1, 14.2, 14.4),
   "Landscape-Scale Approaches"                   = c(15.3, 15.4),
+  "Thanksgiving Break"                           = c(NA),
   "Review"                                       = c(NA),
   "Final Exam"                                   = c(NA)
 ) %>%
@@ -116,15 +117,15 @@ slides <- list(
   "Overview & Syllabus"                          = "slides/conbio/0_conbio_syllabus_overview.html",
   "The Rise of Conservation Biology"             = "slides/conbio/2_contemporary_conservation_biology.html",
   "Biodiversity Concepts & Measurement"          = "slides/conbio/3_biodiversity.html",
-  "Extinction"                                   = "https://www.canva.com/design/DAG_FWkPS2k/FcT30U7YAvgdl97gjVabRg/view?utm_content=DAG_FWkPS2k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60e6bdbe76",
-  "Habitat Loss, Fragmentation, and Degradation" = "https://www.canva.com/design/DAG_FXHWfdo/rrILF8y6y48b2T-rkeeP4A/view?utm_content=DAG_FXHWfdo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h28aa7445d4",
-  "Overexploitation"                             = "https://www.canva.com/design/DAG_FaCg4UM/vYT5p7zoQK7gsVblo2_b1Q/view?utm_content=DAG_FaCg4UM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33332edd57",
-  "Invasive Alien Species"                       = "https://www.canva.com/design/DAG_FYkCMOQ/DnwXNvBTvmuJg1AKG4kvNA/view?utm_content=DAG_FYkCMOQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc6e0ba1510",
-  "Climate Change"                               = "https://www.canva.com/design/DAG_FZYnAxA/vLeMXXSc2IyRejjHiHmSgw/view?utm_content=DAG_FZYnAxA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3381ae972e",
-  "Ex Situ Conservation"                         = "https://www.canva.com/design/DAG_FazNkaM/0BKQycwch8o4O7QIk6WnVA/view?utm_content=DAG_FazNkaM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e2d368ff4",
-  "Species-Level Approaches"                     = "https://www.canva.com/design/DAG_FVnmq38/SiEbro-JPcm4SAQzIMAreg/view?utm_content=DAG_FVnmq38&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8ec3e6d54",
-  "Community & Ecosystem Approaches"             = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac",
-  "Landscape-Scale Approaches"                   = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac"
+  "Extinction"                                   = "",
+  "Habitat Loss, Fragmentation, and Degradation" = "",
+  "Overexploitation"                             = "",
+  "Invasive Alien Species"                       = "",
+  "Climate Change"                               = "",
+  "Ex Situ Conservation"                         = "",
+  "Species-Level Approaches"                     = "",
+  "Community & Ecosystem Approaches"             = "",
+  "Landscape-Scale Approaches"                   = ""
 ) %>%
   enframe(name = "topic", value = "slides") %>%
   unnest("slides") %>%
@@ -142,47 +143,42 @@ case_convos <- list(
   "Case Conversation 1" = list(
     topic   = "Extinction",
     day     = "W4D2",
-    leaders = c("Francesca Kerkhofs", "Zipporah Piper", "Sam Dillon")
+    leaders = c()
   ),
   "Case Conversation 2" = list(
     topic = "Habitat Loss, Fragmentation, and Degradation",
-    day   = "W6D1",
-    leaders = c("Amanda Fagan", "Litzy Jaime", "Chloe Miller", "Joel Miller")
+    day   = "W6D2",
+    leaders = c()
   ),
   "Case Conversation 3" = list(
     topic = "Overexploitation",
-    day   = "W7D1",
-    leaders = c("Hannah Pierson", "Lindy Slatten", "Grecia Torres")
+    day   = "W8D1",
+    leaders = c()
   ),
   "Case Conversation 4" = list(
     topic = "Invasive Alien Species",
-    day   = "W8D2",
-    leaders = c("E Bradley", "Cian Hassovic", "Samuel Jacobsen", "Jameson Young")
+    day   = "W10D1",
+    leaders = c()
   ),
   "Case Conversation 5" = list(
     topic = "Climate Change",
-    day   = "W9D2",
-    leaders = c("E Bradley", "Cian Hassovic", "Samuel Jacobsen", "Jameson Young")
+    day   = "W11D2",
+    leaders = c()
   ),
   "Case Conversation 6" = list(
     topic = "Species-Level Approaches",
-    day   = "W12D2",
-    leaders = c("Amanda Fagan", "Litzy Jaime", "Chloe Miller", "Joel Miller")
-  ),
-  "Case Conversation 9" = list(
-    topic = "Species-Level Approaches or Ex-Situ Conservation",
-    day   = "W13D2",
-    leaders = c("Quinton Vieyra")
+    day   = "W12D1",
+    leaders = c()
   ),
   "Case Conversation 7" = list(
     topic = "Community & Ecosystem Approaches",
     day   = "W14D2",
-    leaders = c("Hannah Pierson", "Lindy Slatten", "Grecia Torres")
+    leaders = c()
   ),
   "Case Conversation 8" = list(
     topic = "Landscape-Scale Approaches",
-    day   = "W15D2",
-    leaders = c("Francesca Kerkhofs", "Zipporah Piper", "Sam Dillon")
+    day   = "W16D1",
+    leaders = c()
   )
 ) %>%
   enframe(name = "case") %>%
@@ -226,22 +222,23 @@ case_badge <- "<span class='badge bg-info'>Guided Case Conversation</span>"
 film_badge <- "<span class='badge bg-secondary'>Film</span>"
 
 schedule_data <- list(
-  "Overview & Syllabus"                          = list("W1D1"),
-  "The Rise of Conservation Biology"             = list("W1D2", "W2D2"),
-  "Holiday"                                      = list("W2D1"),
-  "Biodiversity Concepts & Measurement"          = list("W3D1", "W3D2", "W4D1", "W4D2"),
-  "Extinction"                                   = list("W5D1", "W5D2", "W6D1"),
-  "Habitat Loss, Fragmentation, and Degradation" = list("W6D2", "W7D1", "W7D2", "W8D2", "W9D1"),
-  "Exam 1"                                       = list("W8D1"),
-  "Overexploitation"                             = list("W9D2", "W11D1", "W11D2"),
-  "Spring Break"                                 = list("W10D1", "W10D2"),
-  "Invasive Alien Species"                       = list("W12D1", "W12D2"),
-  "Climate Change"                               = list("W13D1", "W13D2", "W14D1"),
-  "Ex Situ Conservation"                         = list("W14D2", "W15D1", "W15D2"),
-  "Species-Level Approaches"                     = list("W16D1"),
-  "Community & Ecosystem Approaches"             = list("W16D2"),
-  "Landscape-Scale Approaches"                   = list("W16D2"),
-  "Final Exam"                                   = list("W17D1")
+"Overview & Syllabus"                          = list("W1D2"),
+"The Rise of Conservation Biology"             = list("W2D1"),
+"Holiday"                                      = list("W1D1", "W3D1"),
+"Biodiversity Concepts & Measurement"          = list("W2D2", "W3D2"),
+"Extinction"                                   = list("W4D1", "W4D2"),
+"Habitat Loss, Fragmentation, and Degradation" = list("W5D1", "W5D2", "W6D1", "W6D2"),
+"Overexploitation"                             = list("W7D1", "W7D2", "W8D1"),
+"Exam 1"                                       = list("W8D2"),
+"Fall Break"                                   = list("W9D1"),
+"Invasive Alien Species"                       = list("W9D2", "W10D1"),
+"Climate Change"                               = list("W10D2", "W11D1", "W11D2"),
+"Species-Level Approaches"                     = list("W12D1"),
+"Ex Situ Conservation"                         = list("W12D2", "W13D1"),
+"Thanksgiving Break"                           = list("W13D2"),
+"Community & Ecosystem Approaches"             = list("W14D1", "W14D2"),
+"Landscape-Scale Approaches"                   = list("W15D1", "W15D2", "W16D1", "W16D2"),
+"Final Exam"                                   = list("W17D1")
 ) %>%
   enframe(name = "topic") %>%
   unnest_longer("value") %>%

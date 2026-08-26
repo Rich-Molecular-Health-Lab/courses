@@ -4,7 +4,7 @@ date: "August 25, 2025"
 format: html
 freeze: true
 params:
-  course: "hhe_25f"
+  course: "hhe_26f"
 ---
 
 ```{r setup, include = FALSE}

@@ -1,0 +1,412 @@
+---
+date: "January 11, 2026"
+format: 
+  html:
+    toc: false
+    theme: flatly
+    css: ../styles/schedule.css
+image: "figures/course_header.png"
+params:
+  course: "conbio_26s"
+execute:
+  freeze: auto
+---
+
+```{r}
+#| context: setup
+#| include: false
+
+here::i_am("conbio/schedule.qmd")
+source(here::here("_common.R"))
+course_short <- str_extract(params$course, "\\w+(?=_)")
+semester     <- str_remove(params$course, "\\w+_")
+
+
+first <- semesters[[semester]][["start_class"]]
+last  <- semesters[[semester]][["end_class"]]
+
+```
+
+
+```{r}
+finals <-   tibble(
+      Week  = 17,
+      Date  = course_info[[params$course]][["final_exam"]]
+    ) %>%
+  mutate(Day = if_else(wday(Date) == course_info[[params$course]][["wdays"]][1], 1, 2))
+
+blank_schedule  <- as.list(seq.Date(
+  semesters[[semester]][["start_class"]], 
+  semesters[[semester]][["end_class"]]
+  )) %>% 
+  map(\(x) ymd_hm(sprintf("%s %s", x, course_info[[params$course]][["start_time"]]), tz = "America/Chicago")) %>%
+  discard(\(x) wday(x) %in% c(7, 1)) %>%
+  set_names(rep(paste0("W", 1:16), each = 5)) %>%
+  split(., names(.)) %>%
+  map(\(x) keep(x, \(y) wday(y) %in% course_info[[params$course]][["wdays"]])) %>%
+  map(\(x) set_names(x, paste0("D", seq_along(x)))) %>%
+  enframe(name = "Week") %>%
+  unnest_longer("value", indices_to = "Day", values_to = "Date") %>%
+  mutate(across(c("Week", "Day"), ~as.integer(str_remove_all(., "[^\\d]")))) %>%
+  select(Week, Day, Date) %>%
+  arrange(Date) %>%
+  bind_rows(finals)
+
+save(blank_schedule, file = here(course_short, "blank_schedule.RData"))
+```
+
+```{r}
+#| context: data
+#| include: false
+
+readings <- list(
+  "Overview & Syllabus"                          = c(NA),
+  "The Rise of Conservation Biology"             = c(2.2),
+  "Holiday"                                      = c(NA),
+  "Biodiversity Concepts & Measurement"          = c(3.2, 3.3, 3.4, 3.5, 3.6),
+  "Extinction"                                   = c(8.1, 8.3),
+  "Habitat Loss, Fragmentation, and Degradation" = c(9.1, 9.2, 9.3, 9.4),
+  "Overexploitation"                             = c(10.1, 10.2, 10.3, 10.4),
+  "Invasive Alien Species"                       = c(11.1, 11.2, 11.4),
+  "Exam 1"                                       = c(NA),
+  "Climate Change"                               = c(12.1, 12.2, 12.3, 12.4),
+  "Spring Break"                                 = c(NA),
+  "Ex Situ Conservation"                         = c(16.1, 16.2),
+  "Species-Level Approaches"                     = c(13.1, 13.2, 13.3, 13.4, 13.5, 13.6),
+  "Community & Ecosystem Approaches"             = c(14.1, 14.2, 14.4),
+  "Landscape-Scale Approaches"                   = c(15.3, 15.4),
+  "Review"                                       = c(NA),
+  "Final Exam"                                   = c(NA)
+) %>%
+  enframe(name = "topic")  %>%
+  rowwise() %>%
+  mutate(reading = unlist(str_flatten_comma(value, na.rm = TRUE)), .keep = "unused") %>%
+  ungroup()
+```
+
+
+```{r}
+#| context: data
+#| include: false
+
+films <- list(
+  "Extinction"                 = list(title = "Human Footprint: Vanishing Act (S2E6)", url = "films/human_footprint_s2e6.html"),
+  "Climate Change"             = list(title = "Evolution Earth: Ice (S1E4)", url = "films/evolution_earth_s1e4.html"),
+  "Community & Ecosystem Approaches" = list(
+    title = "Nature WILD HOPE: Seabird Sanctuary", url = "films/hature_wildhope_seabirds.html"
+    ),
+  "Landscape-Scale Approaches" = list(
+    title = "Nature WILD HOPE: Road Warriors", url = "films/hature_wildhope_roadwarrior.html"
+    )
+) %>%
+  enframe(name = "topic") %>%
+  unnest_wider("value") %>%
+  rename(film = title) %>%
+  mutate(url = if_else(str_starts(url, "films/"), as.character(str_glue(
+    "https://rich-molecular-health-lab.github.io/courses/{url}"
+    )), url))
+```
+
+
+```{r}
+#| context: data
+#| include: false
+
+slides <- list(
+  "Overview & Syllabus"                          = "slides/conbio/0_conbio_syllabus_overview.html",
+  "The Rise of Conservation Biology"             = "slides/conbio/2_contemporary_conservation_biology.html",
+  "Biodiversity Concepts & Measurement"          = "slides/conbio/3_biodiversity.html",
+  "Extinction"                                   = "https://www.canva.com/design/DAG_FWkPS2k/FcT30U7YAvgdl97gjVabRg/view?utm_content=DAG_FWkPS2k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60e6bdbe76",
+  "Habitat Loss, Fragmentation, and Degradation" = "https://www.canva.com/design/DAG_FXHWfdo/rrILF8y6y48b2T-rkeeP4A/view?utm_content=DAG_FXHWfdo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h28aa7445d4",
+  "Overexploitation"                             = "https://www.canva.com/design/DAG_FaCg4UM/vYT5p7zoQK7gsVblo2_b1Q/view?utm_content=DAG_FaCg4UM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33332edd57",
+  "Invasive Alien Species"                       = "https://www.canva.com/design/DAG_FYkCMOQ/DnwXNvBTvmuJg1AKG4kvNA/view?utm_content=DAG_FYkCMOQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc6e0ba1510",
+  "Climate Change"                               = "https://www.canva.com/design/DAG_FZYnAxA/vLeMXXSc2IyRejjHiHmSgw/view?utm_content=DAG_FZYnAxA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3381ae972e",
+  "Ex Situ Conservation"                         = "https://www.canva.com/design/DAG_FazNkaM/0BKQycwch8o4O7QIk6WnVA/view?utm_content=DAG_FazNkaM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e2d368ff4",
+  "Species-Level Approaches"                     = "https://www.canva.com/design/DAG_FVnmq38/SiEbro-JPcm4SAQzIMAreg/view?utm_content=DAG_FVnmq38&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8ec3e6d54",
+  "Community & Ecosystem Approaches"             = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac",
+  "Landscape-Scale Approaches"                   = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac"
+) %>%
+  enframe(name = "topic", value = "slides") %>%
+  unnest("slides") %>%
+  mutate(slides = if_else(str_starts(slides, "slide"), as.character(str_glue(
+    "https://rich-molecular-health-lab.github.io/courses/{slides}"
+    )), slides))
+
+```
+
+```{r}
+#| context: data
+#| include: false
+
+case_convos <- list(
+  "Case Conversation 1" = list(
+    topic   = "Extinction",
+    day     = "W4D2",
+    leaders = c("Francesca Kerkhofs", "Zipporah Piper", "Sam Dillon")
+  ),
+  "Case Conversation 2" = list(
+    topic = "Habitat Loss, Fragmentation, and Degradation",
+    day   = "W6D1",
+    leaders = c("Amanda Fagan", "Litzy Jaime", "Chloe Miller", "Joel Miller")
+  ),
+  "Case Conversation 3" = list(
+    topic = "Overexploitation",
+    day   = "W7D1",
+    leaders = c("Hannah Pierson", "Lindy Slatten", "Grecia Torres")
+  ),
+  "Case Conversation 4" = list(
+    topic = "Invasive Alien Species",
+    day   = "W8D2",
+    leaders = c("E Bradley", "Cian Hassovic", "Samuel Jacobsen", "Jameson Young")
+  ),
+  "Case Conversation 5" = list(
+    topic = "Climate Change",
+    day   = "W9D2",
+    leaders = c("E Bradley", "Cian Hassovic", "Samuel Jacobsen", "Jameson Young")
+  ),
+  "Case Conversation 6" = list(
+    topic = "Species-Level Approaches",
+    day   = "W12D2",
+    leaders = c("Amanda Fagan", "Litzy Jaime", "Chloe Miller", "Joel Miller")
+  ),
+  "Case Conversation 9" = list(
+    topic = "Species-Level Approaches or Ex-Situ Conservation",
+    day   = "W13D2",
+    leaders = c("Quinton Vieyra")
+  ),
+  "Case Conversation 7" = list(
+    topic = "Community & Ecosystem Approaches",
+    day   = "W14D2",
+    leaders = c("Hannah Pierson", "Lindy Slatten", "Grecia Torres")
+  ),
+  "Case Conversation 8" = list(
+    topic = "Landscape-Scale Approaches",
+    day   = "W15D2",
+    leaders = c("Francesca Kerkhofs", "Zipporah Piper", "Sam Dillon")
+  )
+) %>%
+  enframe(name = "case") %>%
+  unnest_wider("value") %>%
+  group_by(case, topic, day) %>%
+  summarize(leaders = str_flatten_comma(unlist(leaders), na.rm = TRUE), .groups = "drop") %>%
+  mutate(
+    case_id      = row_number(),
+    case_display = as.character(str_glue("{row_number()}. {topic}")),
+    Week = as.integer(str_extract(day, "(?<=^W)\\d+")),
+    Day  = as.integer(str_extract(day, "(?<=D)\\d+$"))
+    ) %>%
+  select(
+    Week,
+    Day,
+    case_id,
+    case = topic,
+    leaders
+  )
+
+save(case_convos, file = here("resources", course_short, "case_convos", "case_convos.RData"))
+```
+
+
+
+
+
+
+```{r}
+#| context: data
+#| include: false
+
+
+case_card <- "<div class='card border-success mb-1 w-50'><div class='card-header'>Guided Case Conversation {case_id}</div><div class='card-body'><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Topic:</strong><p class='card-text mb-1'>{case}</p></div><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Leaders:</strong><p class='card-text mb-1'>{leaders}</p></div>"
+
+film_card <- "<div class='card border-info mb-1 w-50'><div class='card-header'>Film</div><div class='card-body'><a href='{url}' target='_blank' class='card-link'><i class='fa-solid fa-link' style='padding: 7px;'></i>{film}</a></div></div>"
+
+slides_link <- "<span class='nav-item'><a class='nav-link active' href='{slides}' target='_blank'><span class='text-info-emphasis'><i class='fa-solid fa-link' style='padding: 7px;'></i>{topic}</span></a></span>"
+
+case_badge <- "<span class='badge bg-info'>Guided Case Conversation</span>"
+film_badge <- "<span class='badge bg-secondary'>Film</span>"
+
+schedule_data <- list(
+  "Overview & Syllabus"                          = list("W1D1"),
+  "The Rise of Conservation Biology"             = list("W1D2", "W2D2"),
+  "Holiday"                                      = list("W2D1"),
+  "Biodiversity Concepts & Measurement"          = list("W3D1", "W3D2", "W4D1", "W4D2"),
+  "Extinction"                                   = list("W5D1", "W5D2", "W6D1"),
+  "Habitat Loss, Fragmentation, and Degradation" = list("W6D2", "W7D1", "W7D2", "W8D2", "W9D1"),
+  "Exam 1"                                       = list("W8D1"),
+  "Overexploitation"                             = list("W9D2", "W11D1", "W11D2"),
+  "Spring Break"                                 = list("W10D1", "W10D2"),
+  "Invasive Alien Species"                       = list("W12D1", "W12D2"),
+  "Climate Change"                               = list("W13D1", "W13D2", "W14D1"),
+  "Ex Situ Conservation"                         = list("W14D2", "W15D1", "W15D2"),
+  "Species-Level Approaches"                     = list("W16D1"),
+  "Community & Ecosystem Approaches"             = list("W16D2"),
+  "Landscape-Scale Approaches"                   = list("W16D2"),
+  "Final Exam"                                   = list("W17D1")
+) %>%
+  enframe(name = "topic") %>%
+  unnest_longer("value") %>%
+  mutate(
+    row = case_when(
+      str_detect(topic, "Exam") ~ "dexam",
+      str_detect(topic, "(Holiday)|(Break)") ~ "dnoclass",
+      str_ends(value, "D1") ~ "d1",
+      str_ends(value, "D2") ~ "d2",
+      .default = "normal"
+    )) %>%
+  mutate(
+    Week = as.integer(str_extract(value, "(?<=^W)\\d+")),
+    Day  = as.integer(str_extract(value, "(?<=D)\\d+$")),
+    .keep = "unused"
+  ) %>%
+  right_join(blank_schedule, by = c("Week", "Day")) %>%
+  arrange(Date) %>%
+  left_join(readings, by = "topic") %>%
+  left_join(films, by = "topic") %>%
+  left_join(slides, by = "topic") %>%
+  left_join(case_convos, by = c("Week", "Day")) %>%
+  mutate(
+    Time = format(Date, "%I:%M %p"),
+    Date = format(Date, "%a, %b %d")
+    ) %>%
+  mutate(
+    topic = if_else(!is.na(slides), as.character(str_glue(slides_link)), topic),
+    detail = case_when(
+      !is.na(case) ~ as.character(str_glue(case_card)),
+      is.na(case) & !is.na(film) ~ as.character(str_glue(film_card)),
+    ),
+    special = case_when(
+      !is.na(case) ~ "Guided Case Conversation",
+      is.na(case) & !is.na(film) ~ "Film"
+    ),
+    reading = if_else(reading == "", NA, reading)
+  ) %>%
+  select(
+    Week,
+    Date,
+    Time,
+    special,
+    topic,
+    reading,
+    detail,
+    row
+  )
+
+save(schedule_data, file = here(course_short, "schedule_data.RData"))
+```
+
+## Course Schedule
+
+:::{.callout-note}
+
+This schedule is tentative and subject to change at any time, so check the online version regularly. You are solely responsible for keeping up with assigned textbook readings, exams, and assignment deadlines. We may also complete graded, in-class activities or quizzes not listed here without notice.
+
+Textbook sections should be read before the class for which they are listed.
+
+:::
+
+```{r}
+#| include: false
+
+
+merge_rows <- function() {
+  JS("
+    function(rowInfo, column, state) {
+          const prevRow = state.pageRows[rowInfo.viewIndex - 1]
+          if (prevRow && rowInfo.values[column.id] === prevRow[column.id]) {
+            return { visibility: 'hidden' }
+          }
+      }
+  ")
+}
+
+special_style <- function() {
+  JS("
+    function(cellInfo) {
+    if (cellInfo.value && cellInfo.value === 'Guided Case Conversation') {
+      return { backgroundColor: '#18bc9c', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
+    } else if (cellInfo.value && cellInfo.value === 'Film') {
+      return { backgroundColor: '#3498db', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
+    }
+    return ;
+    }
+     ")
+}
+
+
+special_class <- function() {
+  JS("
+    function(rowInfo) {
+    if (rowInfo.values['special'] === 'Guided Case Conversation') {
+      return 'table-success';
+    } else if (rowInfo.values['special'] === 'Film') {
+      return 'table-info';
+    }
+    }
+     ")
+}
+
+topic_class <- function() {
+  JS("
+    function(rowInfo) {
+    if (rowInfo.values['row'] === 'dexam') {
+      return 'exam';
+    } else {
+      return ;
+    }
+    }
+     ")
+}
+
+agenda_detail <- function() {
+  JS("
+  function(rowInfo) {
+    if (rowInfo.values['special'] && rowInfo.values['special'].trim().length > 0) {
+    return `<div style='margin: 10px 10px 25px 250px;'>${rowInfo.values['detail']}</div>`
+    };
+    return ;
+  }
+     ")
+}
+
+schedule <- reactable(
+  schedule_data,
+  theme           = flatly(),
+  sortable        = FALSE,
+  pagination      = FALSE,
+  rowClass        = JS(" function(rowInfo) { return rowInfo.values['row'] } "),
+  elementId       = "schedule",
+  defaultColDef   = colDef(minWidth = 100, html = TRUE, style = merge_rows()),
+  columns    = list(
+    Week    = colDef("Wk"     , maxWidth = 50 ),
+    Date    = colDef("Day"    , maxWidth = 120),
+    special = colDef("Agenda" , details = agenda_detail(), style = special_style()),
+    Time    = colDef("Time"   , minWidth = 50 ),
+    topic   = colDef("Topic"  , minWidth = 150, class = topic_class()),
+    reading = colDef("Reading"),
+    detail  = colDef(show = FALSE),
+    row     = colDef(show = FALSE)
+  )
+)
+
+```
+
+
+```{r}
+#| column: page-inset
+
+tags$button(
+      class = "btn btn-primary",
+     "Expand/Collapse All Weeks",
+     onclick = "Reactable.toggleAllRowsExpanded('schedule')",
+     )
+```
+
+
+```{r}
+#| column: page-inset
+
+schedule
+```
+
+
+    

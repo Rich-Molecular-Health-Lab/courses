@@ -2,7 +2,7 @@
 title: "Student Roster"
 params:
   course: conbio
-  canvas_id: 96266
+  canvas_id: 19691
 ---
 
 ```{r}

@@ -36,6 +36,42 @@ course_info <- list(
       final_exam         = ymd_hm("2025-12-16 17:00", tz = "America/Chicago"),
       grade_deadline     = ymd("2025-12-23")
     ),
+  hhe_26f = list(
+    course_no          = "ENVN-4320, BIOL-4030",
+    file_prefix        = "hhe_26f",
+    semester           = "Fall 2026",
+    course_description = tagList(
+      withTags(
+        card_body(
+          p(
+            "Explore how human health intersects with ",
+            strong("environmental change, urbanization, and social justice "),
+            "in this engaging interdisciplinary course designed to appeal broadly to students across the humanities, social sciences, pre-health fields, and environmental studies. Delve into critical contemporary issues such as",
+            strong(" climate justice, urban health disparities, impacts of food production, emerging infectious diseases, and environmental toxicology."),
+            " Real-world case studies—including the Flint water crisis, zoonotic pandemics, and climate-induced health challenges—will ground your exploration in tangible scenarios."
+          ),
+          p(
+            "Course materials uniquely incorporate curated ",
+            strong("podcast playlists"),
+            " and ",
+            strong("documentary films, enriching discussions"),
+            " and broadening perspectives on urgent global health and environmental challenges. Through lively discussions and practical activities, you'll develop thoughtful insights and innovative ideas for creating healthier communities and sustainable futures.")
+        )
+      )
+    ),
+    day_time           = "T/R, 4:00 - 5:15",
+    wdays              = c(3, 5),
+    start_time         = "16:00",
+    location           = "AH 314",
+    location_assigned  = "AH 314",
+    semesters          = "Fall",
+    credits            = 3,
+    prereqs            = NA,
+    canvas             = "19678",
+    project            = "Poster",
+    final_exam         = ymd_hm("2026-12-15 17:00", tz = "America/Chicago"),
+    grade_deadline     = ymd("2026-12-26")
+  ),
   conbio_25f = list(
     course_no          = "BIOL-4120, BIOL-8126",
     file_prefix        = "conbio_25f",
@@ -97,8 +133,40 @@ course_info <- list(
     prereqs            = "BIOL 1450, 1750, 2140 and Junior-Senior in biology. Not open to non-degree graduate students.",
     canvas             = "91321",
     project            = "Guided Case Conversations",
-    final_exam         = ymd_hm("2026-05-04 17:00", tz = "America/Chicago"),
+    final_exam         = ymd_hm("2026-12-16 17:00", tz = "America/Chicago"),
     grade_deadline     = ymd("2026-05-11")
+  ),
+  conbio_26f = list(
+    course_no          = "BIOL-4120, BIOL-8126",
+    file_prefix        = "conbio_26f",
+    semester           = "Fall 2026",
+    course_description = tagList(
+      withTags(
+        card_body(
+          p(
+            "Engage with the urgent task of protecting biodiversity in Conservation Biology—a dynamic, interdisciplinary course addressing the global ecological crisis. Often described as a ",
+            em("crisis discipline"),
+            ", conservation biology emphasizes swift, informed actions in response to rapidly evolving environmental challenges. You'll explore topics like ",
+            strong("species extinction, habitat loss, ecosystem management, invasive species, climate impacts, and conservation genetics"),
+            " through engaging discussions and real-world case studies. Skills-based assignments and activities will introduce you to ",
+            strong("essential tools for management, practical application, and quantitative assessment.")
+          ),
+          p("Open to students across biology, environmental sciences, social sciences, and humanities, this course empowers you with the knowledge and practical skills needed to contribute meaningfully to conservation efforts.")
+        )
+      )
+    ),
+    day_time           = "M/W, 4:00 - 5:15",
+    wdays              = c(2, 4),
+    start_time         = "16:00",
+    location           = "AH 305",
+    location_assigned  = "AH 305",
+    semesters          = "Fall & Spring",
+    credits            = 3,
+    prereqs            = "BIOL 1450, 1750, 2140 and Junior-Senior in biology. Not open to non-degree graduate students.",
+    canvas             = "19691",
+    project            = "Guided Case Conversations",
+    final_exam         = ymd_hm("2026-12-14 17:00", tz = "America/Chicago"),
+    grade_deadline     = ymd("2026-12-26")
   ),
   zoobio_26s = list(
     course_no          = "BIOL-4030/4034",
@@ -141,11 +209,11 @@ textbooks <- list(
   ),
   hhe = list(
     title   = "Podcast Playlist",
-    href    = "https://open.spotify.com/playlist/4NTGkvvAL2OxXaDIzV3BS0?si=b21104990e8d4971",
+    href    = "https://open.spotify.com/playlist/0zc41BWYHIMa8yE42iu41u?si=141e1c8a4c0e457e",
     image   = "images/logo_spotify.png",
     authors = "Misc.",
-    date    = ymd("2025-8-1"),
-    edition = "3rd",
+    date    = ymd("2026-08-25"),
+    edition = "4th",
     isbn    = NA,
     pages   = NA,
     embed   = TRUE,
@@ -187,6 +255,18 @@ assessment <- list(
     quizzes     = map(paste0("quiz", 1:8), \(x) list_scores(x, 5)),
     assignments = map(paste0("case_convo", 1:2), \(x) list_scores(x, 24)),
     inclass     = map(paste0("exercise", 1:8), \(x) list_scores(x, 5))
+  ),
+  conbio_26f = list(
+    exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 50)),
+    quizzes     = map(paste0("quiz", 1:8), \(x) list_scores(x, 5)),
+    assignments = map(paste0("case_convo", 1:2), \(x) list_scores(x, 30)),
+    inclass     = map(paste0("exercise", 1:8), \(x) list_scores(x, 5))
+  ),
+  hhe_26f = list(
+    exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 50)),
+    quizzes     = map(paste0("quiz", 1:10), \(x) list_scores(x, 5)),
+    assignments = map(paste0("case_convo", 1:2), \(x) list_scores(x, 30)),
+    inclass     = map(paste0("exercise", 1:5), \(x) list_scores(x, 5))
   ),
   hhe_25f = list(
     exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 60)),

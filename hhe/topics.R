@@ -3,46 +3,32 @@ topics <- list(
     "Syllabus & Overview"   = list(
       days = "D1"
     ),
-    "Public Health"         = list(
-      days = "D2"
+    "Epidemiology"         = list(
+      days = c("D2", "D3")
       ),
     "Environmental Justice" = list(
-      days = "D2"
-    ),
-    "Redlining" = list(
       days = "D3"
     )
   ),
   "Climate"             = list(
-    "Observing and Modelling Climate" = list(
-      days = "D4"
-    ),
-    "Consequences of Climate Change"  = list(
+    "Models and Causes of Climate Change"  = list(
       days = "D4"
     ),
     "Heat Waves & Extreme Heat"       = list(
-      days = "D4"
+      days = c("D5", "D6")
     )
   ),
   "Natural Disasters"   = list(
-    "Hurricanes"  = list(
-      days = c("D5", "D6")
-    ),
     "Floods"      = list(
-      days = c("D5", "D6")
+      days = c("D6", "D7")
     ),
     "Wildfires"   = list(
-      days = c("D7", "D8")
+      days = c("D8", "D9")
     )
   ),
   "Built Environments"  = list(
     "Urban Infrastructure"    = list(
-      days = c("D9", "D10")
-    )
-  ),
-  "Evidence & Research Design"  = list(
-    "Epidemiology"    = list(
-      days = c("D11", "D12")
+      days = c("D10", "D11", "D12")
     )
   ),
   "Exam Week"        = list(

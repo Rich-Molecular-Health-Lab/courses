@@ -293,8 +293,8 @@ map_topics <- function(topics_list, topics_nested, blank_schedule) {
 }
 
 enframe_hhe_schedule <- function(schedule_list) {
-  location_default <- pluck(course_info, "hhe_25f", "location")
-  location_exams   <- pluck(course_info, "hhe_25f", "location_assigned")
+  location_default <- pluck(course_info, "hhe_26f", "location")
+  location_exams   <- pluck(course_info, "hhe_26f", "location_assigned")
 
  schedule <- enframe(schedule_list, name = "Day") %>%
    unnest_wider(value) %>%

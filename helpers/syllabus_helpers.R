@@ -7,7 +7,7 @@ embed_resource <- function(course) {
       iframe(
         `data-testid`     = "embed-iframe",
         style           = "border-radius:12px",
-        src             = "https://open.spotify.com/embed/playlist/4NTGkvvAL2OxXaDIzV3BS0?utm_source=generator",
+        src             = "https://open.spotify.com/playlist/0zc41BWYHIMa8yE42iu41u?si=54d60d7eb9dc473f",
         width           = "100%",
         height          = "352",
         frameBorder     = "0",

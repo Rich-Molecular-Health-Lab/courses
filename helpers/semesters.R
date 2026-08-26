@@ -36,6 +36,24 @@ semesters <- list(
     trips = list(
       NULL
     )
+  ),
+  "26f" = list(
+    start_class  = ymd("2026-08-24"),
+    end_class    = ymd("2026-12-11"),
+    start_finals = ymd("2026-12-14"),
+    end_finals   = ymd("2026-12-18"),
+    holidays = list(
+      ymd("2025-09-07"),
+      ymd("2025-10-19"),
+      ymd("2025-10-20"),
+      ymd("2025-11-25"),
+      ymd("2025-11-26"),
+      ymd("2025-11-27"),
+      ymd("2025-11-29")
+    ),
+    trips = list(
+      ymd("2026-08-24")
+    )
   )
 )
 
@@ -69,7 +87,7 @@ semester_days <- function(course) {
   return(result)
 }
 
-semester_weeks <- function(semester = "26s") {
+semester_weeks <- function(semester = "26f") {
   first <- floor_date(semesters[[semester]][["start_class"]], unit = "week")
   last  <- ceiling_date(semesters[[semester]][["end_class"]], unit = "week") - days(1)
   days_seq  <- as.list(seq.Date(first, last))
@@ -95,7 +113,7 @@ semester_weeks <- function(semester = "26s") {
 }
 
 
-current_week <- function(semester = "26s") {
+current_week <- function(semester = "26f") {
   weeks <- semester_weeks(semester)
   now_date <- today()
   if (now_date < semesters[[semester]][["start_class"]]) {

@@ -1,10 +1,10 @@
 ---
 title: "Syllabus"
-date: "January 11, 2026"
+date: "August 24, 2026"
 format: html
 freeze: true
 params:
-  course: "conbio_26s"
+  course: "conbio_26f"
 execute:
   freeze: true
 ---
