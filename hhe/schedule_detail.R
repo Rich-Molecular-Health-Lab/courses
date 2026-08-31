@@ -377,6 +377,110 @@ videos <- list(
 )
 
 podcasts <- list(
+  "Better Off" = list(
+    "We're better off when we stop pandemics before they start" = list(
+      experts = c(),
+      date    = ymd("2021-03-17"),
+      minutes = 21,
+      topics  = list(
+        "Epidemiology",
+        "Pandemics",
+        "Zoonotic Disease",
+        "Virology"
+      )
+    ),
+    "Is clean beauty for real?" = list(
+      experts = c("Dr. Tamarra James-Todd"),
+      date    = ymd("2022-11-16"),
+      minutes = 18,
+      topics  = list(
+        "Toxicology",
+        "PCPs"
+      )
+    )
+  ),
+  "This Week in Health" = list(
+    "A call for redesigning American streets" = list(
+      experts = c("Dr. Anne Lusk"),
+      date    = ymd("2018-09-06"),
+      minutes = 21,
+      topics  = list(
+        "Infrastructure",
+        "Built Environments"
+      )
+    ),
+    "Designing for climate change" = list(
+      experts = c("Dr. Joe Allen", "Dr. Jose Guillermo Cedeno Laurent"),
+      date    = ymd("2018-08-10"),
+      minutes = 24,
+      topics  = list(
+        "Infrastructure",
+        "Built Environments",
+        "Heat Islands"
+      )
+    )
+  ),
+  "Short History Of..." = list(
+    "Hurricane Katrina" = list(
+      experts = c(),
+      date    = ymd("2026-06-28"),
+      minutes = 53,
+      topics  = list(
+        "Flood",
+        "Climate Change",
+        "Disasters",
+        "Hurricane"
+      )
+    )
+  ),
+  "The Daily" = list(
+    "Europe Is Burning" = list(
+      experts = c("Chico Harlan", "Mark Landler"),
+      date    = ymd("2026-07-30"),
+      minutes = 98,
+      topics  = list(
+        "Fire",
+        "Climate Change",
+        "Disasters"
+      )
+    )
+  ),
+  "DarkHorse Podcast" = list(
+    "Sudden Flood in Tibet: The 340th Evolutionary Lens" = list(
+      experts = c("Dr. Bret Weinstein", "Dr. Heather Heying"),
+      date    = ymd("2026-08-26"),
+      minutes = 98,
+      topics  = list(
+        "Flood",
+        "Climate Change",
+        "Disasters"
+      )
+    )
+  ),
+  "The World: Latest Stories" = list(
+    "Flash floods on the Nepal-Tibet border" = list(
+      experts = c("Dr. Simon Cook"),
+      date    = ymd("2026-08-26"),
+      minutes = 9,
+      topics  = list(
+        "Flood",
+        "Climate Change",
+        "Disasters"
+      )
+    )
+  ),
+  "Stuff You Should Know" = list(
+    "How Housing Discrimination Works" = list(
+      experts = c("Dr. Vilna Bashi Treatler", "Dr. Tricia Rose"),
+      date    = ymd("2021-02-11"),
+      minutes = 55,
+      topics  = list(
+        "Redlining",
+        "Healthy Housing",
+        "Environmental Justice"
+      )
+    )
+  ),
   "Ologies" = list(
     "Aquaculture Ecology (Sustainable Ocean Foods)" = list(
       experts = "Dr. Ben Halpern",
@@ -556,6 +660,24 @@ podcasts <- list(
     )
   ),
   "Shortwave" = list(
+    "Redlining's Ripple Effects Go Beyond Humans" = list(
+      date    = ymd("2023-01-09"),
+      minutes = 14,
+      topics  = list(
+        "Redlining",
+        "One Health",
+        "Infrastructure"
+      )
+    ),
+    "Are extreme wildfires the new normal?" = list(
+      date    = ymd("2026-07-29"),
+      minutes = 14,
+      topics  = list(
+        "Fire",
+        "Climate",
+        "Disasters"
+      )
+    ),
     "Why a changing climate may mean less chocolate in the future" = list(
       date    = ymd("2025-8-1"),
       minutes = 14,

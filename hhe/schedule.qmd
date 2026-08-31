@@ -59,6 +59,47 @@ save(blank_schedule, file = here(course_short, "blank_schedule.RData"))
 #| context: data
 #| include: false
 
+podcasts <- list(
+  
+  "Syllabus & Overview"                 = c(NA),
+  "Epidemiology"                        = c(),
+  "Environmental Justice"               = c("Critical Ecology (Social Systems & Environment)"),
+  "One Health"                          = c(),
+  "Climate Change"                      = c("A Storm is Brewing. Is it Climate Change?"),
+  "Floods"                              = c("Flash floods on the Nepal-Tibet border"),
+  "Fires"                               = c("Up in Smoke", "Are Extreme Wildfires the New Normal?"),
+  "Heat Islands"                        = c("Presenting: The Carbon Copy - Why Heat Waves Become Deadly"),
+  "Healthy Housing"                     = c(),
+  "Redlining"                           = c("How Housing Discrimination Works"),
+  "Case Conversations - Infrustructure" = c(),
+  "Household Products & Waste"          = c("Our medications are leaking into waterways - and may be changing fish behavior", "These chemicals may lurk in your personal care products"),
+  "Industrial Waste"                    = c("How PFAS from a Military Base has Sickened Nearby Residents"),
+  "Exam 1"                              = c(NA),
+  "Fall Break"                          = c(NA),
+  "Pesticides/Herbicides"               = c(),
+  "Case Conversations - Toxins"         = c(),
+  "Zoonoses"                            = c("Why we Should Care About Viruses Jumping From Animals to People"),
+  "Epidemics & Pandemics"               = c(),
+  "Vectors"                             = c("Disease Ecology (Lyme/Tick-borne Illnesses)"),
+  "Case Conversations - Pathogens"      = c(),
+  "Thanksgiving Break"                  = c(),
+  "Crops"                               = c("Monsanto or MonSatan? How - and Why - a St. Louis Startup Became a Hated Herbicide Giant"), 
+  "Cattle"                              = c("Should I Give up Beef?"), 
+  "Case Conversations - Food"           = c(),
+  "Review"                              = c(NA),
+  "Final Exam"                          = c(NA)
+) %>%
+  enframe(name = "topic")  %>%
+  rowwise() %>%
+  mutate(reading = unlist(str_flatten_comma(value, na.rm = TRUE)), .keep = "unused") %>%
+  ungroup()
+```
+
+
+```{r}
+#| context: data
+#| include: false
+
 readings <- list(
   "Overview & Syllabus"                          = c(NA),
   "The Rise of Conservation Biology"             = c(2.2),
@@ -138,52 +179,73 @@ slides <- list(
 #| context: data
 #| include: false
 
+
+case_card <- "<div class='card border-success mb-1 w-50'><div class='card-header'>Guided Case Conversation {case_id}</div><div class='card-body'><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Topic:</strong><p class='card-text mb-1'>{case}</p></div><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Leaders:</strong><p class='card-text mb-1'>{leaders}</p></div>"
+
+film_card <- "<div class='card border-info mb-1 w-50'><div class='card-header'>Film</div><div class='card-body'><a href='{url}' target='_blank' class='card-link'><i class='fa-solid fa-link' style='padding: 7px;'></i>{film}</a></div></div>"
+
+slides_link <- "<span class='nav-item'><a class='nav-link active' href='{slides}' target='_blank'><span class='text-info-emphasis'><i class='fa-solid fa-link' style='padding: 7px;'></i>{topic}</span></a></span>"
+
+case_badge <- "<span class='badge bg-info'>Guided Case Conversation</span>"
+film_badge <- "<span class='badge bg-secondary'>Film</span>"
+```
+
+```{r}
+themes <- list(
+ "Introduction"       = list("Syllabus & Overview", "Epidemiology", "Environmental Justice", "One Health"),
+ "Disasters"          = list("Climate Change", "Floods", "Fires"),
+ "Infrustructure"     = list("Case Conversations - Infrustructure", "Heat Islands", "Healthy Housing", "Redlining"),
+ "Toxins"             = list("Case Conversations - Toxins", "Industrial Waste", "Household Products", "Pesticides/Herbicides"),
+ "Pathogens"          = list("Case Conversations - Pathogens", "Zoonoses", "Vectors", "Epidemics & Pandemics"),
+ "Food"               = list("Case Conversations - Food", "Crops", "Cattle", "Microorganisms"),
+ "Exams"              = list("Exam 1", "Final Exam"),
+ "Other"              = list("Holiday", "Fall Break", "Thanksgiving Break", "Review")
+)
+
+topics <- list(
+  "Syllabus & Overview"                 = c("W1D1"),
+  "Epidemiology"                        = c("W1D2"),
+  "Environmental Justice"               = c("W2D1"),
+  "One Health"                          = c("W2D1"),
+  "Climate Change"                      = c("W2D2"),
+  "Floods"                              = c("W3D1"),
+  "Fires"                               = c("W3D2"),
+  "Heat Islands"                        = c("W4D1"),
+  "Healthy Housing"                     = c("W4D2"),
+  "Redlining"                           = c("W5D1"),
+  "Case Conversations - Infrustructure" = c("W5D2"),
+  "Household Products"                  = c("W6D1", "W6D2"),
+  "Industrial Waste"                    = c("W7D1", "W7D2", "W8D1"),
+  "Exam 1"                              = c("W8D2"),
+  "Fall Break"                          = c("W9D1"),
+  "Pesticides/Herbicides"               = c("W9D2"),
+  "Case Conversations - Toxins"         = c("W10D1"),
+  "Zoonoses"                            = c("W10D2", "W11D1"),
+  "Epidemics & Pandemics"               = c("W11D2"),
+  "Vectors"                             = c("W12D1", "W12D2", "W13D1"),
+  "Case Conversations - Pathogens"      = c("W13D2"),
+  "Thanksgiving Break"                  = c("W14D1", "W14D2"),
+  "Crops"                               = c("W15D1"), 
+  "Cattle"                              = c("W15D2"), 
+  "Case Conversations - Food"           = c("W16D1"),
+  "Review"                              = c("W16D2"),
+  "Final Exam"                          = c("W17D1")
+)
+```
+
+```{r}
+#| context: data
+#| include: false
+
 case_convos <- list(
-  "Case Conversation 1" = list(
-    topic   = "Extinction",
-    day     = "W4D2",
-    leaders = c("Francesca Kerkhofs", "Zipporah Piper", "Sam Dillon")
-  ),
-  "Case Conversation 2" = list(
-    topic = "Habitat Loss, Fragmentation, and Degradation",
-    day   = "W6D1",
-    leaders = c("Amanda Fagan", "Litzy Jaime", "Chloe Miller", "Joel Miller")
-  ),
-  "Case Conversation 3" = list(
-    topic = "Overexploitation",
-    day   = "W7D1",
-    leaders = c("Hannah Pierson", "Lindy Slatten", "Grecia Torres")
-  ),
-  "Case Conversation 4" = list(
-    topic = "Invasive Alien Species",
-    day   = "W8D2",
-    leaders = c("E Bradley", "Cian Hassovic", "Samuel Jacobsen", "Jameson Young")
-  ),
-  "Case Conversation 5" = list(
-    topic = "Climate Change",
-    day   = "W9D2",
-    leaders = c("E Bradley", "Cian Hassovic", "Samuel Jacobsen", "Jameson Young")
-  ),
-  "Case Conversation 6" = list(
-    topic = "Species-Level Approaches",
-    day   = "W12D2",
-    leaders = c("Amanda Fagan", "Litzy Jaime", "Chloe Miller", "Joel Miller")
-  ),
-  "Case Conversation 9" = list(
-    topic = "Species-Level Approaches or Ex-Situ Conservation",
-    day   = "W13D2",
-    leaders = c("Quinton Vieyra")
-  ),
-  "Case Conversation 7" = list(
-    topic = "Community & Ecosystem Approaches",
-    day   = "W14D2",
-    leaders = c("Hannah Pierson", "Lindy Slatten", "Grecia Torres")
-  ),
-  "Case Conversation 8" = list(
-    topic = "Landscape-Scale Approaches",
-    day   = "W15D2",
-    leaders = c("Francesca Kerkhofs", "Zipporah Piper", "Sam Dillon")
-  )
+  "Case Conversation 1"  = list(topic = "Case Conversations - Infrustructure", day = "W5D2" , leaders = c()),
+  "Case Conversation 2"  = list(topic = "Case Conversations - Infrustructure", day = "W5D2" , leaders = c()),
+  "Case Conversation 3"  = list(topic = "Case Conversations - Toxins"        , day = "W10D1", leaders = c()),
+  "Case Conversation 4"  = list(topic = "Case Conversations - Toxins"        , day = "W10D1", leaders = c()),
+  "Case Conversation 5"  = list(topic = "Case Conversations - Pathogens"     , day = "W13D2", leaders = c()),
+  "Case Conversation 6"  = list(topic = "Case Conversations - Pathogens"     , day = "W13D2", leaders = c()),
+  "Case Conversation 7"  = list(topic = "Case Conversations - Food"          , day = "W16D1", leaders = c()),
+  "Case Conversation 8"  = list(topic = "Case Conversations - Food"          , day = "W16D1", leaders = c())
 ) %>%
   enframe(name = "case") %>%
   unnest_wider("value") %>%
@@ -208,23 +270,35 @@ save(case_convos, file = here("resources", course_short, "case_convos", "case_co
 
 
 
+```{r}
+topics <- list(
+  "Introduction" = list(
+    "Syllabus & Overview"   = list( days = "D1"  ), 
+    "Epidemiology"          = list(    days = c("D2", "D3")), 
+    "Environmental Justice" = list(days = "D3")
+    ), 
+  "Climate" = list(  
+    "Models and Causes of Climate Change" = list(days = "D4"),  
+    "Heat Waves & Extreme Heat" = list(days = c("D5", "D6"))
+    ), 
+  "Natural Disasters" = list(
+    "Floods" = list(days = c("D6", "D7")), 
+    "Wildfires" = list(days = c("D8", "D9"))
+    ), 
+  "Built Environments" = list(
+    "Urban Infrastructure" = list(days = c("D10", "D11", "D12")  )),
+  "Exam Week" = list(
+    "Midterm Exam" = list(days = "D13"),  
+    "Film Day" = list(days = "D14"  )
+    ),
+  "Vector Ecology"     = list(  "Pests & Public Health"     = list(    days = "D15"  ),  "Ticks"      = list(    days = c("D16", "D17")  )),"Zoonotic Transmission" = list(  "Historic Spillovers"          = list(    days = "D18"  ),  "Emergent Infectious Diseases" = list(    days = "D18"  )),"Toxicology"          = list(  "Biotoxins"            = list(    days = "D19"  ),  "Pesticides"           = list(    days = "D20"  ),  "Endocrine Disruption" = list(    days = c("D20", "D21")  ),  "PFAS"                 = list(    days = c("D22", "D23")  ),  "Heavy Metals"         = list(    days = c("D24", "D25")  )),"Agriculture"         = list(  "Monoculture Crops"        = list(    days = "D26"  ),  "Cattle"                   = list(    days = c("D26", "D27")  ),  "Regenerative Agriculture" = list(    days = c("D28", "D29")  )),"Projects"           = list(  "Poster Session" = list(    days = "D30"  )),"Final Exam Week" = list(  "Final Exam" = list(    days = "FINAL"  ))
+  )
 
+
+```
 
 
 ```{r}
-#| context: data
-#| include: false
-
-
-case_card <- "<div class='card border-success mb-1 w-50'><div class='card-header'>Guided Case Conversation {case_id}</div><div class='card-body'><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Topic:</strong><p class='card-text mb-1'>{case}</p></div><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Leaders:</strong><p class='card-text mb-1'>{leaders}</p></div>"
-
-film_card <- "<div class='card border-info mb-1 w-50'><div class='card-header'>Film</div><div class='card-body'><a href='{url}' target='_blank' class='card-link'><i class='fa-solid fa-link' style='padding: 7px;'></i>{film}</a></div></div>"
-
-slides_link <- "<span class='nav-item'><a class='nav-link active' href='{slides}' target='_blank'><span class='text-info-emphasis'><i class='fa-solid fa-link' style='padding: 7px;'></i>{topic}</span></a></span>"
-
-case_badge <- "<span class='badge bg-info'>Guided Case Conversation</span>"
-film_badge <- "<span class='badge bg-secondary'>Film</span>"
-
 schedule_data <- list(
   "Overview & Syllabus"                          = list("W1D1"),
   "Epidemiology"                                 = list("W1D2", "W2D1"),

@@ -3,19 +3,19 @@ project:
   output-dir: "docs"
   execute-dir: project
   render:
-    - index.qmd
-    - conbio/index.qmd
-    - hhe/index.qmd
-    - conbio_slides.qmd
-    - bio2lab_slides.qmd
     - films/*.qmd
-    - slides/conbio/*.qmd
-    - slides/bio2lab/*.qmd
     - resources/conbio/*/*.qmd
     - resources/bio2lab/*.qmd
+    - slides/conbio/*.qmd
+    - slides/hhe/*.qmd
+    - conbio_slides.qmd
+    - hhe_slides.qmd
     - conbio/schedule.qmd
     - conbio/syllabus.qmd
     - hhe/syllabus.qmd
+    - conbio/index.qmd
+    - hhe/index.qmd
+    - index.qmd
 execute:
   freeze: auto
 

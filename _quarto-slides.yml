@@ -1,18 +1,20 @@
 format:
-  letterbox-revealjs:
+  revealjs:
+    scrollable: true
     title-slide-attributes:
       data-visibility: hidden
-    css: [style/timeline.css, style/hex.css, style/custom.css]
+    css: [slides/style/timeline.css, slides/style/hex.css, slides/style/custom.css]
     progress: true
     incremental: true
     auto-animate: true
-    smaller: false
     menu: true
     preview-links: true
     show-slide-number: all
-    resource-path: ["figures"]
     default-image-extension: png
     width: 1920
     height: 1080
 callout-appearance: simple
 author: "Dr. Alicia M. Rich"
+
+
+
