@@ -1,0 +1,97 @@
+---
+title: "Introduction: One Health"
+date: "2026-09-01"
+format: revealjs
+profile: slides
+image: figures/one_health4.png
+---
+
+## {}
+
+::: columns
+::: {.column width="65%"}
+
+:::{.box-opaque}
+
+::: {.dateplace}
+{{< meta subtitle >}} <br> {{< meta date >}}
+:::
+
+::: {.title}
+{{< meta title >}}
+:::
+
+:::
+
+:::
+
+::: {.column}
+
+![](figures/one_health4.png){.image-right}
+
+:::
+:::
+
+## Definition {.vcenter}
+
+::: {.columns}
+
+::: {.column}
+
+::: {.img-frame}
+
+![](figures/one_health4.png)
+
+:::
+
+:::
+
+::: {.column .vcenter-left}
+
+- The health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent.
+
+- One Health aims to sustainably balance and optimize the health of people, animals and ecosystems.
+
+
+:::
+
+:::
+
+
+## Scope
+
+::: {.img-frame}
+
+![](figures/one_health2.png){height=400px}
+:::
+
+::: aside
+
+The approach mobilizes multiple sectors, disciplines and communities at varying levels of society.
+
+:::
+
+## Goals
+
+:::{.columns}
+
+:::{.column}
+
+::: {.img-frame}
+
+![](figures/one_health3.png)
+
+:::
+
+:::
+
+:::{.column}
+
+- Tackle threats to health and ecosystems
+- Address the collective need for clean water, energy and air, safe and nutritious food
+- Take action on climate changes and contributing to sustainable development.
+
+:::
+
+:::
+

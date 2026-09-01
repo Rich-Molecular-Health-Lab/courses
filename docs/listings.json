@@ -27,5 +27,14 @@
       "/slides/bio2lab/lab_1-1.html",
       "/slides/bio2lab/lab_1-2.html"
     ]
+  },
+  {
+    "listing": "/hhe_slides.html",
+    "items": [
+      "/slides/hhe/0_hhe_syllabus_overview.html",
+      "/slides/hhe/1-1_epidemiology.html",
+      "/slides/hhe/1-2_environmental_justice.html",
+      "/slides/hhe/1-3_one_health.html"
+    ]
   }
 ]

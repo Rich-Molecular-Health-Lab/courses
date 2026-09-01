@@ -1468,5 +1468,257 @@
     "title": "Evidence and Hypothesis-Testing in Epidemiology",
     "section": "Case Study",
     "text": "Case Study\n\n\n\n\n\n\n\n\n\nCan you use this to explain at least one of the following pitfalls?\n\n\n\nSelection bias\nMeasurement bias\nConfounders\nCorrelation and Causation\nAbsence of evidence vs evidence of absence\nCherry-picking studies\nOvergeneralization\nRelative vs. absolute risk\n\n\n\n\n\n\n\n\n\nMonday, September 22, 2025"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206d657461207469746c65203e7d7d",
+    "href": "slides/hhe/1-1_epidemiology.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206d657461207469746c65203e7d7d",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Evidence and Hypothesis-Testing in Epidemiology",
+    "text": "Evidence and Hypothesis-Testing in Epidemiology\nThu Aug 27, 2026"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#what-is-epidemiology",
+    "href": "slides/hhe/1-1_epidemiology.html#what-is-epidemiology",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "What is epidemiology?",
+    "text": "What is epidemiology?\nThe study of patterns, causes, and effects of health and disease conditions in populations.\nEpidemiologists\n\n✓ observe health conditions among groups of individuals in populations at risk\n✓ offer estimates of the severity of the health condition in the population\n✓ and identify factors and interventions that health programms can target to prevent and control the condition\n\n\n\n\nRecommended reading: The CDC Field Epidemiology Manual"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#research-approaches",
+    "href": "slides/hhe/1-1_epidemiology.html#research-approaches",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Research Approaches",
+    "text": "Research Approaches\n\n\n\n\n\n\nA good research question should\n\nbe focused\nbe relevant\nbe meaningful\nbuild on what is previously known\n\n\n\n\n\n\n\n\n\n\n\n\nSources of epidemiological data to inform health policy and manage programs\n\n\n\nDefinition\nUse\nComments\n\n\n\n\nPublic health surveillance\nContinual systematic monitoring of the occurrence of disease/condition in a population using data from different sources.\nProvides managers with ongoing data of the occurrence and distribution of conditions; can provide real-time warning of when and where an outbreak will occur.\nRequires rapid and efficient long-term collaboration to collect and analyse data across health and other sectors\n\n\nDisease registries\nLegally mandated systematic registration, in a geographic area, of all individuals who contract a specific chronic disease, with longitudinal follow-up of all relevant events related to each individual.\nOffers detailed information on the incidence and duration, treatment and outcomes of a disease to advise prevention and control policies and programmes.\nExpensive and difficult to follow-up cases especially in low-income countries; requires efficient long-term collaboration across health facilities and multiple professionals to collect and analyse data.\n\n\nHealth facility records of health events\nContinuous systematic, reporting of the occurrences of health events and mandatory reporting of notifiable diseases.\nAssists public health departments to plan disease control and prevention policies and programs; and contributes to knowledge of global disease patterns.\nRequires efficient and rapid information systems; trade-off between number of diseases to notify and reporting workload.\n\n\nCivil registration and vital statistics\nMandatory continuous recording of all births and deaths (and cause) in a population.\nSupports planning by providing birth and death rates and causes of death.\nNot fully functional in many LIMCs where causes of death are hard to ascertain.\n\n\n\nAdapted from The Palgrave Handbook of Global Health Data Methods for Policy and Practice"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#scale-of-the-problem",
+    "href": "slides/hhe/1-1_epidemiology.html#scale-of-the-problem",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Scale of the Problem",
+    "text": "Scale of the Problem\nWhat is the prevalence of a disease/condition, where and among which groups is it prevalent?\nCross-sectional Study\nRandom samples of individuals in a population at a point in time.\n\n\n\n\n\n\n\nPrevalence rate: the proportion of people in a population who have a condition of interest at a point in time (or, for period prevalence, during a period of time).\n\n\n\n\n\n\n\n\n\n\nApproach\n\n\n\nDescribe the prevalence of the disease/condition by other characteristics of the population.\n\n\n\n\n\n\n\n\n\n\n\n\nUse\n\n\n\nInforms about the scale, and demographic and geographical distribution of conditions\nRepeated surveys can establish trends and generate hypotheses\n\n\n\n\n\n\n\n\n\n\n\n\nCaveats\n\n\n\nNot useful for rare conditions of very short duration\nHard to control for confounding or to attribute causality"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#association-of-problem-with-risk-factors",
+    "href": "slides/hhe/1-1_epidemiology.html#association-of-problem-with-risk-factors",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Association of Problem with Risk Factors",
+    "text": "Association of Problem with Risk Factors\nWhich are the risk groups and factors associated with the disease/condition that an intervention could target?\nCohort (Longitudinal) Study\nFollows a well-defined population over time who are exposed to risk factors of interest.\n\n\n\n\n\n\n\nIncidence rate: the proportion of people in a population who contract a condition during a period of time.\n\n\n\n\n\n\n\n\n\nRelative risk (RR): the ratio of the incidence of the outcome of interest in a risk group to the incidence of the outcome in a comparison group.\n\nRR = 1 → No association between the risk factor and the outcome\nRR &gt; 1 → Positive association\nRR &lt; 1 → Negative association\n\n\n\n\n\n\n\n\n\n\n\nApproach\n\n\n\nCompare incidence of a disease/condition in those exposed and in those who are not (relative risk).\n\n\n\n\n\n\n\n\n\n\n\n\nUse\n\n\n\nDescribes incidence and the course of the condition (prognosis).\nIdentifies risk factors to target for interventions.\n\n\n\n\n\n\n\n\n\n\n\n\nCaveats\n\n\n\nTakes time.\nNot feasible for rare conditions or diseases with long latency.\nSuitable cohorts can be difficult to identify and costly to follow.\nEthical considerations include confidentiality and privacy."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#association-of-problem-with-risk-factors-1",
+    "href": "slides/hhe/1-1_epidemiology.html#association-of-problem-with-risk-factors-1",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Association of Problem with Risk Factors",
+    "text": "Association of Problem with Risk Factors\nWhich are the risk groups and factors associated with the disease/condition that an intervention could target?\nCase-control (Retrospective) Study\nSelects a group of cases with a disease/condition and a group of controls without the condition (but otherwise similar) and records history of exposure to potential risk factors in both groups.\n\n\n\n\n\n\n\nOdds ratio (OR): the ratio of the odds that an outcome occurs in a risk group to the odds that the outcome occurs in a comparison group.\nFor uncommon outcomes, the OR approximates the RR for an association.\n\n\n\n\n\n\n\n\n\n\nApproach\n\n\n\nExamine odds ratio as a measure of association.\n\n\n\n\n\n\n\n\n\n\n\n\nUse\n\n\n\nRapid way to establish (multiple) risk factors to target for interventions.\nEspecially for diseases that are rare or have long latency.\n\n\n\n\n\n\n\n\n\n\n\n\nCaveats\n\n\n\nInformation collected retrospectively.\nProne to confounding and measurement bias.\nDifficult to establish a temporal relationship between risk and development of the condition.\nSelection of a suitable control group can be difficult."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#choice-of-treatment-or-intervention",
+    "href": "slides/hhe/1-1_epidemiology.html#choice-of-treatment-or-intervention",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Choice of Treatment or Intervention",
+    "text": "Choice of Treatment or Intervention\nWhich intervention to recommend?\nRandomized Controlled Trial (RCT)\nRandomly assigns consenting participants, groups or communities to an experimental treatment, or to a standard treatment, no treatment, or a placebo.\n\n\n\n\n\n\n\n\nApproach\n\n\n\nMask assignment and limit the knowledge of treatment providers where possible.\n\n\n\n\n\n\n\n\n\n\n\n\nUse\n\n\n\nProvides the best available evidence on the efficacy of treatments.\n\n\n\n\n\n\n\n\n\n\n\n\nCaveats\n\n\n\nExpensive and cumbersome\nTrade-off between internal and external validity due to selected samples\nStudy of harm is not feasible for ethical reasons\nFor field interventions findings may not be generalizable beyond the study context."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#choice-of-treatment-or-intervention-1",
+    "href": "slides/hhe/1-1_epidemiology.html#choice-of-treatment-or-intervention-1",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Choice of Treatment or Intervention",
+    "text": "Choice of Treatment or Intervention\nWhich intervention to recommend?\nQuasi-experimental Study Designs\nUtilizes control groups which are selected or matched, or statistically simulated, to be as comparable as possible to the subjects exposure to the new intervention.\n\n\n\n\n\n\n\n\nUse\n\n\n\nMost useful when RCTs are either logistically infeasible or ethically unacceptable (e.g., to evaluate the effects of legislation, on entire populations).\n\n\n\n\n\n\n\n\n\n\n\n\nCaveats\n\n\n\nEach study design has its pros and cons (especially its risk of failure to control for potential confounders)\nConsiderable experience is required to judge the most appropriate design for a given situation."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#research-methods-ethics",
+    "href": "slides/hhe/1-1_epidemiology.html#research-methods-ethics",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Research Methods & Ethics",
+    "text": "Research Methods & Ethics\n\n\n\n\n\n\nThe Equator Network\n\n\nProvides online resources for writing protocols and reporting for most types of epidemiological studies.\nSince serious ethical considerations cut through all aspects of design and implementation of studies of people, investigators must gain approval from nationally approved institutional review boards.\n\n\n\n\n\n\n\n\n\nEpi Info\n\n\nOpen source software developed by the CDC to provide customized tools for data entry and analysis, with excellent visualization including maps; it also supports development of small disease surveillance systems.1\n\n\n\n\n\nNote: As of September, 2025, this resource appears to be unavailable."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#critical-design-aspects-participant-selection",
+    "href": "slides/hhe/1-1_epidemiology.html#critical-design-aspects-participant-selection",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Critical Design Aspects: Participant Selection",
+    "text": "Critical Design Aspects: Participant Selection\n\nSimple random sampling\n\nnot often feasible or appropriate\n\nStratified sampling\n\npopulation is stratified by variables like sex or age\n\nRandom stratified sampling\n\nrandom sampling within strata described above\n\nCluster sampling\n\ninvestigators sample clusters from a population partitioned into homogeneous groups (or clusters), such as enumeration areas, villages or schools"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#critical-design-aspects-measurement-accuracy",
+    "href": "slides/hhe/1-1_epidemiology.html#critical-design-aspects-measurement-accuracy",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Critical Design Aspects: Measurement Accuracy",
+    "text": "Critical Design Aspects: Measurement Accuracy\n\nDisease status can be ascertained by\n\nexamining participants for symptoms and signs consistent with the disease or event using diagnostic laboratory tests\n\n\nadministering questionnaires or conducting interviews\n\n\nreviewing medical records, sometimes by linking subjects from different administrative or research databases\n\nAccuracy requires\n\ndirect laboratory assays for exposure\n\n\ncareful interviews of cases (or surrogate information from several sources)\n\n\nusing standardized questionnaires to minimize recall bias\n\nTo ensure proper data quality, investigators can\n\nconduct pilot studies\n\n\nemploy laboratory quality assurance"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#critical-design-aspects-sample-size",
+    "href": "slides/hhe/1-1_epidemiology.html#critical-design-aspects-sample-size",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Critical Design Aspects: Sample Size",
+    "text": "Critical Design Aspects: Sample Size\n\n\n\n\n\n\nEpi Info1 includes a sample size calculator, which addresses the aim of the study, the type of study and the chosen sampling method.\n\nThe investigator provides\n\na margin of error or width of confidence interval they expect to obtain.\n\n\nestimated indicator values via literature review or pilot investigation.\n\n\nThe smaller the intended margin of error, the larger the required sample size.\n\n\n\n\n\nTo test a hypothesis, the investigator needs to specify:\n\nThe magnitude of a minimum detectable but clinically meaningful difference in the outcome they expect between the exposed and non-exposed groups;\n\n\nThe probabilities of wrongly concluding there is a difference (a so-called Type I error – say 5%); and\n\n\nThe probability of wrongly concluding there is no difference (a Type II error – say 20%).\n\n\nFor cohort and case-control studies and surveys, investigators may select participants systematically or use sequential sampling, that is they select elements from the source population based on a random starting point, and then use a fixed interval (usually based on sample size) to select all other elements. Explicit inclusion and exclusion criteria should define the target population and eligible participants. Specific working definitions for these criteria will minimize misclassification of participants, particularly in designs requiring comparison with a control group.\n\nCurrently unavailable."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#bias-in-results",
+    "href": "slides/hhe/1-1_epidemiology.html#bias-in-results",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Bias in Results",
+    "text": "Bias in Results\n\n\n\n\n\n\nBias is the extent to which a study systematically underestimates or overestimates the indicator described or the association reported between exposure and the outcome."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#bias-in-results-selection-bias",
+    "href": "slides/hhe/1-1_epidemiology.html#bias-in-results-selection-bias",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Bias in Results: Selection Bias",
+    "text": "Bias in Results: Selection Bias\n\nIn cross-sectional studies\n\nwhen sample members do not represent the population to which the investigator hopes to make inference.\n\nFor case-control or cohort studies\n\npoor representativeness may not necessarily lead to bias, unless there is differential sample distortion with respect to exposure and outcome.\n\nIn clinical trials\n\nselection bias arises when there are systematic differences between treatment groups in factors that can influence the study outcomes being measured."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#bias-in-results-measurement-bias",
+    "href": "slides/hhe/1-1_epidemiology.html#bias-in-results-measurement-bias",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Bias in Results: Measurement Bias",
+    "text": "Bias in Results: Measurement Bias\n\nOccurs through\n\nerrors in recording observations\n\n\nparticipant recall bias\n\n\ninstrument bias\n\n\nmisclassification of exposure and disease status"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#counfounders",
+    "href": "slides/hhe/1-1_epidemiology.html#counfounders",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Counfounders",
+    "text": "Counfounders\n\n\n\n\n\n\nWhat if we fail to account for a key explanatory variable and attribute that variable’s contribution to the wrong predictor?\n\n\n\n\n\n\n\n\n\nA confounder is an extraneous variable (not part of the purported chain of causality between exposure and outcome), often unobserved by the investigators, that distorts the relationship between exposure and the outcome of interest.\nConfounding happens when the third variable is associated with the exposure while also being a potential cause of the outcome."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#other-common-pitfalls-correlation-and-causation",
+    "href": "slides/hhe/1-1_epidemiology.html#other-common-pitfalls-correlation-and-causation",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Other Common Pitfalls: Correlation and Causation",
+    "text": "Other Common Pitfalls: Correlation and Causation\n“X is linked to Y” ≠ “X causes Y.”\nTo establish causality after showing association, researchers need to:\n\nSatisfy themselves that potential biases have not importantly influenced their conclusions\nDemonstrate that the risk factor occurred before the health outcome\nExclude spurious explanations for the association\nDescribe a plausible chain of causality between the risk factor or treatment and the outcome."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#other-common-pitfalls-correlation-and-causation-1",
+    "href": "slides/hhe/1-1_epidemiology.html#other-common-pitfalls-correlation-and-causation-1",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Other Common Pitfalls: Correlation and Causation",
+    "text": "Other Common Pitfalls: Correlation and Causation\n\n\n\n\n\n\nIt is difficult to establish a temporal relationship between risk and development of the condition for case-control studies.\nRCTs provide the best form of evidence of causality, but they may not always be logistically or ethically feasible."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#other-common-pitfalls",
+    "href": "slides/hhe/1-1_epidemiology.html#other-common-pitfalls",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Other Common Pitfalls",
+    "text": "Other Common Pitfalls\n\nAbsence of Evidence ≠ Evidence of Absence\n\nWe cannot conclude something does not exist or occur just because we have not observed it.\n\nCherry-picking Studies\n\nThe relative weight of evidence matters.\n\nOvergeneralization\n\nOne study’s findings cannot be applied universally.\n\nRelative vs. Absolute Risk\n\n“Doubles your risk!” might mean from 25% to 75% or from 0.01% to 0.02%."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#disseminating-results",
+    "href": "slides/hhe/1-1_epidemiology.html#disseminating-results",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Disseminating Results",
+    "text": "Disseminating Results"
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#misinformation",
+    "href": "slides/hhe/1-1_epidemiology.html#misinformation",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Misinformation",
+    "text": "Misinformation\nFalse information shared without the intention to mislead."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#disinformation",
+    "href": "slides/hhe/1-1_epidemiology.html#disinformation",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Disinformation",
+    "text": "Disinformation\nFalse information deliberately created and spread to deceive or cause harm."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#malinformation",
+    "href": "slides/hhe/1-1_epidemiology.html#malinformation",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Malinformation",
+    "text": "Malinformation\nGenuine information used out of context to cause harm."
+  },
+  {
+    "objectID": "slides/hhe/1-1_epidemiology.html#case-study",
+    "href": "slides/hhe/1-1_epidemiology.html#case-study",
+    "title": "Evidence and Hypothesis-Testing in Epidemiology",
+    "section": "Case Study",
+    "text": "Case Study\n\n\n\n\n\n\n\n\n\nCan you use this to explain at least one of the following pitfalls?\n\n\n\nSelection bias\nMeasurement bias\nConfounders\nCorrelation and Causation\nAbsence of evidence vs evidence of absence\nCherry-picking studies\nOvergeneralization\nRelative vs. absolute risk"
+  },
+  {
+    "objectID": "slides/hhe/1-2_environmental_justice.html#section",
+    "href": "slides/hhe/1-2_environmental_justice.html#section",
+    "title": "Introduction: Environmental Justice",
+    "section": "",
+    "text": "Human Health & the Environment  Tue Sep 1, 2026\n\n\nIntroduction: Environmental Justice"
+  },
+  {
+    "objectID": "slides/hhe/1-2_environmental_justice.html#environmental-justice-defined",
+    "href": "slides/hhe/1-2_environmental_justice.html#environmental-justice-defined",
+    "title": "Introduction: Environmental Justice",
+    "section": "Environmental Justice Defined",
+    "text": "Environmental Justice Defined\n\n\nThe just treatment and meaningful involvement of all people in environmental decision-making to ensure full protection from disproportionate environmental and health impacts, and equitable access to a healthy, sustainable, and resilient environment.  – U.S. Environmental Protection Agency (EPA) (2024)"
+  },
+  {
+    "objectID": "slides/hhe/1-2_environmental_justice.html#justice-equity",
+    "href": "slides/hhe/1-2_environmental_justice.html#justice-equity",
+    "title": "Introduction: Environmental Justice",
+    "section": "Justice & Equity",
+    "text": "Justice & Equity\n\n\n\nEveryone is a product of diverse biological and cultural histories, existing in a system that disproportionately benefits those most recently in power."
+  },
+  {
+    "objectID": "slides/hhe/1-2_environmental_justice.html#environmental-justice",
+    "href": "slides/hhe/1-2_environmental_justice.html#environmental-justice",
+    "title": "Introduction: Environmental Justice",
+    "section": "Environmental Justice",
+    "text": "Environmental Justice\n\n\nA landmark 2007 study found “race to be more important than socioeconomic status in predicting the location of the nation’s commercial hazardous waste facilities”.\nhttps://www.nrdc.org/sites/default/files/toxic-wastes-and-race-at-twenty-1987-2007.pdf"
+  },
+  {
+    "objectID": "slides/hhe/1-2_environmental_justice.html#environmental-justice-1",
+    "href": "slides/hhe/1-2_environmental_justice.html#environmental-justice-1",
+    "title": "Introduction: Environmental Justice",
+    "section": "Environmental Justice",
+    "text": "Environmental Justice\n\n\n\n\n\nBlack children were 5x more likely to have lead poisoning than white children were.\nEven black Americans making 50-60K/year were more likely to live in polluted areas than their white counterparts making only 10K/year\n\n\n\nIn the UK meanwhile, a government report found that black British children are exposed to up to 30% more air pollution than white children."
+  },
+  {
+    "objectID": "slides/hhe/1-2_environmental_justice.html#environmental-justice-2",
+    "href": "slides/hhe/1-2_environmental_justice.html#environmental-justice-2",
+    "title": "Introduction: Environmental Justice",
+    "section": "Environmental Justice",
+    "text": "Environmental Justice\n\n\nThe term “environmental justice” initially referred to the movement that arose to confront environmental racism, but it has since expanded to encompass multiple forms of environmental inequities and problems."
+  },
+  {
+    "objectID": "slides/hhe/1-3_one_health.html#section",
+    "href": "slides/hhe/1-3_one_health.html#section",
+    "title": "Introduction: One Health",
+    "section": "",
+    "text": "Human Health & the Environment  Tue Sep 1, 2026\n\n\nIntroduction: One Health"
+  },
+  {
+    "objectID": "slides/hhe/1-3_one_health.html#definition",
+    "href": "slides/hhe/1-3_one_health.html#definition",
+    "title": "Introduction: One Health",
+    "section": "Definition",
+    "text": "Definition\n\n\n\n\n\n\n\nThe health of humans, domestic and wild animals, plants, and the wider environment (including ecosystems) are closely linked and inter-dependent.\nOne Health aims to sustainably balance and optimize the health of people, animals and ecosystems."
+  },
+  {
+    "objectID": "slides/hhe/1-3_one_health.html#scope",
+    "href": "slides/hhe/1-3_one_health.html#scope",
+    "title": "Introduction: One Health",
+    "section": "Scope",
+    "text": "Scope\n\n\n\n\n\nThe approach mobilizes multiple sectors, disciplines and communities at varying levels of society."
+  },
+  {
+    "objectID": "slides/hhe/1-3_one_health.html#goals",
+    "href": "slides/hhe/1-3_one_health.html#goals",
+    "title": "Introduction: One Health",
+    "section": "Goals",
+    "text": "Goals\n\n\n\n\n\n\n\nTackle threats to health and ecosystems\nAddress the collective need for clean water, energy and air, safe and nutritious food\nTake action on climate changes and contributing to sustainable development."
+  },
+  {
+    "objectID": "hhe_slides.html",
+    "href": "hhe_slides.html",
+    "title": "Slide Decks",
+    "section": "",
+    "text": "I post updated versions of class slide decks to this page. Please remember that these slides should enhance, but not replace your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content."
+  },
+  {
+    "objectID": "hhe_slides.html#links-to-canva-slide-decks",
+    "href": "hhe_slides.html#links-to-canva-slide-decks",
+    "title": "Slide Decks",
+    "section": "Links to Canva Slide Decks",
+    "text": "Links to Canva Slide Decks\nHere are links to the slide decks that I only created/shared through Canva:\n\nUrban Heat Islands\nWildfires & Air Quality\nBuilt Environments: Part 1\nBuilt Environments: Part 2\nVector Ecology\nZoonotic Disease & Spillovers\nToxicology\n\n\n\n\n\n\n\nWarningCopyright Notice\n\n\n\n© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.\nLecture slides are provided for enrolled students’ personal reference only.\nRedistribution or reuse requires explicit permission."
   }
 ]

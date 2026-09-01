@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Current Course Info – Course Information</title>
+<title>Slide Decks – Course Information</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -76,20 +76,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-slides .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date-modified','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-date-modified','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-slides'] = new List('listing-slides', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -138,9 +138,9 @@ window.Quarto = {
 };
 </script>
 
-<meta property="og:title" content="Current Course Info – Course Information">
-<meta property="og:description" content="Spring 2026">
-<meta property="og:image" content="./conbio/figures/course_header.png">
+<meta property="og:title" content="Slide Decks – Course Information">
+<meta property="og:description" content="Human Health &amp; the Environment">
+<meta property="og:image" content="./slides/hhe/figures/course_header.png">
 <meta property="og:site_name" content="Course Information">
 </head>
 
@@ -235,23 +235,31 @@ window.Quarto = {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#links-to-canva-slide-decks" id="toc-links-to-canva-slide-decks" class="nav-link active" data-scroll-target="#links-to-canva-slide-decks">Links to Canva Slide Decks</a></li>
+  </ul>
+</nav>
+</nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Current Course Info</h1>
-<p class="subtitle lead">Spring 2026</p>
+<h1 class="title">Slide Decks</h1>
+<p class="subtitle lead">Human Health &amp; the Environment</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-right">
 
     
   
@@ -269,78 +277,145 @@ window.Quarto = {
 </header>
 
 
-<p>On this site you can find the most up to date syllabi and schedules for any courses I am currently teaching at UNO. Please check back often, as I will update the schedules as needed.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>I post updated versions of class slide decks to this page. Please remember that these slides should <strong>enhance</strong>, but <strong><em>not replace</em></strong> your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.</p>
+<div id="listing-slides" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1787634000000" data-listing-file-modified-sort="1788155852639" data-listing-date-modified-sort="1788238800000" data-listing-reading-time-sort="5" data-listing-word-count-sort="819">
+<div class="thumbnail"><a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">
 
+<img loading="lazy" src="./slides/hhe/figures/course_header.png" class="thumbnail-image">
 
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1787720400000" data-listing-file-modified-sort="1787774250629" data-listing-date-modified-sort="1788238800000" data-listing-reading-time-sort="15" data-listing-word-count-sort="2983">
-<a href="./conbio/schedule.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./conbio/figures/course_header.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Course Schedule
-</h5>
-<div class="card-subtitle listing-subtitle">
-Conservation Biology
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">Course Overview</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">Human Health &amp; the Environment</a>
 </div>
-<table class="card-other-values">
-
-<tbody><tr>
-<td>
-Modified
-</td>
-<td class="date-modified">
+</div>
+<div class="metadata">
+<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">
+<div class="listing-date">
+Tue Aug 25, 2026
+</div>
+<div class="metadata-value listing-date-modified">
 Tue Sep 1, 2026
-</td>
-</tr>
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1787806800000" data-listing-file-modified-sort="1788293117261" data-listing-date-modified-sort="1788238800000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1918">
+<div class="thumbnail"><a href="./slides/hhe/1-1_epidemiology.html" class="no-external">
 
-</tbody></table>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1787547600000" data-listing-file-modified-sort="1787773623046" data-listing-date-modified-sort="1788238800000" data-listing-reading-time-sort="36" data-listing-word-count-sort="7016">
-<a href="./conbio/syllabus.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./conbio/figures/course_header.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Syllabus
-</h5>
-<div class="card-subtitle listing-subtitle">
-Conservation Biology
-</div>
-<table class="card-other-values">
+<img loading="lazy" src="./slides/hhe/figures/epidemiology/epidemiological_triangle.png" class="thumbnail-image">
 
-<tbody><tr>
-<td>
-Modified
-</td>
-<td class="date-modified">
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">Evidence and Hypothesis-Testing in Epidemiology</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">Human Health &amp; the Environment</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">
+<div class="listing-date">
+Thu Aug 27, 2026
+</div>
+<div class="metadata-value listing-date-modified">
 Tue Sep 1, 2026
-</td>
-</tr>
-
-</tbody></table>
 </div>
-</div></a>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1788238800000" data-listing-file-modified-sort="1788294308478" data-listing-date-modified-sort="1788238800000" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
+<div class="thumbnail"><a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">
+
+<img loading="lazy" src="./slides/hhe/figures/one_health4.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">Introduction: Environmental Justice</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">Human Health &amp; the Environment</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">
+<div class="listing-date">
+Tue Sep 1, 2026
+</div>
+<div class="metadata-value listing-date-modified">
+Tue Sep 1, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1788238800000" data-listing-file-modified-sort="1788293966847" data-listing-date-modified-sort="1788238800000" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
+<div class="thumbnail"><a href="./slides/hhe/1-3_one_health.html" class="no-external">
+
+<img loading="lazy" src="./slides/hhe/figures/one_health4.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/1-3_one_health.html" class="no-external">Introduction: One Health</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/1-3_one_health.html" class="no-external">Human Health &amp; the Environment</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./slides/hhe/1-3_one_health.html" class="no-external">
+<div class="listing-date">
+Tue Sep 1, 2026
+</div>
+<div class="metadata-value listing-date-modified">
+Tue Sep 1, 2026
+</div>
+</a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+</div>
+<section id="links-to-canva-slide-decks" class="level2">
+<h2 class="anchored" data-anchor-id="links-to-canva-slide-decks">Links to Canva Slide Decks</h2>
+<p>Here are links to the slide decks that I only created/shared through Canva:</p>
+<ul>
+<li><a href="https://www.canva.com/design/DAGyDPbArVU/E8sE7svnYDhQ7ZS868emFA/view?utm_content=DAGyDPbArVU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h1f82c5d936">Urban Heat Islands</a></li>
+<li><a href="https://www.canva.com/design/DAGzLLTrMdg/fa8j3zI_CUT8HOXcYEEulg/view?utm_content=DAGzLLTrMdg&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hf92d57326c">Wildfires &amp; Air Quality</a></li>
+<li><a href="https://www.canva.com/design/DAG0rn8idck/f9b4envjBeOLA4bYkOM7TQ/view?utm_content=DAG0rn8idck&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hafce94dac2">Built Environments: Part 1</a></li>
+<li><a href="https://www.canva.com/design/DAG0rrYUtyc/r0Zcc7ffYjZukpv6I0Rg-Q/view?utm_content=DAG0rrYUtyc&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h6decfd81f2">Built Environments: Part 2</a></li>
+<li><a href="https://www.canva.com/design/DAG1y-AGYo4/lCFpM4D2bZooxkPlTIaHNg/view?utm_content=DAG1y-AGYo4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h4fa3f67be0">Vector Ecology</a></li>
+<li><a href="https://www.canva.com/design/DAG1y7HNU8k/wXnTdEhC29g-GDTMYHd7rA/view?utm_content=DAG1y7HNU8k&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hd28a9b2b49">Zoonotic Disease &amp; Spillovers</a></li>
+<li><a href="https://www.canva.com/design/DAG4bASQrG4/Myx_28smcr-BgKh7LYsdFQ/view?utm_content=DAG4bASQrG4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h91aaa6b288">Toxicology</a></li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Copyright Notice
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>© 2025 Dr.&nbsp;Alicia M. Rich, University of Nebraska Omaha.<br>
+Lecture slides are provided for enrolled students’ personal reference only.<br>
+Redistribution or reuse requires explicit permission.</p>
+</div>
+</div>
 
-<ol>
-<li id="fn1"><p>The information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
