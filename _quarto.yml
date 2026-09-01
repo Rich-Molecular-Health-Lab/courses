@@ -53,6 +53,8 @@ website:
             href: "hhe/index.qmd"
           - text: "Syllabus"
             href: "hhe/syllabus.qmd"
+          - text: "Slide Decks"
+            href: "hhe_slides.qmd"
     right:
       - text: "Book a Meeting"
         href: "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink"
