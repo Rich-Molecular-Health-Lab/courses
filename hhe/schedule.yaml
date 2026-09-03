@@ -1,0 +1,490 @@
+- date: "2026-08-25T16:00:00"
+  class_day: "ENVN4320_W1D1"
+  week: 1
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Overview ENVN4320"
+      path: "units/Overview ENVN4320.qmd"
+  topics:
+    - title: "Overview & Syllabus ENVN4320"
+      path: "topics/Overview & Syllabus ENVN4320.qmd"
+  background:
+    []
+- date: "2026-08-27T16:00:00"
+  class_day: "ENVN4320_W1D2"
+  week: 1
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Introduction"
+      path: "units/Introduction.qmd"
+  topics:
+    - title: "Epidemiology"
+      path: "topics/Epidemiology.qmd"
+  background:
+    []
+- date: "2026-09-01T16:00:00"
+  class_day: "ENVN4320_W2D1"
+  week: 2
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Introduction"
+      path: "units/Introduction.qmd"
+  topics:
+    - title: "Environmental Justice"
+      path: "topics/Environmental Justice.qmd"
+    - title: "One Health"
+      path: "topics/One Health.qmd"
+  background:
+    []
+- date: "2026-09-03T16:00:00"
+  class_day: "ENVN4320_W2D2"
+  week: 2
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Disasters"
+      path: "units/Disasters.qmd"
+  topics:
+    - title: "Climate Change & Extreme Weather"
+      path: "topics/Climate Change & Extreme Weather.qmd"
+  background:
+    - title: "A Storm is Brewing_ Is it Climate Change?"
+      path: "podcast/A Storm is Brewing_ Is it Climate Change?.qmd"
+- date: "2026-09-08T16:00:00"
+  class_day: "ENVN4320_W3D1"
+  week: 3
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Disasters"
+      path: "units/Disasters.qmd"
+  topics:
+    - title: "Floods"
+      path: "topics/Floods.qmd"
+  background:
+    - title: "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
+      path: "podcast/As the climate changes, is the deadly flooding in Nepal a sign of things to come?.qmd"
+    - title: "Hurricane Katrina"
+      path: "podcast/Hurricane Katrina.qmd"
+- date: "2026-09-10T16:00:00"
+  class_day: "ENVN4320_W3D2"
+  week: 3
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Disasters"
+      path: "units/Disasters.qmd"
+  topics:
+    - title: "Fires"
+      path: "topics/Fires.qmd"
+  background:
+    - title: "Are extreme wildfires the new normal?"
+      path: "podcast/Are extreme wildfires the new normal?.qmd"
+    - title: "Catching Fire"
+      path: "podcast/Catching Fire.qmd"
+- date: "2026-09-15T16:00:00"
+  class_day: "ENVN4320_W4D1"
+  week: 4
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Disasters"
+      path: "units/Disasters.qmd"
+  topics:
+    - title: "Drought"
+      path: "topics/Drought.qmd"
+  background:
+    - title: "What we lose if the Great Salt Lake dries up"
+      path: "podcast/What we lose if the Great Salt Lake dries up.qmd"
+- date: "2026-09-17T16:00:00"
+  class_day: "ENVN4320_W4D2"
+  week: 4
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Disasters"
+      path: "units/Disasters.qmd"
+  topics:
+    - title: "Case Conversation 1 - Disasters"
+      path: "case_convos/Case Conversation 1 - Disasters.qmd"
+    - title: "Case Conversation 2 - Disasters"
+      path: "case_convos/Case Conversation 2 - Disasters.qmd"
+  background:
+    []
+- date: "2026-09-22T16:00:00"
+  class_day: "ENVN4320_W5D1"
+  week: 5
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Infrastructure"
+      path: "units/Infrastructure.qmd"
+  topics:
+    - title: "Heat Islands"
+      path: "topics/Heat Islands.qmd"
+  background:
+    - title: "Climate_ Fighting Extreme Heat In 2026"
+      path: "podcast/Climate_ Fighting Extreme Heat In 2026.qmd"
+    - title: "How The Current Heat Dome Can Affect Human Health"
+      path: "podcast/How The Current Heat Dome Can Affect Human Health.qmd"
+- date: "2026-09-24T16:00:00"
+  class_day: "ENVN4320_W5D2"
+  week: 5
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Infrastructure"
+      path: "units/Infrastructure.qmd"
+  topics:
+    - title: "Redlining"
+      path: "topics/Redlining.qmd"
+  background:
+    - title: "How Housing Discrimination Works"
+      path: "podcast/How Housing Discrimination Works.qmd"
+    - title: "06 - From Redlining to Inclusive Planning"
+      path: "podcast/06 - From Redlining to Inclusive Planning.qmd"
+- date: "2026-09-29T16:00:00"
+  class_day: "ENVN4320_W6D1"
+  week: 6
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Infrastructure"
+      path: "units/Infrastructure.qmd"
+  topics:
+    - title: "Healthy Housing"
+      path: "topics/Healthy Housing.qmd"
+  background:
+    - title: "Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health"
+      path: "podcast/Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health.qmd"
+    - title: "Nsilo Berry on making buildings healthier"
+      path: "podcast/Nsilo Berry on making buildings healthier.qmd"
+- date: "2026-10-01T16:00:00"
+  class_day: "ENVN4320_W6D2"
+  week: 6
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Infrastructure"
+      path: "units/Infrastructure.qmd"
+  topics:
+    - title: "Healthy Housing"
+      path: "topics/Healthy Housing.qmd"
+  background:
+    []
+- date: "2026-10-06T16:00:00"
+  class_day: "ENVN4320_W7D1"
+  week: 7
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Infrastructure"
+      path: "units/Infrastructure.qmd"
+  topics:
+    - title: "Case Conversation 3 - Infrastructure"
+      path: "case_convos/Case Conversation 3 - Infrastructure.qmd"
+    - title: "Case Conversation 4 - Infrastructure"
+      path: "case_convos/Case Conversation 4 - Infrastructure.qmd"
+  background:
+    []
+- date: "2026-10-08T16:00:00"
+  class_day: "ENVN4320_W7D2"
+  week: 7
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "Air Pollution"
+      path: "topics/Air Pollution.qmd"
+  background:
+    []
+- date: "2026-10-13T16:00:00"
+  class_day: "ENVN4320_W8D1"
+  week: 8
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "Radiation"
+      path: "topics/Radiation.qmd"
+  background:
+    []
+- date: "2026-10-15T16:00:00"
+  class_day: "ENVN4320_W8D2"
+  week: 8
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Exams ENVN4320"
+      path: "units/Exams ENVN4320.qmd"
+  topics:
+    - title: "Exam 1 ENVN4320"
+      path: "topics/Exam 1 ENVN4320.qmd"
+  background:
+    []
+- date: "2026-10-20T16:00:00"
+  class_day: "ENVN4320_W9D1"
+  week: 9
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Breaks ENVN4320"
+      path: "units/Breaks ENVN4320.qmd"
+  topics:
+    - title: "Fall Break"
+      path: "topics/Fall Break.qmd"
+  background:
+    []
+- date: "2026-10-22T16:00:00"
+  class_day: "ENVN4320_W9D2"
+  week: 9
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "Endocrine Disrupting Chemicals"
+      path: "topics/Endocrine Disrupting Chemicals.qmd"
+  background:
+    []
+- date: "2026-10-27T16:00:00"
+  class_day: "ENVN4320_W10D1"
+  week: 10
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "PFAS"
+      path: "topics/PFAS.qmd"
+  background:
+    []
+- date: "2026-10-29T16:00:00"
+  class_day: "ENVN4320_W10D2"
+  week: 10
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "PFAS"
+      path: "topics/PFAS.qmd"
+  background:
+    []
+- date: "2026-11-03T16:00:00"
+  class_day: "ENVN4320_W11D1"
+  week: 11
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "Heavy Metals"
+      path: "topics/Heavy Metals.qmd"
+  background:
+    []
+- date: "2026-11-05T16:00:00"
+  class_day: "ENVN4320_W11D2"
+  week: 11
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "Heavy Metals"
+      path: "topics/Heavy Metals.qmd"
+  background:
+    []
+- date: "2026-11-10T16:00:00"
+  class_day: "ENVN4320_W12D1"
+  week: 12
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "Agricultural Pollution"
+      path: "topics/Agricultural Pollution.qmd"
+    - title: "Biotoxins & Microbes"
+      path: "topics/Biotoxins & Microbes.qmd"
+  background:
+    []
+- date: "2026-11-12T16:00:00"
+  class_day: "ENVN4320_W12D2"
+  week: 12
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Toxins"
+      path: "units/Toxins.qmd"
+  topics:
+    - title: "Case Conversation 5 - Toxins"
+      path: "case_convos/Case Conversation 5 - Toxins.qmd"
+    - title: "Case Conversation 6 - Toxins"
+      path: "case_convos/Case Conversation 6 - Toxins.qmd"
+  background:
+    []
+- date: "2026-11-17T16:00:00"
+  class_day: "ENVN4320_W13D1"
+  week: 13
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Pathogens"
+      path: "units/Pathogens.qmd"
+  topics:
+    - title: "Vectors"
+      path: "topics/Vectors.qmd"
+  background:
+    - title: "Our tick nightmare"
+      path: "podcast/Our tick nightmare.qmd"
+    - title: "Ticks are a growing problem, no matter where you live"
+      path: "podcast/Ticks are a growing problem, no matter where you live.qmd"
+    - title: "Should we reengineer the world's deadliest animal?"
+      path: "podcast/Should we reengineer the world's deadliest animal?.qmd"
+    - title: "A New Test for Lyme Disease, Developed by High Schoolers"
+      path: "podcast/A New Test for Lyme Disease, Developed by High Schoolers.qmd"
+- date: "2026-11-19T16:00:00"
+  class_day: "ENVN4320_W13D2"
+  week: 13
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Pathogens"
+      path: "units/Pathogens.qmd"
+  topics:
+    - title: "Vectors"
+      path: "topics/Vectors.qmd"
+  background:
+    []
+- date: "2026-11-24T16:00:00"
+  class_day: "ENVN4320_W14D1"
+  week: 14
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Breaks ENVN4320"
+      path: "units/Breaks ENVN4320.qmd"
+  topics:
+    - title: "Thanksgiving Break ENVN4320"
+      path: "topics/Thanksgiving Break ENVN4320.qmd"
+  background:
+    []
+- date: "2026-11-26T16:00:00"
+  class_day: "ENVN4320_W14D2"
+  week: 14
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Breaks ENVN4320"
+      path: "units/Breaks ENVN4320.qmd"
+  topics:
+    - title: "Thanksgiving Break ENVN4320"
+      path: "topics/Thanksgiving Break ENVN4320.qmd"
+  background:
+    []
+- date: "2026-12-01T16:00:00"
+  class_day: "ENVN4320_W15D1"
+  week: 15
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Pathogens"
+      path: "units/Pathogens.qmd"
+  topics:
+    - title: "Zoonoses"
+      path: "topics/Zoonoses.qmd"
+  background:
+    - title: "Animal Diseases and Human Health_ The Sloth and Screwworm Episode"
+      path: "podcast/Animal Diseases and Human Health_ The Sloth and Screwworm Episode.qmd"
+    - title: "Patient Zero"
+      path: "podcast/Patient Zero.qmd"
+- date: "2026-12-03T16:00:00"
+  class_day: "ENVN4320_W15D2"
+  week: 15
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Pathogens"
+      path: "units/Pathogens.qmd"
+  topics:
+    - title: "Epidemics & Pandemics"
+      path: "topics/Epidemics & Pandemics.qmd"
+  background:
+    - title: "Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?"
+      path: "podcast/Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?.qmd"
+    - title: "Preventing Future Pandemics"
+      path: "podcast/Preventing Future Pandemics.qmd"
+- date: "2026-12-08T16:00:00"
+  class_day: "ENVN4320_W16D1"
+  week: 16
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Pathogens"
+      path: "units/Pathogens.qmd"
+  topics:
+    - title: "Epidemics & Pandemics"
+      path: "topics/Epidemics & Pandemics.qmd"
+  background:
+    []
+- date: "2026-12-10T16:00:00"
+  class_day: "ENVN4320_W16D2"
+  week: 16
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Pathogens"
+      path: "units/Pathogens.qmd"
+  topics:
+    - title: "Case Conversation 7 - Pathogens"
+      path: "case_convos/Case Conversation 7 - Pathogens.qmd"
+    - title: "Case Conversation 8 - Pathogens"
+      path: "case_convos/Case Conversation 8 - Pathogens.qmd"
+  background:
+    []

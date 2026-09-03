@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Epidemics & Pandemics](../topics/Epidemics & Pandemics.qmd)"
+themes:
+  - "[Pathogens](../units/Pathogens.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-29"
+title: "Preventing Future Pandemics"
+url_spotify: "https://open.spotify.com/episode/5VIUXP2GLfOITKOogyXgHv"
+description: "We may not want to think about another pandemic, but, as epidemiologists say, it is once again a “when,” not “if,” scenario. For his latest book, journalist Jon Cohen, who has written extensively about infectious disease for the magazine Science, interviewed top epidemiologists around the world and followed virus hunters into damp and daunting bat caves to assess our pandemic preparedness readiness. Jon and Molly sit down before an audience in Los Angeles to talk about worrisome cuts to science funding and our ability (or inability) to be vigilant and respond quickly to emerging disease. There is good news: we know how to stop outbreaks. The question is, will we put our tools and vast knowledge to use?  Guest:  Jon Cohen – senior correspondent with Science Magazine, author of “Planning Miracles: How to Prevent Future Pandemics”  Reading: The Trump Administration is Dismantling Efforts to Fight the Next Pandemic  Big Picture Science is part of the Airwave Media podcast network. Please contact advertising@airwavemedia.com to inquire about advertising on Big Picture Science.  You can get early access to ad-free versions of every episode by joining us on Patreon. Thanks for your support!     Learn more about your ad choices. Visit megaphone.fm/adchoices"
+released: "2026-05-11"
+image: "![Preventing Future Pandemics](https://i.scdn.co/image/ab67656300005f1f9ef19db5e40020cbb9f1c79d)"
+series: "Big Picture Science"
+series_description: "The surprising connections in science and technology that give you the Big Picture. Astronomer Seth Shostak and science journalist Molly Bentley are joined each week by leading researchers, techies, and journalists to provide a smart and humorous take on science. Our regular 'Skeptic Check' episodes cast a critical eye on pseudoscience."
+series_spotify: "https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL"
+duration: "3595964"
+classes_assigned:
+  - "ENVN4320_W15D2"
+duration_string: "0:59:55"
+type: "background"
+---
+
+# Preventing Future Pandemics
+
+![Preventing Future Pandemics](https://i.scdn.co/image/ab67656300005f1f9ef19db5e40020cbb9f1c79d)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Big Picture Science
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/5VIUXP2GLfOITKOogyXgHv)
+[Open Series in Spotify](https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL)
+
+We may not want to think about another pandemic, but, as epidemiologists say, it is once again a “when,” not “if,” scenario. For his latest book, journalist Jon Cohen, who has written extensively about infectious disease for the magazine Science, interviewed top epidemiologists around the world and followed virus hunters into damp and daunting bat caves to assess our pandemic preparedness readiness. Jon and Molly sit down before an audience in Los Angeles to talk about worrisome cuts to science funding and our ability (or inability) to be vigilant and respond quickly to emerging disease. There is good news: we know how to stop outbreaks. The question is, will we put our tools and vast knowledge to use?  Guest:  Jon Cohen – senior correspondent with Science Magazine, author of “Planning Miracles: How to Prevent Future Pandemics”  Reading: The Trump Administration is Dismantling Efforts to Fight the Next Pandemic  Big Picture Science is part of the Airwave Media podcast network. Please contact advertising@airwavemedia.com to inquire about advertising on Big Picture Science.  You can get early access to ad-free versions of every episode by joining us on Patreon. Thanks for your support!     Learn more about your ad choices. Visit megaphone.fm/adchoices
+:::::
+

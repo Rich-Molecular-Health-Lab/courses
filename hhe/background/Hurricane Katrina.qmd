@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Floods](../topics/Floods.qmd)"
+themes:
+  - "[Disasters](../units/Disasters.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "Hurricane Katrina"
+url_spotify: "https://open.spotify.com/episode/6g8p84wcEdYgxaR7nvLBeJ"
+description: "In August 2005, one of the most powerful storms ever recorded in the Gulf of Mexico barrelled toward the United States. When Hurricane Katrina finally struck land, it devastated hundreds of miles of shoreline, but the disaster that captured the world’s attention unfolded in one place above all: the city of New Orleans.     Within hours of the storm passing, the flood defence levees meant to protect the city broke, and it began to fill with water. What followed the natural disaster was a crisis that raised profound questions about preparedness, inequality, and the ability and willingness of a modern nation to protect one of its own great cities.     But why was New Orleans so vulnerable in the first place? What was the response in the wake of the hurricane and flooding? And what did the disaster reveal about the systems of engineering, government and society that were supposed to protect it?    This is a Short History Of Hurricane Katrina.    A Noiser podcast production. Hosted by John Hopkins. With thanks to Jed Horne, a Pulitzer Prize-winning reporter and author of Breach of Faith: Hurricane Katrina and the Near Death of a Great American City.    Written by Sean Coleman | Produced by Kate Simants | Production Assistant: Chris McDonald | Exec produced by Katrina Hughes | Sound supervisor: Tom Pink | Sound design by Mirianna Pitman-Latham and Matthew Peaty | Assembly edit by Dorry Macaulay | Compositions by Oliver Baines, Dorry Macaulay, Tom Pink | Mix & mastering: Cody Reynolds-Shaw    Unlock the next two episodes of Short History Of… right now by subscribing to Noiser+. You’ll also get ad-free listening and early access to shows across the Noiser podcast network, including Real Survival Stories and Sherlock Holmes Short Stories. Just click the subscription banner at the top of the feed, or head to www.noiser.com/subscriptions to get started. Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+released: "2026-06-28"
+image: "![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)"
+series: "Short History Of..."
+series_description: "History is full of the extraordinary.    Each week, we'll transport you back in time to witness history's most incredible moments and remarkable people.    New episodes Mondays, or a week early for Noiser+ subscribers.    With Noiser+ you'll also get ad-free listening and exclusive content on shows across the Noiser podcast network. Click the subscription banner at the top of the feed to get started or head to noiser.com/subscriptions    ⁠A Short History of Ancient Rome⁠ - the debut book from the Noiser Network is out now! Discover the epic rise and fall of Rome like never before. Pick up your copy now at your local bookstore or visit ⁠⁠noiser.com/books⁠⁠ to learn more.    For advertising enquiries, email info@adelicious.fm    No part of this podcast may be used or reproduced in any manner for the purpose of training artificial intelligence technologies or systems. In accordance with Article 4(3) of the DSM Directive 2019/790, Noiser Ltd expressly reserves this work from the text and data mining exception."
+series_spotify: "https://open.spotify.com/show/2mcJ0sFMn4TdKCQrxoLPgO"
+duration: "2862184"
+classes_assigned:
+  - "ENVN4320_W3D1"
+duration_string: "0:47:42"
+type: "background"
+---
+
+# Hurricane Katrina
+
+![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Short History Of...
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/6g8p84wcEdYgxaR7nvLBeJ)
+[Open Series in Spotify](https://open.spotify.com/show/2mcJ0sFMn4TdKCQrxoLPgO)
+
+In August 2005, one of the most powerful storms ever recorded in the Gulf of Mexico barrelled toward the United States. When Hurricane Katrina finally struck land, it devastated hundreds of miles of shoreline, but the disaster that captured the world’s attention unfolded in one place above all: the city of New Orleans.     Within hours of the storm passing, the flood defence levees meant to protect the city broke, and it began to fill with water. What followed the natural disaster was a crisis that raised profound questions about preparedness, inequality, and the ability and willingness of a modern nation to protect one of its own great cities.     But why was New Orleans so vulnerable in the first place? What was the response in the wake of the hurricane and flooding? And what did the disaster reveal about the systems of engineering, government and society that were supposed to protect it?    This is a Short History Of Hurricane Katrina.    A Noiser podcast production. Hosted by John Hopkins. With thanks to Jed Horne, a Pulitzer Prize-winning reporter and author of Breach of Faith: Hurricane Katrina and the Near Death of a Great American City.    Written by Sean Coleman | Produced by Kate Simants | Production Assistant: Chris McDonald | Exec produced by Katrina Hughes | Sound supervisor: Tom Pink | Sound design by Mirianna Pitman-Latham and Matthew Peaty | Assembly edit by Dorry Macaulay | Compositions by Oliver Baines, Dorry Macaulay, Tom Pink | Mix & mastering: Cody Reynolds-Shaw    Unlock the next two episodes of Short History Of… right now by subscribing to Noiser+. You’ll also get ad-free listening and early access to shows across the Noiser podcast network, including Real Survival Stories and Sherlock Holmes Short Stories. Just click the subscription banner at the top of the feed, or head to www.noiser.com/subscriptions to get started. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+:::::
+

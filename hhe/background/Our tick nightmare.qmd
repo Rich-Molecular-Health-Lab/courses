@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Vectors](../topics/Vectors.qmd)"
+themes:
+  - "[Pathogens](../units/Pathogens.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-29"
+title: "Our tick nightmare"
+url_spotify: "https://open.spotify.com/episode/4vRcV7xGs5aSMJWLKxJrUL"
+description: "Ticks are exponentially expanding their territory, using us for their next blood meal. We must fight back.  This episode was produced by Danielle Hewitt, edited by Amina Al-Sadi, fact-checked by Gabriel Dunatov, engineered by Patrick Boyd, and hosted by Sean Rameswaram.   The common wood tick, which can transmit Borrelia and TBE viruses to humans and animals. Photo by Patrick Pleul/dpa/Getty Images.  Listen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. Transcript at ⁠vox.com/today-explained-podcast.⁠  Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+released: "2026-07-23"
+image: "![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)"
+series: "Today, Explained"
+series_description: "Today, Explained is Vox's daily news explainer podcast. Hosts Sean Rameswaram and Noel King will guide you through the most important stories of the day.  Part of the Vox Media Podcast Network."
+series_spotify: "https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A"
+duration: "1722697"
+classes_assigned:
+  - "ENVN4320_W13D1"
+duration_string: "0:28:42"
+type: "background"
+---
+
+# Our tick nightmare
+
+![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Today, Explained
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/4vRcV7xGs5aSMJWLKxJrUL)
+[Open Series in Spotify](https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A)
+
+Ticks are exponentially expanding their territory, using us for their next blood meal. We must fight back.  This episode was produced by Danielle Hewitt, edited by Amina Al-Sadi, fact-checked by Gabriel Dunatov, engineered by Patrick Boyd, and hosted by Sean Rameswaram.   The common wood tick, which can transmit Borrelia and TBE viruses to humans and animals. Photo by Patrick Pleul/dpa/Getty Images.  Listen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. Transcript at ⁠vox.com/today-explained-podcast.⁠  Learn more about your ad choices. Visit podcastchoices.com/adchoices
+:::::
+

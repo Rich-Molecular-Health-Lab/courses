@@ -1,0 +1,20 @@
+---
+title: "Hurricane Katrina"
+date: "2026-08-28"
+profile: "podcast"
+---
+
+![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Short History Of...
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/6g8p84wcEdYgxaR7nvLBeJ)
+
+[Open Series in Spotify](https://open.spotify.com/show/2mcJ0sFMn4TdKCQrxoLPgO)
+
+In August 2005, one of the most powerful storms ever recorded in the Gulf of Mexico barrelled toward the United States. When Hurricane Katrina finally struck land, it devastated hundreds of miles of shoreline, but the disaster that captured the world’s attention unfolded in one place above all: the city of New Orleans.     Within hours of the storm passing, the flood defence levees meant to protect the city broke, and it began to fill with water. What followed the natural disaster was a crisis that raised profound questions about preparedness, inequality, and the ability and willingness of a modern nation to protect one of its own great cities.     But why was New Orleans so vulnerable in the first place? What was the response in the wake of the hurricane and flooding? And what did the disaster reveal about the systems of engineering, government and society that were supposed to protect it?    This is a Short History Of Hurricane Katrina.    A Noiser podcast production. Hosted by John Hopkins. With thanks to Jed Horne, a Pulitzer Prize-winning reporter and author of Breach of Faith: Hurricane Katrina and the Near Death of a Great American City.    Written by Sean Coleman | Produced by Kate Simants | Production Assistant: Chris McDonald | Exec produced by Katrina Hughes | Sound supervisor: Tom Pink | Sound design by Mirianna Pitman-Latham and Matthew Peaty | Assembly edit by Dorry Macaulay | Compositions by Oliver Baines, Dorry Macaulay, Tom Pink | Mix & mastering: Cody Reynolds-Shaw    Unlock the next two episodes of Short History Of… right now by subscribing to Noiser+. You’ll also get ad-free listening and early access to shows across the Noiser podcast network, including Real Survival Stories and Sherlock Holmes Short Stories. Just click the subscription banner at the top of the feed, or head to www.noiser.com/subscriptions to get started. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+:::::
+

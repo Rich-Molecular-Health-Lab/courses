@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Vectors](../topics/Vectors.qmd)"
+themes:
+  - "[Pathogens](../units/Pathogens.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "Ticks are a growing problem, no matter where you live"
+url_spotify: "https://open.spotify.com/episode/5m5WghWyi9qJIZcvJej9cs"
+description: "In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historically, most Lyme cases were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use, scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?Interested in more episodes about pests and parasites? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+released: "2026-06-30"
+image: "![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)"
+series: "Short Wave"
+series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
+series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
+duration: "794462"
+classes_assigned:
+  - "ENVN4320_W13D1"
+duration_string: "0:13:14"
+type: "background"
+---
+
+# Ticks are a growing problem, no matter where you live
+
+![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Short Wave
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/5m5WghWyi9qJIZcvJej9cs)
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historically, most Lyme cases were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use, scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?Interested in more episodes about pests and parasites? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+:::::
+

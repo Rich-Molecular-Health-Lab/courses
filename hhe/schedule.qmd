@@ -16,357 +16,153 @@ execute:
 #| context: setup
 #| include: false
 
-here::i_am("hhe/schedule.qmd")
 source(here::here("_common.R"))
-course_short <- str_extract(params$course, "\\w+(?=_)")
-semester     <- str_remove(params$course, "\\w+_")
+```
 
+```{r}
+podcast_card_html <- function(card_data) {
+  as.character(str_glue_data(card_data, "<div class='card mb-3'><h3 class='card-header'>{clean_title}</h3><div class='card-body'><h5 class='card-title'>{series}</h5><h6 class='card-subtitle text-muted'>Released {released}, Duration {duration_string}</h6></div><svg xmlns={image_link} class='d-block user-select-none'></svg><div><ul class='list-group list-group-flush'><li class='list-group-item'><a href='{url_spotify}' class='card-link'>'Spotify Episode Link'</a></li><li class='list-group-item'><a href='{series_spotify}' class='card-link'>'Spotify Series Link'</a></li><li class='list-group-item'><a href='https://rich-molecular-health-lab.github.io/courses/{course_name}/podcast/{title}.html' class='card-link'>'Transcript'</a></li><li class='list-group-item'>'Class Theme: {themes}'</li><li class='list-group-item'>'Class Topic: {topics}'</li><li class='list-group-item'>'Listen before: {deadline}'</li></ul></div><div class='card-footer text-muted'><div class='accordion' id='accordion_description'><div class='accordion-item'><h2 class='accordion-header' id='headingOne'><button class='accordion-button' type='button' data-bs-toggle='collapse' data-bs-target='#collapseOne' aria-expanded='true' aria-controls='collapseOne'>'Description'</button></h2><div id='collapseOne' class='accordion-collapse collapse show' aria-labelledby='headingOne' data-bs-parent='#accordion_description'><div class='accordion-body'>'{description}'</div></div></div></div></div></div>"))
+}
 
-first <- semesters[[semester]][["start_class"]]
-last  <- semesters[[semester]][["end_class"]]
-
+case_card_html <- function(card_data) {
+  as.character(str_glue_data(card_data, "<div class='card border-success mb-1 w-50'><div class='card-header'>Case Conversation {number}</div><div class='card-body'><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Topic:</strong><p class='card-text mb-1'>{unit}</p></div><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Leaders:</strong><p class='card-text mb-1'>{leaders}</p></div>"))
+}
 ```
 
 
 ```{r}
-finals <-   tibble(
-      Week  = 17,
-      Date  = course_info[[params$course]][["final_exam"]]
-    ) %>%
-  mutate(Day = if_else(wday(Date) == course_info[[params$course]][["wdays"]][1], 1, 2))
+podcast_card <- function(podcast, course_name = str_remove(params$course, "_.+$")) {
+  classes <- pluck(podcast, "classes_assigned", 1)
+  deadline <- sprintf("%s (%s)", str_extract(classes$date, "(?<=2026-)\\d+-\\d+"), str_extract(classes$class_day, "(?<=_).+$"))
+  card_data <- list_assign(
+    podcast,
+    clean_title     = str_remove_all(pluck(podcast, "title"), "_"),
+    image_link      = str_sub(str_extract(pluck(podcast, "image"), "https.+"), 1, -2),
+    course_name     = course_name,
+    themes          = str_flatten_comma(unlist(pluck(podcast, "themes"))),
+    topics          = str_flatten_comma(unlist(pluck(podcast, "topics"))),
+    deadline        = deadline
+  )
+    
+  return(podcast_card_html(card_data))
+}
 
-blank_schedule  <- as.list(seq.Date(
-  semesters[[semester]][["start_class"]], 
-  semesters[[semester]][["end_class"]]
-  )) %>% 
-  map(\(x) ymd_hm(sprintf("%s %s", x, course_info[[params$course]][["start_time"]]), tz = "America/Chicago")) %>%
-  discard(\(x) wday(x) %in% c(7, 1)) %>%
-  set_names(rep(paste0("W", 1:16), each = 5)) %>%
-  split(., names(.)) %>%
-  map(\(x) keep(x, \(y) wday(y) %in% course_info[[params$course]][["wdays"]])) %>%
-  map(\(x) set_names(x, paste0("D", seq_along(x)))) %>%
-  enframe(name = "Week") %>%
-  unnest_longer("value", indices_to = "Day", values_to = "Date") %>%
-  mutate(across(c("Week", "Day"), ~as.integer(str_remove_all(., "[^\\d]")))) %>%
-  select(Week, Day, Date) %>%
-  arrange(Date) %>%
-  bind_rows(finals)
+case_card <- function(case_convo, course_name = str_remove(params$course, "_.+$")) {
+  leaders <- if (length(pluck(case_convo, "leaders")) > 0) str_flatten_comma(unlist(pluck(case_convo, "leaders"))) else "Not assigned"
+  card_data <- list_assign(
+    case_convo,
+    leaders = leaders
+  )
+    
+  return(case_card_html(card_data))
+}
 
-save(blank_schedule, file = here(course_short, "blank_schedule.RData"))
-```
-
-```{r}
-#| context: data
-#| include: false
-
-podcasts <- list(
-  
-  "Syllabus & Overview"                 = c(NA),
-  "Epidemiology"                        = c(),
-  "Environmental Justice"               = c("Critical Ecology (Social Systems & Environment)"),
-  "One Health"                          = c(),
-  "Climate Change"                      = c("A Storm is Brewing. Is it Climate Change?"),
-  "Floods"                              = c("Flash floods on the Nepal-Tibet border"),
-  "Fires"                               = c("Up in Smoke", "Are Extreme Wildfires the New Normal?"),
-  "Heat Islands"                        = c("Presenting: The Carbon Copy - Why Heat Waves Become Deadly"),
-  "Healthy Housing"                     = c(),
-  "Redlining"                           = c("How Housing Discrimination Works"),
-  "Case Conversations - Infrustructure" = c(),
-  "Household Products & Waste"          = c("Our medications are leaking into waterways - and may be changing fish behavior", "These chemicals may lurk in your personal care products"),
-  "Industrial Waste"                    = c("How PFAS from a Military Base has Sickened Nearby Residents"),
-  "Exam 1"                              = c(NA),
-  "Fall Break"                          = c(NA),
-  "Pesticides/Herbicides"               = c(),
-  "Case Conversations - Toxins"         = c(),
-  "Zoonoses"                            = c("Why we Should Care About Viruses Jumping From Animals to People"),
-  "Epidemics & Pandemics"               = c(),
-  "Vectors"                             = c("Disease Ecology (Lyme/Tick-borne Illnesses)"),
-  "Case Conversations - Pathogens"      = c(),
-  "Thanksgiving Break"                  = c(),
-  "Crops"                               = c("Monsanto or MonSatan? How - and Why - a St. Louis Startup Became a Hated Herbicide Giant"), 
-  "Cattle"                              = c("Should I Give up Beef?"), 
-  "Case Conversations - Food"           = c(),
-  "Review"                              = c(NA),
-  "Final Exam"                          = c(NA)
-) %>%
-  enframe(name = "topic")  %>%
-  rowwise() %>%
-  mutate(reading = unlist(str_flatten_comma(value, na.rm = TRUE)), .keep = "unused") %>%
-  ungroup()
-```
-
-
-```{r}
-#| context: data
-#| include: false
-
-readings <- list(
-  "Overview & Syllabus"                          = c(NA),
-  "The Rise of Conservation Biology"             = c(2.2),
-  "Holiday"                                      = c(NA),
-  "Biodiversity Concepts & Measurement"          = c(3.2, 3.3, 3.4, 3.5, 3.6),
-  "Extinction"                                   = c(8.1, 8.3),
-  "Habitat Loss, Fragmentation, and Degradation" = c(9.1, 9.2, 9.3, 9.4),
-  "Overexploitation"                             = c(10.1, 10.2, 10.3, 10.4),
-  "Invasive Alien Species"                       = c(11.1, 11.2, 11.4),
-  "Exam 1"                                       = c(NA),
-  "Climate Change"                               = c(12.1, 12.2, 12.3, 12.4),
-  "Spring Break"                                 = c(NA),
-  "Ex Situ Conservation"                         = c(16.1, 16.2),
-  "Species-Level Approaches"                     = c(13.1, 13.2, 13.3, 13.4, 13.5, 13.6),
-  "Community & Ecosystem Approaches"             = c(14.1, 14.2, 14.4),
-  "Landscape-Scale Approaches"                   = c(15.3, 15.4),
-  "Review"                                       = c(NA),
-  "Final Exam"                                   = c(NA)
-) %>%
-  enframe(name = "topic")  %>%
-  rowwise() %>%
-  mutate(reading = unlist(str_flatten_comma(value, na.rm = TRUE)), .keep = "unused") %>%
-  ungroup()
-```
-
-
-```{r}
-#| context: data
-#| include: false
-
-films <- list(
-  "Extinction"                 = list(title = "Human Footprint: Vanishing Act (S2E6)", url = "films/human_footprint_s2e6.html"),
-  "Climate Change"             = list(title = "Evolution Earth: Ice (S1E4)", url = "films/evolution_earth_s1e4.html"),
-  "Community & Ecosystem Approaches" = list(
-    title = "Nature WILD HOPE: Seabird Sanctuary", url = "films/hature_wildhope_seabirds.html"
-    ),
-  "Landscape-Scale Approaches" = list(
-    title = "Nature WILD HOPE: Road Warriors", url = "films/hature_wildhope_roadwarrior.html"
+merge_cards <- function(cards) {
+  as.character(
+    paste0(
+      "<div><ul class='list-group-flush'><li class='list-group-item'>",
+      str_c(cards, sep = "</li><li class='list-group-item'>"),
+      "</li></ul></div>"
+      )
     )
-) %>%
-  enframe(name = "topic") %>%
-  unnest_wider("value") %>%
-  rename(film = title) %>%
-  mutate(url = if_else(str_starts(url, "films/"), as.character(str_glue(
-    "https://rich-molecular-health-lab.github.io/courses/{url}"
-    )), url))
+}
+
+merge_days <- function(days, list) {
+  map(days, \(x) compact(list(keep_at(list, \(y) str_starts(y, x))))) %>%
+    compact() %>%
+    list_flatten()
+    set_names(map(., \(x) pluck(x, ))) %>%
+    compact() %>%
+    map(merge_cards)
+}
+```
+
+```{r}
+podcast_list <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "podcast.yaml")) %>%
+  set_names(map(., \(x) str_extract(pluck(x, "classes_assigned", 1, "class_day"), "(?<=_).+$"))) %>%
+  map(podcast_card)
+case_convos <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "case_convos.yaml")) %>%
+  set_names(map(., \(x) sprintf("%s_%s", str_extract(pluck(x, "class_days", 1), "(?<=_).+$"), pluck(x, "number")))) %>%
+  map(case_card)
+
+case_convo_list <- merge_days(names(schedule_list), case_convos)
 ```
 
 
 ```{r}
-#| context: data
-#| include: false
+page_link <- function(title, path) {
+  sprintf(
+    "<span class='nav-item'><a class='nav-link active' href='%s' target='_blank'><span class='text-info-emphasis'><i class='fa-solid fa-link' style='padding: 7px;'></i>%s</span></a></span>",
+    path,
+    title
+    )
+}
 
-slides <- list(
-  "Overview & Syllabus"                          = "slides/conbio/0_conbio_syllabus_overview.html",
-  "The Rise of Conservation Biology"             = "slides/conbio/2_contemporary_conservation_biology.html",
-  "Biodiversity Concepts & Measurement"          = "slides/conbio/3_biodiversity.html",
-  "Extinction"                                   = "https://www.canva.com/design/DAG_FWkPS2k/FcT30U7YAvgdl97gjVabRg/view?utm_content=DAG_FWkPS2k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60e6bdbe76",
-  "Habitat Loss, Fragmentation, and Degradation" = "https://www.canva.com/design/DAG_FXHWfdo/rrILF8y6y48b2T-rkeeP4A/view?utm_content=DAG_FXHWfdo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h28aa7445d4",
-  "Overexploitation"                             = "https://www.canva.com/design/DAG_FaCg4UM/vYT5p7zoQK7gsVblo2_b1Q/view?utm_content=DAG_FaCg4UM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h33332edd57",
-  "Invasive Alien Species"                       = "https://www.canva.com/design/DAG_FYkCMOQ/DnwXNvBTvmuJg1AKG4kvNA/view?utm_content=DAG_FYkCMOQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc6e0ba1510",
-  "Climate Change"                               = "https://www.canva.com/design/DAG_FZYnAxA/vLeMXXSc2IyRejjHiHmSgw/view?utm_content=DAG_FZYnAxA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3381ae972e",
-  "Ex Situ Conservation"                         = "https://www.canva.com/design/DAG_FazNkaM/0BKQycwch8o4O7QIk6WnVA/view?utm_content=DAG_FazNkaM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e2d368ff4",
-  "Species-Level Approaches"                     = "https://www.canva.com/design/DAG_FVnmq38/SiEbro-JPcm4SAQzIMAreg/view?utm_content=DAG_FVnmq38&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he8ec3e6d54",
-  "Community & Ecosystem Approaches"             = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac",
-  "Landscape-Scale Approaches"                   = "https://www.canva.com/design/DAG_FcA1BKA/BggO589srHeQ-IOlvDe-Gw/view?utm_content=DAG_FcA1BKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h60040cedac"
-) %>%
-  enframe(name = "topic", value = "slides") %>%
-  unnest("slides") %>%
-  mutate(slides = if_else(str_starts(slides, "slide"), as.character(str_glue(
-    "https://rich-molecular-health-lab.github.io/courses/{slides}"
-    )), slides))
-
-```
-
-```{r}
-#| context: data
-#| include: false
-
-
-case_card <- "<div class='card border-success mb-1 w-50'><div class='card-header'>Guided Case Conversation {case_id}</div><div class='card-body'><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Topic:</strong><p class='card-text mb-1'>{case}</p></div><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Leaders:</strong><p class='card-text mb-1'>{leaders}</p></div>"
-
-film_card <- "<div class='card border-info mb-1 w-50'><div class='card-header'>Film</div><div class='card-body'><a href='{url}' target='_blank' class='card-link'><i class='fa-solid fa-link' style='padding: 7px;'></i>{film}</a></div></div>"
-
-slides_link <- "<span class='nav-item'><a class='nav-link active' href='{slides}' target='_blank'><span class='text-info-emphasis'><i class='fa-solid fa-link' style='padding: 7px;'></i>{topic}</span></a></span>"
-
-case_badge <- "<span class='badge bg-info'>Guided Case Conversation</span>"
-film_badge <- "<span class='badge bg-secondary'>Film</span>"
-```
-
-```{r}
-themes <- list(
- "Introduction"       = list("Syllabus & Overview", "Epidemiology", "Environmental Justice", "One Health"),
- "Disasters"          = list("Climate Change", "Floods", "Fires"),
- "Infrustructure"     = list("Case Conversations - Infrustructure", "Heat Islands", "Healthy Housing", "Redlining"),
- "Toxins"             = list("Case Conversations - Toxins", "Industrial Waste", "Household Products", "Pesticides/Herbicides"),
- "Pathogens"          = list("Case Conversations - Pathogens", "Zoonoses", "Vectors", "Epidemics & Pandemics"),
- "Food"               = list("Case Conversations - Food", "Crops", "Cattle", "Microorganisms"),
- "Exams"              = list("Exam 1", "Final Exam"),
- "Other"              = list("Holiday", "Fall Break", "Thanksgiving Break", "Review")
-)
-
-topics <- list(
-  "Syllabus & Overview"                 = c("W1D1"),
-  "Epidemiology"                        = c("W1D2"),
-  "Environmental Justice"               = c("W2D1"),
-  "One Health"                          = c("W2D1"),
-  "Climate Change"                      = c("W2D2"),
-  "Floods"                              = c("W3D1"),
-  "Fires"                               = c("W3D2"),
-  "Heat Islands"                        = c("W4D1"),
-  "Healthy Housing"                     = c("W4D2"),
-  "Redlining"                           = c("W5D1"),
-  "Case Conversations - Infrustructure" = c("W5D2"),
-  "Household Products"                  = c("W6D1", "W6D2"),
-  "Industrial Waste"                    = c("W7D1", "W7D2", "W8D1"),
-  "Exam 1"                              = c("W8D2"),
-  "Fall Break"                          = c("W9D1"),
-  "Pesticides/Herbicides"               = c("W9D2"),
-  "Case Conversations - Toxins"         = c("W10D1"),
-  "Zoonoses"                            = c("W10D2", "W11D1"),
-  "Epidemics & Pandemics"               = c("W11D2"),
-  "Vectors"                             = c("W12D1", "W12D2", "W13D1"),
-  "Case Conversations - Pathogens"      = c("W13D2"),
-  "Thanksgiving Break"                  = c("W14D1", "W14D2"),
-  "Crops"                               = c("W15D1"), 
-  "Cattle"                              = c("W15D2"), 
-  "Case Conversations - Food"           = c("W16D1"),
-  "Review"                              = c("W16D2"),
-  "Final Exam"                          = c("W17D1")
-)
-```
-
-```{r}
-#| context: data
-#| include: false
-
-case_convos <- list(
-  "Case Conversation 1"  = list(topic = "Case Conversations - Infrustructure", day = "W5D2" , leaders = c()),
-  "Case Conversation 2"  = list(topic = "Case Conversations - Infrustructure", day = "W5D2" , leaders = c()),
-  "Case Conversation 3"  = list(topic = "Case Conversations - Toxins"        , day = "W10D1", leaders = c()),
-  "Case Conversation 4"  = list(topic = "Case Conversations - Toxins"        , day = "W10D1", leaders = c()),
-  "Case Conversation 5"  = list(topic = "Case Conversations - Pathogens"     , day = "W13D2", leaders = c()),
-  "Case Conversation 6"  = list(topic = "Case Conversations - Pathogens"     , day = "W13D2", leaders = c()),
-  "Case Conversation 7"  = list(topic = "Case Conversations - Food"          , day = "W16D1", leaders = c()),
-  "Case Conversation 8"  = list(topic = "Case Conversations - Food"          , day = "W16D1", leaders = c())
-) %>%
-  enframe(name = "case") %>%
-  unnest_wider("value") %>%
-  group_by(case, topic, day) %>%
-  summarize(leaders = str_flatten_comma(unlist(leaders), na.rm = TRUE), .groups = "drop") %>%
-  mutate(
-    case_id      = row_number(),
-    case_display = as.character(str_glue("{row_number()}. {topic}")),
-    Week = as.integer(str_extract(day, "(?<=^W)\\d+")),
-    Day  = as.integer(str_extract(day, "(?<=D)\\d+$"))
-    ) %>%
-  select(
-    Week,
-    Day,
-    case_id,
-    case = topic,
-    leaders
-  )
-
-save(case_convos, file = here("resources", course_short, "case_convos", "case_convos.RData"))
-```
-
-
-
-```{r}
-topics <- list(
-  "Introduction" = list(
-    "Syllabus & Overview"   = list( days = "D1"  ), 
-    "Epidemiology"          = list(    days = c("D2", "D3")), 
-    "Environmental Justice" = list(days = "D3")
-    ), 
-  "Climate" = list(  
-    "Models and Causes of Climate Change" = list(days = "D4"),  
-    "Heat Waves & Extreme Heat" = list(days = c("D5", "D6"))
-    ), 
-  "Natural Disasters" = list(
-    "Floods" = list(days = c("D6", "D7")), 
-    "Wildfires" = list(days = c("D8", "D9"))
-    ), 
-  "Built Environments" = list(
-    "Urban Infrastructure" = list(days = c("D10", "D11", "D12")  )),
-  "Exam Week" = list(
-    "Midterm Exam" = list(days = "D13"),  
-    "Film Day" = list(days = "D14"  )
-    ),
-  "Vector Ecology"     = list(  "Pests & Public Health"     = list(    days = "D15"  ),  "Ticks"      = list(    days = c("D16", "D17")  )),"Zoonotic Transmission" = list(  "Historic Spillovers"          = list(    days = "D18"  ),  "Emergent Infectious Diseases" = list(    days = "D18"  )),"Toxicology"          = list(  "Biotoxins"            = list(    days = "D19"  ),  "Pesticides"           = list(    days = "D20"  ),  "Endocrine Disruption" = list(    days = c("D20", "D21")  ),  "PFAS"                 = list(    days = c("D22", "D23")  ),  "Heavy Metals"         = list(    days = c("D24", "D25")  )),"Agriculture"         = list(  "Monoculture Crops"        = list(    days = "D26"  ),  "Cattle"                   = list(    days = c("D26", "D27")  ),  "Regenerative Agriculture" = list(    days = c("D28", "D29")  )),"Projects"           = list(  "Poster Session" = list(    days = "D30"  )),"Final Exam Week" = list(  "Final Exam" = list(    days = "FINAL"  ))
-  )
-
-
-```
-
-
-```{r}
-schedule_data <- list(
-  "Overview & Syllabus"                          = list("W1D1"),
-  "Epidemiology"                                 = list("W1D2", "W2D1"),
-  "Environmental Justice"                        = list("W2D1"),
-  "Climate"                                      = list("W3D1", "W3D2", "W4D1"),
-  "Natural Disasters"                            = list("W4D1", "W4D2", "W5D1", "W5D2"),
-  "Built Environments"                           = list("W6D1", "W6D2", "W7D1"),
-  "Exam 1"                                       = list("W8D1"),
-  "Overexploitation"                             = list("W9D2", "W11D1", "W11D2"),
-  "Spring Break"                                 = list("W10D1", "W10D2"),
-  "Invasive Alien Species"                       = list("W12D1", "W12D2"),
-  "Climate Change"                               = list("W13D1", "W13D2", "W14D1"),
-  "Ex Situ Conservation"                         = list("W14D2", "W15D1", "W15D2"),
-  "Species-Level Approaches"                     = list("W16D1"),
-  "Community & Ecosystem Approaches"             = list("W16D2"),
-  "Landscape-Scale Approaches"                   = list("W16D2"),
-  "Final Exam"                                   = list("W17D1")
-) %>%
-  enframe(name = "topic") %>%
-  unnest_longer("value") %>%
-  mutate(
-    row = case_when(
-      str_detect(topic, "Exam") ~ "dexam",
-      str_detect(topic, "(Holiday)|(Break)") ~ "dnoclass",
-      str_ends(value, "D1") ~ "d1",
-      str_ends(value, "D2") ~ "d2",
-      .default = "normal"
+format_html <- function(li, course_name = str_remove(params$course, "_.+$")) {
+  if (length(li) < 1) return(li)
+  titles <- map(li, \(x) str_remove_all(pluck(x, "title"), "_"))
+  links  <- map(li, \(x) sprintf("https://rich-molecular-health-lab.github.io/courses/%s/%s", course_name, str_replace(pluck(x, "path"), "qmd", "html")))
+  
+  result <- map(li, \(x) page_link(
+    title = str_remove_all(pluck(x, "title"), "_"),
+    path  = sprintf("https://rich-molecular-health-lab.github.io/courses/%s/%s", course_name, str_replace(pluck(x, "path"), "qmd", "html"))
     )) %>%
-  mutate(
-    Week = as.integer(str_extract(value, "(?<=^W)\\d+")),
-    Day  = as.integer(str_extract(value, "(?<=D)\\d+$")),
-    .keep = "unused"
-  ) %>%
-  right_join(blank_schedule, by = c("Week", "Day")) %>%
-  arrange(Date) %>%
-  left_join(readings, by = "topic") %>%
-  left_join(films, by = "topic") %>%
-  left_join(slides, by = "topic") %>%
-  left_join(case_convos, by = c("Week", "Day")) %>%
-  mutate(
-    Time = format(Date, "%I:%M %p"),
-    Date = format(Date, "%a, %b %d")
-    ) %>%
-  mutate(
-    topic = if_else(!is.na(slides), as.character(str_glue(slides_link)), topic),
-    detail = case_when(
-      !is.na(case) ~ as.character(str_glue(case_card)),
-      is.na(case) & !is.na(film) ~ as.character(str_glue(film_card)),
-    ),
-    special = case_when(
-      !is.na(case) ~ "Guided Case Conversation",
-      is.na(case) & !is.na(film) ~ "Film"
-    ),
-    reading = if_else(reading == "", NA, reading)
-  ) %>%
-  select(
-    Week,
-    Date,
-    Time,
-    special,
-    topic,
-    reading,
-    detail,
-    row
-  )
+    unlist() %>%
+    str_flatten_comma()
+  
+  return(result)
+}
 
-save(schedule_data, file = here(course_short, "schedule_data.RData"))
+
+case_badge <- "<span class='badge bg-info'>Case Conversation</span>"
+film_badge <- "<span class='badge bg-secondary'>Film</span>"
+
+categorize_class <- function(class_day) {
+    themes <- pluck(class_day, "unit") %>%
+      list_flatten(name_spec = "{inner}") %>%
+      keep_at("title") %>%
+      unlist() %>%
+      str_flatten_comma()
+    topics <- pluck(class_day, "topics") %>%
+      list_flatten(name_spec = "{inner}") %>%
+      keep_at("title") %>%
+      unlist() %>%
+      str_flatten_comma()
+    
+  if (str_detect(themes, "Exam") || str_detect(topics, "Exam")) {
+    row     <- "dexam"
+    special <- NA_character_
+  } else if (str_detect(themes, "(Holiday)|(Break)|(No Class)") || str_detect(topics, "(Holiday)|(Break)|(No Class)")) {
+    row     <- "dnoclass"
+    special <- NA_character_
+  } else {
+    row     <- str_to_lower(str_extract(pluck(class_day, "class_day"), "D\\d+"))
+    if (length(pluck(class_day, "background")) > 0) {
+      special <- "Podcast"
+    } else if (str_detect(themes, "Case Conversation") || str_detect(topics, "Case Conversation")) {
+      special <- "Case Conversation"
+    } else if (str_detect(themes, "Film") || str_detect(topics, "Film")) {
+      special <- "Film"
+    } else {
+      special <- NA_character_
+    }
+  }
+    return(list_assign(class_day, row = row, special = special))
+}
+
 ```
+
+```{r}
+
+schedule_list <- yaml::read_yaml(here::here("hhe/schedule.yaml")) %>%
+  set_names(map(., \(x) str_extract(pluck(x, "class_day"), "(?<=_).+$"))) %>%
+  map(categorize_class) %>%
+  map(\(x) map_at(x, c("background", "unit", "topics"), format_html)) %>%
+  map(list_flatten) %>%
+  imap(\(x, idx) list_assign(x, podcast = pluck(podcast_card_list, idx)))
+
+```
+
 
 ## Course Schedule
 
@@ -379,8 +175,27 @@ Textbook sections should be read before the class for which they are listed.
 :::
 
 ```{r}
-#| include: false
+schedule_tbl <- schedule_list %>%
+  enframe(name = "week_day") %>%
+  unnest_wider(value) %>%
+  mutate(
+    wday = format(as.POSIXct(date), format = "%a"),
+    date = format(as.POSIXct(date), format = "%b %e")
+    ) %>%
+  select(
+    week,
+    wday,
+    date,
+    unit,
+    topics,
+    background,
+    podcast,
+    row,
+    special
+  )
+```
 
+```{r}
 
 merge_rows <- function() {
   JS("
@@ -396,7 +211,7 @@ merge_rows <- function() {
 special_style <- function() {
   JS("
     function(cellInfo) {
-    if (cellInfo.value && cellInfo.value === 'Guided Case Conversation') {
+    if (cellInfo.value && cellInfo.value === 'Case Conversation') {
       return { backgroundColor: '#18bc9c', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
     } else if (cellInfo.value && cellInfo.value === 'Film') {
       return { backgroundColor: '#3498db', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
@@ -406,11 +221,10 @@ special_style <- function() {
      ")
 }
 
-
 special_class <- function() {
   JS("
     function(rowInfo) {
-    if (rowInfo.values['special'] === 'Guided Case Conversation') {
+    if (rowInfo.values['special'] === 'Case Conversation') {
       return 'table-success';
     } else if (rowInfo.values['special'] === 'Film') {
       return 'table-info';
@@ -435,6 +249,104 @@ agenda_detail <- function() {
   JS("
   function(rowInfo) {
     if (rowInfo.values['special'] && rowInfo.values['special'].trim().length > 0) {
+    return `<div style='margin: 10px 10px 25px 250px;'>${rowInfo.values['detail']}</div>`
+    };
+    return ;
+  }
+     ")
+}
+
+schedule <- reactable(
+  schedule_tbl,
+  theme           = flatly(),
+  sortable        = FALSE,
+  pagination      = FALSE,
+  elementId       = "schedule",
+  defaultColDef   = colDef(minWidth = 100, style = merge_rows()),
+  columns    = list(
+    week       = colDef("W"      , maxWidth = 50 ),
+    day        = colDef("D"      , maxWidth = 50 ),
+    date       = colDef("Date"   , maxWidth = 120),
+    unit       = colDef("Unit"   , maxWidth = 120),
+    topics     = colDef(
+      "Topic"  , 
+      minWidth = 150, 
+      html     = TRUE,
+      cell = JS("
+      function(cellInfo) {
+      const 
+      }
+                ")
+      ),
+    background = colDef(
+      "Background",
+      details = function(),
+    html = TRUE
+      ),
+    cards      = colDef(show = FALSE)
+  )
+)
+schedule
+```
+
+
+```{r}
+#| include: false
+
+
+merge_rows <- function() {
+  JS("
+    function(rowInfo, column, state) {
+          const prevRow = state.pageRows[rowInfo.viewIndex - 1]
+          if (prevRow && rowInfo.values[column.id] === prevRow[column.id]) {
+            return { visibility: 'hidden' }
+          }
+      }
+  ")
+}
+
+special_style <- function() {
+  JS("
+    function(cellInfo) {
+    if (cellInfo.value && cellInfo.value.includes('Case Conversation')) {
+      return { backgroundColor: '#18bc9c', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
+    } else if (cellInfo.value && cellInfo.value.includes('Film')) {
+      return { backgroundColor: '#3498db', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
+    }
+    return ;
+    }
+     ")
+}
+
+
+special_class <- function() {
+  JS("
+    function(rowInfo) {
+    if (rowInfo.values['topics'].includes('Case Conversation') ) {
+      return 'table-success';
+    } else if (rowInfo.values['topics'].includes('Film')) {
+      return 'table-info';
+    } else if (rowInfo.values['topics'].includes('Exam')) {
+    return 'exam';
+    } else {
+    return ;
+    }
+    }
+     ")
+}
+
+content_link <- function() {
+  JS("
+  function(cellInfo) {
+  
+  }
+     ")
+}
+
+agenda_detail <- function() {
+  JS("
+  function(rowInfo) {
+    if (rowInfo.values['topics'] && rowInfo.values['topics'].trim().length > 0) {
     return `<div style='margin: 10px 10px 25px 250px;'>${rowInfo.values['detail']}</div>`
     };
     return ;

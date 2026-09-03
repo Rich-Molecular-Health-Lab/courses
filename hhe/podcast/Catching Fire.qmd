@@ -1,0 +1,20 @@
+---
+title: "Catching Fire"
+date: "2026-09-03"
+profile: "podcast"
+---
+
+![Catching Fire](https://i.scdn.co/image/ab67656300005f1f188f54599e90d89a077379e7)
+
+**Duration:** `= this.duration_string`
+**Released:** 2024
+**Series:** Big Picture Science
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/6jfG9c5PL4njvJVVeZ3XNl)
+
+[Open Series in Spotify](https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL)
+
+We have too much “bad fire.” Not only destructive wildfires, but the combustion that powers our automobiles and provides our electricity has generated a worrying rise in atmospheric carbon dioxide. And that is driving climate change which is adding to the frequency of megafires. Now we’re seeing those effects in “fire-clouds,” pyrocumulonimbus events. But there’s such a thing as “good fire.” Indigenous peoples managed the land with controlled fires, reaped the benefits of doing so, and they’re bringing them back. So after millions of years of controlling fire, is it time for us to revisit our attitudes and policies, not just with regard to combustion, but how we manage our wildfires? Guests: David Peterson - Meteorologist, U.S. Naval Research Laboratory Stephen Pyne - Emeritus professor at Arizona State University, fire historian, urban farmer, author of “The Pyrocene: How We Created an Age of Fire, and What Happens Next” Richard Wrangham - Ruth B. Moore Research Professor of Biological Anthropology at Harvard University and author of "Catching Fire: How Coooking Made Us Human" Margo Robbins - Co-founder and president of the Cultural Fire Management Council (CFMC), organizer of the Cultural Burn Training Exchange (TREX) that takes place on the Yurok Reservation twice a year, and an enrolled member of the Yurok Tribe Originally aired May 9, 2022 Featuring music by Dewey Dellay and Jun Miyake Big Picture Science is part of the Airwave Media podcast network. Please contact advertising@airwavemedia.com to inquire about advertising on Big Picture Science. You can get early access to ad-free versions of every episode by joining us on Patreon. Thanks for your support!   Learn more about your ad choices. Visit megaphone.fm/adchoices
+:::::
+

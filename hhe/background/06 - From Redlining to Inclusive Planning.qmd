@@ -1,0 +1,51 @@
+---
+topics:
+  - "[Environmental Justice](../topics/Environmental Justice.qmd)"
+  - "[Redlining](../topics/Redlining.qmd)"
+themes:
+  - "[Infrastructure](../units/Infrastructure.qmd)"
+  - "[Introduction](../units/Introduction.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "06 - From Redlining to Inclusive Planning"
+url_spotify: "https://open.spotify.com/episode/6Bbzj0S37EBZladi54d3Dr"
+description: "The Planning Accreditation Board (PAB) and AICP Code of Ethics highlight the importance of justice, equity, diversity, and inclusion (DEI) in urban planning. Planners must promote social justice, fair resource distribution, and support historically disadvantaged groups. Practical tools from the PAS Report address housing, transportation, and public health for communities of color. Historical segregation practices, like redlining, contrast with modern equitable development efforts. Effective stakeholder engagement uses conflict resolution, consensus building, mediation, and arbitration. Environmental justice, mandated by Executive Order 12898, ensures equal protection from hazards. Equitable taxation policies and participatory budgeting are essential. Policy and fiscal impact analyses guide informed decisions. By upholding DEI values, planners create more inclusive urban environments."
+released: "2024-07-26"
+image: "![06 - From Redlining to Inclusive Planning](https://i.scdn.co/image/ab67656300005f1f6840f2e6656d0656a2294160)"
+series: "Urban Planning Foundations "
+series_description: "Welcome to Urban Planning Foundations! This podcast is part of an Urban Planning Theory & History course developed by Dr. Ivis Garcia for the Texas A&M University Masters of Urban Planning program, but it’s also an invaluable resource for practicing and aspiring planners everywhere. Whether you're a student, a seasoned planner, or an aspiring professional, this podcast offers key principles and practical information to enhance your understanding of urban planning and ace the AICP exam."
+series_spotify: "https://open.spotify.com/show/2fb2DFImrKdIfsJNo1bX04"
+duration: "509204"
+classes_assigned:
+  - "ENVN4320_W5D2"
+duration_string: "0:8:29"
+type: "background"
+---
+
+# 06 - From Redlining to Inclusive Planning
+
+![06 - From Redlining to Inclusive Planning](https://i.scdn.co/image/ab67656300005f1f6840f2e6656d0656a2294160)
+
+**Duration:** `= this.duration_string`
+**Released:** 2024
+**Series:** Urban Planning Foundations 
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/6Bbzj0S37EBZladi54d3Dr)
+[Open Series in Spotify](https://open.spotify.com/show/2fb2DFImrKdIfsJNo1bX04)
+
+The Planning Accreditation Board (PAB) and AICP Code of Ethics highlight the importance of justice, equity, diversity, and inclusion (DEI) in urban planning. Planners must promote social justice, fair resource distribution, and support historically disadvantaged groups. Practical tools from the PAS Report address housing, transportation, and public health for communities of color. Historical segregation practices, like redlining, contrast with modern equitable development efforts. Effective stakeholder engagement uses conflict resolution, consensus building, mediation, and arbitration. Environmental justice, mandated by Executive Order 12898, ensures equal protection from hazards. Equitable taxation policies and participatory budgeting are essential. Policy and fiscal impact analyses guide informed decisions. By upholding DEI values, planners create more inclusive urban environments.
+:::::
+

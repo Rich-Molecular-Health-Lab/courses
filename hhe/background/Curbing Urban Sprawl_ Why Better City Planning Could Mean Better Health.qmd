@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Healthy Housing](../topics/Healthy Housing.qmd)"
+themes:
+  - "[Infrastructure](../units/Infrastructure.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-29"
+title: "Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health"
+url_spotify: "https://open.spotify.com/episode/2K4BrT85srznbG9Bgl6zw2"
+description: "About this episode:   Recent research from the Johns Hopkins Bloomberg School of Public Health finds that living in a compact metropolitan setting could yield more health benefits than living in a more sprawling suburban area. In this episode: the report's lead researcher, Shima Hamidi, explains why this is the case and how communities can reshape infrastructure to foster mobility and connection. Guest:  Shima Hamidi, PhD, MSc, is a Bloomberg Associate Professor of American Health in the Department of Environmental Health and Engineering and director of the Center for Smart Transportation. Host:   Stephanie Desmon, MA, is a former journalist, author, and the director of public relations and communications for the Johns Hopkins Center for Communication Programs. Show links and related content:    Sprawl Rankings Reveal Health Benefits and Cost Offsets in Compact, Connected U.S. County and Metro Areas—Johns Hopkins Bloomberg School of Public Health   Mapping Urban Sprawl in the U.S.@bloombergamericanhealth via Instagram   Associations between Urban Sprawl and Life Expectancy in the United States—International Journal of Environmental Research and Public Health   Relationship between urban sprawl and physical activity, obesity, and morbidity - update and refinement—Health & Place   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University."
+released: "2026-07-22"
+image: "![Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health](https://i.scdn.co/image/ab67656300005f1fa9f079a209a1669ed8f19e40)"
+series: "Public Health On Call"
+series_description: "Evidence and experts to help you understand today's public health news—and what it means for tomorrow."
+series_spotify: "https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU"
+duration: "916668"
+classes_assigned:
+  - "ENVN4320_W6D1"
+duration_string: "0:15:16"
+type: "background"
+---
+
+# Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health
+
+![Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health](https://i.scdn.co/image/ab67656300005f1fa9f079a209a1669ed8f19e40)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Public Health On Call
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/2K4BrT85srznbG9Bgl6zw2)
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   Recent research from the Johns Hopkins Bloomberg School of Public Health finds that living in a compact metropolitan setting could yield more health benefits than living in a more sprawling suburban area. In this episode: the report's lead researcher, Shima Hamidi, explains why this is the case and how communities can reshape infrastructure to foster mobility and connection. Guest:  Shima Hamidi, PhD, MSc, is a Bloomberg Associate Professor of American Health in the Department of Environmental Health and Engineering and director of the Center for Smart Transportation. Host:   Stephanie Desmon, MA, is a former journalist, author, and the director of public relations and communications for the Johns Hopkins Center for Communication Programs. Show links and related content:    Sprawl Rankings Reveal Health Benefits and Cost Offsets in Compact, Connected U.S. County and Metro Areas—Johns Hopkins Bloomberg School of Public Health   Mapping Urban Sprawl in the U.S.@bloombergamericanhealth via Instagram   Associations between Urban Sprawl and Life Expectancy in the United States—International Journal of Environmental Research and Public Health   Relationship between urban sprawl and physical activity, obesity, and morbidity - update and refinement—Health & Place   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+:::::
+

@@ -1,0 +1,20 @@
+---
+title: "Should we reengineer the world's deadliest animal?"
+date: "2026-08-28"
+profile: "podcast"
+---
+
+![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Short Wave
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/4pXSr8F6Z539jrtjxdMGy3)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+The most ferocious predator for us humans is actually quite small: the mosquito. They are hungry for blood, spreading diseases like malaria, yellow fever and dengue – and picking up new ones all the time. But what if we could wipe out the mosquito? Gene-editing technology could do it, potentially saving millions of lives. But it comes with serious potential for risk. Which begs the question: Should we get to decide when humanity rewrites nature? Here to discuss that is Ben Bradford, the host of a new podcast distributed by the NPR Network: Are We Doomed?Interested in more science? Email us your question at shortwave@npr.org.Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+:::::
+

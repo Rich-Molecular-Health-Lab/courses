@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Healthy Housing](../topics/Healthy Housing.qmd)"
+themes:
+  - "[Infrastructure](../units/Infrastructure.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "Nsilo Berry on making buildings healthier"
+url_spotify: "https://open.spotify.com/episode/3ltX9dtDHJW1TLa4QsEKvj"
+description: "Nsilo Berry joins the Agents of Change in Environmental Justice podcast to discuss hidden toxics lurking in buildings and what sustainable construction looks like."
+released: "2023-05-31"
+image: "![Nsilo Berry on making buildings healthier](https://i.scdn.co/image/ab67656300005f1f19347b0fba1311f9771a41a2)"
+series: "Agents of Change in Environmental Justice"
+series_description: "Agents of Change in Environmental Justice brings you the voices and stories of next generation environmental health and justice leaders from underrepresented backgrounds."
+series_spotify: "https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U"
+duration: "2757381"
+classes_assigned:
+  - "ENVN4320_W6D1"
+duration_string: "0:45:57"
+type: "background"
+---
+
+# Nsilo Berry on making buildings healthier
+
+![Nsilo Berry on making buildings healthier](https://i.scdn.co/image/ab67656300005f1f19347b0fba1311f9771a41a2)
+
+**Duration:** `= this.duration_string`
+**Released:** 2023
+**Series:** Agents of Change in Environmental Justice
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/3ltX9dtDHJW1TLa4QsEKvj)
+[Open Series in Spotify](https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U)
+
+Nsilo Berry joins the Agents of Change in Environmental Justice podcast to discuss hidden toxics lurking in buildings and what sustainable construction looks like.
+:::::
+

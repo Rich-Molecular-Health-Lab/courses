@@ -1,0 +1,7 @@
+---
+title: "Exam 1 ENVN4320"
+date: "2026-08-29"
+date-modified: "2026-08-29T11:15:01"
+profile: "topic"
+---
+

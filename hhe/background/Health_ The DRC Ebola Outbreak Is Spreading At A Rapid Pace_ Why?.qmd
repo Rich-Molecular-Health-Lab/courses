@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Epidemics & Pandemics](../topics/Epidemics & Pandemics.qmd)"
+themes:
+  - "[Pathogens](../units/Pathogens.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?"
+url_spotify: "https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV"
+description: "The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+released: "2026-08-25"
+image: "![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)"
+series: "1A"
+series_description: "Listening to the news can feel like a journey. But 1A guides you beyond the headlines – and cuts through the noise. Let's get to the heart of the story, together – on 1A. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for 1A."
+series_spotify: "https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK"
+duration: "2754638"
+classes_assigned:
+  - "ENVN4320_W15D2"
+duration_string: "0:45:54"
+type: "background"
+---
+
+# Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
+
+![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** 1A
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV)
+[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
+
+The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+:::::
+

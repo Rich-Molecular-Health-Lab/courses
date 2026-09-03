@@ -16,7 +16,6 @@ I post updated versions of class slide decks to this page. Please remember that 
 ::: {#slides}
 :::
 
-{{< include hhe/canva_slides.qmd >}}
 
 ::: {.callout-warning}
 ## Copyright Notice

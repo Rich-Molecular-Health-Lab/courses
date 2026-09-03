@@ -1,0 +1,860 @@
+- title: "Agricultural Pollution"
+  unit: "Toxins"
+  chapter: 4
+  section: 9
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  class_days:
+    - "ENVN4320_W12D1"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-10T16:00:00"
+- title: "Air Pollution"
+  unit: "Toxins"
+  chapter: 4
+  section: 1
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  class_days:
+    - "ENVN4320_W7D2"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-08T16:00:00"
+- title: "Biotoxins & Microbes"
+  unit: "Toxins"
+  chapter: 4
+  section: 8
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-10T16:00:00"
+  class_days:
+    - "ENVN4320_W12D1"
+- title: "Cattle"
+  skip: true
+  unit: "Food"
+  chapter: 6
+  section: 2
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    []
+- title: "Climate Change & Extreme Weather"
+  unit: "Disasters"
+  chapter: 2
+  section: 1
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "A Storm is Brewing_ Is it Climate Change?"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-03T16:00:00"
+  class_days:
+    - "ENVN4320_W2D2"
+- title: "Crops"
+  skip: true
+  unit: "Food"
+  chapter: 6
+  section: 1
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    []
+- title: "Drought"
+  unit: "Disasters"
+  chapter: 2
+  section: 4
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "What we lose if the Great Salt Lake dries up"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-15T16:00:00"
+  class_days:
+    - "ENVN4320_W4D1"
+- title: "Endocrine Disrupting Chemicals"
+  unit: "Toxins"
+  chapter: 4
+  section: 5
+  days_needed: 2
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-22T16:00:00"
+  class_days:
+    - "ENVN4320_W9D2"
+- title: "Environmental Justice"
+  keywords:
+    - "redlining"
+    - "equity"
+    - "racism"
+  unit: "Introduction"
+  chapter: 1
+  section: 3
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-01T16:00:00"
+  class_days:
+    - "ENVN4320_W2D1"
+- title: "Epidemics & Pandemics"
+  keywords: null
+  unit: "Pathogens"
+  chapter: 5
+  section: 4
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?"
+    - "Preventing Future Pandemics"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-12-03T16:00:00"
+    - "2026-12-08T16:00:00"
+  class_days:
+    - "ENVN4320_W15D2"
+    - "ENVN4320_W16D1"
+- title: "Epidemiology"
+  unit: "Introduction"
+  chapter: 1
+  section: 1
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  class_days:
+    - "ENVN4320_W1D2"
+  dates:
+    - "2026-08-27T16:00:00"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides:
+    - "http://rich-molecular-health-lab.github.io/courses/slides/hhe/1_hhe_epidemiology.html"
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+- title: "Exam 1 ENVN4320"
+  unit: "Exams ENVN4320"
+  chapter: 4
+  section: 3
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  class_days:
+    - "ENVN4320_W8D2"
+  dates:
+    - "2026-10-15T16:00:00"
+- title: "Fall Break"
+  unit: "Breaks ENVN4320"
+  chapter: 4
+  section: 4
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  class_days:
+    - "ENVN4320_W9D1"
+  dates:
+    - "2026-10-20T16:00:00"
+- title: "Final Exam"
+  unit: "Exams ENVN4320"
+  chapter: 8
+  section: null
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    []
+- title: "Fires"
+  keywords:
+    - "climate"
+    - "disasters"
+    - "fire"
+    - "heat"
+    - "smoke"
+  unit: "Disasters"
+  chapter: 2
+  section: 3
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "Are extreme wildfires the new normal?"
+    - "Catching Fire"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-10T16:00:00"
+  class_days:
+    - "ENVN4320_W3D2"
+- title: "Floods"
+  keywords:
+    - "climate"
+    - "disasters"
+    - "hurricane"
+    - "flood"
+  unit: "Disasters"
+  chapter: 2
+  section: 2
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
+    - "Hurricane Katrina"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-08T16:00:00"
+  class_days:
+    - "ENVN4320_W3D1"
+- title: "Healthy Housing"
+  keywords: null
+  unit: "Infrastructure"
+  chapter: 3
+  section: 3
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health"
+    - "Nsilo Berry on making buildings healthier"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-29T16:00:00"
+    - "2026-10-01T16:00:00"
+  class_days:
+    - "ENVN4320_W6D1"
+    - "ENVN4320_W6D2"
+- title: "Heat Islands"
+  keywords: null
+  unit: "Infrastructure"
+  chapter: 3
+  section: 1
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "Climate_ Fighting Extreme Heat In 2026"
+    - "How The Current Heat Dome Can Affect Human Health"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-22T16:00:00"
+  class_days:
+    - "ENVN4320_W5D1"
+- title: "Heavy Metals"
+  unit: "Toxins"
+  chapter: 4
+  section: 7
+  days_needed: 3
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-03T16:00:00"
+    - "2026-11-05T16:00:00"
+  class_days:
+    - "ENVN4320_W11D1"
+    - "ENVN4320_W11D2"
+- title: "One Health"
+  unit: "Introduction"
+  chapter: 1
+  section: 2
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-01T16:00:00"
+  class_days:
+    - "ENVN4320_W2D1"
+- title: "Overview & Syllabus ENVN4320"
+  unit: "Overview ENVN4320"
+  chapter: 0
+  section: 0
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  class_days:
+    - "ENVN4320_W1D1"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-08-25T16:00:00"
+- title: "PFAS"
+  unit: "Toxins"
+  chapter: 4
+  section: 6
+  days_needed: 3
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-27T16:00:00"
+    - "2026-10-29T16:00:00"
+  class_days:
+    - "ENVN4320_W10D1"
+    - "ENVN4320_W10D2"
+- title: "Radiation"
+  unit: "Toxins"
+  chapter: 4
+  section: 2
+  days_needed: 3
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-13T16:00:00"
+  class_days:
+    - "ENVN4320_W8D1"
+- title: "Redlining"
+  unit: "Infrastructure"
+  chapter: 3
+  section: 2
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "How Housing Discrimination Works"
+    - "06 - From Redlining to Inclusive Planning"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-24T16:00:00"
+  class_days:
+    - "ENVN4320_W5D2"
+- title: "Review"
+  skip: true
+  unit: "Review Days"
+  chapter: 7
+  section: null
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    []
+- title: "Thanksgiving Break ENVN4320"
+  unit: "Breaks ENVN4320"
+  chapter: 5
+  section: 2
+  days_needed: 2
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  class_days:
+    - "ENVN4320_W14D1"
+    - "ENVN4320_W14D2"
+  dates:
+    - "2026-11-24T16:00:00"
+    - "2026-11-26T16:00:00"
+- title: "Vectors"
+  keywords: null
+  unit: "Pathogens"
+  chapter: 5
+  section: 1
+  days_needed: 3
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "Our tick nightmare"
+    - "Ticks are a growing problem, no matter where you live"
+    - "Should we reengineer the world's deadliest animal?"
+    - "A New Test for Lyme Disease, Developed by High Schoolers"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-17T16:00:00"
+    - "2026-11-19T16:00:00"
+  class_days:
+    - "ENVN4320_W13D1"
+    - "ENVN4320_W13D2"
+- title: "Zoonoses"
+  keywords: null
+  unit: "Pathogens"
+  chapter: 5
+  section: 3
+  days_needed: 2
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  background:
+    - "Animal Diseases and Human Health_ The Sloth and Screwworm Episode"
+    - "Patient Zero"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-12-01T16:00:00"
+  class_days:
+    - "ENVN4320_W15D1"
