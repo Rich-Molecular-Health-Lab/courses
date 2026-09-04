@@ -19,15 +19,15 @@
 
 
 .d1 {
-  border-color: #566573;
+  border-color: #566573 #ffffff #5665731A #ffffff;
   border-width: 1px 0px 1px 4px;
-  border-style: outset none hidden hidden;
+  border-style: solid none hidden hidden;
 }
 
 .d2 {
-  border-color: #bdc0c1;
+  border-color: #5665731A #ffffff #566573 #ffffff;
   border-width: 1px 0px 1px 4px;
-  border-style: outset none solid hidden;
+  border-style: solid none hidden hidden;
 }
 
 .case {

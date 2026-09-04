@@ -1,12 +1,7 @@
 ---
-title: "Syllabus"
-date: "August 24, 2026"
-format: html
-freeze: true
+profile: syllabus
 params:
   course: "conbio_26f"
-execute:
-  freeze: true
 ---
 
 ```{r}

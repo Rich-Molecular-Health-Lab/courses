@@ -1,15 +1,8 @@
 ---
-date: "August 25, 2026"
-format: 
-  html:
-    toc: false
-    theme: flatly
-    css: ../styles/schedule.css
+profile: schedule
 image: "figures/course_header.png"
 params:
   course: "hhe_26f"
-execute:
-  freeze: auto
 ---
 
 ```{r}
@@ -17,164 +10,35 @@ execute:
 #| include: false
 
 source(here::here("_common.R"))
-```
 
-```{r}
-podcast_card_html <- function(card_data) {
-  as.character(str_glue_data(card_data, "<div class='card mb-3'><h3 class='card-header'>{clean_title}</h3><div class='card-body'><h5 class='card-title'>{series}</h5><h6 class='card-subtitle text-muted'>Released {released}, Duration {duration_string}</h6></div><svg xmlns={image_link} class='d-block user-select-none'></svg><div><ul class='list-group list-group-flush'><li class='list-group-item'><a href='{url_spotify}' class='card-link'>'Spotify Episode Link'</a></li><li class='list-group-item'><a href='{series_spotify}' class='card-link'>'Spotify Series Link'</a></li><li class='list-group-item'><a href='https://rich-molecular-health-lab.github.io/courses/{course_name}/podcast/{title}.html' class='card-link'>'Transcript'</a></li><li class='list-group-item'>'Class Theme: {themes}'</li><li class='list-group-item'>'Class Topic: {topics}'</li><li class='list-group-item'>'Listen before: {deadline}'</li></ul></div><div class='card-footer text-muted'><div class='accordion' id='accordion_description'><div class='accordion-item'><h2 class='accordion-header' id='headingOne'><button class='accordion-button' type='button' data-bs-toggle='collapse' data-bs-target='#collapseOne' aria-expanded='true' aria-controls='collapseOne'>'Description'</button></h2><div id='collapseOne' class='accordion-collapse collapse show' aria-labelledby='headingOne' data-bs-parent='#accordion_description'><div class='accordion-body'>'{description}'</div></div></div></div></div></div>"))
-}
-
-case_card_html <- function(card_data) {
-  as.character(str_glue_data(card_data, "<div class='card border-success mb-1 w-50'><div class='card-header'>Case Conversation {number}</div><div class='card-body'><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Topic:</strong><p class='card-text mb-1'>{unit}</p></div><div class='d-flex w-100 justify-content-between'><strong class='card-text mb-1'>Leaders:</strong><p class='card-text mb-1'>{leaders}</p></div>"))
-}
-```
-
-
-```{r}
-podcast_card <- function(podcast, course_name = str_remove(params$course, "_.+$")) {
-  classes <- pluck(podcast, "classes_assigned", 1)
-  deadline <- sprintf("%s (%s)", str_extract(classes$date, "(?<=2026-)\\d+-\\d+"), str_extract(classes$class_day, "(?<=_).+$"))
-  card_data <- list_assign(
-    podcast,
-    clean_title     = str_remove_all(pluck(podcast, "title"), "_"),
-    image_link      = str_sub(str_extract(pluck(podcast, "image"), "https.+"), 1, -2),
-    course_name     = course_name,
-    themes          = str_flatten_comma(unlist(pluck(podcast, "themes"))),
-    topics          = str_flatten_comma(unlist(pluck(podcast, "topics"))),
-    deadline        = deadline
-  )
-    
-  return(podcast_card_html(card_data))
-}
-
-case_card <- function(case_convo, course_name = str_remove(params$course, "_.+$")) {
-  leaders <- if (length(pluck(case_convo, "leaders")) > 0) str_flatten_comma(unlist(pluck(case_convo, "leaders"))) else "Not assigned"
-  card_data <- list_assign(
-    case_convo,
-    leaders = leaders
-  )
-    
-  return(case_card_html(card_data))
-}
-
-merge_cards <- function(cards) {
-  as.character(
-    paste0(
-      "<div><ul class='list-group-flush'><li class='list-group-item'>",
-      str_c(cards, sep = "</li><li class='list-group-item'>"),
-      "</li></ul></div>"
-      )
-    )
-}
-
-merge_days <- function(days, list) {
-  map(days, \(x) compact(list(keep_at(list, \(y) str_starts(y, x))))) %>%
-    compact() %>%
-    list_flatten()
-    set_names(map(., \(x) pluck(x, ))) %>%
-    compact() %>%
-    map(merge_cards)
-}
-```
-
-```{r}
-podcast_list <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "podcast.yaml")) %>%
-  set_names(map(., \(x) str_extract(pluck(x, "classes_assigned", 1, "class_day"), "(?<=_).+$"))) %>%
-  map(podcast_card)
-case_convos <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "case_convos.yaml")) %>%
-  set_names(map(., \(x) sprintf("%s_%s", str_extract(pluck(x, "class_days", 1), "(?<=_).+$"), pluck(x, "number")))) %>%
-  map(case_card)
-
-case_convo_list <- merge_days(names(schedule_list), case_convos)
-```
-
-
-```{r}
-page_link <- function(title, path) {
-  sprintf(
-    "<span class='nav-item'><a class='nav-link active' href='%s' target='_blank'><span class='text-info-emphasis'><i class='fa-solid fa-link' style='padding: 7px;'></i>%s</span></a></span>",
-    path,
-    title
-    )
-}
-
-format_html <- function(li, course_name = str_remove(params$course, "_.+$")) {
-  if (length(li) < 1) return(li)
-  titles <- map(li, \(x) str_remove_all(pluck(x, "title"), "_"))
-  links  <- map(li, \(x) sprintf("https://rich-molecular-health-lab.github.io/courses/%s/%s", course_name, str_replace(pluck(x, "path"), "qmd", "html")))
-  
-  result <- map(li, \(x) page_link(
-    title = str_remove_all(pluck(x, "title"), "_"),
-    path  = sprintf("https://rich-molecular-health-lab.github.io/courses/%s/%s", course_name, str_replace(pluck(x, "path"), "qmd", "html"))
-    )) %>%
-    unlist() %>%
-    str_flatten_comma()
-  
-  return(result)
-}
-
-
-case_badge <- "<span class='badge bg-info'>Case Conversation</span>"
-film_badge <- "<span class='badge bg-secondary'>Film</span>"
-
-categorize_class <- function(class_day) {
-    themes <- pluck(class_day, "unit") %>%
-      list_flatten(name_spec = "{inner}") %>%
-      keep_at("title") %>%
-      unlist() %>%
-      str_flatten_comma()
-    topics <- pluck(class_day, "topics") %>%
-      list_flatten(name_spec = "{inner}") %>%
-      keep_at("title") %>%
-      unlist() %>%
-      str_flatten_comma()
-    
-  if (str_detect(themes, "Exam") || str_detect(topics, "Exam")) {
-    row     <- "dexam"
-    special <- NA_character_
-  } else if (str_detect(themes, "(Holiday)|(Break)|(No Class)") || str_detect(topics, "(Holiday)|(Break)|(No Class)")) {
-    row     <- "dnoclass"
-    special <- NA_character_
-  } else {
-    row     <- str_to_lower(str_extract(pluck(class_day, "class_day"), "D\\d+"))
-    if (length(pluck(class_day, "background")) > 0) {
-      special <- "Podcast"
-    } else if (str_detect(themes, "Case Conversation") || str_detect(topics, "Case Conversation")) {
-      special <- "Case Conversation"
-    } else if (str_detect(themes, "Film") || str_detect(topics, "Film")) {
-      special <- "Film"
-    } else {
-      special <- NA_character_
-    }
-  }
-    return(list_assign(class_day, row = row, special = special))
-}
-
-```
-
-```{r}
+podcasts <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "podcast.yaml"))
+case_convos <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "case_convos.yaml"))
 
 schedule_list <- yaml::read_yaml(here::here("hhe/schedule.yaml")) %>%
   set_names(map(., \(x) str_extract(pluck(x, "class_day"), "(?<=_).+$"))) %>%
-  map(categorize_class) %>%
-  map(\(x) map_at(x, c("background", "unit", "topics"), format_html)) %>%
-  map(list_flatten) %>%
-  imap(\(x, idx) list_assign(x, podcast = pluck(podcast_card_list, idx)))
+  map(\(x) list_assign(
+    x,
+    row  = row_vals(x),
+    unit = format_unit(x),
+    topics = topics_linked(x)
+    )) %>%
+  map(\(x) list_assign(
+    x, 
+    background = keep(podcasts, \(y) pluck(y, "classes_assigned", 1, "class_day") %in% pluck(x, "class_day")), 
+    case_convo = keep(case_convos, \(y) pluck(y, "class_days") %in% pluck(x, "class_day"))
+    )) %>%
+  map(\(x) list_assign(
+    x,
+    special    = special_vals(x),
+    background = podcast_card(pluck(x, "background")),
+    case_convo = case_card(pluck(x, "case_convo"))
+    )) %>%
+  map(\(x) list_assign(
+    x, 
+    detail = merge_cards(c(pluck(x, "background"), pluck(x, "case_convo")))
+    ))
 
-```
 
-
-## Course Schedule
-
-:::{.callout-note}
-
-This schedule is tentative and subject to change at any time, so check the online version regularly. You are solely responsible for keeping up with assigned textbook readings, exams, and assignment deadlines. We may also complete graded, in-class activities or quizzes not listed here without notice.
-
-Textbook sections should be read before the class for which they are listed.
-
-:::
-
-```{r}
 schedule_tbl <- schedule_list %>%
   enframe(name = "week_day") %>%
   unnest_wider(value) %>%
@@ -188,196 +52,49 @@ schedule_tbl <- schedule_list %>%
     date,
     unit,
     topics,
-    background,
-    podcast,
+    detail,
     row,
     special
   )
 ```
 
-```{r}
+:::{.column-page-inset}
 
-merge_rows <- function() {
-  JS("
-    function(rowInfo, column, state) {
-          const prevRow = state.pageRows[rowInfo.viewIndex - 1]
-          if (prevRow && rowInfo.values[column.id] === prevRow[column.id]) {
-            return { visibility: 'hidden' }
-          }
-      }
-  ")
-}
+:::{.callout-note collapse="true"}
 
-special_style <- function() {
-  JS("
-    function(cellInfo) {
-    if (cellInfo.value && cellInfo.value === 'Case Conversation') {
-      return { backgroundColor: '#18bc9c', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
-    } else if (cellInfo.value && cellInfo.value === 'Film') {
-      return { backgroundColor: '#3498db', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
-    }
-    return ;
-    }
-     ")
-}
+This schedule is tentative and subject to change at any time, so check the online version regularly. You are solely responsible for keeping up with assigned textbook readings, exams, and assignment deadlines. We may also complete graded, in-class activities or quizzes not listed here without notice.
 
-special_class <- function() {
-  JS("
-    function(rowInfo) {
-    if (rowInfo.values['special'] === 'Case Conversation') {
-      return 'table-success';
-    } else if (rowInfo.values['special'] === 'Film') {
-      return 'table-info';
-    }
-    }
-     ")
-}
+Textbook sections should be read before the class for which they are listed.
 
-topic_class <- function() {
-  JS("
-    function(rowInfo) {
-    if (rowInfo.values['row'] === 'dexam') {
-      return 'exam';
-    } else {
-      return ;
-    }
-    }
-     ")
-}
-
-agenda_detail <- function() {
-  JS("
-  function(rowInfo) {
-    if (rowInfo.values['special'] && rowInfo.values['special'].trim().length > 0) {
-    return `<div style='margin: 10px 10px 25px 250px;'>${rowInfo.values['detail']}</div>`
-    };
-    return ;
-  }
-     ")
-}
-
-schedule <- reactable(
-  schedule_tbl,
-  theme           = flatly(),
-  sortable        = FALSE,
-  pagination      = FALSE,
-  elementId       = "schedule",
-  defaultColDef   = colDef(minWidth = 100, style = merge_rows()),
-  columns    = list(
-    week       = colDef("W"      , maxWidth = 50 ),
-    day        = colDef("D"      , maxWidth = 50 ),
-    date       = colDef("Date"   , maxWidth = 120),
-    unit       = colDef("Unit"   , maxWidth = 120),
-    topics     = colDef(
-      "Topic"  , 
-      minWidth = 150, 
-      html     = TRUE,
-      cell = JS("
-      function(cellInfo) {
-      const 
-      }
-                ")
-      ),
-    background = colDef(
-      "Background",
-      details = function(),
-    html = TRUE
-      ),
-    cards      = colDef(show = FALSE)
-  )
-)
-schedule
-```
+:::
 
 
 ```{r}
 #| include: false
 
-
-merge_rows <- function() {
-  JS("
-    function(rowInfo, column, state) {
-          const prevRow = state.pageRows[rowInfo.viewIndex - 1]
-          if (prevRow && rowInfo.values[column.id] === prevRow[column.id]) {
-            return { visibility: 'hidden' }
-          }
-      }
-  ")
-}
-
-special_style <- function() {
-  JS("
-    function(cellInfo) {
-    if (cellInfo.value && cellInfo.value.includes('Case Conversation')) {
-      return { backgroundColor: '#18bc9c', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
-    } else if (cellInfo.value && cellInfo.value.includes('Film')) {
-      return { backgroundColor: '#3498db', color: '#fff', fontWeight: 'bold', fontVariant: 'small-caps', border: '1px outset #fff' };
-    }
-    return ;
-    }
-     ")
-}
-
-
-special_class <- function() {
-  JS("
-    function(rowInfo) {
-    if (rowInfo.values['topics'].includes('Case Conversation') ) {
-      return 'table-success';
-    } else if (rowInfo.values['topics'].includes('Film')) {
-      return 'table-info';
-    } else if (rowInfo.values['topics'].includes('Exam')) {
-    return 'exam';
-    } else {
-    return ;
-    }
-    }
-     ")
-}
-
-content_link <- function() {
-  JS("
-  function(cellInfo) {
-  
-  }
-     ")
-}
-
-agenda_detail <- function() {
-  JS("
-  function(rowInfo) {
-    if (rowInfo.values['topics'] && rowInfo.values['topics'].trim().length > 0) {
-    return `<div style='margin: 10px 10px 25px 250px;'>${rowInfo.values['detail']}</div>`
-    };
-    return ;
-  }
-     ")
-}
-
 schedule <- reactable(
-  schedule_data,
-  theme           = flatly(),
+  schedule_tbl,
   sortable        = FALSE,
   pagination      = FALSE,
-  rowClass        = JS(" function(rowInfo) { return rowInfo.values['row'] } "),
   elementId       = "schedule",
-  defaultColDef   = colDef(minWidth = 100, html = TRUE, style = merge_rows()),
+  rowClass        = JS(" function(rowInfo) { return rowInfo.values['row'] } "),
+  defaultColDef   = colDef(minWidth = 100, style = merge_rows(), vAlign = "top"),
   columns    = list(
-    Week    = colDef("Wk"     , maxWidth = 50 ),
-    Date    = colDef("Day"    , maxWidth = 120),
-    special = colDef("Agenda" , details = agenda_detail(), style = special_style()),
-    Time    = colDef("Time"   , minWidth = 50 ),
-    topic   = colDef("Topic"  , minWidth = 150, class = topic_class()),
-    reading = colDef("Reading"),
-    detail  = colDef(show = FALSE),
-    row     = colDef(show = FALSE)
+    week       = colDef("W"      , maxWidth = 50 ),
+    wday       = colDef("D"      , maxWidth = 50 ),
+    date       = colDef("Date"   , maxWidth = 100),
+    unit       = colDef("Unit"   , maxWidth = 140, html = TRUE, class = topic_class()),
+    topics     = colDef("Topic"  , html = TRUE, class = topic_class()),
+    special    = colDef("Due"    , minWidth = 150, html = TRUE, details = agenda_detail(), style = special_style()),
+    detail     = colDef(show = FALSE),
+    row        = colDef(show = FALSE)
   )
 )
 
 ```
 
-
 ```{r}
+#| include: true
 #| column: page-inset
 
 tags$button(
@@ -389,10 +106,11 @@ tags$button(
 
 
 ```{r}
+#| include: true
 #| column: page-inset
 
 schedule
 ```
 
-
+:::
     

@@ -11,6 +11,7 @@ project:
     - conbio_slides.qmd
     - hhe_slides.qmd
     - conbio/schedule.qmd
+    - hhe/schedule.qmd
     - conbio/syllabus.qmd
     - hhe/syllabus.qmd
     - conbio/index.qmd
@@ -53,6 +54,8 @@ website:
             href: "hhe/index.qmd"
           - text: "Syllabus"
             href: "hhe/syllabus.qmd"
+          - text: "Schedule"
+            href: "hhe/schedule.qmd"
           - text: "Slide Decks"
             href: "hhe_slides.qmd"
     right:
@@ -68,15 +71,12 @@ format:
     toc-depth: 4
     toc-location: left
     toc-title: "Contents"
-    theme: flatly
+    theme: materia
     page-layout: full
     smooth-scroll: true
     include-in-header:
       - text: |
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-          <link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&family=Cabin+Condensed:wght@400;500;600;700&family=Yaldevi:wght@200..700&display=swap" rel="stylesheet">
-
-editor: source
+          <script src="https://kit.fontawesome.com/eba65c29db.js" crossorigin="anonymous"></script>
 

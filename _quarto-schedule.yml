@@ -1,0 +1,19 @@
+execute:
+  freeze: auto
+  include: false
+date: "August 24, 2026"
+date-modified: today
+date-format: "ddd MMM D, YYYY"
+title: "Course Schedule"
+author: "Dr. Rich"
+format:
+  html:
+    toc: false
+    theme: sandstone
+    page-layout: full
+    css: ../styles/schedule.css
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <script src="https://kit.fontawesome.com/eba65c29db.js" crossorigin="anonymous"></script>

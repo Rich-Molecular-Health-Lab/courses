@@ -1,16 +1,20 @@
 ---
-title: "Syllabus"
-date: "August 25, 2025"
-format: html
-freeze: true
+profile: syllabus
 params:
   course: "hhe_26f"
 ---
 
-```{r setup, include = FALSE}
+```{r}
+#| context: setup
+#| include: false
+
 here::i_am("hhe/syllabus.qmd")
 source(here::here("_common.R"))
 course_short <- str_extract(params$course, "\\w+(?=_)")
+
+learning_outcomes(params$course) %>% gtsave(here(paste0(course_short, "/figures/syllabus/learning_outcomes.png")))
+grade_breakdown(params$course)   %>% gtsave(here(paste0(course_short, "/figures/syllabus/grade_breakdown.png")))
+resources(params$course)         %>% gtsave(here(paste0(course_short, "/figures/syllabus/resources.png")))
 ```
 
 
@@ -24,7 +28,7 @@ withTags(
       span("Course Logistics"),
       span(course_info[[params$course]][["course_no"]])
     ),
-    card_image(file = paste0("graphics/", course_info[[params$course]][["file_prefix"]], "_header.png"), width = "100%"),
+    card_image(file = sprintf("graphics/%s_header.png", course_info[[params$course]][["file_prefix"]]), width = "100%"),
     card_title(paste0("This course meets: ", course_info[[params$course]][["day_time"]], " in ", course_info[[params$course]][["location"]])),
     accordion(
       accordion_panel(
@@ -43,6 +47,13 @@ withTags(
 
 ### Instructor  { .heading-hide-text }
 
+:::{.callout-note}
+
+[Use this link to book a meeting](https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink)
+
+:::
+
+
 ```{r}
 
 content_card(
@@ -54,14 +65,14 @@ content_card(
         item_list = list(
           "Please call me:"   = "Dr. Rich or Professor Rich (she/her)",
           "Find me in:"       = "Allwine Hall 413",
-          "Office Hours:"     = "By appointment Thur 12-2 or Fri 1-3",
+          "Office Hours:"     = "By appointment Tues 11-1 or Thur 1-2",
           "Remote Meetings:"  = tags$a(href = "https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu", "Video or direct message via Zoom"),
           "Contact me via:"   = tags$a(href = "mailto:aliciarich@unomaha.edu", "aliciarich@unomaha.edu")
         )
       )
     ),
     footer_text   = div(
-      p("I will be reachable via Zoom during office hours, or you may email me at least 1 business day in advance to arrange an in-person meeting."),
+      p(tags$a(href = "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink", "Use this bookings link to schedule a time to meet in my office or on Zoom during office hours.")),
       p(
         span(tags$strong("Please use email and not canvas messages for communication.")),
         "You can expect a response within 2 business days, ",
@@ -83,7 +94,7 @@ content_card(
 if (course_short == "hhe") {
   content_card(
       title_text    = textbooks[[course_short]][["title"]],
-      subtitle_text = tags$a(href = sprintf("https://rich-molecular-health-lab.github.io/courses/%s/schedule.html", course_short), "See course schedule for deadlines."),
+      subtitle_text = tags$a(href = sprintf("https://rich-molecular-health-lab.github.io/courses/schedules/%s.html", course_short), "See course schedule for deadlines."),
       body          = accordion(
         accordion_panel(
           "Access Spotify Playlist",
@@ -202,10 +213,10 @@ slos[[course_short]] %>%
   format       <- pluck(course_info, params$course, "project")
   totals       <- assessment_course(params$course)
   deadline     <- tags$a(href = sprintf("https://rich-molecular-health-lab.github.io/courses/%s/schedule.html", course_short), "See course schedule")
-  if (format == "Grant Proposal") {
-    points   <- assessment[[params$course]]$assignments$grant_proposal
-    subtitle <- "Essay Assignment"
-    detail   <- span("Modified version of the ", a(href = "https://www.aza.org/cgf-tips-for-success", "AZA Conservation Grants Fund Proposal"))
+  if (format == "Guided Case Conversations") {
+    points   <- sum(as.numeric(assessment[[params$course]]$assignments$case_convo1), as.numeric(assessment[[params$course]]$assignments$case_convo2))
+    subtitle <- "Group Project"
+    detail   <- "Each student will lead a class discussion two times during the semester."
 
   } else if (str_detect(format, "Portfolio")) {
     points <- assessment[[params$course]]$assignments$portfolio
@@ -258,9 +269,9 @@ content_card(
       list_lead = "General Exam Format:",
       layout    = "grid",
       item_list = list(
-        "Multiple Choice" = "50%",
-        "True/False"      = "10%",
-        "Short Essay*"    = "40%"
+        "Multiple Choice" = "60%",
+        "True/False"      = "20%",
+        "Short Essay*"    = "20%"
       )
     ),
     p(
@@ -629,3 +640,4 @@ content_card(
   )
 ```
 
+{{< include schedule.qmd >}}

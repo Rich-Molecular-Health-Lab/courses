@@ -10,8 +10,8 @@
   {
     "listing": "/conbio/index.html",
     "items": [
-      "/conbio/syllabus.html",
-      "/conbio/schedule.html"
+      "/conbio/schedule.html",
+      "/conbio/syllabus.html"
     ]
   },
   {
@@ -36,6 +36,13 @@
       "/slides/hhe/1-2_environmental_justice.html",
       "/slides/hhe/1-3_one_health.html",
       "/slides/hhe/2_1_climate.html"
+    ]
+  },
+  {
+    "listing": "/hhe/index.html",
+    "items": [
+      "/hhe/schedule.html",
+      "/hhe/syllabus.html"
     ]
   }
 ]

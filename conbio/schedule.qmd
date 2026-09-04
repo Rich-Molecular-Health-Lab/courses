@@ -1,15 +1,8 @@
 ---
-date: "August 26, 2026"
-format: 
-  html:
-    toc: false
-    theme: flatly
-    css: ../styles/schedule.css
+profile: schedule
 image: "figures/course_header.png"
 params:
   course: "conbio_26f"
-execute:
-  freeze: auto
 ---
 
 ```{r}
@@ -291,9 +284,11 @@ schedule_data <- list(
 save(schedule_data, file = here(course_short, "schedule_data.RData"))
 ```
 
-## Course Schedule
 
-:::{.callout-note}
+
+:::{.column-page-inset}
+
+:::{.callout-note collapse="true"}
 
 This schedule is tentative and subject to change at any time, so check the online version regularly. You are solely responsible for keeping up with assigned textbook readings, exams, and assignment deadlines. We may also complete graded, in-class activities or quizzes not listed here without notice.
 
@@ -367,7 +362,6 @@ agenda_detail <- function() {
 
 schedule <- reactable(
   schedule_data,
-  theme           = flatly(),
   sortable        = FALSE,
   pagination      = FALSE,
   rowClass        = JS(" function(rowInfo) { return rowInfo.values['row'] } "),
@@ -390,6 +384,7 @@ schedule <- reactable(
 
 ```{r}
 #| column: page-inset
+#| include: true
 
 tags$button(
       class = "btn btn-primary",
@@ -401,9 +396,11 @@ tags$button(
 
 ```{r}
 #| column: page-inset
+#| include: true
 
 schedule
 ```
 
+:::
 
     
