@@ -7,11 +7,15 @@ project:
     - resources/conbio/*/*.qmd
     - resources/hhe/*/*.qmd
     - resources/bio2lab/*.qmd
+    - conbio_resources.qmd
+    - hhe_resources.qmd
+    - bio2lab_resources.qmd
     - slides/conbio/*.qmd
     - slides/hhe/*.qmd
     - conbio/schedule.qmd
     - hhe/schedule.qmd
     - conbio_slides.qmd
+    - bio2lab_slides.qmd
     - hhe_slides.qmd
     - conbio/syllabus.qmd
     - hhe/syllabus.qmd

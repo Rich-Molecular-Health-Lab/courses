@@ -6,7 +6,8 @@ profile:
 listing: 
   id: conbio-resources
   contents:
-    - "resources/conbio/*.qmd"
+    - "resources/conbio/*"
+    - "films/conbio/*"
 ---
 
 

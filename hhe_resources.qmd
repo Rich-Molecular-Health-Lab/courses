@@ -6,7 +6,7 @@ profile:
 listing: 
   id: hhe-resources
   contents:
-    - "resources/hhe/*.qmd"
+    - "resources/hhe/*"
 ---
 
 

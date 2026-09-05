@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guided Case Conversation Schedule – Course Information</title>
+<title>Resources – Course Information</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,24 +26,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../../">
-<link href="../../../images/logo_richlab.png" rel="icon" type="image/png">
-<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-de60624a5cb141114e0ea2b9bc293073.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/logo_richlab.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-de60624a5cb141114e0ea2b9bc293073.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,22 +73,72 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-bio2-resources .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-bio2-resources'] = new List('listing-bio2-resources', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
-<script src="../../../site_libs/core-js-2.5.3/shim.min.js"></script>
-<script src="../../../site_libs/react-18.2.0/react.min.js"></script>
-<script src="../../../site_libs/react-18.2.0/react-dom.min.js"></script>
-<script src="../../../site_libs/reactwidget-2.0.0/react-tools.js"></script>
-<link href="../../../site_libs/htmltools-fill-0.5.9/fill.css" rel="stylesheet">
-<script src="../../../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<link href="../../../site_libs/reactable-0.4.5/reactable.css" rel="stylesheet">
-<script src="../../../site_libs/reactable-binding-0.4.5/reactable.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <script src="https://kit.fontawesome.com/eba65c29db.js" crossorigin="anonymous"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Guided Case Conversation Schedule – Course Information">
-<meta property="og:description" content="Conservation Biology">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Resources – Course Information">
+<meta property="og:description" content="Biology 2 Lab">
 <meta property="og:site_name" content="Course Information">
 </head>
 
@@ -97,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Course Information</span>
     </a>
   </div>
@@ -113,23 +165,23 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-conservation-biology">    
         <li>
-    <a class="dropdown-item" href="../../../conbio/index.html">
+    <a class="dropdown-item" href="./conbio/index.html">
  <span class="dropdown-text">Course Homepage</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../conbio/schedule.html">
+    <a class="dropdown-item" href="./conbio/schedule.html">
  <span class="dropdown-text">Schedule</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../conbio_slides.html">
+    <a class="dropdown-item" href="./conbio_slides.html">
  <span class="dropdown-text">Slide Decks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../conbio/syllabus.html">
+    <a class="dropdown-item" href="./conbio/syllabus.html">
  <span class="dropdown-text">Syllabus</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../conbio_resources.qmd">
+    <a class="dropdown-item" href="./conbio_resources.html">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -140,23 +192,23 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-human-health--the-environment">    
         <li>
-    <a class="dropdown-item" href="../../../hhe/index.html">
+    <a class="dropdown-item" href="./hhe/index.html">
  <span class="dropdown-text">Course Homepage</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../hhe/schedule.html">
+    <a class="dropdown-item" href="./hhe/schedule.html">
  <span class="dropdown-text">Schedule</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../hhe_slides.html">
+    <a class="dropdown-item" href="./hhe_slides.html">
  <span class="dropdown-text">Slide Decks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../hhe/syllabus.html">
+    <a class="dropdown-item" href="./hhe/syllabus.html">
  <span class="dropdown-text">Syllabus</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../hhe_resources.qmd">
+    <a class="dropdown-item" href="./hhe_resources.html">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -167,11 +219,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-biology-2-lab">    
         <li>
-    <a class="dropdown-item" href="../../../bio2lab_slides.qmd">
+    <a class="dropdown-item" href="./bio2lab_slides.html">
  <span class="dropdown-text">Slide Decks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../../bio2lab_resources.qmd">
+    <a class="dropdown-item" href="./bio2lab_resources.html">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -208,8 +260,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Guided Case Conversation Schedule</h1>
-<p class="subtitle lead">Conservation Biology</p>
+<h1 class="title">Resources</h1>
+<p class="subtitle lead">Biology 2 Lab</p>
 </div>
 
 
@@ -232,12 +284,70 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="cell">
-<div class="cell-output-display">
-<div class="reactable html-widget html-fill-item" id="htmlwidget-87ff88aaf86045af4bf7" style="width:auto;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-87ff88aaf86045af4bf7">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"case_id":[1,2,3,4,5,6,7,8],"Week":[4,6,7,8,9,12,14,15],"Date":["Wed, Feb 04","Mon, Feb 16","Mon, Feb 23","Wed, Mar 04","Wed, Mar 11","Wed, Apr 01","Wed, Apr 15","Wed, Apr 22"],"case":["Extinction","Habitat Loss, Fragmentation, and Degradation","Overexploitation","Invasive Alien Species","Climate Change","Species-Level Approaches","Community & Ecosystem Approaches","Landscape-Scale Approaches"],"group_id":["98176","98177","98178","98179","98944","98945","98946","98947"],"members_count":[3,4,4,4,4,4,3,4],"leaders":[["Sam Dillon","Francesca Kerkhofs","Zipporah Piper"],["Amanda Fagan","Litzy Jaime","Chloe Miller","Joel Miller"],["Angel Pierson","Hannah Pierson","Lindy Slatten","Grecia Torres","Quinton Vieyra"],["E. Bradley","Cian Hassovic","Samuel Jacobsen","Jameson Young"],["E. Bradley","Cian Hassovic","Samuel Jacobsen","Jameson Young"],["Amanda Fagan","Litzy Jaime","Chloe Miller","Joel Miller"],["Angel Pierson","Hannah Pierson","Lindy Slatten","Grecia Torres"],["Sam Dillon","Francesca Kerkhofs","Zipporah Piper","Quinton Vieyra"]]},"columns":[{"id":".details","name":"","type":null,"align":"center","sortable":false,"resizable":false,"filterable":false,"searchable":false,"width":45,"details":"\n    function(rowInfo) {\n      const leadersWrapped = rowInfo.values.leaders;\n\n      const leaders =\n        (leadersWrapped && leadersWrapped.value !== undefined)\n          ? leadersWrapped.value\n          : (leadersWrapped || []);\n\n      const leaderArray = Array.isArray(leaders) ? leaders : [leaders];\n\n      const items = leaderArray.map((item, index) =>\n        React.createElement(\n          'li',\n          { key: index, className: 'list-group-item text-muted mx-1 border-0' },\n          String(item)\n        )\n      );\n\n      return React.createElement(\n        'ul',\n        { className: 'list-group list-group-horizontal list-group-flush border border-light mx-5 mt-1 mb-5 p-0' },\n        items\n      );\n    }\n  "},{"id":"case_id","name":"No.","type":"numeric","align":"left","cell":"\n    function(cellInfo) {\n      const badgeVal = cellInfo.value;\n\n      return React.createElement(\n          'badge',\n          { className: 'badge bg-secondary rounded-pill me-1' },\n          '' + String(badgeVal)\n      );\n    }\n  ","html":true,"maxWidth":50},{"id":"Week","name":"Week","type":"numeric","align":"left","show":false},{"id":"Date","name":"Date","type":"character","align":"left","maxWidth":250},{"id":"case","name":"Topic","type":"character","align":"left"},{"id":"group_id","name":"group_id","type":"character","align":"left","show":false},{"id":"members_count","name":"members_count","type":"numeric","align":"left","show":false},{"id":"leaders","name":"leaders","type":"list","align":"left","show":false}],"defaultExpanded":true,"theme":{"color":"#3e3f3a","backgroundColor":"#ffffff","borderColor":"#f8f5f0","borderWidth":"1px","stripedColor":"#ededed","highlightColor":"#f8f5f0","cellPadding":6,"tableStyle":{"fontSize":15},"headerStyle":{"borderWidth":"2px","backgroundColor":"#f8f5f0","color":"#7c7a78","transitionDuration":"0.5s","&:hover[aria-sort]":{"color":"#000000"},"&[aria-sort='ascending'], &[aria-sort='descending']":{"color":"#000000"},"fontSize":16},"groupHeaderStyle":{"&:not(:empty)":{"color":"#3e3f3a","fontSize":16},"&:hover":{"fontWeight":"bold","transitionDuration":"1s","transitionTimingFunction":"ease-out","color":"#000000"}},"rowSelectedStyle":{"backgroundColor":"#dfd7ca","color":"#8e8c84"},"inputStyle":{"backgroundColor":"#ffffff","borderColor":"#bcbfc1","color":"#3e3f3a"},"searchInputStyle":{"backgroundColor":"#ffffff","color":"#3e3f3a","borderColor":"#bcbfc1","&:focus":{"color":"#3e3f3a"}},"selectStyle":{"backgroundColor":"#dfd7ca","color":"#8e8c84","borderColor":"#ffffff","outlineColor":"#ffffff"},"pageButtonStyle":{"backgroundColor":"#f8f5f0","color":"#8e8c84","&:hover":{"backgroundColor":"#f3969a","color":"#8e8c84"}},"pageButtonHoverStyle":{"backgroundColor":"#dfd7ca","color":"#8e8c84"},"pageButtonActiveStyle":{"backgroundColor":"#dfd7ca","color":"#8e8c84"},"pageButtonCurrentStyle":{"backgroundColor":"#dfd7ca","color":"#8e8c84"}},"dataKey":"9a1d80e626c00ef42f0561a023511c0e"},"children":[]},"class":"reactR_markup"},"evals":["tag.attribs.columns.0.details","tag.attribs.columns.1.cell"],"jsHooks":[]}</script>
+<div id="listing-bio2-resources" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1787687049556" data-listing-reading-time-sort="6" data-listing-word-count-sort="1089">
+<div class="thumbnail"><a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">Behavioral Observation and Hypothesis Testing</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">BIOL 1750 Laboratory Exercise</a>
+</div>
+<div class="delink listing-description"><a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">
+<div class="listing-author">
+Dr.&nbsp;Alicia Rich
+</div>
+</a>
 </div>
 </div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1788631522486">
+<div class="thumbnail"><a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external"></a>
+</h3>
+<div class="listing-subtitle">
+<a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">Biology 2 Laboratory</a>
+</div>
+<div class="delink listing-description"><a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">
+</a></div>
+</div>
+<div class="metadata">
+<a href="./resources/bio2lab/bio2_behavior.pdf" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Copyright Notice
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>© 2025 Dr.&nbsp;Alicia M. Rich, University of Nebraska Omaha.<br>
+Redistribution or reuse requires explicit permission.</p>
+</div>
+</div>
+
 
 
 
@@ -660,5 +770,5 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<script src="../../../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

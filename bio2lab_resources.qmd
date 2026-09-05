@@ -6,7 +6,7 @@ profile:
 listing: 
   id: bio2-resources
   contents:
-    - "resources/bio2lab/*.qmd"
+    - "resources/bio2lab/*"
 ---
 
 

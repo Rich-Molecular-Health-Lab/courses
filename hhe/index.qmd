@@ -8,14 +8,13 @@ listing:
   contents:
     - "syllabus.qmd"
     - "schedule.qmd"
+    - "../slides/hhe/*.qmd"
   type: grid
 ---
 
 On this site you can find the most up to date syllabi and schedules for Human Health & the Environment at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
 
-<a href="https://rich-molecular-health-lab.github.io/courses/hhe_slides.html"><i class="fa-brands fa-slideshare"></i> Slide Decks Available Here</a>
-
-## Syllabus and Schedule
+<a href="https://rich-molecular-health-lab.github.io/courses/hhe_slides.html"><i class="fa-brands fa-slideshare"></i> Slide Decks List</a>
 
 ::: {#hhe-index}
 

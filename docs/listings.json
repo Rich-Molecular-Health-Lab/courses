@@ -16,6 +16,24 @@
     ]
   },
   {
+    "listing": "/bio2lab_slides.html",
+    "items": []
+  },
+  {
+    "listing": "/bio2lab_resources.html",
+    "items": [
+      "/resources/bio2lab/bio2_behavior.pdf"
+    ]
+  },
+  {
+    "listing": "/conbio_resources.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe_resources.html",
+    "items": []
+  },
+  {
     "listing": "/conbio_slides.html",
     "items": [
       "/slides/conbio/2_contemporary_conservation_biology.html",
@@ -37,6 +55,11 @@
     "listing": "/hhe/index.html",
     "items": [
       "/hhe/syllabus.html",
+      "/slides/hhe/2_1_climate.html",
+      "/slides/hhe/0_hhe_syllabus_overview.html",
+      "/slides/hhe/1-1_epidemiology.html",
+      "/slides/hhe/1-2_environmental_justice.html",
+      "/slides/hhe/1-3_one_health.html",
       "/hhe/schedule.html"
     ]
   }
