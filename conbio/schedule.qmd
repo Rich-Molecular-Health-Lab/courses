@@ -1,6 +1,5 @@
 ---
 profile: schedule
-image: "figures/course_header.png"
 params:
   course: "conbio_26f"
 ---

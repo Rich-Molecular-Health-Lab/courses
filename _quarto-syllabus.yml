@@ -6,6 +6,7 @@ date-modified: today
 date-format: "ddd MMM D, YYYY"
 title: "Syllabus"
 author: "Dr. Rich"
+image: "graphics/commics/header-ItsInTheSyllabus2.png"
 format:
   html:
     toc: false

@@ -5,13 +5,14 @@ project:
   render:
     - films/*.qmd
     - resources/conbio/*/*.qmd
+    - resources/hhe/*/*.qmd
     - resources/bio2lab/*.qmd
     - slides/conbio/*.qmd
     - slides/hhe/*.qmd
-    - conbio_slides.qmd
-    - hhe_slides.qmd
     - conbio/schedule.qmd
     - hhe/schedule.qmd
+    - conbio_slides.qmd
+    - hhe_slides.qmd
     - conbio/syllabus.qmd
     - hhe/syllabus.qmd
     - conbio/index.qmd
@@ -34,49 +35,42 @@ website:
         menu:
           - text: "Course Homepage"
             href: "conbio/index.qmd"
-          - text: "Current Schedule"
+          - text: "Schedule"
             href: "conbio/schedule.qmd"
-          - text: "Syllabus"
-            href: "conbio/syllabus.qmd"
           - text: "Slide Decks"
             href: "conbio_slides.qmd"
+          - text: "Syllabus"
+            href: "conbio/syllabus.qmd"
           - text: "Resources"
             href: "conbio_resources.qmd"
+      - text: "Human Health & the Environment"
+        menu:
+          - text: "Course Homepage"
+            href: "hhe/index.qmd"
+          - text: "Schedule"
+            href: "hhe/schedule.qmd"
+          - text: "Slide Decks"
+            href: "hhe_slides.qmd"
+          - text: "Syllabus"
+            href: "hhe/syllabus.qmd"
+          - text: "Resources"
+            href: "hhe_resources.qmd"
       - text: "Biology 2 Lab"
         menu:
           - text: "Slide Decks"
             href: "bio2lab_slides.qmd"
           - text: "Resources"
             href: "bio2lab_resources.qmd"
-      - text: "Human Health & the Environment"
-        menu:
-          - text: "Course Homepage"
-            href: "hhe/index.qmd"
-          - text: "Syllabus"
-            href: "hhe/syllabus.qmd"
-          - text: "Schedule"
-            href: "hhe/schedule.qmd"
-          - text: "Slide Decks"
-            href: "hhe_slides.qmd"
     right:
       - text: "Book a Meeting"
         href: "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink"
         icon: "calendar-event"
+      - text: "Email Me"
+        href: "mailto:aliciarich@unomaha.edu"
+        icon: "envelope-at"
+  page-footer: "Copyright 2026, Dr. Alicia M. Rich"
 
-date-modified: today
-date-format: "ddd MMM D, YYYY"
-format:
-  html:
-    toc: true
-    toc-depth: 4
-    toc-location: left
-    toc-title: "Contents"
-    theme: materia
-    page-layout: full
-    smooth-scroll: true
-    include-in-header:
-      - text: |
-          <link rel="preconnect" href="https://fonts.googleapis.com">
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-          <script src="https://kit.fontawesome.com/eba65c29db.js" crossorigin="anonymous"></script>
-
+profile:
+  group:
+    - [basic, schedule, syllabus, slides, resource, listings, film]
+  default: basic

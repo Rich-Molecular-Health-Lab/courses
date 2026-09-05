@@ -1,0 +1,21 @@
+---
+title: "Resources"
+subtitle: "Human Health & the Environment"
+profile: listings
+listing: 
+  id: hhe-resources
+  contents:
+    - "resources/hhe/*.qmd"
+---
+
+
+::: {#hhe-resources}
+
+:::
+
+
+::: {.callout-warning}
+## Copyright Notice
+© 2025 Dr. Alicia M. Rich, University of Nebraska Omaha.  
+Redistribution or reuse requires explicit permission.
+:::

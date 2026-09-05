@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6033a600180109c3731f6a886c29932c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-de60624a5cb141114e0ea2b9bc293073.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,20 +76,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-slides .list');
+    const listingTargetEl = window.document.querySelector('#listing-hhe-slides .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-date-modified','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-slides'] = new List('listing-slides', options);
+    window['quarto-listings']['listing-hhe-slides'] = new List('listing-hhe-slides', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -103,10 +103,9 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 <style>html{ scroll-behavior: smooth; }</style>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Anaheim:wght@400..800&amp;family=Cabin+Condensed:wght@400;500;600;700&amp;family=Yaldevi:wght@200..700&amp;display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/eba65c29db.js" crossorigin="anonymous"></script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -140,7 +139,7 @@ window.Quarto = {
 
 <meta property="og:title" content="Slide Decks – Course Information">
 <meta property="og:description" content="Human Health &amp; the Environment">
-<meta property="og:image" content="./slides/hhe/figures/course_header.png">
+<meta property="og:image" content="./slides/hhe/figures/climate_text/c12fig001.jpg">
 <meta property="og:site_name" content="Course Information">
 </head>
 
@@ -172,18 +171,45 @@ window.Quarto = {
   </li>  
         <li>
     <a class="dropdown-item" href="./conbio/schedule.html">
- <span class="dropdown-text">Current Schedule</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./conbio/syllabus.html">
- <span class="dropdown-text">Syllabus</span></a>
+ <span class="dropdown-text">Schedule</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./conbio_slides.html">
  <span class="dropdown-text">Slide Decks</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="./conbio/syllabus.html">
+ <span class="dropdown-text">Syllabus</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./conbio_resources.qmd">
+ <span class="dropdown-text">Resources</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-human-health--the-environment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Human Health &amp; the Environment</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-human-health--the-environment">    
+        <li>
+    <a class="dropdown-item" href="./hhe/index.html">
+ <span class="dropdown-text">Course Homepage</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./hhe/schedule.html">
+ <span class="dropdown-text">Schedule</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./hhe_slides.html">
+ <span class="dropdown-text">Slide Decks</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./hhe/syllabus.html">
+ <span class="dropdown-text">Syllabus</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./hhe_resources.qmd">
  <span class="dropdown-text">Resources</span></a>
   </li>  
     </ul>
@@ -203,31 +229,17 @@ window.Quarto = {
   </li>  
     </ul>
   </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-human-health--the-environment" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Human Health &amp; the Environment</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-human-health--the-environment">    
-        <li>
-    <a class="dropdown-item" href="./hhe/index.html">
- <span class="dropdown-text">Course Homepage</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./hhe/syllabus.html">
- <span class="dropdown-text">Syllabus</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./hhe_slides.html">
- <span class="dropdown-text">Slide Decks</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&amp;ismsaljsauthenabled&amp;ep=mlink"> <i class="bi bi-calendar-event" role="img">
 </i> 
 <span class="menu-text">Book a Meeting</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="mailto:aliciarich@unomaha.edu"> <i class="bi bi-envelope-at" role="img">
+</i> 
+<span class="menu-text">Email Me</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -262,7 +274,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">Thu Sep 3, 2026</p>
+      <p class="date-modified">Sat Sep 5, 2026</p>
     </div>
   </div>
     
@@ -273,110 +285,10 @@ window.Quarto = {
 </header>
 
 
-<p>I post updated versions of class slide decks to this page. Please remember that these slides should <strong>enhance</strong>, but <strong><em>not replace</em></strong> your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.</p>
-<div id="listing-slides" class="quarto-listing quarto-listing-container-default">
+<p>I post updated versions of some of our class slide decks to this page. You may also find these and other slides (those posted directly to canva) by clicking the links for the relevant weeks on our <a href="./hhe/schedule.html">semester schedule</a>.</p>
+<div id="listing-hhe-slides" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1787634000000" data-listing-file-modified-sort="1788155852639" data-listing-date-modified-sort="1788411600000" data-listing-reading-time-sort="5" data-listing-word-count-sort="819">
-<div class="thumbnail"><a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">
-
-<img loading="lazy" src="./slides/hhe/figures/course_header.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">Course Overview</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">Human Health &amp; the Environment</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">
-<div class="listing-date">
-Tue Aug 25, 2026
-</div>
-<div class="metadata-value listing-date-modified">
-Thu Sep 3, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1787806800000" data-listing-file-modified-sort="1788293117261" data-listing-date-modified-sort="1788411600000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1918">
-<div class="thumbnail"><a href="./slides/hhe/1-1_epidemiology.html" class="no-external">
-
-<img loading="lazy" src="./slides/hhe/figures/epidemiology/epidemiological_triangle.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">Evidence and Hypothesis-Testing in Epidemiology</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">Human Health &amp; the Environment</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">
-<div class="listing-date">
-Thu Aug 27, 2026
-</div>
-<div class="metadata-value listing-date-modified">
-Thu Sep 3, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1788238800000" data-listing-file-modified-sort="1788295523521" data-listing-date-modified-sort="1788411600000" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
-<div class="thumbnail"><a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">
-
-<img loading="lazy" src="./slides/hhe/figures/one_health4.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">Introduction: Environmental Justice</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">Human Health &amp; the Environment</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">
-<div class="listing-date">
-Tue Sep 1, 2026
-</div>
-<div class="metadata-value listing-date-modified">
-Thu Sep 3, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1788238800000" data-listing-file-modified-sort="1788293966847" data-listing-date-modified-sort="1788411600000" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
-<div class="thumbnail"><a href="./slides/hhe/1-3_one_health.html" class="no-external">
-
-<img loading="lazy" src="./slides/hhe/figures/one_health4.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./slides/hhe/1-3_one_health.html" class="no-external">Introduction: One Health</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./slides/hhe/1-3_one_health.html" class="no-external">Human Health &amp; the Environment</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./slides/hhe/1-3_one_health.html" class="no-external">
-<div class="listing-date">
-Tue Sep 1, 2026
-</div>
-<div class="metadata-value listing-date-modified">
-Thu Sep 3, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1788411600000" data-listing-file-modified-sort="1788467951553" data-listing-date-modified-sort="1788411600000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1066">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1788411600000" data-listing-file-modified-sort="1788467951553" data-listing-date-modified-sort="1788584400000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1066">
 <div class="thumbnail"><a href="./slides/hhe/2_1_climate.html" class="no-external">
 
 <img loading="lazy" src="./slides/hhe/figures/climate_text/c12fig001.jpg" class="thumbnail-image">
@@ -389,20 +301,133 @@ Thu Sep 3, 2026
 <div class="listing-subtitle">
 <a href="./slides/hhe/2_1_climate.html" class="no-external">Human Health &amp; the Environment</a>
 </div>
+<div class="delink listing-description"><a href="./slides/hhe/2_1_climate.html" class="no-external">
+
+</a></div>
 </div>
 <div class="metadata">
 <a href="./slides/hhe/2_1_climate.html" class="no-external">
 <div class="listing-date">
 Thu Sep 3, 2026
 </div>
-<div class="metadata-value listing-date-modified">
-Thu Sep 3, 2026
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1787634000000" data-listing-file-modified-sort="1788155852639" data-listing-date-modified-sort="1788584400000" data-listing-reading-time-sort="5" data-listing-word-count-sort="819">
+<div class="thumbnail"><a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">
+
+<img loading="lazy" src="./slides/hhe/figures/course_header.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">Course Overview</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">Human Health &amp; the Environment</a>
+</div>
+<div class="delink listing-description"><a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">
+aliciarich@unomaha.edu
+</a></div>
+</div>
+<div class="metadata">
+<a href="./slides/hhe/0_hhe_syllabus_overview.html" class="no-external">
+<div class="listing-date">
+Tue Aug 25, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1787806800000" data-listing-file-modified-sort="1788293117261" data-listing-date-modified-sort="1788584400000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1918">
+<div class="thumbnail"><a href="./slides/hhe/1-1_epidemiology.html" class="no-external">
+
+<img loading="lazy" src="./slides/hhe/figures/epidemiology/epidemiological_triangle.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">Evidence and Hypothesis-Testing in Epidemiology</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">Human Health &amp; the Environment</a>
+</div>
+<div class="delink listing-description"><a href="./slides/hhe/1-1_epidemiology.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./slides/hhe/1-1_epidemiology.html" class="no-external">
+<div class="listing-date">
+Thu Aug 27, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1788238800000" data-listing-file-modified-sort="1788295523521" data-listing-date-modified-sort="1788584400000" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
+<div class="thumbnail"><a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">
+
+<img loading="lazy" src="./slides/hhe/figures/one_health4.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">Introduction: Environmental Justice</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">Human Health &amp; the Environment</a>
+</div>
+<div class="delink listing-description"><a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./slides/hhe/1-2_environmental_justice.html" class="no-external">
+<div class="listing-date">
+Tue Sep 1, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1788238800000" data-listing-file-modified-sort="1788293966847" data-listing-date-modified-sort="1788584400000" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
+<div class="thumbnail"><a href="./slides/hhe/1-3_one_health.html" class="no-external">
+
+<img loading="lazy" src="./slides/hhe/figures/one_health4.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./slides/hhe/1-3_one_health.html" class="no-external">Introduction: One Health</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./slides/hhe/1-3_one_health.html" class="no-external">Human Health &amp; the Environment</a>
+</div>
+<div class="delink listing-description"><a href="./slides/hhe/1-3_one_health.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./slides/hhe/1-3_one_health.html" class="no-external">
+<div class="listing-date">
+Tue Sep 1, 2026
 </div>
 </a>
 </div>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Please remember that these slides should <strong>enhance</strong>, but <strong><em>not replace</em></strong> your personal notes from class. Key announcements and important information may not appear in these slides, but you are still responsible for all class content.</p>
+</div>
 </div>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -825,6 +850,19 @@ Redistribution or reuse requires explicit permission.</p>
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Copyright 2026, Dr.&nbsp;Alicia M. Rich</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

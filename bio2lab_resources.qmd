@@ -1,18 +1,15 @@
 ---
 title: "Resources"
 subtitle: "Biology 2 Lab"
+profile: listings
 listing: 
-  id: resources
+  id: bio2-resources
   contents:
     - "resources/bio2lab/*.qmd"
-  fields: [image, date, date-modified, title, subtitle]
-  sort: "date"
-execute:
-  freeze: false
 ---
 
 
-::: {#resources}
+::: {#bio2-resources}
 :::
 
 

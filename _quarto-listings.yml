@@ -1,0 +1,3 @@
+listing:
+  fields: [image, date, date-modified, title, subtitle]
+  sort: "date"

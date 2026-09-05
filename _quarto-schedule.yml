@@ -6,6 +6,7 @@ date-modified: today
 date-format: "ddd MMM D, YYYY"
 title: "Course Schedule"
 author: "Dr. Rich"
+image: "graphics/schedule_change.png"
 format:
   html:
     toc: false

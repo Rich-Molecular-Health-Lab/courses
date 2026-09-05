@@ -1,6 +1,5 @@
 ---
 profile: schedule
-image: "figures/course_header.png"
 params:
   course: "hhe_26f"
 ---

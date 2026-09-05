@@ -1,20 +1,2 @@
-author: "Dr. Alicia M. Rich"
-date-modified: today
-date-format: "ddd MMM D, YYYY"
-format:
-  pdf:
-    pdf-engine: xelatex
-    documentclass: article
-    geometry:
-      - top=1in
-      - left=1in
-  docx:
-    toc: false
-    number-sections: true
-    reference-doc: "handout-doc.docx"
-  html:
-    theme: flatly
-    toc: false
-    code-fold: true
-    code-tools: false
-    page-layout: full
+profile:
+  default: handout

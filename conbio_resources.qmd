@@ -1,18 +1,16 @@
 ---
 title: "Resources"
 subtitle: "Conservation Biology"
+profile: listings
 listing: 
-  id: resources
+  id: conbio-resources
   contents:
     - "resources/conbio/*.qmd"
-  fields: [image, date, date-modified, title, subtitle]
-  sort: "date"
-execute:
-  freeze: false
 ---
 
 
-::: {#resources}
+::: {#conbio-resources}
+
 :::
 
 

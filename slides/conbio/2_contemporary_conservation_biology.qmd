@@ -4,8 +4,6 @@ date: "2026-08-31"
 profile: slides
 format: revealjs
 image: figures/Ch02/c02fig008.jpg
-execute:
-  freeze: true
 ---
 
 ## {}
