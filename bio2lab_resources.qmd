@@ -1,7 +1,8 @@
 ---
 title: "Resources"
 subtitle: "Biology 2 Lab"
-profile: listings
+profile: 
+  default: listings
 listing: 
   id: bio2-resources
   contents:

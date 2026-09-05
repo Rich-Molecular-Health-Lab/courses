@@ -1,7 +1,8 @@
 ---
 title: "Current Course Info"
 subtitle: "Spring 2026"
-profile: listings
+profile: 
+  default: listings
 listing: 
   id: main-index
   contents:
@@ -27,20 +28,6 @@ On this site you can find the most up to date syllabi and schedules for any cour
 ## Syllabi and Schedules
 
 ::: {#main-index}
-
-:::
-
-## Slide Decks
-
-### Conservation Biology
-
-::: {#conbio-slides}
-
-:::
-
-### Human Health & the Environment
-
-::: {#hhe-slides}
 
 :::
 

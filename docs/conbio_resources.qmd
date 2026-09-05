@@ -1,7 +1,8 @@
 ---
 title: "Resources"
 subtitle: "Conservation Biology"
-profile: listings
+profile: 
+  default: listings
 listing: 
   id: conbio-resources
   contents:

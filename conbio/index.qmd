@@ -12,15 +12,11 @@ listing:
 
 On this site you can find the most up to date syllabi and schedules for Conservation Biology at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
 
+<a href="https://rich-molecular-health-lab.github.io/courses/conbio_slides.html"><i class="fa-brands fa-slideshare"></i> Slide Decks Available Here</a>
+
 ## Syllabus and Schedule
 
 ::: {#conbio-index}
-
-:::
-
-## Slide Decks
-
-::: {#conbio-slides}
 
 :::
 

@@ -1,7 +1,8 @@
 ---
 title: "Slide Decks"
 subtitle: "Biology 2 Lab"
-profile: listings
+profile: 
+  default: listings
 listing: 
   id: bio2-slides
   contents:

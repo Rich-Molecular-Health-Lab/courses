@@ -1,7 +1,8 @@
 ---
 title: "Slide Decks"
 subtitle: "Human Health & the Environment"
-profile: listings
+profile: 
+  default: listings
 listing: 
   id: hhe-slides
   contents:

@@ -1,5 +1,7 @@
 ---
-profile: schedule
+profile: 
+  default: schedule
+image: "../graphics/schedule_change.png"
 params:
   course: "hhe_26f"
 ---

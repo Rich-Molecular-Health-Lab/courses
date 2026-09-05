@@ -1,7 +1,8 @@
 ---
 title: "Slide Decks"
 subtitle: "Conservation Biology"
-profile: listings
+profile: 
+  default: listings
 listing: 
   id: conbio-slides
   contents:

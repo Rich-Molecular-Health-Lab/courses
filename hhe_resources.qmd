@@ -1,7 +1,8 @@
 ---
 title: "Resources"
 subtitle: "Human Health & the Environment"
-profile: listings
+profile: 
+  default: listings
 listing: 
   id: hhe-resources
   contents:

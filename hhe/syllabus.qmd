@@ -1,5 +1,7 @@
 ---
-profile: syllabus
+profile: 
+  default: syllabus
+image: "../graphics/comics/header-ItsInTheSyllabus2.png"
 params:
   course: "hhe_26f"
 ---

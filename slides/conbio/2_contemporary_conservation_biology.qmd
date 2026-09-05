@@ -1,7 +1,8 @@
 ---
 title: "2.2 Contemporary Conservation Biology"
 date: "2026-08-31"
-profile: slides
+profile: 
+  default: slides
 format: revealjs
 image: figures/Ch02/c02fig008.jpg
 ---
