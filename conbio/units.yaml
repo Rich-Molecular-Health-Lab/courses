@@ -1,0 +1,282 @@
+- unit:
+    - "Approaches to Conservation"
+  chapter: 4
+  topics:
+    - "Community & Ecosystem Approaches"
+    - "Ex Situ Conservation"
+    - "Landscape-Scale Approaches"
+    - "Species-Level Approaches"
+  class_days:
+    - "BIOL4120_W12D2"
+    - "BIOL4120_W13D1"
+    - "BIOL4120_W13D2"
+    - "BIOL4120_W14D1"
+    - "BIOL4120_W15D1"
+    - "BIOL4120_W15D2"
+    - "BIOL4120_W16D1"
+    - "BIOL4120_W16D2"
+  dates:
+    - "2026-11-11T16:00:00"
+    - "2026-11-16T16:00:00"
+    - "2026-11-18T16:00:00"
+    - "2026-11-23T16:00:00"
+    - "2026-11-30T16:00:00"
+    - "2026-12-02T16:00:00"
+    - "2026-12-07T16:00:00"
+    - "2026-12-09T16:00:00"
+  exams: null
+  films: null
+  case_convos:
+    - "Case Conversation 6 - Species-Level Approaches"
+    - "Case Conversation 7 - Community & Ecosystem Approaches"
+    - "Case Conversation 8 - Landscape-Scale Approaches"
+  projects:
+    - "Conservation Biology Fall 2026"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "unit"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:40:47"
+  content:
+    []
+  background:
+    - "Ch 13 Species-Level Conservation"
+    - "Ch 15 Landscape-Scale Conservation"
+    - "Ch 16 Ex Situ Conservation"
+    - "Ch 14 Community and Ecosystem Conservation"
+  slides:
+    []
+  course_name: "Conservation Biology"
+  title: "Approaches to Conservation"
+- unit:
+    - "Breaks BIOL4120"
+  chapter: null
+  topics:
+    - "Fall Break BIOL4120"
+    - "Labor Day"
+    - "No Class BIOL4120"
+    - "Thanksgiving Break BIOL4120"
+  class_days:
+    - "BIOL4120_W14D2"
+    - "BIOL4120_W1D1"
+    - "BIOL4120_W2D2"
+    - "BIOL4120_W3D1"
+    - "BIOL4120_W9D1"
+  dates:
+    - "2026-08-24T16:00:00"
+    - "2026-09-02T16:00:00"
+    - "2026-09-07T16:00:00"
+    - "2026-10-19T16:00:00"
+    - "2026-11-25T16:00:00"
+  exams: null
+  films: null
+  case_convos:
+    []
+  projects:
+    - "Conservation Biology Fall 2026"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "unit"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:40:47"
+  content:
+    []
+  background:
+    []
+  slides:
+    []
+  course_name: "Conservation Biology"
+  title: "Breaks BIOL4120"
+- unit:
+    - "Exams BIOL4120"
+  chapter: null
+  topics:
+    - "Exam 1 BIOL4120"
+    - "Final Exam BIOL4120"
+  class_days:
+    - "BIOL4120_W8D2"
+  dates:
+    - "2026-10-14T16:00:00"
+  exams: null
+  films: null
+  case_convos:
+    []
+  projects:
+    - "Conservation Biology Fall 2026"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "unit"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:40:47"
+  content:
+    []
+  background:
+    []
+  slides:
+    []
+  course_name: "Conservation Biology"
+  title: "Exams BIOL4120"
+- unit:
+    - "Foundations of Conservation Biology"
+  chapter: 1
+  topics:
+    - "Biodiversity Concepts & Measurement"
+    - "The Rise of Conservation Biology"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+    - "BIOL4120_W4D1"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
+    - "2026-09-14T16:00:00"
+  exams: null
+  films: null
+  case_convos:
+    []
+  projects:
+    - "Conservation Biology Fall 2026"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "unit"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:40:47"
+  content:
+    - "Contemporary Conservation Biology"
+    - "Biodiversity Concepts and Measurement Slides"
+  background:
+    - "Ch 2 The Rise of Conservation Biology"
+    - "Ch 3 Biodiversity Concepts and Measurement"
+  slides:
+    - "Contemporary Conservation Biology"
+    - "Biodiversity Concepts and Measurement Slides"
+  course_name: "Conservation Biology"
+  title: "Foundations of Conservation Biology"
+- unit:
+    - "Overview BIOL4120"
+  chapter: 0
+  topics:
+    - "Overview & Syllabus BIOL4120"
+  class_days:
+    - "BIOL4120_W1D2"
+  dates:
+    - "2026-08-26T16:00:00"
+  exams: null
+  films: null
+  case_convos:
+    []
+  projects:
+    - "Conservation Biology Fall 2026"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "unit"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:40:47"
+  content:
+    []
+  background:
+    []
+  slides:
+    []
+  course_name: "Conservation Biology"
+  title: "Overview BIOL4120"
+- unit:
+    - "Threats to Biodiversity"
+  chapter: 3
+  topics:
+    - "Climate Change"
+    - "Extinction"
+    - "Habitat Loss, Fragmentation, and Degradation"
+    - "Invasive Alien Species"
+    - "Overexploitation"
+  class_days:
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+    - "BIOL4120_W11D1"
+    - "BIOL4120_W11D2"
+    - "BIOL4120_W12D1"
+    - "BIOL4120_W4D1"
+    - "BIOL4120_W4D2"
+    - "BIOL4120_W5D1"
+    - "BIOL4120_W5D2"
+    - "BIOL4120_W6D1"
+    - "BIOL4120_W6D2"
+    - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W8D1"
+    - "BIOL4120_W9D2"
+  dates:
+    - "2026-09-14T16:00:00"
+    - "2026-09-16T16:00:00"
+    - "2026-09-21T16:00:00"
+    - "2026-09-23T16:00:00"
+    - "2026-09-28T16:00:00"
+    - "2026-09-30T16:00:00"
+    - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+    - "2026-10-12T16:00:00"
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
+    - "2026-11-02T16:00:00"
+    - "2026-11-04T16:00:00"
+    - "2026-11-09T16:00:00"
+  exams: null
+  films: null
+  case_convos:
+    - "Case Conversation 1 - Extinction"
+    - "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
+    - "Case Conversation 3 - Overexploitation"
+    - "Case Conversation 4 - Invasive Alien Species"
+    - "Case Conversation 5 - Climate Change"
+  projects:
+    - "Conservation Biology Fall 2026"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "unit"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:40:47"
+  content:
+    - "https://canva.link/9u0qo7yq40d34nu"
+    - "https://canva.link/p3f89pahovuj46e"
+  background:
+    - "Ch 10 Overexploitation"
+    - "Ch 11 Invasive Alien Species"
+    - "Ch 9 Habitat Loss, Fragmentation, and Degradation"
+    - "Ch 8 Extinction"
+    - "Ch 12 Climate Change"
+  slides:
+    - "https://canva.link/9u0qo7yq40d34nu"
+    - "https://canva.link/p3f89pahovuj46e"
+  course_name: "Conservation Biology"
+  title: "Threats to Biodiversity"

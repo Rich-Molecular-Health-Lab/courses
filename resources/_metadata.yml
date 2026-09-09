@@ -1,2 +1,6 @@
 profile:
   default: resource
+categories:
+  - "handouts"
+  - "assignments"
+  - "rubrics"

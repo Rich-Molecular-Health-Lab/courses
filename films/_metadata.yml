@@ -1,2 +1,5 @@
 profile:
   default: "film"
+categories:
+  - "films"
+  - "transcripts"

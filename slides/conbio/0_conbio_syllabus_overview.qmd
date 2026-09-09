@@ -10,6 +10,7 @@ params:
 ```{r setup, include = FALSE}
 here::i_am("slides/conbio/0_conbio_syllabus_overview.qmd")
 source(here::here("_common.R"))
+source(here("helpers/slides.R"))
 ```
 
 ## Introductions

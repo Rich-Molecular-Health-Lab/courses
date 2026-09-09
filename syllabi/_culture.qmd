@@ -1,0 +1,17 @@
+#### Classroom Culture { .heading-hide-text }
+
+```{r}
+#| title: "Classroom Culture"
+
+withTags(
+    card(
+      class = "card bg-light mb-3",
+      card_header(h6("The following three values form the foundation of my classroom culture and expectations:")),
+      accordion(
+        imap(get_values(), \(x, idx) accordion_do_dont(x, idx)),
+        open = FALSE
+      )
+    )
+  )
+
+```

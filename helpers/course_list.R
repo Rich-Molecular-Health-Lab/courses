@@ -221,27 +221,7 @@ textbooks <- list(
   )
 )
 
-slos <- list(
-  zoobio = tribble(
-    ~Level      ,      ~Outcome           ,
-    "Remember"  , "Identify and recall key concepts and terminology related to zoo biology, such as taxonomic classifications, animal behavior terms, and basic biological principles." ,
-    "Understand", "Explain the fundamental theories and principles of zoo biology, including the importance of biodiversity conservation and the role of zoos in wildlife conservation efforts." ,
-    "Apply"     , "Apply their knowledge of zoo biology to analyze and solve real-world problems related to animal care, exhibit design, and wildlife conservation strategies within a controlled zoo environment.",
-    "Analyze"   , "Evaluate the ethical and practical considerations involved in managing zoo populations, critically assess the impact of human activities on animal habitats, and propose evidence-based solutions for enhancing animal welfare and conservation efforts."
-  ),
-  conbio = tribble(
-    ~Level       , ~Outcome           ,
-    "Understand" , "Understand contemporary global patterns of change in biological diversity and ecosystem services and identify issues of particular importance." ,
-    "Evaluate"   , "Evaluate the human context of these changes, including how human activities impact ecosystems and the plants and animals that depend on them and how social, economic, political, and ethical factors determine the possible solutions." ,
-    "Analyze"    , "Analyze how science contributes to solutions for preserving biological diversity."
-  ),
-  hhe = tribble(
-    ~Level       , ~Outcome           ,
-    "Recognize"  , "Recognize historic and contemporary phenomena created by connections between human health and the environment.",
-    "Summarize"  , "Identify and summarize more than one complex pathway mediated by social and biological variables which connects human health to the environment." ,
-    "Critique"   , "Compose and critique practical solutions that will benefit the health of humans and their environment."
-    )
-)
+
 
 assessment <- list(
   conbio_25f = list(

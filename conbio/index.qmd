@@ -1,24 +1,49 @@
 ---
 title: "Conservation Biology"
-subtitle: "Dr. Alicia M. Rich, University of Nebraska Omaha"
-profile: listings
+subtitle: "Fall 2026"
+profile:
+  - "listings"
+  - "conbio"
 listing: 
-  id: conbio-index
-  contents:
-    - "syllabus.qmd"
-    - "schedule.qmd"
-  type: grid
+  - id: conbio-slides
+    contents:
+      - "../slides/conbio/*.qmd"
+      - "!../slides/conbio/_*/**"
+      - "!../slides/conbio/*/_*/**"
+  - id: conbio-resource
+    contents:
+      - "../resources/conbio/*.qmd"
+      - "../resources/conbio/*/*.qmd"
+      - "!../resources/conbio/_*/**"
+      - "!../resources/conbio/*/_*/**"
 ---
 
-On this site you can find the most up to date syllabi and schedules for Conservation Biology at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
+On this site you can find the most up to date syllabi, schedules, slide decks, and other rewsources for Conservation Biology at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
 
-<a href="https://rich-molecular-health-lab.github.io/courses/conbio_slides.html"><i class="fa-brands fa-slideshare"></i> Slide Decks Available Here</a>
+## Syllabus & Schedule
 
-## Syllabus and Schedule
+::: {.layout-ncol=2}
 
-::: {#conbio-index}
+[![Syllabus](syllabi/graphics/comics/header-ItsInTheSyllabus2.png)](https://rich-molecular-health-lab.github.io/syllabi/conbio.html)
+
+
+[![Schedule](syllabi/graphics/comics/assignment_due.jpg)](https://rich-molecular-health-lab.github.io/conbio/schedule.html)
 
 :::
+
+
+## Slide Decks
+
+::: {#conbio-slides}
+
+:::
+
+## Other Resources
+
+::: {#conbio-resource}
+
+:::
+
 
 
 [^1]: The information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.

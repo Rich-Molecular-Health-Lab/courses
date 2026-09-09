@@ -1,9 +1,16 @@
 ---
 profile: 
-  default: schedule
+  - "schedule"
+  - "hhe"
 image: "../graphics/schedule_change.png"
 params:
   course: "hhe_26f"
+categories:
+  - "schedules"
+  - "ENVN4320"
+execute:
+  echo: false
+  warning: false
 ---
 
 ```{r}
@@ -11,6 +18,9 @@ params:
 #| include: false
 
 source(here::here("_common.R"))
+source(here::here("_schedule.R"))
+
+course <- str_remove(params$course, "_.+$")
 
 podcasts <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "podcast.yaml"))
 case_convos <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "case_convos.yaml"))

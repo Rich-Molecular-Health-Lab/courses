@@ -1,0 +1,54 @@
+---
+subtitle: "Human Health & the Environment"
+profile: 
+  - "syllabus"
+  - "hhe"
+image: "graphics/comics/header-ItsInTheSyllabus2.png"
+params:
+  course: "hhe_26f"
+categories:
+  - "syllabi"
+  - "ENVN4320"
+execute:
+  echo: false
+  warning: false
+---
+
+```{r}
+#| context: setup
+#| include: false
+
+source(here::here("_common.R"))
+source(here::here("_syllabus.R"))
+
+course        <- params$course
+course_short  <- str_extract(params$course, "\\w+(?=_)")
+
+```
+
+```{r}
+#| eval: false
+#| include: false
+
+render_syllabus_defaults()
+render_course_graphics(params$course)
+```
+
+
+{{< include _basics.qmd >}}
+{{< include _instructor.qmd >}}
+
+{{< include _materials.qmd >}}
+{{< include _slos.qmd >}}
+
+
+## Details
+
+{{< include _assessment.qmd >}}
+
+{{< include _expectations.qmd >}}
+
+{{< include _uno_policies.qmd >}}
+
+{{< include _disclosure.qmd >}}
+

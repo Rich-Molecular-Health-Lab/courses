@@ -1,5 +1,38 @@
 
-conflicts_prefer(dplyr::filter)
+render_course_graphics <- function(course = NULL) {
+  fs::dir_create(here("syllabi", "graphics"))
+  if (!is.null(course)) {
+    course_short <- shorten_course(course)
+    fs::dir_create(here("syllabi", "graphics", course_short))
+    logistics_card(course)    %>% save_html(file = here("syllabi", "graphics", course_short, "logistics.html"))
+    resource_card(course)     %>% save_html(file = here("syllabi", "graphics", course_short, "resources.html"))
+    project_details(course)   %>% save_html(file = here("syllabi", "graphics", course_short, "project_details.html"))
+    missed_exams(course)      %>% save_html(file = here("syllabi", "graphics", course_short, "missed_exams.html"))
+    exam_format(course)       %>% save_html(file = here("syllabi", "graphics", course_short, "exam_format.html"))
+    learning_outcomes(course) %>% gtsave(here("syllabi", "graphics", course_short, "learning_outcomes.png"))
+    grade_breakdown(course)   %>% gtsave(here("syllabi", "graphics", course_short, "grade_breakdown.png"))
+    resources(course)         %>% gtsave(here("syllabi", "graphics", course_short, "resources.png"))
+  } else {
+    NULL
+  }
+
+}
+
+render_syllabus_defaults <- function() {
+  fs::dir_create(here("syllabi", "graphics"))
+  prep_quizzes()                   %>% save_html(file = here("syllabi", "graphics", "prep_quizzes.html"))
+  instructor_card()                %>% save_html(file = here("syllabi", "graphics", "instructor.html"))
+  activities()                     %>% save_html(file = here("syllabi", "graphics", "activities.html"))
+  class_culture()                  %>% save_html(file = here("syllabi", "graphics", "class_culture.html"))
+  engagement()                     %>% save_html(file = here("syllabi", "graphics", "engagement.html"))
+  late_work()                      %>% save_html(file = here("syllabi", "graphics", "late_work.html"))
+  accommodations()                 %>% save_html(file = here("syllabi", "graphics", "accommodations.html"))
+  plagiarism()                     %>% save_html(file = here("syllabi", "graphics", "plagiarism.html"))
+  titleix()                        %>% save_html(file = here("syllabi", "graphics", "titleix.html"))
+  inclusion_office()               %>% save_html(file = here("syllabi", "graphics", "inclusion_office.html"))
+  other_notices()                  %>% save_html(file = here("syllabi", "graphics", "other_notices.html"))
+}
+
 
 embed_resource <- function(course) {
   if (str_detect(course, "hhe")) {
@@ -22,11 +55,13 @@ embed_resource <- function(course) {
 resource_card <- function(course) {
 
   course_short <- str_extract(course, "\\w+(?=_)")
+  textbooks <- get_textbooks(course)
+
   if (course_short == "hhe") {
 
     resources <- content_card(
-      title_text    = textbooks[[course_short]][["title"]],
-      subtitle_text = tags$a(href = paste0(course_short, "/schedule.qmd"), "See course schedule for deadlines."),
+      title_text    = textbooks[["title"]],
+      subtitle_text = tags$a(href = schedule_link(course), "See course schedule for deadlines."),
       body          = accordion(
         accordion_panel(
           "Access Spotify Playlist",
@@ -43,25 +78,25 @@ resource_card <- function(course) {
   } else if (course_short == "conbio") {
 
    resources <- content_card(
-      title_text    = textbooks[[course_short]][["title"]],
+      title_text    = textbooks[["title"]],
       subtitle_text = "eText Available via Canvas IA-Bookshelf",
       body          = ul_group(
         layout    = "grid",
         item_list = list(
-          "Authors:" = textbooks[[course_short]][["authors"]],
-          "Edition:" = span(textbooks[[course_short]][["edition"]], paste0(" (", textbooks[[course_short]][["date"]], ")")),
-          "ISBN:"    = textbooks[[course_short]][["isbn"]]
+          "Authors:" = textbooks[["authors"]],
+          "Edition:" = span(textbooks[["edition"]], paste0(" (", textbooks[["date"]], ")")),
+          "ISBN:"    = textbooks[["isbn"]]
         )
       ),
       footer_text   = "If you prefer a hardcopy version then you must opt out of automatic purchase of the eBook through Canvas by the end of Week 2.",
       card_class    = "primary",
       heading       = "Required Text",
       icon_name     = "book",
-      image         = card_image(textbooks[[course_short]][["image"]], width = "20%")
+      image         = card_image(here(textbooks[["image"]]), width = "20%")
     )
 
   } else if (course_short == "zoobio") {
-    resources <-    withTags(
+    resources <-    tagList(
         card(
           class = "card text-white bg-primary mb-3",
           card_header("Required Readings"),
@@ -74,9 +109,9 @@ resource_card <- function(course) {
           card_title(
             layout_columns(
               col_widths = c(5, 7),
-              card_image(textbooks[[course_short]][["image"]], width = "15%"),
+              card_image(textbooks[["image"]], width = "15%"),
               h3(
-                textbooks[[course_short]][["title"]],
+                textbooks[["title"]],
                 p(class = "card-subtitle text-muted",  "See course schedule for deadlines.")
               )
             )
@@ -95,25 +130,27 @@ resource_card <- function(course) {
 
 
 logistics_card <- function(course) {
+  course_short <- shorten_course(course)
+  course_info <- get_course_info(course)
     withTags(
       card(
         class = "card text-white bg-primary mb-3",
         card_header(
           span("Course Logistics"),
-          span(course_info[[course]][["course_no"]])
+          span(course_info[["course_no"]])
         ),
-        card_image(file = paste0("graphics/", course_info[[course]][["file_prefix"]], "_header.png"), width = "100%"),
-        card_title(paste0("This course meets: ", course_info[[course]][["day_time"]], " in ", course_info[[course]][["location"]])),
+        card_image(file = here("graphics", "headers", paste0(course_short, ".png")), width = "100%"),
+        card_title(paste0("This course meets: ", course_info[["day_time"]], " in ", course_info[["location"]])),
         accordion(
           accordion_panel(
             "Description",
-            course_info[[course]][["course_description"]]
+            course_info[["course_description"]]
           ),
           open = FALSE
         ),
         card_footer(
-          span(if (!is.na(course_info[[course]][["prereqs"]])) paste0("Prerequisites: ", course_info[[course]][["prereqs"]]) else ""),
-          span(layout_columns(p(course_info[[course]][["semester"]]), p(paste(course_info[[course]][["credits"]], "Credits"))))
+          span(if (!is.na(course_info[["prereqs"]])) paste0("Prerequisites: ", course_info[["prereqs"]]) else ""),
+          span(layout_columns(p(course_info[["semester"]]), p(paste(course_info[["credits"]], "Credits"))))
         )
       )
     )
@@ -146,33 +183,35 @@ assessment_summarize <- function(x, idx) {
 }
 
 assessment_course <- function(course) {
-  imap(pluck(assessment, course), \(x, idx) assessment_summarize(x, idx)) %>%
+  imap(assessment(course), \(x, idx) assessment_summarize(x, idx)) %>%
     enframe(name = "Format") %>%
     unnest_wider(value)
 }
 
 project_details <- function(course) {
-  format       <- pluck(course_info, course, "project")
+  course_info <- get_course_info(course)
+  format       <- pluck(course_info, "project")
   course_short <- str_extract(course, "\\w+(?=_)")
+  assessment <- assessment(course)
   totals       <- assessment_course(course)
-  deadline     <- tags$a(href = paste0(course_short, "/schedule.qmd"), "See course schedule")
+  deadline     <- tags$a(href = schedule_link(course), "See course schedule")
   if (format == "Grant Proposal") {
-    points   <- assessment[[course]]$assignments$grant_proposal
+    points   <- assessment$assignments$grant_proposal
     subtitle <- "Essay Assignment"
     detail   <- span("Modified version of the ", a(href = "https://www.aza.org/cgf-tips-for-success", "AZA Conservation Grants Fund Proposal"))
 
   } else if (str_detect(format, "Guided Case Conversations")) {
-    points <- sum(assessment[[course]]$assignments$case_convo1, assessment[[course]]$assignments$case_convo2)
+    points <- sum(assessment$assignments$case_convo1, assessment$assignments$case_convo2)
     subtitle <- "Group Assignment"
     detail   <- "Online portfolio summarizing a fictional zoo designed over the semester's lab exercises"
 
   } else if (str_detect(format, "Portfolio")) {
-    points <- assessment[[course]]$assignments$portfolio
+    points <- assessment$assignments$portfolio
     subtitle <- "Group Assignment"
     detail   <- "Online portfolio summarizing a fictional zoo designed over the semester's lab exercises"
 
   } else if (str_detect(format, "Poster")) {
-    points <- assessment[[course]]$assignments$poster
+    points <- assessment$assignments$poster
     subtitle <- "Independent Project"
     detail   <- "Poster communicating a leading issue introduced this semester and your proposed approach to mitigation"
   }
@@ -197,5 +236,53 @@ project_details <- function(course) {
   )
 
    return(display)
+}
+
+project_card <- function(course) {
+ course_info <- get_course_info(course)
+ course_short <- shorten_course(course)
+ format       <- pluck(course_info, "project")
+ totals       <- assessment_course(params$course)
+ deadline     <- tags$a(href = schedule_link(course), "See course schedule")
+ assessment <- assessment(course)
+
+ if (str_detect(format, "Case Conversations")) {
+   points   <- sum(as.numeric(assessment$assignments$case_convo1), as.numeric(assessment$assignments$case_convo2))
+   subtitle <- "Group Project"
+   detail   <- "Each student will lead a class discussion two times during the semester."
+
+ } else if (str_detect(format, "Portfolio")) {
+   points <- assessment$assignments$portfolio
+   subtitle <- "Group Assignment"
+   detail   <- "Online portfolio summarizing a fictional zoo designed over the semester's lab exercises"
+
+ } else if (str_detect(format, "Poster")) {
+   points <- assessment$assignments$poster
+   subtitle <- "Independent Project"
+   detail   <- "Poster communicating a leading issue introduced this semester and your proposed approach to mitigation"
+ } else {
+   points   <- 0
+   subtitle <- "No project"
+   detail   <- ""
+ }
+
+ percent <- round((points/sum(totals$total))*100, 0)
+  result <- content_card(
+    title_text    = format,
+    subtitle_text = subtitle,
+    body          = ul_group(
+      layout    = "grid",
+      item_list = list(
+        "Deadline:" = deadline,
+        "Points:"   = p(points, span(class = "text-body-secondary", tags$i(paste0("(", percent, "%)")))),
+        "Format:"   = detail
+      )
+    ),
+    footer_text   = "These details (especially points and deadlines) may be subject to change no less than 2 weeks before the final deadline.",
+    card_class    = "info",
+    heading       = "Graded Project",
+    icon_name     = "pen-to-square"
+  )
+  return(result)
 }
 

@@ -1,58 +1,60 @@
 
-conflicts_prefer(dplyr::filter)
-
-value_list <- list(
-  Authenticity = list(
-    list(
-      do   = "Speak up if you are confused or struggling.",
-      dont = "Attempt to manipulate or mislead your instructors or classmates."
+get_values <- function() {
+  list(
+    Authenticity = list(
+      list(
+        do   = "Speak up if you are confused or struggling.",
+        dont = "Attempt to manipulate or mislead your instructors or classmates."
+      ),
+      list(
+        do   = "Be honest with yourself about your needs & capabilities.",
+        dont = "Hide or deny your biases or areas for growth."
+      ),
+      list(
+        do   = "Use tools like AI and collaboration with integrity.",
+        dont = "Present direct results from AI tools like ChatGPT as your own work."
+      )
     ),
-    list(
-      do   = "Be honest with yourself about your needs & capabilities.",
-      dont = "Hide or deny your biases or areas for growth."
+    Curiosity = list(
+      list(
+        do   = "Use the readings and assignments as a guide."  ,
+        dont = "Let the syllabus limit your investigation."
+      ),
+      list(
+        do   = "Ask thoughtful questions of yourself, your instructor, and your colleagues." ,
+        dont = "Expect me to fill your brain with facts for you to recall."
+      ),
+      list(
+        do   = "Actively seek insights from your classmates." ,
+        dont = "Dominate discussions so that only your voice occupies the space."
+      ),
+      list(
+        do   = "Maintain awareness and openness to shifting your perspectives or drawing new conclusions." ,
+        dont = "Assume your perspectives and views are permanent or fully-informed"
+      )
     ),
-    list(
-      do   = "Use tools like AI and collaboration with integrity.",
-      dont = "Present direct results from AI tools like ChatGPT as your own work."
-    )
-  ),
-  Curiosity = list(
-    list(
-      do   = "Use the readings and assignments as a guide."  ,
-      dont = "Let the syllabus limit your investigation."
-    ),
-    list(
-      do   = "Ask thoughtful questions of yourself, your instructor, and your colleagues." ,
-      dont = "Expect me to fill your brain with facts for you to recall."
-    ),
-    list(
-      do   = "Actively seek insights from your classmates." ,
-      dont = "Dominate discussions so that only your voice occupies the space."
-    ),
-    list(
-      do   = "Maintain awareness and openness to shifting your perspectives or drawing new conclusions." ,
-      dont = "Assume your perspectives and views are permanent or fully-informed"
-    )
-  ),
-  Responsibility = list(
-    list(
-      do   = "Take initiative when you see an opportunity to encourage thoughtful discourse."     ,
-      dont = "Wait for your instructor to lead every discussion."
-    ),
-    list(
-      do   = "Take full personal responsibility for mistakes or missed opportunities." ,
-      dont = "Deflect blame or redirect responsibilities on your instructor or your classmates."
-    ),
-    list(
-      do   = "Cultivate a professional and respectful attitude that match for all your instructors" ,
-      dont = "Let your implicit bias cloud your expectations of or attitude toward your instructor"
-    ),
-    list(
-      do   = "Bring your barriers to my attention so I can help you navigate them." ,
-      dont =  "Assume only you are navigating barriers or that barriers are insurmountable with cooperation."
+    Responsibility = list(
+      list(
+        do   = "Take initiative when you see an opportunity to encourage thoughtful discourse."     ,
+        dont = "Wait for your instructor to lead every discussion."
+      ),
+      list(
+        do   = "Take full personal responsibility for mistakes or missed opportunities." ,
+        dont = "Deflect blame or redirect responsibilities on your instructor or your classmates."
+      ),
+      list(
+        do   = "Cultivate a professional and respectful attitude that match for all your instructors" ,
+        dont = "Let your implicit bias cloud your expectations of or attitude toward your instructor"
+      ),
+      list(
+        do   = "Bring your barriers to my attention so I can help you navigate them." ,
+        dont =  "Assume only you are navigating barriers or that barriers are insurmountable with cooperation."
+      )
     )
   )
-)
+}
+
+value_list <- get_values()
 
 
 item_do_dont <- function(text, type, text_style = "font-size:13px; padding:5px", justify = "justify-content-between") {
@@ -122,7 +124,8 @@ list_do_dont <- function(x, idx) {
     )
 }
 
-class_culture <- function(value_list) {
+class_culture <- function() {
+  value_list <- get_values()
   withTags(
     card(
       class = "card bg-light mb-3",
@@ -335,36 +338,37 @@ accommodations <- function() {
 }
 
 instructor_card <- function() {
+  instructor_info <- get_instructor_info()
   body <- ul_group(
         layout    = "grid",
         item_list = list(
-          "Please call me:"   = "Dr. Rich or Professor Rich (she/her)",
-          "Find me in:"       = "Allwine Hall 413",
-          "Office Hours:"     = tags$a(href = "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink", "By appointment Tues 11-1 or Thur 1-2"),
-          "Remote Meetings:"  = tags$a(href = "https://zoom.us/launch/chat?src=direct_chat_link&email=aliciarich%40unomaha.edu", "Video or direct message via Zoom"),
-          "Contact me via:"   = tags$a(href = "mailto:aliciarich@unomaha.edu", "aliciarich@unomaha.edu")
+          "Please call me:"   = pluck(instructor_info, "call_me"),
+          "Find me in:"       = pluck(instructor_info, "office"),
+          "Office Hours:"     = tags$a(href = pluck(instructor_info, "bookings_link"), pluck(instructor_info, "office_hours_text")),
+          "Remote Meetings:"  = tags$a(href = pluck(instructor_info, "zoom_link"), "Zoom Meetings"),
+          "Contact me via:"   = tags$a(href = pluck(instructor_info, "contact_href"), pluck(instructor_info, "contact_text"))
         )
       )
   content_card(
-    title_text    = "Alicia M. Rich, Ph.D.",
-    subtitle_text = "Assistant Professor of Biology & Environmental Science",
+    title_text    = pluck(instructor_info, "full_name"),
+    subtitle_text = pluck(instructor_info, "position"),
     body          = tagList(body),
     footer_text   = div(
-      p(tags$a(href = "https://outlook.office.com/bookwithme/user/c35af21f7b904e7d82e5cffc9144bce2@nebraska.edu/meetingtype/OBbQKPv_8U-i7oMmPayEZg2?anonymous&ismsaljsauthenabled&ep=mlink", "Use this bookings link to schedule a meeting during office hours.")),
       p(
         span(tags$strong("Please use email and not canvas messages for communication.")),
         "You can expect a response within 2 business days, ",
-        span(tags$strong("but I do not monitor my work email during evenings or on the weekends."))
+        span(tags$strong("but I may not monitor my work email outside standard work days/hours or during classes/meetings."))
       )
     ),
     card_class    = "info",
     heading       = "Course Instructor",
     icon_name     = "user",
-    image         = card_image(file = here("images/headshot_rich.png"), width = "200px")
+    image         = card_image(file = pluck(instructor_info, "headshot"), width = "200px")
   )
 }
 
-exam_format <- function(course) {
+exam_format <- function(course = NULL) {
+  N <- if (is.null(course)) 2 else length(pluck(assessment(course), "exams"))
   body <- div(
     ul_group(
       list_lead = "General Exam Format:",
@@ -384,7 +388,7 @@ exam_format <- function(course) {
   )
 
   display <- content_card(
-    title_text    = paste0("You will take ", length(pluck(assessment, course, "exams")), " synchronous, written exams this semester."),
+    title_text    = paste0("You will take ", N, " synchronous, written exams this semester."),
     subtitle_text = span(
       "You may reference any materials you wish during the exam (e.g., notes, text), but ",
       span(tags$strong("electronic devices are not permitted. ")),
@@ -399,8 +403,8 @@ exam_format <- function(course) {
   return(display)
 }
 
-missed_exams <- function(course) {
-course_short <- str_extract(course, "\\w+(?=_)")
+missed_exams <- function(course = NULL) {
+ path <- if (is.null(course)) "https://rich-molecular-health-lab.github.io/courses/" else schedule_link(course)
   content_card(
     title_text    = "Exam Policy",
     subtitle_text = "All course exams follow a traditional, in-person, synchronous format.",
@@ -408,7 +412,7 @@ course_short <- str_extract(course, "\\w+(?=_)")
         "Most of the course schedule may change significantly as we progress. As a result, the content covered in each exam may change accordingly, but ",
         span(tags$strong("I will keep to the exam dates and times that I set at the beginning of the semester.")),
       ),
-    footer_text   = p(span(tags$a(href = paste0(course_short, "/schedule.qmd"), "You should mark those dates and times on your calendar now, ")), "because I will only offer makeup opportunities under extenuating circumstances that the Accessibility Services Center communicates directly to me."),
+    footer_text   = p(span(tags$a(href = path, "You should mark those dates and times on your calendar now, ")), "because I will only offer makeup opportunities under extenuating circumstances that the Accessibility Services Center communicates directly to me."),
     card_class    = "danger",
     heading       = "Note",
     icon_name     = "circle-exclamation"
@@ -497,6 +501,54 @@ late_work <- function() {
     heading       = "Assessment",
     icon_name     = "pen-to-square"
 
+  )
+}
+
+exams_card <- function(course = NULL) {
+  N <- if (is.null(course)) 2 else length(pluck(assessment(course), "exams"))
+  content_card(
+    title_text    = paste0("You will take ", N, " synchronous, written exams this semester."),
+    subtitle_text = span(
+      "You may reference any materials you wish during the exam (e.g., notes, text), but ",
+      span(tags$strong("electronic devices are not permitted. ")),
+      "That means you should plan ahead to bring a hard-copy version of any materials you plan to use."
+    ),
+    body          = tagList(
+      div(
+        ul_group(
+          list_lead = "General Exam Format:",
+          layout    = "grid",
+          item_list = list(
+            "Multiple Choice" = "60%",
+            "True/False"      = "20%",
+            "Short Essay*"    = "20%"
+          )
+        ),
+        p(
+          "You are soley responsible for exam preparation and compilation of materials. That means you should not only attend class every day, but ",
+          span(tags$strong("also take down clear and organized notes ")),
+          "for your exams. I may or may not provide access to lecture slides, ",
+          span(tags$strong("so you should rely entirely on my slides as your notes."))
+        )
+      )
+    ),
+    footer_text   = "*In most cases, you will answer ~2-3 total short essay questions, but I provide a choice of at least two prompts for each.",
+    card_class    = "info",
+    heading       = "Exam Details",
+    icon_name     = "pen-to-square"
+  )
+
+}
+
+activities_card <- function() {
+  content_card(
+    title_text    = "In-Class Activities",
+    subtitle_text = "Some classes may include group-based exercises or other graded work.",
+    body          = "You will submit your work at the end of class for completion credit. I may or may not give advance notice for graded, in-class activities.",
+    footer_text   = "You will not have any makeup opportunities for missed work, but I will drop at least one of your lowest scores.",
+    card_class    = "info",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
   )
 }
 

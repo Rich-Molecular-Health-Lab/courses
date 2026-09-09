@@ -1,0 +1,1467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Contemporary Conservation Biology</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+
+    <link rel="stylesheet" href="4_System/44_Assets/CSS/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The Rise of Conservation Biology
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch02/c02fig008.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Foundations of Conservation Biology
+
+</div>
+
+
+ <!-- .element: class="presentation-subtitle" -->
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 73%; top: 80%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+August 31, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/2_2_historic_context1.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/2_2_historic_context2.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+London's Great Smog (1952)
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/thecrown_londonsmog.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+- Airborn nitrogen oxides, sulfur dioxide, and soot **from coal burning**
+- Cold weather + windless conditions
+
+A blanket of smog covered London for five days.<!-- .element: class="feature" -->
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Thousands died and 100,000 fell ill</li>
+<li>Cold weather combined with windless conditions allowed airborne nitrogen oxides, sulfur dioxide, and soot from coal burning to form a thick layer of smog over the city.</li>
+<li>Recent research has shown that 12,000 premature deaths can be partially attributed to this smog.</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Love Canal (1953)
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/love_canal.jpeg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+>Hooker Chemical Company began dumping industrial waste into the Love Canal near Niagara Falls, NY in the 1940s. 
+
+- Love Canal residents reported strange odors and blue goo bubbling into their basements.
+- High rates of asthma, miscarriages, mental disabilities, and other health problems brought Love Canal into the spotlight in 1978
+
+56% of children born there between 1974 and 1978 had birth defects.<!-- .element: class="feature" -->
+
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>After the site was later sold and developed, Love Canal residents reported strange odors and blue goo bubbling into their basements.</li>
+<li>High rates of asthma, miscarriages, mental disabilities, and other health problems brought Love Canal into the spotlight in 1978, and subsequent surveys found that 56% of children born there between 1974 and 1978 had birth defects.</li>
+<li>New York State Health Commissioner David Axelrod called the incident a “national symbol of a failure to exercise a sense of concern for future generations.” The U.S. government soon after passed the Superfund law.</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Love Canal (1953)
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 12%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<iframe src="https://www.youtube.com/embed/24q62pkeAyI"></iframe>
+
+</div>
+
+<!-- .element: class="video-container" -->
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Silent Spring (1962) 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/crop_spraying.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+After WWII, DDT was promoted as a wonder chemical
+
+- Rachel Carson published *Silent Spring* in 1962
+  - highlighted the dangers & consequences of DDT
+  - testified before U.S. Congress
+
+The U.S. Environmental Protection Agency was founded and subsequently banned the use of DDT<!-- .element: -class="feature" -->
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Carson’s book, and testimony before the U.S. Congress, helped trigger the establishment of the U.S. Environmental Protection Agency, which subsequently banned the use of DDT.</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Silent Spring (1962)
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 12%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<iframe src="https://www.youtube.com/embed/ezVEzCmiXM4?cc_load_policy=1&cc_lang_pref=en">
+</iframe>
+</div>
+
+<!-- .element: class="video-container" -->
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Cuyahoga River (1969) 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/cuyahoga_river.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Industrial waste poured into Cleveland's Cuyahoga River over decades
+
+The river repeatedly caught fire over several years.
+
+In 1969 the photo on the left made it to the front page of Time Magazine and catalyzed a nationwide movement.<!-- .element: -class="feature" -->
+
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Cuyahoga River (1969)
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 12%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<iframe src="https://www.youtube.com/embed/nlHiaZFvcXA?cc_load_policy=1&cc_lang_pref=en">
+</iframe>
+
+</div>
+
+<!-- .element: class="video-container" -->
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Earth Day (1970)
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/earth_day.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+The first official Earth Day (April 22, 1970) marks a turning point in Environmental awareness and activism, particularly in the US, Canada, and Europe.
+</div>
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Ecologist Michael Soulé organized the First International Conference on Research in Conservation Biology in 1978</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Earth Day (1970)
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 12%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<iframe src="https://www.youtube.com/embed/pCcxIQYdH24?cc_load_policy=1&cc_lang_pref=en">
+</iframe>
+</div>
+
+<!-- .element: class="video-container" -->
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+An Interdisciplinary Field
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch02/c02fig008.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Soulé proposed a new interdisciplinary approach that could help save plants and animals from the threat of human-caused extinctions.</li>
+<li>Though founded in the disciplines of biological sciences and natural resource management, conservation has expanded to include the social sciences, humanities, physical sciences, and engineering.</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+A Crisis Discipline
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 12%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<iframe src="https://www.youtube.com/embed/AeZbbEaLj4c?cc_load_policy=1&cc_lang_pref=en">
+</iframe>
+
+</div>
+
+<!-- .element: class="video-container" -->
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Practitioners must take action even in the absence of complete information, because waiting to collect the necessary data may result in irreversible loss.
+
+</div>
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Soulé argued that conservation biology differs from most other biological sciences in that it is a crisis discipline</li>
+<li>Conservation biologists are often asked for advice and input by government and private agencies.  </li>
+<li>Therefore, the “expert” is expected to provide quick, unambiguous answers even in the absence of complete knowledge. </li>
+<li>This is a major challenge for conservation biologists, who must walk a fine line between scientific credibility and taking action and providing advice based on general and perhaps incomplete knowledge</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Views of Conservation 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch02/c02fig009a.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Soulé argued that conservation biology was more than just environmentalism, in which decision-making was based largely on philosophical, religious, and ethical arguments</li>
+</ul>
+</div>
+
+<p> course_footer
+Conservation Biology (BIOL 4120)</p>
+</div></aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Views of Conservation 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch02/c02fig009b.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Soulé argued that conservation biology was a form of normative science</li>
+<li>Soulé went on to outline what he called the functional and normative postulates that, in his view, represent the core principles and values of the field</li>
+</ul>
+</div>
+
+<p> course_footer
+Conservation Biology (BIOL 4120)</p>
+</div></aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Views of Conservation 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch02/c02fig009c.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>People are motivated to conserve biodiversity for a large variety of reasons<ul>
+<li>some of which are based on normative viewpoints and others of which are based on positive viewpoints.</li>
+</ul>
+</li>
+<li>While one type of motivation is sometimes emphasized over the other, rarely do we treat those motivations as if they are mutually exclusive in any real act of decision-making. </li>
+<li>Complementary, because different people respond to different value systems.</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch02/c02fig009.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>People are motivated to conserve biodiversity for a large variety of reasons<ul>
+<li>some of which are based on normative viewpoints and others of which are based on positive viewpoints.</li>
+</ul>
+</li>
+<li>While one type of motivation is sometimes emphasized over the other, rarely do we treat those motivations as if they are mutually exclusive in any real act of decision-making. </li>
+<li>Complementary, because different people respond to different value systems.</li>
+</ul>
+</aside></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>

@@ -1,0 +1,9 @@
+### Required Materials { .heading-hide-text }
+
+```{r}
+
+withTags(resource_card(params$course))
+```
+
+
+

@@ -1,22 +1,46 @@
 ---
 title: "Human Health & the Environment"
-subtitle: "Dr. Alicia M. Rich, University of Nebraska Omaha"
-profile: 
-  default: listings
+subtitle: "Fall 2026"
+profile:
+  - "listings"
+  - "hhe"
 listing: 
-  id: hhe-index
-  contents:
-    - "syllabus.qmd"
-    - "schedule.qmd"
-    - "../slides/hhe/*.qmd"
-  type: grid
+  - id: hhe-slides
+    contents:
+      - "../slides/hhe/*.qmd"
+      - "!../slides/hhe/_*/**"
+      - "!../slides/hhe/*/_*/**"
+  - id: hhe-resource
+    contents:
+      - "../resources/hhe/*.qmd"
+      - "../resources/hhe/*/*.qmd"
+      - "!../resources/hhe/_*/**"
+      - "!../resources/hhe/*/_*/**"
 ---
 
 On this site you can find the most up to date syllabi and schedules for Human Health & the Environment at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
 
-<a href="https://rich-molecular-health-lab.github.io/courses/hhe_slides.html"><i class="fa-brands fa-slideshare"></i> Slide Decks List</a>
+## Syllabus & Schedule
 
-::: {#hhe-index}
+::: {.layout-ncol=2}
+
+[![Syllabus](syllabi/graphics/comics/header-ItsInTheSyllabus2.png)](https://rich-molecular-health-lab.github.io/syllabi/hhe.html)
+
+
+[![Schedule](syllabi/graphics/comics/assignment_due.jpg)](https://rich-molecular-health-lab.github.io/hhe/schedule.html)
+
+:::
+
+
+## Slide Decks
+
+::: {#hhe-slides}
+
+:::
+
+## Other Resources
+
+::: {#hhe-resource}
 
 :::
 

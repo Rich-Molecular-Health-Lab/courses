@@ -1,0 +1,6 @@
+## Basics
+
+```{r}
+withTags(logistics_card(params$course))
+```
+

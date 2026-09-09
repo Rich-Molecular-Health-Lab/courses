@@ -1,6 +1,6 @@
 execute:
-  freeze: auto
-  include: false
+  echo: false
+  warning: false
 date: "August 24, 2026"
 date-modified: today
 date-format: "ddd MMM D, YYYY"

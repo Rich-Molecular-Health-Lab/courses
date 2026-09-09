@@ -2,11 +2,15 @@
 title: "Resources"
 subtitle: "Human Health & the Environment"
 profile: 
-  default: listings
+  - "listings"
+  - "hhe"
 listing: 
   id: hhe-resources
   contents:
-    - "resources/hhe/*"
+      - "../resources/hhe/*.qmd"
+      - "../resources/hhe/*/*.qmd"
+      - "!../resources/hhe/_*/**"
+      - "!../resources/hhe/*/_*/**"
 ---
 
 

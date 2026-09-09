@@ -1,0 +1,42 @@
+---
+profile: 
+  - "syllabus"
+  - "bio2"
+image: "graphics/comics/header-ItsInTheSyllabus2.png"
+params:
+  course: "bio2_26f"
+categories:
+  - "syllabi"
+---
+
+```{r}
+#| context: setup
+#| include: false
+
+source(here::here("_common.R"))
+source(here::here("_syllabus.R"))
+
+course        <- params$course
+course_short  <- str_extract(params$course, "\\w+(?=_)")
+
+```
+
+```{r}
+#| eval: false
+#| include: false
+
+render_syllabus_defaults()
+```
+
+
+{{< include _basics.qmd >}}
+{{< include _instructor.qmd >}}
+
+## Details
+
+{{< include _expectations.qmd >}}
+
+{{< include _uno_policies.qmd >}}
+
+{{< include _disclosure.qmd >}}
+

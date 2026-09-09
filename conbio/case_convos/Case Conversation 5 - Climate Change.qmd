@@ -1,0 +1,12 @@
+---
+title: "Case Conversation 5 - Climate Change"
+date: "2026-08-29"
+date-modified: "2026-08-29T12:19:17"
+profile:
+  - "case_convo"
+  - "conbio"
+categories:
+  - "case_convo"
+  - "BIOL4120"
+---
+

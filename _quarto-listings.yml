@@ -1,3 +1,11 @@
 listing:
-  fields: [image, date, date-modified, title, subtitle]
-  sort: "date"
+  sort:
+    - "file-modified desc"
+    - "date desc"
+  fields:
+    - "image"
+    - "file-modified"
+    - "date"
+    - "categories"
+    - "subtitle"
+    - "title"

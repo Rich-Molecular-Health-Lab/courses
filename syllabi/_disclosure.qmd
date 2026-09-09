@@ -1,0 +1,17 @@
+### Other Notices
+
+```{r}
+
+content_card(
+    title_text    = "Right of Revision",
+    subtitle_text = "The instructor reserves the right to revise or adjust the course syllabus best to accommodate the pace and needs of the students.",
+    body          = div(
+    h3("Fair Use Policy"),
+    p("Copying or recording synchronous classes and asynchronous course materials without the express prior approval of Dr. Rich is prohibited. All copies and recordings remain the property of UNO and Dr. Rich. UNO and Dr. Rich reserve the right to retrieve, inspect, or destroy them after their intended use. These policies are not intended to affect the rights of students with disabilities under applicable law or UNO policies.")
+  ),
+    footer_text   = "Please contact Dr. Rich if you would like a text-file version of this syllabus.",
+    card_class    = "secondary",
+    heading       = "Policies",
+    icon_name     = "certificate"
+  )
+```

@@ -2,12 +2,15 @@
 title: "Resources"
 subtitle: "Conservation Biology"
 profile: 
-  default: listings
+  - "listings"
+  - "conbio"
 listing: 
   id: conbio-resources
   contents:
-    - "resources/conbio/*"
-    - "films/conbio/*"
+    - "../resources/conbio/*.qmd"
+    - "../resources/conbio/*/*.qmd"
+    - "!../resources/conbio/_*/**"
+    - "!../resources/conbio/*/_*/**"
 ---
 
 

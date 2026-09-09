@@ -1,35 +1,147 @@
 ---
 title: "Current Course Info"
-subtitle: "Spring 2026"
+subtitle: "Fall 2026"
 profile: 
   default: listings
 listing: 
-  id: main-index
-  contents:
-    - "conbio/syllabus.qmd"
-    - "conbio/schedule.qmd"
-    - "hhe/syllabus.qmd"
-    - "hhe/schedule.qmd"
-  type: grid
+  - id: hhe-updates
+    contents:
+      - "*/hhe.qmd"
+      - "hhe/*.qmd"
+      - "slides/hhe/*.qmd"
+      - "!slides/hhe/*_/**"
+      - "!../slides/hhe/*/_*/**"
+      - "resources/hhe/*.qmd"
+      - "resources/hhe/*/*.qmd"
+      - "!resources/hhe/*_/**"
+      - "!../resources/hhe/*/_*/**"
+  - id: conbio-updates
+    contents:
+      - "*/conbio.qmd"
+      - "conbio/*.qmd"
+      - "slides/conbio/*.qmd"
+      - "!slides/conbio/*_/**"
+      - "!../slides/conbio/*/_*/**"
+      - "resources/conbio/*.qmd"
+      - "resources/conbio/*/*.qmd"
+      - "!resources/conbio/*_/**"
+      - "!../resources/conbio/*/_*/**"
 ---
 
 On this site you can find the most up to date syllabi and schedules for any courses I am currently teaching at UNO. Please check back often, as I will update the schedules as needed.[^1]
 
-## Current Courses
+## Course Docs
 
-::: {layout-ncol=2}
+:::{#accordionLinks .accordion}
 
-[![Conservation Biology](conbio/figures/course_header.png)](https://rich-molecular-health-lab.github.io/courses/conbio/)
+::::{.accordion-item}
 
-[![Human Health & the Environment](hhe/figures/course_header.png)](https://rich-molecular-health-lab.github.io/courses/hhe/)
+::::{#headingSyllabus .accordion-header}
+
+::::{.accordion-button type="button" data-bs-toggle="collapse" data-bs-target="#collapseSyllabus" aria-expanded="true" aria-controls="collapseSyllabus"}
+
+### Syllabi
+
+::::
+
+::::
+
+::::{#collapseSyllabus .accordion .collapse .hide aria-labelledby="headingSyllabus" data-bs-parent="#accordionLinks"}
+
+:::{layout-ncol=2}
+
+
+[![Conservation Biology](syllabi/graphics/headers/conbio.png)](syllabi/conbio.qmd)
+
+
+[![Human Health & the Environment](syllabi/graphics/headers/hhe.png)](syllabi/hhe.qmd)
 
 :::
 
-## Syllabi and Schedules
+::::
 
-::: {#main-index}
+::::
+
+::::{.accordion-item}
+
+::::{#headingSched .accordion-header}
+
+::::{.accordion-button type="button" data-bs-toggle="collapse" data-bs-target="#collapseSched" aria-expanded="true" aria-controls="collapseSched"}
+
+### Schedules
+
+::::
+
+::::
+
+::::{#collapseSched .accordion .collapse .hide aria-labelledby="headingSched" data-bs-parent="#accordionLinks"}
+
+:::{layout-ncol=2}
+
+
+[![Conservation Biology](syllabi/graphics/headers/conbio.png)](conbio/schedule.qmd)
+
+
+[![Human Health & the Environment](syllabi/graphics/headers/hhe.png)](hhe/schedule.qmd)
+
 
 :::
 
+::::
+
+::::
+
+:::
+
+
+## Recent Updates
+
+:::{#accordionListing .accordion}
+
+::::{.accordion-item}
+
+::::{#headingOne .accordion-header}
+
+::::{.accordion-button type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"}
+
+#### Conservation Biology
+
+::::
+
+::::
+
+::::{#collapseOne .accordion .collapse .hide aria-labelledby="headingOne" data-bs-parent="#accordionListing"}
+
+::: {#conbio-updates}
+
+:::
+
+::::
+
+::::
+
+::::{.accordion-item}
+
+::::{#headingTwo .accordion-header}
+
+::::{.accordion-button type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo"}
+
+#### Human Health & the Environment
+
+::::
+
+::::
+
+::::{#collapseTwo .accordion .collapse .hide aria-labelledby="headingTwo" data-bs-parent="#accordionListing"}
+
+::: {#hhe-updates}
+
+:::
+
+::::
+
+::::
+
+:::
 
 [^1]: The information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.

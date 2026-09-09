@@ -1,0 +1,467 @@
+- date: "2026-08-24T16:00:00"
+  class_day: "BIOL4120_W1D1"
+  week: 1
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Breaks BIOL4120"
+      path: "units/Breaks BIOL4120.html"
+  topics:
+    - title: "No Class BIOL4120"
+      path: "topics/No Class BIOL4120.html"
+  background:
+    []
+- date: "2026-08-26T16:00:00"
+  class_day: "BIOL4120_W1D2"
+  week: 1
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Overview BIOL4120"
+      path: "units/Overview BIOL4120.html"
+  topics:
+    - title: "Overview & Syllabus BIOL4120"
+      path: "topics/Overview & Syllabus BIOL4120.html"
+  background:
+    []
+- date: "2026-08-31T16:00:00"
+  class_day: "BIOL4120_W2D1"
+  week: 2
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Foundations of Conservation Biology"
+      path: "units/Foundations of Conservation Biology.html"
+  topics:
+    - title: "The Rise of Conservation Biology"
+      path: "topics/The Rise of Conservation Biology.html"
+  background:
+    - title: "Ch 2 The Rise of Conservation Biology"
+      path: "textbook/Ch 2 The Rise of Conservation Biology.html"
+- date: "2026-09-02T16:00:00"
+  class_day: "BIOL4120_W2D2"
+  week: 2
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Breaks BIOL4120"
+      path: "units/Breaks BIOL4120.html"
+  topics:
+    - title: "No Class BIOL4120"
+      path: "topics/No Class BIOL4120.html"
+  background:
+    []
+- date: "2026-09-07T16:00:00"
+  class_day: "BIOL4120_W3D1"
+  week: 3
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Breaks BIOL4120"
+      path: "units/Breaks BIOL4120.html"
+  topics:
+    - title: "Labor Day"
+      path: "topics/Labor Day.html"
+  background:
+    []
+- date: "2026-09-09T16:00:00"
+  class_day: "BIOL4120_W3D2"
+  week: 3
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Foundations of Conservation Biology"
+      path: "units/Foundations of Conservation Biology.html"
+  topics:
+    - title: "Biodiversity Concepts & Measurement"
+      path: "topics/Biodiversity Concepts & Measurement.html"
+    - title: "The Rise of Conservation Biology"
+      path: "topics/The Rise of Conservation Biology.html"
+  background:
+    - title: "Ch 3 Biodiversity Concepts and Measurement"
+      path: "textbook/Ch 3 Biodiversity Concepts and Measurement.html"
+- date: "2026-09-14T16:00:00"
+  class_day: "BIOL4120_W4D1"
+  week: 4
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Foundations of Conservation Biology"
+      path: "units/Foundations of Conservation Biology.html"
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Biodiversity Concepts & Measurement"
+      path: "topics/Biodiversity Concepts & Measurement.html"
+    - title: "Extinction"
+      path: "topics/Extinction.html"
+  background:
+    - title: "Ch 8 Extinction"
+      path: "textbook/Ch 8 Extinction.html"
+- date: "2026-09-16T16:00:00"
+  class_day: "BIOL4120_W4D2"
+  week: 4
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Case Conversation 1 - Extinction"
+      path: "case_convos/Case Conversation 1 - Extinction.html"
+    - title: "Extinction"
+      path: "topics/Extinction.html"
+  background:
+    []
+- date: "2026-09-21T16:00:00"
+  class_day: "BIOL4120_W5D1"
+  week: 5
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Habitat Loss, Fragmentation, and Degradation"
+      path: "topics/Habitat Loss, Fragmentation, and Degradation.html"
+  background:
+    - title: "Ch 9 Habitat Loss, Fragmentation, and Degradation"
+      path: "textbook/Ch 9 Habitat Loss, Fragmentation, and Degradation.html"
+- date: "2026-09-23T16:00:00"
+  class_day: "BIOL4120_W5D2"
+  week: 5
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Habitat Loss, Fragmentation, and Degradation"
+      path: "topics/Habitat Loss, Fragmentation, and Degradation.html"
+  background:
+    []
+- date: "2026-09-28T16:00:00"
+  class_day: "BIOL4120_W6D1"
+  week: 6
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Habitat Loss, Fragmentation, and Degradation"
+      path: "topics/Habitat Loss, Fragmentation, and Degradation.html"
+  background:
+    []
+- date: "2026-09-30T16:00:00"
+  class_day: "BIOL4120_W6D2"
+  week: 6
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
+      path: "case_convos/Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation.html"
+  background:
+    []
+- date: "2026-10-05T16:00:00"
+  class_day: "BIOL4120_W7D1"
+  week: 7
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Overexploitation"
+      path: "topics/Overexploitation.html"
+  background:
+    - title: "Ch 10 Overexploitation"
+      path: "textbook/Ch 10 Overexploitation.html"
+- date: "2026-10-07T16:00:00"
+  class_day: "BIOL4120_W7D2"
+  week: 7
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Overexploitation"
+      path: "topics/Overexploitation.html"
+  background:
+    []
+- date: "2026-10-12T16:00:00"
+  class_day: "BIOL4120_W8D1"
+  week: 8
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Case Conversation 3 - Overexploitation"
+      path: "case_convos/Case Conversation 3 - Overexploitation.html"
+  background:
+    []
+- date: "2026-10-14T16:00:00"
+  class_day: "BIOL4120_W8D2"
+  week: 8
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Exams BIOL4120"
+      path: "units/Exams BIOL4120.html"
+  topics:
+    - title: "Exam 1 BIOL4120"
+      path: "topics/Exam 1 BIOL4120.html"
+  background:
+    []
+- date: "2026-10-19T16:00:00"
+  class_day: "BIOL4120_W9D1"
+  week: 9
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Breaks BIOL4120"
+      path: "units/Breaks BIOL4120.html"
+  topics:
+    - title: "Fall Break BIOL4120"
+      path: "topics/Fall Break BIOL4120.html"
+  background:
+    []
+- date: "2026-10-21T16:00:00"
+  class_day: "BIOL4120_W9D2"
+  week: 9
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Invasive Alien Species"
+      path: "topics/Invasive Alien Species.html"
+  background:
+    - title: "Ch 11 Invasive Alien Species"
+      path: "textbook/Ch 11 Invasive Alien Species.html"
+- date: "2026-10-26T16:00:00"
+  class_day: "BIOL4120_W10D1"
+  week: 10
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Invasive Alien Species"
+      path: "topics/Invasive Alien Species.html"
+  background:
+    []
+- date: "2026-10-28T16:00:00"
+  class_day: "BIOL4120_W10D2"
+  week: 10
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Case Conversation 4 - Invasive Alien Species"
+      path: "case_convos/Case Conversation 4 - Invasive Alien Species.html"
+  background:
+    []
+- date: "2026-11-02T16:00:00"
+  class_day: "BIOL4120_W11D1"
+  week: 11
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Climate Change"
+      path: "topics/Climate Change.html"
+  background:
+    - title: "Ch 12 Climate Change"
+      path: "textbook/Ch 12 Climate Change.html"
+- date: "2026-11-04T16:00:00"
+  class_day: "BIOL4120_W11D2"
+  week: 11
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Climate Change"
+      path: "topics/Climate Change.html"
+  background:
+    []
+- date: "2026-11-09T16:00:00"
+  class_day: "BIOL4120_W12D1"
+  week: 12
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Threats to Biodiversity"
+      path: "units/Threats to Biodiversity.html"
+  topics:
+    - title: "Case Conversation 5 - Climate Change"
+      path: "case_convos/Case Conversation 5 - Climate Change.html"
+  background:
+    []
+- date: "2026-11-11T16:00:00"
+  class_day: "BIOL4120_W12D2"
+  week: 12
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Ex Situ Conservation"
+      path: "topics/Ex Situ Conservation.html"
+  background:
+    - title: "Ch 16 Ex Situ Conservation"
+      path: "textbook/Ch 16 Ex Situ Conservation.html"
+- date: "2026-11-16T16:00:00"
+  class_day: "BIOL4120_W13D1"
+  week: 13
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Ex Situ Conservation"
+      path: "topics/Ex Situ Conservation.html"
+  background:
+    []
+- date: "2026-11-18T16:00:00"
+  class_day: "BIOL4120_W13D2"
+  week: 13
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Species-Level Approaches"
+      path: "topics/Species-Level Approaches.html"
+  background:
+    - title: "Ch 13 Species-Level Conservation"
+      path: "textbook/Ch 13 Species-Level Conservation.html"
+- date: "2026-11-23T16:00:00"
+  class_day: "BIOL4120_W14D1"
+  week: 14
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Case Conversation 6 - Species-Level Approaches"
+      path: "case_convos/Case Conversation 6 - Species-Level Approaches.html"
+  background:
+    []
+- date: "2026-11-25T16:00:00"
+  class_day: "BIOL4120_W14D2"
+  week: 14
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Breaks BIOL4120"
+      path: "units/Breaks BIOL4120.html"
+  topics:
+    - title: "Thanksgiving Break BIOL4120"
+      path: "topics/Thanksgiving Break BIOL4120.html"
+  background:
+    []
+- date: "2026-11-30T16:00:00"
+  class_day: "BIOL4120_W15D1"
+  week: 15
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Community & Ecosystem Approaches"
+      path: "topics/Community & Ecosystem Approaches.html"
+  background:
+    - title: "Ch 14 Community and Ecosystem Conservation"
+      path: "textbook/Ch 14 Community and Ecosystem Conservation.html"
+- date: "2026-12-02T16:00:00"
+  class_day: "BIOL4120_W15D2"
+  week: 15
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Case Conversation 7 - Community & Ecosystem Approaches"
+      path: "case_convos/Case Conversation 7 - Community & Ecosystem Approaches.html"
+  background:
+    []
+- date: "2026-12-07T16:00:00"
+  class_day: "BIOL4120_W16D1"
+  week: 16
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Landscape-Scale Approaches"
+      path: "topics/Landscape-Scale Approaches.html"
+  background:
+    - title: "Ch 15 Landscape-Scale Conservation"
+      path: "textbook/Ch 15 Landscape-Scale Conservation.html"
+- date: "2026-12-09T16:00:00"
+  class_day: "BIOL4120_W16D2"
+  week: 16
+  day: 2
+  status: "planned"
+  location: "Allwine Hall 304"
+  unit:
+    - title: "Approaches to Conservation"
+      path: "units/Approaches to Conservation.html"
+  topics:
+    - title: "Case Conversation 8 - Landscape-Scale Approaches"
+      path: "case_convos/Case Conversation 8 - Landscape-Scale Approaches.html"
+  background:
+    []

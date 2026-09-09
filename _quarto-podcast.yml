@@ -1,11 +1,9 @@
 date-modified: today
 date-format: "ddd MMM D, YYYY"
+subtitle: "Assigned Listening"
 format:
   html:
-    toc: true
-    toc-depth: 4
-    toc-location: left
-    toc-title: "Contents"
+    toc: false
     theme: sandstone
     page-layout: full
     smooth-scroll: true

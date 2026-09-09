@@ -1,0 +1,50 @@
+### Assessment
+
+::: {.panel-tabset}
+
+#### Graded Project { .heading-hide-text }
+
+```{r}
+
+#| title: "Graded Project"
+
+project_card(params$course)
+
+```
+
+
+#### Exams { .heading-hide-text }
+
+```{r}
+#| title: "Exams"
+
+exams_card(params$course)
+```
+
+#### Quizzes { .heading-hide-text }
+
+```{r}
+#| title: "Quizzes"
+
+prep_quizzes()
+```
+
+#### In-Class Activities { .heading-hide-text }
+
+```{r}
+#| title: "In-Class Activities"
+
+activities_card()
+```
+
+:::
+
+#### Grade Breakdown
+
+```{r}
+grade_breakdown(params$course)
+```
+
+
+
+

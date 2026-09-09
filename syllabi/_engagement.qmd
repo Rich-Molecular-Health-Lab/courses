@@ -1,0 +1,28 @@
+#### Classroom Engagement { .heading-hide-text }
+
+```{r}
+#| title: "Classroom Engagement"
+
+content_card(
+    title_text    = "Engagement & Record-Keeping",
+    subtitle_text = "You will only succeed in this class if you take full responsibility for your processing and retentionof the content.",
+    body          = div(
+        p(
+          "While I am deeply committed to open science, I believe that open access to teaching materials can also deincentivize the development of note-taking skills. As a result, ",
+          span(strong("you should not assume you will have open access to all slides and other teaching materials for this class in any asynchronous format ")),
+          " (e.g., posting my slides to canvas or emailing them after class). You are more than welcome to take pictures of slides during class or use other forms of recording to help you later, but you must attend class and pay attention to grasp the key concepts and decide which ideas or concepts are worth noting for later, but ",
+          span(strong("you should remember that your instructor's role is to organize and disseminate content during scheduled class time, while yours is to record, review, and retain the most pertinent information."))
+        ),
+        p(
+          "This also means that if you miss class, you should rely on reciprocal collaboration with your classmates, if they are willing to share their notes with you. This is also an important skill for learning how to work on teams and collaborate with colleagues for long-term success.",
+          span(strong("If you do miss class, please, do not ask me to provide a comprehensive written or oral record of what you missed.")),
+          "I do not give repeat lectures and cannot prepare individualized lesson plans for each member of the class."
+          )
+        ),
+    footer_text   = "Work directly with Accessibility Services if legitimate barriers arise, and then I will arrange offical make-up options for you.",
+    card_class    = "success",
+    heading       = "Expectations",
+    icon_name     = "book-open-reader"
+  )
+```
+

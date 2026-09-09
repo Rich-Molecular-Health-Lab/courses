@@ -1,0 +1,592 @@
+- title: "Biodiversity Concepts & Measurement"
+  unit:
+    - "Foundations of Conservation Biology"
+  chapter: 1
+  section: 3
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4120
+  class_days:
+    - "BIOL4120_W3D2"
+    - "BIOL4120_W4D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 3 Biodiversity Concepts and Measurement"
+  quizzes: null
+  slides:
+    - "Biodiversity Concepts and Measurement Slides"
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-09T16:00:00"
+    - "2026-09-14T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Climate Change"
+  unit:
+    - "Threats to Biodiversity"
+  chapter: 3
+  section: 12
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W11D1"
+    - "BIOL4120_W11D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 12 Climate Change"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-02T16:00:00"
+    - "2026-11-04T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Community & Ecosystem Approaches"
+  unit:
+    - "Approaches to Conservation"
+  chapter: 4
+  section: 14
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W15D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 14 Community and Ecosystem Conservation"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-30T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Ex Situ Conservation"
+  unit:
+    - "Approaches to Conservation"
+  chapter: 4
+  section: 16
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W12D2"
+    - "BIOL4120_W13D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 16 Ex Situ Conservation"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-11T16:00:00"
+    - "2026-11-16T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Exam 1 BIOL4120"
+  unit:
+    - "Exams BIOL4120"
+  chapter: 3
+  section: 10
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W8D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-14T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Extinction"
+  unit:
+    - "Threats to Biodiversity"
+  chapter: 3
+  section: 8
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4120
+  class_days:
+    - "BIOL4120_W4D1"
+    - "BIOL4120_W4D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 8 Extinction"
+  quizzes: null
+  slides:
+    - "https://canva.link/9u0qo7yq40d34nu"
+    - "https://canva.link/p3f89pahovuj46e"
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-14T16:00:00"
+    - "2026-09-16T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Fall Break BIOL4120"
+  unit:
+    - "Breaks BIOL4120"
+  chapter: 3
+  section: 10
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W9D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-19T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Final Exam BIOL4120"
+  unit:
+    - "Exams BIOL4120"
+  chapter: null
+  section: null
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days: null
+  projects:
+    - "Conservation Biology Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    []
+  course_name: "Conservation Biology"
+- title: "Habitat Loss, Fragmentation, and Degradation"
+  unit:
+    - "Threats to Biodiversity"
+  chapter: 3
+  section: 9
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W5D2"
+    - "BIOL4120_W6D1"
+    - "BIOL4120_W5D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 9 Habitat Loss, Fragmentation, and Degradation"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-21T16:00:00"
+    - "2026-09-23T16:00:00"
+    - "2026-09-28T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Invasive Alien Species"
+  unit:
+    - "Threats to Biodiversity"
+  chapter: 3
+  section: 11
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 11 Invasive Alien Species"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Labor Day"
+  unit:
+    - "Breaks BIOL4120"
+  chapter: 1
+  section: 3
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W3D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-09-07T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Landscape-Scale Approaches"
+  unit:
+    - "Approaches to Conservation"
+  chapter: 4
+  section: 15
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W16D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 15 Landscape-Scale Conservation"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-12-07T16:00:00"
+  course_name: "Conservation Biology"
+- title: "No Class BIOL4120"
+  unit:
+    - "Breaks BIOL4120"
+  chapter: 0
+  section: 0
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W1D1"
+    - "BIOL4120_W2D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-08-24T16:00:00"
+    - "2026-09-02T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Overexploitation"
+  unit:
+    - "Threats to Biodiversity"
+  chapter: 3
+  section: 10
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 10 Overexploitation"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Overview & Syllabus BIOL4120"
+  unit:
+    - "Overview BIOL4120"
+  chapter: 0
+  section: 0
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4120
+  class_days:
+    - "BIOL4120_W1D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-08-26T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Species-Level Approaches"
+  unit:
+    - "Approaches to Conservation"
+  chapter: 4
+  section: 13
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W13D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 13 Species-Level Conservation"
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-18T16:00:00"
+  course_name: "Conservation Biology"
+- title: "Thanksgiving Break BIOL4120"
+  unit:
+    - "Breaks BIOL4120"
+  chapter: 4
+  section: 13
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W14D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background: null
+  quizzes: null
+  slides: null
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-11-25T16:00:00"
+  course_name: "Conservation Biology"
+- title: "The Rise of Conservation Biology"
+  unit:
+    - "Foundations of Conservation Biology"
+  chapter: 1
+  section: 2
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Ch 2 The Rise of Conservation Biology"
+  quizzes: null
+  slides:
+    - "Contemporary Conservation Biology"
+  videos: null
+  films: null
+  exercises: null
+  handouts: null
+  assignments: null
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
+  course_name: "Conservation Biology"

@@ -1,0 +1,49 @@
+#### Accommodations  { .heading-hide-text }
+
+```{r}
+#| title: "Accommodations"
+
+content_card(
+    title_text    = "Accessibility Services Center",
+    subtitle_text = "The Accessibility Services Center (ASC) collaborates with students, administrators, faculty, and staff to ensure access to reasonable and appropriate student disability accommodations.",
+    body          = div(
+    p(
+      "The University of Nebraska at Omaha is committed to providing reasonable accommodations for all persons with disabilities. This syllabus is available in alternate formats upon request. Reasonable accommodations are offered to students who are registered with the ",
+      span(tags$a(href = "https://www.unomaha.edu/student-life/accessibility/student-services.php", "Accessibility Services Center (ASC)."))
+    ),
+    div(
+      style = "padding:10px",
+      ul_group(
+        layout    = "grid",
+        item_list = list(
+          "For more information: " = card_image(
+            here("images/button_asc.png"),
+            width = "200px",
+            href = "https://www.unomaha.edu/student-life/accessibility/index.php"
+          ),
+          "Location: " = "104 H&K",
+          "Phone: "    = "402.554.2872",
+          "Email: "    = span(tags$a(href = "mailto:unoaccessibility@unomaha.edu", "unoaccessibility@unomaha.edu"))
+        ),
+        align   = "start",
+        justify = "evenly"
+      )
+    ),
+    p(
+      class = "text-body",
+      "I do my best to integrate a reasonable and universal degree of flexibility into our schedule and assessment plan to accommodate some work/life balance while also ensuring equity and reasonable progress in your learning. I am happy to receive requests and recommendations to help me update and improve this approach for everyone, but I will only create personalized accommodations by working directly with the ASC."
+    ),
+    p(
+      class = "text-body-tertiary",
+      style = "font-size:13px",
+      tags$em("Note: Please do not provide me with any personal or medical details to explain your barriers to attendance or assignment completion. While I do care about accommodating these issues when they arise,",
+              span(tags$b("I also care about your privacy and respect that office's expertise in managing the conditions and complications that are outside of my purview.")))
+    )
+  ),
+    footer_text   = "I genuinely appreciate opportunities to work with and around student barriers by collaborating with the ASC. If you know that you are coming into the semester with learning barriers (e.g., neurodivergence, visual/auditory processing differences), I strongly encourage you to register this with their office and then communicate with me about the ways I can work this into my approach from the beginning.",
+    card_class    = "danger",
+    heading       = "Accommodations",
+    icon_name     = "users"
+  )
+```
+

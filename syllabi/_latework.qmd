@@ -1,0 +1,16 @@
+#### Late Submissions  { .heading-hide-text }
+
+```{r}
+#| title: "Late Submissions"
+
+content_card(
+    title_text    = "Late Submissions",
+    subtitle_text = "While I prefer to implement as flexible a deadline policy as possible, I also have to maintain reasonable processing times for assessing every student's submissions and submitting grades.",
+    body          = p(span(tags$strong("To incentivize timely submissions, I will deduct 10% from the final grade on any assignment submitted after the deadline.")), "I will not accept any work from the first half of the semester submitted after our Midterm Exam, and I will not accept any work from the second half of the semester submitted after 5:00 PM on the last Friday of classes (i.e., the Friday before final exams begin). Unless Accessibility Services reaches out to discuss extremely extenuating circumstances with me, I will not make any exceptions to grade your work after the Final Exam."),
+    footer_text   = "If you have arranged formal accommodation requests through Accessibility Services for your assignment deadlines (see above), then I will be happy to honor those to my full ability. Please do not hesitate to remind me if that is the case and I inadvertently apply any late penalties to a grade.",
+    card_class    = "secondary",
+    heading       = "Assessment",
+    icon_name     = "pen-to-square"
+
+  )
+```

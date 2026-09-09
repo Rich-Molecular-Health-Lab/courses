@@ -1,0 +1,240 @@
+- number: 1
+  unit:
+    - "Threats to Biodiversity"
+  topic: "Extinction"
+  chapter: 1
+  section: 8
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Exam 1 BIOL4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W4D2"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-09-16T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 1 - Extinction"
+- number: 2
+  unit:
+    - "Threats to Biodiversity"
+  topic: "Habitat Loss, Fragmentation, and Degradation"
+  chapter: 1
+  section: 9
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Exam 1 BIOL4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W6D2"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-09-30T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
+- number: 3
+  unit:
+    - "Threats to Biodiversity"
+  topic: "Overexploitation"
+  chapter: 1
+  section: 10
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Final Exam BIOL4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W8D1"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-10-12T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 3 - Overexploitation"
+- number: 4
+  unit:
+    - "Threats to Biodiversity"
+  topic: "Invasive Alien Species"
+  chapter: 1
+  section: 11
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Final Exam BIOL4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W10D2"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-10-28T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 4 - Invasive Alien Species"
+- number: 5
+  unit:
+    - "Threats to Biodiversity"
+  topic: "Climate Change"
+  chapter: 1
+  section: 12
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Final Exam BIOL4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W12D1"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-11-09T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 5 - Climate Change"
+- number: 6
+  unit:
+    - "Approaches to Conservation"
+  topic: "Species-Level Approaches"
+  chapter: 2
+  section: 13
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Final Exam BIOL4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W14D1"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-11-23T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 6 - Species-Level Approaches"
+- number: 7
+  unit:
+    - "Approaches to Conservation"
+  topic: "Community & Ecosystem Approaches"
+  chapter: 2
+  section: 14
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Final Exam BIOL4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W15D2"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-12-02T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 7 - Community & Ecosystem Approaches"
+- number: 8
+  unit:
+    - "Approaches to Conservation"
+  topic: "Landscape-Scale Approaches"
+  chapter: 2
+  section: 15
+  days_needed: 1
+  suggested: null
+  leaders: null
+  background: null
+  exams:
+    - "Final Exam"
+  projects:
+    - "Conservation Biology Fall 2026"
+  class_days:
+    - "BIOL4120_W16D2"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  semesters:
+    - "26f"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "case_convo"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 12:19:17"
+  dates:
+    - "2026-12-09T16:00:00"
+  course_name: "Conservation Biology"
+  title: "Case Conversation 8 - Landscape-Scale Approaches"

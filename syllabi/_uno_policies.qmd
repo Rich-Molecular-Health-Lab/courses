@@ -1,0 +1,66 @@
+### University Policies & Resources
+
+::: {.panel-tabset}
+
+#### Grade Appeal
+
+Individuals who believe that their grade in a particular course does not properly reflect their performance or that the instructor acted arbitrarily or capriciously in determining the grade should first contact the instructor to determine the rationale for the grade or if there was an error in reporting. Consultation with the instructor should occur before formal action regarding a grade appeal.  
+  
+After the instructor has provided the rationale for the grade in question and has indicated that no error in reporting was made, the individual may petition the department/school for reconsideration. In such instances, the student should contact the department chair/school director to obtain information on the procedures to follow in requesting an appeal at the department/school level.  
+
+>The grade appeal process exists to correct inadvertent errors or misunderstandings about your grade, not to extend the term we've been given to work together for this class. ***Please, do not contact me after the final grade deadline to request an opportunity to revise, resubmit, or update work that has already been properly assigned, assessed, and graded unless you have already worked directly with the Accessibility Services Center and reached out to me at their recommendation.*** I will not consider any continued work on your progress in this course or attention to your materials without extremely extenuating circumstances. If you regret your performance in the class or opportunities you have missed and would like a second chance, I encourage you to re-enroll the next time I am teaching this course and follow the same standards and policies as your classmates.
+
+
+#### Dropping a Course
+
+A class can be dropped from your schedule via MavLINK until the last day to withdraw.  The last day to withdraw can be [found on the Academic Calendar](https://www.unomaha.edu/registrar/academic-calendar.php). You can click the "refund" link next to each class in your schedule if you are enrolled.  You can also contact the Office of the University Registrar to verify the last day to withdraw.  
+  
+Drops can only be completed in your course's 100% refund period. If you drop the course from your schedule during this period, it will not be listed on your academic transcript. Withdraws can be completed until the last day to withdraw for the semester.  **If you withdraw from a course, a grade of "W" is given for that course, which will be listed on your academic transcript.  "W" grades have no impact on your academic GPA.** 
+
+#### Title IX { .heading-hide-text }
+
+```{r}
+#| title: "Title IX"
+
+  content_card(
+    title_text    = "Title IX Sexual Misconduct",
+    subtitle_text = "As your instructor, one of my responsibilities is to help create a safe learning environment on our campus.",
+    body          = div(
+      p("Title IX and our Sexual Misconduct policy prohibit sexual misconduct.  If you have experienced sexual misconduct or know someone who has, the University can help."),
+      p(
+        tags$a(
+          href = "https://www.unomaha.edu/university-compliance/civil-rights/title-ix-information/index.php",
+          "I encourage you to visit the Title IX website to learn more."
+          ),
+        tags$a(
+          href = "https://www.unomaha.edu/student-life/wellness/counseling-and-psychological-services/index.php",
+          "If you seek help and want to speak to someone confidentially, you can contact the Counseling and Psychological Services (CAPS)."
+          )
+        )
+    ),
+    footer_text   = "It is also crucial that you know that federal regulations and University policy require me to promptly convey any information about potential sexual misconduct known to me to UNO’s Title IX Coordinator. In that event, they will work with a few others on campus to ensure appropriate measures are taken, and resources are available to the student who may have been harmed.  Protecting a student’s privacy is of utmost concern, and all involved will only share information with those who need to know to ensure the University can respond and assist.",
+    card_class    = "warning",
+    heading       = "University Policies",
+    icon_name     = "landmark-flag"
+  )
+
+  content_card(
+    title_text    = "Office of Student Leadership, Involvement, and Inclusion",
+    subtitle_text = "The university's former Gender and Sexuality Resource Center has been reorganized to form a more intersectional program.",
+    body          = "This office is meant as a space for students to learn from each other, build relationships, and foster an environment of understanding and respect. If you are interested in contributing to or benefiting from their work to make UNO a more inclusive environment or you find yourself in need of support and resources, I recommend you start with a visit to their office.",
+    footer_text   = tags$a(
+      href = "https://www.unomaha.edu/office-of-student-leadership-involvement-and-inclusion/",
+      "You can find them in rooms 112 and 113 of the Milo Bail Student Center or online."
+      ),
+    card_class    = "info",
+    heading       = "University Resources",
+    icon_name     = "handshake"
+  )
+```
+
+#### Code of Student Rights, Responsibilities, and Conduct
+
+Students at the University of Nebraska Omaha are expected to maintain standards of personal integrity per institutional goals for the success of all students. This means students are expected to assume responsibility for their actions, observe national, state, and local laws, follow university policies, and respect the rights and property of all people. For more information, [see Student Conduct and Community Standards.](https://www.unomaha.edu/student-life/student-conduct-and-community-standards/index.php)
+
+:::
+

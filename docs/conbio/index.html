@@ -76,20 +76,48 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-conbio-index .list');
+    const listingTargetEl = window.document.querySelector('#listing-conbio-slides .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-conbio-index'] = new List('listing-conbio-index', options);
+    window['quarto-listings']['listing-conbio-slides'] = new List('listing-conbio-slides', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-conbio-resource .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-conbio-resource'] = new List('listing-conbio-resource', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -138,8 +166,8 @@ window.Quarto = {
 </script>
 
 <meta property="og:title" content="Conservation Biology – Course Information">
-<meta property="og:description" content="Dr.&nbsp;Alicia M. Rich, University of Nebraska Omaha">
-<meta property="og:image" content="../graphics/comics/header-ItsInTheSyllabus2.png">
+<meta property="og:description" content="Fall 2026">
+<meta property="og:image" content="syllabi/graphics/comics/header-ItsInTheSyllabus2.png">
 <meta property="og:site_name" content="Course Information">
 </head>
 
@@ -178,7 +206,7 @@ window.Quarto = {
  <span class="dropdown-text">Slide Decks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../conbio/syllabus.html">
+    <a class="dropdown-item" href="../syllabi/conbio.html">
  <span class="dropdown-text">Syllabus</span></a>
   </li>  
         <li>
@@ -205,7 +233,7 @@ window.Quarto = {
  <span class="dropdown-text">Slide Decks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../hhe/syllabus.html">
+    <a class="dropdown-item" href="../syllabi/hhe.html">
  <span class="dropdown-text">Syllabus</span></a>
   </li>  
         <li>
@@ -219,10 +247,6 @@ window.Quarto = {
  <span class="menu-text">Biology 2 Lab</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-biology-2-lab">    
-        <li>
-    <a class="dropdown-item" href="../bio2lab_slides.html">
- <span class="dropdown-text">Slide Decks</span></a>
-  </li>  
         <li>
     <a class="dropdown-item" href="../bio2lab_resources.html">
  <span class="dropdown-text">Resources</span></a>
@@ -256,7 +280,9 @@ window.Quarto = {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#syllabus-and-schedule" id="toc-syllabus-and-schedule" class="nav-link active" data-scroll-target="#syllabus-and-schedule">Syllabus and Schedule</a></li>
+  <li><a href="#syllabus-schedule" id="toc-syllabus-schedule" class="nav-link active" data-scroll-target="#syllabus-schedule">Syllabus &amp; Schedule</a></li>
+  <li><a href="#slide-decks" id="toc-slide-decks" class="nav-link" data-scroll-target="#slide-decks">Slide Decks</a></li>
+  <li><a href="#other-resources" id="toc-other-resources" class="nav-link" data-scroll-target="#other-resources">Other Resources</a></li>
   </ul>
 </nav>
 </nav>
@@ -270,8 +296,11 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Conservation Biology</h1>
-<p class="subtitle lead">Dr.&nbsp;Alicia M. Rich, University of Nebraska Omaha</p>
-</div>
+<p class="subtitle lead">Fall 2026</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">BIOL4120</div>
+  </div>
+  </div>
 
 
 
@@ -282,7 +311,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">Sat Sep 5, 2026</p>
+      <p class="date-modified">Wed Sep 9, 2026</p>
     </div>
   </div>
     
@@ -293,51 +322,292 @@ window.Quarto = {
 </header>
 
 
-<p>On this site you can find the most up to date syllabi and schedules for Conservation Biology at UNO with Dr.&nbsp;Rich. Please check back often, as I will update the schedules as needed.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-<p><a href="https://rich-molecular-health-lab.github.io/courses/conbio_slides.html"><i class="fa-brands fa-slideshare"></i> Slide Decks Available Here</a></p>
-<section id="syllabus-and-schedule" class="level2">
-<h2 class="anchored" data-anchor-id="syllabus-and-schedule">Syllabus and Schedule</h2>
-<div id="listing-conbio-index" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1788630139926" data-listing-reading-time-sort="36" data-listing-word-count-sort="7016">
-<a href="../conbio/syllabus.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../graphics/comics/header-ItsInTheSyllabus2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Basics
-</h5>
-<div class="card-text listing-description delink">
+<p>On this site you can find the most up to date syllabi, schedules, slide decks, and other rewsources for Conservation Biology at UNO with Dr.&nbsp;Rich. Please check back often, as I will update the schedules as needed.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<section id="syllabus-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="syllabus-schedule">Syllabus &amp; Schedule</h2>
+<div class="{.layout-ncol=2}">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://rich-molecular-health-lab.github.io/syllabi/conbio.html"><img src="syllabi/graphics/comics/header-ItsInTheSyllabus2.png" class="img-fluid figure-img"></a></p>
+<figcaption>Syllabus</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://rich-molecular-health-lab.github.io/conbio/schedule.html"><img src="syllabi/graphics/comics/assignment_due.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Schedule</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="slide-decks" class="level2">
+<h2 class="anchored" data-anchor-id="slide-decks">Slide Decks</h2>
+<div id="listing-conbio-slides" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="c2xpZGVzJTJDQklPTDQwMjA=" data-listing-date-sort="1788152400000" data-listing-file-modified-sort="1788630181734" data-listing-date-modified-sort="1788930000000" data-listing-reading-time-sort="5" data-listing-word-count-sort="914">
+<div class="thumbnail"><a href="../slides/conbio/2_contemporary_conservation_biology.html" class="no-external">
 
-Engage with the urgent task of protecting biodiversity in Conservation Biology—a dynamic, interdisciplinary course addressing the global ecological crisis. Often described…<em></em><strong></strong><strong></strong>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<img loading="lazy" src="../slides/conbio/figures/Ch02/c02fig008.jpg" class="thumbnail-image">
 
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../slides/conbio/2_contemporary_conservation_biology.html" class="no-external">2.2 Contemporary Conservation Biology</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../slides/conbio/2_contemporary_conservation_biology.html" class="no-external">Conservation Biology</a>
 </div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1788630161317" data-listing-reading-time-sort="15" data-listing-word-count-sort="2974">
-<a href="../conbio/schedule.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../graphics/schedule_change.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<div class="card-text listing-description delink">
-This schedule is tentative and subject to change at any time, so check the online version regularly. You are solely responsible for keeping up with assigned textbook…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<div class="delink listing-description"><a href="../slides/conbio/2_contemporary_conservation_biology.html" class="no-external">
 
+</a></div>
+</div>
+<div class="metadata">
+<a href="../slides/conbio/2_contemporary_conservation_biology.html" class="no-external">
+<div class="listing-date">
+Mon Aug 31, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="c2xpZGVzJTJDQklPTDQwMjA=" data-listing-date-sort="1788325200000" data-listing-file-modified-sort="1788381226123" data-listing-date-modified-sort="1788930000000" data-listing-reading-time-sort="5" data-listing-word-count-sort="985">
+<div class="thumbnail"><a href="../slides/conbio/3_biodiversity.html" class="no-external">
+
+<img loading="lazy" src="../slides/conbio/figures/Ch03/c03fig001.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../slides/conbio/3_biodiversity.html" class="no-external">3: Biodiversity Concepts and Measures</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../slides/conbio/3_biodiversity.html" class="no-external">Conservation Biology</a>
+</div>
+<div class="delink listing-description"><a href="../slides/conbio/3_biodiversity.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../slides/conbio/3_biodiversity.html" class="no-external">
+<div class="listing-date">
+Wed Sep 2, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="c2xpZGVzJTJDQklPTDQwMjA=" data-listing-date-sort="1787720400000" data-listing-file-modified-sort="1788639996959" data-listing-date-modified-sort="1788930000000" data-listing-reading-time-sort="5" data-listing-word-count-sort="835">
+<div class="thumbnail"><a href="../slides/conbio/0_conbio_syllabus_overview.html" class="no-external">
+
+<img loading="lazy" src="../slides/conbio/figures/course_header.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../slides/conbio/0_conbio_syllabus_overview.html" class="no-external">Course Overview</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../slides/conbio/0_conbio_syllabus_overview.html" class="no-external">Conservation Biology</a>
+</div>
+<div class="delink listing-description"><a href="../slides/conbio/0_conbio_syllabus_overview.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../slides/conbio/0_conbio_syllabus_overview.html" class="no-external">
+<div class="listing-date">
+Wed Aug 26, 2026
+</div>
+</a>
 </div>
 </div>
 </div>
-</div></a>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="other-resources" class="level2">
+<h2 class="anchored" data-anchor-id="other-resources">Other Resources</h2>
+<div id="listing-conbio-resource" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-file-modified-sort="1770240469788" data-listing-reading-time-sort="3" data-listing-word-count-sort="449">
+<div class="thumbnail"><a href="../resources/conbio/case_convos/case_source_hubs.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/case_convos/case_source_hubs.html" class="no-external">Approved Case Source Hubs for Guided Case Conversations</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/case_convos/case_source_hubs.html" class="no-external">Conservation Biology</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/case_convos/case_source_hubs.html" class="no-external">
+You are encouraged (but not required) to select your case study from the approved source hubs below. These sites document real conservation actions with clearly stated…
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/case_convos/case_source_hubs.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-date-sort="1788930000000" data-listing-file-modified-sort="1774470911022" data-listing-date-modified-sort="1788930000000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1154">
+<div class="thumbnail"><a href="../resources/conbio/fishing/procedure.pdf" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/fishing/procedure.pdf" class="no-external">Fishing for Sustainability</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/fishing/procedure.pdf" class="no-external">Activity Procedure</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/fishing/procedure.pdf" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/fishing/procedure.pdf" class="no-external">
+<div class="listing-date">
+Wed Sep 9, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-date-sort="1788930000000" data-listing-file-modified-sort="1774470911022" data-listing-date-modified-sort="1788930000000" data-listing-reading-time-sort="3" data-listing-word-count-sort="579">
+<div class="thumbnail"><a href="../resources/conbio/fishing/questions.pdf" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/fishing/questions.pdf" class="no-external">Fishing for Sustainability</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/fishing/questions.pdf" class="no-external">Assignment Submission</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/fishing/questions.pdf" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/fishing/questions.pdf" class="no-external">
+<div class="listing-date">
+Wed Sep 9, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-file-modified-sort="1769276725169" data-listing-reading-time-sort="1" data-listing-word-count-sort="156">
+<div class="thumbnail"><a href="../resources/conbio/case_convos/case_study_rubric.docx" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/case_convos/case_study_rubric.docx" class="no-external">Guided Case Conversation – Grading Rubric</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/case_convos/case_study_rubric.docx" class="no-external">Conservation Biology</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/case_convos/case_study_rubric.docx" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/case_convos/case_study_rubric.docx" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-file-modified-sort="1770916434520" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
+<div class="thumbnail"><a href="../resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf" class="no-external">Guided Case Conversation – Makeup Engagement Worksheet</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf" class="no-external">Conservation Biology</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-file-modified-sort="1769276725164" data-listing-reading-time-sort="1" data-listing-word-count-sort="146">
+<div class="thumbnail"><a href="../resources/conbio/case_convos/case_study_peer_feedback.pdf" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/case_convos/case_study_peer_feedback.pdf" class="no-external">Guided Case Conversation – Peer Engagement Form</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/case_convos/case_study_peer_feedback.pdf" class="no-external">Conservation Biology</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/case_convos/case_study_peer_feedback.pdf" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/case_convos/case_study_peer_feedback.pdf" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-file-modified-sort="1769276725165" data-listing-reading-time-sort="2" data-listing-word-count-sort="265">
+<div class="thumbnail"><a href="../resources/conbio/case_convos/case_study_prep_sheet.docx" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/case_convos/case_study_prep_sheet.docx" class="no-external">Guided Case Conversation – Preparation sheet</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/case_convos/case_study_prep_sheet.docx" class="no-external">Conservation Biology</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/case_convos/case_study_prep_sheet.docx" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/case_convos/case_study_prep_sheet.docx" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="aGFuZG91dHMlMkNhc3NpZ25tZW50cyUyQ3J1YnJpY3MlMkNCSU9MNDAyMA==" data-listing-file-modified-sort="1769276725165" data-listing-reading-time-sort="3" data-listing-word-count-sort="596">
+<div class="thumbnail"><a href="../resources/conbio/case_convos/case_study_prompt.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../resources/conbio/case_convos/case_study_prompt.html" class="no-external">Guided Case Conversations</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../resources/conbio/case_convos/case_study_prompt.html" class="no-external">Conservation Biology: Spring 2026</a>
+</div>
+<div class="delink listing-description"><a href="../resources/conbio/case_convos/case_study_prompt.html" class="no-external">
+In this recurring assignment, students will work in small groups to <strong>lead a structured, whole-class discussion</strong> focused on a <strong>real conservation action or management decision</strong>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="../resources/conbio/case_convos/case_study_prompt.html" class="no-external">
+</a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>

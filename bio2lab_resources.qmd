@@ -6,7 +6,9 @@ profile:
 listing: 
   id: bio2-resources
   contents:
-    - "resources/bio2lab/*"
+    - "resources/bio2lab/**"
+    - "!resources/bio2lab/*_/**"
+    - "!resources/bio2lab/*/*_/**"
 ---
 
 

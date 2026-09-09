@@ -1,0 +1,5 @@
+### Student Learning Outcomes 
+
+```{r}
+learning_outcomes(params$course)
+```

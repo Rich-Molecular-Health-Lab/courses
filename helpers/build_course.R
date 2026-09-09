@@ -1,0 +1,336 @@
+
+
+get_course_info <- function(course_short, semester = "26f") {
+  course_short <- shorten_course(course_short)
+
+  if (semester == "26f") {
+    if (str_starts(course_short, "hhe")) {
+      list(
+        course_no          = "ENVN-4320, BIOL-4030",
+        file_prefix        = "hhe_26f",
+        semester           = "Fall 2026",
+        course_description = tagList(
+          withTags(
+            card_body(
+              p(
+                "Explore how human health intersects with ",
+                strong("environmental change, urbanization, and social justice "),
+                "in this engaging interdisciplinary course designed to appeal broadly to students across the humanities, social sciences, pre-health fields, and environmental studies. Delve into critical contemporary issues such as",
+                strong(" climate justice, urban health disparities, impacts of food production, emerging infectious diseases, and environmental toxicology."),
+                " Real-world case studies—including the Flint water crisis, zoonotic pandemics, and climate-induced health challenges—will ground your exploration in tangible scenarios."
+              ),
+              p(
+                "Course materials uniquely incorporate curated ",
+                strong("podcast playlists"),
+                " and ",
+                strong("documentary films, enriching discussions"),
+                " and broadening perspectives on urgent global health and environmental challenges. Through lively discussions and practical activities, you'll develop thoughtful insights and innovative ideas for creating healthier communities and sustainable futures.")
+            )
+          )
+        ),
+        day_time           = "T/R, 4:00 - 5:15",
+        wdays              = c(3, 5),
+        start_time         = "16:00",
+        location           = "AH 314",
+        location_assigned  = "AH 314",
+        semesters          = "Fall",
+        credits            = 3,
+        prereqs            = NA,
+        canvas             = "19678",
+        project            = "Guided Case Conversations",
+        final_exam         = ymd_hm("2026-12-15 17:00", tz = "America/Chicago"),
+        grade_deadline     = ymd("2026-12-26")
+      )
+    } else if (str_starts(course_short, "conbio")) {
+      list(
+        course_no          = "BIOL-4120, BIOL-8126",
+        file_prefix        = "conbio_26f",
+        semester           = "Fall 2026",
+        course_description = tagList(
+          withTags(
+            card_body(
+              p(
+                "Engage with the urgent task of protecting biodiversity in Conservation Biology—a dynamic, interdisciplinary course addressing the global ecological crisis. Often described as a ",
+                em("crisis discipline"),
+                ", conservation biology emphasizes swift, informed actions in response to rapidly evolving environmental challenges. You'll explore topics like ",
+                strong("species extinction, habitat loss, ecosystem management, invasive species, climate impacts, and conservation genetics"),
+                " through engaging discussions and real-world case studies. Skills-based assignments and activities will introduce you to ",
+                strong("essential tools for management, practical application, and quantitative assessment.")
+              ),
+              p("Open to students across biology, environmental sciences, social sciences, and humanities, this course empowers you with the knowledge and practical skills needed to contribute meaningfully to conservation efforts.")
+            )
+          )
+        ),
+        day_time           = "M/W, 4:00 - 5:15",
+        wdays              = c(2, 4),
+        start_time         = "16:00",
+        location           = "AH 305",
+        location_assigned  = "AH 305",
+        semesters          = "Fall & Spring",
+        credits            = 3,
+        prereqs            = "BIOL 1450, 1750, 2140 and Junior-Senior in biology. Not open to non-degree graduate students.",
+        canvas             = "19691",
+        project            = "Guided Case Conversations",
+        final_exam         = ymd_hm("2026-12-14 17:00", tz = "America/Chicago"),
+        grade_deadline     = ymd("2026-12-26")
+      )
+
+    } else {
+      NULL
+    }
+  } else if (semester == "26s") {
+    if (str_starts(course_short, "conbio")) {
+      list(
+        course_no          = "BIOL-4120, BIOL-8126",
+        file_prefix        = "conbio_26s",
+        semester           = "Spring 2026",
+        course_description = tagList(
+          withTags(
+            card_body(
+              p(
+                "Engage with the urgent task of protecting biodiversity in Conservation Biology—a dynamic, interdisciplinary course addressing the global ecological crisis. Often described as a ",
+                em("crisis discipline"),
+                ", conservation biology emphasizes swift, informed actions in response to rapidly evolving environmental challenges. You'll explore topics like ",
+                strong("species extinction, habitat loss, ecosystem management, invasive species, climate impacts, and conservation genetics"),
+                " through engaging discussions and real-world case studies. Skills-based assignments and activities will introduce you to ",
+                strong("essential tools for management, practical application, and quantitative assessment.")
+              ),
+              p("Open to students across biology, environmental sciences, social sciences, and humanities, this course empowers you with the knowledge and practical skills needed to contribute meaningfully to conservation efforts.")
+            )
+          )
+        ),
+        day_time           = "M/W, 4:00 - 5:15",
+        wdays              = c(2, 4),
+        start_time         = "16:00",
+        location           = "AH 305",
+        location_assigned  = "AH 305",
+        semesters          = "Fall & Spring",
+        credits            = 3,
+        prereqs            = "BIOL 1450, 1750, 2140 and Junior-Senior in biology. Not open to non-degree graduate students.",
+        canvas             = "91321",
+        project            = "Guided Case Conversations",
+        final_exam         = ymd_hm("2026-12-16 17:00", tz = "America/Chicago"),
+        grade_deadline     = ymd("2026-05-11")
+      )
+
+    } else if (str_starts(course_short, "zoobio")) {
+      list(
+        course_no          = "BIOL-4030/4034",
+        file_prefix        = "zoobio_26s",
+        semester           = "Spring 2026",
+        course_description = tagList(
+          withTags(
+            card_body(
+              p(
+                "Dive into the fascinating world of zoo biology, where conservation, animal welfare, and management intersect. This dynamic course explores the roles of modern zoos in ",
+                strong("biodiversity conservation, assurance populations, and community engagement"),
+                ". Engage deeply with key topics such as ",
+                strong("population genetics and demography"),
+                ", nutrition, reproductive technologies, behavioral training, environmental enrichment, and welfare assessment."),
+              p("Through interactive labs and workshops, you'll gain hands-on experience in creating Institutional Collection Plans, designing enrichment programs, analyzing studbook data, and assessing animal welfare. Critically examine ethical considerations and emerging practices shaping the future of zoos, and develop practical, evidence-based strategies to enhance animal care and conservation outcomes.")
+            )
+          )
+        ),
+        day_time           = "M/W, 1:00 - 2:15 | T (labs), 1:00 - 3:50",
+        wdays              = c(2, 3, 4),
+        semesters          = "Spring",
+        credits            = 4,
+        prereqs            = "BIOL 1450, 1750, and Junior-Senior in biology. Not open to non-degree graduate students.",
+        project            = "Fictional Zoo Portfolio"
+      )
+
+    } else {
+      NULL
+    }
+  } else if (semester == "25f") {
+
+    if (str_starts(course_short, "hhe")) {
+      list(
+        course_no          = "ENVN-4320, BIOL-4030",
+        file_prefix        = "hhe_25f",
+        semester           = "Fall 2025",
+        course_description = tagList(
+          withTags(
+            card_body(
+              p(
+                "Explore how human health intersects with ",
+                strong("environmental change, urbanization, and social justice "),
+                "in this engaging interdisciplinary course designed to appeal broadly to students across the humanities, social sciences, pre-health fields, and environmental studies. Delve into critical contemporary issues such as",
+                strong(" climate justice, urban health disparities, impacts of food production, emerging infectious diseases, and environmental toxicology."),
+                " Real-world case studies—including the Flint water crisis, zoonotic pandemics, and climate-induced health challenges—will ground your exploration in tangible scenarios."
+              ),
+              p(
+                "Course materials uniquely incorporate curated ",
+                strong("podcast playlists"),
+                " and ",
+                strong("documentary films, enriching discussions"),
+                " and broadening perspectives on urgent global health and environmental challenges. Through lively discussions and practical activities, you'll develop thoughtful insights and innovative ideas for creating healthier communities and sustainable futures.")
+            )
+          )
+        ),
+        day_time           = "T/R, 4:00 - 5:15",
+        wdays              = c(3, 5),
+        start_time         = "16:00",
+        location           = "AH 314",
+        location_assigned  = "AH 314",
+        semesters          = "Fall",
+        credits            = 3,
+        prereqs            = NA,
+        canvas             = "92534",
+        project            = "Poster",
+        final_exam         = ymd_hm("2025-12-16 17:00", tz = "America/Chicago"),
+        grade_deadline     = ymd("2025-12-23")
+      )
+    } else if (str_starts(course_short, "conbio")) {
+      list(
+        course_no          = "BIOL-4120, BIOL-8126",
+        file_prefix        = "conbio_25f",
+        semester           = "Fall 2025",
+        course_description = tagList(
+          withTags(
+            card_body(
+              p(
+                "Engage with the urgent task of protecting biodiversity in Conservation Biology—a dynamic, interdisciplinary course addressing the global ecological crisis. Often described as a ",
+                em("crisis discipline"),
+                ", conservation biology emphasizes swift, informed actions in response to rapidly evolving environmental challenges. You'll explore topics like ",
+                strong("species extinction, habitat loss, ecosystem management, invasive species, climate impacts, and conservation genetics"),
+                " through engaging discussions and real-world case studies. Skills-based assignments and activities will introduce you to ",
+                strong("essential tools for management, practical application, and quantitative assessment.")
+              ),
+              p("Open to students across biology, environmental sciences, social sciences, and humanities, this course empowers you with the knowledge and practical skills needed to contribute meaningfully to conservation efforts.")
+            )
+          )
+        ),
+        day_time           = "M/W, 4:00 - 5:15",
+        wdays              = c(2, 4),
+        start_time         = "16:00",
+        location           = "AH 304",
+        location_assigned  = "AH 304",
+        semesters          = "Fall & Spring",
+        credits            = 3,
+        prereqs            = "BIOL 1450, 1750, 2140 and Junior-Senior in biology. Not open to non-degree graduate students.",
+        canvas             = "91321",
+        project            = "Grant Proposal",
+        final_exam         = ymd_hm("2025-12-15 17:00", tz = "America/Chicago"),
+        grade_deadline     = ymd("2025-12-22")
+      )
+
+    }  else {
+      NULL
+    }
+  } else {
+    NULL
+  }
+}
+
+
+
+assessment <- function(course) {
+ main <- list(
+    conbio_25f = list(
+      exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 60)),
+      quizzes     = map(paste0("quiz", 1:15), \(x) list_scores(x, 3)),
+      assignments = list(grant_proposal = 40),
+      inclass     = map(paste0("exercise", 1:5), \(x) list_scores(x, 3))
+    ),
+    conbio_26s = list(
+      exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 50)),
+      quizzes     = map(paste0("quiz", 1:8), \(x) list_scores(x, 5)),
+      assignments = map(paste0("case_convo", 1:2), \(x) list_scores(x, 24)),
+      inclass     = map(paste0("exercise", 1:8), \(x) list_scores(x, 5))
+    ),
+    conbio_26f = list(
+      exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 50)),
+      quizzes     = map(paste0("quiz", 1:8), \(x) list_scores(x, 5)),
+      assignments = map(paste0("case_convo", 1:2), \(x) list_scores(x, 30)),
+      inclass     = map(paste0("exercise", 1:8), \(x) list_scores(x, 5))
+    ),
+    hhe_26f = list(
+      exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 50)),
+      quizzes     = map(paste0("quiz", 1:10), \(x) list_scores(x, 5)),
+      assignments = map(paste0("case_convo", 1:2), \(x) list_scores(x, 30)),
+      inclass     = map(paste0("exercise", 1:5), \(x) list_scores(x, 5))
+    ),
+    hhe_25f = list(
+      exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 60)),
+      quizzes     = map(paste0("quiz", 1:10), \(x) list_scores(x, 3)),
+      assignments = list(poster = 50),
+      inclass     = map(paste0("exercise", 1:5), \(x) list_scores(x, 3))
+    ),
+    zoobio_26s = list(
+      exams       = map(paste0("exam", 1:2), \(x) list_scores(x, 50)),
+      quizzes     = map(paste0("quiz", 1:10), \(x) list_scores(x, 3)),
+      assignments = list(portfolio = 60, enrichment = 20),
+      inclass     = map(paste0("lab", 1:10), \(x) list_scores(x, 10))
+    )
+  )
+
+ return(pluck(main, course))
+}
+
+get_slos <- function(course) {
+  if (str_starts(course, "zoobio")) {
+    tribble(
+      ~Level      ,      ~Outcome           ,
+      "Remember"  , "Identify and recall key concepts and terminology related to zoo biology, such as taxonomic classifications, animal behavior terms, and basic biological principles." ,
+      "Understand", "Explain the fundamental theories and principles of zoo biology, including the importance of biodiversity conservation and the role of zoos in wildlife conservation efforts." ,
+      "Apply"     , "Apply their knowledge of zoo biology to analyze and solve real-world problems related to animal care, exhibit design, and wildlife conservation strategies within a controlled zoo environment.",
+      "Analyze"   , "Evaluate the ethical and practical considerations involved in managing zoo populations, critically assess the impact of human activities on animal habitats, and propose evidence-based solutions for enhancing animal welfare and conservation efforts."
+    )
+  } else if (str_starts(course, "conbio")) {
+    tribble(
+      ~Level       , ~Outcome           ,
+      "Understand" , "Understand contemporary global patterns of change in biological diversity and ecosystem services and identify issues of particular importance." ,
+      "Evaluate"   , "Evaluate the human context of these changes, including how human activities impact ecosystems and the plants and animals that depend on them and how social, economic, political, and ethical factors determine the possible solutions." ,
+      "Analyze"    , "Analyze how science contributes to solutions for preserving biological diversity."
+    )
+  } else if (str_starts(course, "hhe")) {
+    tribble(
+      ~Level       , ~Outcome           ,
+      "Recognize"  , "Recognize historic and contemporary phenomena created by connections between human health and the environment.",
+      "Summarize"  , "Identify and summarize more than one complex pathway mediated by social and biological variables which connects human health to the environment." ,
+      "Critique"   , "Compose and critique practical solutions that will benefit the health of humans and their environment."
+    )
+  } else {
+    tribble(
+      ~Level       , ~Outcome           ,
+      "Recognize"  , "",
+      "Summarize"  , "",
+      "Critique"   , ""
+    )
+  }
+}
+
+get_textbooks <- function(course) {
+  course_short <- shorten_course(course)
+  if (str_starts(course, "conbio")) {
+    list(
+      title   = "Conservation Biology",
+      href    = "https://bookshelf.vitalsource.com/reader/books/9780197667033",
+      image   = here("syllabi/graphics/conbio/text.jpg"),
+      authors = "Bradley Cardinale; James D. Murdoch",
+      date    = ymd("2025-1-17"),
+      edition = "2nd",
+      isbn    = "9780197667033",
+      pages   = 654,
+      embed   = FALSE,
+      type    = "etext"
+    )
+  } else if (str_starts(course, "hhe")) {
+    list(
+      title   = "Podcast Playlist",
+      href    = "https://open.spotify.com/playlist/0zc41BWYHIMa8yE42iu41u?si=141e1c8a4c0e457e",
+      image   = here("syllabi/graphics/logo_spotify.png"),
+      authors = "Misc.",
+      date    = ymd("2026-08-25"),
+      edition = "4th",
+      isbn    = NA,
+      pages   = NA,
+      embed   = TRUE,
+      type    = "playlist"
+    )
+  } else {
+    NULL
+  }
+}
+

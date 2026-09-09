@@ -1,0 +1,69 @@
+- title: "Biodiversity Concepts and Measurement Slides"
+  topics:
+    - "Biodiversity Concepts & Measurement"
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "slides"
+  dates:
+    - "2026-09-09T16:00:00"
+    - "2026-09-14T16:00:00"
+  themes:
+    - "Foundations of Conservation Biology"
+  class_days:
+    - "BIOL4120_W2D2"
+    - "BIOL4120_W3D2"
+    - "BIOL4120_W4D1"
+  image: "figures/Ch03/c03fig001.jpg"
+  course_name: "Conservation Biology"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  profile:
+    - "slides"
+    - "conbio"
+  categories:
+    - "slides"
+    - "BIOL4120"
+  attachments:
+    - "c03fig001.jpg"
+- title: "Contemporary Conservation Biology"
+  image: "figures/Ch02/c02fig008.jpg"
+  topics:
+    - "The Rise of Conservation Biology"
+  tags:
+    - "teaching"
+    - "slides"
+  area: "teaching"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+  themes:
+    - "Foundations of Conservation Biology"
+  projects:
+    - "Conservation Biology Fall 2026"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
+  course_prefix: "BIOL"
+  course_number: 4120
+  course_name: "Conservation Biology"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  profile:
+    - "slides"
+    - "conbio"
+  categories:
+    - "slides"
+    - "BIOL4120"
+  attachments:
+    - "c02fig008.jpg"

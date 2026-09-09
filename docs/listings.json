@@ -2,21 +2,61 @@
   {
     "listing": "/index.html",
     "items": [
-      "/conbio/syllabus.html",
-      "/hhe/syllabus.html",
-      "/conbio/schedule.html",
-      "/hhe/schedule.html"
+      "/slides/hhe/2_1_climate.html",
+      "/slides/hhe/0_hhe_syllabus_overview.html",
+      "/syllabi/hhe.html",
+      "/slides/hhe/1-1_epidemiology.html",
+      "/hhe/index.html",
+      "/slides/hhe/1-2_environmental_justice.html",
+      "/slides/hhe/1-3_one_health.html",
+      "/hhe/schedule.html",
+      "/slides/conbio/2_contemporary_conservation_biology.html",
+      "/slides/conbio/3_biodiversity.html",
+      "/resources/conbio/case_convos/case_source_hubs.html",
+      "/conbio/index.html",
+      "/slides/conbio/0_conbio_syllabus_overview.html",
+      "/syllabi/conbio.html",
+      "/resources/conbio/fishing/procedure.pdf",
+      "/resources/conbio/fishing/questions.pdf",
+      "/resources/conbio/case_convos/case_study_rubric.docx",
+      "/resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf",
+      "/resources/conbio/case_convos/case_study_peer_feedback.pdf",
+      "/resources/conbio/case_convos/case_study_prep_sheet.docx",
+      "/resources/conbio/case_convos/case_study_prompt.html",
+      "/conbio/canva_slides.html",
+      "/conbio/schedule.html"
     ]
   },
   {
     "listing": "/conbio/index.html",
     "items": [
-      "/conbio/syllabus.html",
-      "/conbio/schedule.html"
+      "/slides/conbio/2_contemporary_conservation_biology.html",
+      "/slides/conbio/3_biodiversity.html",
+      "/slides/conbio/0_conbio_syllabus_overview.html",
+      "/resources/conbio/case_convos/case_source_hubs.html",
+      "/resources/conbio/fishing/procedure.pdf",
+      "/resources/conbio/fishing/questions.pdf",
+      "/resources/conbio/case_convos/case_study_rubric.docx",
+      "/resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf",
+      "/resources/conbio/case_convos/case_study_peer_feedback.pdf",
+      "/resources/conbio/case_convos/case_study_prep_sheet.docx",
+      "/resources/conbio/case_convos/case_study_prompt.html"
+    ]
+  },
+  {
+    "listing": "/conbio_slides.html",
+    "items": [
+      "/slides/conbio/2_contemporary_conservation_biology.html",
+      "/slides/conbio/3_biodiversity.html",
+      "/slides/conbio/0_conbio_syllabus_overview.html"
     ]
   },
   {
     "listing": "/bio2lab_slides.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe_resources.html",
     "items": []
   },
   {
@@ -27,18 +67,15 @@
   },
   {
     "listing": "/conbio_resources.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe_resources.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio_slides.html",
     "items": [
-      "/slides/conbio/2_contemporary_conservation_biology.html",
-      "/slides/conbio/3_biodiversity.html",
-      "/slides/conbio/0_conbio_syllabus_overview.html"
+      "/resources/conbio/case_convos/case_source_hubs.html",
+      "/resources/conbio/fishing/procedure.pdf",
+      "/resources/conbio/fishing/questions.pdf",
+      "/resources/conbio/case_convos/case_study_rubric.docx",
+      "/resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf",
+      "/resources/conbio/case_convos/case_study_peer_feedback.pdf",
+      "/resources/conbio/case_convos/case_study_prep_sheet.docx",
+      "/resources/conbio/case_convos/case_study_prompt.html"
     ]
   },
   {
@@ -54,13 +91,11 @@
   {
     "listing": "/hhe/index.html",
     "items": [
-      "/hhe/syllabus.html",
       "/slides/hhe/2_1_climate.html",
       "/slides/hhe/0_hhe_syllabus_overview.html",
       "/slides/hhe/1-1_epidemiology.html",
       "/slides/hhe/1-2_environmental_justice.html",
-      "/slides/hhe/1-3_one_health.html",
-      "/hhe/schedule.html"
+      "/slides/hhe/1-3_one_health.html"
     ]
   }
 ]

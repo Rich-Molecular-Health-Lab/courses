@@ -1,4 +1,3 @@
-
 slides_value_list <- list(
   Authenticity = list(
       "Speak up if you are confused or struggling."              = "Attempt to manipulate or mislead your instructors or classmates.",

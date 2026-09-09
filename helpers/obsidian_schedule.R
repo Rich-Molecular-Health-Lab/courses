@@ -1,3 +1,9 @@
+
+
+remove_course_prefix <- function(x) {
+  str_remove(str_remove(str_remove(x, " ENVN4320$"), " BIOL4120$"), " BIOL1750$")
+}
+
 podcast_card_html <- function(podcast, course_name = str_remove(params$course, "_.+$")) {
   if (length(podcast) < 1 || is.null(podcast)) return(NULL)
 
@@ -15,6 +21,31 @@ podcast_card_html <- function(podcast, course_name = str_remove(params$course, "
   )
 
   return(as.character(str_glue_data(card_data, "<div class='card border-primary my-2 w-auto'><h5 class='card-header d-flex justify-content-between align-items-center'><small>{clean_title}</small><a href='{url_spotify}' class='card-link'><i class='fa-brands fa-spotify fa-xl'></i></a></h6><div class='card-body'><h5 class='d-inline-flex'><em class='card-title'>{series}</em><a href='{series_spotify}' class='card-link'><i class='fa-solid fa-rss fa-lg'></i></a></h6><div class='d-flex justify-content-between align-items-center'><button type='button' class='btn btn-outline-dark'>Released {released}</button><button type='button' class='btn btn-outline-dark'>Duration {duration_string}</button><button type='button' class='btn btn-outline-dark'>Listen before {deadline}</button><button type='button' class='btn btn-outline-dark'><a href='https://rich-molecular-health-lab.github.io/courses/{course_name}/podcast/{title}.html' class='card-link'><i class='fa-solid fa-link fa-lg px-2'></i>Transcript</a></button></div></div><div id='accordion'><div class='card-footer text-muted'><small><a class='btn' data-bs-toggle='collapse' href='#collapseOne'>Description</a></small><div id='collapseOne' class='collapse' data-bs-parent='#accordion'><p>{description}</p></div></div></div>")))
+}
+
+text_card_html <- function(readings, course_name = str_remove(params$course, "_.+$")) {
+  if (length(readings) < 1 || is.null(readings)) return(NULL)
+
+  classes <- str_extract(pluck(readings, "classes_assigned", 1, "class_day"), "(?<=_).+$")
+  dates   <- str_extract(pluck(readings, "classes_assigned", 1, "date"),"(?<=2026-)\\d+-\\d+")
+  deadline <- sprintf("%s (%s)", dates, classes)
+  card_data <- list_assign(
+    readings,
+    clean_title     = str_remove_all(pluck(readings, "title"), "_"),
+    chapter         = pluck(readings, "chapter"),
+    sections_assigned = str_flatten(unlist(map(pluck(readings, "sections_assigned"), \(x) sprintf("<li class='list-group-item badge bg-primary'>%s</li>", x))), na.rm = TRUE),
+    course_name     = course_name,
+    themes          = str_flatten_comma(unlist(pluck(readings, "themes"))),
+    topics          = str_flatten_comma(unlist(pluck(readings, "topics"))),
+    deadline        = deadline,
+    text_title      = pluck(readings, "text_title"),
+    authors         = pluck(readings, "author"),
+    edition         = pluck(readings, "edition"),
+    url             = pluck(readings, "url"),
+    isbn             = pluck(readings, "isbn")
+  )
+
+  return(as.character(str_glue_data(card_data, "<div class='card border-primary my-2 w-auto'><h5 class='card-header d-flex justify-content-between align-items-center'><small>{clean_title}</small><a href='https://rich-molecular-health-lab.github.io/courses/{course_name}/textbook/{title}.html' class='card-link'><i class='fa-solid fa-link fa-lg px-2'></i></a></h5><div class='card-body'><h5 class='card-title'><small>Read before <span class='badge bg-primary'>{deadline}</span></small></h5><h5 class='d-inline-flex'><ul class='list-group list-group-horizontal'><small class='text-lead'>Sections:</small>{sections_assigned}</ul></h5></div></div></div>")))
 }
 
 case_card_html <- function(case_convo) {
@@ -35,6 +66,15 @@ podcast_card <- function(podcast) {
       merge_cards()
   } else {
     podcast_card_html(list_flatten(podcast))
+  }
+}
+
+textbook_card <- function(readings) {
+  if (length(unique(readings)) > 1) {
+    map(readings, text_card_html) %>%
+      merge_cards()
+  } else {
+    text_card_html(pluck(readings, 1))
   }
 }
 
@@ -71,9 +111,8 @@ merge_days <- function(list, days) {
   return(result)
 }
 
-
 page_link <- function(title, path) {
-  if (str_detect(title, "(Exam)|(Break)|(Holiday)|(No Class)")) return(str_remove(title, " ENVN4320$"))
+  if (str_detect(title, "(Exam)|(Break)|(Holiday)|(No Class)")) return(remove_course_prefix(title))
   as.character(str_glue(
     "<div class='d-inline-flex'><span>{title}</span><a class='nav-link active' href={path} target='_blank'><i class='fa-solid fa-link'></i></a></div>"
   ))
@@ -81,11 +120,11 @@ page_link <- function(title, path) {
 
 format_html <- function(li, course_name = str_remove(params$course, "_.+$")) {
   if (length(li) < 1) return(li)
-  titles <- map(li, \(x) str_remove(str_remove_all(pluck(x, "title"), "_"), " ENVN4320$"))
+  titles <- map(li, \(x) remove_course_prefix(str_remove_all(pluck(x, "title"), "_")))
   links  <- map(li, \(x) sprintf("https://rich-molecular-health-lab.github.io/courses/%s/%s", course_name, str_replace(pluck(x, "path"), "qmd", "html")))
 
   result <- map(li, \(x) page_link(
-    title = str_remove(str_remove_all(pluck(x, "title"), "_"), " ENVN4320$"),
+    title = remove_course_prefix(str_remove_all(pluck(x, "title"), "_")),
     path  = sprintf("https://rich-molecular-health-lab.github.io/courses/%s/%s", course_name, str_replace(pluck(x, "path"), "qmd", "html"))
   )) %>%
     unlist() %>%
@@ -96,8 +135,11 @@ format_html <- function(li, course_name = str_remove(params$course, "_.+$")) {
 
 format_unit <- function(x) {
   unit <- pluck(x, "unit", 1, "title")
-  if (str_detect(unit, "(Exam)|(Break)")) return("")
-  return(str_remove(unit, " ENVN4320$"))
+   if (str_detect(unit, "(Exam)|(Break)")) {
+      return("")
+  } else {
+    return(remove_course_prefix(unit))
+    }
 }
 
 topics_linked <- function(x) {
@@ -112,11 +154,13 @@ row_vals <- function(x) {
     list_flatten(name_spec = "{inner}") %>%
     keep_at("title") %>%
     unlist() %>%
+    unique() %>%
     str_flatten_comma(na.rm = TRUE)
   topics <- pluck(x, "topics") %>%
     list_flatten(name_spec = "{inner}") %>%
     keep_at("title") %>%
     unlist() %>%
+    unique() %>%
     str_flatten_comma(na.rm = TRUE)
 
   if (str_detect(themes, "Exam") || str_detect(topics, "Exam")) {
@@ -139,6 +183,17 @@ podcast_titles <- function(x) {
   )
 }
 
+
+text_titles <- function(x) {
+  background <- pluck(x, "background")
+  if (length(background) < 1 || is.null(background)) return(NA_character_)
+  paste(
+    "<i class='fa-solid fa-book-open-reader'></i>",
+    str_flatten_comma(unique(unlist(compact(map(background, \(y) pluck(y, "sections_assigned"))))), na.rm = TRUE),
+    sep = " "
+  )
+}
+
 case_titles <- function(x) {
   case_convo <- pluck(x, "case_convo")
   if (length(case_convo) < 1 || is.null(case_convo)) return(NA_character_)
@@ -152,9 +207,10 @@ case_titles <- function(x) {
 special_vals <- function(x) {
   podcast <- podcast_titles(x)
   case    <- case_titles(x)
+  text    <- text_titles(x)
 
-  if (!is.na(podcast) || !is.na(case)) {
-    return(str_flatten_comma(c(podcast, case), na.rm = TRUE))
+  if (!is.na(podcast) || !is.na(case) || !is.na(text)) {
+    return(str_flatten_comma(c(podcast, case, text), na.rm = TRUE))
   } else {
     return(NA_character_)
   }

@@ -136,7 +136,8 @@ ul_group <- function(list_lead = NULL, layout, item_list, col_widths = c(4, 8), 
         ),
         imap(item_list, \(x, idx) li_cols(x, idx, layout, col_widths, justify, align))
       )
-    )
+    ) %>%
+      tagList()
   } else {
     withTags(
       ul(
@@ -144,7 +145,8 @@ ul_group <- function(list_lead = NULL, layout, item_list, col_widths = c(4, 8), 
         style = "width:90%",
         imap(item_list, \(x, idx) li_cols(x, idx, layout, col_widths, justify, align))
       )
-    )
+    ) %>%
+      tagList()
   }
 
 }
@@ -181,7 +183,7 @@ content_card <- function(title_text, subtitle_text, body, footer_text, card_clas
       title,
       card_body(body),
       footer
-    )
+    ) %>% tagList()
   } else {
     card(
       class = class_card,
@@ -194,7 +196,7 @@ content_card <- function(title_text, subtitle_text, body, footer_text, card_clas
         card_body(body)
       ),
       footer
-    )
+    ) %>% tagList()
   }
 
 }

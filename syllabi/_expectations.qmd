@@ -1,0 +1,17 @@
+### Policies & Expectations
+
+::: {.panel-tabset}
+
+{{< include _culture.qmd >}}
+
+::: {.content-visible unless-profile="bio2lab"}
+
+{{< include _engagement.qmd >}}
+{{< include _latework.qmd >}}
+
+:::
+
+{{< include _accessibility.qmd >}}
+{{< include _plagiarism.qmd >}}
+
+:::
