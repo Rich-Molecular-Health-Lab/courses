@@ -92,6 +92,9 @@ podcast_card_html <- function(podcast, course_name = str_remove(params$course, "
   return(card_out)
 }
 
+attachment_link <- function(course = str_remove(params$course, "_.+$")) {
+  if (str_detect(course, "conbio")) return("https://github.com/Rich-Molecular-Health-Lab/courses/tree/dd050e72ed98ad06b7b22d968acc7bd49b290587/conbio/attachments") else return("https://github.com/Rich-Molecular-Health-Lab/courses/tree/dd050e72ed98ad06b7b22d968acc7bd49b290587/hhe/attachments")
+}
 
 lit_card_html <- function(literature, course_name = str_remove(params$course, "_.+$")) {
   if (length(literature) < 1 || is.null(literature)) return(NULL)
@@ -99,7 +102,7 @@ lit_card_html <- function(literature, course_name = str_remove(params$course, "_
   classes <- str_extract(pluck(literature, "classes_assigned", 1, "class_day"), "(?<=_).+$")
   dates   <- str_extract(pluck(literature, "classes_assigned", 1, "date"),"(?<=2026-)\\d+-\\d+")
   deadline <- sprintf("%s (%s)", dates, classes)
-  pdf_link <- sprintf("<a class='card-link' href=https://rich-molecular-health-lab.github.io/courses/%s/attachments/%s.pdf>Local PDF <i class='fa-solid fa-link fa-lg px-2'></i></a>", course_name, pluck(literature, "citekey"))
+  pdf_link <- sprintf("<a class='card-link' href=%s/%s.pdf>Local PDF <i class='fa-solid fa-link fa-lg px-2'></i></a>", attachment_link(course = course_name), pluck(literature, "citekey"))
 
   card_out <- render_card(
     header_string = sprintf("%s et al. (%s)", str_to_title(pluck(literature, "author_first")), pluck(literature, "year")),
@@ -125,7 +128,7 @@ text_card_html <- function(chapters, course_name = str_remove(params$course, "_.
   classes <- str_extract(pluck(chapters, "classes_assigned", 1, "class_day"), "(?<=_).+$")
   dates   <- str_extract(pluck(chapters, "classes_assigned", 1, "date"),"(?<=2026-)\\d+-\\d+")
   deadline <- sprintf("%s (%s)", dates, classes)
-  pdf_link <- sprintf("<a class='card-link' href=https://rich-molecular-health-lab.github.io/courses/%s/attachments/%s.pdf>Local PDF <i class='fa-solid fa-link fa-lg px-2'></i></a>", course_name, pluck(chapters, "citekey"))
+  pdf_link <- sprintf("<a class='card-link' href=%s/%s.pdf>Local PDF <i class='fa-solid fa-link fa-lg px-2'></i></a>", attachment_link(course = course_name), pluck(chapters, "citekey"))
 
   card_out <- render_card(
     header_string = sprintf("Chapter %.0f", pluck(chapters, "chapter")),
@@ -188,17 +191,12 @@ icon_string <- function(string = NULL, href = NULL, fa_icon = "fa-solid fa-link"
   }
 }
 
-
-attachment_url <- function(attachment_file, course = str_remove(params$course, "_.+$")) {
-  paste(course_url_prefix(course), "attachments", attachment_file, sep = "/")
-}
-
 format_chapters <- function(course = str_remove(params$course, "_.+$")) {
   if (!file_exists(here::here(course, "textbook.yaml"))) return(NULL)
   yaml::read_yaml(here::here(course, "textbook.yaml")) %>%
     map(\(x) list_assign(
       x,
-      table_string = icon_string(string = pluck(x, "title"), href = attachment_url(pluck(x, "attachments", 1), course), fa_icon = "fa-solid fa-book-open-reader"),
+      table_string = icon_string(string = pluck(x, "title"), href = sprintf("%s/%s", attachment_link(course = course), pluck(x, "attachments", 1)), fa_icon = "fa-solid fa-book-open-reader"),
       card         = text_card_html(x, course_name = course),
       class_days   = pluck(x, "classes_assigned", 1, "class_day")
     )) %>%
@@ -211,7 +209,7 @@ format_literature <- function(course = str_remove(params$course, "_.+$")) {
   yaml::read_yaml(here::here(course, "literature.yaml")) %>%
     map(\(x) list_assign(
       x,
-      table_string = icon_string(string = sprintf("%s et al. %s", pluck(x, "author_first"), pluck(x, "year")), href = attachment_url(pluck(x, "attachments", 1), course), fa_icon = "fa-solid fa-scroll"),
+      table_string = icon_string(string = sprintf("%s et al. %s", pluck(x, "author_first"), pluck(x, "year")), href = sprintf("%s/%s", attachment_link(course = course), pluck(x, "attachments", 1)), fa_icon = "fa-solid fa-scroll"),
       card         = lit_card_html(x, course_name = course),
       class_days   = pluck(x, "classes_assigned", 1, "class_day")
     )) %>%
@@ -351,7 +349,7 @@ format_schedule <- function(schedule_list, course = str_remove(params$course, "_
       x,
       background = pluck(x, "background", "table_string"),
       background_detail = pluck(x, "background", "card"),
-      topics     = str_flatten_comma(pluck(x, "topics", "table_string"), pluck(x, "case_convos", "table_string"), na.rm = TRUE),
+      topics     = str_flatten_comma(c(pluck(x, "topics", "table_string"), pluck(x, "case_convos", "table_string")), na.rm = TRUE),
       topics_detail = pluck(x, "case_convos", "card")
     )) %>%
     map(\(x) keep_at(x, c(
