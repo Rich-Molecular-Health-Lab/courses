@@ -12,6 +12,8 @@
       path: "topics/No Class BIOL4120.html"
   background:
     []
+  slides:
+    []
 - date: "2026-08-26T16:00:00"
   class_day: "BIOL4120_W1D2"
   week: 1
@@ -26,6 +28,8 @@
       path: "topics/Overview & Syllabus BIOL4120.html"
   background:
     []
+  slides:
+    []
 - date: "2026-08-31T16:00:00"
   class_day: "BIOL4120_W2D1"
   week: 2
@@ -39,8 +43,11 @@
     - title: "The Rise of Conservation Biology"
       path: "topics/The Rise of Conservation Biology.html"
   background:
-    - title: "Ch 2 The Rise of Conservation Biology"
-      path: "textbook/Ch 2 The Rise of Conservation Biology.html"
+    - title: "Conservation biology - past and present 1"
+      path: "textbook/Conservation biology - past and present 1.html"
+  slides:
+    - title: "Contemporary Conservation Biology"
+      path: "slides/Contemporary Conservation Biology/index.html"
 - date: "2026-09-02T16:00:00"
   class_day: "BIOL4120_W2D2"
   week: 2
@@ -55,6 +62,8 @@
       path: "topics/No Class BIOL4120.html"
   background:
     []
+  slides:
+    []
 - date: "2026-09-07T16:00:00"
   class_day: "BIOL4120_W3D1"
   week: 3
@@ -68,6 +77,8 @@
     - title: "Labor Day"
       path: "topics/Labor Day.html"
   background:
+    []
+  slides:
     []
 - date: "2026-09-09T16:00:00"
   class_day: "BIOL4120_W3D2"
@@ -84,8 +95,15 @@
     - title: "The Rise of Conservation Biology"
       path: "topics/The Rise of Conservation Biology.html"
   background:
-    - title: "Ch 3 Biodiversity Concepts and Measurement"
-      path: "textbook/Ch 3 Biodiversity Concepts and Measurement.html"
+    - title: "Biodiversity"
+      path: "textbook/Biodiversity.html"
+    - title: "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
+      path: "textbook/The conservation biologist's toolbox – principles for the design and analysis of conservation studies.html"
+  slides:
+    - title: "Contemporary Conservation Biology"
+      path: "slides/Contemporary Conservation Biology/index.html"
+    - title: "Biodiversity Concepts and Measurement Slides"
+      path: "slides/Biodiversity Concepts and Measurement Slides/index.html"
 - date: "2026-09-14T16:00:00"
   class_day: "BIOL4120_W4D1"
   week: 4
@@ -95,16 +113,14 @@
   unit:
     - title: "Foundations of Conservation Biology"
       path: "units/Foundations of Conservation Biology.html"
-    - title: "Threats to Biodiversity"
-      path: "units/Threats to Biodiversity.html"
   topics:
     - title: "Biodiversity Concepts & Measurement"
       path: "topics/Biodiversity Concepts & Measurement.html"
-    - title: "Extinction"
-      path: "topics/Extinction.html"
   background:
-    - title: "Ch 8 Extinction"
-      path: "textbook/Ch 8 Extinction.html"
+    []
+  slides:
+    - title: "Biodiversity Concepts and Measurement Slides"
+      path: "slides/Biodiversity Concepts and Measurement Slides/index.html"
 - date: "2026-09-16T16:00:00"
   class_day: "BIOL4120_W4D2"
   week: 4
@@ -120,7 +136,11 @@
     - title: "Extinction"
       path: "topics/Extinction.html"
   background:
-    []
+    - title: "Extinctions and the practice of preventing them"
+      path: "textbook/Extinctions and the practice of preventing them.html"
+  slides:
+    - title: "https://canva.link/9u0qo7yq40d34nu"
+    - title: "https://canva.link/p3f89pahovuj46e"
 - date: "2026-09-21T16:00:00"
   class_day: "BIOL4120_W5D1"
   week: 5
@@ -131,11 +151,13 @@
     - title: "Threats to Biodiversity"
       path: "units/Threats to Biodiversity.html"
   topics:
-    - title: "Habitat Loss, Fragmentation, and Degradation"
-      path: "topics/Habitat Loss, Fragmentation, and Degradation.html"
+    - title: "Extinction"
+      path: "topics/Extinction.html"
   background:
-    - title: "Ch 9 Habitat Loss, Fragmentation, and Degradation"
-      path: "textbook/Ch 9 Habitat Loss, Fragmentation, and Degradation.html"
+    []
+  slides:
+    - title: "https://canva.link/9u0qo7yq40d34nu"
+    - title: "https://canva.link/p3f89pahovuj46e"
 - date: "2026-09-23T16:00:00"
   class_day: "BIOL4120_W5D2"
   week: 5
@@ -149,6 +171,11 @@
     - title: "Habitat Loss, Fragmentation, and Degradation"
       path: "topics/Habitat Loss, Fragmentation, and Degradation.html"
   background:
+    - title: "Habitat fragmentation and landscape change"
+      path: "textbook/Habitat fragmentation and landscape change.html"
+    - title: "Habitat destruction - death by a thousand cuts"
+      path: "textbook/Habitat destruction - death by a thousand cuts.html"
+  slides:
     []
 - date: "2026-09-28T16:00:00"
   class_day: "BIOL4120_W6D1"
@@ -164,6 +191,8 @@
       path: "topics/Habitat Loss, Fragmentation, and Degradation.html"
   background:
     []
+  slides:
+    []
 - date: "2026-09-30T16:00:00"
   class_day: "BIOL4120_W6D2"
   week: 6
@@ -176,7 +205,11 @@
   topics:
     - title: "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
       path: "case_convos/Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation.html"
+    - title: "Habitat Loss, Fragmentation, and Degradation"
+      path: "topics/Habitat Loss, Fragmentation, and Degradation.html"
   background:
+    []
+  slides:
     []
 - date: "2026-10-05T16:00:00"
   class_day: "BIOL4120_W7D1"
@@ -191,8 +224,10 @@
     - title: "Overexploitation"
       path: "topics/Overexploitation.html"
   background:
-    - title: "Ch 10 Overexploitation"
-      path: "textbook/Ch 10 Overexploitation.html"
+    - title: "Overharvesting"
+      path: "textbook/Overharvesting.html"
+  slides:
+    []
 - date: "2026-10-07T16:00:00"
   class_day: "BIOL4120_W7D2"
   week: 7
@@ -206,6 +241,8 @@
     - title: "Overexploitation"
       path: "topics/Overexploitation.html"
   background:
+    []
+  slides:
     []
 - date: "2026-10-12T16:00:00"
   class_day: "BIOL4120_W8D1"
@@ -221,6 +258,8 @@
       path: "case_convos/Case Conversation 3 - Overexploitation.html"
   background:
     []
+  slides:
+    []
 - date: "2026-10-14T16:00:00"
   class_day: "BIOL4120_W8D2"
   week: 8
@@ -234,6 +273,8 @@
     - title: "Exam 1 BIOL4120"
       path: "topics/Exam 1 BIOL4120.html"
   background:
+    []
+  slides:
     []
 - date: "2026-10-19T16:00:00"
   class_day: "BIOL4120_W9D1"
@@ -249,6 +290,8 @@
       path: "topics/Fall Break BIOL4120.html"
   background:
     []
+  slides:
+    []
 - date: "2026-10-21T16:00:00"
   class_day: "BIOL4120_W9D2"
   week: 9
@@ -262,8 +305,10 @@
     - title: "Invasive Alien Species"
       path: "topics/Invasive Alien Species.html"
   background:
-    - title: "Ch 11 Invasive Alien Species"
-      path: "textbook/Ch 11 Invasive Alien Species.html"
+    - title: "Invasive Species"
+      path: "textbook/Invasive Species.html"
+  slides:
+    []
 - date: "2026-10-26T16:00:00"
   class_day: "BIOL4120_W10D1"
   week: 10
@@ -277,6 +322,8 @@
     - title: "Invasive Alien Species"
       path: "topics/Invasive Alien Species.html"
   background:
+    []
+  slides:
     []
 - date: "2026-10-28T16:00:00"
   class_day: "BIOL4120_W10D2"
@@ -292,6 +339,8 @@
       path: "case_convos/Case Conversation 4 - Invasive Alien Species.html"
   background:
     []
+  slides:
+    []
 - date: "2026-11-02T16:00:00"
   class_day: "BIOL4120_W11D1"
   week: 11
@@ -305,8 +354,10 @@
     - title: "Climate Change"
       path: "topics/Climate Change.html"
   background:
-    - title: "Ch 12 Climate Change"
-      path: "textbook/Ch 12 Climate Change.html"
+    - title: "Climate Change"
+      path: "textbook/Climate Change.html"
+  slides:
+    []
 - date: "2026-11-04T16:00:00"
   class_day: "BIOL4120_W11D2"
   week: 11
@@ -320,6 +371,8 @@
     - title: "Climate Change"
       path: "topics/Climate Change.html"
   background:
+    []
+  slides:
     []
 - date: "2026-11-09T16:00:00"
   class_day: "BIOL4120_W12D1"
@@ -335,6 +388,8 @@
       path: "case_convos/Case Conversation 5 - Climate Change.html"
   background:
     []
+  slides:
+    []
 - date: "2026-11-11T16:00:00"
   class_day: "BIOL4120_W12D2"
   week: 12
@@ -348,8 +403,10 @@
     - title: "Ex Situ Conservation"
       path: "topics/Ex Situ Conservation.html"
   background:
-    - title: "Ch 16 Ex Situ Conservation"
-      path: "textbook/Ch 16 Ex Situ Conservation.html"
+    - title: "miranda_etal_2023a"
+      path: "literature/miranda_etal_2023a.html"
+  slides:
+    []
 - date: "2026-11-16T16:00:00"
   class_day: "BIOL4120_W13D1"
   week: 13
@@ -364,6 +421,8 @@
       path: "topics/Ex Situ Conservation.html"
   background:
     []
+  slides:
+    []
 - date: "2026-11-18T16:00:00"
   class_day: "BIOL4120_W13D2"
   week: 13
@@ -377,8 +436,10 @@
     - title: "Species-Level Approaches"
       path: "topics/Species-Level Approaches.html"
   background:
-    - title: "Ch 13 Species-Level Conservation"
-      path: "textbook/Ch 13 Species-Level Conservation.html"
+    - title: "Endangered species management - the US experience"
+      path: "textbook/Endangered species management - the US experience.html"
+  slides:
+    []
 - date: "2026-11-23T16:00:00"
   class_day: "BIOL4120_W14D1"
   week: 14
@@ -392,6 +453,8 @@
     - title: "Case Conversation 6 - Species-Level Approaches"
       path: "case_convos/Case Conversation 6 - Species-Level Approaches.html"
   background:
+    []
+  slides:
     []
 - date: "2026-11-25T16:00:00"
   class_day: "BIOL4120_W14D2"
@@ -407,6 +470,8 @@
       path: "topics/Thanksgiving Break BIOL4120.html"
   background:
     []
+  slides:
+    []
 - date: "2026-11-30T16:00:00"
   class_day: "BIOL4120_W15D1"
   week: 15
@@ -420,8 +485,12 @@
     - title: "Community & Ecosystem Approaches"
       path: "topics/Community & Ecosystem Approaches.html"
   background:
-    - title: "Ch 14 Community and Ecosystem Conservation"
-      path: "textbook/Ch 14 Community and Ecosystem Conservation.html"
+    - title: "Conservation planning and priorities"
+      path: "textbook/Conservation planning and priorities.html"
+    - title: "From conservation theory to practice - crossing the divide"
+      path: "textbook/From conservation theory to practice - crossing the divide.html"
+  slides:
+    []
 - date: "2026-12-02T16:00:00"
   class_day: "BIOL4120_W15D2"
   week: 15
@@ -436,6 +505,8 @@
       path: "case_convos/Case Conversation 7 - Community & Ecosystem Approaches.html"
   background:
     []
+  slides:
+    []
 - date: "2026-12-07T16:00:00"
   class_day: "BIOL4120_W16D1"
   week: 16
@@ -449,8 +520,10 @@
     - title: "Landscape-Scale Approaches"
       path: "topics/Landscape-Scale Approaches.html"
   background:
-    - title: "Ch 15 Landscape-Scale Conservation"
-      path: "textbook/Ch 15 Landscape-Scale Conservation.html"
+    - title: "Conservation in human‐modified landscapes"
+      path: "textbook/Conservation in human‐modified landscapes.html"
+  slides:
+    []
 - date: "2026-12-09T16:00:00"
   class_day: "BIOL4120_W16D2"
   week: 16
@@ -464,4 +537,6 @@
     - title: "Case Conversation 8 - Landscape-Scale Approaches"
       path: "case_convos/Case Conversation 8 - Landscape-Scale Approaches.html"
   background:
+    []
+  slides:
     []

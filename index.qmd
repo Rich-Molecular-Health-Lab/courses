@@ -8,9 +8,6 @@ listing:
     contents:
       - "*/hhe.qmd"
       - "hhe/*.qmd"
-      - "slides/hhe/*.qmd"
-      - "!slides/hhe/*_/**"
-      - "!../slides/hhe/*/_*/**"
       - "resources/hhe/*.qmd"
       - "resources/hhe/*/*.qmd"
       - "!resources/hhe/*_/**"
@@ -19,9 +16,6 @@ listing:
     contents:
       - "*/conbio.qmd"
       - "conbio/*.qmd"
-      - "slides/conbio/*.qmd"
-      - "!slides/conbio/*_/**"
-      - "!../slides/conbio/*/_*/**"
       - "resources/conbio/*.qmd"
       - "resources/conbio/*/*.qmd"
       - "!resources/conbio/*_/**"

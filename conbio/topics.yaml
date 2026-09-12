@@ -14,7 +14,8 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 3 Biodiversity Concepts and Measurement"
+    - "Biodiversity"
+    - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
   quizzes: null
   slides:
     - "Biodiversity Concepts and Measurement Slides"
@@ -49,7 +50,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 12 Climate Change"
+    - "Climate Change"
   quizzes: null
   slides: null
   videos: null
@@ -82,7 +83,8 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 14 Community and Ecosystem Conservation"
+    - "Conservation planning and priorities"
+    - "From conservation theory to practice - crossing the divide"
   quizzes: null
   slides: null
   videos: null
@@ -115,7 +117,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 16 Ex Situ Conservation"
+    - "miranda_etal_2023a"
   quizzes: null
   slides: null
   videos: null
@@ -169,18 +171,17 @@
     - "Threats to Biodiversity"
   chapter: 3
   section: 8
-  days_needed: 1
   semesters:
     - "26f"
   course_prefix: "BIOL"
   course_number: 4120
   class_days:
-    - "BIOL4120_W4D1"
     - "BIOL4120_W4D2"
+    - "BIOL4120_W5D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 8 Extinction"
+    - "Extinctions and the practice of preventing them"
   quizzes: null
   slides:
     - "https://canva.link/9u0qo7yq40d34nu"
@@ -197,8 +198,8 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-14T16:00:00"
     - "2026-09-16T16:00:00"
+    - "2026-09-21T16:00:00"
   course_name: "Conservation Biology"
 - title: "Fall Break BIOL4120"
   unit:
@@ -274,11 +275,12 @@
   class_days:
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
-    - "BIOL4120_W5D1"
+    - "BIOL4120_W6D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 9 Habitat Loss, Fragmentation, and Degradation"
+    - "Habitat fragmentation and landscape change"
+    - "Habitat destruction - death by a thousand cuts"
   quizzes: null
   slides: null
   videos: null
@@ -293,9 +295,9 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-21T16:00:00"
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
+    - "2026-09-30T16:00:00"
   course_name: "Conservation Biology"
 - title: "Invasive Alien Species"
   unit:
@@ -313,7 +315,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 11 Invasive Alien Species"
+    - "Invasive Species"
   quizzes: null
   slides: null
   videos: null
@@ -377,7 +379,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 15 Landscape-Scale Conservation"
+    - "Conservation in human‐modified landscapes"
   quizzes: null
   slides: null
   videos: null
@@ -443,7 +445,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 10 Overexploitation"
+    - "Overharvesting"
   quizzes: null
   slides: null
   videos: null
@@ -507,7 +509,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 13 Species-Level Conservation"
+    - "Endangered species management - the US experience"
   quizzes: null
   slides: null
   videos: null
@@ -571,7 +573,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Ch 2 The Rise of Conservation Biology"
+    - "Conservation biology - past and present 1"
   quizzes: null
   slides:
     - "Contemporary Conservation Biology"

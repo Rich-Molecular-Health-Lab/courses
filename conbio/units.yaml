@@ -45,10 +45,11 @@
   content:
     []
   background:
-    - "Ch 13 Species-Level Conservation"
-    - "Ch 15 Landscape-Scale Conservation"
-    - "Ch 16 Ex Situ Conservation"
-    - "Ch 14 Community and Ecosystem Conservation"
+    - "Endangered species management - the US experience"
+    - "Conservation in human‐modified landscapes"
+    - "miranda_etal_2023a"
+    - "Conservation planning and priorities"
+    - "From conservation theory to practice - crossing the divide"
   slides:
     []
   course_name: "Conservation Biology"
@@ -165,8 +166,9 @@
     - "Contemporary Conservation Biology"
     - "Biodiversity Concepts and Measurement Slides"
   background:
-    - "Ch 2 The Rise of Conservation Biology"
-    - "Ch 3 Biodiversity Concepts and Measurement"
+    - "Conservation biology - past and present 1"
+    - "Biodiversity"
+    - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
   slides:
     - "Contemporary Conservation Biology"
     - "Biodiversity Concepts and Measurement Slides"
@@ -220,7 +222,6 @@
     - "BIOL4120_W11D1"
     - "BIOL4120_W11D2"
     - "BIOL4120_W12D1"
-    - "BIOL4120_W4D1"
     - "BIOL4120_W4D2"
     - "BIOL4120_W5D1"
     - "BIOL4120_W5D2"
@@ -231,7 +232,6 @@
     - "BIOL4120_W8D1"
     - "BIOL4120_W9D2"
   dates:
-    - "2026-09-14T16:00:00"
     - "2026-09-16T16:00:00"
     - "2026-09-21T16:00:00"
     - "2026-09-23T16:00:00"
@@ -270,11 +270,12 @@
     - "https://canva.link/9u0qo7yq40d34nu"
     - "https://canva.link/p3f89pahovuj46e"
   background:
-    - "Ch 10 Overexploitation"
-    - "Ch 11 Invasive Alien Species"
-    - "Ch 9 Habitat Loss, Fragmentation, and Degradation"
-    - "Ch 8 Extinction"
-    - "Ch 12 Climate Change"
+    - "Overharvesting"
+    - "Invasive Species"
+    - "Habitat fragmentation and landscape change"
+    - "Habitat destruction - death by a thousand cuts"
+    - "Extinctions and the practice of preventing them"
+    - "Climate Change"
   slides:
     - "https://canva.link/9u0qo7yq40d34nu"
     - "https://canva.link/p3f89pahovuj46e"

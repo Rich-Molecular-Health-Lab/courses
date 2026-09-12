@@ -2,6 +2,14 @@
 title: "Air Pollution"
 date: "2026-08-29"
 date-modified: "2026-08-29T11:15:01"
-profile: "topic"
+profile:
+  - "topic"
+  - "hhe"
+categories:
+  - "topic"
+  - "ENVN4320"
+listing:
+  template: "resources.ejs.md"
+  contents: "Air Pollution_resources.yaml"
 ---
 

@@ -157,7 +157,8 @@
   days_needed: 1
   suggested: null
   leaders: null
-  background: null
+  background:
+    - "Endangered species management - the US experience"
   exams:
     - "Final Exam BIOL4120"
   projects:

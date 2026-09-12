@@ -33,6 +33,9 @@
     []
   background:
     []
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Breaks ENVN4320"
 - unit: "Disasters"
   chapter: 2
@@ -61,26 +64,27 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   class_days:
-    - "ENVN4320_W2D2"
     - "ENVN4320_W3D1"
     - "ENVN4320_W3D2"
     - "ENVN4320_W4D1"
     - "ENVN4320_W4D2"
   dates:
-    - "2026-09-03T16:00:00"
     - "2026-09-08T16:00:00"
     - "2026-09-10T16:00:00"
     - "2026-09-15T16:00:00"
     - "2026-09-17T16:00:00"
   content:
-    []
+    - "Climate Change Introduction"
   background:
-    - "What we lose if the Great Salt Lake dries up"
-    - "A Storm is Brewing_ Is it Climate Change?"
     - "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
     - "Hurricane Katrina"
     - "Are extreme wildfires the new normal?"
     - "Catching Fire"
+    - "What we lose if the Great Salt Lake dries up"
+    - "A Storm is Brewing_ Is it Climate Change?"
+  slides:
+    - "Climate Change Introduction"
+  course_name: "Human Health & the Environment"
   title: "Disasters"
 - unit:
     - "Exams ENVN4320"
@@ -115,6 +119,9 @@
     []
   background:
     []
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Exams ENVN4320"
 - unit: "Food"
   skip: true
@@ -148,6 +155,9 @@
     []
   background:
     []
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Food"
 - unit: "Infrastructure"
   chapter: 3
@@ -195,6 +205,9 @@
     - "How The Current Heat Dome Can Affect Human Health"
     - "Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health"
     - "Nsilo Berry on making buildings healthier"
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Infrastructure"
 - unit: "Introduction"
   chapter: 1
@@ -205,9 +218,11 @@
   class_days:
     - "ENVN4320_W1D2"
     - "ENVN4320_W2D1"
+    - "ENVN4320_W2D2"
   dates:
     - "2026-08-27T16:00:00"
     - "2026-09-01T16:00:00"
+    - "2026-09-03T16:00:00"
   exams:
     - "Exam 1 ENVN4320"
   films: null
@@ -226,9 +241,12 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
-    - "http://rich-molecular-health-lab.github.io/courses/slides/hhe/1_hhe_epidemiology.html"
+    []
   background:
     []
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Introduction"
 - unit:
     - "Overview ENVN4320"
@@ -259,6 +277,9 @@
     []
   background:
     []
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Overview ENVN4320"
 - unit: "Pathogens"
   chapter: 5
@@ -310,6 +331,9 @@
     - "A New Test for Lyme Disease, Developed by High Schoolers"
     - "Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?"
     - "Preventing Future Pandemics"
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Pathogens"
 - unit: "Review Days"
   skip: true
@@ -341,6 +365,9 @@
     []
   background:
     []
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Review Days"
 - unit: "Toxins"
   chapter: 4
@@ -394,4 +421,7 @@
     []
   background:
     []
+  slides:
+    []
+  course_name: "Human Health & the Environment"
   title: "Toxins"

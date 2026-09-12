@@ -1,372 +1,7 @@
-- title: "Ch 10 Overexploitation"
-  chapter: 10
-  sections_assigned:
-    - "10.1"
-    - "10.2"
-    - "10.3"
-    - "10.4"
-  topics:
-    - "Overexploitation"
-  themes:
-    - "Threats to Biodiversity"
-  classes_assigned:
-    - class_day: "BIOL4120_W7D1"
-      date: "2026-10-05T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06 14:42"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 11 Invasive Alien Species"
-  chapter: 11
-  sections_assigned:
-    - "11.1"
-    - "11.2"
-    - "11.4"
-  topics:
-    - "Invasive Alien Species"
-  themes:
-    - "Threats to Biodiversity"
-  classes_assigned:
-    - class_day: "BIOL4120_W9D2"
-      date: "2026-10-21T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06 14:42"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 12 Climate Change"
-  chapter: 12
-  sections_assigned:
-    - "12.1"
-    - "12.2"
-    - "12.3"
-    - "12.4"
-  topics:
-    - "Climate Change"
-  themes:
-    - "Threats to Biodiversity"
-  classes_assigned:
-    - class_day: "BIOL4120_W11D1"
-      date: "2026-11-02T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06 14:43"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 13 Species-Level Conservation"
-  chapter: 13
-  sections_assigned:
-    - "13.1"
-    - "13.2"
-    - "13.3"
-    - "13.4"
-    - "13.5"
-    - "13.6"
-  topics:
-    - "Species-Level Approaches"
-  themes:
-    - "Approaches to Conservation"
-  classes_assigned:
-    - class_day: "BIOL4120_W13D2"
-      date: "2026-11-18T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06 14:44"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 14 Community and Ecosystem Conservation"
-  chapter: 14
-  sections_assigned:
-    - "14.1"
-    - "14.2"
-    - "14.4"
-  topics:
-    - "Community & Ecosystem Approaches"
-  themes:
-    - "Approaches to Conservation"
-  classes_assigned:
-    - class_day: "BIOL4120_W15D1"
-      date: "2026-11-30T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06 14:45"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 15 Landscape-Scale Conservation"
-  chapter: 15
-  sections_assigned:
-    - "15.3"
-    - "15.4"
-  topics:
-    - "Landscape-Scale Approaches"
-  themes:
-    - "Approaches to Conservation"
-  classes_assigned:
-    - class_day: "BIOL4120_W16D1"
-      date: "2026-12-07T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06 14:46"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 16 Ex Situ Conservation"
-  chapter: 16
-  sections_assigned:
-    - "16.1"
-    - "16.2"
-  topics:
-    - "Ex Situ Conservation"
-  themes:
-    - "Approaches to Conservation"
-  classes_assigned:
-    - class_day: "BIOL4120_W12D2"
-      date: "2026-11-11T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06 14:43"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 2 The Rise of Conservation Biology"
-  sections_assigned:
-    - "2.2"
+- title: "Biodiversity"
+  author: "Kevin J. Gaston"
   chapter: 2
-  topics:
-    - "The Rise of Conservation Biology"
-  themes:
-    - "Foundations of Conservation Biology"
-  classes_assigned:
-    - class_day: "BIOL4120_W2D1"
-      date: "2026-08-31T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "BIOL"
-  course_number: 4020
-  projects:
-    - "Conservation Biology Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "textbook"
-  created: "2026-09-06"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
-  profile:
-    - "textbook"
-    - "conbio"
-  categories:
-    - "textbook"
-    - "BIOL4120"
-  attachments:
-    []
-- title: "Ch 3 Biodiversity Concepts and Measurement"
-  sections_assigned:
-    - "3.2"
-    - "3.3"
-    - "3.4"
-    - "3.5"
-    - "3.6"
-  chapter: 3
+  sections_assigned: null
   topics:
     - "Biodiversity Concepts & Measurement"
   themes:
@@ -386,18 +21,20 @@
     - "resource"
     - "background"
     - "textbook"
-  created: "2026-09-06 14:39"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2 978-0-19-955424-9"
+  edition: ""
+  pages: "27-44"
+  type: "bookSection"
+  url: ""
+  published: "2010-01-01"
+  doi: ""
+  citekey: "gaston_2010"
+  pdf: "gaston_2010"
+  zotero_uri: "zotero://select/library/items/EK6RZRZY"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/gaston_2010.pdf"
   profile:
     - "textbook"
     - "conbio"
@@ -405,21 +42,18 @@
     - "textbook"
     - "BIOL4120"
   attachments:
-    []
-- title: "Ch 8 Extinction"
-  sections_assigned:
-    - "8.1"
-    - "8.3"
+    - "gaston_2010.pdf"
+- title: "Climate Change"
+  author: "Thomas E. Lovejoy"
   chapter: 8
+  sections_assigned: null
   topics:
-    - "Extinction"
+    - "Climate Change"
   themes:
     - "Threats to Biodiversity"
   classes_assigned:
-    - class_day: "BIOL4120_W3D2"
-      date: "2026-09-09T16:00:00"
-    - class_day: "BIOL4120_W4D1"
-      date: "2026-09-14T16:00:00"
+    - class_day: "BIOL4120_W11D1"
+      date: "2026-11-02T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -432,18 +66,20 @@
     - "resource"
     - "background"
     - "textbook"
-  created: "2026-09-06 14:40"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2 978-0-19-955424-9"
+  edition: ""
+  pages: "153-162"
+  type: "bookSection"
+  url: ""
+  published: "2010-01-01"
+  doi: ""
+  citekey: "lovejoy_2010"
+  pdf: "lovejoy_2010"
+  zotero_uri: "zotero://select/library/items/NEZCSZVN"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/lovejoy_2010.pdf"
   profile:
     - "textbook"
     - "conbio"
@@ -451,14 +87,283 @@
     - "textbook"
     - "BIOL4120"
   attachments:
-    []
-- title: "Ch 9 Habitat Loss, Fragmentation, and Degradation"
-  sections_assigned:
-    - "9.1"
-    - "9.2"
-    - "9.3"
-    - "9.4"
-  chapter: 9
+    - "lovejoy_2010.pdf"
+- title: "Conservation biology: past and present 1"
+  author: "Curt Meine"
+  chapter: 1
+  sections_assigned: null
+  topics:
+    - "The Rise of Conservation Biology"
+  themes:
+    - "Foundations of Conservation Biology"
+  classes_assigned:
+    - class_day: "BIOL4120_W2D1"
+      date: "2026-08-31T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "7-26"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193196710"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0002"
+  citekey: "meine_2010"
+  pdf: "meine_2010"
+  zotero_uri: "zotero://select/library/items/PG84574G"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/meine_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "meine_2010.pdf"
+- title: "Conservation in human‐modified landscapes"
+  author: "Lian Pin Koh, Toby A. Gardner"
+  chapter: 13
+  sections_assigned: null
+  topics:
+    - "Landscape-Scale Approaches"
+  themes:
+    - "Approaches to Conservation"
+  classes_assigned:
+    - class_day: "BIOL4120_W16D1"
+      date: "2026-12-07T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "236-261"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193205265"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0014"
+  citekey: "koh_gardner_2010"
+  pdf: "koh_gardner_2010"
+  zotero_uri: "zotero://select/library/items/WF2A5WIA"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/koh_gardner_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "koh_gardner_2010.pdf"
+- title: "Conservation planning and priorities"
+  author: "Thomas Brooks"
+  chapter: 11
+  sections_assigned: null
+  topics:
+    - "Community & Ecosystem Approaches"
+  themes:
+    - "Approaches to Conservation"
+  classes_assigned:
+    - class_day: "BIOL4120_W15D1"
+      date: "2026-11-30T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "199-219"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193203267"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0012"
+  citekey: "brooks_2010"
+  pdf: "brooks_2010"
+  zotero_uri: "zotero://select/library/items/4X2YUC5C"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/brooks_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "brooks_2010.pdf"
+- title: "Endangered species management: the US experience"
+  author: "David S. Wilcove"
+  chapter: 12
+  sections_assigned: null
+  topics:
+    - "Species-Level Approaches"
+  themes:
+    - "Approaches to Conservation"
+  classes_assigned:
+    - class_day: "BIOL4120_W13D2"
+      date: "2026-11-18T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "220-235"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193204176"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0013"
+  citekey: "wilcove_2010"
+  pdf: "wilcove_2010"
+  zotero_uri: "zotero://select/library/items/C8CJ34DT"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/wilcove_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "wilcove_2010.pdf"
+- title: "Extinctions and the practice of preventing them"
+  author: "Stuart L. Pimm, Clinton N. Jenkins"
+  chapter: 10
+  sections_assigned: null
+  topics:
+    - "Extinction"
+  themes:
+    - "Threats to Biodiversity"
+  classes_assigned:
+    - class_day: "BIOL4120_W4D1"
+      date: "2026-09-14T16:00:00"
+    - class_day: "BIOL4120_W4D2"
+      date: "2026-09-16T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "181-198"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193202291"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0011"
+  citekey: "pimm_jenkins_2010"
+  pdf: "pimm_jenkins_2010"
+  zotero_uri: "zotero://select/library/items/8S27NQZB"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/pimm_jenkins_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "pimm_jenkins_2010.pdf"
+- title: "From conservation theory to practice: crossing the divide"
+  author: "Madhu Rao, Joshua Ginsberg"
+  chapter: 15
+  sections_assigned: null
+  topics:
+    - "Community & Ecosystem Approaches"
+  themes:
+    - "Approaches to Conservation"
+  classes_assigned:
+    - class_day: "BIOL4120_W15D1"
+      date: "2026-11-30T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "284-312"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193206796"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0016"
+  citekey: "rao_ginsberg_2010"
+  pdf: "rao_ginsberg_2010"
+  zotero_uri: "zotero://select/library/items/7LFZ7VDM"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/rao_ginsberg_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "rao_ginsberg_2010.pdf"
+- title: "Habitat destruction: death by a thousand cuts"
+  author: "William F. Laurance"
+  chapter: 4
+  sections_assigned: null
   topics:
     - "Habitat Loss, Fragmentation, and Degradation"
   themes:
@@ -466,6 +371,8 @@
   classes_assigned:
     - class_day: "BIOL4120_W5D1"
       date: "2026-09-21T16:00:00"
+    - class_day: "BIOL4120_W5D2"
+      date: "2026-09-23T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -478,18 +385,20 @@
     - "resource"
     - "background"
     - "textbook"
-  created: "2026-09-06 14:41"
-  image: "file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg"
-  text_title: "Conservation Biology"
-  isbn: "9780197667033"
-  edition: "2nd"
-  author:
-    - "Cardinale"
-    - "Murdoch"
-  pages: 654
-  type: "etext"
-  published: "2025-01-17"
-  url: "https://bookshelf.vitalsource.com/reader/books/9780197667033"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "73-87"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193198326"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0005"
+  citekey: "laurance_2010"
+  pdf: "laurance_2010"
+  zotero_uri: "zotero://select/library/items/GJMMS5WJ"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/laurance_2010.pdf"
   profile:
     - "textbook"
     - "conbio"
@@ -497,4 +406,186 @@
     - "textbook"
     - "BIOL4120"
   attachments:
-    []
+    - "laurance_2010.pdf"
+- title: "Habitat fragmentation and landscape change"
+  author: "Andrew F. Bennett, Denis A. Saunders"
+  chapter: 5
+  sections_assigned: null
+  topics:
+    - "Habitat Loss, Fragmentation, and Degradation"
+  themes:
+    - "Threats to Biodiversity"
+  classes_assigned:
+    - class_day: "BIOL4120_W5D1"
+      date: "2026-09-21T16:00:00"
+    - class_day: "BIOL4120_W5D2"
+      date: "2026-09-23T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "88-106"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193199032"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0006"
+  citekey: "bennett_saunders_2010"
+  pdf: "bennett_saunders_2010"
+  zotero_uri: "zotero://select/library/items/75XKIXYQ"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/bennett_saunders_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "bennett_saunders_2010.pdf"
+- title: "Invasive Species"
+  author: "Daniel Simberloff"
+  chapter: 7
+  sections_assigned: null
+  topics:
+    - "Invasive Alien Species"
+  themes:
+    - "Threats to Biodiversity"
+  classes_assigned:
+    - class_day: "BIOL4120_W9D2"
+      date: "2026-10-21T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2 978-0-19-955424-9"
+  edition: ""
+  pages: "131-152"
+  type: "bookSection"
+  url: ""
+  published: "2010-01-01"
+  doi: ""
+  citekey: "simberloff_2010"
+  pdf: "simberloff_2010"
+  zotero_uri: "zotero://select/library/items/FUV6WDYZ"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/simberloff_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "simberloff_2010.pdf"
+- title: "Overharvesting"
+  author: "Carlos A. Peres"
+  chapter: 6
+  sections_assigned: null
+  topics:
+    - "Overexploitation"
+  themes:
+    - "Threats to Biodiversity"
+  classes_assigned:
+    - class_day: "BIOL4120_W7D1"
+      date: "2026-10-05T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2 978-0-19-955424-9"
+  edition: ""
+  pages: "107-130"
+  type: "bookSection"
+  url: "https://conbio.org/publications/free-textbook/"
+  published: "2010-01-01"
+  doi: ""
+  citekey: "peres_2010"
+  pdf: "peres_2010"
+  zotero_uri: "zotero://select/library/items/JW8ANPBG"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/peres_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "peres_2010.pdf"
+- title: "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
+  author: "Corey J. A. Bradshaw, Barry W. Brook"
+  chapter: 16
+  sections_assigned: null
+  topics:
+    - "Biodiversity Concepts & Measurement"
+  themes:
+    - "Foundations of Conservation Biology"
+  classes_assigned:
+    - class_day: "BIOL4120_W3D2"
+      date: "2026-09-09T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: 4020
+  projects:
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "textbook"
+  created: "2026-09-10 12:41"
+  image: "https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg"
+  text_title: "Conservation Biology for All"
+  isbn: "978-0-19-955423-2"
+  edition: ""
+  pages: "313-340"
+  type: "bookSection"
+  url: "https://academic.oup.com/book/25710/chapter/193207047"
+  published: "2010-01-01"
+  doi: "10.1093/acprof:oso/9780199554232.003.0017"
+  citekey: "bradshaw_brook_2010"
+  pdf: "bradshaw_brook_2010"
+  zotero_uri: "zotero://select/library/items/B575TPJF"
+  zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/bradshaw_brook_2010.pdf"
+  profile:
+    - "textbook"
+    - "conbio"
+  categories:
+    - "textbook"
+    - "BIOL4120"
+  attachments:
+    - "bradshaw_brook_2010.pdf"

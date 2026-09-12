@@ -1,0 +1,37 @@
+---
+title: "Conservation planning and priorities"
+date: "2026-09-10 12:41"
+profile:
+  - "textbook"
+  - "conbio"
+categories:
+  - "textbook"
+  - "BIOL4120"
+---
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Conservation planning and priorities
+**Ch No.:** 11 (Approaches to Conservation)
+**Pages:** 199-219 (Community & Ecosystem Approaches)
+**PDF:** [brooks_2010.pdf](../attachments/brooks_2010.pdf)
+**Textbook:** Conservation Biology for All *(see details below)*
+**Days Covered:** BIOL4120_W15D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Thomas Brooks
+**Edition:**  (2010)
+**ISBN:** 978-0-19-955423-2
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193203267)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![brooks_2010.pdf](../attachments/brooks_2010.pdf)
+
+:::
+

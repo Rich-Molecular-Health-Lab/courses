@@ -1,0 +1,33 @@
+- title: "Climate Change Introduction"
+  image: "figures/climate_text/c12fig001.jpg"
+  topics:
+    - "Climate Change & Extreme Weather"
+  tags:
+    - "teaching"
+    - "slides"
+  area: "teaching"
+  class_days:
+    - "ENVN4320_W3D1"
+  themes:
+    - "Disasters"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  dates:
+    - "2026-09-08T16:00:00"
+  course_prefix: "ENVN"
+  course_number: 4320
+  course_name: "Human Health & the Environment"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  profile:
+    - "slides"
+    - "hhe"
+  categories:
+    - "slides"
+    - "ENVN4320"
+  attachments:
+    - "c12fig001.jpg"
+    - "c12fig016.jpg"

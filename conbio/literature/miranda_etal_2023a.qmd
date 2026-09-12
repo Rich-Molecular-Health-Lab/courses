@@ -1,0 +1,44 @@
+---
+title: "The Role of Zoos and Aquariums in a Changing World"
+profile:
+  - "literature"
+  - "conbio"
+categories:
+  - "literature"
+  - "BIOL4120"
+---
+
+
+:::: {.callout-info collapse="false" title="Citation Information"}
+
+**Journal:** Annual Review of Animal Biosciences  
+**Year:** 2023  
+**DOI:** 10.1146/annurev-animal-050622-104306  
+**URL:** https://www.annualreviews.org/content/journals/10.1146/annurev-animal-050622-104306  
+**Citekey:** miranda_etal_2023a  
+**Open in Zotero:** [miranda_etal_2023a.pdf](zotero://select/library/items/GBHX5ENT)
+::: {.callout-quote title="AMA-Formatted Citation"}
+
+1.
+Miranda R, Escribano N, Casas M, Pino-del-Carpio A, Villarroya A. The Role of Zoos and Aquariums in a Changing World. _Annual Review of Animal Biosciences_. 2023;11:287-306. doi:[10.1146/annurev-animal-050622-104306](https://doi.org/10.1146/annurev-animal-050622-104306)
+
+:::
+
+::::
+
+
+::: {.callout-abstract collapse="true"}
+
+Zoos and aquariums have evolved significantly. From their origins as enclosures for the mere entertainment of the public, these institutions have undertaken new functions responding to the biodiversity crisis and social demands. Modern zoos and aquariums have the opportunity to educate people, contribute to species conservation, and produce animal-related research. However, there is increasing criticism toward the outcomes of their actions and the holding of species in their facilities. This review offers an integrated analysis of the state of knowledge about the role that zoos and aquariums play today. It describes their performance regarding their conservation, education, and research functions, highlighting general patterns and offering future perspectives. It identifies some challenges common to all these institutions, concluding that the way they keep up with the ever-growing social and environmental expectations will be decisive hereafter.
+
+:::
+
+
+
+---
+
+## PDF Copy
+
+
+![miranda_etal_2023a.pdf](../attachments/miranda_etal_2023a.pdf)
+

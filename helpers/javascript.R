@@ -46,12 +46,20 @@ topic_class <- function() {
      ")
 }
 
-agenda_detail <- function() {
+
+topic_detail <- function() {
   JS("
   function(rowInfo) {
-    if (rowInfo.values['special'] && rowInfo.values['special'].trim().length > 0) {
-    return `${rowInfo.values['detail']}`;
-    }
+  if (rowInfo.values['topics_detail'] && rowInfo.values['topics_detail'].length > 0) return '<div>' + rowInfo.values['topics_detail'] + '</div>'
   }
      ")
 }
+
+background_detail <- function() {
+  JS("
+  function(rowInfo) {
+  if (rowInfo.values['background_detail'] && rowInfo.values['background_detail'].length > 0) return '<div>' + rowInfo.values['background_detail'] + '</div>'
+  }
+     ")
+}
+

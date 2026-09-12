@@ -1,0 +1,37 @@
+---
+title: "Conservation biology: past and present 1"
+date: "2026-09-10 12:41"
+profile:
+  - "textbook"
+  - "conbio"
+categories:
+  - "textbook"
+  - "BIOL4120"
+---
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Conservation biology: past and present 1
+**Ch No.:** 1 (Foundations of Conservation Biology)
+**Pages:** 7-26 (The Rise of Conservation Biology)
+**PDF:** [meine_2010.pdf](../attachments/meine_2010.pdf)
+**Textbook:** Conservation Biology for All *(see details below)*
+**Days Covered:** BIOL4120_W2D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Curt Meine
+**Edition:**  (2010)
+**ISBN:** 978-0-19-955423-2
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193196710)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![meine_2010.pdf](../attachments/meine_2010.pdf)
+
+:::
+

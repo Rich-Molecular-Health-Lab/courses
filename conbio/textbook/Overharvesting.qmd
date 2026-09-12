@@ -1,0 +1,37 @@
+---
+title: "Overharvesting"
+date: "2026-09-10 12:41"
+profile:
+  - "textbook"
+  - "conbio"
+categories:
+  - "textbook"
+  - "BIOL4120"
+---
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Overharvesting
+**Ch No.:** 6 (Threats to Biodiversity)
+**Pages:** 107-130 (Overexploitation)
+**PDF:** [peres_2010.pdf](../attachments/peres_2010.pdf)
+**Textbook:** Conservation biology for all *(see details below)*
+**Days Covered:** BIOL4120_W7D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Carlos A. Peres
+**Edition:**  (2010)
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://conbio.org/publications/free-textbook/)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![peres_2010.pdf](../attachments/peres_2010.pdf)
+
+:::
+

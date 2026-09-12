@@ -1,0 +1,172 @@
+
+.fit-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.slide-image {
+  padding: 10px;
+  text-align: center;
+}
+
+
+.video-caption {
+text-align: left;
+padding: 5px;
+border-width: 1px 1px 1px 1px;
+border-style: solid;
+border-color: black;
+background: #ffffffBF;
+font-weight: 500;
+margin-bottom: 50px;
+}
+
+.citation {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+
+.presentation-subtitle {
+background: #ffffffBF;
+text-align: left;
+padding: 0 20px;
+margin: 0 10px;
+width: 100%;
+max-height: 80px;
+font-weight: 600;
+font-size: 28px;
+}
+
+
+.presentation-date {
+text-align: right;
+font-weight: 500;
+padding: 2px 20px;
+margin: 0 20px;
+font-size: 20px;
+}
+
+
+.horizontal_dotted_line {
+border-bottom:
+2px dotted gray;
+}
+
+.footer-copyrite {
+font-weight: 300;
+text-align: right;
+padding: 2px 20px;
+margin-top: 20px;
+}
+
+
+.footer-course {
+text-align: left;
+font-weight: 500;
+padding: 0 20px;
+margin-top: 20px;
+border-top: 2px dotted gray;
+border-bottom: 2px dotted gray;
+}
+
+.slide-title {
+background: #ffffffBF;
+text-align: left;
+padding: 0 20px;
+width: 100%;
+font-weight: 800;
+font-size: 30px;
+}
+
+.presentation-title {
+background: #ffffffBF;
+text-align: left;
+padding: 0 20px;
+font-weight: 800;
+font-size: 40px;
+}
+
+
+.presentation-image {
+  padding: 10px;
+  text-align: center;
+}
+
+
+.feature{
+border-width: 1px 1px 1px 4px;
+border-style: solid;
+border-color: black;
+background: #b4a7d680;
+padding: 10px;
+font-weight: 600;
+margin-bottom: 50px;
+text-align: left;
+}
+
+.right-box {
+  background: white;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.right-text {
+padding: 5px 20px;
+font-size: 13px;
+text-align: left;
+}
+
+.text-box {
+background: #ffffffBF;
+padding: 10px 40px;
+font-size: 18px;
+text-align: left;
+}
+
+.right-list > ul {
+padding-left: 1em;
+font-size: 13px;
+text-align: left;
+}
+
+
+.caption-box {
+  background: white;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+}
+
+.feature-caption {
+font-size: 15px;
+text-align: center;
+font-style: italic;
+padding: 5px 20px;
+}
+
+/* Container to enforce widescreen spacing */
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px; /* Keeps the video from overwhelming the slide text */
+  margin: 0 auto;
+  padding-bottom: 56.25%; /* The magic number for a flawless 16:9 ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+/* The YouTube iFrame targeting */
+.video-container iframe,
+iframe[src*="youtube.com"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 8px; /* Smooth corners for modern slide decks */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25); /* Adds depth on top of slide backgrounds */
+}

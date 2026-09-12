@@ -23,6 +23,7 @@
     - "ENVN4320_W4D2"
   dates:
     - "2026-09-17T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 1 - Disasters"
 - number: 2
   unit: "Disasters"
@@ -48,6 +49,7 @@
     - "ENVN4320_W4D2"
   dates:
     - "2026-09-17T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 2 - Disasters"
 - number: 3
   unit: "Infrastructure"
@@ -74,6 +76,7 @@
     - "ENVN4320_W7D1"
   dates:
     - "2026-10-06T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 3 - Infrastructure"
 - number: 4
   unit: "Infrastructure"
@@ -100,6 +103,7 @@
     - "ENVN4320_W7D1"
   dates:
     - "2026-10-06T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 4 - Infrastructure"
 - number: 5
   unit: "Toxins"
@@ -126,6 +130,7 @@
     - "ENVN4320_W12D2"
   dates:
     - "2026-11-12T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 5 - Toxins"
 - number: 6
   unit: "Toxins"
@@ -152,6 +157,7 @@
     - "ENVN4320_W12D2"
   dates:
     - "2026-11-12T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 6 - Toxins"
 - number: 7
   unit: "Pathogens"
@@ -178,6 +184,7 @@
     - "ENVN4320_W16D2"
   dates:
     - "2026-12-10T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 7 - Pathogens"
 - number: 8
   unit: "Pathogens"
@@ -204,4 +211,5 @@
     - "ENVN4320_W16D2"
   dates:
     - "2026-12-10T16:00:00"
+  course_name: "Human Health & the Environment"
   title: "Case Conversation 8 - Pathogens"

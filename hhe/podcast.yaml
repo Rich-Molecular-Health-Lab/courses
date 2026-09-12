@@ -31,7 +31,12 @@
     - class_day: "ENVN4320_W5D2"
       date: "2026-09-24T16:00:00"
   duration_string: "0:8:29"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -65,7 +70,12 @@
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
   duration_string: "0:11:50"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -79,6 +89,7 @@
   course_number: 4320
   projects:
     - "Human Health & the Environment Fall 2026"
+    - "Biology 2 Lab Fall 2026"
   area: "teaching"
   tags:
     - "teaching"
@@ -98,8 +109,17 @@
   classes_assigned:
     - class_day: "ENVN4320_W2D2"
       date: "2026-09-03T16:00:00"
+    - class_day: "BIOL1750_W3D1"
+      date: "2026-09-08T13:00:00"
+    - class_day: "ENVN4320_W3D1"
+      date: "2026-09-08T16:00:00"
   duration_string: "0:32:29"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -133,7 +153,12 @@
     - class_day: "ENVN4320_W15D1"
       date: "2026-12-01T16:00:00"
   duration_string: "0:21:48"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -166,8 +191,15 @@
   classes_assigned:
     - class_day: "ENVN4320_W3D2"
       date: "2026-09-10T16:00:00"
+    - class_day: "ENVN4320_W4D1"
+      date: "2026-09-15T16:00:00"
   duration_string: "0:13:21"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -177,6 +209,8 @@
   classes_assigned:
     - class_day: "ENVN4320_W3D1"
       date: "2026-09-08T16:00:00"
+    - class_day: "ENVN4320_W3D2"
+      date: "2026-09-10T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -200,7 +234,12 @@
   series_spotify: "https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH"
   duration: "361534"
   duration_string: "0:6:1"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -210,6 +249,8 @@
   classes_assigned:
     - class_day: "ENVN4320_W3D2"
       date: "2026-09-10T16:00:00"
+    - class_day: "ENVN4320_W4D1"
+      date: "2026-09-15T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -233,7 +274,12 @@
   series_spotify: "https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL"
   duration: "3283069"
   duration_string: "0:54:43"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -269,7 +315,12 @@
     - class_day: "ENVN4320_W5D1"
       date: "2026-09-22T16:00:00"
   duration_string: "0:43:17"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -303,7 +354,12 @@
     - class_day: "ENVN4320_W6D1"
       date: "2026-09-29T16:00:00"
   duration_string: "0:15:16"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -337,7 +393,12 @@
     - class_day: "ENVN4320_W15D2"
       date: "2026-12-03T16:00:00"
   duration_string: "0:45:54"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -373,7 +434,12 @@
     - class_day: "ENVN4320_W5D2"
       date: "2026-09-24T16:00:00"
   duration_string: "0:54:14"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -409,7 +475,12 @@
     - class_day: "ENVN4320_W5D1"
       date: "2026-09-22T16:00:00"
   duration_string: "0:10:58"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -442,8 +513,15 @@
   classes_assigned:
     - class_day: "ENVN4320_W3D1"
       date: "2026-09-08T16:00:00"
+    - class_day: "ENVN4320_W3D2"
+      date: "2026-09-10T16:00:00"
   duration_string: "0:47:42"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -477,7 +555,12 @@
     - class_day: "ENVN4320_W6D1"
       date: "2026-09-29T16:00:00"
   duration_string: "0:45:57"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -511,7 +594,12 @@
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
   duration_string: "0:28:42"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -545,7 +633,12 @@
   series_spotify: "https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL"
   duration: "4589218"
   duration_string: "1:16:29"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -579,7 +672,12 @@
     - class_day: "ENVN4320_W15D2"
       date: "2026-12-03T16:00:00"
   duration_string: "0:59:55"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -613,7 +711,12 @@
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
   duration_string: "0:11:59"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -647,7 +750,12 @@
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
   duration_string: "0:13:14"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []
 - topics:
@@ -680,7 +788,14 @@
   classes_assigned:
     - class_day: "ENVN4320_W4D1"
       date: "2026-09-15T16:00:00"
+    - class_day: "ENVN4320_W4D2"
+      date: "2026-09-17T16:00:00"
   duration_string: "0:12:31"
-  type: "podcast"
+  profile:
+    - "podcast"
+    - "hhe"
+  categories:
+    - "podcast"
+    - "ENVN4320"
   attachments:
     []

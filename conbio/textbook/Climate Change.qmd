@@ -1,6 +1,6 @@
 ---
 title: "Climate Change"
-date: "2026-09-06 14:43"
+date: "2026-09-10 12:41"
 profile:
   - "textbook"
   - "conbio"
@@ -9,22 +9,29 @@ categories:
   - "BIOL4120"
 ---
 
-
 ::: {.callout-note collapse="false" title="Assigned Reading"}
 
-**Textbook:** Conservation Biology *(see details below)*
-**Chapter:** 12 (Threats to Biodiversity)
-**Sections Assigned:** 12.1, 12.2, 12.3, 12.4 (Climate Change)
+**Chapter:** Climate Change
+**Ch No.:** 8 (Threats to Biodiversity)
+**Pages:** 153-162 (Climate Change)
+**PDF:** [lovejoy_2010.pdf](../attachments/lovejoy_2010.pdf)
+**Textbook:** Conservation biology for all *(see details below)*
 **Days Covered:** BIOL4120_W11D1
 
 :::
 
 ::: {.callout-note collapse="true" title="Textbook Details"}
 
-**Text:** Conservation Biology by Cardinale, Murdoch
-**Edition:** 2nd (2025-01-17)
-**ISBN:** 9780197667033 (etext)
-[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+**Text:** Conservation biology for all by Thomas E. Lovejoy
+**Edition:**  (2010)
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![lovejoy_2010.pdf](../attachments/lovejoy_2010.pdf)
 
 :::
 

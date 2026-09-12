@@ -2,7 +2,12 @@
 title: "Case Conversation 1 - Disasters"
 date: "2026-08-29"
 date-modified: "2026-08-29T12:19:17"
-profile: "case_convo"
+profile:
+  - "case_convo"
+  - "hhe"
+categories:
+  - "case_convo"
+  - "ENVN4320"
 ---
 
 

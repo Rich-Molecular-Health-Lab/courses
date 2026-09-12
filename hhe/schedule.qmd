@@ -13,6 +13,7 @@ execute:
   warning: false
 ---
 
+
 ```{r}
 #| context: setup
 #| include: false
@@ -22,35 +23,8 @@ source(here::here("_schedule.R"))
 
 course <- str_remove(params$course, "_.+$")
 
-podcasts <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "podcast.yaml"))
-case_convos <- yaml::read_yaml(here::here(str_remove(params$course, "_.+$"), "case_convos.yaml"))
-
-schedule_list <- yaml::read_yaml(here::here("hhe/schedule.yaml")) %>%
-  set_names(map(., \(x) str_extract(pluck(x, "class_day"), "(?<=_).+$"))) %>%
-  map(\(x) list_assign(
-    x,
-    row  = row_vals(x),
-    unit = format_unit(x),
-    topics = topics_linked(x)
-    )) %>%
-  map(\(x) list_assign(
-    x, 
-    background = keep(podcasts, \(y) pluck(y, "classes_assigned", 1, "class_day") %in% pluck(x, "class_day")), 
-    case_convo = keep(case_convos, \(y) pluck(y, "class_days") %in% pluck(x, "class_day"))
-    )) %>%
-  map(\(x) list_assign(
-    x,
-    special    = special_vals(x),
-    background = podcast_card(pluck(x, "background")),
-    case_convo = case_card(pluck(x, "case_convo"))
-    )) %>%
-  map(\(x) list_assign(
-    x, 
-    detail = merge_cards(c(pluck(x, "background"), pluck(x, "case_convo")))
-    ))
-
-
-schedule_tbl <- schedule_list %>%
+schedule_tbl <- import_schedule(course) %>%
+  format_schedule(course = course) %>%
   enframe(name = "week_day") %>%
   unnest_wider(value) %>%
   mutate(
@@ -63,9 +37,10 @@ schedule_tbl <- schedule_list %>%
     date,
     unit,
     topics,
-    detail,
+    background,
     row,
-    special
+    topics_detail,
+    background_detail
   )
 ```
 
@@ -95,10 +70,11 @@ schedule <- reactable(
     wday       = colDef("D"      , maxWidth = 50 ),
     date       = colDef("Date"   , maxWidth = 100),
     unit       = colDef("Unit"   , maxWidth = 140, html = TRUE, class = topic_class()),
-    topics     = colDef("Topic"  , html = TRUE, class = topic_class()),
-    special    = colDef("Due"    , minWidth = 150, html = TRUE, details = agenda_detail(), style = special_style()),
-    detail     = colDef(show = FALSE),
-    row        = colDef(show = FALSE)
+    topics     = colDef("Topic"  , html = TRUE, class = topic_class(), details = topic_detail()),
+    background  = colDef("Due"  , html = TRUE, class = topic_class(), details = background_detail()),
+    row        = colDef(show = FALSE),
+    topics_detail = colDef(show = FALSE),
+    background_detail = colDef(show = FALSE)
   )
 )
 
