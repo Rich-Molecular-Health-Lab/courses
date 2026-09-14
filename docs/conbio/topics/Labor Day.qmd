@@ -1,0 +1,15 @@
+---
+title: "Labor Day"
+date: "2026-08-29"
+date-modified: "2026-08-29T11:15:01"
+profile:
+  - "topic"
+  - "conbio"
+categories:
+  - "topic"
+  - "BIOL4120"
+listing:
+  template: "resources.ejs.md"
+  contents: "Labor Day_resources.yaml"
+---
+

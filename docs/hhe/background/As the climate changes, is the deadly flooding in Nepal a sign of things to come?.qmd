@@ -1,0 +1,48 @@
+---
+topics:
+  - "[Floods](../topics/Floods.qmd)"
+themes:
+  - "[Disasters](../units/Disasters.qmd)"
+classes_assigned:
+  - "ENVN4320_W3D1"
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-09-01"
+title: "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
+url_spotify: "https://open.spotify.com/episode/6PfBrmLds090IlN5LEtww0"
+description: "The flooding in Nepal has left hundreds dead and many more missing. Many scientists believe the flooding is the result of a melting glacier.What do we know about the link between the disaster in Nepal and climate change?This episode was produced by Henry Larson, Megan Lim and Kai McNamee, with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams.It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+released: "2026-08-27"
+image: "![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)"
+series: "Consider This from NPR"
+series_description: "The hosts of NPR's All Things Considered help you make sense of a major news story and what it means for you, in 15 minutes. New episodes six days a week, Sunday through Friday. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Consider This."
+series_spotify: "https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH"
+duration: "361534"
+duration_string: "0:6:1"
+type: "background"
+---
+
+# As the climate changes, is the deadly flooding in Nepal a sign of things to come?
+
+![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
+
+**Duration:** `= this.duration_string`
+**Released:** 2026
+**Series:** Consider This from NPR
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/6PfBrmLds090IlN5LEtww0)
+[Open Series in Spotify](https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH)
+
+The flooding in Nepal has left hundreds dead and many more missing. Many scientists believe the flooding is the result of a melting glacier.What do we know about the link between the disaster in Nepal and climate change?This episode was produced by Henry Larson, Megan Lim and Kai McNamee, with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams.It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+:::::
+

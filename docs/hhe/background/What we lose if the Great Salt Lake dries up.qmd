@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Drought](../topics/Drought.qmd)"
+themes:
+  - "[Disasters](../units/Disasters.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "What we lose if the Great Salt Lake dries up"
+url_spotify: "https://open.spotify.com/episode/1fd8eq7653xN4mr4D29EWD"
+description: "Dotted across the Great Basin of the American West are salty, smelly lakes. The largest of these, by far, is the Great Salt Lake in Utah.But a recent report found that water diversions for farming, climate change and population growth could mean the lake essentially disappears within five years. Less water going in means higher concentrations of salt and minerals, which threatens the crucial ecological role saline lakes play across the West, as well as the health of the people who live nearby. On today's episode, Kirk takes Short Wave co-host Aaron Scott on an audio field trip to the endangered Great Salt Lake, and explains why losing the lake could be devastating for everyone from brine flies to the humans that live next door. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+released: "2023-03-21"
+image: "![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)"
+series: "Short Wave"
+series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
+series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
+duration: "751412"
+classes_assigned:
+  - "ENVN4320_W4D1"
+duration_string: "0:12:31"
+type: "background"
+---
+
+# What we lose if the Great Salt Lake dries up
+
+![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
+
+**Duration:** `= this.duration_string`
+**Released:** 2023
+**Series:** Short Wave
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/1fd8eq7653xN4mr4D29EWD)
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Dotted across the Great Basin of the American West are salty, smelly lakes. The largest of these, by far, is the Great Salt Lake in Utah.But a recent report found that water diversions for farming, climate change and population growth could mean the lake essentially disappears within five years. Less water going in means higher concentrations of salt and minerals, which threatens the crucial ecological role saline lakes play across the West, as well as the health of the people who live nearby. On today's episode, Kirk takes Short Wave co-host Aaron Scott on an audio field trip to the endangered Great Salt Lake, and explains why losing the lake could be devastating for everyone from brine flies to the humans that live next door. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+:::::
+

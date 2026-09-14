@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Climate Change & Extreme Weather](../topics/Climate Change & Extreme Weather.qmd)"
+themes:
+  - "[Disasters](../units/Disasters.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "A Storm is Brewing. Is it Climate Change?"
+url_spotify: "https://open.spotify.com/episode/0KqTnupchaRay7qI7QuiKU"
+description: "For years, we were told it wasn’t possible to link specific weather events to global warming — and that made communicating about climate change difficult: When extreme weather events were in the news, climate change was often left out of the story. This week, we tell the story of how that changed. We talk to the scientists who figured out how to model the role of climate change in events like Hurricane Harvey — the climate detectives who blew the case of extreme weather wide open.Guests: Dr. Peter Stott, UK Met Office; Dr. Friederike (Fredi) Otto, Grantham Institute for Climate Change and the Environment; Dr. Stephanie Herring, NOAACalls to Action:  Help out climate scientists from your couch! Climate scientists rely on accurate weather data to produce and test their models. But lots of historical weather data is still locked away in handwritten records from the 1800s, like old ships’ logs. Now, you can help rescue that data — by transcribing old temperature and weather logs! Check out the project Weather Rescue, which connects volunteers with documents that need transcribing. Especially good if you're a pro at deciphering cursive handwriting...  Talk about the weather! If an extreme weather event linked to climate change occurs in your region, talk to your friends and family about how climate change is affecting the weather they’re experiencing. One goal of scientists like Fredi Otto is to help get climate science into the conversation — and that only works if people HAVE that conversation. People like you! Further Reading: You can find more information and recent studies on extreme weather events online at World Weather Attribution  Check out Dr. Fredi Otto's book about the development of rapid event attribution, Angry Weather, or Dr. Peter Stott's memoir about his experiences as a climate scientist, Hot Air  The American Meteorological Society publishes an annual round-up of the most interesting extreme weather event attribution studies, edited by Drs. Stephanie Herring and Peter Stott. If you liked this episode, you might like some of these past shows: Unnatural Disasters and How TV Weathercasters Went from Climate Skeptics to Champions. If you take an action we recommend in one of our episodes, do us a favor and tell us about it! We’d love to hear how it went and what it felt like. Record a short voice memo on your phone and send it to us via our Listener Mail Form. We might use it in an upcoming episode. Find all the actions we’ve recommended on our show here!Credits:How to Save a Planet is a Spotify original podcast and Gimlet production. It's hosted by Alex Blumberg.This episode was produced by Rachel Waldholz with help from Daniel Ackerman, Hannah Chinn and Nicole Welch. The rest of our reporting and producing team are Kendra Pierre-Louis and Anna Ladd.  Our supervising producer is Katelyn Bogucki. Our editor is Caitlin Kenney. Sound design and mixing by Peter Leonard and Lonnie Ro with original music by Peter Leonard, Emma Munger, and Billy Libby.Our fact-checker this episode is Claudia Geib.Special thanks to Dr. Stephanie Herring at NOAA for explaining a lot of this science to us so that we could explain it to you! Learn more about your ad choices. Visit podcastchoices.com/adchoices"
+released: "2022-01-27"
+image: "![A Storm is Brewing. Is it Climate Change?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)"
+series: "How to Save a Planet"
+series_description: "Climate change. We know. It can feel too overwhelming. But what if there was a show about climate change that left you feeling... energized? One so filled with possibility that you actually wanted to listen? Join us, journalist Alex Blumberg and a crew of climate nerds, as we bring you smart, inspiring stories about the mess we're in and how we can get ourselves out of it.Check out our Calls to Action archive here for all of the actions we've recommended on the show. Send us your ideas or feedback with our Listener Mail Form. And follow us on Twitter and Instagram.How to Save a Planet is reported and produced by Kendra Pierre-Louis, Rachel Waldholz, Anna Ladd, Daniel Ackerman, and Hannah Chinn. Our intern is Nicole Welch. Our supervising producers are Katelyn Bogucki and Lauren Silverman. Our editor is Caitlin Kenney. Sound design and mixing by Peter Leonard with original music from Peter Leonard and Emma Munger."
+series_spotify: "https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6"
+duration: "1949779"
+classes_assigned:
+  - "ENVN4320_W2D2"
+duration_string: "0:32:29"
+type: "background"
+---
+
+# A Storm is Brewing. Is it Climate Change?
+
+![A Storm is Brewing. Is it Climate Change?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
+
+**Duration:** `= this.duration_string`
+**Released:** 2022
+**Series:** How to Save a Planet
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/0KqTnupchaRay7qI7QuiKU)
+[Open Series in Spotify](https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6)
+
+For years, we were told it wasn’t possible to link specific weather events to global warming — and that made communicating about climate change difficult: When extreme weather events were in the news, climate change was often left out of the story. This week, we tell the story of how that changed. We talk to the scientists who figured out how to model the role of climate change in events like Hurricane Harvey — the climate detectives who blew the case of extreme weather wide open.Guests: Dr. Peter Stott, UK Met Office; Dr. Friederike (Fredi) Otto, Grantham Institute for Climate Change and the Environment; Dr. Stephanie Herring, NOAACalls to Action:  Help out climate scientists from your couch! Climate scientists rely on accurate weather data to produce and test their models. But lots of historical weather data is still locked away in handwritten records from the 1800s, like old ships’ logs. Now, you can help rescue that data — by transcribing old temperature and weather logs! Check out the project Weather Rescue, which connects volunteers with documents that need transcribing. Especially good if you're a pro at deciphering cursive handwriting...  Talk about the weather! If an extreme weather event linked to climate change occurs in your region, talk to your friends and family about how climate change is affecting the weather they’re experiencing. One goal of scientists like Fredi Otto is to help get climate science into the conversation — and that only works if people HAVE that conversation. People like you! Further Reading: You can find more information and recent studies on extreme weather events online at World Weather Attribution  Check out Dr. Fredi Otto's book about the development of rapid event attribution, Angry Weather, or Dr. Peter Stott's memoir about his experiences as a climate scientist, Hot Air  The American Meteorological Society publishes an annual round-up of the most interesting extreme weather event attribution studies, edited by Drs. Stephanie Herring and Peter Stott. If you liked this episode, you might like some of these past shows: Unnatural Disasters and How TV Weathercasters Went from Climate Skeptics to Champions. If you take an action we recommend in one of our episodes, do us a favor and tell us about it! We’d love to hear how it went and what it felt like. Record a short voice memo on your phone and send it to us via our Listener Mail Form. We might use it in an upcoming episode. Find all the actions we’ve recommended on our show here!Credits:How to Save a Planet is a Spotify original podcast and Gimlet production. It's hosted by Alex Blumberg.This episode was produced by Rachel Waldholz with help from Daniel Ackerman, Hannah Chinn and Nicole Welch. The rest of our reporting and producing team are Kendra Pierre-Louis and Anna Ladd.  Our supervising producer is Katelyn Bogucki. Our editor is Caitlin Kenney. Sound design and mixing by Peter Leonard and Lonnie Ro with original music by Peter Leonard, Emma Munger, and Billy Libby.Our fact-checker this episode is Claudia Geib.Special thanks to Dr. Stephanie Herring at NOAA for explaining a lot of this science to us so that we could explain it to you! Learn more about your ad choices. Visit podcastchoices.com/adchoices
+:::::
+

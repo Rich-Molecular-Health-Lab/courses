@@ -5,17 +5,11 @@ profile:
   - "listings"
   - "conbio"
 listing: 
-  - id: conbio-slides
+  - id: conbio-updates
     contents:
-      - "../slides/conbio/*.qmd"
-      - "!../slides/conbio/_*/**"
-      - "!../slides/conbio/*/_*/**"
-  - id: conbio-resource
-    contents:
-      - "../resources/conbio/*.qmd"
-      - "../resources/conbio/*/*.qmd"
-      - "!../resources/conbio/_*/**"
-      - "!../resources/conbio/*/_*/**"
+      - "../*/conbio.qmd"
+      - "*.qmd"
+      - "slides/*/index.html"
 ---
 
 On this site you can find the most up to date syllabi, schedules, slide decks, and other rewsources for Conservation Biology at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
@@ -32,15 +26,9 @@ On this site you can find the most up to date syllabi, schedules, slide decks, a
 :::
 
 
-## Slide Decks
+## Recent Updates
 
-::: {#conbio-slides}
-
-:::
-
-## Other Resources
-
-::: {#conbio-resource}
+::: {#conbio-updates}
 
 :::
 

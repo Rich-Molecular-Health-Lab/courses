@@ -201,8 +201,9 @@ blank_rows <- function(x) {
   slides <- if ("slides" %in% names(x) && length(pluck(x, "slides")) > 0) pluck(x, "slides") else ""
   topics <- if ("topics" %in% names(x) && length(pluck(x, "topics")) > 0) pluck(x, "topics") else ""
   unit <- if ("unit" %in% names(x) && length(pluck(x, "unit")) > 0)       pluck(x, "unit"  ) else ""
+  background <- if ("background" %in% names(x) && length(pluck(x, "background")) > 0)       pluck(x, "background"  ) else ""
 
-  return(list_assign(x, cases = cases, slides = slides, topics = topics, unit = unit))
+  return(list_assign(x, cases = cases, slides = slides, topics = topics, unit = unit, background = background))
 }
 
 populate_schedule <- function(course = str_remove(params$course, "_.+$")) {

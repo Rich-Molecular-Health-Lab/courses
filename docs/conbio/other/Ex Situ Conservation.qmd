@@ -1,0 +1,21 @@
+---
+title: "Ex Situ Conservation"
+date: "2026-09-06 14:43"
+profile: "other"
+---
+
+
+::::: {.callout-note collapse="false" title="Assigned Reading"}
+**Textbook:** `=this.text_title` *(see details below)*
+**Chapter:** `=this.chapter` (`=this.themes`)
+**Sections Assigned:** `=this.sections_assigned` (`=this.topics`)
+**Days Covered:** `=this.classes_assigned`
+:::::
+
+::::: {.callout-note collapse="true" title="Textbook Details"}
+**Text:** `=this.text_title` by `=this.author`
+**Edition:** `=this.edition` (`=this.published`)
+**ISBN:** `=this.isbn` (`=this.type`)
+[![`=this.text_title`|50](`=this.image`)](`=this.url`)
+:::::
+

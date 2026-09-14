@@ -1,0 +1,51 @@
+---
+topics:
+  - "[Environmental Justice](../topics/Environmental Justice.qmd)"
+  - "[Redlining](../topics/Redlining.qmd)"
+themes:
+  - "[Infrastructure](../units/Infrastructure.qmd)"
+  - "[Introduction](../units/Introduction.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "How Housing Discrimination Works"
+url_spotify: "https://open.spotify.com/episode/3jVaUJL7m6uLOZizg2pSnX"
+description: "Owning a home in the US is a way to pass wealth down from one generation to the next and lift families into a comfortable life down the road. But there have been barriers to buying homes that Black Americans have faced from the time of slavery to today.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information."
+released: "2021-02-11"
+image: "![How Housing Discrimination Works](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)"
+series: "Stuff You Should Know"
+series_description: "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered."
+series_spotify: "https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx"
+duration: "3254491"
+classes_assigned:
+  - "ENVN4320_W5D2"
+duration_string: "0:54:14"
+type: "background"
+---
+
+# How Housing Discrimination Works
+
+![How Housing Discrimination Works](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
+
+**Duration:** `= this.duration_string`
+**Released:** 2021
+**Series:** Stuff You Should Know
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/3jVaUJL7m6uLOZizg2pSnX)
+[Open Series in Spotify](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx)
+
+Owning a home in the US is a way to pass wealth down from one generation to the next and lift families into a comfortable life down the road. But there have been barriers to buying homes that Black Americans have faced from the time of slavery to today.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
+:::::
+

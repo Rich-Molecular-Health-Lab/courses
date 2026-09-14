@@ -5,17 +5,11 @@ profile:
   - "listings"
   - "hhe"
 listing: 
-  - id: hhe-slides
+  - id: hhe-updates
     contents:
-      - "../slides/hhe/*.qmd"
-      - "!../slides/hhe/_*/**"
-      - "!../slides/hhe/*/_*/**"
-  - id: hhe-resource
-    contents:
-      - "../resources/hhe/*.qmd"
-      - "../resources/hhe/*/*.qmd"
-      - "!../resources/hhe/_*/**"
-      - "!../resources/hhe/*/_*/**"
+      - "../*/hhe.qmd"
+      - "*.qmd"
+      - "slides/*/index.html"
 ---
 
 On this site you can find the most up to date syllabi and schedules for Human Health & the Environment at UNO with Dr. Rich. Please check back often, as I will update the schedules as needed.[^1]
@@ -32,18 +26,11 @@ On this site you can find the most up to date syllabi and schedules for Human He
 :::
 
 
-## Slide Decks
+## Recent Updates
 
-::: {#hhe-slides}
-
-:::
-
-## Other Resources
-
-::: {#hhe-resource}
+::: {#hhe-updates}
 
 :::
-
 
 [^1]: The information here is also available through the canvas course page. All information should update to canvas in real time, as these pages are embedded as direct links there.
 

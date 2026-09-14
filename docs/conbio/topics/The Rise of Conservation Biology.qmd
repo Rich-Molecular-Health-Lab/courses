@@ -1,0 +1,17 @@
+---
+title: "The Rise of Conservation Biology"
+date: "2026-08-29"
+date-modified: "2026-08-29T11:15:01"
+profile:
+  - "topic"
+  - "conbio"
+categories:
+  - "topic"
+  - "BIOL4120"
+listing:
+  template: "resources.ejs.md"
+  contents: "The Rise of Conservation Biology_resources.yaml"
+---
+
+
+
