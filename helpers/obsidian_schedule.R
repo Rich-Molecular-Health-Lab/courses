@@ -141,6 +141,7 @@ format_content <- function(content) {
   vars_keep <- unlist(discard(vars, \(y) any(y %in% c(
     "section",
     "days_needed",
+    "themes",
     "projects",
     "background",
     "area",
@@ -210,12 +211,13 @@ populate_schedule <- function(course = str_remove(params$course, "_.+$")) {
   cases      <- format_content(import_content("case_convos", course = course))
   schedule   <- import_schedule(course = course) %>%
     format_schedule() %>%
-    map_depth(2, \(x) compact(list_assign(
+    map_depth(2, \(x) list_assign(
       x,
       agenda     = keep(agenda, \(y) any(names(y) %in% pluck(x, "class_day"))),
       background = keep_at(background, pluck(x, "class_day")),
       cases      = keep(cases, \(y) any(names(y) %in% pluck(x, "class_day")))
-    ))) %>%
+    ))  %>%
+    map_depth(2, compact) %>%
     map_depth(2, \(x) modify_at(
       x,
       c("agenda", "cases"),
@@ -279,7 +281,7 @@ content_background <- function(x) {
 
   if (type %in% c("podcast")) {
     action <- "Podcast"
-    url_direct <- pluck(x, "url")
+    url_direct <- pluck(x, "url_spotify")
     url_second <- sprintf("'podcast/%s.qmd'", pluck(x, "title"))
     my <- format(as.POSIXct(pluck(x, "released")), format = "%b %Y")
     title_main <- pluck(x, "series")
