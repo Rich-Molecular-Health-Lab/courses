@@ -304,18 +304,33 @@ get_slos <- function(course) {
 get_textbooks <- function(course) {
   course_short <- shorten_course(course)
   if (str_starts(course, "conbio")) {
-    list(
-      title   = "Conservation Biology",
-      href    = "https://bookshelf.vitalsource.com/reader/books/9780197667033",
-      image   = here("syllabi/graphics/conbio/text.jpg"),
-      authors = "Bradley Cardinale; James D. Murdoch",
-      date    = ymd("2025-1-17"),
-      edition = "2nd",
-      isbn    = "9780197667033",
-      pages   = 654,
-      embed   = FALSE,
-      type    = "etext"
-    )
+    if (str_ends(course, "26f")) {
+      list(
+        title   = "Conservation Biology for All",
+        href    = "https://conbio.org/publications/free-textbook/",
+        image   = here("syllabi/graphics/conbio/consbioall_cover_reduced.jpg"),
+        authors = "Navjot S.Sodhi; Paul R. Ehrlich",
+        date    = ymd("2010-01-01"),
+        edition = "1st",
+        isbn    = "978-0-19-955423-2 978-0-19-955424-9",
+        pages   = 344,
+        embed   = FALSE,
+        type    = "etext"
+      )
+    } else {
+      list(
+        title   = "Conservation Biology",
+        href    = "https://bookshelf.vitalsource.com/reader/books/9780197667033",
+        image   = here("syllabi/graphics/conbio/text.jpg"),
+        authors = "Bradley Cardinale; James D. Murdoch",
+        date    = ymd("2025-1-17"),
+        edition = "2nd",
+        isbn    = "9780197667033",
+        pages   = 654,
+        embed   = FALSE,
+        type    = "etext"
+      )
+    }
   } else if (str_starts(course, "hhe")) {
     list(
       title   = "Podcast Playlist",

@@ -1,4 +1,4 @@
-- title: "Biodiversity Concepts and Measurement Slides"
+- title: "Biodiversity Concepts & Measurement"
   topics:
     - "Biodiversity Concepts & Measurement"
   course_prefix: "BIOL"
@@ -32,7 +32,7 @@
     - "slides"
     - "BIOL4120"
   attachments:
-    - "c03fig001.jpg"
+    - "Biodiversity_Concepts_&_Measurement.jpg"
 - title: "Contemporary Conservation Biology"
   image: "figures/Ch02/c02fig008.jpg"
   topics:
@@ -66,4 +66,4 @@
     - "slides"
     - "BIOL4120"
   attachments:
-    - "c02fig008.jpg"
+    - "Contemporary_Conservation_Biology.jpg"

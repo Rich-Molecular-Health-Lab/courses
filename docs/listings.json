@@ -32,27 +32,10 @@
     ]
   },
   {
-    "listing": "/conbio_resources.html",
-    "items": [
-      "/resources/conbio/case_convos/case_source_hubs.html",
-      "/resources/conbio/fishing/procedure.pdf",
-      "/resources/conbio/fishing/questions.pdf",
-      "/resources/conbio/case_convos/case_study_rubric.docx",
-      "/resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf",
-      "/resources/conbio/case_convos/case_study_peer_feedback.pdf",
-      "/resources/conbio/case_convos/case_study_prep_sheet.docx",
-      "/resources/conbio/case_convos/case_study_prompt.html"
-    ]
-  },
-  {
     "listing": "/bio2lab_resources.html",
     "items": [
       "/resources/bio2lab/bio2_behavior.pdf"
     ]
-  },
-  {
-    "listing": "/hhe_resources.html",
-    "items": []
   },
   {
     "listing": "/hhe/index.html",

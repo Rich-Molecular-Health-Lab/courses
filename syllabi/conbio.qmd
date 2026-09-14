@@ -53,5 +53,3 @@ render_course_graphics(params$course)
 
 {{< include _disclosure.qmd >}}
 
-
-

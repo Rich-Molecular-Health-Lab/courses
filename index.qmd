@@ -8,10 +8,6 @@ listing:
     contents:
       - "*/hhe.qmd"
       - "hhe/*.qmd"
-      - "resources/hhe/*.qmd"
-      - "resources/hhe/*/*.qmd"
-      - "!resources/hhe/*_/**"
-      - "!../resources/hhe/*/_*/**"
   - id: conbio-updates
     contents:
       - "*/conbio.qmd"

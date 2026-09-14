@@ -1,6 +1,330 @@
 
-course_url_prefix <- function(course = str_remove(params$course, "_.+$")) {
-  sprintf("https://rich-molecular-health-lab.github.io/courses/%s", course)
+row_class <- function(x) {
+  row <- pluck(x, "row")
+  if (row == "d1") {
+    "border-primary"
+  } else if (row == "d2") {
+    "border-secondary"
+  } else if (row == "dnoclass") {
+    "text-white bg-secondary"
+  } else if (row == "dexam") {
+    "text-white bg-warning"
+  }
+}
+
+content_type <- function(x) {
+  tags <- pluck(x, "tags")
+  type <- if ("podcast" %in% tags) "podcast" else if ("literature" %in% tags) "literature" else if ("lesson" %in% tags) "topics" else if ("case_convo" %in% tags) "case_convo" else "textbook"
+}
+
+format_schedule <- function(schedule_init) {
+  as.list(paste0("W", 1:16)) %>%
+    set_names(map(., \(x) x)) %>%
+    map(\(x) keep(
+      schedule_init, \(y) any(pluck(y, "week") %in% x)
+    )) %>%
+    map(\(x) imap(x, \(y, idy) list_assign(
+      y,
+      day    = str_extract(idy, "D\\d{1,2}$"),
+      topics = str_flatten_comma(
+        unique(unlist(map(pluck(y, "topics"), \(z) str_remove(pluck(z, "title"), " - .+$")))),
+        na.rm = TRUE
+      )
+      ))) %>%
+    map(\(x) set_names(x, map(x, \(y) pluck(y, "wday")))) %>%
+    map_depth(2, compact)
+}
+
+import_schedule <- function(course = str_remove(params$course, "_.+$")) {
+  yaml::read_yaml(here::here(course, "schedule.yaml")) %>%
+    set_names(map(., \(x) str_extract(pluck(x, "class_day"), "(?<=_).+$"))) %>%
+    map(\(x) list_assign(
+      x,
+      row  = row_vals(x),
+      unit = format_unit(x)
+    )) %>%
+    map(\(x) list_assign(
+      x,
+      class     = row_class(x),
+      class_day = str_extract(pluck(x, "class_day"), "(?<=_).+$"),
+      week  = paste0("W", pluck(x, "week")),
+      wday  = format(as.POSIXct(pluck(x, "date")), format = "%a"),
+      date  = format(as.POSIXct(pluck(x, "date")), format = "%A, %B %e")
+    ))
+}
+
+get_icon <- function(x, size = NULL) {
+  name <-  switch(
+    x,
+    "podcast"    = "fa-brands fa-spotify",
+    "textbook"   = "fa-solid fa-book",
+    "literature" = "fa-solid fa-newspaper",
+    "slides"     = "fa-brands fa-chromecast",
+    "transcript" = "fa-solid fa-closed-captioning",
+    "film"       = "fa-solid fa-film",
+    "video"      = "fa-brands fa-youtube",
+    "case_convo" = "fa-solid fa-comments",
+    "link"       = "fa-solid fa-link",
+    "pdf"        = "fa-solid fa-file-pdf"
+  )
+  icon <- if (is.null(size)) name else paste(name, size)
+  return(str_glue("<i class='{icon}'></i>"))
+}
+
+
+icon_link <- function(href, icon = NULL, class = "nav-item px-1 text-primary") {
+  icon <- if (is.null(icon)) get_icon("link") else icon
+  str_glue("<a href={href} class='{class}'>{icon}</a>")
+}
+
+slides_href <- function(href) {
+  if (!str_starts(href, "http")) sprintf("slides/%s/index.html", href) else href
+}
+
+pluck_first_day <- function(classes_assigned) {
+
+  dates <- map(classes_assigned, \(x) as.POSIXct(pluck(x, "date"))) %>%
+    map(sort)
+
+  class <- keep(classes_assigned, \(x) as.POSIXct(pluck(x, "date")) %in% pluck(dates, 1))
+
+  return(class)
+}
+
+import_content <- function(type, course = str_remove(params$course, "_.+$")) {
+  if (!file_exists(here::here(course, sprintf("%s.yaml", type)))) return(NULL)
+
+  init <- yaml::read_yaml(file = here::here(course, sprintf("%s.yaml", type)))
+
+  if (type %in% c("textbook", "literature", "podcast")) {
+    content <- map(init, \(x) modify_at(x, "classes_assigned", \(y) pluck_first_day(y))) %>%
+      map(\(x) list_assign(
+        x,
+        class_days = pluck(x, "classes_assigned", 1, "class_day"),
+        dates      = pluck(x, "classes_assigned", 1, "date")
+        ))
+  } else {
+    content <- init
+  }
+
+  content %>%
+    map(\(x) modify_at(x, "class_days", \(y) str_extract(y, "(?<=_).+$"))) %>%
+    map(\(x) list_assign(x, type = content_type(x))) %>%
+    map_depth(1, compact) %>%
+    map(\(x) modify_at(x, "slides", \(y) content_slides(y)))
+}
+
+import_background <- function(course = str_remove(params$course, "_.+$")) {
+  types <- list("podcast", "textbook", "literature") %>%
+    keep(\(x) file_exists(here::here(course, sprintf("%s.yaml", x))))
+
+  background <- map(types, \(x) format_content(import_content(x, course = course))) %>%
+    list_flatten(name_spec = "{inner}")
+
+  return(background)
+}
+
+import_agenda <- function(course = str_remove(params$course, "_.+$")) {
+  types <- list("topics", "case_convos") %>%
+    keep(\(x) file_exists(here::here(course, sprintf("%s.yaml", x))))
+
+  agenda <- map(types, \(x) format_content(import_content(x, course = course))) %>%
+    list_flatten(name_spec = "{inner}")
+
+  return(agenda)
+}
+
+format_content <- function(content) {
+  type <- pluck(content, 1, "type")
+  vars <- names(pluck(content, 1))
+  vars_dup <- unlist(discard(vars, \(y) all(y %in% c("class_days", "tags", "dates"))))
+  vars_keep <- unlist(discard(vars, \(y) any(y %in% c(
+    "section",
+    "days_needed",
+    "projects",
+    "background",
+    "area",
+    "created",
+    "datetimeModified",
+    "course_name",
+    "course_prefix",
+    "course_number",
+    "semesters",
+    "tags",
+    "classes_assigned",
+    "zotero_uri",
+    "zotero_pdf_path",
+    "profile",
+    "categories",
+    "category",
+    "topics",
+    "keywords"
+  ))))
+
+  revised <- discard(content, \(x) any(
+    length(pluck(x, "class_days")) < 1
+  ))  %>%
+    map(\(x) keep_at(x, vars_keep)) %>%
+    map(\(x) map_at(x, vars_dup, \(y) list(y))) %>%
+    map(\(x) modify_at(
+      x,
+      vars_dup,
+      \(y) rep(y, length(pluck(x, "class_days")))
+    )) %>%
+    map(\(x) map_at(x, c("class_days", "dates"), \(y) as.list(y))) %>%
+    map_depth(-2, compact) %>%
+    map_depth(1, compact)  %>%
+    map(transpose) %>%
+    map(\(x) set_names(x, map(x, \(y) pluck(y, "class_days")))) %>%
+    set_names(map(., \(x) pluck(x, 1, "title")))
+
+  if (type %in% c("literature", "textbook", "podcast")) {
+    return(list_flatten(revised, name_spec = "{inner}"))
+  } else {
+    return(revised)
+  }
+}
+
+flatten_background <- function(x) {
+  background <- if (!("background" %in% names(x)) || length(pluck(x, "background")) < 1) "" else str_flatten(
+    unlist(pluck(x, "background")),
+    na.rm = TRUE
+    )
+
+  return(background)
+
+}
+
+blank_rows <- function(x) {
+  cases <- if ("cases" %in% names(x) && length(pluck(x, "cases")) > 0)    pluck(x, "cases" ) else ""
+  slides <- if ("slides" %in% names(x) && length(pluck(x, "slides")) > 0) pluck(x, "slides") else ""
+  topics <- if ("topics" %in% names(x) && length(pluck(x, "topics")) > 0) pluck(x, "topics") else ""
+  unit <- if ("unit" %in% names(x) && length(pluck(x, "unit")) > 0)       pluck(x, "unit"  ) else ""
+
+  return(list_assign(x, cases = cases, slides = slides, topics = topics, unit = unit))
+}
+
+populate_schedule <- function(course = str_remove(params$course, "_.+$")) {
+  background <- import_background(course = course)
+  agenda     <- import_agenda(course = course)
+  cases      <- format_content(import_content("case_convos", course = course))
+  schedule   <- import_schedule(course = course) %>%
+    format_schedule() %>%
+    map_depth(2, \(x) compact(list_assign(
+      x,
+      agenda     = keep(agenda, \(y) any(names(y) %in% pluck(x, "class_day"))),
+      background = keep_at(background, pluck(x, "class_day")),
+      cases      = keep(cases, \(y) any(names(y) %in% pluck(x, "class_day")))
+    ))) %>%
+    map_depth(2, \(x) modify_at(
+      x,
+      c("agenda", "cases"),
+      \(y) list_flatten(
+        map(y, \(z) keep_at(z, pluck(x, "class_day"))),
+        name_spec = "{outer}"
+      )
+    )) %>%
+    map_depth(
+      2,
+      \(x) modify_at(x, "background", \(y) map(y, content_background))
+    ) %>%
+    map_depth(
+      2,
+      \(x) modify_at(x, "cases", \(y) map(y, content_cases))
+    ) %>%
+    map_depth(
+      2,
+      \(x) list_assign(
+        x,
+        slides = str_flatten(
+          unlist(
+            map(
+              pluck(x, "agenda"),
+              \(y) pluck(y, "slides")
+            )
+          ),
+          na.rm = TRUE
+        ),
+        background = flatten_background(x)
+      )
+    ) %>%
+    map_depth(2, blank_rows)
+  return(schedule)
+}
+
+content_cases <- function(x) {
+  if (is.null(x) || length(x) < 1) return(NA_character_)
+  number <- pluck(x, "number")
+  topic  <- pluck(x, "topic")
+  leaders <- pluck(x, "leaders")
+  leaders_flat <- if (is.null(leaders) || length(leaders) < 1) "" else str_flatten_comma(leaders, na.rm = TRUE)
+  return(str_glue("<li class='list-group-item list-group-item-success d-flex justify-content-between align-items-center'><span class='badge bg-success me-1 float-start'>Case</span><div class='d-flex flex-column justify-content-around'><div class='text-success-emphasis'>Conversation {number}</div><em class='text-muted'>{topic}</em></div><small class='text-muted'>{leaders_flat}</small><span class='float-end'><i class='fa-solid fa-comments'></i></span></li>"))
+}
+
+content_slides <- function(slides) {
+  if (is.null(slides) || length(slides) < 1) return(NA_character_)
+  links <- map(slides, slides_href) %>%
+    map(\(x) icon_link(x, icon = get_icon("slides", size = "fa-lg"))) %>%
+    unlist() %>%
+    unique() %>%
+    str_flatten(na.rm = TRUE)
+  return(str_glue("<li class='list-group-item list-group-item-info d-flex justify-content-between align-items-center'><span class='badge bg-info me-1 float-start'>Slides</span><span class='float-end'>{links}</span></li>"))
+}
+
+
+content_background <- function(x) {
+  if (is.null(x) || length(x) < 1) return(NA_character_)
+  type <- pluck(x, "type")
+  icon <- get_icon(type, size="fa-xl")
+
+  if (type %in% c("podcast")) {
+    action <- "Podcast"
+    url_direct <- pluck(x, "url")
+    url_second <- sprintf("'podcast/%s.qmd'", pluck(x, "title"))
+    my <- format(as.POSIXct(pluck(x, "released")), format = "%b %Y")
+    title_main <- pluck(x, "series")
+    title_second <- sprintf("%s (%s, released %s)", pluck(x, "title"), pluck(x, "duration_string"), my)
+    link_direct <- icon_link(url_direct, icon = icon)
+    link_second <- icon_link(url_second, icon = get_icon("transcript"))
+  } else {
+    action <- "Reading"
+    if (type == "literature") {
+      url_direct <-  pluck(x, "url")
+      url_second <-  sprintf("attachments/%s.pdf", pluck(x, "citekey"))
+      link_second <- icon_link(url_second, icon = get_icon("pdf", size = "fa-xl"))
+      title_main <- sprintf("%s et al. %s", pluck(x, "author_first"), pluck(x, "year"))
+      title_second <- sprintf("%s (DOI: %s)", pluck(x, "title"), pluck(x, "doi"))
+      link_direct <- icon_link(url_direct, icon = icon)
+    } else {
+      url_direct <-  sprintf("attachments/%s.pdf", pluck(x, "citekey"))
+      url_second <-  pluck(x, "url")
+      link_second <- icon_link(url_second, icon = icon)
+      link_direct <- icon_link(url_direct, icon = get_icon("pdf", size = "fa-xl"))
+      title_main   <- sprintf("Ch %.0f", pluck(x, "chapter"))
+      sections <- pluck(x, "sections_assigned")
+      assigned <- if (is.null(sections) || length(sections) < 1) "" else sprintf(" (Sections %s)", str_flatten_comma(sections, na.rm = TRUE))
+      title_second <- paste0(pluck(x, "title"), assigned)
+    }
+  }
+  badge <- str_glue("<span class='badge bg-primary me-1 float-start'>{action}</span>")
+  content <- str_glue("<li class='list-group-item list-group-item-primary d-flex justify-content-between align-items-center'>{badge}<div class='d-flex flex-column justify-content-around'><div class='text-primary-emphasis'>{title_main}</div><small class='text-muted'>{title_second}</small></div>{link_direct}{link_second}</li>")
+  return(content)
+}
+
+day_card <- function(x) {
+  str_glue_data(x, "<div class='list-group-item card {class} m-1 p-1 w-50'><div class='card-header'>{date}</div><div class='card-body'><h5 class='card-title'>{topics}</h5><h6 class='card-subtitle text-muted mb-3'>{unit}</h6><ul class='list-group my-3'>{background}{cases}{slides}</ul></div></div>")
+}
+
+accord_week <- function(x, idx) {
+  dates <- sprintf("%s - %s", str_extract(pluck(x, 1, "date"), "(?<=, ).+$"), str_extract(pluck(x, -1, "date"), "(?<=, ).+$"))
+  cards <- str_flatten(unlist(map(x, day_card)), na.rm = TRUE)
+  str_glue("<div class='accordion-item'><h2 class='accordion-header' id=heading{idx}><button class='accordion-button collapsed' type='button' data-bs-toggle='collapse' data-bs-target='#collapse{idx}' aria-expanded='false' aria-controls='collapse{idx}'><div class='d-flex justify-content-between'><strong class='pe-3 me-3'>{idx}</strong><small class='text-muted text-end px-3 mx-3'>{dates}</small></div></button></h2><div id='collapse{idx}' class='accordion-collapse collapse' aria-labelledby='heading{idx}' data-bs-parent='#main'><div class='accordion-body list-group list-group-horizontal d-flex justify-content-between align-content-center w-100'>{cards}</div></div></div>")
+}
+
+
+accord_top <- function(schedule_list) {
+  weeks <- str_flatten(unlist(imap(schedule_list, accord_week)), na.rm = TRUE)
+  str_glue("<div class='accordion' id='main'>{weeks}</div>")
 }
 
 
@@ -8,273 +332,18 @@ remove_course_prefix <- function(x) {
   str_remove(x, "\\w{4}\\d{4}$")
 }
 
-
-
-card_footer_collapse <- function(footer_title, footer_content) {
-  footer_head <- str_glue("<small><h6 class='card-header'><a class='btn' data-bs-toggle='collapse' href='#collapseOne'>{footer_title}</a></h6></small>")
-  footer_body <- str_glue("<div id='collapseOne' class='collapse hide' data-bs-parent='#accordion'>{footer_content}</div>")
-  str_glue("<div id='accordion'><div class='card-footer text-muted'>{footer_head}{footer_body}</div></div>")
+generate_id <- function(title) {
+  str_to_lower(str_sub(str_remove_all(title, "[^\\w\\d]"), 1L, 6L))
 }
-
-card_header_row <- function(string, href = NULL, fa_icon = "fa-solid fa-link") {
-  if (is.null(href)) {
-    str_glue("<h5 class='card-header'><small>{string}</small></h5>")
-  } else {
-    str_glue("<h5 class='card-header d-flex justify-content-between align-items-center'><small>{string}</small><a href={href} class='card-link'><i class='{fa_icon} fa-lg px-2'></i></a></h5>")
-  }
-}
-
-card_title_block <- function(title_string, subtitle_string = NULL, title_href = NULL, subtitle_href = NULL, title_icon = "fa-solid fa-link", subtitle_icon = "fa-solid fa-link") {
-    title <- if (!is.null(title_href)) sprintf("<h5 class='card-title d-inline-flex'><small>%s</small><a href=%s class='card-link'><i class='%s fa-lg'></i></a></h5>", title_string, title_href, title_icon) else sprintf("<h5 class='card-title'><small>%s</small></h5>", title_string)
-    subtitle <- if (is.null(subtitle_string)) "" else if (is.null(subtitle_href)) sprintf("<h6 class='card-subtitle text-muted'><small>%s</small></h6>", subtitle_string) else sprintf("<h6 class='card-subtitle text-muted d-inline-flex'><small>%s</small><a href=%s class='card-link'><i class='%s fa-lg'></i></a></h6>", subtitle_string, subtitle_href, subtitle_icon)
-
-    return(paste0(title, subtitle))
-}
-
-card_data_button <- function(string) {
-  str_glue("<button type='button' class='btn btn-outline-dark'>{string}</button>")
-}
-card_data_li <- function(string) {
-  str_glue("<button type='button' class='list-group-item btn btn-outline-dark'>{string}</button>")
-}
-
-card_data_list <- function(data_list, list_header = NULL) {
-  title <- if (is.null(list_header)) "" else sprintf("<h5 class='card-title'><small>%s: </small></h5>", list_header)
-  str_glue("<ul class='list-group list-group-horizontal'>{str_flatten(unlist(map(data_list, card_data_li)), na.rm = TRUE)}</div>")
-}
-card_data_row <- function(buttons) {
-  str_glue("<div class='d-flex justify-content-between align-items-center'>{str_flatten(buttons, na.rm = TRUE)}</div>")
-}
-
-
-render_card <- function(header_string, data_strings = list(NULL), data_list = list(NULL), data_list_title = NULL, title_string = NULL, subtitle_string = NULL, footer_title = NULL, footer_content = NULL, header_href = NULL, title_href = NULL, subtitle_href = NULL, header_icon = "fa-solid fa-link", title_icon = "fa-solid fa-link", subtitle_icon = "fa-solid fa-link", card_class = "primary") {
-  footer <- if (is.null(footer_content) || is.null(footer_title)) "" else card_footer_collapse(footer_title = footer_title, footer_content = footer_content)
-  title  <- if (is.null(title_string)) "" else card_title_block(title_string = title_string, subtitle_string = subtitle_string, title_href = title_href, subtitle_href = subtitle_href, title_icon = title_icon, subtitle_icon = subtitle_icon)
-  body_list <- if (length(data_list) < 1) "" else card_data_list(data_list = data_list, list_header = data_list_title)
-  body_row  <- if (length(data_strings) < 1) "" else card_data_row(unlist(map(data_strings, card_data_button)))
-  card_data <- list(
-    class  = card_class,
-    header = card_header_row(string = header_string, href = header_href, fa_icon = header_icon),
-    title  = title,
-    body   = paste0(body_row, body_list),
-    footer = footer
-  )
-  return(as.character(str_glue_data(card_data, "<div class='card border-{class} my-2 w-auto'>{header}<div class='card-body'>{title}{body}{footer}</div></div>")))
-}
-
-
-podcast_card_html <- function(podcast, course_name = str_remove(params$course, "_.+$")) {
-  if (length(podcast) < 1 || is.null(podcast)) return(NULL)
-
-  classes <- str_extract(pluck(podcast, "classes_assigned", 1, "class_day"), "(?<=_).+$")
-  dates   <- str_extract(pluck(podcast, "classes_assigned", 1, "date"),"(?<=2026-)\\d+-\\d+")
-  deadline <- sprintf("%s (%s)", dates, classes)
-  transcript_link <- sprintf("<a href='https://rich-molecular-health-lab.github.io/courses/%s/podcast/%s.html' class='card-link'><i class='fa-solid fa-link fa-lg px-2'></i>Transcript</a>", course_name, pluck(podcast, "title"))
-
-  card_out <- render_card(
-    header_string = str_remove_all(pluck(podcast, "title"), "_"),
-    data_strings  = list(
-      paste("Listen before", deadline),
-      paste("Duration:", pluck(podcast, "duration_string")),
-      paste("Released:", year(ymd(pluck(podcast, "released")))),
-      transcript_link
-    ),
-    title_string = pluck(podcast, "series"),
-    footer_title = "Description",
-    footer_content = sprintf("<p>%s</p>", str_squish(pluck(podcast, "description"))),
-    header_href = pluck(podcast, "url_spotify"),
-    title_href  = pluck(podcast, "series_spotify"),
-    header_icon = "fa-brands fa-spotify",
-    title_icon  = "fa-solid fa-rss",
-    card_class  = "primary"
-  )
-
-  return(card_out)
-}
-
-attachment_link <- function(course = str_remove(params$course, "_.+$")) {
-  if (str_detect(course, "conbio")) return("https://github.com/Rich-Molecular-Health-Lab/courses/tree/dd050e72ed98ad06b7b22d968acc7bd49b290587/conbio/attachments") else return("https://github.com/Rich-Molecular-Health-Lab/courses/tree/dd050e72ed98ad06b7b22d968acc7bd49b290587/hhe/attachments")
-}
-
-lit_card_html <- function(literature, course_name = str_remove(params$course, "_.+$")) {
-  if (length(literature) < 1 || is.null(literature)) return(NULL)
-
-  classes <- str_extract(pluck(literature, "classes_assigned", 1, "class_day"), "(?<=_).+$")
-  dates   <- str_extract(pluck(literature, "classes_assigned", 1, "date"),"(?<=2026-)\\d+-\\d+")
-  deadline <- sprintf("%s (%s)", dates, classes)
-  pdf_link <- sprintf("<a class='card-link' href=%s/%s.pdf>Local PDF <i class='fa-solid fa-link fa-lg px-2'></i></a>", attachment_link(course = course_name), pluck(literature, "citekey"))
-
-  card_out <- render_card(
-    header_string = sprintf("%s et al. (%s)", str_to_title(pluck(literature, "author_first")), pluck(literature, "year")),
-    data_strings  = list(
-      paste("Read before", deadline),
-      pdf_link,
-      paste("DOI:", pluck(literature, "doi"))
-    ),
-    title_string    = str_remove_all(pluck(literature, "title"), "_"),
-    subtitle_string = pluck(literature, "journal"),
-    footer_title = "Abstract",
-    footer_content = sprintf("<p>%s</p>", str_squish(pluck(literature, "description"))),
-    header_href = pluck(literature, "url"),
-    card_class  = "info"
-  )
-
-  return(card_out)
-}
-
-text_card_html <- function(chapters, course_name = str_remove(params$course, "_.+$"), text_url = "https://conbio.org/publications/free-textbook/") {
-  if (length(chapters) < 1 || is.null(chapters)) return(NULL)
-
-  classes <- str_extract(pluck(chapters, "classes_assigned", 1, "class_day"), "(?<=_).+$")
-  dates   <- str_extract(pluck(chapters, "classes_assigned", 1, "date"),"(?<=2026-)\\d+-\\d+")
-  deadline <- sprintf("%s (%s)", dates, classes)
-  pdf_link <- sprintf("<a class='card-link' href=%s/%s.pdf>Local PDF <i class='fa-solid fa-link fa-lg px-2'></i></a>", attachment_link(course = course_name), pluck(chapters, "citekey"))
-
-  card_out <- render_card(
-    header_string = sprintf("Chapter %.0f", pluck(chapters, "chapter")),
-    data_strings  = list(
-      paste("Read before", deadline),
-      pdf_link,
-      paste("Pages:", pluck(chapters, "pages"))
-    ),
-    data_list       = pluck(chapters, "sections_assigned"),
-    data_list_title = "Chapter Sections",
-    title_string    = str_squish(pluck(chapters, "title")),
-    subtitle_string = pluck(chapters, "text_title"),
-    subtitle_href   = text_url,
-    card_class  = "info"
-  )
-
-  return(card_out)
-}
-
-case_card_html <- function(case_convo) {
-  if (length(case_convo) < 1 || is.null(case_convo)) return(NULL)
-
-  classes <- str_extract(pluck(case_convo, "classes_assigned", 1, "class_day"), "(?<=_).+$")
-  dates   <- str_extract(pluck(case_convo, "classes_assigned", 1, "date"),"(?<=2026-)\\d+-\\d+")
-  deadline <- sprintf("%s (%s)", dates, classes)
-
-  card_out <- render_card(
-    header_string = sprintf("Case Conversation %.0f", pluck(case_convo, "number")),
-    data_list       = pluck(case_convo, "leaders"),
-    data_list_title = "Leaders",
-    title_string    = str_squish(pluck(case_convo, "topic")),
-    subtitle_string = deadline,
-    card_class      = "success"
-  )
-
-  return(card_out)
-}
-
 
 
 format_unit <- function(x) {
   unit <- pluck(x, "unit", 1, "title")
-   if (str_detect(unit, "(Exam)|(Break)")) {
-      return("")
+  if (str_detect(unit, "(Exam)|(Break)")) {
+    return("")
   } else {
     return(remove_course_prefix(unit))
-    }
-}
-
-
-icon_string <- function(string = NULL, href = NULL, fa_icon = "fa-solid fa-link") {
-  if (is.null(string) & is.null(href)) return("")
-
-  if (!is.null(href) && !is.null(string)) {
-    as.character(str_glue("<span><a class='nav-link active' href={href}><i class='{fa_icon}'></i></a> {string}</span>"))
-  } else if (is.null(href) && !is.null(string)) {
-    as.character(str_glue("<span><i class='{fa_icon}'></i> {string}</span>"))
-  } else {
-    as.character(str_glue("<a class='nav-link active' href={href}><i class='{fa_icon}'></i></a>"))
   }
-}
-
-format_chapters <- function(course = str_remove(params$course, "_.+$")) {
-  if (!file_exists(here::here(course, "textbook.yaml"))) return(NULL)
-  yaml::read_yaml(here::here(course, "textbook.yaml")) %>%
-    map(\(x) list_assign(
-      x,
-      table_string = icon_string(string = pluck(x, "title"), href = sprintf("%s/%s", attachment_link(course = course), pluck(x, "attachments", 1)), fa_icon = "fa-solid fa-book-open-reader"),
-      card         = text_card_html(x, course_name = course),
-      class_days   = pluck(x, "classes_assigned", 1, "class_day")
-    )) %>%
-    map(\(x) keep_at(x, c("table_string", "card", "class_days")))
-}
-
-
-format_literature <- function(course = str_remove(params$course, "_.+$")) {
-  if (!file_exists(here::here(course, "literature.yaml"))) return(NULL)
-  yaml::read_yaml(here::here(course, "literature.yaml")) %>%
-    map(\(x) list_assign(
-      x,
-      table_string = icon_string(string = sprintf("%s et al. %s", pluck(x, "author_first"), pluck(x, "year")), href = sprintf("%s/%s", attachment_link(course = course), pluck(x, "attachments", 1)), fa_icon = "fa-solid fa-scroll"),
-      card         = lit_card_html(x, course_name = course),
-      class_days   = pluck(x, "classes_assigned", 1, "class_day")
-    )) %>%
-    map(\(x) keep_at(x, c("table_string", "card", "class_days")))
-}
-
-format_background <- function(course = str_remove(params$course, "_.+$")) {
-  if (str_detect(course, "conbio")) {
-
-    background <- as.list(format_chapters(course = course), format_literature(course = course))
-
-  } else if (str_detect(course, "hhe")) {
-    if (!file_exists(here::here(course, "podcast.yaml"))) return(NULL)
-    background <- yaml::read_yaml(here::here(course, "podcast.yaml")) %>%
-      map(\(x) list_assign(
-        x,
-        table_string = icon_string(string = pluck(x, "series"), href = pluck(x, "url_spotify"), fa_icon = "fa-brands fa-spotify"),
-        card         = podcast_card_html(x, course_name = course),
-        class_days   = pluck(x, "classes_assigned", 1, "class_day")
-      )) %>%
-      map(\(x) keep_at(x, c("table_string", "card", "class_days")))
-  }
-
-  return(background)
-}
-
-
-format_case_convos <- function(course = str_remove(params$course, "_.+$")) {
-  if (!file_exists(here::here(course, "case_convos.yaml"))) return(NULL)
-
-    case_convos <- yaml::read_yaml(here::here(course, "case_convos.yaml")) %>%
-      map(\(x) list_assign(
-        x,
-        table_string = icon_string(string = pluck(x, "title"), fa_icon = "fa-brands fa-discourse"),
-        card         = case_card_html(x)
-      )) %>%
-      map(\(x) keep_at(x, c("table_string", "card", "class_days")))
-
-  return(case_convos)
-}
-
-
-slides_href <- function(x, course = str_remove(params$course, "_.+$")) {
-  if (is.null(x)) return(NULL) else if (str_starts(x, "http")) return(x) else return(paste(course_url_prefix(course), "slides", x, "index.html", sep = "/"))
-}
-
-format_topics <- function(course = str_remove(params$course, "_.+$")) {
-  if (!file_exists(here::here(course, "topics.yaml"))) return(NULL)
-  topics <- yaml::read_yaml(here::here(course, "topics.yaml")) %>%
-    map(\(x) list_assign(
-      x,
-      slides = map(pluck(x, "slides"), slides_href)
-      )) %>%
-    map(\(x) list_assign(
-      x,
-      slides = str_flatten(map(pluck(x, "slides"), \(y) icon_string(href = y, fa_icon = "fa-brands fa-slideshare")), collapse = " ", na.rm = TRUE)
-      )) %>%
-    map(\(x) list_assign(
-      x,
-      table_string = str_glue_data(x, "<span>{remove_course_prefix(title)} {slides}</span>"),
-      card         = NULL
-      )) %>%
-    map(\(x) keep_at(x, c("table_string", "card", "class_days")))
-
-  return(topics)
 }
 
 row_vals <- function(x) {
@@ -300,68 +369,54 @@ row_vals <- function(x) {
   }
 }
 
-import_schedule <- function(course = str_remove(params$course, "_.+$")) {
-  yaml::read_yaml(here::here(course, "schedule.yaml")) %>%
-    set_names(map(., \(x) str_extract(pluck(x, "class_day"), "(?<=_).+$"))) %>%
-    map(\(x) list_assign(
-      x,
-      row  = row_vals(x),
-      unit = format_unit(x)
-      ))
+
+download_pdf <- function(citekey) {
+  str_glue("<a href=attachments/{citekey}.pdf><span class='mx-3'><i class='fa-solid fa-file-pdf'></i></span></a>")
+}
+
+etext_url <- function(isbn) {
+  url <- if (str_detect(isbn, "95542")) "https://conbio.org/publications/free-textbook/" else "https://bookshelf.vitalsource.com/reader/books/9780197667033"
+  str_glue("<a href={url}><span class='mx-3'><i class='fa-solid fa-link'></i></span></a>")
+}
+
+other_url <- function(href, fa_icon = "fa-solid fa-link") {
+  str_glue("<a href={href}><span class='mx-3'><i class='{fa_icon}'></i></span></a>")
+}
+
+slides_button <- function(slides) {
+  if (is.null(slides) || length(slides) < 1) return("")
+  url <- if (str_starts(slides, "http")) slides else sprintf("attachments/%s/index.html", slides)
+  str_glue("<a class='btn btn-outline-primary p-3 m-2' href={url}>Slides <i class='fa-solid fa-link'></i></a>")
+}
+
+sections_assigned <- function(sections) {
+  if (is.null(sections)) return ("All") else return(str_flatten_comma(sections, na.rm = TRUE))
+}
+
+case_leaders <- function(leaders) {
+  if (length(leaders) < 1 || is.null(leaders)) return(NULL)
+  sprintf("<div class='d-flex justify-content-start align-content-start'><h6>Leaders:</h6>%s</div>", list_grp_body(str_flatten(unlist(map(leaders, list_item_basic)), na.rm = TRUE)))
+}
+
+list_grp_body <- function(items) {
+  if (is.null(items) || length(items) < 1) return(NULL)
+  str_glue("<ul class='list-group list-group-horizontal'>{str_flatten(items, na.rm = TRUE)}</ul>")
+}
+
+list_item_body <- function(name, value, class="primary") {
+  str_glue("<li class='list-group-item list-group-item-{class} d-flex justify-content-between align-items-center'><span class='badge bg-{class}'>{name}</span>{value}</li>")
+}
+
+list_item_basic <- function(value, class="light") {
+  str_glue("<li class='list-group-item list-group-item-{class}'>{value}</li>")
+}
+
+card_footer_collapse <- function(footer_title, footer_content) {
+  footer_id <- generate_id(footer_title)
+  footer_head <- str_glue("<small><div class='card-header'><a class='collapsed btn' data-bs-toggle='collapse' href='#{footer_id}'>{footer_title}</a></div></small>")
+  footer_body <- str_glue("<div id='{footer_id}' class='collapse hide' data-bs-parent='#accordion{footer_id}'>{footer_content}</div>")
+  str_glue("<div id='accordion{footer_id}'><div class='card-footer text-muted'>{footer_head}{footer_body}</div></div>")
 }
 
 
 
-
-flatten_content <- function(content) {
-  if (length(content) < 1 || is.null(content)) return(content)
-    strings <- map(content, \(x) keep_at(x, "table_string")) %>%
-      list_flatten()
-    cards <- map(content, \(x) keep_at(x, "card")) %>%
-      list_flatten() %>%
-      unlist() %>%
-      unique() %>%
-      str_flatten(na.rm = TRUE)
-    cards_html <- if (length(cards) < 1) NA_character_ else if (length(cards) > 1) str_glue("<div class='d-flex justify-content-around align-items-start w-auto my-1 mx-0 p-0'>{cards}</div>") else cards
-    return(list(
-      table_string = str_flatten_comma(unique(unlist(strings)), na.rm = TRUE),
-      card         = cards_html
-    ))
-}
-
-format_schedule <- function(schedule_list, course = str_remove(params$course, "_.+$")) {
-  background  <- format_background(course = course)
-  topics      <- format_topics(course = course)
-  case_convos <- format_case_convos(course = course)
-  map(schedule_list, \(x) list_assign(
-    x,
-    background = compact(keep(background, \(y) all(pluck(x, "class_day") %in% pluck(y, "class_days")))),
-    topics     = compact(keep(topics, \(y) all(pluck(x, "class_day") %in% pluck(y, "class_days")))),
-    case_convos = compact(keep(case_convos, \(y) all(pluck(x, "class_day") %in% pluck(y, "class_days"))))
-  )) %>%
-    map(\(x) list_assign(
-      x,
-      background = flatten_content(pluck(x, "background")),
-      topics     = flatten_content(pluck(x, "topics")),
-      case_convos = flatten_content(pluck(x, "case_convos"))
-    )) %>%
-    map(\(x) list_assign(
-      x,
-      background = pluck(x, "background", "table_string"),
-      background_detail = pluck(x, "background", "card"),
-      topics     = str_flatten_comma(c(pluck(x, "topics", "table_string"), pluck(x, "case_convos", "table_string")), na.rm = TRUE),
-      topics_detail = pluck(x, "case_convos", "card")
-    )) %>%
-    map(\(x) keep_at(x, c(
-      "row",
-      "class_day",
-      "date",
-      "week",
-      "day",
-      "unit",
-      "topics",
-      "background",
-      "topics_detail",
-      "background_detail"
-    )))
-}

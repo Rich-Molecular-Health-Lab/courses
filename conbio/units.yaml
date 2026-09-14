@@ -163,15 +163,15 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
-    - "Contemporary Conservation Biology"
-    - "Biodiversity Concepts and Measurement Slides"
+    - "Contemporary_Conservation_Biology"
+    - "Biodiversity_Concepts_&_Measurement"
   background:
     - "Conservation biology - past and present 1"
     - "Biodiversity"
     - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
   slides:
-    - "Contemporary Conservation Biology"
-    - "Biodiversity Concepts and Measurement Slides"
+    - "Contemporary_Conservation_Biology"
+    - "Biodiversity_Concepts_&_Measurement"
   course_name: "Conservation Biology"
   title: "Foundations of Conservation Biology"
 - unit:

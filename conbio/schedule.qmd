@@ -22,25 +22,7 @@ source(here::here("_schedule.R"))
 
 course <- str_remove(params$course, "_.+$")
 
-schedule_tbl <- import_schedule(course) %>%
-  format_schedule(course = course) %>%
-  enframe(name = "week_day") %>%
-  unnest_wider(value) %>%
-  mutate(
-    wday = format(as.POSIXct(date), format = "%a"),
-    date = format(as.POSIXct(date), format = "%b %e")
-    ) %>%
-  select(
-    week,
-    wday,
-    date,
-    unit,
-    topics,
-    background,
-    row,
-    topics_detail,
-    background_detail
-  )
+schedule_list <- populate_schedule(course = course)
 ```
 
 
@@ -55,48 +37,13 @@ Textbook sections should be read before the class for which they are listed.
 :::
 
 
-```{r}
-#| include: false
-
-schedule <- reactable(
-  schedule_tbl,
-  sortable        = FALSE,
-  pagination      = FALSE,
-  elementId       = "schedule",
-  rowClass        = JS(" function(rowInfo) { return rowInfo.values['row'] } "),
-  defaultColDef   = colDef(minWidth = 100, style = merge_rows(), vAlign = "top"),
-  columns    = list(
-    week       = colDef("W"      , maxWidth = 50 ),
-    wday       = colDef("D"      , maxWidth = 50 ),
-    date       = colDef("Date"   , maxWidth = 100),
-    unit       = colDef("Unit"   , maxWidth = 140, html = TRUE, class = topic_class()),
-    topics     = colDef("Topic"  , html = TRUE, class = topic_class(), details = topic_detail()),
-    background  = colDef("Due"  , html = TRUE, class = topic_class(), details = background_detail()),
-    row        = colDef(show = FALSE),
-    topics_detail = colDef(show = FALSE),
-    background_detail = colDef(show = FALSE)
-  )
-)
-
-```
 
 ```{r}
 #| include: true
 #| column: page-inset
+#| results: asis
 
-tags$button(
-      class = "btn btn-primary",
-     "Expand/Collapse All Weeks",
-     onclick = "Reactable.toggleAllRowsExpanded('schedule')",
-     )
-```
-
-
-```{r}
-#| include: true
-#| column: page-inset
-
-schedule
+accord_top(schedule_list)
 ```
 
 :::

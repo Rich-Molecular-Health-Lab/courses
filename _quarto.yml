@@ -2,8 +2,12 @@ project:
   type: website
   output-dir: "docs"
   execute-dir: project
+  resources:
+    - "conbio/slides/"
+    - "hhe/slides/"
+    - "conbio/attachments/"
+    - "hhe/attachments/"
   render:
-    - "films/*.qmd"
     - "resources/**"
     - "!resources/*/_*/**"
     - "*_resources.qmd"
@@ -36,8 +40,6 @@ website:
             href: "conbio/schedule.qmd"
           - text: "Syllabus"
             href: "syllabi/conbio.qmd"
-          - text: "Resources"
-            href: "conbio_resources.qmd"
       - text: "Human Health & the Environment"
         menu:
           - text: "Course Homepage"
@@ -46,8 +48,6 @@ website:
             href: "hhe/schedule.qmd"
           - text: "Syllabus"
             href: "syllabi/hhe.qmd"
-          - text: "Resources"
-            href: "hhe_resources.qmd"
       - text: "Biology 2 Lab"
         menu:
           - text: "Resources"
@@ -63,5 +63,5 @@ website:
 
 profile:
   group:
-    - [basic, schedule, syllabus, slides, resource, listings, film]
+    - [basic, schedule, syllabus, resource, listings]
   default: basic
