@@ -94,7 +94,7 @@ Learn more about using KaTeX [on the website](https://katex.org)!
 
 ### Code Contributors
 
-This project exists thanks to all the people who contribute code. If you'd like to help, see [our guide to contributing code](2_Areas/24_Teaching/0_Slides/Floods_&_Hurricanes/plugin/menu/CONTRIBUTING.md).
+This project exists thanks to all the people who contribute code. If you'd like to help, see [our guide to contributing code](CONTRIBUTING.md).
 <a href="https://github.com/KaTeX/KaTeX/graphs/contributors"><img src="https://contributors-svg.opencollective.com/katex/contributors.svg?width=890&button=false" alt="Code contributors" /></a>
 
 ### Financial Contributors

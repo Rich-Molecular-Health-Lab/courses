@@ -80,8 +80,8 @@
     - title: "A Storm is Brewing_ Is it Climate Change?"
       path: "podcast/A Storm is Brewing_ Is it Climate Change?.html"
   slides:
-    - title: "Climate Change Introduction"
-      path: "slides/Climate Change Introduction/index.html"
+    - title: "Climate_Change_Introduction"
+      path: "slides/Climate_Change_Introduction/index.html"
 - date: "2026-09-10T16:00:00"
   class_day: "ENVN4320_W3D2"
   week: 3
