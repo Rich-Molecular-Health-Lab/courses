@@ -74,6 +74,7 @@
     - "2026-09-15T16:00:00"
     - "2026-09-17T16:00:00"
   content:
+    - "Wildfires"
     - "Climate_Change_Introduction"
   background:
     - "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
@@ -83,6 +84,7 @@
     - "What we lose if the Great Salt Lake dries up"
     - "A Storm is Brewing_ Is it Climate Change?"
   slides:
+    - "Wildfires"
     - "Climate_Change_Introduction"
   course_name: "Human Health & the Environment"
   title: "Disasters"

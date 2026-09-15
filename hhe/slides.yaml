@@ -31,3 +31,40 @@
   attachments:
     - "Climate_Change_Introduction.jpg"
     - "Climate_Change_Introduction-3.jpg"
+- title: "Wildfires"
+  topics:
+    - "Fires"
+  tags:
+    - "teaching"
+    - "slides"
+  area: "teaching"
+  class_days:
+    - "ENVN4320_W4D1"
+  themes:
+    - "Disasters"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  course_prefix: "ENVN"
+  course_number: 4320
+  course_name: "Human Health & the Environment"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  image: "forest_fire.jpeg"
+  dates:
+    - "2026-09-15T16:00:00"
+  profile:
+    - "slides"
+    - "hhe"
+  categories:
+    - "slides"
+    - "ENVN4320"
+  attachments:
+    - "forest_fire.jpeg"
+    - "FirePyramids_BW_lg.jpg"
+    - "airborne-pollutants.png"
+    - "northamerica_geos5_2021202_lrg.jpg"
+    - "aqi.png"
+    - "air-health.png"

@@ -448,7 +448,8 @@
     - "Are extreme wildfires the new normal?"
     - "Catching Fire"
   quizzes: null
-  slides: null
+  slides:
+    - "Wildfires"
   videos: null
   films: null
   exercises: null
