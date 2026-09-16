@@ -186,6 +186,7 @@
   slides:
     - "https://canva.link/9u0qo7yq40d34nu"
     - "https://canva.link/p3f89pahovuj46e"
+    - "Extinction Threats"
   videos: null
   films: null
   exercises: null
@@ -237,12 +238,12 @@
     - "Exams BIOL4120"
   chapter: null
   section: null
-  days_needed: 1
   semesters:
     - "26f"
   course_prefix: "BIOL"
   course_number: "4120"
-  class_days: null
+  class_days:
+    - "BIOL4120_W17D1"
   projects:
     - "Conservation Biology Fall 2026"
   background: null
@@ -260,7 +261,7 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    []
+    - "2026-12-14T17:00:00"
   course_name: "Conservation Biology"
 - title: "Habitat Loss, Fragmentation, and Degradation"
   unit:

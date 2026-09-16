@@ -18,7 +18,6 @@
     - "BIOL4120_W2D2"
     - "BIOL4120_W3D2"
     - "BIOL4120_W4D1"
-  image: "figures/Ch03/c03fig001.jpg"
   course_name: "Conservation Biology"
   margin: 0
   maxScale: 4
@@ -33,6 +32,10 @@
     - "BIOL4120"
   attachments:
     - "Biodiversity_Concepts_&_Measurement.jpg"
+    - "genetics-discovery-pipeline.png"
+    - "genome_size.png"
+    - "wild-type-gene-vs-gene-variant.png"
+    - "species-richness.png"
 - title: "Contemporary Conservation Biology"
   image: "figures/Ch02/c02fig008.jpg"
   topics:
@@ -67,3 +70,38 @@
     - "BIOL4120"
   attachments:
     - "Contemporary_Conservation_Biology.jpg"
+- title: "Extinction Threats"
+  image: "extinction_statista.jpeg"
+  class_days:
+    - "BIOL4120_W4D2"
+    - "BIOL4120_W5D1"
+  projects:
+    - "Conservation Biology Fall 2026"
+  course_prefix: "BIOL"
+  course_number: 4120
+  tags:
+    - "teaching"
+    - "slides"
+  area: "teaching"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  topics:
+    - "Extinction"
+  themes:
+    - "Threats to Biodiversity"
+  dates:
+    - "2026-09-16T16:00:00"
+    - "2026-09-21T16:00:00"
+  course_name: "Conservation Biology"
+  profile:
+    - "slides"
+    - "conbio"
+  categories:
+    - "slides"
+    - "BIOL4120"
+  attachments:
+    - "extinction_statista.jpeg"
+    - "direwolf.jpg"

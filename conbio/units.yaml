@@ -105,9 +105,11 @@
     - "Exam 1 BIOL4120"
     - "Final Exam BIOL4120"
   class_days:
+    - "BIOL4120_W17D1"
     - "BIOL4120_W8D2"
   dates:
     - "2026-10-14T16:00:00"
+    - "2026-12-14T17:00:00"
   exams: null
   films: null
   case_convos:
@@ -269,6 +271,7 @@
   content:
     - "https://canva.link/9u0qo7yq40d34nu"
     - "https://canva.link/p3f89pahovuj46e"
+    - "Extinction Threats"
   background:
     - "Overharvesting"
     - "Invasive Species"
@@ -279,5 +282,6 @@
   slides:
     - "https://canva.link/9u0qo7yq40d34nu"
     - "https://canva.link/p3f89pahovuj46e"
+    - "Extinction Threats"
   course_name: "Conservation Biology"
   title: "Threats to Biodiversity"
