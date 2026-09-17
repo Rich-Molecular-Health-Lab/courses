@@ -1,0 +1,189 @@
+---
+profile: 
+  - "schedule"
+  - "hhe"
+image: "../graphics/schedule_change.png"
+params:
+  course: "hhe_26f"
+categories:
+  - "schedules"
+  - "ENVN4320"
+execute:
+  echo: false
+  warning: false
+---
+
+
+```{r}
+#| context: setup
+#| include: false
+
+source(here::here("_common.R"))
+source(here::here("_schedule.R"))
+
+course <- str_remove(params$course, "_.+$")
+```
+
+```{r}
+background <- import_background(course = course)
+```
+
+
+```{r}
+content     <- import_content("topics")
+  type <- pluck(content, 1, "type")
+```
+
+
+```{r}
+vars <- unique(unlist(map(content, names)))
+```
+
+
+```{r}
+vars_dup <- unlist(discard(vars, \(y) all(y %in% c("class_days", "tags", "dates"))))
+
+```
+
+```{r}
+vars_keep <- unlist(discard(vars, \(y) any(y %in% c(
+    "section",
+    "days_needed",
+    "themes",
+    "projects",
+    "background",
+    "area",
+    "created",
+    "datetimeModified",
+    "course_name",
+    "course_prefix",
+    "course_number",
+    "semesters",
+    "tags",
+    "classes_assigned",
+    "zotero_uri",
+    "zotero_pdf_path",
+    "profile",
+    "categories",
+    "category",
+    "topics",
+    "keywords"
+  ))))
+```
+
+
+```{r}
+revised <- discard(content, \(x) any(
+    length(pluck(x, "class_days")) < 1
+  ))  %>%
+    map(\(x) keep_at(x, vars_keep)) %>%
+    map(\(x) map_at(x, vars_dup, \(y) list(y)))  %>%
+    map(\(x) modify_at(
+      x,
+      vars_dup,
+      \(y) rep(y, length(pluck(x, "class_days")))
+    )) %>%
+    map(\(x) map_at(x, c("class_days", "dates"), \(y) as.list(y))) %>%
+    map_depth(2, compact) %>%
+    map_depth(1, compact)  %>%
+    map(transpose) %>%
+    map(\(x) set_names(x, map(x, \(y) pluck(y, "class_days")))) %>%
+    set_names(map(., \(x) pluck(x, 1, "title")))
+```
+
+
+```{r}
+revised <- discard(content, \(x) any(
+    length(pluck(x, "class_days")) < 1
+  ))  %>%
+    map(\(x) keep_at(x, vars_keep)) %>%
+    map(\(x) map_at(x, vars_dup, \(y) list(y))) %>%
+    map(\(x) modify_at(
+      x,
+      vars_dup,
+      \(y) rep(y, length(pluck(x, "class_days")))
+    )) %>%
+    map(\(x) map_at(x, c("class_days", "dates"), \(y) as.list(y))) %>%
+    map_depth(2, compact) %>%
+    map_depth(1, compact)  %>%
+    map(transpose) %>%
+    map(\(x) set_names(x, map(x, \(y) pluck(y, "class_days")))) %>%
+    set_names(map(., \(x) pluck(x, 1, "title")))
+
+  if (type %in% c("literature", "textbook", "podcast")) {
+    return(list_flatten(revised, name_spec = "{inner}"))
+  } else {
+    return(revised)
+  }
+```
+
+
+```{r}
+cases      <- format_content(import_content("case_convos", course = course))
+```
+
+```{r}
+types <- list("topics", "case_convos") %>%
+    keep(\(x) file_exists(here::here(course, sprintf("%s.yaml", x))))
+```
+
+
+```{r}
+agenda <- map(types, \(x) format_content(import_content(x, course = course))) %>%
+    list_flatten(name_spec = "{inner}")
+
+```
+
+
+```{r}
+schedule   <- import_schedule(course = course) %>%
+    format_schedule() %>%
+    map_depth(2, \(x) list_assign(
+      x,
+      agenda     = keep(agenda, \(y) any(names(y) %in% pluck(x, "class_day"))),
+      background = keep_at(background, pluck(x, "class_day")),
+      cases      = keep(cases, \(y) any(names(y) %in% pluck(x, "class_day")))
+    ))  %>%
+    map_depth(2, compact) %>%
+    map_depth(2, \(x) modify_at(
+      x,
+      c("agenda", "cases"),
+      \(y) list_flatten(
+        map(y, \(z) keep_at(z, pluck(x, "class_day"))),
+        name_spec = "{outer}"
+      )
+    )) %>%
+    map_depth(
+      2,
+      \(x) modify_at(x, "background", \(y) map(y, content_background))
+    ) %>%
+    map_depth(
+      2,
+      \(x) modify_at(x, "cases", \(y) map(y, content_cases))
+    ) %>%
+    map_depth(
+      2,
+      \(x) list_assign(
+        x,
+        slides = str_flatten(
+          unlist(
+            map(
+              pluck(x, "agenda"),
+              \(y) pluck(y, "slides")
+            )
+          ),
+          na.rm = TRUE
+        ),
+        background = flatten_background(x)
+      )
+    ) %>%
+    map_depth(2, blank_rows)
+
+```
+
+
+
+```{r}
+schedule_list <- populate_schedule(course = course)
+```
+

@@ -96,6 +96,8 @@ import_content <- function(type, course = str_remove(params$course, "_.+$")) {
 
   init <- yaml::read_yaml(file = here::here(course, sprintf("%s.yaml", type)))
 
+  if (is.null(init) || length(init) < 1) return(NULL)
+
   if (type %in% c("textbook", "literature", "podcast")) {
     content <- map(init, \(x) modify_at(x, "classes_assigned", \(y) pluck_first_day(y))) %>%
       map(\(x) list_assign(
@@ -135,8 +137,9 @@ import_agenda <- function(course = str_remove(params$course, "_.+$")) {
 }
 
 format_content <- function(content) {
+  if (is.null(content) || length(content) < 1) return(NULL)
   type <- pluck(content, 1, "type")
-  vars <- names(pluck(content, 1))
+  vars <- unique(unlist(map(content, names)))
   vars_dup <- unlist(discard(vars, \(y) all(y %in% c("class_days", "tags", "dates"))))
   vars_keep <- unlist(discard(vars, \(y) any(y %in% c(
     "section",
@@ -173,7 +176,7 @@ format_content <- function(content) {
       \(y) rep(y, length(pluck(x, "class_days")))
     )) %>%
     map(\(x) map_at(x, c("class_days", "dates"), \(y) as.list(y))) %>%
-    map_depth(-2, compact) %>%
+    map_depth(2, compact) %>%
     map_depth(1, compact)  %>%
     map(transpose) %>%
     map(\(x) set_names(x, map(x, \(y) pluck(y, "class_days")))) %>%

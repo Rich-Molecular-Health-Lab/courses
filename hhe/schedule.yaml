@@ -100,7 +100,8 @@
     - title: "Hurricane Katrina"
       path: "podcast/Hurricane Katrina.html"
   slides:
-    []
+    - title: "Floods_&_Hurricanes"
+      path: "slides/Floods_&_Hurricanes/index.html"
 - date: "2026-09-15T16:00:00"
   class_day: "ENVN4320_W4D1"
   week: 4
@@ -116,7 +117,8 @@
   background:
     []
   slides:
-    []
+    - title: "Floods_&_Hurricanes"
+      path: "slides/Floods_&_Hurricanes/index.html"
 - date: "2026-09-17T16:00:00"
   class_day: "ENVN4320_W4D2"
   week: 4
@@ -221,9 +223,11 @@
   status: "planned"
   location: "Allwine Hall 314"
   unit:
-    []
+    - title: "Infrastructure"
+      path: "units/Infrastructure.html"
   topics:
-    []
+    - title: "Healthy Housing"
+      path: "topics/Healthy Housing.html"
   background:
     []
   slides:
@@ -397,11 +401,20 @@
   status: "planned"
   location: "Allwine Hall 314"
   unit:
-    []
+    - title: "Pathogens"
+      path: "units/Pathogens.html"
   topics:
-    []
+    - title: "Vectors"
+      path: "topics/Vectors.html"
   background:
-    []
+    - title: "Our tick nightmare"
+      path: "podcast/Our tick nightmare.html"
+    - title: "Ticks are a growing problem, no matter where you live"
+      path: "podcast/Ticks are a growing problem, no matter where you live.html"
+    - title: "Should we reengineer the world's deadliest animal?"
+      path: "podcast/Should we reengineer the world's deadliest animal?.html"
+    - title: "A New Test for Lyme Disease, Developed by High Schoolers"
+      path: "podcast/A New Test for Lyme Disease, Developed by High Schoolers.html"
   slides:
     []
 - date: "2026-11-17T16:00:00"
@@ -417,14 +430,7 @@
     - title: "Vectors"
       path: "topics/Vectors.html"
   background:
-    - title: "Our tick nightmare"
-      path: "podcast/Our tick nightmare.html"
-    - title: "Ticks are a growing problem, no matter where you live"
-      path: "podcast/Ticks are a growing problem, no matter where you live.html"
-    - title: "Should we reengineer the world's deadliest animal?"
-      path: "podcast/Should we reengineer the world's deadliest animal?.html"
-    - title: "A New Test for Lyme Disease, Developed by High Schoolers"
-      path: "podcast/A New Test for Lyme Disease, Developed by High Schoolers.html"
+    []
   slides:
     []
 - date: "2026-11-19T16:00:00"

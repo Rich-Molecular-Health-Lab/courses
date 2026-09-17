@@ -69,6 +69,8 @@
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
+    - class_day: "ENVN4320_W12D2"
+      date: "2026-11-12T16:00:00"
   duration_string: "0:11:50"
   profile:
     - "podcast"
@@ -597,6 +599,8 @@
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
+    - class_day: "ENVN4320_W12D2"
+      date: "2026-11-12T16:00:00"
   duration_string: "0:28:42"
   profile:
     - "podcast"
@@ -714,6 +718,8 @@
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
+    - class_day: "ENVN4320_W12D2"
+      date: "2026-11-12T16:00:00"
   duration_string: "0:11:59"
   profile:
     - "podcast"
@@ -753,6 +759,8 @@
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
+    - class_day: "ENVN4320_W12D2"
+      date: "2026-11-12T16:00:00"
   duration_string: "0:13:14"
   profile:
     - "podcast"

@@ -31,6 +31,45 @@
   attachments:
     - "Climate_Change_Introduction.jpg"
     - "Climate_Change_Introduction-3.jpg"
+- title: "Floods & Hurricanes"
+  topics:
+    - "Floods"
+  tags:
+    - "teaching"
+    - "slides"
+  area: "teaching"
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+  themes:
+    - "Disasters"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  dates:
+    - "2026-09-10T16:00:00"
+    - "2026-09-15T16:00:00"
+  course_prefix: "ENVN"
+  course_number: 4320
+  course_name: "Human Health & the Environment"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  image: "figures/Amazing-natural-disasters.jpeg"
+  profile:
+    - "slides"
+    - "hhe"
+  categories:
+    - "slides"
+    - "ENVN4320"
+  attachments:
+    - "Floods_&_Hurricanes.jpeg"
+    - "Floods_&_Hurricanes.jpg"
+    - "Floods_&_Hurricanes.png"
+    - "Floods_&_Hurricanes-1.jpg"
+    - "Floods_&_Hurricanes-1.png"
+    - "Floods_&_Hurricanes-2.jpg"
 - title: "Wildfires"
   topics:
     - "Fires"
@@ -39,7 +78,6 @@
     - "slides"
   area: "teaching"
   class_days:
-    - "ENVN4320_W4D1"
     - "ENVN4320_W4D2"
   themes:
     - "Disasters"
