@@ -111,16 +111,12 @@
     - title: "Disasters"
       path: "units/Disasters.html"
   topics:
-    - title: "Fires"
-      path: "topics/Fires.html"
+    - title: "Floods"
+      path: "topics/Floods.html"
   background:
-    - title: "Are extreme wildfires the new normal?"
-      path: "podcast/Are extreme wildfires the new normal?.html"
-    - title: "Catching Fire"
-      path: "podcast/Catching Fire.html"
+    []
   slides:
-    - title: "Wildfires"
-      path: "slides/Wildfires/index.html"
+    []
 - date: "2026-09-17T16:00:00"
   class_day: "ENVN4320_W4D2"
   week: 4
@@ -131,17 +127,20 @@
     - title: "Disasters"
       path: "units/Disasters.html"
   topics:
-    - title: "Case Conversation 1 - Disasters"
-      path: "case_convos/Case Conversation 1 - Disasters.html"
-    - title: "Case Conversation 2 - Disasters"
-      path: "case_convos/Case Conversation 2 - Disasters.html"
     - title: "Drought"
       path: "topics/Drought.html"
+    - title: "Fires"
+      path: "topics/Fires.html"
   background:
+    - title: "Are extreme wildfires the new normal?"
+      path: "podcast/Are extreme wildfires the new normal?.html"
+    - title: "Catching Fire"
+      path: "podcast/Catching Fire.html"
     - title: "What we lose if the Great Salt Lake dries up"
       path: "podcast/What we lose if the Great Salt Lake dries up.html"
   slides:
-    []
+    - title: "Wildfires"
+      path: "slides/Wildfires/index.html"
 - date: "2026-09-22T16:00:00"
   class_day: "ENVN4320_W5D1"
   week: 5
@@ -222,13 +221,9 @@
   status: "planned"
   location: "Allwine Hall 314"
   unit:
-    - title: "Infrastructure"
-      path: "units/Infrastructure.html"
+    []
   topics:
-    - title: "Case Conversation 3 - Infrastructure"
-      path: "case_convos/Case Conversation 3 - Infrastructure.html"
-    - title: "Case Conversation 4 - Infrastructure"
-      path: "case_convos/Case Conversation 4 - Infrastructure.html"
+    []
   background:
     []
   slides:
@@ -402,13 +397,9 @@
   status: "planned"
   location: "Allwine Hall 314"
   unit:
-    - title: "Toxins"
-      path: "units/Toxins.html"
+    []
   topics:
-    - title: "Case Conversation 5 - Toxins"
-      path: "case_convos/Case Conversation 5 - Toxins.html"
-    - title: "Case Conversation 6 - Toxins"
-      path: "case_convos/Case Conversation 6 - Toxins.html"
+    []
   background:
     []
   slides:
@@ -545,13 +536,27 @@
   status: "planned"
   location: "Allwine Hall 314"
   unit:
-    - title: "Pathogens"
-      path: "units/Pathogens.html"
+    - title: "Review Days ENVN4320"
+      path: "units/Review Days ENVN4320.html"
   topics:
-    - title: "Case Conversation 7 - Pathogens"
-      path: "case_convos/Case Conversation 7 - Pathogens.html"
-    - title: "Case Conversation 8 - Pathogens"
-      path: "case_convos/Case Conversation 8 - Pathogens.html"
+    - title: "Poster Session"
+      path: "topics/Poster Session.html"
+  background:
+    []
+  slides:
+    []
+- date: "2026-12-15T17:00:00"
+  class_day: "ENVN4320_W17D1"
+  week: 17
+  day: 1
+  status: "planned"
+  location: "Allwine Hall 314"
+  unit:
+    - title: "Exams ENVN4320"
+      path: "units/Exams ENVN4320.html"
+  topics:
+    - title: "Final Exam ENVN4320"
+      path: "topics/Final Exam ENVN4320.html"
   background:
     []
   slides:

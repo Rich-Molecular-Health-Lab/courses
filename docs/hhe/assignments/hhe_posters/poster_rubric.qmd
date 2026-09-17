@@ -1,0 +1,146 @@
+---
+title: "Poster Project Rubric"
+subtitle: "Human Health and the Environment"
+date: December 11, 2025
+date-format: full
+format:
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+---
+
+## Summary
+
+Your posters will be evaluated during class on **Thursday, December 11, 2025.** You may assemble a poster any way you wish, or print a poster using the library's services. 
+
+If you worked in a group, you should add all members to a ***Poster Group*** on canvas. Then, only one member needs to upload a digital copy of your submission. If you assemble the poster by hand, you should take a photograph and submit the digital image **Submit the digital versions before 4:00 PM on Thursday, December 11, 2025.**
+
+### Assessment Totals
+
+| Category                       | Possible |
+|:-------------------------------|:--------:|
+| **Content and Understanding**  |          |
+| Depth and Relevance            | 15       |
+| Call to Action                 | 5        |
+|                                |          |
+| **Critical Thinking**          |          |
+| Originality and Synthesis      | 10       |
+| Audience Engagement            | 5        |
+|                                |          |
+| **Design and Impact**          |          |
+| Visual Appeal and Organization | 10       |
+| Overall Quality                | 5        |
+|                                |          |
+| **Total**                      | **50**   |
+
+: {tbl-colwidths="[70,10]"}
+
+{{< pagebreak >}}
+
+
+## Content and Understanding (15 + 5 = 20 points)
+
+### Depth and Relevance (15 points)
+
+*Does this poster...*
+
+- [ ] demonstrate a strong understanding of the topic by clearly connecting human health and environmental issues using multidisciplinary perspectives?
+- [ ] explain technical pathways accurately?
+- [ ] integrate key themes from the course, such as vulnerabilities, environmental determinants, and physiological impact?
+
+| Score | Criteria  |
+|-------|-----------|
+| 9-10 | Exceptional understanding and integration of course material; technical pathways are clear and insightful. |
+| 7-8   | Solid understanding with good integration, though some minor connections or details could be stronger. |
+| 5-6   | Basic understanding with limited connections or inaccuracies in technical explanations. |
+| 0-4   | Minimal or no understanding demonstrated; weak or irrelevant connections. |
+
+: {tbl-colwidths="[5,95]"}
+
+
+### Call to Action (5 points)
+
+*Does this poster...*
+
+- [ ] include a clear and actionable message tied directly to the issue?
+- [ ] present a call to action that is realistic, impactful, and well-supported by the poster content?
+
+| Score | Criteria  |
+|-------|-----------|
+| 5  | Highly actionable, relevant, and strongly connected to the issue. |
+| 3-4   | Clear and relevant, but could be more specific or impactful. |
+| 0-2   | Vague, unrealistic, or missing call to action. |
+
+: {tbl-colwidths="[5,95]"}
+
+
+## Critical Thinking (10 + 5 = 15 points)
+
+### Originality and Synthesis (10 points)
+
+*Does this poster...*
+
+- [ ] use creative approaches to presenting the issue and engaging the audience?
+- [ ] demonstrate critical thinking by analyzing vulnerabilities, systemic challenges, and trade-offs?
+- [ ] explore evidence-based solutions or connections to inspire meaningful action?
+
+| Score | Criteria  |
+|-------|-----------|
+| 10  | Exceptionally creative and thoughtful, with deep, nuanced analysis. |
+| 7-9  | Strong creativity and analysis, though some aspects could be more polished or in-depth. |
+| 4-6 | Somewhat creative or analytical, but largely conventional or surface-level. |
+| 0-3  | Minimal creativity or critical thinking; lacks depth. |
+
+: {tbl-colwidths="[5,95]"}
+
+
+### Audience Engagement (5 points)
+
+*Does this poster...*
+
+- [ ] identify a target audience (public or stakeholders), with clear, accessible language?
+- [ ] avoid unnecessary jargon?
+- [ ] effectively balance technical details with simplicity?
+
+| Score | Criteria  |
+|-------|-----------|
+| 5  | Highly engaging and audience-appropriate, balancing complexity and clarity. |
+| 3-4  | Clear and relevant, though engagement could be stronger. |
+| 0-2 | Ineffective or inaccessible to the intended audience. |
+
+: {tbl-colwidths="[5,95]"}
+
+## Design and Impact (5 + 5 = 10 points)
+
+### Visual Appeal and Organization (5 points)
+
+*Does this poster...*
+
+- [ ] appear visually engaging with a professional and cohesive layout?
+- [ ] contain well-chosen graphics, colors, and text that enhance readability and understanding?
+
+| Score | Criteria  |
+|-------|-----------|
+| 5  | Outstanding design that enhances the message. |
+| 3-4  | Solid design, with minor areas for improvement in layout or visuals. |
+| 0-2 | Poor design; visuals detract from content. |
+
+: {tbl-colwidths="[5,95]"}
+
+### Overall Quality (5 points)
+
+*Does this poster...*
+
+- [ ] leave a lasting impression and inspire action?
+- [ ] align with the assignment’s goals by effectively linking human health and the environment?
+
+
+| Score | Criteria  |
+|-------|-----------|
+| 5  |  Highly impactful and aligned with the assignment’s goals. |
+| 3-4  |  Somewhat impactful but could be more memorable or inspiring. |
+| 0-2 | Minimal impact or alignment with goals. |
+
+: {tbl-colwidths="[5,95]"}
+

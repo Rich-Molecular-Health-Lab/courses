@@ -1,0 +1,15 @@
+---
+title: "Poster Session"
+date: "2026-09-17"
+date-modified: "2026-09-17T10:23:36"
+profile:
+  - "topic"
+  - "hhe"
+categories:
+  - "topic"
+  - "ENVN4320"
+listing:
+  template: "resources.ejs.md"
+  contents: "Poster Session_resources.yaml"
+---
+

@@ -40,6 +40,7 @@
   area: "teaching"
   class_days:
     - "ENVN4320_W4D1"
+    - "ENVN4320_W4D2"
   themes:
     - "Disasters"
   projects:
@@ -54,7 +55,14 @@
   defaultTemplate: "tpl-default-lecture"
   image: "forest_fire.jpeg"
   dates:
-    - "2026-09-15T16:00:00"
+    - "2026-09-17T16:00:00"
+  videos:
+    - "How Are Wildfires Making Us Sick_"
+    - "The Most Dangerous Wildfires All Have ONE THING in Common"
+    - "There’s Something Living in Wildfire Smoke _ NOVA _ PBS"
+  films:
+    - "Inside the LA Firestorm - The REAL Story _ Full Documentary"
+    - "Waking Up to Wildfires (Emmy-Nominated documentary, KVIE, PBS)"
   profile:
     - "slides"
     - "hhe"
@@ -68,3 +76,10 @@
     - "northamerica_geos5_2021202_lrg.jpg"
     - "aqi.png"
     - "air-health.png"
+    - "calgard_fire_ppm.png"
+    - "wildfire_mortality.png"
+    - "canada_nyc_wildfire_smoke.png"
+    - "hepa-filter.png"
+    - "wildfire_response.jpg"
+    - "wildfire_spokane_damage.jpg"
+    - "wildfire_smoke.min-800x600.png"

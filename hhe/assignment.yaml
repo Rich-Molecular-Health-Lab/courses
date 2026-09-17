@@ -1,0 +1,50 @@
+- title: "Assignment_Instructions"
+  docs:
+    - "Poster_Rubric_ENVN4320"
+  course_prefix: "ENVN"
+  course_number: 4320
+  class_days:
+    - "ENVN4320_W16D2"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  semester: "26f"
+  tags:
+    - "teaching"
+    - "assignment"
+    - "assignment_intro"
+  area: "teaching"
+  deadline: "2026-12-10T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile:
+    - "assignment"
+    - "hhe"
+  categories:
+    - "assignment"
+    - "ENVN4320"
+  attachments:
+    []
+- title: "Poster_Rubric_ENVN4320"
+  total_possible: 60
+  course_prefix: "ENVN"
+  course_number: 4320
+  class_days:
+    - "ENVN4320_W16D2"
+  assignment_intro: "Poster_Instructions_ENVN4320"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  semester: "26f"
+  tags:
+    - "teaching"
+    - "assignment"
+    - "rubric"
+  area: "teaching"
+  deadline: "2026-12-10T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile:
+    - "assignment"
+    - "hhe"
+  categories:
+    - "assignment"
+    - "ENVN4320"
+  attachments:
+    []

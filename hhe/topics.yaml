@@ -403,7 +403,6 @@
   unit: "Exams ENVN4320"
   chapter: 8
   section: null
-  days_needed: 1
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -424,9 +423,11 @@
     - "lesson"
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
-  dates:
-    []
   course_name: "Human Health & the Environment"
+  class_days:
+    - "ENVN4320_W17D1"
+  dates:
+    - "2026-12-15T17:00:00"
 - title: "Fires"
   keywords:
     - "climate"
@@ -462,9 +463,9 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-15T16:00:00"
+    - "2026-09-17T16:00:00"
   class_days:
-    - "ENVN4320_W4D1"
+    - "ENVN4320_W4D2"
   course_name: "Human Health & the Environment"
 - title: "Floods"
   keywords:
@@ -500,8 +501,10 @@
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
     - "2026-09-10T16:00:00"
+    - "2026-09-15T16:00:00"
   class_days:
     - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
   course_name: "Human Health & the Environment"
 - title: "Healthy Housing"
   keywords: null
@@ -539,11 +542,9 @@
     - "ENVN4320_W6D2"
   course_name: "Human Health & the Environment"
 - title: "Heat Islands"
-  keywords: null
   unit: "Infrastructure"
   chapter: 3
   section: 1
-  days_needed: 1
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -555,7 +556,9 @@
     - "How The Current Heat Dome Can Affect Human Health"
   quizzes: null
   slides: null
-  videos: null
+  videos:
+    - "What Does Extreme Heat Do to the Body_"
+    - "When Will Extreme Heat Become Unlivable_"
   films: null
   exercises: null
   handouts: null
@@ -695,6 +698,33 @@
     - "ENVN4320_W10D1"
     - "ENVN4320_W10D2"
   course_name: "Human Health & the Environment"
+- title: "Poster Session"
+  skip: false
+  class_days:
+    - "ENVN4320_W16D2"
+  unit:
+    - "Review Days ENVN4320"
+  chapter: null
+  section: null
+  handouts: null
+  assignments:
+    - "Poster_Rubric_ENVN4320"
+    - "Poster_Instructions_ENVN4320"
+  course_prefix: "ENVN"
+  course_number: 4320
+  semesters:
+    - "26f"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-09-17"
+  datetimeModified: "Thursday 17th September 2026 10:23:36"
+  dates:
+    - "2026-12-10T16:00:00"
+  course_name: "Human Health & the Environment"
 - title: "Radiation"
   unit: "Toxins"
   chapter: 4
@@ -759,7 +789,7 @@
   course_name: "Human Health & the Environment"
 - title: "Review"
   skip: true
-  unit: "Review Days"
+  unit: "Review Days ENVN4320"
   chapter: 7
   section: null
   days_needed: 1

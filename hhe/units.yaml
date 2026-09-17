@@ -14,7 +14,8 @@
     - "2026-11-26T16:00:00"
   exams: null
   keywords: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -36,6 +37,8 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Breaks ENVN4320"
 - unit: "Disasters"
   chapter: 2
@@ -47,10 +50,10 @@
   exams:
     - "Exam 1 ENVN4320"
   keywords: null
-  films: null
+  films:
+    []
   case_convos:
-    - "Case Conversation 1 - Disasters"
-    - "Case Conversation 2 - Disasters"
+    []
   projects:
     - "Human Health & the Environment Fall 2026"
   course_prefix: "ENVN"
@@ -87,22 +90,27 @@
     - "Wildfires"
     - "Climate_Change_Introduction"
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Disasters"
 - unit:
     - "Exams ENVN4320"
   chapter: null
   topics:
     - "Exam 1 ENVN4320"
-    - "Final Exam"
+    - "Final Exam ENVN4320"
   class_days:
+    - "ENVN4320_W17D1"
     - "ENVN4320_W8D2"
   dates:
     - "2026-10-15T16:00:00"
+    - "2026-12-15T17:00:00"
   exams:
     - "Exam 1 ENVN4320"
-    - "Final Exam"
+    - "Final Exam ENVN4320"
   keywords: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -124,6 +132,8 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Exams ENVN4320"
 - unit: "Food"
   skip: true
@@ -132,9 +142,10 @@
     - "Cattle"
     - "Crops"
   exams:
-    - "Final Exam"
+    - "Final Exam ENVN4320"
   keywords: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -160,6 +171,8 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Food"
 - unit: "Infrastructure"
   chapter: 3
@@ -169,11 +182,10 @@
     - "Redlining"
   exams:
     - "Exam 1 ENVN4320"
-  keywords: null
-  films: null
+  films:
+    []
   case_convos:
-    - "Case Conversation 3 - Infrastructure"
-    - "Case Conversation 4 - Infrastructure"
+    []
   projects:
     - "Human Health & the Environment Fall 2026"
   course_prefix: "ENVN"
@@ -191,15 +203,11 @@
     - "ENVN4320_W5D2"
     - "ENVN4320_W6D1"
     - "ENVN4320_W6D2"
-    - "ENVN4320_W7D1"
   dates:
     - "2026-09-22T16:00:00"
     - "2026-09-24T16:00:00"
     - "2026-09-29T16:00:00"
     - "2026-10-01T16:00:00"
-    - "2026-10-06T16:00:00"
-  content:
-    []
   background:
     - "How Housing Discrimination Works"
     - "06 - From Redlining to Inclusive Planning"
@@ -210,6 +218,12 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  content:
+    - "What Does Extreme Heat Do to the Body_"
+    - "When Will Extreme Heat Become Unlivable_"
+  videos:
+    - "What Does Extreme Heat Do to the Body_"
+    - "When Will Extreme Heat Become Unlivable_"
   title: "Infrastructure"
 - unit: "Introduction"
   chapter: 1
@@ -227,7 +241,8 @@
     - "2026-09-03T16:00:00"
   exams:
     - "Exam 1 ENVN4320"
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -249,6 +264,8 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Introduction"
 - unit:
     - "Overview ENVN4320"
@@ -256,7 +273,8 @@
   topics:
     - "Overview & Syllabus ENVN4320"
   exams: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -282,6 +300,8 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Overview ENVN4320"
 - unit: "Pathogens"
   chapter: 5
@@ -292,10 +312,10 @@
   exams:
     - "Exam 1 ENVN4320"
   keywords: null
-  films: null
+  films:
+    []
   case_convos:
-    - "Case Conversation 7 - Pathogens"
-    - "Case Conversation 8 - Pathogens"
+    []
   projects:
     - "Human Health & the Environment Fall 2026"
   course_prefix: "ENVN"
@@ -314,14 +334,12 @@
     - "ENVN4320_W15D1"
     - "ENVN4320_W15D2"
     - "ENVN4320_W16D1"
-    - "ENVN4320_W16D2"
   dates:
     - "2026-11-17T16:00:00"
     - "2026-11-19T16:00:00"
     - "2026-12-01T16:00:00"
     - "2026-12-03T16:00:00"
     - "2026-12-08T16:00:00"
-    - "2026-12-10T16:00:00"
   content:
     []
   background:
@@ -336,21 +354,16 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Pathogens"
-- unit: "Review Days"
-  skip: true
+- unit:
+    - "Review Days ENVN4320"
+  skip: false
   chapter: 7
   topics:
+    - "Poster Session"
     - "Review"
-  class_days:
-    []
-  dates:
-    []
-  exams:
-    - "Exam 1 ENVN4320"
-  films: null
-  case_convos:
-    []
   projects:
     - "Human Health & the Environment Fall 2026"
   course_prefix: "ENVN"
@@ -363,14 +376,25 @@
     - "unit"
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
-  content:
+  course_name: "Human Health & the Environment"
+  class_days:
+    - "ENVN4320_W16D2"
+  dates:
+    - "2026-12-10T16:00:00"
+  case_convos:
     []
+  content:
+    - "Poster_Rubric_ENVN4320"
+    - "Poster_Instructions_ENVN4320"
   background:
     []
   slides:
     []
-  course_name: "Human Health & the Environment"
-  title: "Review Days"
+  films:
+    []
+  videos:
+    []
+  title: "Review Days ENVN4320"
 - unit: "Toxins"
   chapter: 4
   topics:
@@ -382,11 +406,11 @@
     - "PFAS"
     - "Radiation"
   exams:
-    - "Final Exam"
-  films: null
+    - "Final Exam ENVN4320"
+  films:
+    []
   case_convos:
-    - "Case Conversation 5 - Toxins"
-    - "Case Conversation 6 - Toxins"
+    []
   projects:
     - "Human Health & the Environment Fall 2026"
   course_prefix: "ENVN"
@@ -405,7 +429,6 @@
     - "ENVN4320_W11D1"
     - "ENVN4320_W11D2"
     - "ENVN4320_W12D1"
-    - "ENVN4320_W12D2"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
     - "ENVN4320_W9D2"
@@ -418,7 +441,6 @@
     - "2026-11-03T16:00:00"
     - "2026-11-05T16:00:00"
     - "2026-11-10T16:00:00"
-    - "2026-11-12T16:00:00"
   content:
     []
   background:
@@ -426,4 +448,6 @@
   slides:
     []
   course_name: "Human Health & the Environment"
+  videos:
+    []
   title: "Toxins"

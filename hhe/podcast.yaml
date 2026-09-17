@@ -193,6 +193,8 @@
       date: "2026-09-10T16:00:00"
     - class_day: "ENVN4320_W4D1"
       date: "2026-09-15T16:00:00"
+    - class_day: "ENVN4320_W4D2"
+      date: "2026-09-17T16:00:00"
   duration_string: "0:13:21"
   profile:
     - "podcast"
@@ -251,6 +253,8 @@
       date: "2026-09-10T16:00:00"
     - class_day: "ENVN4320_W4D1"
       date: "2026-09-15T16:00:00"
+    - class_day: "ENVN4320_W4D2"
+      date: "2026-09-17T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
