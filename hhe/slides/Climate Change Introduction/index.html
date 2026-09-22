@@ -1,0 +1,1724 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Climate Change Introduction</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+
+    <link rel="stylesheet" href="4_System/44_Assets/CSS/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Climate Change & Extreme Weather
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_text/c12fig001.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Disasters
+
+</div>
+
+
+ <!-- .element: class="presentation-subtitle" -->
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 73%; top: 80%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+September 8, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Climate Basics
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_text/c12fig001.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Anthropogenic emission of greenhouse gases have increased dramatically in the postindustrial era, reaching unprecedented concentrations.
+
+There is consensus among scientists that Earth's climate in changing rapidly and that these changes are almost entirely due to human activities.<!-- .element: class="feature" -->
+
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Crash Course: Climate Change
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 12%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<iframe src="https://www.youtube.com/embed/Y1mPWVzaGQY"></iframe>
+
+</div>
+
+<!-- .element: class="video-container" -->
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Video length = 14 min</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Warming
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_text/c12fig002.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+The planet's average surface temperature has warmed by 1.4&deg;F.
+</div>
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Sea Level
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_text/c12fig003.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Global average sea level has risen 8–9" (21–24cm) since 1880.<!-- .element: class="feature" -->
+
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Species Redistributions
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch12/c12fig016.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+87% of species are shifting their ranges toward Earth’s poles at ~6.1km per decade.<!-- .element: class="feature" -->
+
+##### This is influencing
+
+- Food security
+- Disease transmission
+- Biological asynchronies
+
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Monitoring Climate
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="border-radius: 15px; background-color: white; position: absolute; left: 69%; top: 15%; height: 75%; width: 28%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+</div> 
+
+<div class="" style="position: absolute; left: 3%; top: 15%; height: 70%; width: 64%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_canva/global.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+ 
+
+</div> 
+
+<div class="right-list" style="position: absolute; left: 70%; top: 17%; height: 71%; width: 26%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Global climate is a description of a planet's climate as a whole, with all the regional differences averaged.<!-- .element: class="feature" -->
+
+*It depends on the amount of energy received by the sun and the amount of energy that is trapped in the system.*
+</div>
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 75%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Climate Normals
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="border-radius: 15px; background-color: white; position: absolute; left: 69%; top: 15%; height: 75%; width: 28%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+</div> 
+
+<div class="" style="position: absolute; left: 3%; top: 15%; height: 70%; width: 64%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_canva/lincoln_normals.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+ 
+
+</div> 
+
+<div class="right-list" style="position: absolute; left: 70%; top: 17%; height: 71%; width: 26%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Normals might be measured over decades or more.<!-- .element: class="feature" -->
+
+Averages in:
+- Precipitation
+- Temperature
+- Humidity
+- Sunshine
+- Wind
+</div>
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 75%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Climate vs. Weather
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="border-radius: 15px; background-color: white; position: absolute; left: 69%; top: 15%; height: 75%; width: 28%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+</div> 
+
+<div class="" style="position: absolute; left: 3%; top: 15%; height: 70%; width: 64%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_canva/weathervsclimate.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+ 
+
+</div> 
+
+<div class="right-list" style="position: absolute; left: 70%; top: 17%; height: 71%; width: 26%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Climate **can** tell us:
+>When might we expect the warmest day of the year or the coldest day of the year in Eastern Nebraska?
+
+Climate **can't** tell us:
+>What will the weather conditions be like on those specific days?
+
+</div>
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 75%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Weather
+</div>
+
+ 
+</div> 
+
+figures/climate_text/c12fig001.jpg<!-- .element: class="fit-image" -->
+
+<div class="text-box" style="position: absolute; left: 5%; top: 15%; height: 65%; width: 80%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+
+The mix of events that happen each day in our atmosphere<!-- .element: class="feature" -->
+
+Even though there’s only one atmosphere on Earth, the weather isn’t the same all around the world.
+
+Weather is different in different parts of the world and changes over
+  - minutes
+  - hours
+  - days
+  - weeks
+
+
+ 
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Weather
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_canva/troposphere.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Most weather happens in the part of Earth’s atmosphere that is closest to the ground called the troposphere. 
+
+</div>
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Many different factors can change the atmosphere in a certain area<ul>
+<li>air pressure</li>
+<li>temperature</li>
+<li>humidity</li>
+<li>wind speed and direction</li>
+<li><em>many others</em>...</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Bridging the Gap
+</div>
+
+ 
+</div> 
+
+figures/climate_text/c12fig001.jpg<!-- .element: class="fit-image" -->
+
+<div class="text-box" style="position: absolute; left: 5%; top: 15%; height: 65%; width: 80%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+
+Why is it difficult to definitively link extreme weather events to climate change?<!-- .element: class="feature" -->
+
+And why does this matter?<!-- .element: class="feature" -->
+
+
+ 
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Models
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="border-radius: 15px; background-color: white; position: absolute; left: 69%; top: 15%; height: 75%; width: 28%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+</div> 
+
+<div class="" style="position: absolute; left: 3%; top: 15%; height: 70%; width: 64%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_modeling.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+ 
+
+</div> 
+
+<div class="right-list" style="position: absolute; left: 70%; top: 17%; height: 71%; width: 26%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+- A model-based investigation requires some combination of model, data, analysis, and computation to better understand or predict a complex, real-world system.
+- An iterative process, using initial results and inferences and human judgment to improve data collection, modeling, computation, and/or analysis methods.
+
+Over the years, the number of components being modeled has increased, as has the size and disciplinary expertise of the teams developing the models.<!-- .element: class="feature" -->
+
+</div>
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 75%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+World Weather Attribution  
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 12%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<iframe src="https://www.youtube.com/embed/AeZbbEaLj4c?cc_load_policy=1&cc_lang_pref=en">
+</iframe>
+
+</div>
+
+<!-- .element: class="video-container" -->
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+An international effort to analyze and communicate the possible influence of climate change on extreme weather events, such as storms, extreme rainfall, heatwaves, cold spells, and droughts.
+</div>
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Health-Specific Threats
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="border-radius: 15px; background-color: white; position: absolute; left: 69%; top: 15%; height: 75%; width: 28%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+</div> 
+
+<div class="" style="position: absolute; left: 3%; top: 15%; height: 70%; width: 64%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+### Extreme Weather Events
+
+Lead to changes in...
+- Frequency
+- Intensity
+- Duration
+
+...of extreme events
+
+
+Overall Impacts: loss of life & economic damages<!-- .element: class="feature" -->
+</div>
+
+ 
+
+</div> 
+
+<div class="right-list" style="position: absolute; left: 70%; top: 17%; height: 71%; width: 26%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+### Key Health Impacts
+- Exacerbation of existing health problems.
+- Creation of new and unanticipated health problems.
+### Event-Related Health Risks
+- Risks during, before, and after events.
+- Extended health risks due to property damage and environmental degradation.
+- Unique risks from simultaneous or successive events.
+</div>
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 75%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Temperature-Related Health Issues
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 70%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/nyt_summershotter.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="caption-box" style="position: absolute; left: 1%; top: 80%; height: 5%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Hotter-than-average summer days and colder-than-average winter days compromise the body's ability to regulate temperature.
+([New York Times 2023](https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html))<!-- .element: class="citation" -->
+
+</div>
+
+
+ <!-- .element: class="feature-caption" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Heat-Related Health Issues
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/heat_index.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+#### Extreme Heat Can Cause:
+- Heat cramps
+- Heat exhaustion
+- Heatstroke
+- Hyperthermia
+
+#### Prolonged high temperatures increase hospital admissions for:
+- Cardiovascular disorders
+- Kidney disorders
+- Respiratory disorders
+
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Cold-Related Health Issues
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 70%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/cold_stress.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 72%; top: 20%; height: 50%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+**Extreme Cold Can Cause:**
+- Hypothermia
+- Frostbite
+
+
+**Temperature extremes can exacerbate:**
+- Cardiovascular disease
+- Respiratory disease
+- Cerebrovascular disease
+- Diabetes-related conditions
+
+Left: *Biem et al. 2003. CMAJ. PMID: 12566336.*<!-- .element: class="citation" -->
+</div>
+
+<!-- .element: class="right-text" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/climate_disasters.jpeg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/2023-billion-dollar-disaster-map.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/disaster_frequency_accumulation2023.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+</div>
+
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>

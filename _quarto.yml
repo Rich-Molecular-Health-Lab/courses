@@ -19,6 +19,7 @@ project:
     - "!_archive/**"
     - "*/_*/**"
     - "*/*/_*/**"
+    - "*/video/*.qmd"
 execute:
   freeze: auto
 

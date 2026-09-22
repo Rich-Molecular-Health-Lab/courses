@@ -28,6 +28,12 @@
   dates:
     - "2026-11-10T16:00:00"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W12D1"
+  date_start: "2026-11-10T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D1"
+  date_end: "2026-11-10T16:00:00"
+  week_end: 12
 - title: "Air Pollution"
   unit: "Toxins"
   chapter: 4
@@ -58,6 +64,12 @@
   dates:
     - "2026-10-08T16:00:00"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W7D2"
+  date_start: "2026-10-08T16:00:00"
+  week_start: 7
+  class_end: "ENVN4320_W7D2"
+  date_end: "2026-10-08T16:00:00"
+  week_end: 7
 - title: "Biotoxins & Microbes"
   unit: "Toxins"
   chapter: 4
@@ -88,6 +100,12 @@
   class_days:
     - "ENVN4320_W12D1"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W12D1"
+  date_start: "2026-11-10T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D1"
+  date_end: "2026-11-10T16:00:00"
+  week_end: 12
 - title: "Cattle"
   skip: true
   unit: "Food"
@@ -117,6 +135,12 @@
   dates:
     []
   course_name: "Human Health & the Environment"
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
 - title: "Climate Change & Extreme Weather"
   unit: "Disasters"
   chapter: 2
@@ -129,7 +153,7 @@
   projects:
     - "Human Health & the Environment Fall 2026"
   background:
-    - "A Storm is Brewing_ Is it Climate Change?"
+    - "A Storm is Brewing - Is it Climate Change?"
   quizzes: null
   slides:
     - "Climate_Change_Introduction"
@@ -149,6 +173,12 @@
   class_days:
     - "ENVN4320_W3D1"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W3D1"
+  date_start: "2026-09-08T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W3D1"
+  date_end: "2026-09-08T16:00:00"
+  week_end: 3
 - title: "Crops"
   skip: true
   unit: "Food"
@@ -178,6 +208,12 @@
   dates:
     []
   course_name: "Human Health & the Environment"
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
 - title: "Drought"
   unit: "Disasters"
   chapter: 2
@@ -209,6 +245,12 @@
   class_days:
     - "ENVN4320_W4D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W4D2"
+  date_start: "2026-09-17T16:00:00"
+  week_start: 4
+  class_end: "ENVN4320_W4D2"
+  date_end: "2026-09-17T16:00:00"
+  week_end: 4
 - title: "Endocrine Disrupting Chemicals"
   unit: "Toxins"
   chapter: 4
@@ -239,6 +281,12 @@
   class_days:
     - "ENVN4320_W9D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W9D2"
+  date_start: "2026-10-22T16:00:00"
+  week_start: 9
+  class_end: "ENVN4320_W9D2"
+  date_end: "2026-10-22T16:00:00"
+  week_end: 9
 - title: "Environmental Justice"
   keywords:
     - "redlining"
@@ -273,6 +321,12 @@
   class_days:
     - "ENVN4320_W2D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W2D2"
+  date_start: "2026-09-03T16:00:00"
+  week_start: 2
+  class_end: "ENVN4320_W2D2"
+  date_end: "2026-09-03T16:00:00"
+  week_end: 2
 - title: "Epidemics & Pandemics"
   keywords: null
   unit: "Pathogens"
@@ -286,7 +340,7 @@
   projects:
     - "Human Health & the Environment Fall 2026"
   background:
-    - "Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?"
+    - "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?"
     - "Preventing Future Pandemics"
   quizzes: null
   slides: null
@@ -308,6 +362,12 @@
     - "ENVN4320_W15D2"
     - "ENVN4320_W16D1"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W15D2"
+  date_start: "2026-12-03T16:00:00"
+  week_start: 15
+  class_end: "ENVN4320_W16D1"
+  date_end: "2026-12-08T16:00:00"
+  week_end: 16
 - title: "Epidemiology"
   unit: "Introduction"
   chapter: 1
@@ -339,6 +399,12 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W1D2"
+  date_start: "2026-08-27T16:00:00"
+  week_start: 1
+  class_end: "ENVN4320_W2D1"
+  date_end: "2026-09-01T16:00:00"
+  week_end: 2
 - title: "Exam 1 ENVN4320"
   unit: "Exams ENVN4320"
   chapter: 4
@@ -369,6 +435,12 @@
   dates:
     - "2026-10-15T16:00:00"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W8D2"
+  date_start: "2026-10-15T16:00:00"
+  week_start: 8
+  class_end: "ENVN4320_W8D2"
+  date_end: "2026-10-15T16:00:00"
+  week_end: 8
 - title: "Fall Break"
   unit: "Breaks ENVN4320"
   chapter: 4
@@ -399,6 +471,12 @@
   dates:
     - "2026-10-20T16:00:00"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W9D1"
+  date_start: "2026-10-20T16:00:00"
+  week_start: 9
+  class_end: "ENVN4320_W9D1"
+  date_end: "2026-10-20T16:00:00"
+  week_end: 9
 - title: "Final Exam"
   unit: "Exams ENVN4320"
   chapter: 8
@@ -428,6 +506,12 @@
     - "ENVN4320_W17D1"
   dates:
     - "2026-12-15T17:00:00"
+  class_start: "ENVN4320_W17D1"
+  date_start: "2026-12-15T17:00:00"
+  week_start: 17
+  class_end: "ENVN4320_W17D1"
+  date_end: "2026-12-15T17:00:00"
+  week_end: 17
 - title: "Fires"
   keywords:
     - "climate"
@@ -448,14 +532,11 @@
   background:
     - "Are extreme wildfires the new normal?"
     - "Catching Fire"
-  quizzes: null
   slides:
     - "Wildfires"
-  videos: null
-  films: null
-  exercises: null
-  handouts: null
-  assignments: null
+  videos:
+    - "How Are Wildfires Making Us Sick"
+    - "The Most Dangerous Wildfires All Have ONE THING in Common"
   area: "teaching"
   tags:
     - "teaching"
@@ -467,6 +548,12 @@
   class_days:
     - "ENVN4320_W4D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W4D2"
+  date_start: "2026-09-17T16:00:00"
+  week_start: 4
+  class_end: "ENVN4320_W4D2"
+  date_end: "2026-09-17T16:00:00"
+  week_end: 4
 - title: "Floods"
   keywords:
     - "climate"
@@ -507,6 +594,12 @@
     - "ENVN4320_W3D2"
     - "ENVN4320_W4D1"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W3D2"
+  date_start: "2026-09-10T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W4D1"
+  date_end: "2026-09-15T16:00:00"
+  week_end: 4
 - title: "Healthy Housing"
   keywords: null
   unit: "Infrastructure"
@@ -520,7 +613,7 @@
   projects:
     - "Human Health & the Environment Fall 2026"
   background:
-    - "Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health"
+    - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
     - "Nsilo Berry on making buildings healthier"
   quizzes: null
   slides: null
@@ -544,6 +637,12 @@
     - "ENVN4320_W6D2"
     - "ENVN4320_W7D1"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W6D1"
+  date_start: "2026-09-29T16:00:00"
+  week_start: 6
+  class_end: "ENVN4320_W7D1"
+  date_end: "2026-10-06T16:00:00"
+  week_end: 7
 - title: "Heat Islands"
   unit: "Infrastructure"
   chapter: 3
@@ -555,17 +654,15 @@
   projects:
     - "Human Health & the Environment Fall 2026"
   background:
-    - "Climate_ Fighting Extreme Heat In 2026"
+    - "Climate - Fighting Extreme Heat In 2026"
     - "How The Current Heat Dome Can Affect Human Health"
-  quizzes: null
-  slides: null
+  slides:
+    - "Heat_Islands-Infrastructure_&_Health"
   videos:
-    - "What Does Extreme Heat Do to the Body_"
-    - "When Will Extreme Heat Become Unlivable_"
-  films: null
-  exercises: null
-  handouts: null
-  assignments: null
+    - "What Does Extreme Heat Do to the Body?"
+    - "Extreme Heat Is the New Normal"
+    - "How Urban Heat Impacts Communities of Color"
+    - "Heatwave What is the urban heat island effect"
   area: "teaching"
   tags:
     - "teaching"
@@ -574,9 +671,19 @@
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
     - "2026-09-22T16:00:00"
+    - "2026-09-24T16:00:00"
   class_days:
     - "ENVN4320_W5D1"
+    - "ENVN4320_W5D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W5D1"
+  date_start: "2026-09-22T16:00:00"
+  week_start: 5
+  class_end: "ENVN4320_W5D2"
+  date_end: "2026-09-24T16:00:00"
+  week_end: 5
+  lecture_archive:
+    - "ENVN4320F24_9-10"
 - title: "Heavy Metals"
   unit: "Toxins"
   chapter: 4
@@ -609,6 +716,12 @@
     - "ENVN4320_W11D1"
     - "ENVN4320_W11D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W11D1"
+  date_start: "2026-11-03T16:00:00"
+  week_start: 11
+  class_end: "ENVN4320_W11D2"
+  date_end: "2026-11-05T16:00:00"
+  week_end: 11
 - title: "One Health"
   unit: "Introduction"
   chapter: 1
@@ -639,6 +752,12 @@
   class_days:
     - "ENVN4320_W2D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W2D2"
+  date_start: "2026-09-03T16:00:00"
+  week_start: 2
+  class_end: "ENVN4320_W2D2"
+  date_end: "2026-09-03T16:00:00"
+  week_end: 2
 - title: "Overview & Syllabus ENVN4320"
   unit: "Overview ENVN4320"
   chapter: 0
@@ -669,6 +788,12 @@
   dates:
     - "2026-08-25T16:00:00"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W1D1"
+  date_start: "2026-08-25T16:00:00"
+  week_start: 1
+  class_end: "ENVN4320_W1D1"
+  date_end: "2026-08-25T16:00:00"
+  week_end: 1
 - title: "PFAS"
   unit: "Toxins"
   chapter: 4
@@ -701,6 +826,12 @@
     - "ENVN4320_W10D1"
     - "ENVN4320_W10D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W10D1"
+  date_start: "2026-10-27T16:00:00"
+  week_start: 10
+  class_end: "ENVN4320_W10D2"
+  date_end: "2026-10-29T16:00:00"
+  week_end: 10
 - title: "Poster Session"
   skip: false
   class_days:
@@ -728,6 +859,12 @@
   dates:
     - "2026-12-10T16:00:00"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W16D2"
+  date_start: "2026-12-10T16:00:00"
+  week_start: 16
+  class_end: "ENVN4320_W16D2"
+  date_end: "2026-12-10T16:00:00"
+  week_end: 16
 - title: "Radiation"
   unit: "Toxins"
   chapter: 4
@@ -758,6 +895,12 @@
   class_days:
     - "ENVN4320_W8D1"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W8D1"
+  date_start: "2026-10-13T16:00:00"
+  week_start: 8
+  class_end: "ENVN4320_W8D1"
+  date_end: "2026-10-13T16:00:00"
+  week_end: 8
 - title: "Redlining"
   unit: "Infrastructure"
   chapter: 3
@@ -771,7 +914,7 @@
     - "Human Health & the Environment Fall 2026"
   background:
     - "How Housing Discrimination Works"
-    - "06 - From Redlining to Inclusive Planning"
+    - "From Redlining to Inclusive Planning"
   quizzes: null
   slides: null
   videos: null
@@ -790,6 +933,12 @@
   class_days:
     - "ENVN4320_W5D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W5D2"
+  date_start: "2026-09-24T16:00:00"
+  week_start: 5
+  class_end: "ENVN4320_W5D2"
+  date_end: "2026-09-24T16:00:00"
+  week_end: 5
 - title: "Review"
   skip: true
   unit: "Review Days ENVN4320"
@@ -819,6 +968,12 @@
   dates:
     []
   course_name: "Human Health & the Environment"
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
 - title: "Thanksgiving Break ENVN4320"
   unit: "Breaks ENVN4320"
   chapter: 5
@@ -851,6 +1006,12 @@
     - "2026-11-24T16:00:00"
     - "2026-11-26T16:00:00"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W14D1"
+  date_start: "2026-11-24T16:00:00"
+  week_start: 14
+  class_end: "ENVN4320_W14D2"
+  date_end: "2026-11-26T16:00:00"
+  week_end: 14
 - title: "Vectors"
   keywords: null
   unit: "Pathogens"
@@ -890,6 +1051,12 @@
     - "ENVN4320_W13D2"
     - "ENVN4320_W12D2"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W12D2"
+  date_start: "2026-11-12T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W13D2"
+  date_end: "2026-11-19T16:00:00"
+  week_end: 13
 - title: "Zoonoses"
   keywords: null
   unit: "Pathogens"
@@ -903,7 +1070,7 @@
   projects:
     - "Human Health & the Environment Fall 2026"
   background:
-    - "Animal Diseases and Human Health_ The Sloth and Screwworm Episode"
+    - "Animal Diseases and Human Health - The Sloth and Screwworm Episode"
     - "Patient Zero"
   quizzes: null
   slides: null
@@ -923,3 +1090,9 @@
   class_days:
     - "ENVN4320_W15D1"
   course_name: "Human Health & the Environment"
+  class_start: "ENVN4320_W15D1"
+  date_start: "2026-12-01T16:00:00"
+  week_start: 15
+  class_end: "ENVN4320_W15D1"
+  date_end: "2026-12-01T16:00:00"
+  week_end: 15

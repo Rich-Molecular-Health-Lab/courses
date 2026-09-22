@@ -1,0 +1,1398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Heat Islands - Infrastructure & Health</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+
+    <link rel="stylesheet" href="css/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Heat Islands: Infrastructure & Health
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Heat_Islands-Infrastructure_&_Health.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="presentation-subtitle" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+</div>
+
+
+
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 48%; top: 80%; height: 5%; width: 50%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+September 22, 2026, September 24, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+What Is a Heat Dome?
+
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="border-radius: 15px; background-color: white; position: absolute; left: 69%; top: 15%; height: 75%; width: 28%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+</div> 
+
+<div class="" style="position: absolute; left: 3%; top: 15%; height: 70%; width: 64%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+A high-pressure system that pushes hot air down and traps it, raising temperatures over a region. Heat domes create prolonged, severe heat waves with record-breaking highs.<!-- .element: class="feature" --> 
+
+</div>
+
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/heat_dome.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+
+nasa_urban_heat_island.png<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-list" style="position: absolute; left: 70%; top: 17%; height: 71%; width: 26%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+- Greenhouse gas emissions warm the baseline atmosphere
+- Heat domes can last days to weeks
+- Nighttime temperatures remain dangerously high
+- Prevents body and environment from cooling
+
+</div>
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 75%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Emphasize that heat domes are becoming more frequent and intense due to climate change.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The Urban Heat Island Effect
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/nasa_urban_heat_islands_USA.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Cities are significantly hotter than surrounding rural areas because concrete, asphalt, and brick absorb and store solar radiation as heat.<!-- .element: class="feature" --> 
+
+- City centers can be 10°C warmer than rural areas
+- Built-up areas stay 3–7°C warmer even at night
+- Lack of tree canopy amplifies the effect
+- Disproportionately affects low-income neighborhoods
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Use the thermal imaging concept from the Sky News video—concrete glows red, trees are cooler blue.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+How Heat Affects the Human Body
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/heat_stress.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+**Heat Exhaustion vs. Heat Stroke**
+
+- **Heat exhaustion:** fatigue, inability to sweat, treatable at home with hydration
+- **Heat stroke:** dizziness, loss of speech, cognitive changes, requires emergency care
+- **Core mechanism:** sweat cannot evaporate in high heat + humidity, body temperature rises uncontrollably
+- **Vulnerable groups:** elderly, people with pre-existing conditions, those on SSRIs, unhoused people
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The 95th percentile of heat + humidity for a region is when sharp increases in severe illness begin. Emphasize that heat stroke is a medical emergency.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+What Does Extreme Heat Do to the Body?
+
+</div>
+
+ 
+</div> 
+
+<div class="video-container" style="position: absolute; left: 5%; top: 0%; height: 100%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wXoqEJlsKu0?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+
+<div class="block">
+
+PBS documentary featuring physiologist Ollie Jay's research on heat stress and cooling strategies.
+
+</div>
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Play 5–7 minutes. Pause to discuss the EMU device and why sweat evaporation fails in high humidity. Highlight the Chicago 1995 heat wave as a case study in inequality and heat mortality.</p>
+<p>Shows a climate chamber experiment and low-cost cooling methods for vulnerable populations.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Heat Deaths: Visible and Invisible
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/APHA_HealthGraphics2023-03-1.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Heat kills more Americans than hurricanes or wildfires. <!-- .element: class="feature" --> 
+
+Deaths are counted three ways: **direct** (heat stroke), **indirect** (heart attack during heat), and **excess deaths** (statistical comparison to baseline).
+
+- **Direct deaths:** ~2,300 in U.S. in 2023 (3× higher than a decade ago)
+- **Indirect deaths:** cardiovascular, respiratory, stroke, complications from diabetes
+- **Global toll:** ~500,000 deaths per year
+- **Undercount:** many heat deaths go unrecognized because physicians treat the immediate condition, not the heat trigger
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Explain why counting is complicated—a heart attack during a heat wave may not be coded as heat-related. This is why excess death modeling is important.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Indirect Heat Deaths: Cardiovascular Diseases
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 65%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/heat_cvd_death_aha.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 73%; height: 12%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+#### US county map of total number of extreme-heat days and mean, summer, monthly cardiovascular mortality rates from 2008 to 2017.
+
+Extreme-heat day was designated if the maximum heat index on that day was ≥90 °F (32.2 °C) and in the 99th percentile of the maximum heat index in the baseline period (1979–2007).
+</div>
+
+
+<!-- .element: class="caption-box" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>A.</strong> Tertiles of US counties by total number of extreme-heat days in summer months (May–September) from 2008 to 2017. </p>
+<p><strong>B</strong>. Tertiles of US counties by mean monthly age-adjusted cardiovascular mortality rates (after spatial empirical Bayes smoothing) in summer months (May–September) from 2008 to 2017 among adults ≥20 years of age. Extreme-heat day was designated if the maximum heat index on that day was ≥90 °F (32.2 °C) and in the 99th percentile of the maximum heat index in the baseline period (1979–2007).</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+How Urban Heat Impacts Communities of Color
+</div>
+
+ 
+</div> 
+
+<div class="video-container" style="position: absolute; left: 5%; top: 0%; height: 100%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/E6WI_RWNrCU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Environmental Justice: Heat & Inequality
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/race_heat_death.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+- Lower-income areas have lower tree canopy coverage
+- Redlining and segregation created heat-vulnerable neighborhoods
+- Renters have less AC access than homeowners
+- Unhoused people face constant heat exposure
+- Heat + homelessness + substance use = compounding crisis
+
+>[!info] Left: Temperature-related excess death rate (per 100,000) by counties based on temperatures in 2022
+>- Larger increase in excess deaths in the southern regions of the United States and a slight decline in the Northeast.
+>- Mortality increased almost everywhere for Black NHs, but decreased in some areas for White NHs.
+>- The largest mortality increases were among Black NHs, particularly in the southern counties, where Others were also particularly vulnerable.
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+City-Level Responses: Miami-Dade County
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/Urban-heat-infographic_Miami.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+**Infrastructure & Public Health Interventions**
+
+- 60 cooling centers open during heat season
+- 25,000 trees distributed (focus on low-canopy neighborhoods)
+- Shaded bus stops to protect transit users
+- Hydration stations ("Water is Life")
+- 1,700 high-efficiency cooling units in public housing
+- Heat season added to disaster preparedness (alongside hurricanes, floods)
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Emphasize that these are coordinated, funded interventions. Mention that Miami&#39;s chief heat officer role was a first-in-the-world position, though later consolidated with resilience officer role.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Community Resilience Estimators (CRE)
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 8%; height: 65%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/cre_uscounties.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 73%; height: 12%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+[An experimental data product (US Census Bureau)](https://www.census.gov/library/stories/2023/07/almost-a-quarter-of-population-vulnerable-to-rising-heat.html) measures the capacity of individuals and households in a community to withstand the stress of exposure to extreme heat based on their social characteristics.
+</div>
+
+
+<!-- .element: class="caption-box" --> 
+
+</div>
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Practical Cooling Strategies for Vulnerable Populations
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/heat_vulnerability.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Not everyone has access to air conditioning. Low-cost, evidence-based strategies can reduce heat stress and prevent deaths.
+
+- Immersing feet in water (acts as radiator)
+- Using fans (effective under right conditions)
+- Seeking shade (can reduce temperature by up to 30°C)
+- Drinking water regularly (even without thirst signal)
+- Checking on neighbors and elderly relatives
+- Accessing public pools, splash pads, cooling centers
+- Shifting outdoor activity to early morning/evening
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Emphasize that &quot;every heat-related death is preventable&quot; with proper planning and access to resources.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The Role of Trees & Green Infrastructure
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/greenery_heat_mitigation.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Trees reduce ambient temperature by up to 10°C through shade and evaporative cooling. They are one of the most cost-effective, long-term heat mitigation strategies.<!-- .element: class="feature" --> 
+
+- Shade fundamentally changes body energy expenditure
+- Trees cool surrounding air through water evaporation
+- Green infrastructure competes with parking and car-centric design
+- Requires sustained funding and maintenance
+- Takes years to mature—planting must start now
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Reference the listener who reported their property staying 15°C cooler after planting native trees. Discuss the tension between car infrastructure and green space in cities.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Extreme Heat Is the New Normal: Phoenix Fire Department Response
+
+</div>
+
+ 
+</div> 
+
+<div class="video-container" style="position: absolute; left: 5%; top: 0%; height: 100%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QcHuAtK_H_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+
+<div class="block">
+
+New York Times Op-Doc documenting Phoenix firefighters using ice bag immersion to treat life-threatening heat stroke.
+
+</div>
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This is a powerful, real-time documentation. Use it to discuss the feedback loop of heat + homelessness + drug use, and the limits of emergency response as a long-term solution. Discuss ice bag immersion as a stopgap measure.</p>
+<p>Shows the intersection of heat, homelessness, and substance use in urban heat crises.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Key Takeaways
+
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 10%; top: 15%; height: 65%; width: 80%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+nasa_urban_heat_island.png<!-- .element: class="fit-image" -->
+
+
+
+
+
+1. Heat is the deadliest extreme weather event in the U.S., and deaths are rising.<!-- .element: class="feature" --> 
+2. Urban heat islands amplify temperatures in cities, especially low-income neighborhoods.<!-- .element: class="feature" --> 
+3. Heat vulnerability is tied to inequality: housing, tree canopy, AC access, homelessness.<!-- .element: class="feature" --> 
+4. City-level interventions (trees, cooling centers, shade, hydration) are evidence-based and cost-effective.<!-- .element: class="feature" --> 
+5. Every heat-related death is preventable with planning, resources, and social networks.<!-- .element: class="feature" --> 
+6. Heat is a public health and infrastructure crisis requiring mitigation and adaptation.<!-- .element: class="feature" --> 
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 75%; top: 90%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>

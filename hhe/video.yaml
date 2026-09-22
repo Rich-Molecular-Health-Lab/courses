@@ -1,108 +1,282 @@
-- mx-uid: "bsabz9eph93vcy5un17kg5ns"
-  video: "https://www.youtube.com/watch?v=wXoqEJlsKu0"
-  title: "What Does Extreme Heat Do to the Body?"
-  description: "Watch more of this series: https://to.pbs.org/4wkQIAG\nThe climate crisis isn't a distant threat — it's already here, and it's deadly. But keeping people cool is surprisingly complicated. \n\nIn Sydney, Australia, physiologist Ollie Jay is tackling the problem by studying how the human body responds to extreme heat. The ultimate goal is to create low-cost cooling strategies for people without access to air conditioning — those most at risk from extreme heat. Science journalist Miles O'Brien puts..."
-  creator: "PBS"
-  creator_url: "https://www.youtube.com/channel/UCgyeJxD05YnoDquRMNBfBqw"
-  tags:
-    - "climate-solutions"
-    - "climate-change"
-    - "science-journalism"
-    - "heat"
-    - "extreme-weather"
-    - "desert-resilience"
-    - "heat-island"
-    - "extreme-heat"
-    - "climate-adaptation"
-    - "teaching"
-    - "video"
-    - "resource"
-  view_count: 22276
-  cover: "https://i.ytimg.com/vi_webp/wXoqEJlsKu0/maxresdefault.webp"
-  aspect_ratio: "16 / 9"
+- title: "Extreme Heat Is the New Normal"
+  video: "https://www.youtube.com/watch?v=QcHuAtK_H_8"
+  description: "We filmed “A New Inferno,” the short documentary above, in Phoenix, one of the hottest cities in America, through some of the city’s hottest days of 2025, during one of the hottest years on record glo"
+  duration_string: "00:15:15"
+  creator: "New York Times Opinion"
+  published_at: "2026-08-28"
+  cover: "https://i.ytimg.com/vi/QcHuAtK_H_8/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/QcHuAtK_H_8"
   course_prefix: "ENVN"
-  course_number: "4320"
-  course_name: "Human Health & the Environment"
+  course_number: 4320
   projects:
     - "Human Health & the Environment Fall 2026"
-  url: "https://www.youtube.com/watch?v=wXoqEJlsKu0"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Heat Islands"
+    - "Environmental Justice"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
   area: "teaching"
-  semesters:
-    - "26f"
-  image: "https://i.ytimg.com/vi_webp/wXoqEJlsKu0/maxresdefault.webp"
-  duration_string: "0:9:59"
-  duration: 599
+  aspect_ratio: "16 / 9"
+  mx-uid: "QcHuAtK_H_887741124305"
+  type: "video"
+  selected: "false"
+  duration: 915
+  course_name: "Human Health & the Environment"
+  published: "2026-08-28"
+  released: "2026-08-28"
+  year: "2026"
+  themes_possible:
+    []
+  image: "![Extreme Heat Is the New Normal](https://i.ytimg.com/vi/QcHuAtK_H_8/maxresdefault.jpg)"
+  assigned: false
+  authors: "New York Times Opinion"
+  series: "New York Times Opinion"
+  author_first: "Opinion"
+  author_last: "Opinion"
+  author_display: "New York Times Opinion"
   class_days:
     - "ENVN4320_W5D1"
+    - "ENVN4320_W5D2"
   topics:
     - "Heat Islands"
   themes:
     - "Infrastructure"
   dates:
     - "2026-09-22T16:00:00"
-  profile:
-    - "video"
-    - "hhe"
-  categories:
-    - "video"
-    - "ENVN4320"
+    - "2026-09-24T16:00:00"
+  profile: "video"
   attachments:
     []
-- mx-uid: "v0ij4u2mcofy6hgmg2y7l2me"
-  video: "https://www.youtube.com/watch?v=7hBMbQ9de1g"
-  title: "When Will Extreme Heat Become Unlivable?"
-  description: "Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink \n\nHeat is the deadliest weather hazard in the U.S. and many places around the world, and it's only getting worse.\nThe most deadly heat waves so far have been dry heat waves. But a new threat is rising: humid heat waves, aka wet-bulb events. Scientists have identified wet-bulb temperatures where sweat can’t evaporate fast enough to cool the..."
-  duration: 705
-  creator: "PBS Terra"
-  creator_url: "https://www.youtube.com/channel/UCpxYSWgxVt3Pyn1ovXsGQ0g"
-  tags:
-    - "climate-change"
-    - "wet-bulb-temperature"
-    - "extreme-heat"
-    - "humid-heatwave"
-    - "deadliest-weather"
-    - "climate-science"
-    - "pbs"
-    - "weathered"
-    - "maiya-may"
-    - "human-heat-tolerance"
-    - "ac-climate-impact"
-    - "karachi-heatwave"
-    - "global-warming"
-    - "urban-heat-island"
-    - "unlivable-temperatures"
-    - "teaching"
-    - "video"
-    - "resource"
-  view_count: 2742223
-  cover: "https://i.ytimg.com/vi_webp/7hBMbQ9de1g/maxresdefault.webp"
-  aspect_ratio: "16 / 9"
-  captions:
-    - "v0ij4u2mcofy6hgmg2y7l2me.eQg9.en"
+- title: "Heatwave What is the urban heat island effect"
+  video: "https://www.youtube.com/watch?v=YX3C3eq2MJY"
+  description: "Extreme heat is going to be felt across the country, but it's our cities that will be worst hit, as a phenomenon called the urban heat island effect drives temperatures even higher. There are soluti"
+  duration_string: "2:40"
+  creator: "Sky News"
+  author: "Sky News"
+  published_at: "2022-07-15"
+  released: "2022-07-15"
+  cover: "https://i.ytimg.com/vi/YX3C3eq2MJY/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/YX3C3eq2MJY"
   course_prefix: "ENVN"
-  course_number: "4320"
-  course_name: "Human Health & the Environment"
+  course_number: 4320
   projects:
     - "Human Health & the Environment Fall 2026"
-  url: "https://www.youtube.com/watch?v=7hBMbQ9de1g"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Heat Islands"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
   area: "teaching"
-  semesters:
-    - "26f"
-  duration_string: "0:11:45"
-  image: "https://i.ytimg.com/vi_webp/7hBMbQ9de1g/maxresdefault.webp"
+  aspect_ratio: "16 / 9"
+  mx-uid: "YX3C3eq2MJY87741124305"
+  duration: "161"
+  type: "video"
+  image: "![Heatwave What is the urban heat island effect](https://i.ytimg.com/vi/YX3C3eq2MJY/maxresdefault.jpg)"
+  authors: "Sky News"
+  series: "Sky News"
+  author_first: "News"
+  author_last: "News"
+  author_display: "Sky News"
+  published: "2022-07-15T00:00:00.000Z"
+  year: 2022
   class_days:
     - "ENVN4320_W5D1"
+    - "ENVN4320_W5D2"
   topics:
     - "Heat Islands"
   themes:
     - "Infrastructure"
   dates:
     - "2026-09-22T16:00:00"
-  profile:
-    - "video"
-    - "hhe"
-  categories:
-    - "video"
-    - "ENVN4320"
+    - "2026-09-24T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
   attachments:
-    - "v0ij4u2mcofy6hgmg2y7l2me.eQg9.en.vtt"
+    []
+- title: "How Urban Heat Impacts Communities of Color"
+  video: "https://www.youtube.com/watch?v=E6WI_RWNrCU"
+  description: "The urban heat island effect is a phenomenon affecting more than 100 cities across the U.S. — here’s how it works and why it disproportionately impacts communities of color.» Subscribe to NowThis Ear"
+  duration_string: "7:14"
+  creator: "Did You See This?"
+  author: "Did You See This?"
+  published_at: "2021-07-21"
+  released: "2021-07-21"
+  cover: "https://i.ytimg.com/vi/E6WI_RWNrCU/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/E6WI_RWNrCU"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Climate Change & Extreme Weather"
+    - "Heat Islands"
+    - "Redlining"
+  genre: "Science & Technology"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "E6WI_RWNrCU87741124305"
+  duration: "435"
+  type: "video"
+  image: "![How Urban Heat Impacts Communities of Color](https://i.ytimg.com/vi/E6WI_RWNrCU/maxresdefault.jpg)"
+  authors: "Did You See This?"
+  series: "Did You See This?"
+  author_first: "This?"
+  author_last: "This?"
+  author_display: "Did You See This?"
+  published: "2021-07-21T00:00:00.000Z"
+  year: 2021
+  class_days:
+    - "ENVN4320_W5D1"
+    - "ENVN4320_W5D2"
+  topics:
+    - "Heat Islands"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-09-22T16:00:00"
+    - "2026-09-24T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "The Most Dangerous Wildfires All Have ONE THING in Common"
+  video: "https://www.youtube.com/watch?v=_uVdeK2nrrg"
+  url: "https://www.youtube.com/watch?v=_uVdeK2nrrg"
+  description: "Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink \n\nFires are getting bigger and more homes are burning each year. In January 2025, 14 out of control wildfires tore through parts of Los Angeles and burnt over 18,000 structures and left at least 29 people dead. Firefighters are having to change tactics when it comes to the most destructive fires, but why? Jennifer Blach, Ph.D., just..."
+  duration: 728
+  duration_string: "00:12:08"
+  creator: "PBS Terra"
+  creator_url: "https://www.youtube.com/channel/UCpxYSWgxVt3Pyn1ovXsGQ0g"
+  published_at: "2024-10-30"
+  cover: "https://i.ytimg.com/vi/_uVdeK2nrrg/maxresdefault.jpg"
+  image: "![The Most Dangerous Wildfires All Have ONE THING in Common](https://i.ytimg.com/vi/_uVdeK2nrrg/maxresdefault.jpg)"
+  embed: "https://www.youtube.com/embed/_uVdeK2nrrg"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Fires"
+    - "One Health"
+  topics:
+    - "Fires"
+  themes:
+    - "Disasters"
+  class_days:
+    - "ENVN4320_W4D2"
+  dates:
+    - "2026-09-17T16:00:00"
+  genre: "Education"
+  type: "video"
+  selected: "false"
+  source: "YouTube"
+  tags:
+    - "camp-fire"
+    - "park-fire"
+    - "bridge-fire"
+    - "marshall-fire"
+    - "east-troublesome-fire"
+    - "lahaina"
+    - "lahaina-fire"
+    - "maui-fire"
+    - "fast-fire"
+    - "jennifer-balch"
+    - "lori-moore-merrell"
+    - "nasa"
+    - "weather"
+    - "extreme-weather"
+    - "weathered"
+    - "teaching"
+    - "video"
+    - "resource"
+  area: "teaching"
+  view_count: 286686
+  aspect_ratio: "16 / 9"
+  mx-uid: "_uVdeK2nrrg87741124305"
+  published: "2024-10-30"
+  released: "2024-10-30"
+  year: "2024"
+  themes_possible:
+    - "Disasters"
+  course_name: "Human Health & the Environment"
+  assigned: true
+  classes_assigned:
+    - class_day: "ENVN4320_W4D2"
+      date: "2026-09-17T16:00:00"
+  authors: "PBS Terra"
+  series: "PBS Terra"
+  author_first: "Terra"
+  author_last: "Terra"
+  author_display: "PBS Terra"
+  profile: "video"
+  attachments:
+    []
+- title: "What Does Extreme Heat Do to the Body"
+  video: "https://www.youtube.com/watch?v=wXoqEJlsKu0&t=2s"
+  description: "Watch more of this series: https://to.pbs.org/4wkQIAGThe climate crisis isn't a distant threat — it's already here, and it's deadly. But keeping people cool is surprisingly complicated. In Sydney,"
+  duration: 599
+  creator: "PBS"
+  published_at: "2026-09-03"
+  cover: "https://i.ytimg.com/vi/wXoqEJlsKu0/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/wXoqEJlsKu0?start=2"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Heat Islands"
+  genre: "Entertainment"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "wXoqEJlsKu087741124305"
+  type: "video"
+  selected: "false"
+  course_name: "Human Health & the Environment"
+  duration_string: "00:09:59"
+  published: "2026-09-03"
+  released: "2026-09-03"
+  year: "2026"
+  themes_possible:
+    []
+  image: "![What Does Extreme Heat Do to the Body](https://i.ytimg.com/vi/wXoqEJlsKu0/maxresdefault.jpg)"
+  assigned: false
+  authors: "PBS"
+  series: "PBS"
+  author_first: "PBS"
+  author_last: "PBS"
+  author_display: "PBS"
+  class_days:
+    - "ENVN4320_W5D1"
+    - "ENVN4320_W5D2"
+  topics:
+    - "Heat Islands"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-09-22T16:00:00"
+    - "2026-09-24T16:00:00"
+  profile: "video"
+  attachments:
+    []

@@ -1,49 +1,8 @@
 - topics:
-    - "Environmental Justice"
-    - "Redlining"
-  themes:
-    - "Infrastructure"
-    - "Introduction"
-  deadline: null
-  semesters:
-    - "26f"
-  course_prefix: "ENVN"
-  course_number: 4320
-  projects:
-    - "Human Health & the Environment Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "podcast"
-  created: "2026-08-28"
-  title: "06 - From Redlining to Inclusive Planning"
-  url_spotify: "https://open.spotify.com/episode/6Bbzj0S37EBZladi54d3Dr"
-  description: "The Planning Accreditation Board (PAB) and AICP Code of Ethics highlight the importance of justice, equity, diversity, and inclusion (DEI) in urban planning. Planners must promote social justice, fair resource distribution, and support historically disadvantaged groups. Practical tools from the PAS Report address housing, transportation, and public health for communities of color. Historical segregation practices, like redlining, contrast with modern equitable development efforts. Effective stakeholder engagement uses conflict resolution, consensus building, mediation, and arbitration. Environmental justice, mandated by Executive Order 12898, ensures equal protection from hazards. Equitable taxation policies and participatory budgeting are essential. Policy and fiscal impact analyses guide informed decisions. By upholding DEI values, planners create more inclusive urban environments."
-  released: "2024-07-26"
-  image: "![06 - From Redlining to Inclusive Planning](https://i.scdn.co/image/ab67656300005f1f6840f2e6656d0656a2294160)"
-  series: "Urban Planning Foundations "
-  series_description: "Welcome to Urban Planning Foundations! This podcast is part of an Urban Planning Theory & History course developed by Dr. Ivis Garcia for the Texas A&M University Masters of Urban Planning program, but it’s also an invaluable resource for practicing and aspiring planners everywhere. Whether you're a student, a seasoned planner, or an aspiring professional, this podcast offers key principles and practical information to enhance your understanding of urban planning and ace the AICP exam."
-  series_spotify: "https://open.spotify.com/show/2fb2DFImrKdIfsJNo1bX04"
-  duration: "509204"
-  classes_assigned:
-    - class_day: "ENVN4320_W5D2"
-      date: "2026-09-24T16:00:00"
-  duration_string: "0:8:29"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
-  attachments:
-    []
-- topics:
     - "Vectors"
   themes:
     - "Pathogens"
-  deadline: null
+  deadline: "2026-11-12T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -65,33 +24,54 @@
   series: "Public Health On Call"
   series_description: "Evidence and experts to help you understand today's public health news—and what it means for tomorrow."
   series_spotify: "https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU"
-  duration: "710198"
+  duration: 710
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
-  duration_string: "0:11:50"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:11:50"
+  class_start: "ENVN4320_W12D2"
+  date_start: "2026-11-12T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D2"
+  date_end: "2026-11-12T16:00:00"
+  week_end: 12
+  topics_possible:
+    - "Vectors"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "710198"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-06-17"
+  published: "2026-06-17"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4"
+  assigned: true
+  class_days:
+    - "ENVN4320_W13D1"
+    - "ENVN4320_W12D2"
+  authors: "Public Health On Call"
+  creator: "Public Health On Call"
+  author_first: "Call"
+  author_last: "Call"
+  author_display: "Public Health On Call"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Climate Change & Extreme Weather"
   themes:
     - "Disasters"
-  deadline: null
+  deadline: "2026-09-08T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
   course_number: 4320
   projects:
     - "Human Health & the Environment Fall 2026"
-    - "Biology 2 Lab Fall 2026"
   area: "teaching"
   tags:
     - "teaching"
@@ -99,7 +79,7 @@
     - "background"
     - "podcast"
   created: "2026-08-28"
-  title: "A Storm is Brewing. Is it Climate Change?"
+  title: "A Storm is Brewing - Is it Climate Change?"
   url_spotify: "https://open.spotify.com/episode/0KqTnupchaRay7qI7QuiKU"
   description: "For years, we were told it wasn’t possible to link specific weather events to global warming — and that made communicating about climate change difficult: When extreme weather events were in the news, climate change was often left out of the story. This week, we tell the story of how that changed. We talk to the scientists who figured out how to model the role of climate change in events like Hurricane Harvey — the climate detectives who blew the case of extreme weather wide open.Guests: Dr. Peter Stott, UK Met Office; Dr. Friederike (Fredi) Otto, Grantham Institute for Climate Change and the Environment; Dr. Stephanie Herring, NOAACalls to Action:  Help out climate scientists from your couch! Climate scientists rely on accurate weather data to produce and test their models. But lots of historical weather data is still locked away in handwritten records from the 1800s, like old ships’ logs. Now, you can help rescue that data — by transcribing old temperature and weather logs! Check out the project Weather Rescue, which connects volunteers with documents that need transcribing. Especially good if you're a pro at deciphering cursive handwriting...  Talk about the weather! If an extreme weather event linked to climate change occurs in your region, talk to your friends and family about how climate change is affecting the weather they’re experiencing. One goal of scientists like Fredi Otto is to help get climate science into the conversation — and that only works if people HAVE that conversation. People like you! Further Reading: You can find more information and recent studies on extreme weather events online at World Weather Attribution  Check out Dr. Fredi Otto's book about the development of rapid event attribution, Angry Weather, or Dr. Peter Stott's memoir about his experiences as a climate scientist, Hot Air  The American Meteorological Society publishes an annual round-up of the most interesting extreme weather event attribution studies, edited by Drs. Stephanie Herring and Peter Stott. If you liked this episode, you might like some of these past shows: Unnatural Disasters and How TV Weathercasters Went from Climate Skeptics to Champions. If you take an action we recommend in one of our episodes, do us a favor and tell us about it! We’d love to hear how it went and what it felt like. Record a short voice memo on your phone and send it to us via our Listener Mail Form. We might use it in an upcoming episode. Find all the actions we’ve recommended on our show here!Credits:How to Save a Planet is a Spotify original podcast and Gimlet production. It's hosted by Alex Blumberg.This episode was produced by Rachel Waldholz with help from Daniel Ackerman, Hannah Chinn and Nicole Welch. The rest of our reporting and producing team are Kendra Pierre-Louis and Anna Ladd.  Our supervising producer is Katelyn Bogucki. Our editor is Caitlin Kenney. Sound design and mixing by Peter Leonard and Lonnie Ro with original music by Peter Leonard, Emma Munger, and Billy Libby.Our fact-checker this episode is Claudia Geib.Special thanks to Dr. Stephanie Herring at NOAA for explaining a lot of this science to us so that we could explain it to you! Learn more about your ad choices. Visit podcastchoices.com/adchoices"
   released: "2022-01-27"
@@ -107,7 +87,7 @@
   series: "How to Save a Planet"
   series_description: "Climate change. We know. It can feel too overwhelming. But what if there was a show about climate change that left you feeling... energized? One so filled with possibility that you actually wanted to listen? Join us, journalist Alex Blumberg and a crew of climate nerds, as we bring you smart, inspiring stories about the mess we're in and how we can get ourselves out of it.Check out our Calls to Action archive here for all of the actions we've recommended on the show. Send us your ideas or feedback with our Listener Mail Form. And follow us on Twitter and Instagram.How to Save a Planet is reported and produced by Kendra Pierre-Louis, Rachel Waldholz, Anna Ladd, Daniel Ackerman, and Hannah Chinn. Our intern is Nicole Welch. Our supervising producers are Katelyn Bogucki and Lauren Silverman. Our editor is Caitlin Kenney. Sound design and mixing by Peter Leonard with original music from Peter Leonard and Emma Munger."
   series_spotify: "https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6"
-  duration: "1949779"
+  duration: 1949
   classes_assigned:
     - class_day: "ENVN4320_W2D2"
       date: "2026-09-03T16:00:00"
@@ -115,20 +95,43 @@
       date: "2026-09-08T13:00:00"
     - class_day: "ENVN4320_W3D1"
       date: "2026-09-08T16:00:00"
-  duration_string: "0:32:29"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:32:29"
+  class_start: "ENVN4320_W3D1"
+  date_start: "2026-09-08T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W3D1"
+  date_end: "2026-09-08T16:00:00"
+  week_end: 3
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+  themes_possible:
+    - "Disasters"
+  type: "podcast"
+  selected: false
+  duration_ms: "1949779"
+  course_name: "Human Health & the Environment"
+  published_at: "2022-01-27"
+  published: "2022-01-27"
+  year: "2022"
+  cover: "https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43"
+  assigned: true
+  class_days:
+    - "ENVN4320_W2D2"
+    - "BIOL1750_W3D1"
+    - "ENVN4320_W3D1"
+  authors: "How to Save a Planet"
+  creator: "How to Save a Planet"
+  author_first: "Planet"
+  author_last: "Planet"
+  author_display: "How to Save a Planet"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Zoonoses"
   themes:
     - "Pathogens"
-  deadline: null
+  deadline: "2026-12-01T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -142,7 +145,7 @@
     - "background"
     - "podcast"
   created: "2026-08-29"
-  title: "Animal Diseases and Human Health: The Sloth and Screwworm Episode"
+  title: "Animal Diseases and Human Health - The Sloth and Screwworm Episode"
   url_spotify: "https://open.spotify.com/episode/4V0aoyBiprLCm4B6F4wAfT"
   description: "About this episode:   Headlines about sick sloths in Florida and the reemergence of the New World screwworm in the southwest are raising concerns about potential animal-to-human spillover of certain diseases. In this episode: an update on gammaherpesvirus at Sloth World, why experts are concerned about new screwworm cases, and what both of these situations may mean for human health. Guest:  Dr. Meghan Davis, PhD, MPH, is a veterinarian and chair of the Master of Public Health program at the Johns Hopkins Bloomberg School of Public Health. Host:   Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health.  Show links and related content:    Mass Sloth Deaths in Florida Are a Warning About Wildlife Trade and Pandemic Risk, Scientists Say—Inside Climate News   USDA Confirms Presence of New World Screwworm in the United States—USDA   Could One Health Prevent the Next Pandemic?—Public Health On Call (September 2025)   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University."
   released: "2026-06-25"
@@ -150,24 +153,47 @@
   series: "Public Health On Call"
   series_description: "Evidence and experts to help you understand today's public health news—and what it means for tomorrow."
   series_spotify: "https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU"
-  duration: "1308416"
+  duration: 1308
   classes_assigned:
     - class_day: "ENVN4320_W15D1"
       date: "2026-12-01T16:00:00"
-  duration_string: "0:21:48"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:21:48"
+  class_start: "ENVN4320_W15D1"
+  date_start: "2026-12-01T16:00:00"
+  week_start: 15
+  class_end: "ENVN4320_W15D1"
+  date_end: "2026-12-01T16:00:00"
+  week_end: 15
+  topics_possible:
+    - "Zoonoses"
+    - "One Health"
+    - "Epidemics & Pandemics"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "1308416"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-06-25"
+  published: "2026-06-25"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1fd8b6654d91c58c4a205b08fd"
+  assigned: true
+  class_days:
+    - "ENVN4320_W15D1"
+  authors: "Public Health On Call"
+  creator: "Public Health On Call"
+  author_first: "Call"
+  author_last: "Call"
+  author_display: "Public Health On Call"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Fires"
   themes:
     - "Disasters"
-  deadline: null
+  deadline: "2026-09-17T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -189,7 +215,7 @@
   series: "Short Wave"
   series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
   series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
-  duration: "801149"
+  duration: 801
   classes_assigned:
     - class_day: "ENVN4320_W3D2"
       date: "2026-09-10T16:00:00"
@@ -197,13 +223,36 @@
       date: "2026-09-15T16:00:00"
     - class_day: "ENVN4320_W4D2"
       date: "2026-09-17T16:00:00"
-  duration_string: "0:13:21"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:13:21"
+  class_start: "ENVN4320_W4D2"
+  date_start: "2026-09-17T16:00:00"
+  week_start: 4
+  class_end: "ENVN4320_W4D2"
+  date_end: "2026-09-17T16:00:00"
+  week_end: 4
+  topics_possible:
+    - "Fires"
+  themes_possible:
+    - "Disasters"
+  type: "podcast"
+  selected: false
+  duration_ms: "801149"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-07-29"
+  published: "2026-07-29"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f3b5da52b76c4eb91bb3c111c"
+  assigned: true
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+    - "ENVN4320_W4D2"
+  authors: "Short Wave"
+  creator: "Short Wave"
+  author_first: "Wave"
+  author_last: "Wave"
+  author_display: "Short Wave"
+  profile: "podcast"
   attachments:
     []
 - topics:
@@ -236,14 +285,37 @@
   series: "Consider This from NPR"
   series_description: "The hosts of NPR's All Things Considered help you make sense of a major news story and what it means for you, in 15 minutes. New episodes six days a week, Sunday through Friday. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Consider This."
   series_spotify: "https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH"
-  duration: "361534"
-  duration_string: "0:6:1"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration: 361
+  duration_string: "00:06:01"
+  class_start: "ENVN4320_W3D2"
+  date_start: "2026-09-10T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W3D2"
+  date_end: "2026-09-10T16:00:00"
+  week_end: 3
+  topics_possible:
+    - "Floods"
+  themes_possible:
+    - "Disasters"
+  type: "podcast"
+  selected: false
+  duration_ms: "361534"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-08-27"
+  published: "2026-08-27"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01"
+  assigned: true
+  class_days:
+    - "ENVN4320_W3D1"
+    - "ENVN4320_W3D2"
+  deadline: "2026-09-10T16:00:00"
+  authors: "Consider This from NPR"
+  creator: "Consider This from NPR"
+  author_first: "NPR"
+  author_last: "NPR"
+  author_display: "Consider This from NPR"
+  profile: "podcast"
   attachments:
     []
 - topics:
@@ -278,14 +350,38 @@
   series: "Big Picture Science"
   series_description: "The surprising connections in science and technology that give you the Big Picture. Astronomer Seth Shostak and science journalist Molly Bentley are joined each week by leading researchers, techies, and journalists to provide a smart and humorous take on science. Our regular 'Skeptic Check' episodes cast a critical eye on pseudoscience."
   series_spotify: "https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL"
-  duration: "3283069"
-  duration_string: "0:54:43"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration: 3283
+  duration_string: "00:54:43"
+  class_start: "ENVN4320_W4D2"
+  date_start: "2026-09-17T16:00:00"
+  week_start: 4
+  class_end: "ENVN4320_W4D2"
+  date_end: "2026-09-17T16:00:00"
+  week_end: 4
+  topics_possible:
+    - "Fires"
+  themes_possible:
+    - "Disasters"
+  type: "podcast"
+  selected: false
+  duration_ms: "3283069"
+  course_name: "Human Health & the Environment"
+  published_at: "2024-08-19"
+  published: "2024-08-19"
+  year: "2024"
+  cover: "https://i.scdn.co/image/ab67656300005f1f188f54599e90d89a077379e7"
+  assigned: true
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+    - "ENVN4320_W4D2"
+  deadline: "2026-09-17T16:00:00"
+  authors: "Big Picture Science"
+  creator: "Big Picture Science"
+  author_first: "Science"
+  author_last: "Science"
+  author_display: "Big Picture Science"
+  profile: "podcast"
   attachments:
     []
 - topics:
@@ -294,7 +390,7 @@
   themes:
     - "Disasters"
     - "Infrastructure"
-  deadline: null
+  deadline: "2026-09-22T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -308,32 +404,55 @@
     - "background"
     - "podcast"
   created: "2026-08-29"
-  title: "Climate: Fighting Extreme Heat In 2026"
+  title: "Climate - Fighting Extreme Heat In 2026"
   url_spotify: "https://open.spotify.com/episode/5wTsq0Cx1wwAR5l2OvjuDi"
   description: "Extreme heat isn’t just an inconvenience. It’s a growing public health threat.More than 40 million people across the U.S. have remained under heat alerts this month. Heat remains the deadliest extreme weather event in the United States. At least 44 people have died as a result of July heatwaves. And in Europe, heatwaves killed more than 10,000 people in June, according to health data published this month.Climate change is making heatwaves hotter and more frequent. And high temps aren’t just being reported in daytime. Nighttime temperatures are higher than ever. And scientists say that’s raising the risk of heat exhaustion and heatstroke – and taking away crucial time for you and the planet to recover.What do you need to know about the effects of heat on your health? And how you can stay safe?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
   released: "2026-07-23"
-  image: "![Climate: Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)"
+  image: "![Climate - Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)"
   series: "1A"
   series_description: "Listening to the news can feel like a journey. But 1A guides you beyond the headlines – and cuts through the noise. Let's get to the heart of the story, together – on 1A. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for 1A."
   series_spotify: "https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK"
-  duration: "2597041"
+  duration: 2597
   classes_assigned:
     - class_day: "ENVN4320_W5D1"
       date: "2026-09-22T16:00:00"
-  duration_string: "0:43:17"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:43:17"
+  class_start: "ENVN4320_W5D1"
+  date_start: "2026-09-22T16:00:00"
+  week_start: 5
+  class_end: "ENVN4320_W5D1"
+  date_end: "2026-09-22T16:00:00"
+  week_end: 5
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Heat Islands"
+  themes_possible:
+    - "Disasters"
+    - "Infrastructure"
+  type: "podcast"
+  selected: false
+  duration_ms: "2597041"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-07-23"
+  published: "2026-07-23"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849"
+  assigned: true
+  class_days:
+    - "ENVN4320_W5D1"
+  authors: "1A"
+  creator: "1A"
+  author_first: "1A"
+  author_last: "1A"
+  author_display: "1A"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Healthy Housing"
   themes:
     - "Infrastructure"
-  deadline: null
+  deadline: "2026-09-29T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -347,7 +466,7 @@
     - "background"
     - "podcast"
   created: "2026-08-29"
-  title: "Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health"
+  title: "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
   url_spotify: "https://open.spotify.com/episode/2K4BrT85srznbG9Bgl6zw2"
   description: "About this episode:   Recent research from the Johns Hopkins Bloomberg School of Public Health finds that living in a compact metropolitan setting could yield more health benefits than living in a more sprawling suburban area. In this episode: the report's lead researcher, Shima Hamidi, explains why this is the case and how communities can reshape infrastructure to foster mobility and connection. Guest:  Shima Hamidi, PhD, MSc, is a Bloomberg Associate Professor of American Health in the Department of Environmental Health and Engineering and director of the Center for Smart Transportation. Host:   Stephanie Desmon, MA, is a former journalist, author, and the director of public relations and communications for the Johns Hopkins Center for Communication Programs. Show links and related content:    Sprawl Rankings Reveal Health Benefits and Cost Offsets in Compact, Connected U.S. County and Metro Areas—Johns Hopkins Bloomberg School of Public Health   Mapping Urban Sprawl in the U.S.@bloombergamericanhealth via Instagram   Associations between Urban Sprawl and Life Expectancy in the United States—International Journal of Environmental Research and Public Health   Relationship between urban sprawl and physical activity, obesity, and morbidity - update and refinement—Health & Place   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University."
   released: "2026-07-22"
@@ -355,24 +474,48 @@
   series: "Public Health On Call"
   series_description: "Evidence and experts to help you understand today's public health news—and what it means for tomorrow."
   series_spotify: "https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU"
-  duration: "916668"
+  duration: 916
   classes_assigned:
     - class_day: "ENVN4320_W6D1"
       date: "2026-09-29T16:00:00"
-  duration_string: "0:15:16"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:15:16"
+  class_start: "ENVN4320_W6D1"
+  date_start: "2026-09-29T16:00:00"
+  week_start: 6
+  class_end: "ENVN4320_W6D1"
+  date_end: "2026-09-29T16:00:00"
+  week_end: 6
+  topics_possible:
+    - "Healthy Housing"
+    - "Environmental Justice"
+  themes_possible:
+    - "Infrastructure"
+  type: "podcast"
+  selected: false
+  duration_ms: "916668"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-07-22"
+  published: "2026-07-22"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1fa9f079a209a1669ed8f19e40"
+  assigned: true
+  class_days:
+    - "ENVN4320_W6D1"
+  authors: "Public Health On Call"
+  creator: "Public Health On Call"
+  author_first: "Call"
+  author_last: "Call"
+  author_display: "Public Health On Call"
+  profile: "podcast"
   attachments:
     []
 - topics:
-    - "Epidemics & Pandemics"
+    - "Environmental Justice"
+    - "Redlining"
   themes:
-    - "Pathogens"
-  deadline: null
+    - "Infrastructure"
+    - "Introduction"
+  deadline: "2026-09-24T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -386,25 +529,111 @@
     - "background"
     - "podcast"
   created: "2026-08-28"
-  title: "Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?"
+  title: "From Redlining to Inclusive Planning"
+  url_spotify: "https://open.spotify.com/episode/6Bbzj0S37EBZladi54d3Dr"
+  description: "The Planning Accreditation Board (PAB) and AICP Code of Ethics highlight the importance of justice, equity, diversity, and inclusion (DEI) in urban planning. Planners must promote social justice, fair resource distribution, and support historically disadvantaged groups. Practical tools from the PAS Report address housing, transportation, and public health for communities of color. Historical segregation practices, like redlining, contrast with modern equitable development efforts. Effective stakeholder engagement uses conflict resolution, consensus building, mediation, and arbitration. Environmental justice, mandated by Executive Order 12898, ensures equal protection from hazards. Equitable taxation policies and participatory budgeting are essential. Policy and fiscal impact analyses guide informed decisions. By upholding DEI values, planners create more inclusive urban environments."
+  released: "2024-07-26"
+  image: "![From Redlining to Inclusive Planning](https://i.scdn.co/image/ab67656300005f1f6840f2e6656d0656a2294160)"
+  series: "Urban Planning Foundations "
+  series_description: "Welcome to Urban Planning Foundations! This podcast is part of an Urban Planning Theory & History course developed by Dr. Ivis Garcia for the Texas A&M University Masters of Urban Planning program, but it’s also an invaluable resource for practicing and aspiring planners everywhere. Whether you're a student, a seasoned planner, or an aspiring professional, this podcast offers key principles and practical information to enhance your understanding of urban planning and ace the AICP exam."
+  series_spotify: "https://open.spotify.com/show/2fb2DFImrKdIfsJNo1bX04"
+  duration: 509
+  classes_assigned:
+    - class_day: "ENVN4320_W5D2"
+      date: "2026-09-24T16:00:00"
+  duration_string: "00:08:29"
+  class_start: "ENVN4320_W5D2"
+  date_start: "2026-09-24T16:00:00"
+  week_start: 5
+  class_end: "ENVN4320_W5D2"
+  date_end: "2026-09-24T16:00:00"
+  week_end: 5
+  topics_possible:
+    - "Environmental Justice"
+    - "Redlining"
+  themes_possible:
+    - "Infrastructure"
+    - "Introduction"
+  type: "podcast"
+  selected: false
+  duration_ms: "509204"
+  course_name: "Human Health & the Environment"
+  episode_number: "6"
+  published_at: "2024-07-26"
+  published: "2024-07-26"
+  year: "2024"
+  cover: "https://i.scdn.co/image/ab67656300005f1f6840f2e6656d0656a2294160"
+  assigned: true
+  class_days:
+    - "ENVN4320_W5D2"
+  authors: "Urban Planning Foundations "
+  creator: "Urban Planning Foundations "
+  author_first: "Foundations"
+  author_last: "Foundations"
+  author_display: "Urban Planning Foundations "
+  profile: "podcast"
+  attachments:
+    []
+- topics:
+    - "Epidemics & Pandemics"
+  themes:
+    - "Pathogens"
+  deadline: "2026-12-03T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "podcast"
+  created: "2026-08-28"
+  title: "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?"
   url_spotify: "https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV"
   description: "The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
   released: "2026-08-25"
-  image: "![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)"
+  image: "![Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)"
   series: "1A"
   series_description: "Listening to the news can feel like a journey. But 1A guides you beyond the headlines – and cuts through the noise. Let's get to the heart of the story, together – on 1A. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for 1A."
   series_spotify: "https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK"
-  duration: "2754638"
+  duration: 2754
   classes_assigned:
     - class_day: "ENVN4320_W15D2"
       date: "2026-12-03T16:00:00"
-  duration_string: "0:45:54"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:45:54"
+  class_start: "ENVN4320_W15D2"
+  date_start: "2026-12-03T16:00:00"
+  week_start: 15
+  class_end: "ENVN4320_W15D2"
+  date_end: "2026-12-03T16:00:00"
+  week_end: 15
+  topics_possible:
+    - "Epidemics & Pandemics"
+    - "Zoonoses"
+    - "One Health"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "2754638"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-08-25"
+  published: "2026-08-25"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602"
+  assigned: true
+  class_days:
+    - "ENVN4320_W15D2"
+  authors: "1A"
+  creator: "1A"
+  author_first: "1A"
+  author_last: "1A"
+  author_display: "1A"
+  profile: "podcast"
   attachments:
     []
 - topics:
@@ -413,7 +642,7 @@
   themes:
     - "Infrastructure"
     - "Introduction"
-  deadline: null
+  deadline: "2026-09-24T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -435,17 +664,40 @@
   series: "Stuff You Should Know"
   series_description: "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered."
   series_spotify: "https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx"
-  duration: "3254491"
+  duration: 3254
   classes_assigned:
     - class_day: "ENVN4320_W5D2"
       date: "2026-09-24T16:00:00"
-  duration_string: "0:54:14"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:54:14"
+  class_start: "ENVN4320_W5D2"
+  date_start: "2026-09-24T16:00:00"
+  week_start: 5
+  class_end: "ENVN4320_W5D2"
+  date_end: "2026-09-24T16:00:00"
+  week_end: 5
+  topics_possible:
+    - "Environmental Justice"
+    - "Redlining"
+  themes_possible:
+    - "Infrastructure"
+    - "Introduction"
+  type: "podcast"
+  selected: false
+  duration_ms: "3254491"
+  course_name: "Human Health & the Environment"
+  published_at: "2021-02-11"
+  published: "2021-02-11"
+  year: "2021"
+  cover: "https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5"
+  assigned: true
+  class_days:
+    - "ENVN4320_W5D2"
+  authors: "Stuff You Should Know"
+  creator: "Stuff You Should Know"
+  author_first: "Know"
+  author_last: "Know"
+  author_display: "Stuff You Should Know"
+  profile: "podcast"
   attachments:
     []
 - topics:
@@ -454,7 +706,7 @@
   themes:
     - "Infrastructure"
     - "Disasters"
-  deadline: null
+  deadline: "2026-09-22T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -476,24 +728,47 @@
   series: "Short Wave"
   series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
   series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
-  duration: "658755"
+  duration: 658
   classes_assigned:
     - class_day: "ENVN4320_W5D1"
       date: "2026-09-22T16:00:00"
-  duration_string: "0:10:58"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:10:58"
+  class_start: "ENVN4320_W5D1"
+  date_start: "2026-09-22T16:00:00"
+  week_start: 5
+  class_end: "ENVN4320_W5D1"
+  date_end: "2026-09-22T16:00:00"
+  week_end: 5
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Heat Islands"
+  themes_possible:
+    - "Infrastructure"
+    - "Disasters"
+  type: "podcast"
+  selected: false
+  duration_ms: "658755"
+  course_name: "Human Health & the Environment"
+  published_at: "2024-06-12"
+  published: "2024-06-12"
+  year: "2024"
+  cover: "https://i.scdn.co/image/ab67656300005f1f63009efb8eab6ce32b692dbe"
+  assigned: true
+  class_days:
+    - "ENVN4320_W5D1"
+  authors: "Short Wave"
+  creator: "Short Wave"
+  author_first: "Wave"
+  author_last: "Wave"
+  author_display: "Short Wave"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Floods"
   themes:
     - "Disasters"
-  deadline: null
+  deadline: "2026-09-10T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -515,26 +790,48 @@
   series: "Short History Of..."
   series_description: "History is full of the extraordinary.    Each week, we'll transport you back in time to witness history's most incredible moments and remarkable people.    New episodes Mondays, or a week early for Noiser+ subscribers.    With Noiser+ you'll also get ad-free listening and exclusive content on shows across the Noiser podcast network. Click the subscription banner at the top of the feed to get started or head to noiser.com/subscriptions    ⁠A Short History of Ancient Rome⁠ - the debut book from the Noiser Network is out now! Discover the epic rise and fall of Rome like never before. Pick up your copy now at your local bookstore or visit ⁠⁠noiser.com/books⁠⁠ to learn more.    For advertising enquiries, email info@adelicious.fm    No part of this podcast may be used or reproduced in any manner for the purpose of training artificial intelligence technologies or systems. In accordance with Article 4(3) of the DSM Directive 2019/790, Noiser Ltd expressly reserves this work from the text and data mining exception."
   series_spotify: "https://open.spotify.com/show/2mcJ0sFMn4TdKCQrxoLPgO"
-  duration: "2862184"
+  duration: 2862
   classes_assigned:
     - class_day: "ENVN4320_W3D1"
       date: "2026-09-08T16:00:00"
     - class_day: "ENVN4320_W3D2"
       date: "2026-09-10T16:00:00"
-  duration_string: "0:47:42"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:47:42"
+  class_start: "ENVN4320_W3D2"
+  date_start: "2026-09-10T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W3D2"
+  date_end: "2026-09-10T16:00:00"
+  week_end: 3
+  topics_possible:
+    - "Floods"
+  themes_possible:
+    - "Disasters"
+  type: "podcast"
+  selected: false
+  duration_ms: "2862184"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-06-28"
+  published: "2026-06-28"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f"
+  assigned: true
+  class_days:
+    - "ENVN4320_W3D1"
+    - "ENVN4320_W3D2"
+  authors: "Short History Of..."
+  creator: "Short History Of..."
+  author_first: "Of.."
+  author_last: "Of.."
+  author_display: "Short History Of..."
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Healthy Housing"
   themes:
     - "Infrastructure"
-  deadline: null
+  deadline: "2026-09-29T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -556,24 +853,45 @@
   series: "Agents of Change in Environmental Justice"
   series_description: "Agents of Change in Environmental Justice brings you the voices and stories of next generation environmental health and justice leaders from underrepresented backgrounds."
   series_spotify: "https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U"
-  duration: "2757381"
+  duration: 2757
   classes_assigned:
     - class_day: "ENVN4320_W6D1"
       date: "2026-09-29T16:00:00"
-  duration_string: "0:45:57"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:45:57"
+  class_start: "ENVN4320_W6D1"
+  date_start: "2026-09-29T16:00:00"
+  week_start: 6
+  class_end: "ENVN4320_W6D1"
+  date_end: "2026-09-29T16:00:00"
+  week_end: 6
+  topics_possible:
+    - "Healthy Housing"
+  themes_possible:
+    - "Infrastructure"
+  type: "podcast"
+  selected: false
+  duration_ms: "2757381"
+  course_name: "Human Health & the Environment"
+  published_at: "2023-05-31"
+  published: "2023-05-31"
+  year: "2023"
+  cover: "https://i.scdn.co/image/ab67656300005f1f19347b0fba1311f9771a41a2"
+  assigned: true
+  class_days:
+    - "ENVN4320_W6D1"
+  authors: "Agents of Change in Environmental Justice"
+  creator: "Agents of Change in Environmental Justice"
+  author_first: "Justice"
+  author_last: "Justice"
+  author_display: "Agents of Change in Environmental Justice"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Vectors"
   themes:
     - "Pathogens"
-  deadline: null
+  deadline: "2026-11-12T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -595,19 +913,41 @@
   series: "Today, Explained"
   series_description: "Today, Explained is Vox's daily news explainer podcast. Hosts Sean Rameswaram and Noel King will guide you through the most important stories of the day.  Part of the Vox Media Podcast Network."
   series_spotify: "https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A"
-  duration: "1722697"
+  duration: 1722
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
-  duration_string: "0:28:42"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:28:42"
+  class_start: "ENVN4320_W12D2"
+  date_start: "2026-11-12T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D2"
+  date_end: "2026-11-12T16:00:00"
+  week_end: 12
+  topics_possible:
+    - "Vectors"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "1722697"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-07-23"
+  published: "2026-07-23"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c"
+  assigned: true
+  class_days:
+    - "ENVN4320_W13D1"
+    - "ENVN4320_W12D2"
+  authors: "Today, Explained"
+  creator: "Today, Explained"
+  author_first: "Today"
+  author_last: "Explained"
+  author_display: "Today, Explained"
+  profile: "podcast"
   attachments:
     []
 - topics:
@@ -639,21 +979,44 @@
   series: "Radiolab"
   series_description: "Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers. A given episode might whirl you through science, legal history, and into the home of someone halfway across the world. The show is known for innovative sound design, smashing information into music. It is hosted by Lulu Miller and Latif Nasser."
   series_spotify: "https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL"
-  duration: "4589218"
-  duration_string: "1:16:29"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration: 4589
+  duration_string: "01:16:29"
+  class_start: "ENVN4320_W15D1"
+  date_start: "2026-12-01T16:00:00"
+  week_start: 15
+  class_end: "ENVN4320_W15D1"
+  date_end: "2026-12-01T16:00:00"
+  week_end: 15
+  topics_possible:
+    - "Epidemics & Pandemics"
+    - "Zoonoses"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "4589218"
+  course_name: "Human Health & the Environment"
+  published_at: "2011-11-14"
+  published: "2011-11-14"
+  year: "2011"
+  cover: "https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4"
+  assigned: true
+  class_days:
+    - "ENVN4320_W15D1"
+  deadline: "2026-12-01T16:00:00"
+  authors: "Radiolab"
+  creator: "Radiolab"
+  author_first: "Radiolab"
+  author_last: "Radiolab"
+  author_display: "Radiolab"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Epidemics & Pandemics"
   themes:
     - "Pathogens"
-  deadline: null
+  deadline: "2026-12-03T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -675,24 +1038,45 @@
   series: "Big Picture Science"
   series_description: "The surprising connections in science and technology that give you the Big Picture. Astronomer Seth Shostak and science journalist Molly Bentley are joined each week by leading researchers, techies, and journalists to provide a smart and humorous take on science. Our regular 'Skeptic Check' episodes cast a critical eye on pseudoscience."
   series_spotify: "https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL"
-  duration: "3595964"
+  duration: 3595
   classes_assigned:
     - class_day: "ENVN4320_W15D2"
       date: "2026-12-03T16:00:00"
-  duration_string: "0:59:55"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:59:55"
+  class_start: "ENVN4320_W15D2"
+  date_start: "2026-12-03T16:00:00"
+  week_start: 15
+  class_end: "ENVN4320_W15D2"
+  date_end: "2026-12-03T16:00:00"
+  week_end: 15
+  topics_possible:
+    - "Epidemics & Pandemics"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "3595964"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-05-11"
+  published: "2026-05-11"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f9ef19db5e40020cbb9f1c79d"
+  assigned: true
+  class_days:
+    - "ENVN4320_W15D2"
+  authors: "Big Picture Science"
+  creator: "Big Picture Science"
+  author_first: "Science"
+  author_last: "Science"
+  author_display: "Big Picture Science"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Vectors"
   themes:
     - "Pathogens"
-  deadline: null
+  deadline: "2026-11-12T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -714,26 +1098,48 @@
   series: "Short Wave"
   series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
   series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
-  duration: "719699"
+  duration: 719
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
-  duration_string: "0:11:59"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:11:59"
+  class_start: "ENVN4320_W12D2"
+  date_start: "2026-11-12T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D2"
+  date_end: "2026-11-12T16:00:00"
+  week_end: 12
+  topics_possible:
+    - "Vectors"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "719699"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-05-27"
+  published: "2026-05-27"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc"
+  assigned: true
+  class_days:
+    - "ENVN4320_W13D1"
+    - "ENVN4320_W12D2"
+  authors: "Short Wave"
+  creator: "Short Wave"
+  author_first: "Wave"
+  author_last: "Wave"
+  author_display: "Short Wave"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Vectors"
   themes:
     - "Pathogens"
-  deadline: null
+  deadline: "2026-11-12T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -755,26 +1161,48 @@
   series: "Short Wave"
   series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
   series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
-  duration: "794462"
+  duration: 794
   classes_assigned:
     - class_day: "ENVN4320_W13D1"
       date: "2026-11-17T16:00:00"
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
-  duration_string: "0:13:14"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:13:14"
+  class_start: "ENVN4320_W12D2"
+  date_start: "2026-11-12T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D2"
+  date_end: "2026-11-12T16:00:00"
+  week_end: 12
+  topics_possible:
+    - "Vectors"
+  themes_possible:
+    - "Pathogens"
+  type: "podcast"
+  selected: false
+  duration_ms: "794462"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-06-30"
+  published: "2026-06-30"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1"
+  assigned: true
+  class_days:
+    - "ENVN4320_W13D1"
+    - "ENVN4320_W12D2"
+  authors: "Short Wave"
+  creator: "Short Wave"
+  author_first: "Wave"
+  author_last: "Wave"
+  author_display: "Short Wave"
+  profile: "podcast"
   attachments:
     []
 - topics:
     - "Drought"
   themes:
     - "Disasters"
-  deadline: null
+  deadline: "2026-09-17T16:00:00"
   semesters:
     - "26f"
   course_prefix: "ENVN"
@@ -796,18 +1224,43 @@
   series: "Short Wave"
   series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
   series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
-  duration: "751412"
+  duration: 751
   classes_assigned:
     - class_day: "ENVN4320_W4D1"
       date: "2026-09-15T16:00:00"
     - class_day: "ENVN4320_W4D2"
       date: "2026-09-17T16:00:00"
-  duration_string: "0:12:31"
-  profile:
-    - "podcast"
-    - "hhe"
-  categories:
-    - "podcast"
-    - "ENVN4320"
+  duration_string: "00:12:31"
+  class_start: "ENVN4320_W4D2"
+  date_start: "2026-09-17T16:00:00"
+  week_start: 4
+  class_end: "ENVN4320_W4D2"
+  date_end: "2026-09-17T16:00:00"
+  week_end: 4
+  topics_possible:
+    - "Drought"
+    - "Climate Change & Extreme Weather"
+    - "Environmental Justice"
+    - "One Health"
+  themes_possible:
+    - "Disasters"
+  type: "podcast"
+  selected: false
+  duration_ms: "751412"
+  course_name: "Human Health & the Environment"
+  published_at: "2023-03-21"
+  published: "2023-03-21"
+  year: "2023"
+  cover: "https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86"
+  assigned: true
+  class_days:
+    - "ENVN4320_W4D1"
+    - "ENVN4320_W4D2"
+  authors: "Short Wave"
+  creator: "Short Wave"
+  author_first: "Wave"
+  author_last: "Wave"
+  author_display: "Short Wave"
+  profile: "podcast"
   attachments:
     []

@@ -22,12 +22,13 @@
   css:
     - "slides-teaching.css"
   defaultTemplate: "tpl-default-lecture"
-  profile:
-    - "slides"
-    - "hhe"
-  categories:
-    - "slides"
-    - "ENVN4320"
+  class_start: "ENVN4320_W3D1"
+  date_start: "2026-09-08T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W3D1"
+  date_end: "2026-09-08T16:00:00"
+  week_end: 3
+  profile: "slides"
   attachments:
     - "Climate_Change_Introduction.jpg"
     - "Climate_Change_Introduction-3.jpg"
@@ -57,12 +58,13 @@
     - "slides-teaching.css"
   defaultTemplate: "tpl-default-lecture"
   image: "figures/Amazing-natural-disasters.jpeg"
-  profile:
-    - "slides"
-    - "hhe"
-  categories:
-    - "slides"
-    - "ENVN4320"
+  class_start: "ENVN4320_W3D2"
+  date_start: "2026-09-10T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W4D1"
+  date_end: "2026-09-15T16:00:00"
+  week_end: 4
+  profile: "slides"
   attachments:
     - "Floods_&_Hurricanes.jpeg"
     - "Floods_&_Hurricanes.jpg"
@@ -70,6 +72,58 @@
     - "Floods_&_Hurricanes-1.jpg"
     - "Floods_&_Hurricanes-1.png"
     - "Floods_&_Hurricanes-2.jpg"
+- title: "Heat Islands - Infrastructure & Health"
+  image: "nasa_urban_heat_island.png"
+  tags:
+    - "teaching"
+    - "slides"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  dates:
+    - "2026-09-22T16:00:00"
+    - "2026-09-24T16:00:00"
+  videos:
+    - "What Does Extreme Heat Do to the Body?"
+    - "Extreme Heat Is the New Normal"
+    - "How Urban Heat Impacts Communities of Color"
+    - "Heatwave What is the urban heat island effect"
+  films:
+    []
+  class_days:
+    - "ENVN4320_W5D1"
+    - "ENVN4320_W5D2"
+  themes:
+    - "Infrastructure"
+  area: "teaching"
+  topics:
+    - "Heat Islands"
+  date_start: "2026-09-22T16:00:00"
+  class_start: "ENVN4320_W5D1"
+  week_start: 5
+  week_end: 5
+  class_end: "ENVN4320_W5D2"
+  date_end: "2026-09-24T16:00:00"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  course_name: "Human Health & the Environment"
+  profile: "slides"
+  attachments:
+    - "Heat_Islands-Infrastructure_&_Health.png"
+    - "heat_dome.jpg"
+    - "nasa_urban_heat_islands_USA.png"
+    - "heat_stress.png"
+    - "APHA_HealthGraphics2023-03-1.png"
+    - "heat_cvd_death_aha.jpg"
+    - "race_heat_death.jpg"
+    - "Urban-heat-infographic_Miami.png"
+    - "cre_uscounties.jpg"
+    - "heat_vulnerability.png"
+    - "greenery_heat_mitigation.png"
 - title: "Wildfires"
   topics:
     - "Fires"
@@ -95,18 +149,16 @@
   dates:
     - "2026-09-17T16:00:00"
   videos:
-    - "How Are Wildfires Making Us Sick_"
+    - "How Are Wildfires Making Us Sick"
     - "The Most Dangerous Wildfires All Have ONE THING in Common"
-    - "There’s Something Living in Wildfire Smoke _ NOVA _ PBS"
-  films:
-    - "Inside the LA Firestorm - The REAL Story _ Full Documentary"
-    - "Waking Up to Wildfires (Emmy-Nominated documentary, KVIE, PBS)"
-  profile:
-    - "slides"
-    - "hhe"
-  categories:
-    - "slides"
-    - "ENVN4320"
+  films: null
+  class_start: "ENVN4320_W4D2"
+  date_start: "2026-09-17T16:00:00"
+  week_start: 4
+  class_end: "ENVN4320_W4D2"
+  date_end: "2026-09-17T16:00:00"
+  week_end: 4
+  profile: "slides"
   attachments:
     - "forest_fire.jpeg"
     - "FirePyramids_BW_lg.jpg"

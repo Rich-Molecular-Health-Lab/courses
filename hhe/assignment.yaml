@@ -15,12 +15,7 @@
   area: "teaching"
   deadline: "2026-12-10T16:00:00"
   course_name: "Human Health & the Environment"
-  profile:
-    - "assignment"
-    - "hhe"
-  categories:
-    - "assignment"
-    - "ENVN4320"
+  profile: "assignment"
   attachments:
     []
 - title: "Poster_Rubric_ENVN4320"
@@ -40,11 +35,6 @@
   area: "teaching"
   deadline: "2026-12-10T16:00:00"
   course_name: "Human Health & the Environment"
-  profile:
-    - "assignment"
-    - "hhe"
-  categories:
-    - "assignment"
-    - "ENVN4320"
+  profile: "assignment"
   attachments:
     []

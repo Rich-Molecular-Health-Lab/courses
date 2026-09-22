@@ -39,6 +39,12 @@
   course_name: "Human Health & the Environment"
   videos:
     []
+  class_start: "ENVN4320_W9D1"
+  date_start: "2026-10-20T16:00:00"
+  week_start: 9
+  class_end: "ENVN4320_W14D2"
+  date_end: "2026-11-26T16:00:00"
+  week_end: 14
   title: "Breaks ENVN4320"
 - unit: "Disasters"
   chapter: 2
@@ -79,6 +85,8 @@
   content:
     - "Floods_&_Hurricanes"
     - "Wildfires"
+    - "How Are Wildfires Making Us Sick"
+    - "The Most Dangerous Wildfires All Have ONE THING in Common"
     - "Climate_Change_Introduction"
   background:
     - "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
@@ -86,14 +94,21 @@
     - "Are extreme wildfires the new normal?"
     - "Catching Fire"
     - "What we lose if the Great Salt Lake dries up"
-    - "A Storm is Brewing_ Is it Climate Change?"
+    - "A Storm is Brewing - Is it Climate Change?"
   slides:
     - "Floods_&_Hurricanes"
     - "Wildfires"
     - "Climate_Change_Introduction"
   course_name: "Human Health & the Environment"
   videos:
-    []
+    - "How Are Wildfires Making Us Sick"
+    - "The Most Dangerous Wildfires All Have ONE THING in Common"
+  class_start: "ENVN4320_W3D1"
+  date_start: "2026-09-08T16:00:00"
+  week_start: 3
+  class_end: "ENVN4320_W4D2"
+  date_end: "2026-09-17T16:00:00"
+  week_end: 4
   title: "Disasters"
 - unit:
     - "Exams ENVN4320"
@@ -136,6 +151,12 @@
   course_name: "Human Health & the Environment"
   videos:
     []
+  class_start: "ENVN4320_W8D2"
+  date_start: "2026-10-15T16:00:00"
+  week_start: 8
+  class_end: "ENVN4320_W17D1"
+  date_end: "2026-12-15T17:00:00"
+  week_end: 17
   title: "Exams ENVN4320"
 - unit: "Food"
   skip: true
@@ -175,6 +196,12 @@
   course_name: "Human Health & the Environment"
   videos:
     []
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
   title: "Food"
 - unit: "Infrastructure"
   chapter: 3
@@ -214,20 +241,31 @@
     - "2026-10-06T16:00:00"
   background:
     - "How Housing Discrimination Works"
-    - "06 - From Redlining to Inclusive Planning"
-    - "Climate_ Fighting Extreme Heat In 2026"
+    - "From Redlining to Inclusive Planning"
+    - "Climate - Fighting Extreme Heat In 2026"
     - "How The Current Heat Dome Can Affect Human Health"
-    - "Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health"
+    - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
     - "Nsilo Berry on making buildings healthier"
   slides:
-    []
+    - "Heat_Islands-Infrastructure_&_Health"
   course_name: "Human Health & the Environment"
   content:
-    - "What Does Extreme Heat Do to the Body_"
-    - "When Will Extreme Heat Become Unlivable_"
+    - "Heat_Islands-Infrastructure_&_Health"
+    - "What Does Extreme Heat Do to the Body?"
+    - "Extreme Heat Is the New Normal"
+    - "How Urban Heat Impacts Communities of Color"
+    - "Heatwave What is the urban heat island effect"
   videos:
-    - "What Does Extreme Heat Do to the Body_"
-    - "When Will Extreme Heat Become Unlivable_"
+    - "What Does Extreme Heat Do to the Body?"
+    - "Extreme Heat Is the New Normal"
+    - "How Urban Heat Impacts Communities of Color"
+    - "Heatwave What is the urban heat island effect"
+  class_start: "ENVN4320_W5D1"
+  date_start: "2026-09-22T16:00:00"
+  week_start: 5
+  class_end: "ENVN4320_W7D1"
+  date_end: "2026-10-06T16:00:00"
+  week_end: 7
   title: "Infrastructure"
 - unit: "Introduction"
   chapter: 1
@@ -270,6 +308,12 @@
   course_name: "Human Health & the Environment"
   videos:
     []
+  class_start: "ENVN4320_W1D2"
+  date_start: "2026-08-27T16:00:00"
+  week_start: 1
+  class_end: "ENVN4320_W2D2"
+  date_end: "2026-09-03T16:00:00"
+  week_end: 2
   title: "Introduction"
 - unit:
     - "Overview ENVN4320"
@@ -306,6 +350,12 @@
   course_name: "Human Health & the Environment"
   videos:
     []
+  class_start: "ENVN4320_W1D1"
+  date_start: "2026-08-25T16:00:00"
+  week_start: 1
+  class_end: "ENVN4320_W1D1"
+  date_end: "2026-08-25T16:00:00"
+  week_end: 1
   title: "Overview ENVN4320"
 - unit: "Pathogens"
   chapter: 5
@@ -349,19 +399,25 @@
   content:
     []
   background:
-    - "Animal Diseases and Human Health_ The Sloth and Screwworm Episode"
+    - "Animal Diseases and Human Health - The Sloth and Screwworm Episode"
     - "Patient Zero"
     - "Our tick nightmare"
     - "Ticks are a growing problem, no matter where you live"
     - "Should we reengineer the world's deadliest animal?"
     - "A New Test for Lyme Disease, Developed by High Schoolers"
-    - "Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?"
+    - "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?"
     - "Preventing Future Pandemics"
   slides:
     []
   course_name: "Human Health & the Environment"
   videos:
     []
+  class_start: "ENVN4320_W12D2"
+  date_start: "2026-11-12T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W16D1"
+  date_end: "2026-12-08T16:00:00"
+  week_end: 16
   title: "Pathogens"
 - unit:
     - "Review Days ENVN4320"
@@ -400,6 +456,12 @@
     []
   videos:
     []
+  class_start: "ENVN4320_W16D2"
+  date_start: "2026-12-10T16:00:00"
+  week_start: 16
+  class_end: "ENVN4320_W16D2"
+  date_end: "2026-12-10T16:00:00"
+  week_end: 16
   title: "Review Days ENVN4320"
 - unit: "Toxins"
   chapter: 4
@@ -456,4 +518,10 @@
   course_name: "Human Health & the Environment"
   videos:
     []
+  class_start: "ENVN4320_W7D2"
+  date_start: "2026-10-08T16:00:00"
+  week_start: 7
+  class_end: "ENVN4320_W12D1"
+  date_end: "2026-11-10T16:00:00"
+  week_end: 12
   title: "Toxins"
