@@ -1,0 +1,48 @@
+[
+  {
+    "listing": "/hhe/index.html",
+    "items": [
+      "/syllabi/hhe.html",
+      "/hhe/video/Extreme Heat Is the New Normal.html",
+      "/hhe/video/Heatwave What is the urban heat island effect.html",
+      "/hhe/video/How Urban Heat Impacts Communities of Color.html",
+      "/hhe/video/The Most Dangerous Wildfires All Have ONE THING in Common.html",
+      "/hhe/video/What Does Extreme Heat Do to the Body?.html",
+      "/hhe/video/What Does Extreme Heat Do to the Body_.html",
+      "/hhe/video/When Will Extreme Heat Become Unlivable_.html",
+      "/hhe/schedule.html"
+    ]
+  },
+  {
+    "listing": "/bio2lab_resources.html",
+    "items": [
+      "/resources/bio2lab/bio2_behavior.pdf"
+    ]
+  },
+  {
+    "listing": "/conbio/index.html",
+    "items": [
+      "/syllabi/conbio.html",
+      "/conbio/schedule.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/syllabi/hhe.html",
+      "/hhe/index.html",
+      "/hhe/schedule.html",
+      "/resources/conbio/case_convos/case_source_hubs.html",
+      "/conbio/index.html",
+      "/syllabi/conbio.html",
+      "/resources/conbio/fishing/procedure.pdf",
+      "/resources/conbio/fishing/questions.pdf",
+      "/resources/conbio/case_convos/case_study_rubric.docx",
+      "/resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf",
+      "/resources/conbio/case_convos/case_study_peer_feedback.pdf",
+      "/resources/conbio/case_convos/case_study_prep_sheet.docx",
+      "/resources/conbio/case_convos/case_study_prompt.html",
+      "/conbio/schedule.html"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+---
+title: "Invasive Species"
+date: "2026-09-10 12:41"
+profile:
+  - "textbook"
+  - "conbio"
+categories:
+  - "textbook"
+  - "BIOL4120"
+---
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Invasive Species
+**Ch No.:** 7 (Threats to Biodiversity)
+**Pages:** 131-152 (Invasive Alien Species)
+**PDF:** [simberloff_2010.pdf](../attachments/simberloff_2010.pdf)
+**Textbook:** Conservation biology for all *(see details below)*
+**Days Covered:** BIOL4120_W9D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Daniel Simberloff
+**Edition:**  (2010)
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![simberloff_2010.pdf](../attachments/simberloff_2010.pdf)
+
+:::
+

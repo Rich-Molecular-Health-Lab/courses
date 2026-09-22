@@ -1,0 +1,30 @@
+---
+title: "Invasive Alien Species"
+date: "2026-09-06 14:42"
+profile:
+  - "textbook"
+  - "conbio"
+categories:
+  - "textbook"
+  - "BIOL4120"
+---
+
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Textbook:** Conservation Biology *(see details below)*
+**Chapter:** 11 (Threats to Biodiversity)
+**Sections Assigned:** 11.1, 11.2, 11.4 (Invasive Alien Species)
+**Days Covered:** BIOL4120_W9D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology by Cardinale, Murdoch
+**Edition:** 2nd (2025-01-17)
+**ISBN:** 9780197667033 (etext)
+[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+
+:::
+

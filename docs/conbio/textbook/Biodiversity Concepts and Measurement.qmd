@@ -1,0 +1,30 @@
+---
+title: "Biodiversity Concepts and Measurement"
+date: "2026-09-06 14:39"
+profile:
+  - "textbook"
+  - "conbio"
+categories:
+  - "textbook"
+  - "BIOL4120"
+---
+
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Textbook:** Conservation Biology *(see details below)*
+**Chapter:** 3 (Foundations of Conservation Biology)
+**Sections Assigned:** 3.2, 3.3, 3.4, 3.5, 3.6 (Biodiversity Concepts & Measurement)
+**Days Covered:** BIOL4120_W2D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology by Cardinale, Murdoch
+**Edition:** 2nd (2025-01-17)
+**ISBN:** 9780197667033 (etext)
+[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+
+:::
+

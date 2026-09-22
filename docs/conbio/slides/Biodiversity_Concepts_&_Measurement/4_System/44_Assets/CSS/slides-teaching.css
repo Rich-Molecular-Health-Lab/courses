@@ -1,0 +1,266 @@
+/* ============================================================
+   Spacing & sizing scale
+   Single source of truth so box padding/margins stay consistent
+   across templates instead of each class inventing its own numbers.
+   ============================================================ */
+:root {
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 40px;
+
+  --font-caption: 15px;
+  --font-citation: 12px;
+  --font-body: 18px;
+  --font-list: 13px;
+  --font-title: 30px;
+  --font-title-lg: 40px;
+  --font-subtitle: 28px;
+}
+
+/* ============================================================
+   Images
+   object-fit: contain already prevents cropping/overflow for any
+   aspect ratio, so this part of the system was already sound.
+   ============================================================ */
+.fit-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.slide-image {
+  padding: var(--space-sm);
+  text-align: center;
+}
+
+.presentation-image {
+  padding: var(--space-sm);
+  text-align: center;
+}
+
+.slide-graphic {
+  padding: var(--space-xs);
+  text-align: center;
+  font-size: var(--font-list);
+}
+.slide-graphic:has(> :nth-child(5)) {
+  font-size: 11px;
+}
+
+/* ============================================================
+   Titles, subtitle, date, footers
+   Mostly fixed-length content by convention, so these get a
+   safety overflow rather than shrink tiers.
+   ============================================================ */
+.slide-title {
+  background: #ffffffBF;
+  text-align: left;
+  padding: 0 var(--space-md);
+  width: 100%;
+  font-weight: 800;
+  font-size: var(--font-title);
+}
+
+.presentation-title {
+  background: #ffffffBF;
+  text-align: left;
+  padding: 0 var(--space-md);
+  font-weight: 800;
+  font-size: var(--font-title-lg);
+}
+
+.presentation-subtitle {
+  background: #ffffffBF;
+  text-align: left;
+  padding: 0 var(--space-lg);
+  margin: 0 var(--space-sm);
+  width: 100%;
+  max-height: 80px;
+  overflow-y: auto;
+  font-weight: 600;
+  font-size: var(--font-subtitle);
+}
+
+.presentation-date {
+  text-align: right;
+  font-weight: 500;
+  padding: 2px var(--space-lg);
+  margin: 0 var(--space-lg);
+  font-size: 20px;
+}
+
+.footer-copyrite {
+  font-weight: 300;
+  text-align: right;
+  padding: 2px var(--space-lg);
+  margin-top: var(--space-md);
+}
+
+.footer-course {
+  text-align: left;
+  font-weight: 500;
+  padding: 0 var(--space-lg);
+  margin-top: var(--space-md);
+  border-top: 2px dotted gray;
+  border-bottom: 2px dotted gray;
+}
+
+.horizontal_dotted_line {
+  border-bottom: 2px dotted gray;
+}
+
+/* ============================================================
+   Content-aware text boxes
+   ============================================================
+   Reveal renders each Markdown block (heading, paragraph, list)
+   as one direct child of the box. A long bullet list is still
+   only ONE child though, so two kinds of check are combined:
+     - :has(> :nth-child(n))   -> n or more separate blocks
+     - :has(li:nth-child(n))   -> n or more items in any one list
+   Once a threshold is crossed, font-size/line-height/padding step
+   down a tier. If content still doesn't fit, overflow-y: auto lets
+   the box scroll instead of clipping text or breaking the layout.
+
+   NOTE: There's no reliable CSS-only way to shrink font size in
+   exact proportion to content length (that needs JavaScript, which
+   the Advanced Slides plugin doesn't support loading). These tier
+   thresholds (4/6 blocks, 6/9 list items, etc.) are starting points
+   - watch a few dense real slides and adjust the numbers to match
+   what actually overflows for you.
+   ============================================================ */
+
+.text-box {
+  background: #ffffffBF;
+  padding: var(--space-md) var(--space-xl);
+  font-size: var(--font-body);
+  line-height: 1.5;
+  text-align: left;
+  overflow-y: auto;
+}
+.text-box:has(> :nth-child(4)),
+.text-box:has(li:nth-child(6)) {
+  font-size: 16px;
+  line-height: 1.35;
+}
+.text-box:has(> :nth-child(6)),
+.text-box:has(li:nth-child(9)) {
+  font-size: 14px;
+  line-height: 1.25;
+  padding: var(--space-sm) var(--space-lg);
+}
+
+.right-box {
+  background: white;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.right-text {
+  padding: var(--space-sm) var(--space-md);
+  font-size: var(--font-list);
+  line-height: 1.4;
+  text-align: left;
+  overflow-y: auto;
+}
+.right-text:has(> :nth-child(4)),
+.right-text:has(li:nth-child(5)) {
+  font-size: 12px;
+  line-height: 1.3;
+}
+.right-text:has(> :nth-child(6)),
+.right-text:has(li:nth-child(8)) {
+  font-size: 11px;
+  line-height: 1.2;
+  padding: var(--space-xs) var(--space-sm);
+}
+
+.right-list {
+  overflow-y: auto;
+}
+.right-list > ul {
+  padding-left: 1em;
+  font-size: var(--font-list);
+  line-height: 1.4;
+  text-align: left;
+}
+.right-list:has(li:nth-child(6)) > ul {
+  font-size: 11px;
+  line-height: 1.25;
+}
+.right-list:has(li:nth-child(9)) > ul {
+  font-size: 10px;
+  line-height: 1.15;
+}
+
+.caption-box {
+  background: white;
+  border-radius: 5px;
+  text-align: center;
+  padding: var(--space-sm);
+  overflow-y: auto;
+}
+.feature-caption {
+  font-size: var(--font-caption);
+  text-align: center;
+  font-style: italic;
+  padding: var(--space-xs) var(--space-md);
+}
+.caption-box:has(> :nth-child(2)) .feature-caption {
+  font-size: 13px;
+}
+
+.video-caption {
+  text-align: left;
+  padding: var(--space-xs);
+  border-width: 1px 1px 1px 1px;
+  border-style: solid;
+  border-color: black;
+  background: #ffffffBF;
+  font-weight: 500;
+  margin-bottom: var(--space-xl);
+  overflow-y: auto;
+}
+
+.citation {
+  font-size: var(--font-citation);
+  font-weight: 300;
+}
+
+.feature {
+  border-width: 1px 1px 1px 4px;
+  border-style: solid;
+  border-color: black;
+  background: #b4a7d680;
+  padding: var(--space-sm);
+  font-weight: 600;
+  margin-bottom: var(--space-xl);
+  text-align: left;
+}
+
+/* ============================================================
+   Video embed
+   ============================================================ */
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe,
+iframe[src*="youtube.com"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+}

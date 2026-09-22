@@ -1,0 +1,49 @@
+---
+topics:
+  - "[Epidemics & Pandemics](../topics/Epidemics & Pandemics.qmd)"
+  - "[Zoonoses](../topics/Zoonoses.qmd)"
+themes:
+  - "[Pathogens](../units/Pathogens.qmd)"
+classes_assigned:
+  - "ENVN4320_W15D1"
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-09-01"
+title: "Patient Zero"
+url_spotify: "https://open.spotify.com/episode/1kLUeg9jURyuJTJ6qctukc"
+description: "The greatest mysteries have a shadowy figure at the center—someone who sets things in motion and holds the key to how the story unfolds. In epidemiology, this central character is known as Patient Zero—the case at the heart of an outbreak. This hour, Radiolab hunts for Patient Zeroes from all over the map. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising."
+released: "2011-11-14"
+image: "![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)"
+series: "Radiolab"
+series_description: "Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers. A given episode might whirl you through science, legal history, and into the home of someone halfway across the world. The show is known for innovative sound design, smashing information into music. It is hosted by Lulu Miller and Latif Nasser."
+series_spotify: "https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL"
+duration: "4589218"
+duration_string: "1:16:29"
+type: "background"
+---
+
+# Patient Zero
+
+![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
+
+**Duration:** `= this.duration_string`
+**Released:** 2011
+**Series:** Radiolab
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/1kLUeg9jURyuJTJ6qctukc)
+[Open Series in Spotify](https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL)
+
+The greatest mysteries have a shadowy figure at the center—someone who sets things in motion and holds the key to how the story unfolds. In epidemiology, this central character is known as Patient Zero—the case at the heart of an outbreak. This hour, Radiolab hunts for Patient Zeroes from all over the map. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+:::::
+

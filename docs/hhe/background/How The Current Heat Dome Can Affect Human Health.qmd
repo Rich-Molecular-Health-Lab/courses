@@ -1,0 +1,51 @@
+---
+topics:
+  - "[Climate Change & Extreme Weather](../topics/Climate Change & Extreme Weather.qmd)"
+  - "[Heat Islands](../topics/Heat Islands.qmd)"
+themes:
+  - "[Infrastructure](../units/Infrastructure.qmd)"
+  - "[Disasters](../units/Disasters.qmd)"
+deadline: 
+semesters:
+  - "26f"
+course_prefix: "ENVN"
+course_number: 4320
+projects:
+  - "1_Projects/1_Current/Human Health & the Environment Fall 2026"
+area: "teaching"
+tags:
+  - "teaching"
+  - "resource"
+  - "background"
+  - "podcast"
+created: "2026-08-28"
+title: "How The Current Heat Dome Can Affect Human Health"
+url_spotify: "https://open.spotify.com/episode/5a3ZUmBQD6SAAPIJDPgaZK"
+description: "Right now, there's a 'heat dome' lingering over the southwestern U.S. – a high pressure system that pushes hot air down and traps it, raising the temperature. Heat is becoming increasingly lethal as climate change causes more extreme heat. So in today's encore episode, we're exploring heat. NPR climate correspondent Lauren Sommer talks with Short Wave host Regina G. Barber about how the human body copes with extended extreme heat and how today's heat warning systems could better protect the public. With scientists predicting a very hot summer, if you can, stay cool out there, dear Short Wavers.What science story do you want to hear next on Short Wave? Email us at shortwave@npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+released: "2024-06-12"
+image: "![How The Current Heat Dome Can Affect Human Health](https://i.scdn.co/image/ab67656300005f1f63009efb8eab6ce32b692dbe)"
+series: "Short Wave"
+series_description: "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave."
+series_spotify: "https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa"
+duration: "658755"
+classes_assigned:
+  - "ENVN4320_W5D1"
+duration_string: "0:10:58"
+type: "background"
+---
+
+# How The Current Heat Dome Can Affect Human Health
+
+![How The Current Heat Dome Can Affect Human Health](https://i.scdn.co/image/ab67656300005f1f63009efb8eab6ce32b692dbe)
+
+**Duration:** `= this.duration_string`
+**Released:** 2024
+**Series:** Short Wave
+
+::::: {.callout-description collapse="true"}
+[Open Episode in Spotify](https://open.spotify.com/episode/5a3ZUmBQD6SAAPIJDPgaZK)
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Right now, there's a "heat dome" lingering over the southwestern U.S. – a high pressure system that pushes hot air down and traps it, raising the temperature. Heat is becoming increasingly lethal as climate change causes more extreme heat. So in today's encore episode, we're exploring heat. NPR climate correspondent Lauren Sommer talks with Short Wave host Regina G. Barber about how the human body copes with extended extreme heat and how today's heat warning systems could better protect the public. With scientists predicting a very hot summer, if you can, stay cool out there, dear Short Wavers.What science story do you want to hear next on Short Wave? Email us at shortwave@npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+:::::
+

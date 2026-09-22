@@ -1,0 +1,37 @@
+---
+title: "Extinctions and the practice of preventing them"
+date: "2026-09-10 12:41"
+profile:
+  - "textbook"
+  - "conbio"
+categories:
+  - "textbook"
+  - "BIOL4120"
+---
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Extinctions and the practice of preventing them
+**Ch No.:** 10 (Threats to Biodiversity)
+**Pages:** 181-198 (Extinction)
+**PDF:** [pimm_jenkins_2010.pdf](../attachments/pimm_jenkins_2010.pdf)
+**Textbook:** Conservation Biology for All *(see details below)*
+**Days Covered:** BIOL4120_W4D1, BIOL4120_W4D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Stuart L. Pimm, Clinton N. Jenkins
+**Edition:**  (2010)
+**ISBN:** 978-0-19-955423-2
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193202291)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![pimm_jenkins_2010.pdf](../attachments/pimm_jenkins_2010.pdf)
+
+:::
+
