@@ -3,4 +3,16 @@ date-format: "ddd MMM D, YYYY"
 subtitle: "Lecture Video"
 author: "Dr. Rich"
 image: "graphics/film_screenings.png"
-format: html
+format:
+  html:
+    toc: false
+    theme: sandstone
+    page-layout: full
+    smooth-scroll: true
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <script src="https://kit.fontawesome.com/eba65c29db.js" crossorigin="anonymous"></script>
+
+

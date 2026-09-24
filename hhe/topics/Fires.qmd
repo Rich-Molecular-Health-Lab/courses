@@ -1,6 +1,6 @@
 ---
 title: "Fires"
-date: "2026-08-29"
+date: "2026-09-17T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,2431 @@ listing:
   contents: "Fires_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-09-17T16:00:00, 2026-09-22T16:00:00
+
+<a class='btn btn-outline-primary p-3 m-2' href='slides/Wildfires/index.html'>Wildfires <i class='fa-solid fa-link'></i></a>
+
+### Videos or Films Watched
+
+### The Most Dangerous Wildfires All Have ONE THING in Common
+
+**PBS Terra**, *10 30, 2024*
+
+## Video (12:08)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/_uVdeK2nrrg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
+
+Fires are getting bigger and more homes are burning each year. In January 2025, 14 out of control wildfires tore through parts of Los Angeles and burnt over 18,000 structures and left at least 29 people dead. Firefighters are having to change tactics when it comes to the most destructive fires, but why? Jennifer Blach, Ph.D., just released a new study in the journal, Science, and her findings point to a new type of fire that is the culprit for all this destruction. 
+
+In this episode, we dive into this groundbreaking new study to learn why fires are getting more dangerous to humans and what we can do about it. Plus we have never-before-seen animations from NASA that show us exactly how these new fires behave. So tune in to learn about the future of fires and how to protect yourself and your home as fires change. 
+
+Get the PBS App to watch Weathered: Earth’s Extremes for free!  https://to.pbs.org/PBSAppWeathered
+
+If you're outside of the US and want to watch the show, you can check it out on PBS.org: https://to.pbs.org/WeatheredINTL
+
+Find free, curriculum-aligned teaching resources for Weathered on PBS LearningMedia! https://bit.ly/3YbUtef 
+
+Jennifer Balch’s new study in Science: https://www.science.org/doi/10.1126/science.adk5737 
+
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra. 
+
+Weathered is a show hosted by weather expert Maiya May and produced by Balance Media that helps explain the most common natural disasters, what causes them, how they’re changing, and what we can do to prepare.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+Thank you Margaret A. Carghill Philanthropies for supporting PBS.
+
+#californiawildfires #palisadesfire
+
+## Transcript
+
+### The new wildfire reality
+
+
+**0:00** · 80% of wildfire destruction is caused by one type of fire that until recently was rare. Scientists just figured out what these destructive fires have in common, and it's not what you might guess to understand what's going on. We talked to Battalion Chief, Mike McClintock, who fought this type of fire during the summer of 2024.
+
+**0:21** · And our conventional methods with fire engines and personnel were really ineffective. We had to get ahead of the fire and worry about life safety To understand why wildfire destruction has increased. We focus on the most obvious change in fires: they're getting bigger, but researcher Jennifer Balch says that might be a distraction. According to her new study, We've been focused on the wrong metric.
+
+**0:43** · The number of homes burned each year is going up. The Rim fire in California was massive at over 257,000 acres, but it only destroyed 11 homes and no one died. When you compare that to the Lahaina fire in Maui, which was a hundred times smaller, burned 2200 homes and buildings and was the deadliest fire in modern U.S. history, it's obvious that we're missing something.
+
+### Revisiting fire research
+
+**1:09** · In this episode, we're going to look at new research that could fundamentally change how we think about wildfire risk, what to expect in the future and what we can do to prevent losses. With entire towns being wiped off the map like Paradise, California, Jennifer and her team wanted to understand why.
+
+**1:32** · To figure out solutions, he knew that the first step was properly defining the problem, so rather than thinking about size, she approached fire from a new angle.
+
+**1:42** · What do the most destructive fires have in common?
+
+**1:45** · And until recently she didn't have the tools to answer this question.
+
+**1:49** · We've had really good data on how big they are, but we're only getting to the point where the satellites are getting good enough to give us information on a much finer temporal scale on an hour by hour basis.
+
+**1:59** · We have new high resolution data because NASA is doing a lot more than putting astronauts in space these days.
+
+**2:06** · NASA's done a lot over the years with studying the earth. We develop technology. We eventually launch into space on satellites, and we can see processes unfold across really large scales that we often can't see from a ground-based or human perspective.
+
+**2:17** · Jennifer looked at the time-based images of 60,000 fire events in the U.S. to analyze the way they spread and suddenly it made sense.
+
+**2:26** · This is a new discovery that we have made by putting together all of these different data sources and looking at fire from space.
+
+### Speed dictates destruction
+
+
+**2:33** · Today, so many science discoveries don't happen in the field, but in simulations powered by enormous supercomputers that perform quadrillions of calculations each second to model our climate. I got to visit one of these supercomputers in my new show, Weathered: Earth's Extremes, where I traveled the world to find out where we are and where we're going in this moment of climate change. You can watch right now on the PBS app, but back to fire.
+
+**2:58** · The results of Jennifer's investigation were striking. What almost all destructive fires have in common between 2001 and 2020 is speed. And this finding fundamentally changes how we approach fire management.
+
+**3:12** · Fires that move that fast.
+
+**3:13** · More than 4,000 acres a day account for 88% of the fire related damages that we see across the U.S. They are only 3% of the fires on record during that time. A very small number of fire events have huge consequences.
+
+**3:28** · And fast fires themselves changed in a worrying way during the study window. We'll get to that in a bit, but first, why are fast fires so destructive?
+
+### Firefighting in fast fires
+
+**3:37** · And why are they so destructive in a place like Southern California with some of the most experienced firefighters in the world, backed by impressive air support?
+
+**3:46** · The Bridge Fire was a great example, the fire activity was so significant, our conventional methods with fire engines and personnel were really ineffective.
+
+**3:54** · When fires are moving this fast, it's virtually impossible to put them out. When Mike's crew deployed to the Mountain High Ski Resort, wind was blowing embers miles ahead of the flaming front. Smoke reduced visibility and grounded aircrafts.
+
+**4:08** · Winds were significant at more than 50 miles an hour, we realized that the fire suppression, putting this fire out, on our side is not gonna happen and we're gonna have to move and shift our priorities.
+
+**4:19** · The fire was spreading quickly towards the town of Wrightwood just three miles away.
+
+**4:24** · There's a lot of similarities between the community of Paradise and the community of Wrightwood. We knew that going up there, we were gonna have a heck of a firefight.
+
+**4:33** · The comparison to Paradise, California is significant.
+
+**4:36** · In 2018, another fast fire burned over 18,000 structures and homes and killed almost 90 people. So the crew raced in an attempt to reach Wrightwood before the fire did.
+
+**4:48** · We had, you know, upwards of 50 engines on their way or there. We still had over 3000 structures immediately threatened.
+
+**4:56** · If you were to ask me at 30 minutes into this incident, where was our structure loss gonna be?
+
+**5:01** · I would say probably in upwards of one to 200.
+
+**5:04** · So they fought from house to house and help residents evacuate. By the end of September 10th, the Bridge Fire had exploded from 4,000 acres to over 34,000. This fire is part of a growing trend. During Jennifer's 20 year study period, fires got 249% faster across the West and 400% faster in California.
+
+### Drivers of rapid spread
+
+**5:26** · But what's making them faster?
+
+**5:29** · Forest management is often regarded as a primary driver of fire behavior. But according to Jennifer, it isn't a significant factor in fast fires.
+
+**5:38** · The fastest fires are actually in grasslands.
+
+**5:40** · They're very flammable fuels. They're very thin, they're easy to catch on fire. They host fires that move really fast.
+
+**5:46** · In fact, 80% of fast fires in Jennifer's study occurred primarily in grass and shrublands, not forests. It turns out that there are three elements needed for fast fire. One: ignition, two: dry, receptive fuel, and three: wind. Wind and ignition are difficult to change and control, but there's a piece of the fast fire puzzle that's a key force in their rise: dry, receptive fuel.
+
+**6:14** · We've had fuels that have been drying out all summer long and then we just throw in a little weather and a fire. And those are mixtures and that recipe for extreme fire behavior.
+
+**6:23** · And firefighters even have a term for this fire weather. In Canada, they call it crossover because it occurs when the temperature in Celsius reaches and crosses over the relative humidity level and it's explosive. At that point, fire can rip through dry fuels and spread extremely fast. In the U.S. we use the more general term red flag conditions.
+
+**6:46** · So what does that mean for the future of fast fires?
+
+### Climate change and risk
+
+
+**6:50** · With increasing temperatures, we know that we're essentially pulling more moisture out of fuels, we're making them drier. And that's the big impact of climate change on fire is making fuels more available and more available throughout the year.
+
+**7:05** · We're seeing extreme weather patterns change and and intensify across the globe. We're getting all sorts of situations in which weather patterns are driving extreme fire behavior.
+
+**7:13** · Models predict that the number of extreme fire spread events will more than double with two degrees Celsius of global warming, plus a doubling of acres burned. And that's not far from our current level of warming. We can't have a fast fire without strong wind. But the type of wind that causes many destructive fires has a special characteristic that makes it particularly dangerous.
+
+### The danger of wind events
+
+**7:35** · We worked with NASA to create scientifically accurate animations of the wind and fire progressions during a handful of fast, destructive fires to illustrate what's going on.
+
+**7:45** · I'm hard pressed to think of an event that destroyed more than a hundred homes that didn't have wind involved.
+
+**7:51** · And the common denominator for us to make it hard to control wildfires is wind.
+
+**7:55** · When strong winds meet or start a wildfire, they throw embers miles ahead of the flaming front, starting new fires and spreading the wildfire outward. These conditions supercharged the East Troublesome Fire. The fire was so fast, moving at 18 miles in a single day, that it jumped The Continental Divide, an area with very little fuel for fire. In the Marshall Fire, we can see a type of wind that's particularly dangerous: down slope winds.
+
+**8:23** · As wind drops in elevation, atmospheric pressure increases, which dries and warms the air. Temperatures can increase by as much as 5.5 degrees Fahrenheit for every 1000 feet of lost elevation, drying vegetation, and eliminating the need for high temperatures with wildfire. The fire started on December 30th, just outside of Boulder, Colorado.
+
+**8:46** · Wind gusts of up to 115 miles per hour flowed off the front range of the Rocky Mountains, sucking any remaining moisture out of the vegetation to create the most destructive fire in state history. Destroying over a thousand homes in six hours. In Lahaina, wind blew down the mountain, drying vegetation, warming the air, and knocking down power lines that ignited grasses, then houses, destroying much of the town.
+
+**9:13** · During the Labor Day fires, river canyons turned into wind tunnels with speeds reaching 100 miles per hour. Wind blew over power lines and ignited fires in and around small communities, fanning existing fires to create one of the most destructive fire seasons in state history. These aren't just regular wildfires, they're wind events with fire in them.
+
+### Preparing for future fires
+
+
+**9:36** · In those situations where you have an extreme wind event, basically the fire becomes uncontrollable. You know, fire suppression efforts are extremely ineffective in that situation. 'cause basically, for safety reasons, the firefighters just have to get out of the way. And so there's, there's really no stopping it.
+
+**9:50** · And that's probably the most important lesson about fast fires. Once they've started, there's no stopping them until the wind dies down. Firefighters can only evacuate people and wait. And as we face a hotter, drier, future fire prone places are going to become far more challenging places to live.
+
+**10:08** · So how do we reduce the destruction?
+
+**10:11** · We prepare ahead of time. Let's go back to the Bridge Fire, where Mike expected hundreds of houses to be lost.
+
+**10:19** · I feel like the Bridge Fire in Wrightwood is a success story.
+
+**10:21** · The Wrightwood community did everything right to prepare their homes for fire. The result? Only about 10 homes burned rather than one to 200 that Mike expected.
+
+**10:31** · So how do we prepare our homes for fire?
+
+**10:34** · To answer this question, I ask the Chief of all fire chiefs.
+
+**10:37** · Understanding how to live with the fire that's inevitable is absolutely key to our survival of the communities across the Nation.
+
+**10:45** · The research shows that we can significantly reduce the chance that homes will ignite in fast fires by taking simple steps focused on our home and its immediate surroundings.
+
+**10:56** · So it is incumbent on community planners, on individuals who purchase the properties on builders that they also build to code. Codes that are based on science: fire resistant materials, proper roofing materials, proper windows, not having wood fences. These are key pieces of the puzzle here.
+
+**11:16** · If we're going to continue to build communities in the path of fire, then we must build them according to the science and the codes to make people saveable in their own homes, in their own communities.
+
+**11:28** · If you wanna learn more about the ways you can prepare your home for fire, tornadoes, or even hurricanes, check out our new series Weathered: Earth's Extremes by downloading the PBS app today.
+
+**11:38** · And we'd love to hear from you in the comments: Do you live in fire country?
+
+**11:43** · Have you survived a fire yourself?
+
+**11:45** · What are you doing to prepare your home?
+
+**11:47** · Let us know and we'll see you next time on Weathered.
+
+## Assigned Background
+
+### Are extreme wildfires the new normal?
+
+![Are extreme wildfires the new normal?](https://i.scdn.co/image/ab67656300005f1f3b5da52b76c4eb91bb3c111c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1tb57pZrmEsMAjrCLNYjZp)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire Short Wave staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surprisingly complicated! But don’t you worry. We get into all the nuances this episode.Interested in more science behind the headlines? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+<iframe src="https://www.npr.org/player/embed/nx-s1-5909367/nx-s1-mx-5909367-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+REGINA BARBER: Hey, Short Wavers. It's Gina here with a request-- follow us on whichever app you're listening from. We love sharing cool and important science stories with you. And following us means you'll always know when our next episode is ready, just for you. And guess what. The next episode is ready.
+
+\[MUSIC PLAYING\]
+
+EMILY KWONG: You're listening to Short Wave from NPR.
+
+BARBER: Hello, Short Wavers, Regina Barber here with my co host, NPR science correspondent Nate Rott. Hey, Nate.
+
+NATHAN ROTT: Hello, Gina.
+
+BARBER: So, Nate, over the years, you've reported a ton on wildfires and fought some in a previous life, I heard.
+
+ROTT: Yes, a previous, younger, more lithe life. Yes, that is correct.
+
+BARBER: Yeah. We're all getting old, Nate.
+
+ROTT: Yeah.
+
+BARBER: And Nate, it seems like a lot of the world is experiencing them right now. Like, fires are happening in France and Spain. Canada and even Oregon is fighting dozens of fires right now. So, with all of your expertise, riddle me this.
+
+ROTT: OK.
+
+BARBER: Is it my imagination, or are wildfires increasing globally?
+
+ROTT: Gina, are you sitting down?
+
+BARBER: I am, actually. You can see me.
+
+ROTT: OK, yeah, I can. And you are sitting. I just wanted to confirm for anybody who can't see you. I say, are you sitting, because overall, there are fewer wildfires globally and less land burning on average than in the past. But--
+
+BARBER: Huh.
+
+ROTT: --within those two sentences, Gina, there is so much nuance, and so, we'll get into that.
+
+ZEKE HAUSFATHER: There's a lot of different regional trends that are underneath that.
+
+ROTT: Yeah, so that's Zeke Hausfather. He's a climate scientist in California. And he says that, for example, in North American forests, like where we are, the trend is definitely more burning.
+
+HAUSFATHER: The typical fire burns about three times more area than it did 30 years ago or 40 years ago, which is largely driven by changes in conditions. The vegetation is drier, and so when a spark catches, it's more likely to burn a larger area.
+
+ROTT: And Gina, globally, extreme wildfire activity has more than doubled in the last two decades.
+
+BARBER: That's so much.
+
+ROTT: Yeah, it's a lot, which means that in certain areas, there are more fires burning bigger and hotter, which, in some cases, means more smoke from those fires can travel a very long way and make a beautiful sunset, but muddy up a perfectly normal vacation.
+
+BARBER: Yeah, which is why we've been seeing smoke here on the East Coast, right?
+
+ROTT: Yeah.
+
+BARBER: And one thing I've been wondering when it gets hazy, especially having a kid, is, like, how much time can I spend outside? And should I even be outside at all? Like, I know that there's, like, an air quality index, but the guidelines seem vague.
+
+ROTT: \[CHUCKLES\] Vague is a very diplomatic way of putting it, Gina. And--
+
+BARBER: Yeah.
+
+ROTT: --there's a reason for that. You know, scientists just don't have a lot of long-term data on wildfire smoke exposure to give people definitive guidelines, which leaves a lot of people like you and me wondering how to go about their days when there's a lot of smoke in the air.
+
+\[MUSIC PLAYING\]
+
+BARBER: So today on the show, what to do when the world's on fire.
+
+ROTT: We talk about the changing wildfire landscape, what's driving the trends, and what you can do about it.
+
+BARBER: You're listening to Short Wave, the science podcast from NPR.
+
+BARBER: OK, Nate, so you said earlier that wildfires are actually decreasing globally. This is just wild to me. Like, how is that possible?
+
+ROTT: Yeah, I mean, OK, so when we say wildfires, that includes lots of different types of environments and vegetation-- forests, yes, but also, you know, grasslands and shrublands and savanna. And as anyone who messed around with fireworks as a kid or had a little pyro streak maybe like me, you will know that fire burns a lot faster and quicker in lighter vegetation, like grasses, than it does in, like, a forest, right?
+
+BARBER: Yeah.
+
+ROTT: So most of the area--
+
+BARBER: Yeah, definitely.
+
+ROTT: --that burns every year are grasslands, shrublands, and savannas, not forests.
+
+BARBER: OK.
+
+ROTT: And so, the reason that, globally, there's less land burned is largely because there's less grasslands and shrublands and savannas burning mostly in Africa, which, you know, is a really big continent. So that brings down the global scale.
+
+BARBER: I love this. This is, like, fascinating, these nuances. OK, so, now, there's these two pretty bad forest fires in France and Spain. And--
+
+ROTT: Yeah.
+
+BARBER: --outside of these fires, is Europe another place where there are fewer fires recently?
+
+ROTT: Well, honestly, Gina, this is, like, a really active area of research, like what are the trends in wildfire are in Europe. But when our producer--
+
+BARBER: Yeah.
+
+ROTT: --Berly McCoy spoke to Zeke Monday about the current fires, he said the area burned was higher than average for the European Union, so--
+
+BARBER: OK.
+
+ROTT: --not record-setting yet. Of course, that could change. But he said these fires are understandably getting a lot of media attention because there are two big fires burning at the same time near a lot of--
+
+BARBER: Yeah.
+
+ROTT: --people. So it might seem like a trend, but it might not necessarily be.
+
+BARBER: So, I mean, could this be just, like, a normal fire year for Europe? I remember, like, four years ago, a big fire in Spain. Like, is this--
+
+ROTT: Yeah.
+
+BARBER: --just normal?
+
+ROTT: Yeah, I mean, look, it could be. But, you know, Zeke pointed out that there is a trend that is related to many wildfires today in Europe and North America everywhere. The fires that are burning in Spain and France both coincided with an extreme heat wave.
+
+BARBER: OK, I see where this is going.
+
+ROTT: Yeah, climate change-- don't know if you've heard of it, small thing--
+
+BARBER: Yeah.
+
+ROTT: --happening globally.
+
+BARBER: Yeah, the climate crisis, it's like this cartoon villain, right? It's very predictable.
+
+ROTT: Yeah, well, unlike a generic cartoon villain, you know, it's not easily vanquished by Captain Planet and his gang of trusted friends.
+
+BARBER: Yes.
+
+ROTT: Zeke says that rising temperatures nurture fires that might otherwise just die out. So, like, take Canada, for example.
+
+HAUSFATHER: So, every one degree centigrade, or roughly two degrees Fahrenheit, of warming during the fire season in Canada-- so May to September-- is associated with an 80% increase in the amount of area burned that year.
+
+BARBER: 80%-- that's a huge jump for just, like, a couple of degrees Fahrenheit.
+
+ROTT: Yeah, it's massive. And he says, since the 1960s, the fire season has warmed up about four degrees Fahrenheit on average. So--
+
+BARBER: Wow.
+
+ROTT: --that translates to a huge amount of burned area in Canada because when it's warmer, things just dry out quicker, so there's literally more fuel for the fire.
+
+BARBER: So doesn't this also have to do with humans not doing, like, prescribed burns to clear the underbrush?
+
+ROTT: In the United States, yes, that's definitely true. So, in many parts of the country, not just the Western US, forests are adapted to fire. In many cases, they need it ecologically. And, you know, Native communities used fires for centuries to forests, but since at least the 1930s, we've been suppressing forest fires, putting them out as quickly as we can.
+
+BARBER: I mean, Nate, only you can prevent forest fires.
+
+ROTT: Yes, God bless Smokey Bear. It's not Smokey the Bear, Gina. It's Smokey Bear. Don't let the Forest Service come after you.
+
+BARBER: I had no idea, honestly.
+
+ROTT: Yeah. And look, like, Smokey's slogan was great to protect people and homes and, you know, maybe some timber, but it's not so great to keep fuel levels down in those forests.
+
+HAUSFATHER: When fires do occur in those forests, there's so much undergrowth that's accumulated that the fires are much more catastrophic. They reach up into the canopy of the trees. They become what we call crown fires that actually kill the trees--
+
+BARBER: Geez.
+
+HAUSFATHER: --rather than what historically has happened in Western forests, where you have these low-level fires that kill the undergrowth, but don't reach up and actually kill the trees. The boreal forest is a different beast.
+
+ROTT: Yeah, and the boreal forests in Canada, the ones that are smoking up parts of the US right now, those have never needed prescribed burning in the same way.
+
+HAUSFATHER: The boreal forest--
+
+BARBER: Wow.
+
+HAUSFATHER: --in Canada is 4 and 1/2 times the size of Texas. And so, historically--
+
+BARBER: What?
+
+HAUSFATHER: --when fires burn in those forests, they're just allowed to burn themselves out. You know, they haven't had the same history of fire suppression that we have in the US that has built up fuel.
+
+ROTT: So what he's kind of saying is, it is normal for these big fires to happen in Canada, but what's not normal is how often these huge fires are happening.
+
+BARBER: So, historically, how often is normal for them to burn?
+
+ROTT: So, typically, in Canada's western boreal forest, Zeke says big fires would happen, you know, once every 50 to 200 years.
+
+BARBER: That is not happening right now.
+
+ROTT: No, it is much more frequent. And--
+
+BARBER: Yeah.
+
+ROTT: --when we're talking about boreal forests, you know, for you non-ecology nerds out there, you know, we're talking about these dense forests that stretch across the Northern Hemisphere, and temperatures are rising at higher latitudes faster than they are closer to the equator.
+
+HAUSFATHER: What we're seeing now is considerably more frequent fires, because these areas that used to be much wetter-- you know, much of the the northern boreal resembles a swamp-- are now much drier because of higher temperatures.
+
+ROTT: And it's not necessarily that more fires are starting, you know, which, in both the US and Canada, is often caused by lightning, sometimes caused by people. It's that a warmer climate is creating the conditions for fires to get going and burn a lot more vegetation when they do.
+
+BARBER: OK, so I grew up in the Pacific Northwest, and there weren't a lot of wildfires. And then I had my own kid, and then wildfires and smoke were just part of the summers. And honestly, I thought I was going to just, like, avoid all that and move to the East Coast.
+
+ROTT: Yeah.
+
+BARBER: And once I'm here, I'm not going to have any of that smoke.
+
+ROTT: Yeah.
+
+BARBER: But for listeners in the same boat as me-- like, now, I'm inhaling this smoke-- like, what are the recommendations for staying healthy?
+
+ROTT: Well, so the biggest piece of advice I could give you, Gina, is to monitor the air quality to figure out your exposure to risk. So, in the US--
+
+BARBER: OK.
+
+ROTT: --there's an air quality index for how polluted--
+
+BARBER: Yeah.
+
+ROTT: --the air is in a certain area. You know, it's based on how many pollutants are in the air, and that includes particulate matter, these tiny little particles that are so small, they can get into your bloodstream.
+
+BARBER: Oh, my gosh.
+
+ROTT: You know, there's been a lot of research that shows that it's particularly risky for pregnant people. So I'd highly recommend people use AQI as kind of a quick pulse check to figure out how good the air quality is. It goes from green, where the air pollution isn't a risk to people, all the way up to maroon, which means it's a risk for everybody. And there is limited guidance for, you know, when you should limit outdoor activity, for example. But Lisa Patel, a pediatrician and environmental scientist at Stanford Medicine Children's Health, says it may not be a good enough tool for wildfires.
+
+LISA PATEL: These air quality guidelines were built off the burning of fossil fuels. There was a study that was done on children between zero to five that found that wildfire smoke is about 10 times as toxic. 10 times as many children showed up to the emergency room with respiratory complaints.
+
+ROTT: And it's not just kids, right? Like, inhaling that smoke can lead to inflammation, which is linked to cancer, to heart and lung disease, and to dementia.
+
+BARBER: Oof. So, what else can we do to limit our exposure to wildfire smoke?
+
+ROTT: Yeah, so spending more time inside, you know, though, I should say, you know, staying inside won't totally keep you from being exposed, especially in older homes with a lot of drafts. But, you know, staying inside is one piece of advice-- wearing a mask when you go outside, recirculating the air in your car, you know, so you're not sucking air directly from outside into the car. And using an air filter indoors goes a long way. Lisa says you can make one with a HEPA filter duct taped to a box fan. I've actually been to places where they're doing this in Missoula, where I grew up. They are creating them for people that can't afford air filters in their house. And when it comes to this bigger, you know, staying inside part that we're talking about, Lisa knows that advice might be tough to hear.
+
+PATEL: I'm a parent myself. My kids were 2 and 5 when-- and we were in the middle of a pandemic. What we are in is a situation where-- and it is sad for me to say. I grieve about it when I have to say it, but we're increasingly having periods of time where it's not safe for our kids to be outdoors.
+
+ROTT: But she also says this is part of our new normal, which is what I also heard from Zeke.
+
+HAUSFATHER: Like, we're not going to be able to put the fire genie back in the bottle and return to the climate we had in the 1980s, at least not anytime in the next few centuries. So, it's not a good news story.
+
+BARBER: Geez.
+
+HAUSFATHER: But I also don't want to let people off the hook, you know. We need to adapt--
+
+BARBER: Wow.
+
+HAUSFATHER: --to this world of more and more extreme fires.
+
+ROTT: You know, but both Zeke and Lisa emphasize the thing that people can do is reduce their emissions, right, which is going to stop the problem from getting even worse. You know, so that means things like switching to renewable energy, regenerative farming practices, and, you know, making more urban green space to cool down cities. You know, but sadly, we all should settle into this new normal, too.
+
+BARBER: And more inside time, I guess.
+
+ROTT: Yeah.
+
+\[MUSIC PLAYING\]
+
+BARBER: Nate, thank you so much for bringing us this reporting.
+
+ROTT: Yeah, happy to do it.
+
+BARBER: This episode was produced and co-reported by Berly McCoy. It was edited by our showrunner, Rebecca Ramirez, and fact-checked by Tyler Jones.
+
+ROTT: The audio engineer was Robert Rodriguez. Special thanks to science correspondent, Alejandra Borunda, for her guidance. I'm Nate Rott.
+
+BARBER: And I'm Regina Barber. Thank you so much for listening to Short Wave from NPR.
+
+### Catching Fire
+
+![Catching Fire](https://i.scdn.co/image/ab67656300005f1f188f54599e90d89a077379e7)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Big Picture Science
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6jfG9c5PL4njvJVVeZ3XNl)
+
+[Open Series in Spotify](https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL)
+
+We have too much “bad fire.” Not only destructive wildfires, but the combustion that powers our automobiles and provides our electricity has generated a worrying rise in atmospheric carbon dioxide. And that is driving climate change which is adding to the frequency of megafires. Now we’re seeing those effects in “fire-clouds,” pyrocumulonimbus events. But there’s such a thing as “good fire.” Indigenous peoples managed the land with controlled fires, reaped the benefits of doing so, and they’re bringing them back. So after millions of years of controlling fire, is it time for us to revisit our attitudes and policies, not just with regard to combustion, but how we manage our wildfires? Guests: David Peterson - Meteorologist, U.S. Naval Research Laboratory Stephen Pyne - Emeritus professor at Arizona State University, fire historian, urban farmer, author of “The Pyrocene: How We Created an Age of Fire, and What Happens Next” Richard Wrangham - Ruth B. Moore Research Professor of Biological Anthropology at Harvard University and author of "Catching Fire: How Coooking Made Us Human" Margo Robbins - Co-founder and president of the Cultural Fire Management Council (CFMC), organizer of the Cultural Burn Training Exchange (TREX) that takes place on the Yurok Reservation twice a year, and an enrolled member of the Yurok Tribe Originally aired May 9, 2022 Featuring music by Dewey Dellay and Jun Miyake Big Picture Science is part of the Airwave Media podcast network. Please contact advertising@airwavemedia.com to inquire about advertising on Big Picture Science. You can get early access to ad-free versions of every episode by joining us on Patreon. Thanks for your support!   Learn more about your ad choices. Visit megaphone.fm/adchoices
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### Are extreme wildfires the new normal?
+
+![Are extreme wildfires the new normal?](https://i.scdn.co/image/ab67656300005f1f3b5da52b76c4eb91bb3c111c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1tb57pZrmEsMAjrCLNYjZp)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you might be wondering: Are wildfires on the rise? If so, know that you mind-melded with the entire Short Wave staff. We had the exact same thought – and then went down some reporting rabbit holes and turned it into a whole episode. And let us just say: The answer is surprisingly complicated! But don’t you worry. We get into all the nuances this episode.Interested in more science behind the headlines? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+<iframe src="https://www.npr.org/player/embed/nx-s1-5909367/nx-s1-mx-5909367-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+REGINA BARBER: Hey, Short Wavers. It's Gina here with a request-- follow us on whichever app you're listening from. We love sharing cool and important science stories with you. And following us means you'll always know when our next episode is ready, just for you. And guess what. The next episode is ready.
+
+\[MUSIC PLAYING\]
+
+EMILY KWONG: You're listening to Short Wave from NPR.
+
+BARBER: Hello, Short Wavers, Regina Barber here with my co host, NPR science correspondent Nate Rott. Hey, Nate.
+
+NATHAN ROTT: Hello, Gina.
+
+BARBER: So, Nate, over the years, you've reported a ton on wildfires and fought some in a previous life, I heard.
+
+ROTT: Yes, a previous, younger, more lithe life. Yes, that is correct.
+
+BARBER: Yeah. We're all getting old, Nate.
+
+ROTT: Yeah.
+
+BARBER: And Nate, it seems like a lot of the world is experiencing them right now. Like, fires are happening in France and Spain. Canada and even Oregon is fighting dozens of fires right now. So, with all of your expertise, riddle me this.
+
+ROTT: OK.
+
+BARBER: Is it my imagination, or are wildfires increasing globally?
+
+ROTT: Gina, are you sitting down?
+
+BARBER: I am, actually. You can see me.
+
+ROTT: OK, yeah, I can. And you are sitting. I just wanted to confirm for anybody who can't see you. I say, are you sitting, because overall, there are fewer wildfires globally and less land burning on average than in the past. But--
+
+BARBER: Huh.
+
+ROTT: --within those two sentences, Gina, there is so much nuance, and so, we'll get into that.
+
+ZEKE HAUSFATHER: There's a lot of different regional trends that are underneath that.
+
+ROTT: Yeah, so that's Zeke Hausfather. He's a climate scientist in California. And he says that, for example, in North American forests, like where we are, the trend is definitely more burning.
+
+HAUSFATHER: The typical fire burns about three times more area than it did 30 years ago or 40 years ago, which is largely driven by changes in conditions. The vegetation is drier, and so when a spark catches, it's more likely to burn a larger area.
+
+ROTT: And Gina, globally, extreme wildfire activity has more than doubled in the last two decades.
+
+BARBER: That's so much.
+
+ROTT: Yeah, it's a lot, which means that in certain areas, there are more fires burning bigger and hotter, which, in some cases, means more smoke from those fires can travel a very long way and make a beautiful sunset, but muddy up a perfectly normal vacation.
+
+BARBER: Yeah, which is why we've been seeing smoke here on the East Coast, right?
+
+ROTT: Yeah.
+
+BARBER: And one thing I've been wondering when it gets hazy, especially having a kid, is, like, how much time can I spend outside? And should I even be outside at all? Like, I know that there's, like, an air quality index, but the guidelines seem vague.
+
+ROTT: \[CHUCKLES\] Vague is a very diplomatic way of putting it, Gina. And--
+
+BARBER: Yeah.
+
+ROTT: --there's a reason for that. You know, scientists just don't have a lot of long-term data on wildfire smoke exposure to give people definitive guidelines, which leaves a lot of people like you and me wondering how to go about their days when there's a lot of smoke in the air.
+
+\[MUSIC PLAYING\]
+
+BARBER: So today on the show, what to do when the world's on fire.
+
+ROTT: We talk about the changing wildfire landscape, what's driving the trends, and what you can do about it.
+
+BARBER: You're listening to Short Wave, the science podcast from NPR.
+
+BARBER: OK, Nate, so you said earlier that wildfires are actually decreasing globally. This is just wild to me. Like, how is that possible?
+
+ROTT: Yeah, I mean, OK, so when we say wildfires, that includes lots of different types of environments and vegetation-- forests, yes, but also, you know, grasslands and shrublands and savanna. And as anyone who messed around with fireworks as a kid or had a little pyro streak maybe like me, you will know that fire burns a lot faster and quicker in lighter vegetation, like grasses, than it does in, like, a forest, right?
+
+BARBER: Yeah.
+
+ROTT: So most of the area--
+
+BARBER: Yeah, definitely.
+
+ROTT: --that burns every year are grasslands, shrublands, and savannas, not forests.
+
+BARBER: OK.
+
+ROTT: And so, the reason that, globally, there's less land burned is largely because there's less grasslands and shrublands and savannas burning mostly in Africa, which, you know, is a really big continent. So that brings down the global scale.
+
+BARBER: I love this. This is, like, fascinating, these nuances. OK, so, now, there's these two pretty bad forest fires in France and Spain. And--
+
+ROTT: Yeah.
+
+BARBER: --outside of these fires, is Europe another place where there are fewer fires recently?
+
+ROTT: Well, honestly, Gina, this is, like, a really active area of research, like what are the trends in wildfire are in Europe. But when our producer--
+
+BARBER: Yeah.
+
+ROTT: --Berly McCoy spoke to Zeke Monday about the current fires, he said the area burned was higher than average for the European Union, so--
+
+BARBER: OK.
+
+ROTT: --not record-setting yet. Of course, that could change. But he said these fires are understandably getting a lot of media attention because there are two big fires burning at the same time near a lot of--
+
+BARBER: Yeah.
+
+ROTT: --people. So it might seem like a trend, but it might not necessarily be.
+
+BARBER: So, I mean, could this be just, like, a normal fire year for Europe? I remember, like, four years ago, a big fire in Spain. Like, is this--
+
+ROTT: Yeah.
+
+BARBER: --just normal?
+
+ROTT: Yeah, I mean, look, it could be. But, you know, Zeke pointed out that there is a trend that is related to many wildfires today in Europe and North America everywhere. The fires that are burning in Spain and France both coincided with an extreme heat wave.
+
+BARBER: OK, I see where this is going.
+
+ROTT: Yeah, climate change-- don't know if you've heard of it, small thing--
+
+BARBER: Yeah.
+
+ROTT: --happening globally.
+
+BARBER: Yeah, the climate crisis, it's like this cartoon villain, right? It's very predictable.
+
+ROTT: Yeah, well, unlike a generic cartoon villain, you know, it's not easily vanquished by Captain Planet and his gang of trusted friends.
+
+BARBER: Yes.
+
+ROTT: Zeke says that rising temperatures nurture fires that might otherwise just die out. So, like, take Canada, for example.
+
+HAUSFATHER: So, every one degree centigrade, or roughly two degrees Fahrenheit, of warming during the fire season in Canada-- so May to September-- is associated with an 80% increase in the amount of area burned that year.
+
+BARBER: 80%-- that's a huge jump for just, like, a couple of degrees Fahrenheit.
+
+ROTT: Yeah, it's massive. And he says, since the 1960s, the fire season has warmed up about four degrees Fahrenheit on average. So--
+
+BARBER: Wow.
+
+ROTT: --that translates to a huge amount of burned area in Canada because when it's warmer, things just dry out quicker, so there's literally more fuel for the fire.
+
+BARBER: So doesn't this also have to do with humans not doing, like, prescribed burns to clear the underbrush?
+
+ROTT: In the United States, yes, that's definitely true. So, in many parts of the country, not just the Western US, forests are adapted to fire. In many cases, they need it ecologically. And, you know, Native communities used fires for centuries to forests, but since at least the 1930s, we've been suppressing forest fires, putting them out as quickly as we can.
+
+BARBER: I mean, Nate, only you can prevent forest fires.
+
+ROTT: Yes, God bless Smokey Bear. It's not Smokey the Bear, Gina. It's Smokey Bear. Don't let the Forest Service come after you.
+
+BARBER: I had no idea, honestly.
+
+ROTT: Yeah. And look, like, Smokey's slogan was great to protect people and homes and, you know, maybe some timber, but it's not so great to keep fuel levels down in those forests.
+
+HAUSFATHER: When fires do occur in those forests, there's so much undergrowth that's accumulated that the fires are much more catastrophic. They reach up into the canopy of the trees. They become what we call crown fires that actually kill the trees--
+
+BARBER: Geez.
+
+HAUSFATHER: --rather than what historically has happened in Western forests, where you have these low-level fires that kill the undergrowth, but don't reach up and actually kill the trees. The boreal forest is a different beast.
+
+ROTT: Yeah, and the boreal forests in Canada, the ones that are smoking up parts of the US right now, those have never needed prescribed burning in the same way.
+
+HAUSFATHER: The boreal forest--
+
+BARBER: Wow.
+
+HAUSFATHER: --in Canada is 4 and 1/2 times the size of Texas. And so, historically--
+
+BARBER: What?
+
+HAUSFATHER: --when fires burn in those forests, they're just allowed to burn themselves out. You know, they haven't had the same history of fire suppression that we have in the US that has built up fuel.
+
+ROTT: So what he's kind of saying is, it is normal for these big fires to happen in Canada, but what's not normal is how often these huge fires are happening.
+
+BARBER: So, historically, how often is normal for them to burn?
+
+ROTT: So, typically, in Canada's western boreal forest, Zeke says big fires would happen, you know, once every 50 to 200 years.
+
+BARBER: That is not happening right now.
+
+ROTT: No, it is much more frequent. And--
+
+BARBER: Yeah.
+
+ROTT: --when we're talking about boreal forests, you know, for you non-ecology nerds out there, you know, we're talking about these dense forests that stretch across the Northern Hemisphere, and temperatures are rising at higher latitudes faster than they are closer to the equator.
+
+HAUSFATHER: What we're seeing now is considerably more frequent fires, because these areas that used to be much wetter-- you know, much of the the northern boreal resembles a swamp-- are now much drier because of higher temperatures.
+
+ROTT: And it's not necessarily that more fires are starting, you know, which, in both the US and Canada, is often caused by lightning, sometimes caused by people. It's that a warmer climate is creating the conditions for fires to get going and burn a lot more vegetation when they do.
+
+BARBER: OK, so I grew up in the Pacific Northwest, and there weren't a lot of wildfires. And then I had my own kid, and then wildfires and smoke were just part of the summers. And honestly, I thought I was going to just, like, avoid all that and move to the East Coast.
+
+ROTT: Yeah.
+
+BARBER: And once I'm here, I'm not going to have any of that smoke.
+
+ROTT: Yeah.
+
+BARBER: But for listeners in the same boat as me-- like, now, I'm inhaling this smoke-- like, what are the recommendations for staying healthy?
+
+ROTT: Well, so the biggest piece of advice I could give you, Gina, is to monitor the air quality to figure out your exposure to risk. So, in the US--
+
+BARBER: OK.
+
+ROTT: --there's an air quality index for how polluted--
+
+BARBER: Yeah.
+
+ROTT: --the air is in a certain area. You know, it's based on how many pollutants are in the air, and that includes particulate matter, these tiny little particles that are so small, they can get into your bloodstream.
+
+BARBER: Oh, my gosh.
+
+ROTT: You know, there's been a lot of research that shows that it's particularly risky for pregnant people. So I'd highly recommend people use AQI as kind of a quick pulse check to figure out how good the air quality is. It goes from green, where the air pollution isn't a risk to people, all the way up to maroon, which means it's a risk for everybody. And there is limited guidance for, you know, when you should limit outdoor activity, for example. But Lisa Patel, a pediatrician and environmental scientist at Stanford Medicine Children's Health, says it may not be a good enough tool for wildfires.
+
+LISA PATEL: These air quality guidelines were built off the burning of fossil fuels. There was a study that was done on children between zero to five that found that wildfire smoke is about 10 times as toxic. 10 times as many children showed up to the emergency room with respiratory complaints.
+
+ROTT: And it's not just kids, right? Like, inhaling that smoke can lead to inflammation, which is linked to cancer, to heart and lung disease, and to dementia.
+
+BARBER: Oof. So, what else can we do to limit our exposure to wildfire smoke?
+
+ROTT: Yeah, so spending more time inside, you know, though, I should say, you know, staying inside won't totally keep you from being exposed, especially in older homes with a lot of drafts. But, you know, staying inside is one piece of advice-- wearing a mask when you go outside, recirculating the air in your car, you know, so you're not sucking air directly from outside into the car. And using an air filter indoors goes a long way. Lisa says you can make one with a HEPA filter duct taped to a box fan. I've actually been to places where they're doing this in Missoula, where I grew up. They are creating them for people that can't afford air filters in their house. And when it comes to this bigger, you know, staying inside part that we're talking about, Lisa knows that advice might be tough to hear.
+
+PATEL: I'm a parent myself. My kids were 2 and 5 when-- and we were in the middle of a pandemic. What we are in is a situation where-- and it is sad for me to say. I grieve about it when I have to say it, but we're increasingly having periods of time where it's not safe for our kids to be outdoors.
+
+ROTT: But she also says this is part of our new normal, which is what I also heard from Zeke.
+
+HAUSFATHER: Like, we're not going to be able to put the fire genie back in the bottle and return to the climate we had in the 1980s, at least not anytime in the next few centuries. So, it's not a good news story.
+
+BARBER: Geez.
+
+HAUSFATHER: But I also don't want to let people off the hook, you know. We need to adapt--
+
+BARBER: Wow.
+
+HAUSFATHER: --to this world of more and more extreme fires.
+
+ROTT: You know, but both Zeke and Lisa emphasize the thing that people can do is reduce their emissions, right, which is going to stop the problem from getting even worse. You know, so that means things like switching to renewable energy, regenerative farming practices, and, you know, making more urban green space to cool down cities. You know, but sadly, we all should settle into this new normal, too.
+
+BARBER: And more inside time, I guess.
+
+ROTT: Yeah.
+
+\[MUSIC PLAYING\]
+
+BARBER: Nate, thank you so much for bringing us this reporting.
+
+ROTT: Yeah, happy to do it.
+
+BARBER: This episode was produced and co-reported by Berly McCoy. It was edited by our showrunner, Rebecca Ramirez, and fact-checked by Tyler Jones.
+
+ROTT: The audio engineer was Robert Rodriguez. Special thanks to science correspondent, Alejandra Borunda, for her guidance. I'm Nate Rott.
+
+BARBER: And I'm Regina Barber. Thank you so much for listening to Short Wave from NPR.
+
+#### Carlos Gould on wildfire smoke and our health
+
+![Carlos Gould on wildfire smoke and our health](https://i.scdn.co/image/ab67656300005f1fe444c1a2a309addf091b84dc)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Agents of Change in Environmental Justice
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6qLoVrjWQKjhDaZSpAOyW1)
+
+[Open Series in Spotify](https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U)
+
+Dr. Carlos Gould joins the Agents of Change in Environmental Justice podcast to discuss the latest research on wildfire smoke’s impact on our health, and how we can protect ourselves.
+
+:::
+
+#### Catching Fire
+
+![Catching Fire](https://i.scdn.co/image/ab67656300005f1f188f54599e90d89a077379e7)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Big Picture Science
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6jfG9c5PL4njvJVVeZ3XNl)
+
+[Open Series in Spotify](https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL)
+
+We have too much “bad fire.” Not only destructive wildfires, but the combustion that powers our automobiles and provides our electricity has generated a worrying rise in atmospheric carbon dioxide. And that is driving climate change which is adding to the frequency of megafires. Now we’re seeing those effects in “fire-clouds,” pyrocumulonimbus events. But there’s such a thing as “good fire.” Indigenous peoples managed the land with controlled fires, reaped the benefits of doing so, and they’re bringing them back. So after millions of years of controlling fire, is it time for us to revisit our attitudes and policies, not just with regard to combustion, but how we manage our wildfires? Guests: David Peterson - Meteorologist, U.S. Naval Research Laboratory Stephen Pyne - Emeritus professor at Arizona State University, fire historian, urban farmer, author of “The Pyrocene: How We Created an Age of Fire, and What Happens Next” Richard Wrangham - Ruth B. Moore Research Professor of Biological Anthropology at Harvard University and author of "Catching Fire: How Coooking Made Us Human" Margo Robbins - Co-founder and president of the Cultural Fire Management Council (CFMC), organizer of the Cultural Burn Training Exchange (TREX) that takes place on the Yurok Reservation twice a year, and an enrolled member of the Yurok Tribe Originally aired May 9, 2022 Featuring music by Dewey Dellay and Jun Miyake Big Picture Science is part of the Airwave Media podcast network. Please contact advertising@airwavemedia.com to inquire about advertising on Big Picture Science. You can get early access to ad-free versions of every episode by joining us on Patreon. Thanks for your support!   Learn more about your ad choices. Visit megaphone.fm/adchoices
+
+:::
+
+#### Fire And Ice - Linking Intense Wildfire And The Melting Arctic
+
+# Fire And Ice: Linking Intense Wildfire And The Melting Arctic
+
+![Fire And Ice: Linking Intense Wildfire And The Melting Arctic](https://i.scdn.co/image/ab67656300005f1f55f499ba8ac490032a45bb54)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3cGeZwnJuhb2E6JZNKaNWm)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+In the Arctic Ocean, sea ice is shrinking as the climate heats up. In the Western U.S., wildfires are getting increasingly destructive. Those two phenomena are thousands of miles apart, but scientists are uncovering a surprising connection. The ice is connected to weather patterns that reach far across North America. And as the climate keeps changing and sea ice shrinks, Western states could be seeing more extreme weather, the kind that fuels extreme wildfires.Check out the full series about how melting ice affects us all: npr.org/icemelt. We love hearing from you! Reach the show by emailing shortwave@npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Fire Ecology (WILDFIRES & INDIGENOUS FIRE MANAGEMENT) Mega Encore with Gavin Jones & Amy Christianson
+
+![Fire Ecology (WILDFIRES & INDIGENOUS FIRE MANAGEMENT) Mega Encore with Gavin Jones & Amy Christianson](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7yVhgMzMHrTQuf7pTWCGGd)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+Once again: the world is on fire. As wildfires burn across Canada and their smoke pours down the continent, we thought it would be a good time to encore these Fire Ecology episodes. First, Dr. Gavin Jones brings the heat talking about what fire is, how hot it burns, fire trends, tinderboxes, lots and lots of forest fire flim-flam, tolerant wombats, Angelina Jolie movies, cunning pine cones, thick bark, Indigenous fire stewardship and more.Then, join co-host of the podcast Good Fire, Dr. Amy Christianson, to learn about how cultural burns and prescribed blazes can create healthy forests. She also discusses Indigenous history, collaborations between Western science & First Nations elders, Aboriginal thoughts on cultural burns, more flim-flam, evacuations, snowmelt, hunting strategies, land stewardship, happy trees, climate strategies, and the social science behind wildfire education. Also learning from Native wildfire fighters. Huge thanks to her and Matt Kristoff -- who also hosts the Your Forest Podcast -- for allowing us to use excerpts from their interview to launch Good Fire. Subscribe to both podcasts to get more ecological knowledge in your ears.CDC Advisory on Wildfire SmokeFollow Dr. Gavin Jones on TwitterFollow Dr. Amy Christianson on TwitterDonations were made to The Common Good Community Foundation and Indigenous Residential School SurvivorsListen to the “Good Fire” podcastAlso great: Your Forest podcastOther episodes you may like: Dendrology (TREES), Forest Entomology (CREEPY CRAWLIES), Xylology (LUMBER), Pyrotechnology (CAMPFIRES), Environmental Toxicology (POISONS + TRAIN DERAILMENT)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Hawaiʻi Wildfire Survivors Join Health Study - Wind Turbine Blade Sinks Off Massachusetts Coast
+
+# Hawaiʻi Wildfire Survivors Join Health Study | Wind Turbine Blade Sinks Off Massachusetts Coast
+
+![Hawaiʻi Wildfire Survivors Join Health Study | Wind Turbine Blade Sinks Off Massachusetts Coast](https://i.scdn.co/image/ab67656300005f1ff6a34042fe0d25ae43d0a258)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4lOTnPBGyzttWA4ojN93EC)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+The University of Hawaiʻi study will be the largest of its kind to investigate the health and social impacts of the Maui wildfires. Also, fiberglass is washing up on Nantucket’s shores, and residents are concerned about the long-term environmental impact of this debris.Hawaiʻi Wildfire Survivors To Join Long-Term Health StudyNearly a year ago, Maui experienced a series of wildfires that caused major destruction and anguish for residents. More than 100 people died and thousands of structures were destroyed in what was the fifth deadliest wildland fire in U.S. history.Survivors of those fires are now taking part in the largest study of its kind to understand the health and social impacts of the Maui wildfires. The research team will sample the blood, DNA, and urine of participants over at least a decade to see if they develop conditions such as cancer. Researchers say this information will be essential as the island and its residents continue to recover.Casey Crownhart, climate reporter for the MIT Technology Review joins guest host Kathleen Davis to talk about this story and other top science news of the week, including California’s Park Fire.Damaged Wind Turbine Blade Sinks Off Massachusetts CoastA large piece of fiberglass debris from the damaged Vineyard Wind turbine blade has sunk to the ocean floor, as the debris cleanup continues, according to press release from the town of Nantucket that’s timestamped for 9:10 a.m.Town officials said that about half of the fiberglass shell of the blade remains attached and crews will continue to monitor it until a removal plan is developed. Most of the green and white foam fill dislodged during the initial failure last Saturday.They added that Vineyard wind is also developing a plan to test water quality around the island.“This complex undertaking involves engaging experts to determine the best path forward. To conduct the testing, specific information from GE’s Safety Data Sheets is required, which is expected to be delivered to Vineyard Wind today,” according to the press release.To read the full story, visit our website. Transcripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### How Wildfire Smoke Affects Metabolism
+
+![How Wildfire Smoke Affects Metabolism](https://i.scdn.co/image/ab67656300005f1fb890d14e9ee0830986ad4cd2)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Fat Science
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6BnKBGUibBOScTD6R9zoUf)
+
+[Open Series in Spotify](https://open.spotify.com/show/7v4FPIfIWejKeWV2uFokZe)
+
+Is wildfire smoke affecting more than just your lungs?Poor air quality affects not only respiratory health but also metabolic functions. Wildfire smoke can trigger inflammation, oxidative stress, and hormone release, leading to metabolic disturbances.KEY TAKEAWAYSWildfire smoke can impact metabolism, leading to insulin resistance.Stress hormones released during smoke exposure can raise blood sugar levels.Air pollution is linked to increased risk of metabolic syndrome components. NOTABLE QUOTE"When there were wildfire events, within days, the admissions for diabetes increased." — Dr. Emily Cooper Links & ResourcesPodcast Home: fatsciencepodcast.comCooper Center for Metabolism: coopermetabolic.comResources from Dr. Cooper: coopermetabolic.com/resourcesJoin Our Community: patreon.com/cw/FatSciencePodcastSubmit Your Question: questions@fatsciencepodcast.com or dr.c@fatsciencepodcast.comFat Science is supported by the Diabesity Institute, a nonprofit dedicated to increasing access to effective, science-based metabolic care.This podcast is for informational purposes only and is not intended as medical advice. Please consult with a qualified healthcare provider for personalized recommendations.
+
+:::
+
+#### This Is Canada's Worst Fire Season In Modern History - It's Not New
+
+# This Is Canada's Worst Fire Season In Modern History. It's Not New
+
+![This Is Canada's Worst Fire Season In Modern History. It's Not New](https://i.scdn.co/image/ab67656300005f1f4c79fff34b50e2b2ff6b4b1e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/00SSeBcRQcI9jxSgpMXq2U)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Canada is having its worst fire season in modern history. The fires have burnt more than 20 million acres, casting hazardous smoke over parts of the U.S. and stretching Canadian firefighting resources thin. Public officials and many news headlines have declared the fires as "unprecedented," and in the modern-sense they are. But NPR climate correspondent Nate Rott has been talking to researchers who focus on the history of wildfire in Canada's boreal forests and they say the situation is not without precedent.Want more stories on the environment? Drop us a line at shortwave@npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Up in Smoke
+
+![Up in Smoke](https://i.scdn.co/image/ab67656300005f1fd835bc33162bda04bd2b77e9)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Radiolab
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2oShwZuOUsJ64ElWTYZIc5)
+
+[Open Series in Spotify](https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL)
+
+Two scenes. In the first, a doctor gets a call — the hospital she works at is having an outbreak of unknown origin, in the middle of the worst wildfire season on record. In the second, an ecologist stands in a forest, watching it burn. Through very different circumstances, they both find themselves asking the same question: is there something in the smoke? This question will bring them together, and reveal – to all of us – a world we never saw before. This is the first episode in an ongoing series hosted by Molly Webster, in conversation with scientists and science-y people, doing work at the furthest edges of what we know. More to come! Special thanks to Leda Kobziar, at the University of Idaho, and Naomi Hauser, at the University of California, Davis. Plus, James and Shelby Kaemmerer, and Paula and John Troche.We have some exciting news! In the “Zoozve” episode, Radiolab named its first-ever quasi-moon, and now it's your turn! Radiolab has teamed up with The International Astronomical Union to launch a global naming contest for one of Earth’s quasi-moons. This is your chance to make your mark on the heavens. Submit your name ideas now through September, or vote on your favorites starting in November: https://radiolab.org/moonEPISODE CREDITS: Hosted and Reported by - Molly WebsterProduced by - Sindhu GnanasambandanFact-checking by - Diane A. Kellyand Edited by  - Pat WaltersEPISODE CITATIONS:Articles - And lastly, wanna learn more about bacteria in snow-making machines – check out this New York Times article (https://zpr.io/t6HKi7HMuHMZ), or this science-explainer (https://zpr.io/VygRVBb5vspq)! Scientific Papers - Read Leda’s paper on microbes in smoke (https://zpr.io/d3JVm7gEf2dc)!For more details on the outbreak at Naomi’s hospital, you can check out this abstract of her findings (https://zpr.io/DGgS9UCFicpJ). Leda was inspired to stick petri dishes into smoke after reading a science research paper written by a father-daughter team, as part of a high school science project in Texas. Go read it (https://zpr.io/D3LVMy2raLr9)! Audio - For further fungal listening, Radiolab and Molly have covered fungus and hospital outbreaks (https://radiolab.org/podcast/fungus-amungus) before (plus: dinosuars!), in our episode Fungus Amungus.You can also listen to Super Cool (https://radiolab.org/podcast/super-cool-2017), a Radiolab episode about wild horses, microbes, and things freezing instantaneously. (It’s seriously one of Molly’s favorite Radiolab episodes and it has a moment of such SPONTANEOUS joy, she re-plays it at least once a year to smile.)Signup for our newsletter!! It includes short essays, recommendations, and details about other ways to interact with the show. Sign up (https://radiolab.org/newsletter)!Radiolab is supported by listeners like you. Support Radiolab by becoming a member of The Lab (https://members.radiolab.org/) today.Follow our show on Instagram, Twitter and Facebook @radiolab, and share your thoughts with us by emailing radiolab@wnyc.org.Leadership support for Radiolab’s science programming is provided by the Gordon and Betty Moore Foundation, Science Sandbox, a Simons Foundation Initiative, and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+### Video Clips
+
+#### How Are Wildfires Making Us Sick
+
+**PBS Vitals**, *09 05, 2023*
+
+## Video (12:41)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/8mQllQnJrhg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Check out our collaboration with PBS Weathered (Terra) about the new disease risks that climate change is bringing with it!  https://www.youtube.com/watch?v=wofEVzObZdU
+
+Right here, on the heels of the Lahaina disaster and a summer full of Canadian wildfire smoke, we’ve been wondering: when the air fills with smoke, what are you really breathing? How best to protect yourself? And how bad is it going to get? 
+
+Along with Alok, Maiya May from Weathered brings some long-term perspective on fires, climate change and the shifting patterns of where we live. 
+
+Please SUBSCRIBE! ►► https://bit.ly/pbsvitals
+
+Let’s Connect: 
+
+IG: https://www.instagram.com/pbsvitals/ 
+
+Twitter: https://twitter.com/pbsvitals 
+
+Facebook: https://www.facebook.com/pbsvitals 
+
+More great Weathered episodes here:
+
+https://www.youtube.com/playlist?list=PLnNZYWyBGJ1GLPmb55WQAln2Q7rZn5AFX
+
+Find our experts and hosts: 
+
+:: Alok Patel, MD :: 
+
+Website: http://alokpatelmd.com/
+
+Twitter: @AlokPatelMD
+
+IG: @alokpatelmd
+
+:: Sheena William, RN :: 
+
+Twitter: @Keepingitkinky1
+
+IG: @keepingitkinky
+
+:: Maiya May ::
+
+IG: @maiyamay_ 
+
+
+Overall health effects of wildfire smoke:
+
+https://www.epa.gov/wildfire-smoke-course/health-effects-attributed-wildfire-smoke
+
+https://www.cdc.gov/nceh/features/wildfires/index.html
+
+https://www.pbs.org/newshour/science/how-wildfire-smoke-can-threaten-human-health-even-when-the-fire-is-hundreds-of-miles-away#:~:text=Researchers%20have%20found%20that%20there,leads%20to%20greater%20health%20effects
+
+
+Particulate Matter 
+
+https://www3.epa.gov/region1/airquality/pm-human-health.html#:~:text=The%20size%20of%20particles%20is,a%20person%27s%20lungs%20and%20heart
+
+
+Possible Link to Dementia:
+
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808088
+
+
+Understanding the Air Quality Index:
+
+https://www.airnow.gov/aqi/aqi-basics/#:~:text=How%20does%20the%20AQI%20work,300%20represents%20hazardous%20air%20quality.
+
+
+Health Impacts of 2023 Canadian Wildfires:
+
+https://apnews.com/article/wildfires-asthma-canada-er-visits-75739be25401f4fe023aa5a3cd3433d7
+
+https://www.cdc.gov/mmwr/volumes/72/wr/mm7234a6.htm?s_cid=mm7234a6_w
+
+https://www.atsjournals.org/doi/abs/10.1164/rccm.202306-1073LE
+
+
+Personal Protection:
+
+https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:text=In%20addition%2C%20research%20shows%20that,to%20improve%20indoor%20air%20quality.
+
+
+00:00 Intro
+
+01:20 lung and cardiac impact of smoke
+
+02:19 Maiya May talks about long-term trends
+
+04:23 What is in wildfire smoke? 
+
+06:04 Effects of repeated exposure
+
+06:30 Studies on firefighters
+
+07:38 Surprising but less-studied health impacts
+
+08:12 impact on pregant women and babies
+
+09:11 Breaking down the Air Quality Index (AQI)
+
+10:24 Personal protection
+
+## Transcript
+
+### Intro
+
+**0:00** · out here in Northern California.
+
+**0:01** · We are way too familiar, painfully familiar with the terrifying effects of wildfires.
+
+**0:09** · The damage, the health concerns, it's almost impossible to ignore.
+
+**0:13** · And not just here, but in many parts of the country and world.
+
+**0:17** · Just take a look at what recently happened in Maui.
+
+**0:19** · That was one of the worst, most devastating fire disasters ever.
+
+**0:24** · And while fires are not new to Maui and are sadly familiar here in California and much of the West, this summer put fire on the radar of people who never had to really think about it.
+
+**0:35** · Smoke from wildfires in Canada caused air quality alerts in cities more than a thousand miles away.
+
+**0:42** · This affected more than 70 million people at the time.
+
+**0:45** · And as fires get bigger and more damaging, we're only starting to get a handle on the long term health issues Here in California, fires burn basically every year, but in 2020, they've got completely out of hand.
+
+**1:02** · That summer saw the largest fire in California's history, the August complex fire, which burned more than a million acres.
+
+**1:09** · And it caused air quality issues in San Francisco, which is hundreds of miles away.
+
+**1:13** · The sky here looked like hell, literally.
+
+**1:17** · from a health perspective.
+
+**1:18** · That smoke is what really does the damage like burning eyes, a sore throat, a cough.
+
+### lung and cardiac impact of smoke
+
+**1:25** · But there are certain vulnerable populations that may have much more health impacts.
+
+**1:31** · For example, someone who does have asthma, you know, is more at risk to have an asthma exacerbation when they breathe a smoke or someone with COPD, chronic obstructive pulmonary disease, is that increased for a flare up when they inhaled the smoke?
+
+**1:48** · there can be increases in heart attacks, arrhythmias.
+
+**1:52** · There can be increases in stroke.
+
+**1:54** · when the air quality gets bad, which can happen rapidly.
+
+**1:57** · In the case of a fire, we see and feel the effects almost immediately.
+
+**2:02** · there's there was a study showing that when it was a community in Canada, when they were exposed to the smoke within 2 hours there was increased in ambulance calls for respiratory distress and cardiac distress.
+
+**2:17** · It seems that fire season is getting longer and the fires are getting worse.
+
+### Maiya May talks about long-term trends
+
+**2:22** · But I worry, will this trend continue forever?
+
+**2:25** · Is it inevitable?
+
+**2:26** · We asked Maiya May and our friends at Weathered to explain.
+
+**2:30** · Is this part of a runaway train that we might call climate change?
+
+**2:35** · Well, first off, climate change doesn't directly cause fires, but it does make the underlying conditions more prone to fire.
+
+**2:41** · Extreme wildfires basically need three things low humidity, high wind and an ignition source.
+
+**2:48** · Climate change doesn't affect wind or ignition much, but it does make dry periods drier.
+
+**2:53** · So it's more likely for a wind event and an ignition like a downed power line or lightning to align with a very low humidity.
+
+**3:01** · Dry day In northern Canada, there were very hot days that dried out the tundra and forests.
+
+**3:06** · Then you add lightning, and when on a low humidity day over and over early in the season and you get record numbers of acres burned.
+
+**3:14** · Similarly, in Lahaina, we saw drought conditions combined with low humidity and extreme wind, which likely downed power lines that ignited the fire.
+
+**3:24** · Interestingly, we saw even larger areas burned in the early 1930s during the hot, dry era known as the Dust Bowl.
+
+**3:31** · But then we entered a cool wet period and firefighting became a lot more effective in acres burned, plummeted.
+
+**3:38** · And then that's when we really expanded communities and infrastructure into wildlands that tended to see more fires.
+
+**3:46** · So as we moved away from the cool wet period coupled with growing population and risky areas and the effects of climate change, wildfires had become more devastating.
+
+**3:57** · So is anywhere safe from the risk of wildfires today?
+
+**4:01** · well, the Midwest and Northeast stand out as less vulnerable since both are getting wetter on average with climate change.
+
+**4:08** · So while they may face an increased flood risk, wildfire is lower on the list of extreme weather hazards there.
+
+**4:14** · but as we saw with the smoke from the Canadian wildfires this year, I'm not sure any of us can escape the impacts entirely.
+
+**4:22** · So what exactly is in smoke that makes it so harmful?
+
+### What is in wildfire smoke?
+
+**4:25** · Well, obviously, it depends on what's burning, but combustion always produces pollutants.
+
+**4:31** · One particularly harmful product is called particle pollution or particulate matter or PPM.
+
+**4:38** · Scientists measure particle pollution by size.
+
+**4:41** · For example.
+
+**4:42** · PM10 particles are ten micrometers across PM 2.5 particles are 2.5 micrometers wide.
+
+**4:50** · That's 40 times smaller than the smallest thing you can see with the naked eye.
+
+**4:55** · By comparison, a human hair is 50 to 70 micrometers wide.
+
+**4:59** · In the world of health and medicine.
+
+**5:01** · You hear a lot about PM 2.5.
+
+**5:05** · These very tiny particles are extra harmful because they're small enough to be absorbed into lung tissue and then passed through into the bloodstream.
+
+**5:14** · the particles are so small they can be inhaled and go all the way down to the base of our lungs and then actually cross over into the bloodstream.
+
+**5:23** · And once it's in our body, the particulate matter, which, you know, has other tagalong toxins on it, such as, you know, heavy metals and other things can circulate throughout our body, causing all kinds of problems.
+
+**5:36** · A wildfire can also produce other dangerous pollutants, especially if it's burning up buildings, homes and everything in between.
+
+**5:43** · And this produces all kinds of chemicals which then go up into the air.
+
+**5:47** · On top of that wildfire, smoke, like any smoke, is full of carbon monoxide in high concentrations.
+
+**5:54** · Carbon monoxide blocks your body from absorbing oxygen.
+
+**5:57** · And this can lead to headaches, nausea, dizziness and even death.
+
+**6:01** · one big concern is the effect of repeated exposures year after year.
+
+### Effects of repeated exposure
+
+**6:06** · Or breathing in smoke for days and days on end.
+
+**6:09** · There's a lot of increased research right now, but there's a lot of things we don't know.
+
+**6:13** · especially for the general population who's healthy, you know, and is now maybe experiencing a big burst of smoke for a few days once a year.
+
+**6:24** · in fact, we don't really know just how bad this is.
+
+**6:27** · The studies haven't been done, but we can learn something by looking at the people who are exposed to smoke routinely as part of their job.
+
+### Studies on firefighters
+
+**6:35** · I'm talking about firefighters.
+
+**6:37** · One study found that Wilderness firefighters are at an increased risk of dying from lung cancer and cardiovascular disease.
+
+**6:45** · Another study with a broader sampling of firefighters found a reduction in lung function.
+
+**6:51** · There really aren't other groups that have that type of exposure.
+
+**6:55** · We know that they're more at risk from certain types of cancers.
+
+**7:00** · And so in studying them and especially looking at their immune system and seeing where it goes awry.
+
+**7:07** · So hopefully we can start to, you know, figure out mechanistically, why is it leading to cancer and then hopefully be able to do something to prevent it.
+
+**7:19** · Now, it's hard to draw a direct comparison because firefighters have much more exposure to smoke than the general public does.
+
+**7:25** · But studies of firefighters do offer us a hint of what we might expect as big fires become more common.
+
+**7:32** · It's easy to believe that breathing in smoke year after year might not be good for you.
+
+**7:37** · some of the connections are surprising.
+
+### Surprising but less-studied health impacts
+
+**7:39** · For example, some studies have found that smoke exposure increases risk of developing dementia.
+
+**7:45** · Other studies have found a link between wildfire smoke and depression and anxiety.
+
+**7:50** · But it's also true that some people are at a higher risk.
+
+**7:54** · As with many things, this includes children and older adults.
+
+**7:58** · Children tend to have smaller airways that clog more easily.
+
+**8:01** · They also breathe in more air per body weight, which makes them more susceptible to pollution.
+
+**8:06** · A especially those little babies.
+
+**8:08** · wildfires can cause personal and environmental devastation.
+
+### impact on pregant women and babies
+
+**8:12** · And few places know this as well as Northern California.
+
+**8:16** · Dr. Christine Wu is public health director in Napa County.
+
+**8:19** · what we have seen based on our birth certificate data that shows a decline in average birth weight and a corresponding increase in preterm births in the quarter following wildfire smoke exposure for 2017 and 2018.
+
+**8:33** · The peak in 2017 was the first time we saw preterm births over 10% of all births in many years.
+
+**8:39** · And I thought that was really interesting and telling.
+
+**8:41** · pregnant women.
+
+**8:42** · That's a big category.
+
+**8:44** · The mom and the baby are at risk because we know when a mom inhales wildfire smoke, depending on how much they inhale and for what duration and for where they're at in their pregnancy.
+
+**8:55** · That baby could be born early or be born at a low birth weight from that smoke exposure.
+
+**9:01** · But here's the good news.
+
+**9:03** · You can protect yourself to a point by being prepared.
+
+**9:07** · So what does that mean?
+
+**9:08** · Number one, get familiar.
+
+**9:10** · Very familiar with the air quality index.
+
+### Breaking down the Air Quality Index (AQI)
+
+**9:13** · This tool that was developed by the U.S.
+
+**9:15** · Environmental Protection Agency gives us an overall picture of air pollution at any given time in any given location.
+
+**9:22** · It factors in five kinds of pollutants, including particle pollution, like we talked about earlier.
+
+**9:28** · And it mashes hourly measurements into a numerical rating system.
+
+**9:31** · 1 to 500.
+
+**9:33** · Anything under 100 is considered pretty clean air.
+
+**9:36** · But the higher the number, the worse it is outside over 101.
+
+**9:41** · And so this will issue an air quality alert.
+
+**9:43** · And AQI of 101 250 may trigger symptoms in anyone, especially those who are sensitive and 151 or 200 is bad for just about all of us above 200 things get really dangerous.
+
+**9:55** · You may need to limit the time you spend outside when the Canadian fires and smoke down the East coast This summer, the AQI in New York City went all the way up to 400.
+
+**10:05** · Anyone can feel those effects immediately.
+
+**10:08** · And in fact, on the worst smoke day.
+
+**10:10** · Emergency room visits for asthma in the city were up more than 50%.
+
+**10:15** · So it's a good idea to check the AQI, the air quality index every day.
+
+**10:20** · Like you would check the weather.
+
+**10:21** · You go online, you put in your zip code, and there you go.
+
+### Personal protection
+
+**10:24** · So, for example, the AQI is high.
+
+**10:26** · Consider moving activity indoors.
+
+**10:29** · If you go outdoors, consider decreasing your minute ventilation, such as going for a walk instead of a jog, and consider the total duration outdoors.
+
+**10:38** · You can also wear one of these things that we got so familiar with during COVID.
+
+**10:42** · An N95 mask or a K and 95, essentially the same thing, but it has to be a 95 or Kane 95 surgical masks, cloth masks, bandanas.
+
+**10:52** · None of those will block the tiny particles from wildfire smoke Also, let's not forget about our four legged friends.
+
+**10:57** · Pets need to breathe too, so don't make them suck up pollution on a long walk while you wear a mask.
+
+**11:02** · That's not fair.
+
+**11:03** · Also, keep in mind that air pollution can get inside your house.
+
+**11:07** · Also, if you own your home or have a good landlord, consider upgrading the air filter in your central ventilation or HVAC system.
+
+**11:15** · ensure that the filter that we have in there is actually at the highest efficiency compatible with our system.
+
+**11:21** · And each of these filters have what's called a MERV rating.
+
+**11:25** · That's the minimum efficiency report reporting value.
+
+**11:29** · And if we can get that rating to be a true high filter rating of 13 to 16, it can remove as much as 95% of the particles that pass through it and can be especially important during smoky periods.
+
+**11:44** · You can also use a portable air cleaner that's designed to treat just a single room.
+
+**11:48** · you might want to consider kind of creating a clean air room within the home, which it would be a place everybody could go where the air purifier could be working, and the room is kind of better sealed so that if you are exposed to the smoke, you can at least, you know, be out of it for a significant part of the time.
+
+**12:07** · and we've listed more info in the show description.
+
+**12:10** · So check that out That does it this week for vitals.
+
+**12:13** · But this topic of wildfires and smog, unfortunately, isn't going anywhere.
+
+**12:16** · So big things to Maia and a team at Weathered.
+
+**12:19** · Make sure to check out their episode on how climate change is ushering in a new era of disease risk.
+
+**12:24** · It's another collab between our two shows.
+
+**12:27** · In the meantime, hit us up on socials at PBS vitals.
+
+**12:30** · Tell us your thoughts.
+
+**12:31** · Don't forget to hit that subscribe button.
+
+**12:33** · Also, please check your air quality index every day, please, and thank you.
+
+**12:36** · We'll see you next time.
+
+#### The health risks of wildfire smoke across the Midwest and Mid-Atlantic
+
+**PBS NewsHour**, *07 16, 2026*
+
+## Video (5:15)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/UloYfl0ssgw?start=5 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+More than 115 million people may be exposed to dangerous smoke and unhealthy air quality levels. That's because wildfire smoke is spreading and triggering health advisories in at least 17 states from the Midwest to the Mid-Atlantic. It's led to flight delays, the closure of pools and beaches, and the cancellation of many other outdoor activities. Stephanie Sy reports. 
+
+Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV news show.
+
+Sign up for Here's The Deal with Lisa Desjardins: https://to.pbs.org/41q6E8i
+
+Subscribe for exclusive content in our newsletters: https://www.pbs.org/newshour/subscribe
+
+PBS News podcasts: https://www.pbs.org/newshour/podcasts
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS News at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+
+TikTok: https://www.tiktok.com/@pbsnews
+
+X: http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Facebook: http://www.pbs.org/newshour
+
+## Transcript
+
+**0:00** · Between now and Saturday, more than 115 million people may be exposed to dangerous smoke and unhealthy air quality levels. That's because wildfire smoke is spreading and triggering health advisories in at least 17 states from the Midwest to the Mid-Atlantic. Thousands have evacuated northern Minnesota and other states, it's led to flight delays, the closure of pools and beaches and the cancellation of many other outdoor activities. Stephanie Tsai has our report.
+
+**0:29** · People in Duluth, Minnesota woke up to some of the world's worst air quality this morning. Same for the residents of Detroit and Chicago.
+
+**0:39** · I felt pretty sick in Minneapolis, Caitlin Smith was struggling just to breathe. This is just crazy. I've never experienced something like this in my life before. I was just exposed to the smoke last night for like 5 minutes on my bike ride home from work and I felt really sick. It's becoming an all too fa mi li ar summer sight in North America. Orange tinted, smoke-filled skies like the one over Toronto's famous CN Tower.
+
+**1:05** · As soon as I woke up in the morning and went outside on my terrace and you could definitely smell the smoke in the air and it's very hazy out. It's the result of hundreds of wildfires burning in Canada and the northern US A train crew near Armstrong, Ontario, capturing the intensity of the flames. Oh yeah, I look over there. Mike Flanagan is a professor of wildland fire at Thompson Rivers University in British Columbia.
+
+**1:34** · Most of the fires were started by lightning. There were some human caused fires, but the majority are lightning caused. In northern Minnesota, the fires and smoke have forced the evacuation of the Boundary Waters canoe area, adding to the fire danger is the oppressive heat enveloping a large section of the country has been hot, dry, and windy in Minnesota and Northwestern Ontario Temperatures exceed 100 °F in Ontario and Minnesota.
+
+**2:05** · It was windy. You get lightning strike, fire starts, it grows rapidly.
+
+**2:11** · Those temperatures are record breaking, if not record smashing for many parts of Ontario and Minnesota, and it's part of that heat dome that affected much of western and Central United States in the last few days. A weather system in Canada is steering smoke into the US Across the Great Lakes and into the northeast and mid-Atlantic region.
+
+**2:33** · The cluster of darker dots show where fine smoke particles in the air were measured at dangerous levels today. What typically happening with a high pressure system, these heat domes are high pressure systems is the smoke gets injected high into the atmosphere. It kept the winds carry it, but this ridge air sinks, warms, and dry, and as it sinks, it takes the smoke with us. Pretty Armageddon-like out here.
+
+**3:00** · It's that it is that I think I'm more affected by the way it looks than the way it smells. That smoke is more than unsightly. It's unhealthy. From a health standpoint, there is no such thing as good smoke. Luke Montrose is an environmental toxicologist at Colorado State University. We know it gets into the systemic circulation and likely has impacts on other organs, and we're starting to see some instances where researchers are seeing effects on brain health, mental health, and even the re p ro duct ive system.
+
+**3:33** · Anne Montrose says when the air is as bad as it is in the upper Midwest, there's no sure way to escape it. This is catastrophic smoke. There are very few spaces that you can go to get away from that kind of smoke. It is going to infiltrate those spaces, even people who have great immune systems and are really healthy will start to have uh respiratory effects from these levels of smoke, particularly if it last s an entire day Experts say children, the elderly, and people with chronic illnesses are the most vulnerable.
+
+**4:10** · Symptoms may include sore throats, excessive phlegm, coughing, headaches, and brain fog. Staying indoors, turning on air conditioners and air filters, and wearing N95 masks can help mitigate the risks.
+
+**4:25** · Forecasters are predicting that the smoke conditions will likely ease by Saturday. But with fire weather getting more intense, this won't be the last of such events. United States, we're getting warmer because of human caused climate change and the increases in area burn, fire severity, are largely not solely due to human caused climate change. I can't be any clearer than that.
+
+**4:51** · As for the fires currently burning, experts say they may continue through autumn and maybe even until the first snowfall for the PBS NewsHour. I'm Stephanie Tsi.
+
+#### The Most Dangerous Wildfires All Have ONE THING in Common
+
+**PBS Terra**, *10 30, 2024*
+
+## Video (12:08)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/_uVdeK2nrrg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
+
+Fires are getting bigger and more homes are burning each year. In January 2025, 14 out of control wildfires tore through parts of Los Angeles and burnt over 18,000 structures and left at least 29 people dead. Firefighters are having to change tactics when it comes to the most destructive fires, but why? Jennifer Blach, Ph.D., just released a new study in the journal, Science, and her findings point to a new type of fire that is the culprit for all this destruction. 
+
+In this episode, we dive into this groundbreaking new study to learn why fires are getting more dangerous to humans and what we can do about it. Plus we have never-before-seen animations from NASA that show us exactly how these new fires behave. So tune in to learn about the future of fires and how to protect yourself and your home as fires change. 
+
+Get the PBS App to watch Weathered: Earth’s Extremes for free!  https://to.pbs.org/PBSAppWeathered
+
+If you're outside of the US and want to watch the show, you can check it out on PBS.org: https://to.pbs.org/WeatheredINTL
+
+Find free, curriculum-aligned teaching resources for Weathered on PBS LearningMedia! https://bit.ly/3YbUtef 
+
+Jennifer Balch’s new study in Science: https://www.science.org/doi/10.1126/science.adk5737 
+
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra. 
+
+Weathered is a show hosted by weather expert Maiya May and produced by Balance Media that helps explain the most common natural disasters, what causes them, how they’re changing, and what we can do to prepare.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+Thank you Margaret A. Carghill Philanthropies for supporting PBS.
+
+#californiawildfires #palisadesfire
+
+## Transcript
+
+### The new wildfire reality
+
+
+**0:00** · 80% of wildfire destruction is caused by one type of fire that until recently was rare. Scientists just figured out what these destructive fires have in common, and it's not what you might guess to understand what's going on. We talked to Battalion Chief, Mike McClintock, who fought this type of fire during the summer of 2024.
+
+**0:21** · And our conventional methods with fire engines and personnel were really ineffective. We had to get ahead of the fire and worry about life safety To understand why wildfire destruction has increased. We focus on the most obvious change in fires: they're getting bigger, but researcher Jennifer Balch says that might be a distraction. According to her new study, We've been focused on the wrong metric.
+
+**0:43** · The number of homes burned each year is going up. The Rim fire in California was massive at over 257,000 acres, but it only destroyed 11 homes and no one died. When you compare that to the Lahaina fire in Maui, which was a hundred times smaller, burned 2200 homes and buildings and was the deadliest fire in modern U.S. history, it's obvious that we're missing something.
+
+### Revisiting fire research
+
+**1:09** · In this episode, we're going to look at new research that could fundamentally change how we think about wildfire risk, what to expect in the future and what we can do to prevent losses. With entire towns being wiped off the map like Paradise, California, Jennifer and her team wanted to understand why.
+
+**1:32** · To figure out solutions, he knew that the first step was properly defining the problem, so rather than thinking about size, she approached fire from a new angle.
+
+**1:42** · What do the most destructive fires have in common?
+
+**1:45** · And until recently she didn't have the tools to answer this question.
+
+**1:49** · We've had really good data on how big they are, but we're only getting to the point where the satellites are getting good enough to give us information on a much finer temporal scale on an hour by hour basis.
+
+**1:59** · We have new high resolution data because NASA is doing a lot more than putting astronauts in space these days.
+
+**2:06** · NASA's done a lot over the years with studying the earth. We develop technology. We eventually launch into space on satellites, and we can see processes unfold across really large scales that we often can't see from a ground-based or human perspective.
+
+**2:17** · Jennifer looked at the time-based images of 60,000 fire events in the U.S. to analyze the way they spread and suddenly it made sense.
+
+**2:26** · This is a new discovery that we have made by putting together all of these different data sources and looking at fire from space.
+
+### Speed dictates destruction
+
+
+**2:33** · Today, so many science discoveries don't happen in the field, but in simulations powered by enormous supercomputers that perform quadrillions of calculations each second to model our climate. I got to visit one of these supercomputers in my new show, Weathered: Earth's Extremes, where I traveled the world to find out where we are and where we're going in this moment of climate change. You can watch right now on the PBS app, but back to fire.
+
+**2:58** · The results of Jennifer's investigation were striking. What almost all destructive fires have in common between 2001 and 2020 is speed. And this finding fundamentally changes how we approach fire management.
+
+**3:12** · Fires that move that fast.
+
+**3:13** · More than 4,000 acres a day account for 88% of the fire related damages that we see across the U.S. They are only 3% of the fires on record during that time. A very small number of fire events have huge consequences.
+
+**3:28** · And fast fires themselves changed in a worrying way during the study window. We'll get to that in a bit, but first, why are fast fires so destructive?
+
+### Firefighting in fast fires
+
+**3:37** · And why are they so destructive in a place like Southern California with some of the most experienced firefighters in the world, backed by impressive air support?
+
+**3:46** · The Bridge Fire was a great example, the fire activity was so significant, our conventional methods with fire engines and personnel were really ineffective.
+
+**3:54** · When fires are moving this fast, it's virtually impossible to put them out. When Mike's crew deployed to the Mountain High Ski Resort, wind was blowing embers miles ahead of the flaming front. Smoke reduced visibility and grounded aircrafts.
+
+**4:08** · Winds were significant at more than 50 miles an hour, we realized that the fire suppression, putting this fire out, on our side is not gonna happen and we're gonna have to move and shift our priorities.
+
+**4:19** · The fire was spreading quickly towards the town of Wrightwood just three miles away.
+
+**4:24** · There's a lot of similarities between the community of Paradise and the community of Wrightwood. We knew that going up there, we were gonna have a heck of a firefight.
+
+**4:33** · The comparison to Paradise, California is significant.
+
+**4:36** · In 2018, another fast fire burned over 18,000 structures and homes and killed almost 90 people. So the crew raced in an attempt to reach Wrightwood before the fire did.
+
+**4:48** · We had, you know, upwards of 50 engines on their way or there. We still had over 3000 structures immediately threatened.
+
+**4:56** · If you were to ask me at 30 minutes into this incident, where was our structure loss gonna be?
+
+**5:01** · I would say probably in upwards of one to 200.
+
+**5:04** · So they fought from house to house and help residents evacuate. By the end of September 10th, the Bridge Fire had exploded from 4,000 acres to over 34,000. This fire is part of a growing trend. During Jennifer's 20 year study period, fires got 249% faster across the West and 400% faster in California.
+
+### Drivers of rapid spread
+
+**5:26** · But what's making them faster?
+
+**5:29** · Forest management is often regarded as a primary driver of fire behavior. But according to Jennifer, it isn't a significant factor in fast fires.
+
+**5:38** · The fastest fires are actually in grasslands.
+
+**5:40** · They're very flammable fuels. They're very thin, they're easy to catch on fire. They host fires that move really fast.
+
+**5:46** · In fact, 80% of fast fires in Jennifer's study occurred primarily in grass and shrublands, not forests. It turns out that there are three elements needed for fast fire. One: ignition, two: dry, receptive fuel, and three: wind. Wind and ignition are difficult to change and control, but there's a piece of the fast fire puzzle that's a key force in their rise: dry, receptive fuel.
+
+**6:14** · We've had fuels that have been drying out all summer long and then we just throw in a little weather and a fire. And those are mixtures and that recipe for extreme fire behavior.
+
+**6:23** · And firefighters even have a term for this fire weather. In Canada, they call it crossover because it occurs when the temperature in Celsius reaches and crosses over the relative humidity level and it's explosive. At that point, fire can rip through dry fuels and spread extremely fast. In the U.S. we use the more general term red flag conditions.
+
+**6:46** · So what does that mean for the future of fast fires?
+
+### Climate change and risk
+
+
+**6:50** · With increasing temperatures, we know that we're essentially pulling more moisture out of fuels, we're making them drier. And that's the big impact of climate change on fire is making fuels more available and more available throughout the year.
+
+**7:05** · We're seeing extreme weather patterns change and and intensify across the globe. We're getting all sorts of situations in which weather patterns are driving extreme fire behavior.
+
+**7:13** · Models predict that the number of extreme fire spread events will more than double with two degrees Celsius of global warming, plus a doubling of acres burned. And that's not far from our current level of warming. We can't have a fast fire without strong wind. But the type of wind that causes many destructive fires has a special characteristic that makes it particularly dangerous.
+
+### The danger of wind events
+
+**7:35** · We worked with NASA to create scientifically accurate animations of the wind and fire progressions during a handful of fast, destructive fires to illustrate what's going on.
+
+**7:45** · I'm hard pressed to think of an event that destroyed more than a hundred homes that didn't have wind involved.
+
+**7:51** · And the common denominator for us to make it hard to control wildfires is wind.
+
+**7:55** · When strong winds meet or start a wildfire, they throw embers miles ahead of the flaming front, starting new fires and spreading the wildfire outward. These conditions supercharged the East Troublesome Fire. The fire was so fast, moving at 18 miles in a single day, that it jumped The Continental Divide, an area with very little fuel for fire. In the Marshall Fire, we can see a type of wind that's particularly dangerous: down slope winds.
+
+**8:23** · As wind drops in elevation, atmospheric pressure increases, which dries and warms the air. Temperatures can increase by as much as 5.5 degrees Fahrenheit for every 1000 feet of lost elevation, drying vegetation, and eliminating the need for high temperatures with wildfire. The fire started on December 30th, just outside of Boulder, Colorado.
+
+**8:46** · Wind gusts of up to 115 miles per hour flowed off the front range of the Rocky Mountains, sucking any remaining moisture out of the vegetation to create the most destructive fire in state history. Destroying over a thousand homes in six hours. In Lahaina, wind blew down the mountain, drying vegetation, warming the air, and knocking down power lines that ignited grasses, then houses, destroying much of the town.
+
+**9:13** · During the Labor Day fires, river canyons turned into wind tunnels with speeds reaching 100 miles per hour. Wind blew over power lines and ignited fires in and around small communities, fanning existing fires to create one of the most destructive fire seasons in state history. These aren't just regular wildfires, they're wind events with fire in them.
+
+### Preparing for future fires
+
+
+**9:36** · In those situations where you have an extreme wind event, basically the fire becomes uncontrollable. You know, fire suppression efforts are extremely ineffective in that situation. 'cause basically, for safety reasons, the firefighters just have to get out of the way. And so there's, there's really no stopping it.
+
+**9:50** · And that's probably the most important lesson about fast fires. Once they've started, there's no stopping them until the wind dies down. Firefighters can only evacuate people and wait. And as we face a hotter, drier, future fire prone places are going to become far more challenging places to live.
+
+**10:08** · So how do we reduce the destruction?
+
+**10:11** · We prepare ahead of time. Let's go back to the Bridge Fire, where Mike expected hundreds of houses to be lost.
+
+**10:19** · I feel like the Bridge Fire in Wrightwood is a success story.
+
+**10:21** · The Wrightwood community did everything right to prepare their homes for fire. The result? Only about 10 homes burned rather than one to 200 that Mike expected.
+
+**10:31** · So how do we prepare our homes for fire?
+
+**10:34** · To answer this question, I ask the Chief of all fire chiefs.
+
+**10:37** · Understanding how to live with the fire that's inevitable is absolutely key to our survival of the communities across the Nation.
+
+**10:45** · The research shows that we can significantly reduce the chance that homes will ignite in fast fires by taking simple steps focused on our home and its immediate surroundings.
+
+**10:56** · So it is incumbent on community planners, on individuals who purchase the properties on builders that they also build to code. Codes that are based on science: fire resistant materials, proper roofing materials, proper windows, not having wood fences. These are key pieces of the puzzle here.
+
+**11:16** · If we're going to continue to build communities in the path of fire, then we must build them according to the science and the codes to make people saveable in their own homes, in their own communities.
+
+**11:28** · If you wanna learn more about the ways you can prepare your home for fire, tornadoes, or even hurricanes, check out our new series Weathered: Earth's Extremes by downloading the PBS app today.
+
+**11:38** · And we'd love to hear from you in the comments: Do you live in fire country?
+
+**11:43** · Have you survived a fire yourself?
+
+**11:45** · What are you doing to prepare your home?
+
+**11:47** · Let us know and we'll see you next time on Weathered.
+
+#### There’s Something Living in Wildfire Smoke
+
+# There’s Something Living in Wildfire Smoke  NOVA  PBS
+
+**NOVA PBS Official**, *01 13, 2025*
+
+## Video (1:58)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Vtl-M08Ju88 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Wildfire smoke can carry thousands of living microorganisms, like bacteria and fungi, across long distances. Some of them could potentially infect humans. With wildfires on the rise, experts are studying the risk this poses to our health.
+
+📰 Stay up to date on the latest science discoveries, full episodes, articles, videos, and more by signing up for NOVA's newsletter here: https://www.pbs.org/wgbh/nova/newsletter/ 
+
+🛍️  Shop official NOVA 50th anniversary merch: https://nova-shop.org/
+
+Follow on social for more NOVA content
+
+Twitter: https://twitter.com/novapbs
+
+Instagram: https://www.instagram.com/novapbs
+
+TikTok: https://www.tiktok.com/@novapbs
+
+## Transcript
+
+**0:01** · [Narrator] Wildfire smoke is loaded with harmful particles like charred plant matter, incinerated materials, and noxious gases. But it's also carrying stuff that's alive, thousands of teeny-tiny microorganisms like bacteria and fungi.
+
+**0:15** · But why doesn't the heat from a wildfire kill all these microorganisms?
+
+**0:19** · Well, not all parts of a wildfire are hot.
+
+**0:23** · When we look at fire on the scale of a microorganism, there are likely pockets of cold air, areas that are not being burned at all.
+
+**0:32** · [Narrator] In those tiny pockets of cooler air, microorganisms can catch rides on bits of carbon, or water vapor, rise high into the atmosphere and travel long distances. And some could potentially infect humans. Some health experts are already noticing a concerning relationship between wildfire smoke exposure and rates of infection. One study in California found an uptick in fungal infections after wildfires within a 200-mile radius of hospitals. And climate change is making wildfires more intense and more impactful.
+
+**1:08** · Compared to the yearly average in the 1970s, the average wildfire season in the US is now 105 days longer, burns six times the number of acres and has three times as many large fires.
+
+**1:21** · Fires are affected by dry conditions and warmer conditions. Climate change is causing more of those extremes. More extreme conditions, more extreme wildfires. They go together, hand by hand.
+
+**1:34** · [Narrator] Though there are still many unknowns, risk is growing for more people.
+
+**1:40** · We would expect that we're all just gonna become exposed on a regular basis. We'd have to look out for that in places that we wouldn't normally be on the lookout. (gentle music)
+
+### Films
+
+#### Fire in Paradise
+
+>*Duration: 00:39:48*
+>[***More details on netflix.com***](https://www.netflix.com/watch/81050375?trackId=288953907&tctx=48%2C1%2C4ab2102b-e26a-4d7e-870d-7960a53e3390%2CeyJwYWdlSWQiOiJQU19hMDRlODI0Yy1kYmQyLTRhYWMtYjFiOC04MWQwMjEyODUyMWZfTDFfTjciLCJzZWN0aW9uSWQiOiJiNTA1ZWIyZi02NzhkLTQ4NjQtYmZhMC02NzVlN2MwYjA4NzEiLCJpZHgiOi05OTl9%2CPS_a04e824c-dbd2-4aac-b1b8-81d02128521f_L1_N7%2C%2C%2C%2C%2CVideo%3A81050375%2CdetailsPagePlayButton)
+
+<iframe width="560" height="315" title=Fire in Paradise allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://www.netflix.com/watch/81050375?trackId=288953907&tctx=48%2C1%2C4ab2102b-e26a-4d7e-870d-7960a53e3390%2CeyJwYWdlSWQiOiJQU19hMDRlODI0Yy1kYmQyLTRhYWMtYjFiOC04MWQwMjEyODUyMWZfTDFfTjciLCJzZWN0aW9uSWQiOiJiNTA1ZWIyZi02NzhkLTQ4NjQtYmZhMC02NzVlN2MwYjA4NzEiLCJpZHgiOi05OTl9%2CPS_a04e824c-dbd2-4aac-b1b8-81d02128521f_L1_N7%2C%2C%2C%2C%2CVideo%3A81050375%2CdetailsPagePlayButton></iframe>
+
+#### Inside the LA Firestorm
+
+**PBS Terra**, *03-19-2025*
+
+## Documentary Film (52:17)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/PiX9t_wovEY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
+
+It is WILD how often cities used to burn down. So when fires ripped through LA at the beginning of 2025, we wondered: are urban firestorms BACK? 
+
+In 1871, nearly a third of Chicago burned down. In 1889, 25 blocks of Seattle went up in flames. Modern buildings and firefighting solved the problem. So, how is this happening again? And why is it getting worse? To find out, we went to LA while the fires were still burning. Our crew was on the ground from day one. We interviewed top fire officials and leading scientists. And, we learned exactly what went wrong in LA - and the ONE THING that could stop these UNSTOPPABLE fires. 
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+## Transcript
+
+### The new era of wildfires
+
+
+**0:11** · Beginning on January 7th, 2025, the world learned what far too many survivors already knew. Wildfires are changing, but the LA firestorm is just the latest in a string of fires causing unprecedented destruction in the modern era. These fires are suddenly unstoppable. And there's one simple variable that explains the change - speed.
+
+**0:46** · I'm Maiya Mya, the host of Weathered, and I'm on a journey to understand where we are and where we're going in this moment of extreme change and to learn how we can stop the next tragedy before it's too late. Our film crew was on the ground from day one of the fires and we had inside access to top fire officials and cutting edge research.
+
+**1:08** · We learned what went wrong, why fires are moving so fast and the one thing that can stop this growing trend in fire destruction.
+
+**1:18** · Police Department.
+
+**1:19** · Firefighter down. Firefighter down. Alright dude. Yeah, let's get outta here. We tried.
+
+**1:27** · We tried bro.
+
+**1:31** · Oh my God, man, this is, oh God.
+
+**1:37** · It's all gone.
+
+**1:40** · The Palisades and the Eaton Fire have been a turning point. We're experiencing things that we never experienced before and as a public official, I have to tell the truth even when the truth is difficult To unpack that truth, we're going inside the LA firestorm. Here's what we know about the lead up to the fires. After two unusually wet years, Los Angeles, California entered an extreme eight month dry spell with no rain accompanied by record breaking heat.
+
+### Fire triggers and triggers
+
+**2:33** · In these conditions, all you need is wind and an ignition to see extreme fire. And looking at urban fire disasters over the last century, we see a clear uptick in the last decade. With this surge in destructive fires, relying only on professional firefighters for protection is no longer enough.
+
+**2:54** · I grew up in Malibu. I knew several people over the years that lost houses. Fires happened at a pretty frequent pace every six, eight years, but it was never something that was really interesting at all. And then the Woolsey fire happened and a lot of my friends, including my family, lost their house and I just couldn't let that go. And so I got oddly obsessed with what to do better for the next time.
+
+**3:20** · I remember at a community meeting where we had all the fire chiefs, I remember just saying, yelling at him.
+
+**3:26** · Everybody just wants to hear you say sorry.
+
+**3:28** · But Keegan, along with his friend Tyler, channeled that anger to help start the community brigade. A network of community members living in fire prone areas who wanted to play an active role in preventing destruction during the next fire.
+
+**3:41** · The brigade ultimately was born out of the Woolsey experience. We were just like, oh, we got this. We're gonna, we're gonna buy a truck and we're gonna buy a bunch of hose and we're gonna be, we're gonna handle the business next time. Creating an ad hoc kind of cowboy group of firefighters. That's what we thought then at least.
+
+**3:59** · Over the following years, the brigade grew and began collaborating with fire departments to prepare for the inevitable. In fall of 2024, 40 members received their fire certifications, but nothing could have prepared them for what was coming next.
+
+**4:16** · Tomorrow, Wednesday into a portion of Thursday, we are expecting some very strong potentially damaging Santa Ana winds.
+
+**4:21** · We'll be looking at, you know, 50, 60 mile per hour winds, 80 mile per hour winds, Relative humidity values are going to drop to at least 10%.
+
+**4:28** · Any fire start could lead to rapid spread in these types of conditions.
+
+**4:32** · We just finished training in October.
+
+**4:35** · We've done a bunch of tabletops field drills, exercises, et cetera, but we're tee ballers. This was the World Series of firefighting.
+
+**4:43** · In the past, I would've asked that they leave during the evacuation order. Now I'm asking that they stay because they're gonna be able to help us.
+
+### The palisades fire strikes
+
+
+**5:10** · I noticed smoke in the background over the hills about 10:30.
+
+**5:15** · Oh fire on the other side of the hill looks pretty close and the wind started to get stronger By 10:50, air tankers are on site.
+
+**5:27** · It is pushing directly towards Palisades, got a wide path of travel already.
+
+**5:33** · This thing is gonna make a good run.
+
+**5:34** · This was still all blue sky right here and we were off off the flank of the fire. But that changed really fast.
+
+**5:39** · Then I started to see the firefighting planes dropping water.
+
+**5:47** · I could see flames starting to lick up over the ridge on the other side of the ridge. And then at that point I turned around, got back down to the guys, said, Hey, we're gonna be impacted here. And then the wind shifted just a little bit and boom, this first street was impacted by fire almost immediately, just in a few short minutes afterwards. It was almost nighttime here from how thick the smoke was.
+
+**6:07** · Looks like the fire's gonna hit the back of these houses in about five, 10 minutes.
+
+**6:10** · The first broad evacuation order comes at 12:07 PM.
+
+**6:15** · Emergency evacuation of this area is required.
+
+**6:19** · Dozens of homes ignite and firefighters are unable to contain the fire.
+
+**6:23** · Next thing you know, there's sheriffs that are grabbing garden hoses and sheriffs grabbing fire hoses and helping put out spots. It was just pure mayhem honestly. And everybody's getting their teeth kicked in By 1:08 PM streets are gridlocked and residents abandoned their cars to evacuate on foot.
+
+**6:46** · You've got gridlock on Palisades Drive, abandoned vehicles, Sunset, completely impassable. Affirmative. We need heavy equipment to move a lot of vehicles Abandoned, no keys. By 2:30 the fire is racing towards Pacific Coast Highway and firefighters are scrambling for resources.
+
+**7:04** · We're gonna need emergency air.
+
+**7:06** · We're running out of bottles as we're trying to protect these houses and get people out.
+
+**7:12** · The plants in the front of the yard start catching on fire. The bush on the side of the house starts catching on fire.
+
+**7:18** · No I don't.
+
+**7:21** · All the smoke alarms in the neighborhood are going off.
+
+**7:23** · Alright dude. Yeah, let's get outta here. We tried.
+
+**7:28** · We tried bro.
+
+**7:29** · Sorry, we tried our best. Yeah, and when this tree falls, it's over.
+
+**7:41** · Sorry bro. Get outta here.
+
+**7:48** · Incident from operation.
+
+### The eaten fire catastrophe
+
+**7:50** · Our mission right now is life safety, evac is our concern.
+
+**7:53** · And then, just after 6:00 PM, 30 miles away, the Eaton fire starts in the hills above Altadena.
+
+**8:04** · Holy --- Response time from Fire Station 66 is probably two to three minutes. Upon arrival, they had large amount of fire pushing hard towards the, the nature center.
+
+**8:14** · By 6:36 PM helicopters arrive, but the nearly 100 mile per hour winds are so violent that aerial firefighting is quickly grounded.
+
+**8:24** · We're gonna have to shut down water dropping operation At 7:00 PM Fire Chief Anthony Marrone begins his drive from Palisades to Altadena.
+
+**8:33** · When I saw it at, you know, 27, 30 miles away, my heart just sunk because I thought, how are we gonna respond to this Before evacuations have been ordered, residents near Eaton Canyon are already fleeing Up there that looked like a river of lava just flowing down the hill, like no stopping it.
+
+**9:05** · From 6:18 that night till 6:00 the next morning we had continuous 80 mile an hour gusts. There's no stopping a fire that's getting pushed by an 80 mile an hour gust.
+
+**9:16** · The first evacuation order goes out near 7:30 PM for Altadena east of Lake Avenue. Meanwhile, in Palisades, aerial efforts are grounded at 7:45 PM Based on the wind conditions. Right now we're ineffective and we're not gonna compromosise safety.
+
+**9:32** · Copy to traffic. We lost the aircraft.
+
+**9:34** · Both fires swell in size.
+
+**9:38** · Evacuation notices have been issued for East Altadena, but West Altadena is still waiting for word to leave.
+
+**9:45** · I thought, well I'll sit here and listen to the radio in the car and see what's happening. And I'm hearing that the fire is going east and I'm thinking that glow is not two or three miles away. It looks a lot closer. There's still nothing telling me to evacuate. But the sheriff came up and he said, lady, get out, evacuate. The fire is coming.
+
+**10:16** · It was chaos in the streets.
+
+**10:17** · You had people trying to get out burning power poles, you had wires down, heavy smoke, which was limited visibility. So we went straight into rescue mode.
+
+**10:29** · Police department evacuate immediately.
+
+**10:32** · The smoke was so thick and it was, it was just raining embers everywhere.
+
+**10:38** · I don't know how anybody got out of there at three, four o'clock in the morning because it, it was pitch black.
+
+**10:45** · Oh my god, oh my God.
+
+**10:48** · Look at these The smoke was so thick and black, it was horrible.
+
+### Assessing the devastation
+
+
+**10:53** · The fires burned through the next day and into the night, incinerating thousands of acres and entire neighborhoods.
+
+**11:04** · Pool house on fire.
+
+**11:08** · By late Wednesday, January 8th, the winds subside allowing firefighters to begin containing the fires. But the battle is far from over. The fires continue to burn for several more weeks as crews work to bring them under control.
+
+**11:45** · But I need to understand these fires. What happened?
+
+**11:48** · Why did it get so out of control?
+
+**11:50** · And maybe most importantly, how can we prevent this from happening in the future?
+
+**11:57** · So I met with Dr. Lori Moore-Merrill, who served as the top US fire administrator from 2021 to 2025. She was essentially the chief of all fire chiefs and the first person in her position to bring a national focus to the rise of large scale urban conflagrations, fires that wipe out entire communities. The Orange County Air Ops team flew Dr.
+
+**12:19** · Lori over the LA fire perimeters to survey the damage and witness the destruction in its full breath From the Eaton fire where you can see how it just came right down the mountain and swept through the community. The ember cast here was totally significant in this fire.
+
+**12:50** · Embers that had to have been massive to have ignited so quickly and just fed this fire on and on and on from structure to structure. When we have those kinds of variables with the drought, the wind, the close proximity structures, it was almost as if the variables have come together such that this was inevitable.
+
+**13:11** · I feel like you have such a unique perspective with your role. Does that make you angry?
+
+**13:16** · I know this could have been avoided.
+
+**13:17** · We've been saying for years in the fire service, warning that this is gonna happen. We watched the Marshall Fire in 2021 in Colorado. We watched Lahaina on Maui in 2023 and now this. These are all conflagrations that are not trees burning, not a wildfire. Not even an interface fire. These are urban suburban conflagrations. This is structure to structure fire spread, both radiant heat, ember cast that really show the power of what fire can do.
+
+**13:59** · But also it gives us true information about how we can stop this. How we can not waste this tragedy, use this information to prevent next.
+
+**14:13** · By the end of January, the Palisades fire and Eaton fire had together destroyed over 16,000 structures and killed 29 people and people are upset. Early analysis of what went wrong quickly uncovered fire department funding cuts, low water pressure in fire hydrants and lack of fire engines.
+
+### Limits of fire suppression
+
+
+**14:39** · There have been a a, a quite a bit of comments over social media about the local water supply.
+
+**14:44** · What is going on with the water situation.
+
+**14:46** · Why was there no water in the hydrants?
+
+**14:49** · They can't fight a fire without water.
+
+**14:51** · Do you regret cutting the fire department budget by millions of dollars?
+
+**14:54** · Madam Mayor?
+
+**14:55** · Multimillion dollar cut.
+
+**14:57** · When you go through something traumatic, it's a natural instinct to point and try to figure out who to blame.
+
+**15:02** · But could this much destruction be blamed on a lack of funding and aging infrastructure?
+
+**15:08** · Everyone I asked gave me the same answer.
+
+**15:11** · I mean, is that just a lack of resources?
+
+**15:13** · Because I mean, that's something that I've been hearing just No, - You know, in the national media, Never there's, you could not have had enough resources to prevent the destruction of this level.
+
+**15:24** · Is there any amount of resources to stop a fire of the scale?
+
+**15:29** · I could had every engine in LA County, I couldn't have stopped this.
+
+**15:32** · I even asked LA County's top fire chief, if he had enough resources, could he have put out the fires?
+
+**15:38** · Could we have used more engines and more firefighters?
+
+**15:42** · Certainly Would it have made a difference?
+
+**15:47** · I don't believe so.
+
+**15:54** · So if more water, more trucks, more firefighters, couldn't stop the LA fires, was this disaster preventable?
+
+**16:01** · And how is it possible that the biggest and best firefighting force in the world couldn't put out the blaze?
+
+**16:07** · Well, let's take a look at how firefighting works. First, we'll look at how a wildfire is fought before it reaches a community. While it's still in the wildlands.
+
+### How wildfires are fought
+
+
+**16:25** · Primary tactic is to corral fires by creating an unburnable line around them. You encircle the whole fire perimeter with a trail built to mineral soil, nothing burnable there. And then you start burning inside that line to kind of rob the, the, the wildfire of any fuel to burn. So you use hand tools, shovels and pulaski or rakes. You could use heavy equipment like bulldozers or plows.
+
+**16:50** · Then you add in the air show with helicopters and planes dropping water, retardant. And when you get those different crews and parts working together, that's when it's very effective. But you don't really put out the fire. You put a fire line around the fire and over time the fire will just kind of burn out of any burnable fuel.
+
+**17:12** · The overwhelming majority of wildfires are extinguished quickly. And the LA County Fire Department is one of the most elite fire suppression organizations in the world. If anyone can put out a blaze before it reaches communities, it's them.
+
+**17:27** · So the threat in Los Angeles County, you know I say that it's probably one of the most dangerous places around because we get the kind of weather that very few places on the earth get coupled with the vegetation and the topography, the number of people that we have living here. And it makes for a a very threatening environment.
+
+**17:48** · Our air operation here is extremely demanding.
+
+**17:51** · We have a complex aircraft. We fly a single pilot, we fly it day night under night vision goggle, a very diverse and demanding environment that we operate on doing a very complex mission. So when you see a fire that is moving towards homes and it definitely puts an added sense of urgency with what you're doing.
+
+**18:12** · There's, you know, over a hundred cameras in the LA, Orange County areas and they've got a camera 365 days, 24 hours a day, they'll be able to pick up a little bit of smoke in a location and and then get a response out really quick. The conditions we can fly in and how much water we can drop is unparalleled to any other era of firefighting.
+
+**18:32** · Since 1983, an average of nearly 70,000 fires burn each year in the us. Nearly 98% of them are controlled by firefighters before becoming large and destructive to human communities. But dry windy conditions change everything.
+
+**18:52** · If you haven't been in a wind-driven fire day turns into night, there's so much particle in the air that you have no idea that it's daytime and you've got flame lengths 30, 40, 50 feet high and you've got so many embers being tossed at 50 miles an hour, spotting about a mile in front of you.
+
+**19:14** · And to think that you're gonna stop it by putting a hand line or putting a dozer quickly around it, it's not gonna happen.
+
+**19:23** · Strong winds blow embers over, even the largest fire line and air operations become far less effective.
+
+**19:31** · If it's so windy that the water literally isn't even really hitting the ground, then what are you doing other than accepting a large level of risk?
+
+**19:40** · During the Eaton fire pilots supported the initial attack, but were quickly grounded because of strong chaotic wind Due to wind conditions. You're gonna be breaking off. All air resources are gonna be clearing the incident branch seven copies.
+
+**19:54** · Aircraft shut down.
+
+**19:56** · If firefighters can reach a fire before it begins growing exponentially, it can be put out even in windy conditions. But the window of opportunity is becoming smaller and smaller because fires across the US are moving faster. Over the last 20 years, fires in California have grown 400% faster. We'll find out why later.
+
+**20:17** · But with traditional wildland firefighting tactics losing their effect, have we reached a tipping point for wildfire or is there still a way to change course?
+
+### The urban configration
+
+**20:32** · To answer that question, we have to understand another factor that makes these fires so destructive.
+
+**20:46** · Once the homes start to burn at scale, you've already lost fighting a structural fire, a first alarm, which is how firefighting resources are apportioned is at least 15 firefighters for one house, four engines, a truck and a BC is a general response. If one home is burning, any fire department anywhere can suppress that. At 10 homes, we now need 150 firefighters.
+
+**21:18** · If we're going to effectively go in and no kidding, put that fire out, we need 150 firefighters and we need them right now because fire, the, the growth curve is exponential.
+
+**21:26** · Once the fire reaches homes, it changes into something else entirely.
+
+**21:31** · Once you have urban conflagration, structure to structure fire transmission, then all of the things we are talking about from a wild land setting are no longer effective. 'cause we are in a fundamentally different fire.
+
+**21:43** · The building itself, the structure can sustain a longer ignition compared to a tree. A tree can burn for, I dunno, a minute or two, a structure can burn for an hour.
+
+**21:53** · It's the contents of those homes and businesses because that becomes fuel. And now we're producing very large long burning embers that can fly with the wind to ignite.
+
+**22:05** · When we have dense neighborhoods, we have more cars, we have more fences, we have more sheds.
+
+**22:09** · Now we have two factors that combine to make fires unstoppable. Ember cast and structure to structure ignition. And under these conditions, the wildland firefighting playbook goes out the window. Air ops is grounded and embers jump the fire lines. So emergency response shifts from firefighting to an all-out race to save lives. And that's exactly what happened in la.
+
+**22:37** · It was a wildland fire for probably about four to five minutes. So this fire burned straight, downhill into structures and then started burning structure to structure. The priority was rescue. So we're gonna take care of life first and then save property as we can. The conditions were so bad that I couldn't see the end of my hood. I had two hands come across my hood, put on my brakes.
+
+**23:01** · It was a a a, a middle aged lady and she says my dad is trapped in the, in the house. He can't get out. So we immediately ran up to the house, grabbed him, got him out to my vehicle, and our fire personnel and our law enforcement personnel went on calls for service like that all through the night While assisting with evacuations. in Pacific Palisades was the first priority for Keegan and the community fire brigade.
+
+**23:35** · They also spent time doing last minute preparations on homes, clearing flammable items away from structures and extinguishing spot fires before they could ignite homes. But this was a decision that Keegan still grapples with.
+
+**23:50** · Somebody died on PCH, somebody died up Las Flores, somebody died in Big Rock.
+
+**23:54** · Did we help a couple structures survive?
+
+**23:56** · Maybe. How do you, how do you measure the importance of structures versus lives?
+
+**24:02** · I just keep going that over my mind is how much time am I willing to, to wager prepping and doing triage with time that I could be trying to convince another person to leave?
+
+**24:14** · In that moment where you're trying to get people out, you're seeing people's homes get destroyed, I mean, what's going through your mind?
+
+**24:20** · I live in the community. My kids go to school in the community and I'm the assistant chief here for the community. It's heartbreaking. It's heartbreaking.
+
+**24:32** · Why didn't we get to that one person's house where that person died?
+
+**24:37** · And that's like the, that's the really heavy part.
+
+**24:43** · As I talk to first responders after these fires, it's become clear that they were up against an impossible task filled with impossible choices. And what we need to prevent. The next tragedy is time. There may be a way to slow urban fire disasters down. But first I wanna find out why these fires are getting so much faster and more destructive.
+
+**25:05** · I'm a fire chief and I'm not a scientist, but when I look back over my career, I cannot deny that fire season is now longer. I cannot deny that fires are harder to extinguish. I'm not gonna argue what's causing the climate to change. I'm here to tell you that I have a front row seat to the results of this changing climate.
+
+### Climate change impact
+
+
+**25:52** · To understand the changes we're seeing today, we need to understand the past. In the early 1900s, a new organization called the Forest Service was formed and its mandate was to put out all fires as quickly as possible. The early 1900s were hot and dry and that didn't just cause the dust bowl. There was also a lot of fire. In fact, many researchers believe that there was more fire then than there is now.
+
+**26:27** · By the 1940s, firefighting had become professional and efficient, but wildfire was still a huge problem in the West. Then ocean currents shifted, bringing cooler, wetter conditions to much of the Western US. It also made fires far easier to fight.
+
+**26:44** · We had these incremental wet periods during the summer. Incremental rains every week or two is just enough to tamp down fire behavior and support the fire managers to get out there and suppress those fires.
+
+**26:58** · And under these conditions, firefighting worked.
+
+**27:01** · Acres burned per year plummeted.
+
+**27:06** · That's where we started in the Western United States, really interacting with the landscape and developing our expectations on what the landscape could provide for us. And that's the period of that great expansion. We see communities expanding. We see the land utilization expanding. We've expanded our recreation resources, we've expanded our water infrastructure, we expanded our power infrastructure and we've expanded our timber bases under the expectation that that's sustainable into the future.
+
+**27:35** · And most importantly, we expanded where we lived. But then things changed again. By the 1980s, the western US had left that cool wet period, the number of acres burned per year began to rise. But now there are whole towns, cities, farms, and infrastructure filling in our fire prone areas. And now we layer on top of that expansion, the warmest year in human history. On our current trajectory.
+
+**28:07** · The warming we've seen could double by the end of the century. And this really matters when it comes to fire because as temperatures increase, the ability for the atmosphere to hold water vapor also increases and it's exponential. You can basically think of the atmosphere as a giant sponge that can absorb and then release water. The warmer the atmosphere, the bigger the sponge. And this has two effects.
+
+**28:32** · First, when that moisture is released, it leads to more extreme precipitation. But when conditions are dry, a thirstier atmosphere does the opposite. It pulls moisture from the land, sucking water from plants and soil, creating the perfect conditions for fire to spread faster and burn hotter. This dramatic shift between extremes is what some scientists call weather whiplash. And that whiplash had a big role in the LA firestorm.
+
+### The perfect storm of variables
+
+**29:04** · All right, so we've been hearing a lot about climate change and how it may have influenced these fires. So we're actually gonna meet up with someone who can explain it to us. So let's go. Oh wow. I'm back in school. How you doing? I'm Maiya.
+
+**29:18** · Hey Maiya. I'm Park. - Nice to meet you.
+
+**29:20** · You can think of wildfire as being a light that is either on or off, but with fire you can only turn on the light if you have four switches on at the same time.
+
+**29:29** · These switches include fuels, aridity, fire weather, like strong dry winds and ignition 2023 and 2024 was extraordinarily wet. Lots of new plants grew. This is just a record of the greenness in coastal southern California for the last 40 years. And this past spring was near record high meaning that probably we haven't seen fuel loads like this more than once or twice in the last four decades.
+
+**29:54** · Wow. And that was due to all of those atmospheric rivers that we saw.
+
+**30:00** · That's right. - Rolling through California.
+
+**30:01** · That's right. - And that leads us to the next ingredient, which is aridity.
+
+**30:05** · This year has been an extraordinarily unlucky year so far. Usually we get our first rain by sometime in October or November. And here we are in mid to late January. We still haven't had our first rain. The vegetation and structures are probably drier than we've seen anytime in the last 150 years at least. Another contributor to that is temperature. Heat works to dry out fuels because heat causes the atmosphere to be thirstier.
+
+**30:30** · Another factor is wind, right?
+
+**30:33** · That's right.
+
+**30:34** · Now this though is the middle of Santa Ana wind season. Santa Ana's are strongest and most common in December and January. Usually they can't dry fire because usually everything's all wet by then. What made this year extraordinary was the huge amount of fuel, the very, very dry conditions because of lack of precipitation, high temperatures. And then to cap it off, a really strong Santa Ana wind event.
+
+**30:58** · And there is one more factor, which is ignition.
+
+**31:01** · Yeah, that's right. So in coastal Southern California, when we have these fires going in Santa Ana wind events, essentially all of the fires were caused by people. Lightning does not occur during these events. Unfortunately, when conditions are this extreme and perfect for fire, it's almost inevitable that there is going to be an accidental spark somewhere. And those accidental sparks have a really easy time lighting, very destructive fires under these crazy weather conditions.
+
+**31:25** · It just seems like a perfect storm.
+
+**31:27** · It has been a perfect storm, but this type of event is the type of event we expect to see more of in the future.
+
+**31:32** · At this point, Parks research shows that only one of these factors has definitively changed due to global warming. Temperature. Record breaking heat removes moisture faster, priming vegetation, fences, hedges, and homes. And that explains why fires are moving so much faster. So we're in Altadena today and we are gonna meet up with survivors of the Eaton fire and just driving through the, the impact of this fire feels different.
+
+### Survivors and rebuilding
+
+**32:16** · The whole community is gone and it's really been difficult for me to take everything in. But I'm very interested to hear from survivors and hear where their head space is.
+
+**32:27** · Hello Lynelle.
+
+**32:29** · Hi. How are you?
+
+**32:29** · How are you? I'm good, I'm good.
+
+**32:31** · I'm Maiya Maiya. Charles Bryant, glad to meet you.
+
+**32:34** · Nice to meet you. So tell me where we are right now.
+
+**32:38** · Altadena, post-Eaton fire.
+
+**32:42** · And you're at our home.
+
+**32:44** · This is where your home used to be.
+
+**32:45** · Right.
+
+**32:49** · You guys are gonna rebuild on this property.
+
+**32:53** · I've got the rendering already.
+
+**32:54** · I got my drawings done. Yeah. - Oh my goodness.
+
+**32:56** · You are ready to go Yeah. We can submit tomorrow if we want to.
+
+**33:01** · The level of despair is something that fortunately we haven't felt, but it's, it's so real. And I Think for this community, I think that despair goes beyond the, you know, I've lost everything. I didn't realize 80% of black families own their homes here. And I think that's amazing and, and I think just not knowing how the community is gonna look moving forward is also playing into that feeling of despair.
+
+**33:32** · It really is because you take the fact that the homeowners are multi-generational. So you've got somebody whose parents might have bought their home in the fifties and the sixties and then they've lived in the house, or they have, since there's people at our church who might be seven family members all lost their homes. So it's not just losing your house, it's losing your sense of who you are. And it's also losing your community.
+
+**34:01** · Even before the fire Altadena had been gentrifying rapidly, Altadena's black population had dropped from 43% in 1980 to 17% in 2020. And the future is uncertain.
+
+**34:14** · And the fear is losing that sense of community.
+
+**34:17** · The silver lining of the fire is that it's brought a spotlight back to the, the fact that this was and still is a black community and how important it is that we had owners, property owners, business owners and so forth. And I think it's, it is adding, adding a light to the fact that there's something here that's worth investing in. So many innovations that have come out of disaster.
+
+**34:43** · You know? And why can't the, the rebuilding of Altadena be one of those things? I mean, yeah, why not?
+
+**34:50** · Disasters like this threaten the very fabric of communities, dismantling decades of generational wealth in minutes. But many other residents I met said they wanted to rebuild an Altadena.
+
+**35:02** · My main concern is to preserve the community as it was before the fire has even happened.
+
+**35:08** · And right now I'm worried and my neighbors are worried that even if we rebuild, is it even insurable?
+
+**35:14** · And is that insurance gonna be affordable or are we gonna be priced out?
+
+**35:17** · The process of rebuilding is hard to get some perspective on just how long it takes. I ask Keegan about his community's progress after the 2018 Woolsey fire.
+
+**35:28** · Can you tell me about the Woolsey rebuild?
+
+**35:32** · Like how many, 'cause that was six years ago.
+
+**35:35** · Yep. - Is that community completely rebuilt?
+
+**35:39** · No. So I mean, just in the city of Malibu, for example, about 450 homes burned down. And of those 450, I think less than 200 even even have their certificate of occupancy today.
+
+**35:50** · Wow.
+
+**35:52** · We can't control where wildfires ignite or the weather that makes them so fast and so destructive. But we can control how we rebuild and how prepared we are for future fires. So you've been through quite the transformation since the Woolsey fire.
+
+### The science of home hardening
+
+**36:09** · Can you tell me a little bit more about that?
+
+**36:11** · Yeah, I mean, during the Woolsey fire and directly after I was that uninformed resident that was frustrated, angry, and I was the one that was out there yelling at the fire chief saying that he, they should have done something different or better. A lot of that anger I had and frustration was just based off of poor understanding. And then I stumbled on Jack Cohen. That was the like aha shift for me.
+
+**36:38** · There goes Jack. Get some good video?
+
+**36:43** · Got Jack running into the smoke.
+
+**36:47** · I became a research scientist, a fire scientist in 1976. I've been doing fire since as long as I can remember. From my standpoint, one of the major contributions to the research that I've done is to redefine this problem. The main point here is that it's a home ignition problem, not a wildfire control problem.
+
+**37:24** · The, the big problem with us defining wildland urban fire disasters as a wildfire problem is that we focus on and put all of our energy into attempting to eliminate the wildfire to begin with. Instead of taking the opportunity to be more practically effective with regard to changing the ignitability of the thing that gets destroyed, which are the structures.
+
+**37:58** · What Jack discovered is that the way a wildfire enters a community isn't through a wall of flames, but something much smaller.
+
+**38:08** · Well as it turns out, we're talking about a burning ember landing on the structure and the debris that maybe is in the, in the rain gutters and igniting that debris that then puts flame on the eaves that then spreads into the attic of the house and and totally consumes the house.
+
+**38:27** · And with that, Jack created the modern understanding of how fire enters communities. He found the mechanism that burns houses and how wind creates so many ignitions.
+
+**38:38** · We have large ember production, Thousands of embers.
+
+**38:41** · Embers the size of golf balls, So many embers spotting, you know, in advance of the fire.
+
+**38:48** · So we had to do experiments where we could generate a blizzard of burning embers on a full scale house and then begin to experiment with where the ignitions occur and see if a specific design was vulnerable to ignition from burning embers.
+
+### Effective mitigation tactics
+
+
+**39:18** · And a few years ago I visited the Insurance Institute for Business and Home Safety to see one of these ember experiments in person.
+
+**39:26** · So we're in the main chamber, right?
+
+**39:28** · Yeah. - What makes this place so cool?
+
+**39:30** · This is the only place on this planet that we can test full scale buildings and then add fire to it.
+
+**39:37** · And this is how you generate the wind.
+
+**39:40** · Correct. We have 105 fans here.
+
+**39:43** · Wow. - And we have the capability to generate a real hurricane.
+
+**39:48** · Just how fast can these winds blow?
+
+**39:51** · So we can go up to a hundred twenty, a hundred twenty five miles an hour wind. Yeah. You don't wanna be in the chamber when the fans are on.
+
+**39:58** · What we have here is a mock test building. Half of it is wildfire resistant and the other half of it is more traditional building structure. And here in the wind chamber we're gonna shoot embers at it. And when they come and impact the building, we're gonna see the difference in wildfire resistant building and non wildfire resistant building and how they perform to that ember exposure.
+
+**40:21** · Fans are on. We're about to start generator starter procedure Control room ready?
+
+**40:26** · Copy, test starts in 5, 4, 3, 2, 1 generators on.
+
+**40:34** · All right.
+
+**41:09** · These experiments identified the most important steps to hardening homes and stop wildfires from becoming urban conflagrations.
+
+**41:17** · Stats show that the majority of the loss maybe up to 90% in wildfire prone areas are because of embers. Basically when embers accumulate around the buildings, it ignites the recipient fuel and well the recipient fuels becomes flames and the flame near the structure is the recipe for disaster.
+
+**41:37** · Right. And the wind is like blowing these embers.
+
+**41:39** · Exactly.
+
+**41:39** · We are not talking about hundred or 200 embers. We are literally talking about thousands of embers hitting the wall, falling at the base of the wall. And then if there is any combustible in that area, that's fair game.
+
+**41:51** · In order to protect your home from embers, there's a lot that you can and should do. But there's a few very simple, very effective steps that you can start with.
+
+**42:01** · You have to have a class A, non-combustible roof. That's non-negotiable. That said, there are very few non-class A roofs left. Number two is you have to have ember resistant vents. If the vents are not ember resistant, either 1/8th or finer mesh, embers will find the void spaces and it won't matter how many other mitigations are in placed. And the third thing is you have to have zone zero. Five foot of non-combustible inclusive of wooden fences.
+
+**42:23** · If you have those three, I think that's the, that's the baseline.
+
+**42:27** · Zone zero includes removing things like bark chips, vegetation, lawn, and furniture and fences. Decks are also vulnerable to embers, especially the area underneath the deck. The first six inches of vertical wall at the bottom of your home should also be non-combustible so that any embers that fall around your home can't ignite the structure.
+
+**42:47** · Those three things done across a community could likely slow a fire from igniting the first houses long enough to give first responders a fighting chance. Roof, vents and zone zero. Embers cause most of the destruction we see in these urban conflagrations, but they aren't the only thing we're worried about.
+
+**43:07** · In addition to that, we, we need to harden the home against flames.
+
+**43:11** · This includes installing non-combustible siding and closing your eaves and installing multi pane tempered glass windows and fire rated doors. And then extending out from your home to a 30 foot perimeter sheds and outbuildings can act as a fire bridge to your home. So harden those as well.
+
+**43:31** · But do these home hardening measures still apply in extreme fire events like we saw in LA?
+
+**43:37** · So when the first building ignites, and when we add wind to this, the flame stretches and tilts down when the distance between the structures is shorter than the flame length. Basically we are holding a blowtorch on our homes.
+
+**43:53** · And the heat, the flux put off by a burning home far exceeds anything you see in a wildland setting, both in the peak temperatures and the time. A home burns for a long time.
+
+**44:04** · When a wildfire becomes an urban conflagration, our houses, our businesses, our belongings become the fuel and those fuels are supercharged. But even in these conditions, the experts we've talked to all say that home hardening is still our number one defense because it limits the number of homes that will catch on fire and buys us time to deal with the ones that do.
+
+### Long-term community strategy
+
+
+**44:29** · So it takes longer for the fire to make its way through the, the labyrinth of treatments we've imposed. Well then firefighters don't have as much fire to fight and that fire that they do have to fight will be moving more slowly.
+
+**44:40** · We can't stop wildfires. That's correct.
+
+**44:42** · We cannot do that. But we can stop configuration. We can bend down the risk curves by using these mitigation strategies that we don't see Altadena completely wipe out. That's something that I am sure we can do To slow a fire down enough to prevent a conflagration will take a strategic community-wide approach to home hardening One or two homes being hardened is irrelevant.
+
+**45:07** · It, it needs to be a critical mass at the critical location in order to be effective.
+
+**45:12** · But what if your neighbors haven't prepared their homes?
+
+**45:15** · Does preparing yours on its own make any difference at all?
+
+**45:21** · One of our big goals, Tyler, and I's big goal after Woolsey very early on after meeting Jack and learning about his science and research was what if we could get out there, assess and mitigate a bunch of houses in an area that is going to burn at some point to document it and then for a fire to come through and for those houses to survive on their own accord.
+
+**45:50** · And we have several stories of places that we went to a year ago, two years ago, three years ago, did assessments with homeowners that were willing to do the work, that did the work. And sure enough, the houses survived on their own accord.
+
+**46:04** · Keegan took me to one of the houses that he helped prepare.
+
+**46:08** · Yeah. So the first house is right up here on this driveway. Oh, okay. Cool. And we'll go walk up there, Right literally right next to it.
+
+**46:15** · Yeah. - I'm assuming this was a house that looks like it was a house that could completely burned down.
+
+**46:20** · There's yeah.
+
+**46:21** · So there was actually three houses in this driveway.
+
+**46:23** · Oh wow. - That burned down.
+
+**46:24** · And then this is the fourth and it's on slope. About 30 years of fuel coming off the back of this. And it saw extreme fire behavior. No doubt. This home is kind of the perfect quintessential example of somebody going and doing the work and the house surviving on its own accord.
+
+**46:45** · This is crazy. So this is a house that's still standing. You said there were three other homes on this lot and in in this driveway that completely burned down. These homeowners didn't implement all of the home hardening measures recommended by IBHS, but they did take the three most critical steps, roof, vents and zone zero.
+
+**47:14** · Doing home hardening is not sexy.
+
+**47:16** · It's not like a cool thing that people are posting on their Instagram and talking about to their friends, oh, check this out. I put on this 16th inch mesh over my vent. Right. Big events like this, there is nothing you can do. There's nothing I can do. There's nothing the best resources in the world can do.
+
+**47:36** · Yeah, sure. They can save a few structures here and there, but the only way to scale is to do that long-term preparation through home mitigation full stock.
+
+**47:58** · If we fail to prepare our homes and communities, it will not only cost lives. Faced with increasing losses, insurance companies will leave risky regions and no insurance means no mortgage, which means a dramatic decrease in home values. One of the most significant sources of wealth for middle class families. Here's what Federal Reserve chairman Jerome Powell said about it in a Senate hearing.
+
+**48:20** · How do you think we should be thinking about the challenges that these events are gonna pose to insurance markets and to the overall financial stability of the economy?
+
+**48:32** · Both banks and insurance companies are pulling out of areas, coastal areas or areas where there are a lot of fires?
+
+**48:38** · So what that is gonna mean is that, you know, if you fast forward 10 or 15 years are gonna be regions of the country where you can't get a mortgage, there won't be ATMs, there won't, you know, the banks won't have branches and things like that.
+
+### Lessons from history
+
+
+**48:57** · It feels like we're facing an unprecedented crisis. But actually we faced and solved the problem of urban firestorms before. For centuries, massive fires devastated cities around the world. In 1666, the great fire of London destroyed over 13,000 homes and left almost 85% of the city homeless. And in some ways it wasn't so different from today's wildfire driven disasters. The fire started during a period of drought and spread rapidly through tightly packed wooden buildings and narrow streets.
+
+**49:29** · The city burned for four days and in the 1871 Great Chicago fire, we saw something similar.
+
+**49:38** · The reason that Chicago burnt down, I think it was twice, was because the buildings were catching each other on fire. Well, that's what we have now. We have urban conflagration now. And the reason that that's stopped happening other than wildfire was that insurers pulled out of Chicago and and said, we're not going to insure this kind of city unless you start implementing building codes.
+
+**50:03** · But cities adapted, fire codes became stricter.
+
+**50:06** · Streets were widened to slow fire, spread wood gave way to non-combustible materials like brick, stone, and steel. And by 1920, the age of city destroying fires is over. And a similar transformation could happen in California.
+
+**50:23** · I am a engineer and scientist at heart, and so I take this as a challenge and opportunity to look for great materials that are more fire resistant and to build and design a house that is gonna be a lot more resilient if and when another fire threatens our area.
+
+**50:42** · What happened in LA is a tragedy, but it seems clear that fire doesn't have to destroy communities in this way. The Palisades and Eaton Fire can happen anywhere, but we have the science to protect people and homes. The biggest takeaway for me is that large scale home hardening is the key to keeping our community safe from fire. It's gonna take a lot of work, but I met incredible people in LA who are already making it happen.
+
+**51:09** · So I know progress is possible. We can build more resilient communities and reverse the trend of fire disasters. The solutions exist, the challenge now is acting on them before the next firestorm.
+
+#### Waking Up to Wildfires
+
+# Waking Up to Wildfires (Emmy-Nominated documentary, KVIE, PBS)
+
+**Paige Bierma**, *02-21-2021*
+
+## Documentary Film (26:48)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/-xqiTB0ANlU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+In Waking Up to Wildfires, Emmy-winning filmmaker Paige Bierma uses her camera to tell the stories of people most affected by the 2017 North Bay wildfires. We hear from survivors, firefighters, public health officials, community groups and scientists trying to make sense of it all while people struggle to recover and new fires erupt.
+
+The UC Davis Environmental Health Sciences Center produced Waking Up to Wildfires with a grant from the National Institute of Environmental Health Sciences to help shed light on the plight communities face after these types of disasters.
+
+You're watching a condensed version (26 minutes long) that's currently airing on PBS stations across the country. To find out more or get a copy, visit our website at environmentalhealth.ucdavis.edu.
+
+## Transcript
+
+### The Tubbs fire outbreak
+
+**0:00** · [Music] it was the most apocalyptic thing i've ever seen never before in sonoma county had we experienced a wind-driven fire that burned 11 miles in five hours one of our neighbors came banging on the door the field next to our house was on fire i'm going okay
+
+**0:28** · i'll just get the water to get the water hose or fire extinguisher and we'll take care of this but it was too it was already too late you could see the fire coming starting to come across across the trees and everything the speed of the tubbs fire was absolutely horrific i would try to outflank the fire to get ahead of it into neighborhoods to try to evacuate people but it seemed like within minutes embers were falling and time's up and it's time to go
+
+**1:16** · [Music] i'm irva hertz pichoto i'm the director of the uc davis environmental health sciences center and as i was watching the images of the wildfires in october of 2017
+
+### Climate change and wildfires
+
+**1:35** · it just stunned me and dawn on me that our center could actually conduct some research and learn about these wildfires and contribute to understanding what the consequences of climate change are [Music] so in california we have a perfect storm of conditions which is making fire more widespread and more intense those conditions are human suppression
+
+**1:58** · of fire for decades which means that the trees are more dense than before climate change which is making these ecosystems hotter and drier which kills the trees makes them more flammable and finally the nail in the coffin the pine beetle in california which can come in and kill
+
+**2:14** · the trees and this is why we have about 130 million dead trees in california now which makes him very vulnerable and susceptible to fire the climate change is induced through greenhouse gas emissions from human activities and that is causing ecosystems to become hotter and drier and more flammable so climate change is
+
+**2:35** · contributing to the spread in the incidence of wildfire in many ecosystems on the planet now this is concerning for a number of reasons it affects human health it's hard to breathe the air when it's very smoky and we're seeing that happen in california and elsewhere and then finally it can give rise to what's called a positive feedback cycle so this is a self-reinforcing effect in
+
+**2:57** · which climate drives out these ecosystems and kills the trees fire becomes more prevalent which releases the carbon back to the atmosphere as co2 and that co2 further contributes to additional climate warming
+
+**3:13** · the changing climate is absolutely having an impact on how fires are burning how they're spreading california historically has experienced large devastating fires what's really changing is the intensity of the fires the duration of the fires and certainly the frequency the tubs fire when it reached santa rosa literally crossed the six lane 101 freeway this tells us that we have to be looking at threats that we didn't necessarily consider before
+
+### Survival and rescue stories
+
+**3:42** · i was the first battalion chief to arrive at the tubbs fire when i arrived the fire was already very well established we had no chance of putting it out i got a phone call from one of my friends it was probably around 10 o'clock at night and she said you know i think there's a fire and it's coming towards you and i'm worried so we started packing up once the power went out that's when we left we ended up getting gridlock i thought maybe there was a roadblock or something we turned back and i was just
+
+**4:14** · driving like a bat out of hell and i was just thinking we got to jump in the pool it was almost like a blow torch everything was incinerated power poles were across the road wires were hanging oak trees were across the road cars were burned out on the way down i ran into two santa
+
+**4:32** · rosa police officers that were making their way up mark west and i remember stopping them concerned for their safety and asking them where they were going it was then that i met officer chance and officer nick with the santa rosa police department they told me that they were on the phone with two people that had survived the fire that needed to be rescued
+
+**4:55** · we got in the pool and we hugged each other a couple times and we said our goodbyes i can remember holding max and he was panicking trying to jump out and i just had to yank him underneath and i can remember a few times coming up for air you know barely barely able to get a breath of air you know you're just in survival mode a report of people trapped at 1404
+
+**5:22** · i had taken my siren and would chirp it a little bit in the spirit of if someone had survived maybe they would hear the siren and emerge from whatever cover they were behind i heard the whale a little whale of a siren and i kind of hear i hear a siren
+
+**5:41** · and damn if that thing didn't come around and come up here nick and chance jumped out of their patrol cars and were able to find the folks that they had been on the phone with um and make the rescue they put those folks into their car and it was only a few seconds later that chance uh thought he heard something and realized that we had two additional folks that had survived the fire and were huddled near a cement
+
+**6:10** · wall near their swimming pool given what they had been through i knew immediately that they had most certainly inhaled all sorts of toxic and hot gases they drove us and it was like a war zone i mean you you were driving it off the road a few times to get us down to the hospital and the last thing i remember was christina's in a gurney i'm in a gurney and the nurse takes max and says okay we're going to take max to a vet and we're going to evacuate you and that
+
+**6:40** · was it that's the last thing i remember that night [Music]
+
+**7:05** · [Music] we decided to launch an online survey to collect a lot of information about people's experiences and also we collected some ash samples we collected air samples and we also initiated a study to look at women who were pregnant during the wildfires or shortly thereafter with the data that we collected we're hoping to provide information that can be useful for non-profits and local and county
+
+### Researching urban fires
+
+**7:39** · health agencies other agencies to be better able to meet needs in the future and really to continue to provide services for people who are still going through recovery
+
+**7:59** · what was so striking about this particular fire was how much of that fuel for the fire now came from residential areas and all of the products that are in residential areas anything from homes to consumer products to cars to the infrastructure so that's what really piqued the interest is what happens when you start to burn consumer products anything as simple as cleaners or leaded paints or gas pipelines now all of this becomes
+
+**8:29** · a very large part of what is also in the fire from the biomass that we know about the samples that we got from the bay area site have been brought back to the lab and we have started the chemical analysis looking at metals elemental carbon and organic carbon and we've also started some toxicity testing so i can confirm that the emissions are
+
+**9:00** · strikingly different than your typical wildfire in an isolated wilderness area they're different chemically and there are things in the emissions that we don't even know what they are yet we still have a lot to learn about what the risks are from suburban and urban wildfires but i think we can expect there to be some very toxic and reactive chemicals that we will be breathing um as a result of those fires
+
+### Health impacts on residents
+
+**9:31** · tammy scott is a patient i've known for about five to ten years she was outstanding roller derby player i remember and she had to stop roller derby because of her asthma which was getting worse in the sacramento area she had a lot of environmental triggers to her asthma we recommended that she look to move elsewhere and she made a decision to move to the bay area specifically because she knew that she was breathing better there and i know she moved on to a houseboat and was doing terrific
+
+**10:01** · uh up until the the wildfires in 2017 from the sonoma napa area and that causes significant worsening of her symptoms and that's when she came back to see me before the fires i i had my life back i
+
+**10:17** · could be active i could do what i wanted to do i was starting to skate i was starting to work out a little bit i did a lot of walking with my dogs enjoying life you know and the air here is beautiful there's usually a good breeze sometimes like today there's a real strong breeze but it's fresh
+
+**10:40** · last october when they had the wildfires sunday night i went to bed but in the middle of the night i woke up because i couldn't breathe too well on monday morning i called in sick and the smoke was all around by thursday i'd called the doctor and i said i need different medicine i just i can't breathe here
+
+**11:02** · we had to increase her medications uh to help her get through that and and while she's improved she states that she you know has not recovered to the baseline um before that exposure i've had asthma all my life so i've learned how to cope with it but then when there's something environmental and you can't breathe it's scary
+
+**11:28** · i moved here to breathe and this has been my sanctuary and suddenly my sanctuary was gone after the terrible wildfires in santa rosa we really wanted to figure out be able to measure the air pollution from these kind of terrible disasters but there was no power out there because you know when there's a big wildfire going on in the city you don't you turn you turn the electric grid off so we had no way of
+
+### Developing rapid response
+
+**12:00** · running our sampling equipment out there to measure the air pollution and we weren't ready and we didn't want to have that happen again that we weren't ready we were uh thinking it would be really nice to get out there immediately and start sampling and get an idea of what these emissions look like chemically while the fire's going on so keith and i
+
+**12:21** · made a proposal to environmental health sciences center here at uc davis to develop a system the a portable battery-powered system so that the next time something like this happens we'll be ready to measure the air pollution from it
+
+**12:43** · so we have a red wire we have a black wire and the red wire is the hot positive current voltage if they were touching each other or metal and we hooked this up there'd be sparks we don't want we don't want sparks now there's the sparks flying create our own wildfire we'll create our own emergency we don't have to go anywhere right here we'd be ready no trailer needed we just
+
+**13:06** · so we're gonna get a trailer we're gonna put both these two things on the trailer and then take a truck and take it to wherever this air pollution situation is happening and then use them as power sources you know i started off in air pollution because i was living in los angeles and it was terrible there and it was something that i could feel could really help society nice okay so let's review the wiring to make sure we don't blow anything up then this guy goes to the red
+
+**13:36** · and everything should work sweet now we plug in via this extension cord our sampler flip the power and we are collecting air pollution
+
+**13:58** · so we can actually run this we tested it you can actually run this for 18 hours on just one car this is all very good and i can go check out see what kind of currents drawing zero is it really something's wrong power's not there current's not there but the voltage is there yep something is wrong
+
+**14:21** · and this is the fun stuff you actually get to come out and you do the real work and you do the hands-on you put it together you turn it on and it works that's gratifying that's works the second time not the first time after you make the mistake the first time it works on the second time that's amazing okay let's give it attempt number two inverter off car off sweet 600 700 watts all right
+
+**14:50** · [Music] when we got to the tubbs fire it was clear right away that this fire wasn't going to be contained quickly it was like a raging monster
+
+### Firefighter trauma and rescue
+
+**15:10** · we pulled into this neighborhood a lot of chaos there were cars fleeing i see this woman standing outside her car with her phone to her ear in a panic i tell her you know ma'am it's time to go you got to go and she says my mom and dad my mom and dad i said okay um you know what's the address she told me the address and i said i'll go up there and take a look and um i said but you you really gotta go
+
+**15:41** · [Music] we have fire on both sides of the road there's trees that are basically just torching off right next to us we're running over power poles trees that are down in the roadway we're pushing at all costs here to get to these two people that are unaccounted for i look off to the side and the heat's so intense that my mirror on the fire engine is starting to melt and i'm watching it
+
+**16:09** · start to warp and [Music] i had to call it that we couldn't get back there and that was really tough [Music]
+
+**16:29** · and as we come around the corner we see this man on the side of the road it's like armando where's your where's your wife and he just looked at me and he shook his head and this man has
+
+**16:46** · burned pretty well to the top of his head and his hands and um he's now my my main concern so when he gets into the engine um the two guys in the back seat start caring for him and he said i just lost my best friend we loved each other since we were kids
+
+**17:15** · and everything all the emotions throughout that whole night are starting to really compound on our crew and he is telling us how he held his wife until her last breath in a swimming pool because that's the place that he thought would be safe he said i have to live
+
+**17:42** · i remember when he said i have to live i thought i was thinking just yep you know you have to live your right but he had to live he had to live because he needed to see his daughter his granddaughter that's why he had to live
+
+### Mental health and recovery
+
+**18:27** · there is a culture that needs to change in the fire service i grew up in a culture that uh said suck it up son you'll be all right it's very important with what we're seeing and what we're dealing with to reach out and to um
+
+**18:50** · to say hey so it's okay it's okay to talk about it ptsd is one of the most common types of mental illness following disasters it's been estimated that among people who are direct victims of a disaster 30 to 40 percent of them will go on to experience ptsd about 10 to 20 percent of rescue workers and 5 to 10 percent of people among the general population
+
+**19:23** · to this day i keep going where there must have been something else i could have done all i could do was just sit there and watch it but all i could see was the house just going up and the winds just kept carrying it right on over
+
+**19:46** · and now when i hear a lot of howling winds i still i start having memories of the night the ptsd is it hits you or it hits me at just the oddest times when i had my collapse in i said january and february
+
+**20:17** · i couldn't complete a sentence i would start a sentence and i'd kind of wander off halfway through and forget what i was saying i couldn't concentrate i couldn't sleep and it was really really a mess and even with counseling and stuff it took a while before it got better
+
+**20:43** · some of the experiences that people are reporting to us still today are physical things like headaches stomach aches people aren't sleeping they're exhausted physically emotionally people are feeling sad anxious and there's growing anger as the process
+
+**21:02** · takes longer than expected more and more we're seeing people are feeling isolation and that's one that we really watch and really try to do a lot of outreach and help people connect because isolation can turn into depression and so a lot of the work that we're doing in this program is helping people connect to those that they really feel truly support them because connection is the most protective factor around uh traumatic outcomes one of the largest
+
+**21:26** · challenges for the survivors is feeling like the world moves on and gets back to normal when your whole life is in upheaval and it's going to be for such a long time and i go drive past the lot now where the house was now they've cleared everything away and you go and just look at it and you go everything's gone i mean it's and it's not coming back
+
+**21:58** · and even if we build something else it's not going to be the home that we had and our life is never going to be exactly the same as it was one of the most important determinants of mental health following disasters is what kind of response there is to the disaster so for example investing in shelter investing in food electricity helping a community
+
+**22:27** · stay together and work together those kinds of interventions will really be predictive of long-term mental health [Music] [Music]
+
+### Inequality in fire recovery
+
+**23:20** · a
+
+**23:48** · sacrificies [Music] in the 2017 fires the spanish-speaking population in sonoma county was disproportionately harmed
+
+**24:09** · by not only the fire but by the response to the fire we like to say the fire was an equal opportunity harm but the recuperation the recovery and the support was much worse for the spanish-speaking residents of this county before the fires there was a one percent vacancy rate we lost five percent of our housing stock in santa rosa so if you do the math it's really clear that renters are out
+
+**25:26** · foreign park my
+
+**26:09** · generational justice you know it's the same as like social justice environmental justice but you know we have responsibility to hand off but we inherited it at least as good as shape as we got it so yeah i look at our kids and i think about what they're going to be faced with and all of the uh the fallout that's going to come with climate change and rising sea and you know that's my motivation
+
+**26:41** · [Music] you

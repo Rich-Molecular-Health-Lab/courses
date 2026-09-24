@@ -12,8 +12,12 @@ categories:
 ![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2023
+
 **Series:** Short Wave
+
+<iframe src="https://www.npr.org/player/embed/1164829382/1200392913" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
 ::: {.callout-description collapse="true"}
 
@@ -25,3 +29,142 @@ Dotted across the Great Basin of the American West are salty, smelly lakes. The 
 
 :::
 
+## Transcript
+
+EMILY KWONG, BYLINE: You're listening to SHORT WAVE from NPR.
+
+AARON SCOTT, HOST:
+
+Hey, SHORT WAVErs. Time to slip on those rubber boots because we're off for a field trip with NPR correspondent Kirk Siegler. Hey, Kirk.
+
+KIRK SIEGLER, BYLINE: Hey, Aaron.
+
+SCOTT: So where are you taking us today?
+
+SIEGLER: Well, we're going to the Great Salt Lake in Utah. I trekked out there earlier this winter with Carly Biedul. She's a biologist with the Great Salt Lake Institute.
+
+CARLY BIEDUL: These might even be my footprints from last week.
+
+SIEGLER: Carly is bundled up in an orange, puffy jacket, gloves and hat. And most importantly, she's wearing thick, sturdy, rubber boots 'cause the mud with the frozen slick layer of ice on top is treacherous.
+
+BIEDUL: Probably not fully, fully fresh, but...
+
+SIEGLER: But the only thing we're not prepared for is the stench.
+
+This is pungent right here.
+
+BIEDUL: Yeah.
+
+SIEGLER: Smells like dead fish, almost.
+
+SCOTT: Oh, yes. I've been on similar salty lakes here in Oregon. Whew. That smell is intense and immense.
+
+SIEGLER: It is. And the stink is actually a good thing because it's a sign of a biologically healthy saline lake.
+
+BIEDUL: People have been saying that they miss the lake stink 'cause it just makes it feel like home, and it's just not here anymore. So you're lucky that it gets to smell so bad.
+
+SCOTT: Oh, so the smell is disappearing?
+
+SIEGLER: It is. Because, Aaron, the Great Salt Lake is drying and dying. Biedul hikes out here weekly. She's trying to collect samples of tiny brine fly larva, which are getting harder and harder to find.
+
+BIEDUL: I'm going to get my jar out.
+
+SIEGLER: So think of it, the brine flies she's looking for are at the bottom of the food chain. They're feed for the migrating birds and so on. And most of the water that's left out there is too salty now.
+
+BIEDUL: The threshold is - we're kind of at the threshold. So if things get any saltier, we're super, super worried.
+
+SIEGLER: And they may have good reason. A recent report says climate change, farming and population growth in Utah may dry up the lake in five years.
+
+SCOTT: So today on the show - the future of the Great Salt Lake and similar lakes across the West. Why are they drying up? And what'll we lose if they do? I'm Aaron Scott, and you're listening to SHORT WAVE, the daily science podcast from NPR.
+
+(SOUNDBITE OF MUSIC)
+
+SCOTT: OK, Kirk. So to begin, I'd love it if you would just paint us a picture of the Great Salt Lake, for those who've never had the pleasure of seeing it. What does it look like, and how did a big, salty lake end up so far from the ocean?
+
+SIEGLER: Well, it - I can't even overstate how large it is. It's huge. And especially in the winter, it's quite eerie. When we were out there, it was foggy and otherworldly and very, very shallow. In fact, we - you know, you heard there, trekking out in the mud where there should have been water because the lake is receding. So to answer your question, these saline lakes occur at the bottom of basins where there's no way for the water to flow out to the sea. So basically, in Utah, when all the snow off the Wasatch Mountains right by Salt Lake City melts, it pools into the rivers, into these lakes in the spring and then they evaporate over the summer, leaving all sorts of particles behind and minerals, including saline.
+
+SCOTT: And as you said, I mean, these saline lakes occur all across the Great Basin in the West. And they - they're actually essential ecosystems, right?
+
+SIEGLER: Exactly. They're very important for migrating birds at the top of the food chain. And so when Carly Biedul is out there looking for larva at the bottom of the food chain, that's an indicator of a potential ecological collapse. And I'm not being dramatic. These lakes occur in the Great Basin from Utah to Nevada, across to eastern California, even in parts of Oregon, as you say. There's this huge geological anomaly. And a lot of these lakes have dried up over time. Some naturally, but a lot due to water diversions. Utah's Wasatch Front, where the majority of the state's population lives along Salt Lake City, is one of the fastest-growing places in the country. So water is in high demand. But also, just like across the West, most of the water being diverted out of the rivers that would be going to the Great Salt Lake are being diverted for farming and, in particular in Northern Utah, alfalfa farming in the high desert.
+
+SCOTT: So water diversions is playing a huge role in why they're disappearing. I'm guessing climate change also plays a role?
+
+SIEGLER: Yes, because we're in the West and - I don't have to tell you - we're in the midst of a 23-year megadrought. So drought and climate change are a big factor.
+
+SCOTT: And so if these lakes are essential stopovers for birds as they migrate from Alaska and Canada down to South America, I mean, just millions of birds kind of stopping here, like this rest stop all-you-can-eat buffet, what's it going to mean for them if these lakes dry up?
+
+SIEGLER: Well, it's another species that we know will be in peril. This is an essential flyover spot for migratory birds, and the effects could be devastating.
+
+SCOTT: And it's not just the birds, of course. I mean, there's a lot of creatures around the lakes that depend on them, including us humans. What's it going to mean for us?
+
+SIEGLER: Well, one of the most immediate impacts may be pollution. This is a dried-up lake bed. And we've seen this in other parts of the West. Dust storms off of a dried-up lake bed that has toxins in it - naturally occurring toxins - blowing into a large population base will have untold impacts on health. And the Salt Lake City area, particularly in the winter, already has some of the dirtiest air in the nation as a result of natural inversions that occur in that basin, but also a lot of cars and a lot of other industries. So that's the most immediate impact. But then there are also trickle-down effects, as well. There's tourism. There's mining that depends on the lake, and Utah's famous ski resorts actually benefit from getting more snow from lake effect storms. So the impacts are countless, to be honest.
+
+SCOTT: I mean, given all of that, Kirk, I'm guessing there's probably a lot of outcry and activism and such going on by people living near the lake, right?
+
+SIEGLER: There is. This is a huge topic that's all over the news these days.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED NEWS ANCHOR #1: Utah still remains in a drought.
+
+UNIDENTIFIED NEWS ANCHOR #2: Now to what some tonight are calling a looming environmental nuclear bomb in Utah. The mighty Great Salt Lake is drying up and...
+
+UNIDENTIFIED NEWS ANCHOR #3: As the Great Salt Lake continues to shrink, a...
+
+SIEGLER: Some of the neighborhoods that are closest to the lake, it's a huge concern. I met Turner Bitton. He's a community activist and neighborhood council leader in Salt Lake City's West Valley.
+
+TURNER BITTON: If the lake bed dries up and we're having winds blowing dust storms into our neighborhood, the heavy metals are going to land right on top of this neighborhood.
+
+SCOTT: Nobody wants giant clouds of toxic dust blanketing their backyard.
+
+SIEGLER: They don't. And he's particularly concerned there because these neighborhoods in the West Valley - they're more working class. They're already hemmed in by two busy freeways. There's a planned freeway expansion. Salt Lake City International Airport is right there and Utah's largest oil refinery.
+
+BITTON: I mean, we're talking about something that could potentially make these neighborhoods - I don't want to say uninhabitable - but for those that are vulnerable, for those that have lung issues, uninhabitable.
+
+SCOTT: Is he being a little dramatic there, Kirk?
+
+SIEGLER: He really isn't. You know, researchers have found higher rates of asthma and cardiovascular disease in neighborhoods like these. And one University of Utah study even showed that students in schools around there scored lower on tests during bad air days. Dr. Brian Moench is president of Utah Physicians for a Healthy Environment. He says the state should have declared an emergency years ago.
+
+BRIAN MOENCH: A lot of people think that dust is pretty benign because it's, quote, \\"natural.\\" Well, that's not the case. And in the case of dust from the Great Salt Lake, it is particularly toxic because we know that it's laced with high concentrations of heavy metals.
+
+SIEGLER: And most of Utah's 3 million or so residents live just east of the lake along the Wasatch Mountains. Now, the lake is about 9 feet lower than normal right now, despite a good winter. And locals are already complaining of these dust storms.
+
+SCOTT: OK, Kirk, so a lot of people upset about this. What's being done about it? Is there any sort of movement in, like, the state legislature?
+
+SIEGLER: There is. And there are a lot of promises so far, but it's been remarkable in this, you know, politically divided time in a Republican-controlled state, how - in particular, how there's bipartisan agreement over trying to fix the lake. There was a lot of pressure on lawmakers to do that. Some ideas floated, I have to say, sounded a bit like sci-fi - cloud seeding, even a pipeline to pump Pacific Ocean water in. Not exactly the same thing...
+
+SCOTT: Wow.
+
+SIEGLER: ...But everything seems to be on the table. Lawmakers this past session debated setting a target elevation for the lake and also a half-billion-dollar package that would do things like pay farmers and cities to use less water. Here's Republican Governor Spencer Cox in his recent State of the State address.
+
+(SOUNDBITE OF SPEECH)
+
+SPENCER COX: Earlier this month, a report predicted that in just five short years, the Great Salt Lake will completely disappear. Let me be absolutely clear - we are not going to let that happen.
+
+SCOTT: Wow. Strong words. So did they pass any of those measures?
+
+SIEGLER: Sort of? You know, they didn't pass any big water use regulations or major targets for the lake. Now, they did include money in the budget for more water conservation, but they took out language from a bill that would have required the conserved water actually make it to the lake. The federal government, though, is also a player here, and they're clearly paying attention. In the final days of last year, you had President Biden signing a bipartisan bill called the Saline Lake Ecosystems in the Great Basin States Program Act. Yeah.
+
+SCOTT: That is a mouthful.
+
+SIEGLER: Right. Well, but what you need to know - it allocates $25 million for the U.S. Geological Survey to work with other agencies - local land managers, scientists and nonprofits - to study and monitor these saline lakes in the Great Basin and come up with a conservation plan. But, you know, there's a real sense of urgency here with the Great Salt Lake if, in fact, it could dry up in five years.
+
+SCOTT: So the idea is we need more information before we can come up with a plan.
+
+SIEGLER: Yeah. But, you know, in large part, I think it's going to come down to the states because they manage the water rights. Last year, the Utah legislature did approve some money to try to buy up water rights. But pointing to the Salt Lake Tribune, they've been reporting that no farmers have actually taken them up on it. And this is a thing across the West right now, although we did get news just this week that one powerful player in Utah who you might have heard of - The Church of Jesus Christ of Latter-day Saints - they're getting involved. They've announced that they will permanently donate 20,000 acre feet of their water rights to the lake. So it's something.
+
+SCOTT: I think I hear those little brine fly larvae rejoicing just a little bit.
+
+SIEGLER: You can. Wow. That's good. So we don't have to end on such a doom and gloom note. And I have to tell you, down at the lake, trekking out there with Carly Biedul, the biologist - she's privy to all these negative headlines, and she goes out there every week. But she is just trying to stay positive herself.
+
+BIEDUL: And that's kind of what we've been trying to do - is find these moments to see the beauty when it's so sad.
+
+SIEGLER: It is beautiful out there. But Biedul says it's sad because there's not much time left to save the Great Salt Lake.
+
+SCOTT: Thank you, as always, for bringing this to us, Kirk.
+
+SIEGLER: You're welcome.
+
+(SOUNDBITE OF MUSIC)
+
+SCOTT: This episode was produced by Margaret Cirino and Liz Metzger, edited by Gabriel Spitzer and fact-checked by Anil Oza. Our audio engineer was Jay Czys. Brendan Crump is our podcast coordinator. Beth Donovan is the senior director of programming. And Anya Grundmann is the senior vice president of programming. I'm Aaron Scott. Thanks for listening to SHORT WAVE from NPR.

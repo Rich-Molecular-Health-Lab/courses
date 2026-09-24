@@ -25,7 +25,8 @@
     - "2026-12-07T16:00:00"
     - "2026-12-09T16:00:00"
   exams: null
-  films: null
+  films:
+    []
   case_convos:
     - "Case Conversation 6 - Species-Level Approaches"
     - "Case Conversation 7 - Community & Ecosystem Approaches"
@@ -53,6 +54,14 @@
   slides:
     []
   course_name: "Conservation Biology"
+  videos:
+    []
+  class_start: "BIOL4120_W12D2"
+  date_start: "2026-11-11T16:00:00"
+  week_start: 12
+  class_end: "BIOL4120_W16D2"
+  date_end: "2026-12-09T16:00:00"
+  week_end: 16
   title: "Approaches to Conservation"
 - unit:
     - "Breaks BIOL4120"
@@ -75,7 +84,8 @@
     - "2026-10-19T16:00:00"
     - "2026-11-25T16:00:00"
   exams: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -97,6 +107,14 @@
   slides:
     []
   course_name: "Conservation Biology"
+  videos:
+    []
+  class_start: "BIOL4120_W1D1"
+  date_start: "2026-08-24T16:00:00"
+  week_start: 1
+  class_end: "BIOL4120_W14D2"
+  date_end: "2026-11-25T16:00:00"
+  week_end: 14
   title: "Breaks BIOL4120"
 - unit:
     - "Exams BIOL4120"
@@ -111,7 +129,8 @@
     - "2026-10-14T16:00:00"
     - "2026-12-14T17:00:00"
   exams: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -133,23 +152,35 @@
   slides:
     []
   course_name: "Conservation Biology"
+  videos:
+    []
+  class_start: "BIOL4120_W8D2"
+  date_start: "2026-10-14T16:00:00"
+  week_start: 8
+  class_end: "BIOL4120_W17D1"
+  date_end: "2026-12-14T17:00:00"
+  week_end: 17
   title: "Exams BIOL4120"
 - unit:
     - "Foundations of Conservation Biology"
   chapter: 1
   topics:
     - "Biodiversity Concepts & Measurement"
+    - "Quantifying Biodiversity"
     - "The Rise of Conservation Biology"
   class_days:
     - "BIOL4120_W2D1"
     - "BIOL4120_W3D2"
     - "BIOL4120_W4D1"
+    - "BIOL4120_W5D1"
   dates:
     - "2026-08-31T16:00:00"
     - "2026-09-09T16:00:00"
     - "2026-09-14T16:00:00"
+    - "2026-09-21T16:00:00"
   exams: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -166,15 +197,28 @@
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
     - "Contemporary_Conservation_Biology"
+    - "Quantifying Biodiversity Slides"
+    - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
+    - "Camera Trapping at American Prairie Reserve"
     - "Biodiversity_Concepts_&_Measurement"
   background:
-    - "Conservation biology - past and present 1"
-    - "Biodiversity"
+    - "Conservation biology - past and present"
     - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
+    - "Biodiversity"
   slides:
     - "Contemporary_Conservation_Biology"
+    - "Quantifying Biodiversity Slides"
     - "Biodiversity_Concepts_&_Measurement"
   course_name: "Conservation Biology"
+  videos:
+    - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
+    - "Camera Trapping at American Prairie Reserve"
+  class_start: "BIOL4120_W2D1"
+  date_start: "2026-08-31T16:00:00"
+  week_start: 2
+  class_end: "BIOL4120_W5D1"
+  date_end: "2026-09-21T16:00:00"
+  week_end: 5
   title: "Foundations of Conservation Biology"
 - unit:
     - "Overview BIOL4120"
@@ -186,7 +230,8 @@
   dates:
     - "2026-08-26T16:00:00"
   exams: null
-  films: null
+  films:
+    []
   case_convos:
     []
   projects:
@@ -208,12 +253,20 @@
   slides:
     []
   course_name: "Conservation Biology"
+  videos:
+    []
+  class_start: "BIOL4120_W1D2"
+  date_start: "2026-08-26T16:00:00"
+  week_start: 1
+  class_end: "BIOL4120_W1D2"
+  date_end: "2026-08-26T16:00:00"
+  week_end: 1
   title: "Overview BIOL4120"
 - unit:
     - "Threats to Biodiversity"
   chapter: 3
   topics:
-    - "Climate Change"
+    - "Climate Change & Biodiversity"
     - "Extinction"
     - "Habitat Loss, Fragmentation, and Degradation"
     - "Invasive Alien Species"
@@ -225,7 +278,6 @@
     - "BIOL4120_W11D2"
     - "BIOL4120_W12D1"
     - "BIOL4120_W4D2"
-    - "BIOL4120_W5D1"
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
     - "BIOL4120_W6D2"
@@ -235,7 +287,6 @@
     - "BIOL4120_W9D2"
   dates:
     - "2026-09-16T16:00:00"
-    - "2026-09-21T16:00:00"
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-09-30T16:00:00"
@@ -249,7 +300,8 @@
     - "2026-11-04T16:00:00"
     - "2026-11-09T16:00:00"
   exams: null
-  films: null
+  films:
+    - "Vanishing Act"
   case_convos:
     - "Case Conversation 1 - Extinction"
     - "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
@@ -269,9 +321,11 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
-    - "https://canva.link/9u0qo7yq40d34nu"
-    - "https://canva.link/p3f89pahovuj46e"
-    - "Extinction Threats"
+    - "Patterns & Risk of Extinction"
+    - "How poaching is changing the face of African elephants"
+    - "This Is Martha, the World's Last-Known Passenger Pigeon"
+    - "Are We Living In the Sixth Extinction"
+    - "Vanishing Act"
   background:
     - "Overharvesting"
     - "Invasive Species"
@@ -280,8 +334,16 @@
     - "Extinctions and the practice of preventing them"
     - "Climate Change"
   slides:
-    - "https://canva.link/9u0qo7yq40d34nu"
-    - "https://canva.link/p3f89pahovuj46e"
-    - "Extinction Threats"
+    - "Patterns & Risk of Extinction"
   course_name: "Conservation Biology"
+  videos:
+    - "How poaching is changing the face of African elephants"
+    - "This Is Martha, the World's Last-Known Passenger Pigeon"
+    - "Are We Living In the Sixth Extinction"
+  class_start: "BIOL4120_W4D2"
+  date_start: "2026-09-16T16:00:00"
+  week_start: 4
+  class_end: "BIOL4120_W12D1"
+  date_end: "2026-11-09T16:00:00"
+  week_end: 12
   title: "Threats to Biodiversity"

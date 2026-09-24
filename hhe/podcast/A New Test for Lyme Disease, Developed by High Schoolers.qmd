@@ -12,7 +12,9 @@ categories:
 ![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** Public Health On Call
 
 ::: {.callout-description collapse="true"}
@@ -25,3 +27,4 @@ About this episode:   A group of students from suburban Atlanta has developed 
 
 :::
 
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/41665130/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/fb5600/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

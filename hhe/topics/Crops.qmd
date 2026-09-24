@@ -1,6 +1,5 @@
 ---
 title: "Crops"
-date: "2026-08-29"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +12,312 @@ listing:
   contents: "Crops_resources.yaml"
 ---
 
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### An Expert Vegetable Breeder On Innovating Crops For The Future
+
+![An Expert Vegetable Breeder On Innovating Crops For The Future](https://i.scdn.co/image/ab67656300005f1f85344bc437feeb218f3b7551)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/396ZL4TkV6YWWwFcpc0X8r)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+It’s become clear to farmers and home gardeners alike that climate change is affecting the gardening landscape, literally. The climate is warming, pests are moving into different regions, and there’s a growing need for vegetable varieties that are resilient to the stresses of this new age.In the world of organic farming, the job of creating those new varieties falls to a plant breeder: someone who, often painstakingly, crosses plants until they create a new variety. Dr. Jim Myers, one of the most accomplished plant breeders in the country, has lots of experience with this.Myers created the Indigo Rose tomato, a strikingly purple variety with the same antioxidants as blueberries. He also created the green bean cultivar predominantly used by Oregon producers, and is debuting two new varieties of low-heat habanero peppers next month, dubbed “Mild Thing” and “Notta Hotta.”Myers joins Ira Flatow from Corvallis, Oregon, where he’s a professor of agricultural science at Oregon State University. They discuss his decades-long career in plant breeding and what he sees as the biggest challenges for the plant breeders of the future. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Are Plant- and Fungus-Based Meats Really Better than the Real Thing?
+
+![Are Plant- and Fungus-Based Meats Really Better than the Real Thing?](https://i.scdn.co/image/ab67656300005f1f64ed6ec2f04894f027196454)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2021
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2BcL2DPcmYXF885UA95eC2)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Move over, beef: there’s a new burger in town. Plant-based meats are sizzling hot right now; in 2020 alone, the alternative meat industry saw a record $3.1 billion in investment, with 112 new plant-based brands launching in supermarkets. These juicy, savory, chewy fake burgers are a far cry from the dry, weird-tasting veggie patties of the past. This episode, we visit the Impossible Foods labs to swig some of the animal-free molecule that makes their meatless meat bleed, try fungal food start-up Meati's prototype "chicken" cutlet, and speak to the scientists and historians who can help us compare these new fake meats to their predecessors—and to real meat! Can a plant-based sausage roll be considered kosher or halal? Are plant-based meats actually better for you and for the environment? And how might a mysterious protein-powerhouse fungus named Rosita help feed the world? Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Black Gold - The Future of Food We Throw Away
+
+# Black Gold: The Future of Food...We Throw Away
+
+![Black Gold: The Future of Food...We Throw Away](https://i.scdn.co/image/ab67656300005f1f7e49a04c77574123e5e6fbf5)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2022
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3F0eADjetCdFyx0j87toeU)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+For a few weeks in 1987, trash was temporarily headline news: a barge filled with waste that would no longer fit in New York City's overflowing landfills spent months wandering up and down the East Coast with nowhere to dump its smelly, rotting cargo. The trash barge's travels triggered a long overdue public rethink of the wisdom of sending all of our waste to landfills—including food. But fast forward more than thirty years, and food still takes up more space in American landfills than anything else. About 30 to 40 percent of food produced in the US gets thrown away, rather than eaten. What's more, putting all that rotting food inside landfills produces a lot of methane, a powerful greenhouse gas. Our ancestors knew exactly what to do with food waste; the earliest descriptions of composting were written on clay tablets more than 4,000 years ago. So why didn't the GarBarge kick off a composting craze? And why is it so hard for us to keep food waste out of landfills? This episode, Gastropod visits the future of food waste: the high-tech facilities as well as the innovative policies that promise to keep our discarded food out of landfills, keep methane from escaping into the atmosphere, *and* turn those food scraps into something useful. Can a state the size of California really keep 75 percent of its food waste out of landfills, as it has pledged to do by 2025—and what will happen if it does? Listen in for compost blow-dryers, fruit-sticker bingo, and a lot of microbes! Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Cyclospora - Explosive Diarrhea Everywhere
+
+# Ep 216 Cyclospora: Explosive Diarrhea Everywhere
+
+![Ep 216 Cyclospora: Explosive Diarrhea Everywhere](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0dJph65xpSIikwCluEaM8p)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+You’ve seen the headlines: a food-borne parasite is infecting people across the US, leaving them chained to the toilet sometimes for weeks on end, as they are ravaged by wave after wave of gastrointestinal upset. What the heck is cyclosporiasis and where did it come from? How scared should we be of our raspberries or lettuce or cilantro? To dish out the answers as fast we could, we put together this fact-filled episode about the biology of Cyclospora cayetanensis, how this parasite makes you sick, when we first learned about it (more recently than you might think), and what we know about this current outbreak (or outbreaks). We also probe how recent changes to foodborne pathogen surveillance on a national scale are contributing to the challenges in understanding the scope and origin of outbreaks such as this. You don’t want to miss this one! Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAuSee omnystudio.com/listener for privacy information.
+
+:::
+
+#### Exposing the Monsanto Conspiracy
+
+![Exposing the Monsanto Conspiracy](https://i.scdn.co/image/ab67656300005f1f67044e15bde04720ff3f8bdd)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Veritasium
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1x1BbOUAJGK7QxxltLyw6X)
+
+[Open Series in Spotify](https://open.spotify.com/show/6EpB14Zj369GeJUKYXZ9e7)
+
+This is the history of Monsanto’s herbicides…▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon.⁠▀▀▀0:00 An Unusual Enemy5:18 Monsanto’s Secret Poison Problem11:17 Vietnam and Agent Orange14:08 Roundup19:31 How Monsanto controls seeds26:06 The Crop Mafia31:10 The Monsanto Papers41:18 How dangerous is Roundup really?
+
+:::
+
+#### Good Shit - How Humanure Could Save Agriculture—and the Planet
+
+# Good Shit: How Humanure Could Save Agriculture—and the Planet
+
+![Good Shit: How Humanure Could Save Agriculture—and the Planet](https://i.scdn.co/image/ab67656300005f1ff45e75d8ccf0c5243333cd98)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/52TfOnwPmdlGv1aocs0zsV)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+For most of us, when we sit on the porcelain throne to drop the deuce, priority number one is flushing and never having to think about it again. But it might be time to rethink our stink: all around the world, people are talking about using human waste for good, applying it as fertilizer to grow our food instead of just washing it down the miles of pipes that undergird urban sewage systems. "Ew" is a common response, along with "yuck!" Is using poop to grow food a good idea—or even safe? We’re getting our shit together to find out! On this episode of Gastropod, how human waste went from being so valuable you could go to jail for stealing it, to causing such a stench it shut down Parliament in Victorian London and led to the invention of the modern sewage system—and why figuring out how to start saving our poop (and pee!) once again could give us cleaner energy, healthier waterways, and lots of delicious food. Listen in now: if you like to eat, it's time to start giving a crap about your crap. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Growing a Healthier Climate
+
+![Growing a Healthier Climate](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Humans in Public Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3tyf25x764LPstSdko1fSb)
+
+[Open Series in Spotify](https://open.spotify.com/show/4nQ5bwglf9vygvW1nHf5GC)
+
+In this episode, we sit down with Professor Meredith Niles to explore how climate-friendly agriculture—from methane-reducing rice irrigation to no-till farming—is actually a quiet powerhouse for public health. While traditional environmental messaging has hit a wall, shifting the narrative to human health benefits (like keeping heavy metals out of baby food and clearing our air) might be the key to finally getting farmers, consumers and policymakers on board. It’s time to take off the carbon goggles and look at the health potential of sustainable farming.
+
+:::
+
+#### How Can Iowa’s Agriculture Adapt To Climate Threats?
+
+![How Can Iowa’s Agriculture Adapt To Climate Threats?](https://i.scdn.co/image/ab67656300005f1f6eaf64c497d1a878ad096461)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0OVGW9cAhw6Ucw9qdoOqLN)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Climate change is having a profound effect on agriculture. Farmers over the past decade have faced intensifying drought and heat stress on crops, leading many to wonder, what will agriculture look like 50 years from now?In May, at SciFri Live at Iowa State University in Ames, Iowa, Ira Flatow discussed the future of agriculture, and potential solutions to these problems, from innovative farming techniques, to ensuring that Iowa’s farmers of color have the resources they need to succeed. He was joined by Todd Western III, a sixth-generation Iowan farmer with Western Family Farms and senior donor advisor at Greater Twin Cities United Way, and Dr. Patrick Schnable, a distinguished professor at Iowa State University and co-founder of Dryland Genetics.Transcripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Inside The Race To Save Honeybees From Parasitic Mites
+
+![Inside The Race To Save Honeybees From Parasitic Mites](https://i.scdn.co/image/ab67656300005f1f18e48f25526772ae356d2c5e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/57pJiLQmXOQB3ZBqG99GDi)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Last year, almost half of the honeybee colonies in the U.S. died, making it the second deadliest year for honeybees on record. The main culprit wasn’t climate change, starvation, or even pesticides, but a parasite: Varroa destructor.“The name for this parasite is a very Transformer-y sounding name, but … these Varroa destructor mites have earned this name. It’s not melodramatic by any means. [They are] incredibly destructive organisms,” says Dr. Sammy Ramsey, entomologist at the University of Colorado Boulder.These tiny mites feed on the bees and make them susceptible to other threats like diseases and pesticides. They’re also highly contagious: They arrived in the US in 1987, and now they live in almost every honeybee colony in the country. Honeybees pollinate many important crops, like apples, peaches, and berries, and their pollinator services add up to billions of dollars.Ramsey and his lab are trying to put an end to the varroa mites’ spree. Part of their research includes spying on baby bees and their accompanying mites to learn how the parasites feed on the bees and whether there’s a way to disrupt that process.In Boulder, Colorado, SciFri producer Rasha Aridi speaks with Dr. Ramsey and fellow entomologist Dr. Madison Sankovitz about how the varroa mites terrorize bees so effectively, and what it would take to get ahead of them.Transcripts for each segment will be available the week after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Monsanto or MonSatan? How—and Why—a St. Louis Startup Became a Hated Herbicide Giant
+
+![Monsanto or MonSatan? How—and Why—a St. Louis Startup Became a Hated Herbicide Giant](https://i.scdn.co/image/ab67656300005f1f7f0d0f3db021efc7ff82bd3c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2022
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/60Ee7eB8owB4xjaWC7pMvf)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+A chemical that kills the plants you don’t want—weeds—and keeps the plants you do—food!—seems kind of like magic. After all, weeds are the bane of farmers' lives, causing tens of billions of dollars in lost yield every year. So why is the world's largest herbicide company, Monsanto, so unpopular that it's been referred to as MonSatan? How harmful are today's herbicides for us humans, and for the environments they're seeping into? And do we need weedkillers to feed the world? In part two of our three-part series on weeds, we take on the big questions around this “bad seed” of the farming world—and the fascinating story behind the scrappy St. Louis startup that hooked the world on herbicides. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### More food and money, less disease: Senegal's surprising eco-experiment
+
+![More food and money, less disease: Senegal's surprising eco-experiment](https://i.scdn.co/image/ab67656300005f1fa1b25b2b69cf0cb28aa62e2c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3WPVimeIQd7Oh8CWqoqYj5)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+In Senegal, rice farmers are trying to kill three birds with one stone – er, fish. Rice and fish are already a natural combination; they’re even the main ingredients of thieboudienne, the delicious national dish. But could that combination also reduce a debilitating disease, boost food security AND help farmers make more money? A team of researchers are conducting an ambitious experiment to see whether growing rice and fish together can be a win-win-win for Senegal, and NPR’s Jonathan Lambert came along for the ride.Interested in more science-based biological solutions? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Sugar's Dark Shadow
+
+![Sugar's Dark Shadow](https://i.scdn.co/image/ab67656300005f1fa8d3afaebfbac6f1404ebcb8)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7DzONV2oDbp9S4NbzjAAsp)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Your pantry's sweetest ingredient has an extremely bitter history. The sap-producing grass known as sugarcane has been grown and enjoyed by humans for at least 10,000 years, but it was only relatively recently that it went from a luxury to an everyday ingredient—a change that also triggered genocide, slavery, and the invention of modern racism. In this episode, how the Crusades got Europeans addicted to the sweet stuff, and how that appetite deforested southern Europe and kicked off the trade in enslaved Africans, before decimating indigenous populations in the New World and codifying racism into law. It's a dark story that involves Christopher Columbus' mistress, the early human rights advocate whose campaign to save indigenous people encouraged the horrors of the transatlantic slave trade, and a trip to southern Louisiana, where we met Black sugarcane farmers to explore sugar's troubling legacy there. No sugar coating here: join us for the fascinating and horrifying history of this household staple. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### The Most Interesting Oil in the World
+
+![The Most Interesting Oil in the World](https://i.scdn.co/image/ab67656300005f1f6c0223d97b40be7ba83602c1)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2021
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0m9sv5UynG1iQcvNXR3Ut7)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Here’s a little riddle for you: What’s all around you, but can’t be seen, smelled, or tasted? Hint: It’s in your Oreos, Nutella, instant noodles, dish soap, shampoo, lipstick, potato chips, pizza dough, packaged bread, chocolate bars, ice-cream, and biodiesel. The answer is ... palm oil, the hidden ingredient on just about every aisle of the grocery store. It's the most ubiquitous, most important, most interesting oil that most of us don't really know. But palm oil wasn’t always so big, or so anonymous—in its West African homeland, it’s a fragrant red oil traditionally used in cooking and ceremonies. So how did palm oil go global? What does it have to do with the European colonization of Africa, soap for grimy factory workers, Girl Scout cookies, and Alfred Nobel of Nobel Prize-fame? How has growing demand for all things palm oil driven deforestation and peat fires in Southeast Asia—and what can we do if we want to rethink our destructive palm oil addiction? Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### What we'll eat on a warmer planet
+
+![What we'll eat on a warmer planet](https://i.scdn.co/image/ab67656300005f1fcb3849cd42dc219b2fef1e3e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** TED Radio Hour
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/60Q77NnwBNNLC3F6r9bCCM)
+
+[Open Series in Spotify](https://open.spotify.com/show/1vfOw64nKjQ8LzZDPCfRaO)
+
+From the farm, to the lab, to our tables, what we eat and how it's grown is changing. Agriculture contributes to global warming—and is being transformed by it. Today, a bite into the future of food. Guests include chef and policy advisor Sam Kass, farmers Jim Whitaker and Jessica Whitaker Allen, biotechnologist Isha Datar and artist Sam Van Aken. TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Why Does Everyone Have Food Allergies These Days?
+
+![Why Does Everyone Have Food Allergies These Days?](https://i.scdn.co/image/ab67656300005f1f42ebd2bae4f5c04510b849bb)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0N5e0iYYjljEDWnT4CLY0r)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+It's not your imagination, food allergies are really on the rise. One recent study found that severe allergic reactions to food have increased by more than 300 percent over the past decade. And they don't just affect Americans or kids—they're on the rise in adults around the world. Even pets are getting food allergies. So what's going on? Why would your body decide that food—something that's actually essential to keeping you alive—needs to be attacked like a dangerous invader? And why would we evolve a defense mechanism that can end up killing us? This episode, we've got the history and the latest scientist on food allergies: what they are, what causes them, how they're different from food intolerance and sensitivity, and what we can do about them. Join us on a wild journey from ancient Pharoahs to the future of medicine, via jellyfish, Calvin Coolidge, and "rose fever," as we figure this all out. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::

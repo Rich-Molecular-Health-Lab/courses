@@ -14,7 +14,9 @@ categories:
 ![Climate: Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** 1A
 
 ::: {.callout-description collapse="true"}

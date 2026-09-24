@@ -1,0 +1,522 @@
+---
+title: "Climate Change & Biodiversity"
+date: "2026-11-02T16:00:00"
+date-modified: "2026-08-29T11:15:01"
+profile:
+  - "topic"
+  - "conbio"
+categories:
+  - "topic"
+  - "BIOL4120"
+listing:
+  template: "resources.ejs.md"
+  contents: "Climate Change & Biodiversity_resources.yaml"
+---
+
+## Class Meetings
+
+**Dates:** 2026-11-02T16:00:00, 2026-11-04T16:00:00
+
+## Assigned Background
+
+### Climate Change
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Climate Change
+
+**Ch No.:** 8 (Threats to Biodiversity)
+
+**Pages:** 153-162 (Climate Change & Biodiversity)
+
+**PDF:** [lovejoy_2010.pdf](../attachments/lovejoy_2010.pdf)
+
+**Textbook:** Conservation biology for all *(see details below)*
+
+**Days Covered:** BIOL4120_W11D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Thomas E. Lovejoy
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![lovejoy_2010.pdf](../attachments/lovejoy_2010.pdf)
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Readings
+
+#### Ch 12 Climate Change
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Textbook:** Conservation Biology *(see details below)*
+
+**Chapter:** 12 (Threats to Biodiversity)
+
+**Sections Assigned:** 12.1, 12.2, 12.3, 12.4 (Climate Change & Biodiversity)
+
+**Days Covered:** BIOL4120_W11D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology by 
+
+**Edition:** 2nd (2025-01-17)
+
+**ISBN:** 9780197667033 (textbook)
+
+[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+
+:::
+
+#### Climate Change
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Climate Change
+
+**Ch No.:** 8 (Threats to Biodiversity)
+
+**Pages:** 153-162 (Climate Change & Biodiversity)
+
+**PDF:** [lovejoy_2010.pdf](../attachments/lovejoy_2010.pdf)
+
+**Textbook:** Conservation biology for all *(see details below)*
+
+**Days Covered:** BIOL4120_W11D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Thomas E. Lovejoy
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![lovejoy_2010.pdf](../attachments/lovejoy_2010.pdf)
+
+:::
+
+### Video Clips
+
+#### Are We Living In the Sixth Extinction
+
+**Be Smart**, *11 17, 2014*
+
+## Video (9:11)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/z9gHuAwxwAs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+This time, we're the asteroid.
+
+Viewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/PBSDSDonate
+
+Subscribe to It's Okay To Be Smart: http://bit.ly/iotbs_sub 
+
+Read "The Sixth Extinction by Elizabeth Kolbert: http://amzn.to/1xGKn0K 
+
+Rodolfo Dirzo et al. "Defaunation in the Anthropocene" http://bit.ly/1H7JQdw 
+
+Stuart Pimm et al. "Biodiversity of Species and Their Rates of Extinction" http://bit.ly/1A5UZJM 
+
+Get to know an endangered species: http://discover.iucnredlist.org/ 
+
+Half of world's wildlife has died off in past 40 years: http://bit.ly/1BHl8jR 
+
+Have an idea for an episode or an amazing science question you want answered? Leave a comment below!
+
+Produced for PBS Digital Studios 
+
+Joe Hanson - Host/Writer
+
+Joe Nicolosi - Director
+
+Amanda Fox - Producer, Spotzen Inc
+
+Kate Eads - Associate Producer
+
+Katie Graham - Director of Photography
+
+Andrew Matthews - Editing/Motion Graphics
+
+Dalton Allen - Post-production intern
+
+John Knudsen - Gaffer 
+
+Theme music:
+
+"Ouroboros" by Kevin MacLeod
+
+Stock images by Shutterstock
+
+-----------
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+## Transcript
+
+### The history of extinction
+
+**0:02** · [MUSIC] The California Golden Bear The Great Auk The Passenger pigeon The Tasmanian tiger The Pinta Island tortoise The Golden toad All dead. And the killer is right there in the room with you.
+
+**0:22** · [MUSIC] The walls of France’s Lascaux cave hold some of humankind’s earliest art, almost mythical species: a wooly rhinoceros, enormous-antlered Megaloceros elk and massive aurochs. The artists lived on, became us, but those cave walls are the last place that those animals still run. They’re gone. Extinct.
+
+**0:51** · We all pretty much understand extinction, it’s when a species kicks the proverbial bucket, it rides off into the great biological sunset, bites the dust from whence it came and shall return, which is all just a pretty way of saying that every last one of them dies.
+
+**1:05** · Even kids are used to the idea that sometimes groups of living things just… don’t exist anymore. Okay, mostly don’t exist.
+
+### Discovering mass events
+
+**1:13** · But extinction, as a thing, is a surprisingly new concept. In the 1790’s, by studying various fossils, naturalist Georges Cuvier was the first to show that they were not from living, yet undiscovered creatures, as many thought, but from what he called “lost species”.
+
+**1:29** · In the decades to come, scientists like Charles Lyell and ol' Chuck Darwin began to popularize the idea that Earth’s processes, like geology, evolution, and even extinction, did occur, just very, very, verrrry slowly. So slowly that we’d surely never actually see something go extinct. The idea of so-called catastrophic change was just impossible… It wasn’t until the 1980’s that scientists were able to shake that idea. Geologist Walter Alvarez was puzzled by the sudden disappearance of tiny aquatic fossils between two rock layers that dated from about 66 million years ago, the same age as the last dinosaurs.
+
+**2:01** · With the help of his Nobel Prize winning father, he analyzed the chemistry of that boundary and found iridium levels that were off the charts. Now, there’s usually not much iridium in Earth’s crust, but it’s very common in asteroids. So Alvarez’s theory? A 10-km wide rock collided with Earth, wiping out 75% of Earth’s plants and animals. To be honest scientists kinda laughed at it… until the 1991 discovery of the Chicxulub crater near the Yucatan peninsula finally settled it.
+
+**2:36** · Everything alive today is a descendent of a survivor of that terrible, horrible, no good, very bad day, the so-called Cretaceous-Paleogene mass extinction event, the most recent of the Big 5.
+
+### The big five extinctions
+
+**2:50** · You should feel pretty lucky. When we look at all of Earth’s fossil record together, 98% of the species that have ever lived are extinct,. Only they haven’t always disappeared at a constant rate.
+
+**3:02** · In the history of life on Earth, we know of 5 different mass extinctions, when a majority of life on Earth at the time disappeared in the blink of a geologic eye.
+
+**3:13** · Besides the most recent dino-killer, there’s the Triassic-Jurassic, Late Devonian, Ordivician-Silurian, and the worst of all, the End Permian. This was the mother of mass extinctions, it wiped out as many as 96% of Earth’s species, so it got the best nickname: The Great Dying.
+
+**3:34** · We’ve learned about all these just in time to get some bad news: We are in the 6th mass extinction, and this time, we are the asteroid.
+
+### The sixth mass extinction
+
+**3:46** · The hard facts of life mean that even when things are going pretty well on Earth, there’s a background rate of extinction. Among mammals, for instance, we’d expect to see one species go extinct every 700 years, or maybe one amphibian every thousand years.
+
+**4:00** · Studies of current extinction rates say we’re roughly one thousand times past that, and in some groups, like amphibians, are disappearing forty-five thousand times faster than normal.
+
+**4:13** · And since there are so many species still unknown or uncharacterized, all of those numbers are probably underestimates.
+
+**4:19** · Goodbye, gastric brooding frog, Pyrenean ibex, the Fomosan clouded leopard. We could have been friends.
+
+**4:29** · So how do we know we’re to blame?
+
+**4:32** · Around 13,000 years ago, as Earth thawed from its most recent big freeze, all of our favorite weird megafauna like the wooly mammoth, Smilodon, and our old friend Megatherium disappeared from the Earth, thanks to a changing climate and the invention of sharp stabby hunting tools. I really wish we had saved the 8-foot long beaver though. That would be awesome.
+
+**4:53** · Along the way, through hunting and farming, humans have been altering ecosystems in small but significant ways, but since the Industrial Revolution, man we have really kicked it into overdrive.
+
+**5:05** · With the exception of maybe the first bacteria to breathe oxygen into the air, no living thing has ever altered life on Earth to the degree that we have, which is why scientists now refer to current epoch as the Anthropocene.
+
+### Drivers of species loss
+
+**5:18** · "We are the ultimate problem. There are 7 billion people on the planet, we tend to destroy critical habitats where species live, we tend to be warming the planet, we tend to be very careless about moving species around the planet."
+
+**5:32** · According to a 2014 paper by Stuart Pimm in Science (link in the doobly do), the main cause of the current extinction is human population growth and increased consumption. But those two things lead to a whole mess of threats: The most obvious are climate change and habitat destruction. Scientists found that most land species have very small ranges, so they can’t just pack up and move when we cut down their forest or turn it into a desert.
+
+**5:55** · Ocean species have more freedom to move to better waters, unless they’re coral reefs, but thanks to the highest atmospheric CO2 concentrations in 800,000+ years turning the oceans more acidic, anything with a calcium based shell has nowhere to run… or swim. If current trends hold up and the ocean hits pH 7.8 by end of century, it could wipe out ⅓ of the species in the ocean.
+
+**6:23** · Then there’s the invaders! Thanks to a species of snake hitching a ride on military cargo in the 1940s, Guam has lost all of its native birds. "I have had it with these (invasive) snakes on this (Guam-bound cargo) plane" In Africa’s Lake Victoria, 100s of species of cichlid fish species vanished after fishermen introduced the Nile Perch. Go us! We’re erasing species faster than we can even name them.
+
+**6:50** · Stanford’s Rodolfo Dirzo says that in the past 40 years, invertebrate populations, which might make up 97% of species on Earth, have declined 45% worldwide, and that’s just the ones we know about. (Link in the doobly do to that one too) You have to feel worst for the amphibians. Over the past 350 million years, they’ve survived multiple mass extinctions, but this time we’re giving them all we’ve got.
+
+**7:17** · Dirzo gives this loss of animal life a rather harmless sounding name: Defaunation. But there is nothing cute about it. There is not a group of living things on Earth today that is not threatened by the current and coming extinction. That includes us.
+
+### Why saving species matters
+
+**7:34** · Extinction is about more than gorillas, tigers, polar bears, and rhinos, and the dozens of other “famous” or “charismatic” species out there. Those are all important and worth saving, but we need to care just as much about the humble beetles, the ugly little worms, and the slimy frogs.
+
+**7:52** · Every species, big or small, panda or protozoa, is important and worth saving, whether or not we understand exactly why it’s worth saving.
+
+**8:02** · John Muir once said, “When we try to pick out anything by itself we find that it is bound fast by a thousand invisible cords that cannot be broken, to everything in the universe.”
+
+**8:15** · I’ve put some links down in the description where you can get to know some of Earth’s less-loved endangered species. Go make friends with one.
+
+**8:23** · Our knowledge and understanding of the planet’s ecosystems may be incomplete, but our effect on them knows no bounds. I hope the same tools and technology that we’ve used to push life on Earth to the edge might also give us power to bring ‘em back.
+
+**8:39** · So what are we gonna do? Let’s talk about it down there.
+
+**8:43** · Stay curious.
+
+**8:44** · If you want to read more about the brilliant and tragic stories of extinction in this age of humans, check out "The Sixth Extinction" by Elizabeth Kolbert, link in the description.
+
+#### The salmon dilemma
+
+**Vox**, *11 13, 2025*
+
+## Video (7:55)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/14pAZJMgnZw?start=228 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Earth’s population is growing. We’re expected to have 2 billion more mouths to feed by 2050. But how can we feed all those people in a way that is still sustainable and ethical? Many have argued that aquaculture (or fish farming) is one of the most sustainable ways we can consume animal protein, since it requires less land use. It’s currently the quickest-growing form of food production in the world. But how exactly does it work? And is it really the best path forward? 
+
+To find out more, Vox video producer Nate Krieger went down the rabbit hole on salmon aquaculture. Salmon is currently the most popular fish in the US: The average American consumes 3.2 pounds of salmon annually. And over 70% of that salmon comes from farms, totalling 3 million tons of salmon a year. 
+
+To understand the impact that the salmon industry is having on our planet and our future, and on the salmon themselves, we spoke to industry insiders, marine biologists, and fish welfare experts. 
+
+This is a complicated issue, full of lots of caveats and trade-offs. But the more we know about the food we eat and where it comes from, the more responsible we can be. 
+
+Sources and further reading: 
+
+Read more of Vox's reporting on salmon farming: https://www.vox.com/future-perfect/468348/atlantic-salmon-farm-cruelty-pollution
+
+Vox's Future Perfect team reports on what it takes to feed the fish involved in aquaculture, which turns out to be one of the most important impacts to consider:
+
+https://www.vox.com/future-perfect/464898/trump-tariffs-china-trade-war-soybeans-exports
+
+https://www.vox.com/future-perfect/379564/fish-farming-sustainable-wild-caught
+
+The website for the Global Salmon Initiative, a collaboration between some of the world’s biggest salmon farming companies, whose CEO we spoke with for this piece. Its handbook is a great resource for information on salmon aquaculture:
+
+https://globalsalmoninitiative.org/en/about-salmon-farming/gsi-handbook/
+
+The World Wildlife Fund’s page on the tradeoffs involved in salmon farming: https://www.worldwildlife.org/our-work/oceans/sustainable-seafood/farmed-seafood/farmed-salmon/
+
+This video is part of a series supported by Animal Charity Evaluators, which received a grant from EarthShare.
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com.
+
+Watch our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on Facebook: http://goo.gl/U2g06o
+
+Or Twitter: http://goo.gl/XFrZ5H
+
+This video has been updated to remove fish research footage.
+
+## Transcript
+
+**0:00** · I eat meat.
+
+**0:01** · I also eat a lot of other things.
+
+**0:03** · Which makes me an omnivore, like a lot of people.
+
+**0:05** · But lately I've been wondering, is it even possible to be an omnivore responsibly?
+
+**0:10** · I mean, is it possible to eat meat and still care about this planet?
+
+**0:14** · I've been hearing a lot about farming fish as one of the most sustainable and ethical ways to produce animal protein.
+
+**0:20** · So I decided to do a deep dive on the most consumed fish in the US.
+
+**0:24** · Salmon.
+
+**0:25** · I personally eat a ton of salmon, and I'm not alone.
+
+**0:29** · The average American consumes 3.2 pounds of salmon a year.
+
+**0:33** · So how exactly does salmon farming work?
+
+**0:36** · I'll explain the impact it has on our planet and our future, and maybe most importantly, what it means for the salmon themselves.
+
+**0:47** · So, first things first.
+
+**0:49** · Wild or farmed salmon.
+
+**0:50** · Wild does sound a lot better to me.
+
+**0:53** · But it turns out there's a very real limit to how much wild salmon we can catch sustainably.
+
+**0:58** · We're unfortunately at this state right now where to put it simply, the wild fish stocks are just maxed out or are almost at their sustainability limits.
+
+**1:07** · And to meet the rising demands for seafood, you know, we need to not deplete the oceans any more.
+
+**1:13** · We need them to be thriving and to be, you know, full of biodiversity and and that's where aquaculture can come in.
+
+**1:18** · So if we want to eat salmon at the scale that we do well, it kind of sounds like it has to come from aquaculture.
+
+**1:24** · Salmon has only been farmed since the 1960s, and it's grown fast. Since the 80s, global consumption of salmon has tripled.
+
+**1:32** · And over 70% of that salmon comes from farms.
+
+**1:34** · So salmon farming takes place in coastal regions around the world.
+
+**1:38** · You know, salmon really like that cold, clean, fresh water where they like to grow best.
+
+**1:42** · That's Sophie Ryan, CEO of Global Salmon Initiative, a collaboration between some of the world's biggest salmon farming companies.
+
+**1:49** · Most salmon is farmed in Norway, Chile, the U.K., Canada, and the Faroe Islands.
+
+**1:54** · The process really begins in what we call a freshwater hatchery.
+
+**1:58** · So this is locations on land where the salmon are small eggs and they're monitored closely when they hatch and then they're put into tanks.
+
+**2:07** · So on land and freshwater, once they've kind of reached maturity, they're transferred out to ocean farms.
+
+**2:13** · So this is those open ocean pens where they're really in that cold fresh water that they like, and they stay here until they're ready to harvest, which usually takes about 18 months to two years.
+
+**2:25** · So then when they reach that fully grown stage, they're harvested, taken to a processing facility and then distributed to consumers, restaurants and retailers around the world.
+
+**2:35** · And that's how the world produces almost 3 million tons of salmon each year.
+
+**2:39** · But is it actually more resource effective to farm this much salmon versus other protein like chicken?
+
+**2:45** · To try to answer that, let's start with the big picture.
+
+**2:47** · By current projections we'll likely need to feed 2 billion more people by 2050.
+
+**2:55** · But how can we do that without further depleting Earth's resources?
+
+**2:58** · Well, some people opt to go vegan for that exact reason. And recent studies have shown that a plant based diet could lower your climate impact.
+
+**3:05** · But only 1% of Americans are vegan.
+
+**3:08** · And while up to 46% of Americans said they would consider a plant based diet if it helped reduce greenhouse gas emissions, that still leaves over half the country reliant on animal proteins like salmon.
+
+**3:18** · Aquaculture has huge potential to really play a role. And what that means is it requires less land and less freshwater, and also has a lower carbon footprint than many of the animal proteins you can get hold of.
+
+**3:31** · But there are other factors related to farming salmon at such a large scale.
+
+**3:35** · It turns out we also need to look at the amount of resources needed to feed the fish.
+
+**3:39** · Here's marine biologist Ray Hilborn on what it takes to feed all that salmon.
+
+**3:43** · Most of their feed is coming from plants.
+
+**3:46** · So, typically soy based plants.
+
+**3:48** · That's where the big impact is.
+
+**3:51** · The downsides of soy farming have been well-documented.
+
+**3:54** · And honestly, that could be its own video.
+
+**3:56** · To sum it up, soy farming can be a major cause of deforestation, water pollution and biodiversity loss.
+
+**4:03** · And a lot of the demand is driven by a need to feed farm animals.
+
+**4:06** · But in the wild, salmon are carnivores.
+
+**4:08** · So for farm raised salmon, this soy based diet is supplemented by feeding them other fish.
+
+**4:14** · There are some fish that are salmon that are raised without any fishmeal and fish oil.
+
+**4:19** · But I think most farmed salmon use fishmeal and fish oil to some extent.
+
+**4:25** · Some of this fishmeal does come from fish byproduct and scraps from other fish that have been processed to be eaten.
+
+**4:31** · But most of it comes from wild caught fish that are being caught just to feed the salmon.
+
+**4:35** · So the effects of salmon on the environment ripple out far beyond the farms themselves, to the soy farms and fisheries that feed them.
+
+**4:42** · But even still, Professor Hilborn argues that farming salmon is more sustainable than farming other land animals.
+
+**4:48** · So it takes less feed to make a pound of salmon than it takes to produce a pound of chicken.
+
+**4:54** · In other words, despite the impact that salmon feed may have on the environment, it still takes less of that feed than it would for other livestock.
+
+**5:01** · When you zoom out, salmon aquaculture looks like a better alternative to land based farming and even wild-caught salmon.
+
+**5:07** · But there's another dimension to this that might tip the balance.
+
+**5:10** · What is salmon farming like for the salmon themselves?
+
+**5:13** · So, in salmon farming, there are many things that are done to the animals that are invasive.
+
+**5:19** · And so they are handled.
+
+**5:20** · They are size graded, they're pumped up into tubes. That's professor, Lynn Sneddon a researcher who has spent her career studying fish behavior, and in particular, answering the question of whether fish can feel pain.
+
+**5:32** · It's a question a lot of us never consider.
+
+**5:34** · Many people don't spend time with fish.
+
+**5:36** · The only time they might see them is, you know, in a shop where, you know, they're buying fish to eat.
+
+**5:43** · But for those who do consider whether fish can feel pain, there doesn't seem to be much debate.
+
+**5:47** · So the scientific evidence shows that fishes have nociceptors, receptors for pain, that they, and other animals that we already farm, what does that change?
+
+**6:04** · Well, it complicates this widely held notion that farming salmon is "good" for you and for the planet.
+
+**6:10** · On the one hand, we need to feed a growing population that is likely going to remain meat eaters.
+
+**6:15** · And salmon farming is more efficient and less land intensive than a lot of the alternatives.
+
+**6:20** · But knowing that the fish can clearly feel pain and even feel stress makes me think a lot more about their welfare.
+
+**6:26** · Especially given the fact that salmon farming requires catching other wild fish to feed to the salmon.
+
+**6:31** · And like any other form of animal farming, there are repercussions.
+
+**6:34** · Salmon farms pose threats to various marine organisms, through transmission of parasites like sea lice, diseases in some case.
+
+**6:45** · And there have also been cases where salmon escape the pens and interbreed with fish in the local ecosystem as an invasive species.
+
+**6:51** · It was these reasons that led to the banning of net pens in Washington state just this year.
+
+**6:56** · In the end, I think there's unfortunately this very real trade off between sustainability and ethics, because feeding a growing population responsibly will often come at the expense of the animals involved.
+
+**7:06** · But I also think there's a silver lining, because the conditions that those animals are in can improve.
+
+**7:12** · Take chickens and eggs, for example.
+
+**7:14** · Over the last 20 years, pressure from the public and politicians impacted the egg industry when people became widely aware of the factory farm conditions that chickens lived in. In 2006, 5% of eggs were cage free.
+
+**7:26** · Now that number is 45.
+
+**7:27** · And maybe a similar mindset can be adopted for farming fish.
+
+**7:30** · Fish welfare is so critically important because we're raising animals You know, we want healthy fish in healthy waters.
+
+**7:37** · So by safeguarding the welfare of fish, I think it benefits everyone, whether you care about the fish themselves or not.
+
+### Films
+
+#### Ocean With David Attenborough
+
+>*Duration: 01:01:01*
+>[***More details on hulu.com***](https://www.hulu.com/watch/1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7)
+
+<iframe width="560" height="315" title="Hulu Video" allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://www.hulu.com/watch/1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7></iframe>
+
+## Description
+
+The world’s leading natural historian draws on a lifetime of knowledge to reveal how Earth’s vast,  ,interconnected waterways can be restored.…SEE MORE

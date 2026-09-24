@@ -1,0 +1,63 @@
+- title: "Vanishing Act"
+  video: "https://www.pbs.org/video/vanishing-act-4bp9fu/"
+  description: "Shane meets species on the brink of oblivion, and the people who won’t let them slip away."
+  duration: "3339"
+  creator: "Shane Campbell-Staton"
+  published_at: "2025-07-30"
+  cover: "https://image.pbs.org/video-assets/c6hJI4x-asset-mezzanine-16x9-5pQoWz0.jpg"
+  embed: "https://player.pbs.org/portalplayer/vanishing-act-4bp9fu/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;unsafeDisableContinuousPlay=true\""
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Extinction"
+    - "Biodiversity Concepts & Measurement"
+    - "Ex Situ Conservation"
+    - "Species-Level Approaches"
+    - "Community & Ecosystem Approaches"
+  genre: "Science & Nature Documentary"
+  source: "pbs.org"
+  tags:
+    - "teaching"
+    - "resource"
+    - "film"
+    - "episode"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "4bp9fu20260924"
+  series: "Human Footprint"
+  episode_number: "6"
+  episode_season: "2"
+  type: "film"
+  image: "![Vanishing Act](https://image.pbs.org/video-assets/c6hJI4x-asset-mezzanine-16x9-5pQoWz0.jpg)"
+  duration_string: "00:55:39"
+  assigned: false
+  themes_possible:
+    - "Threats to Biodiversity"
+    - "Foundations of Conservation Biology"
+    - "Approaches to Conservation"
+  class_days:
+    - "BIOL4120_W5D2"
+    - "BIOL4120_W6D1"
+  topics:
+    - "Extinction"
+  themes:
+    - "Threats to Biodiversity"
+  dates:
+    - "2026-09-23T16:00:00"
+    - "2026-09-28T16:00:00"
+  class_start: "BIOL4120_W5D2"
+  date_start: "2026-09-23T16:00:00"
+  week_start: 5
+  class_end: "BIOL4120_W6D1"
+  date_end: "2026-09-28T16:00:00"
+  week_end: 6
+  authors: "Shane Campbell-Staton"
+  published: "2025-07-30T00:00:00.000Z"
+  released: "2025-07-30"
+  year: 2025
+  course_name: "Conservation Biology"
+  profile: "film"
+  attachments:
+    []

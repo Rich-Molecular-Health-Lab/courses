@@ -1,19 +1,21 @@
-- title: "Extreme Heat Is the New Normal"
-  video: "https://www.youtube.com/watch?v=QcHuAtK_H_8"
-  description: "We filmed “A New Inferno,” the short documentary above, in Phoenix, one of the hottest cities in America, through some of the city’s hottest days of 2025, during one of the hottest years on record glo"
-  duration_string: "00:15:15"
-  creator: "New York Times Opinion"
-  published_at: "2026-08-28"
-  cover: "https://i.ytimg.com/vi/QcHuAtK_H_8/maxresdefault.jpg"
-  embed: "https://www.youtube.com/embed/QcHuAtK_H_8"
+- title: "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+  video: "https://www.youtube.com/watch?v=hkibb2WLq3Q"
+  description: "The Omaha News streams live every Wednesday at 4 p.m. on YouTube, Facebook and The Knowledge Network (TKN) during the academic year. The half-hour newscast also airs state-wide on NET reaching all of"
+  duration_string: "1:32"
+  creator: "The Omaha News"
+  author: "The Omaha News"
+  published_at: "2025-03-12"
+  released: "2025-03-12"
+  cover: "https://i.ytimg.com/vi/hkibb2WLq3Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFggXyhlMA8=&rs=AOn4CLAtHMBGePAARsz3Leb2kvod5yUmZQ"
+  embed: "https://www.youtube.com/embed/hkibb2WLq3Q"
   course_prefix: "ENVN"
   course_number: 4320
   projects:
     - "Human Health & the Environment Fall 2026"
   topics_possible:
-    - "Climate Change & Extreme Weather"
-    - "Heat Islands"
     - "Environmental Justice"
+    - "Redlining"
+    - "Healthy Housing"
   genre: "News & Politics"
   source: "YouTube"
   tags:
@@ -22,33 +24,30 @@
     - "video"
   area: "teaching"
   aspect_ratio: "16 / 9"
-  mx-uid: "QcHuAtK_H_887741124305"
+  mx-uid: "hkibb2WLq3Q87741124305"
+  duration: "93"
   type: "video"
-  selected: "false"
-  duration: 915
-  course_name: "Human Health & the Environment"
-  published: "2026-08-28"
-  released: "2026-08-28"
-  year: "2026"
+  image: "![Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods](https://i.ytimg.com/vi/hkibb2WLq3Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFggXyhlMA8=&rs=AOn4CLAtHMBGePAARsz3Leb2kvod5yUmZQ)"
+  authors: "The Omaha News"
+  series: "The Omaha News"
+  author_first: "News"
+  author_last: "News"
+  author_display: "The Omaha News"
+  published: "2025-03-12T00:00:00.000Z"
+  year: 2025
+  assigned: true
   themes_possible:
-    []
-  image: "![Extreme Heat Is the New Normal](https://i.ytimg.com/vi/QcHuAtK_H_8/maxresdefault.jpg)"
-  assigned: false
-  authors: "New York Times Opinion"
-  series: "New York Times Opinion"
-  author_first: "Opinion"
-  author_last: "Opinion"
-  author_display: "New York Times Opinion"
+    - "Introduction"
+    - "Infrastructure"
   class_days:
-    - "ENVN4320_W5D1"
-    - "ENVN4320_W5D2"
+    - "ENVN4320_W6D1"
   topics:
-    - "Heat Islands"
+    - "Redlining"
   themes:
     - "Infrastructure"
   dates:
-    - "2026-09-22T16:00:00"
-    - "2026-09-24T16:00:00"
+    - "2026-09-29T16:00:00"
+  course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
     []
@@ -99,6 +98,117 @@
     - "2026-09-22T16:00:00"
     - "2026-09-24T16:00:00"
   course_name: "Human Health & the Environment"
+  assigned: true
+  themes_possible:
+    - "Infrastructure"
+    - "Disasters"
+  profile: "video"
+  attachments:
+    []
+- title: "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
+  video: "https://www.youtube.com/watch?v=O5FBJyqfoLM"
+  description: "In 1968, Congress passed the Fair Housing Act that made it illegal to discriminate in housing. Gene Demby of NPR’s Code Switch explains why neighborhoods are still so segregated today. • Read \"How S"
+  duration_string: "6:36"
+  creator: "NPR"
+  author: "NPR"
+  published_at: "2018-04-11"
+  released: "2018-04-11"
+  cover: "https://i.ytimg.com/vi/O5FBJyqfoLM/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/O5FBJyqfoLM"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Redlining"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "O5FBJyqfoLM87741124305"
+  duration: "397"
+  type: "video"
+  image: "![Housing Segregation and Redlining in America A Short History  Code Switch  NPR](https://i.ytimg.com/vi/O5FBJyqfoLM/maxresdefault.jpg)"
+  authors: "NPR"
+  series: "NPR"
+  author_first: "NPR"
+  author_last: "NPR"
+  author_display: "NPR"
+  published: "2018-04-11T00:00:00.000Z"
+  year: 2018
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Infrastructure"
+  class_days:
+    - "ENVN4320_W6D1"
+  topics:
+    - "Redlining"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-09-29T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "How systemic racism shaped the ecosystems of U.S. cities"
+  video: "https://www.youtube.com/watch?v=_KfklILeNZg"
+  description: "Historically Black and immigrant communities are more vulnerable to environmental stressorsRead the research: https://scim.ag/3nzjnQECreditsproducerMeagan Cantwellsupervising producerJoel Gol"
+  duration_string: "4:08"
+  creator: "Science Magazine"
+  author: "Science Magazine"
+  published_at: "2020-10-09"
+  released: "2020-10-09"
+  cover: "https://i.ytimg.com/vi/_KfklILeNZg/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/_KfklILeNZg"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Redlining"
+    - "Heat Islands"
+    - "Air Pollution"
+  genre: "Science & Technology"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "_KfklILeNZg87741124305"
+  duration: "249"
+  type: "video"
+  image: "![How systemic racism shaped the ecosystems of U.S. cities](https://i.ytimg.com/vi/_KfklILeNZg/maxresdefault.jpg)"
+  authors: "Science Magazine"
+  series: "Science Magazine"
+  author_first: "Magazine"
+  author_last: "Magazine"
+  author_display: "Science Magazine"
+  published: "2020-10-09T00:00:00.000Z"
+  year: 2020
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Infrastructure"
+    - "Toxins"
+  class_days:
+    - "ENVN4320_W6D1"
+  topics:
+    - "Redlining"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-09-29T16:00:00"
+  course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
     []
@@ -145,12 +255,18 @@
     - "ENVN4320_W5D2"
   topics:
     - "Heat Islands"
+    - "Redlining"
   themes:
     - "Infrastructure"
   dates:
     - "2026-09-22T16:00:00"
     - "2026-09-24T16:00:00"
   course_name: "Human Health & the Environment"
+  assigned: true
+  themes_possible:
+    - "Infrastructure"
+    - "Introduction"
+    - "Disasters"
   profile: "video"
   attachments:
     []
@@ -180,11 +296,12 @@
     - "Disasters"
   class_days:
     - "ENVN4320_W4D2"
+    - "ENVN4320_W5D1"
   dates:
     - "2026-09-17T16:00:00"
+    - "2026-09-22T16:00:00"
   genre: "Education"
   type: "video"
-  selected: "false"
   source: "YouTube"
   tags:
     - "camp-fire"
@@ -214,6 +331,7 @@
   year: "2024"
   themes_possible:
     - "Disasters"
+    - "Introduction"
   course_name: "Human Health & the Environment"
   assigned: true
   classes_assigned:
@@ -252,16 +370,16 @@
   aspect_ratio: "16 / 9"
   mx-uid: "wXoqEJlsKu087741124305"
   type: "video"
-  selected: "false"
   course_name: "Human Health & the Environment"
   duration_string: "00:09:59"
   published: "2026-09-03"
   released: "2026-09-03"
   year: "2026"
   themes_possible:
-    []
+    - "Infrastructure"
+    - "Disasters"
   image: "![What Does Extreme Heat Do to the Body](https://i.ytimg.com/vi/wXoqEJlsKu0/maxresdefault.jpg)"
-  assigned: false
+  assigned: true
   authors: "PBS"
   series: "PBS"
   author_first: "PBS"

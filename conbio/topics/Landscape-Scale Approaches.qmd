@@ -1,6 +1,6 @@
 ---
 title: "Landscape-Scale Approaches"
-date: "2026-08-29"
+date: "2026-12-07T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,695 @@ listing:
   contents: "Landscape-Scale Approaches_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-12-07T16:00:00
+
+## Assigned Background
+
+### Conservation in human‐modified landscapes
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Conservation in human‐modified landscapes
+
+**Ch No.:** 13 (Approaches to Conservation)
+
+**Pages:** 236-261 (Landscape-Scale Approaches)
+
+**PDF:** [koh_gardner_2010.pdf](../attachments/koh_gardner_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W16D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Lian Pin Koh, Toby A. Gardner
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193205265)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![koh_gardner_2010.pdf](../attachments/koh_gardner_2010.pdf)
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Readings
+
+#### Ch 15 Landscape-Scale Conservation
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Textbook:** Conservation Biology *(see details below)*
+
+**Chapter:** 15 (Approaches to Conservation)
+
+**Sections Assigned:** 15.3, 15.4 (Landscape-Scale Approaches)
+
+**Days Covered:** BIOL4120_W16D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology by 
+
+**Edition:** 2nd (2025-01-17)
+
+**ISBN:** 9780197667033 (textbook)
+
+[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+
+:::
+
+#### Conservation in human‐modified landscapes
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Conservation in human‐modified landscapes
+
+**Ch No.:** 13 (Approaches to Conservation)
+
+**Pages:** 236-261 (Landscape-Scale Approaches)
+
+**PDF:** [koh_gardner_2010.pdf](../attachments/koh_gardner_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W16D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Lian Pin Koh, Toby A. Gardner
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193205265)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![koh_gardner_2010.pdf](../attachments/koh_gardner_2010.pdf)
+
+:::
+
+### Video Clips
+
+#### We’re creating the world’s biggest wildlife corridor
+
+**Planet Wild**, *02 15, 2026*
+
+## Video (12:18)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/UM2sDTMrkVE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+We're contributing to one of the biggest wildlife corridors in the world, a huge network of wildlife crossings, tunnels and fencing systems in North America.
+
+🌱 Join us to rewild the planet: https://planetwild.com/join/m36
+
+For centuries, wildlife moved freely across the Rocky Mountains. Now, roads cut through animal habitat across North America, turning simple movement into something dangerous. There are millions of wildlife collisions every year, claiming countless lives and costing billions of dollars in damages. 
+
+We went to the Rocky Mountains and partnered with Yellowstone to Yukon (Y2Y) to contribute to a massive wildlife corridor that's reconnecting these areas and making sure wildlife can move freely again. 
+
+But big infrastructure projects like this take extensive bureaucracy, government permits and a huge amount of public funding. And none of that happens without evidence. 
+
+That's why, in our 36th mission, we helped Y2Y gather the data and information needed to plan future crossings and shape a landscape where humans and wildlife can coexist.
+
+Thanks to Sean Konkolics, Government of Alberta, Miistakis and Nature Conservancy of Canada, Darryn Epp, Biodiversity Pathways, Dan Rafla and Parks Canada for providing additional pictures, and to Siobhan Williams/Wildsight for additional drone cinematography. 
+
+#wildlifecrossings #wildlifecorridor #animalhighways
+
+Chapters
+
+0:00 Reconnecting Yellowstone to Yukon
+
+1:07 Welcome to the Rocky Mountains
+
+2:12 How habitats were fragmented 
+
+3:45 Meet our partner 
+
+5:06 The solution: Wildlife crossings 
+
+8:02 The challenge of Highway 3
+
+8:51 Our support
+
+10:18 Wildlife camera footage
+
+_______________________
+What is Planet Wild?
+
+We’re a global community of people who care deeply about nature and want to help our planet bounce back – one mission at a time.
+
+EVERY MONTH, we work with wildlife pioneers worldwide to
+
+🦁 bring back endangered species
+
+🌊 support oceans and aquatic life
+
+🌳 revive forests and rewild landscapes
+
+EVERY MEMBER can vote on how we spend the money, connect with us on our Discord, and collect unique badges for each mission they support.
+
+EVERY MISSION is documented in videos like this. 100% transparency.
+
+EVERYONE can join. The bigger the community grows, the bigger these missions will get!
+
+👉 Become a Planet Wild member: https://planetwild.com/join/m36
+
+👉 Follow us on Instagram: https://www.instagram.com/planetwild.official/
+
+👉 Follow on LinkedIn: https://www.linkedin.com/company/planetwild-official/
+
+Find all sources here:
+
+https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1980559c97e4e717f0b682?source=copy_link
+
+## Transcript
+
+### Reconnecting Yellowstone to Yukon
+
+
+**0:00** · This is not a normal highway bridge.
+
+**0:03** · Oh, my God.
+
+**0:04** · It's actually part of a massive effort to build one of the biggest wildlife corridors in the world: the Yellowstone to Yukon region, spanning five U.S. states, two Canadian provinces, and more than 75 indigenous territories. It's the size of a large country. Now, a hidden network of bridges, tunnels, fences, and whatever these are, has started to connect 11 huge national parks within this region, allowing wildlife to roam freely for the first time in generations.
+
+**0:35** · This is not only saving animal and human lives, but it will save billions of dollars of taxpayer money in the process. And it's only possible 'cause of a small team of scientists and nature lovers. So I'm here in the Rocky Mountains to find out how research and engineering emerging into one of the biggest rewilding projects in the world. And we're going to use this to capture the insane collection of creatures that are already using these passageways.
+
+**1:02** · We are Planet Wild. Welcome to Mission 36. (tense inspirational music) The Rocky Mountains, the largest mountain range in North America, a vast, largely untouched expanse. I just have to take a second to fully appreciate where I am, because I'm surrounded by forest and by mountain peaks like I've never seen before in my entire life.
+
+### Welcome to the Rocky Mountains
+
+**1:28** · And it's incredible.
+
+**1:31** · (tense music continues) (graphic chimes) But I'm also a little bit worried about grizzly bears (quirky music) 'cause this is grizzly bear territory. And last week I was talking to a bear expert for some research and he said I wouldn't have a problem.
+
+**1:48** · You won't have a problem.
+
+**1:50** · But he also said some stuff that made me a little bit more worried.
+
+**1:53** · I thought I was going to die.
+
+**1:54** · (Clayton laughs) Thanks, Clayton. We'll come back to you later. Grizzlies used to be found all the way from the Arctic Circle in the north to down in Mexico. And just 200 years ago, (projector whirring) this landscape was completely uninterrupted, which is the blink of an eye in evolutionary terms. But now the range of the grizzlies has shrunk to just this corner of North America. And this is why.
+
+### How habitats were fragmented
+
+**2:18** · (train horn blaring) (track rattling) (truck horn blaring) This is the Canada Pacific Railway built in 1881, and during the colonisation of North America, this connected the east and the west coast of Canada. But it cut straight through this valley. And now imagine if you are a grizzly bear and you have to travel from this side of the valley to this side.
+
+**2:42** · And if a train goes past once an hour, imagine trying to cross a highway where a car goes past on average once every three seconds. (melancholic music) It makes the world smaller for grizzly bears, and they have to increasingly navigate around those barriers. What it means is these bears basically never get old and die, like, there's essentially no natural mortality.
+
+**3:06** · If a bear's going to die in the Elk Valley, it's unfortunately gonna be at the hand of people. And half of the grizzly bears that died in our study were due to collisions with vehicles or with the train.
+
+**3:19** · [Cameron] Recently there was a report of a young bear named Lingenpolter, who spent months trying to get across a highway. In fact, he tried and failed 45 times, only managing on the 46th attempt.
+
+**3:34** · It's a real challenge to navigate this landscape.
+
+**3:37** · We've got power lines, canals, railways, highways, and housing developments, right?
+
+**3:42** · So it's a very complex landscape.
+
+### Meet our partner
+
+
+**3:45** · [Cameron] This is Bill Hunt from the Yellowstone to Yukon initiative, or Y2Y. Bill has spent his life working in Canada's wilderness, first as a park warden and then a conservation manager, always with the goal of protecting wildlife. Today with Y2Y, he's trying to create the biggest corridor for wildlife in North America and possibly the world.
+
+**4:06** · The scale of Y2Y is huge.
+
+**4:09** · It's a big vision. It's a big, it's very ambitious, but it's completely achievable.
+
+**4:13** · Y2Y has been working for more than 30 years to create a massive interconnected area starting from Yellowstone Park in the south, tracing the range of the Rocky Mountains around over 100 existing protected areas, including 11 national parks all the way up to the Yukon Territory in northern Canada. So the Y2Y vision is a massive interconnected area of 1.3 million square kilometres.
+
+**4:39** · And I was just looking up, trying to get an idea of how big that actually is. And apparently, if it was a country, it would be in the top 20 biggest countries in the world, right in between Peru and Mongolia. I mean, just look at it compared to the size of Europe, the scale of that, it's just huge. But in order to make this dream a reality, we need to get rid of all these roads.
+
+**5:04** · Okay, we obviously can't do that, but we can build new infrastructure for wildlife. So this behind me is a wildlife crossing, and it's specially designed to get animals over the highway safely. This bridge is basically built to carry a small forest. Thousands of tonnes of soil are piled on top, and then native bushes and trees are planted, so it blends perfectly into the landscape. And you might be thinking, that looks really expensive.
+
+### The solution: Wildlife crossings
+
+**5:30** · Who's gonna pay for it?
+
+**5:32** · Well, it's actually more expensive without it. Every year in the U.S., there's around 2 million collisions with animals, and as well as the countless lives that are lost in these collisions, it also costs people $8 billion a year. But a wildlife crossing like this can reduce collisions by over 90%. (graphic clicking) How it works is that there's miles of fencing along here that funnelled the animals over the crossing.
+
+**6:00** · And honestly, I never thought I would get into fence design. But this is not just any old fence. (soft music) One of the key elements is that there's a buried apron of chain-link fencing actually dug into the earth, and this keeps bears and wolves from digging tunnels underneath the fence, which would defeat the whole purpose. And then going up, this is the page wire, and you'll see that it's what we call graduated page wire.
+
+**6:23** · And so the spacing at the bottom is smaller to prevent small animals from getting through. And then when you get higher on the fence, we've widened that out so that you're saving on weight and cost. So it makes it as affordable as possible. And then right on the very top of this, you'll see that there's a high tensile cable supported on the top of the posts.
+
+**6:44** · And that's so that if a tree falls onto the fence, it doesn't damage the page wire. In the old days, we didn't have that. If a tree blew on, this would all get crumpled and mushed up. And it was really hard to get it back together. And now the tree just sits on the cable, you come with a saw, you can cut that off and everything's still working.
+
+**7:00** · Yeah. - It seems subtle, but each of these things saves tonnes of maintenance over the long run.
+
+**7:04** · Yeah.
+
+**7:04** · - Yeah.
+
+**7:06** · (bell chimes) But to make our lives a bit harder, not every animal likes to go over the highway. And this is like an old highway bridge that is retrofitted with fences along the side to guide the animals down here. It's actually kind of peaceful almost, the noise of the highway is reduced significantly. And you can tell why some species like cougars and black bears actually prefer to cross underneath the highway.
+
+**7:34** · And you can tell that loads of animals are coming through here. There's deer tracks everywhere, and you can tell that these crossings really just work. And there are many more types of crossings, like there's tunnels for toads, canopy bridges for squirrels, and even this amazing little crossing built especially for salamanders. Throughout the Y2Y region, more than 200 crossings have been built so far, but there's still one stretch of road that's causing serious problems.
+
+**8:01** · (contemplative music) This is Highway 3. Its location makes it really strategically important. It's currently blocking the movement of wildlife, both from north to south and east to west. In fact, this highway is separating two populations of grizzly bears, which is bad news because with a smaller gene pool, these populations become way more vulnerable to environmental changes and disease.
+
+### The challenge of Highway 3
+
+**8:27** · In a case like this, Y2Y brings all the necessary people together to identify where the crossings are needed and to build them. (soft electronic music) So the vision is to instal 27 new crossings, including three new overpass bridges that would connect these two grizzly populations and allow all kinds of wildlife to roam freely through here. Creating big infrastructure projects like this takes a huge amount of bureaucracy and massive amounts of government funding.
+
+### Our support
+
+**8:59** · So Y2Y needs lots of hard data to get the ball rolling. And that is where these come in. Camera traps lay the groundwork. They allow us to show how effective certain crossings are for different species, and they show us where animals are already trying to cross the roads.
+
+**9:15** · So the Planet Wild community is funding six extremely durable professional trail cameras to support the Highway 3 project, along with 15 of these new GPS wildlife collars for four different species. That's elk, mule deer, bighorn sheep, and, of course, grizzly bears. With the GPS data from these collars, researchers can pinpoint the critical places where new crossings should be built to ensure separated populations can find each other better.
+
+**9:43** · And whilst we're installing the cameras, I'm gonna tell you how we made this possible. Planet Wild is a global community of nature protectors. And every month we go on a mission to clean up our oceans, to bring back endangered species, and to rewild entire landscapes. And everything is community-funded. So if you wanna support projects like this, join Planet Wild as a backer. There's a QR code here and a link in the description.
+
+**10:09** · There we go.
+
+**10:11** · Done. - Perfect.
+
+**10:12** · Amazing.
+
+**10:13** · (wind blowing) (feet thudding) Future Cam here. So Y2Y just sent me over some of the footage from the wildlife cameras, and I'm sitting here watching it, and I'm just thinking like, it's just... Okay, you know what, we're just gonna have to roll it. (bright enthralling music) Research has proven more than 150,000 animal crossings through these new structures, and it really hits you when you just take a second to watch the footage from these cameras.
+
+### Wildlife camera footage
+
+**10:50** · (bright enthralling music continues) If they can find a safe spot, like an underpass or an overpass, they memorise that, they learn that, and they'll come back to that spot time and time again. (bright enthralling music continues) (bright enthralling music continues) This footage is gonna push forward at the Highway 3 project. But it's not just about one highway, this is about reimagining how entire landscapes can work.
+
+**11:31** · And this vision is gonna take a lot of work, a lot of collaboration, and probably many decades to complete. For every single data point, every crossing and every animal that makes it across the highway safely is one step closer to making that vision a reality.
+
+**11:47** · So what can you do next?
+
+**11:48** · Well, join Planet Wild as a backer at the QR code here, or subscribe to catch our next mission. Thanks, and see you next time. (bright enthralling music continues) (bright enthralling music continues) (music fades)
+
+#### Why This Unusual Pattern May Save the Rainforests
+
+**PBS Terra**, *09 12, 2024*
+
+## Video (9:34)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/EDpCLIgfHXo?start=114 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Check out In the Margins on @pbsorigins : https://youtu.be/Y1cJCowMz9M?feature=shared
+
+Check out Roots of Resistance on @pbsorigins : https://youtu.be/rUCrmh58GrU?si=b6HPENjsnEKYPrzK
+
+The Choco region in northwest Ecuador is hosting a groundbreaking experiment to try and help it’s rainforests recover from rampant deforestation. A multinational team is planting small “tree islands" to attract natural seed dispersers. It’s an innovative approach that we’ll take a close look at, from above and within. 
+
+Hosted by Joe Hanson from Be Smart, Overview uses stunning 4k drone footage to reveal the natural and human made marvels shaping our planet--from a 10,000-foot view--literally.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+## Transcript
+
+**0:05** · (light music) Hidden along the equator lies a rainforest like no other.
+
+**0:13** · The Choco is a kaleidoscope of life.
+
+**0:17** · An enchanting home to an astonishing array of species many found nowhere else on Earth.
+
+**0:24** · But like most of Earth's tropical rainforests, The Choco is under threat.
+
+**0:29** · Widespread deforestation for agriculture, logging, and human settlements has pushed this incredible ecosystem to the brink of disappearing.
+
+**0:37** · But, there is hope, thanks to these.
+
+**0:41** · These are tree islands, small patches of trees replanted within larger deforested areas.
+
+**0:47** · Scientists think this groundbreaking idea could change the world's forest recovery efforts by allowing the forest to regrow itself thanks to one surprising ingredient, animal poop.
+
+**1:06** · (gentle music) Here in Ecuador, the Choco Rainforest covers approximately 7,000 square kilometers, nearly one and a half times the size of Grand Canyon National Park.
+
+**1:18** · Separated from the Amazon by the towering Andes, The Choco is a world unto itself.
+
+**1:25** · It's also one of the wettest places on Earth.
+
+**1:29** · Some spots receiving upwards of 400 inches of rain per year.
+
+**1:35** · It's also one of the world's most biologically diverse places.
+
+**1:39** · A home for over 800 species of birds, 140 species of mammals, and 9,000 species of plants.
+
+**1:50** · Here, inside a 100-meter square, you can find nearly as many tree species as in all of Europe.
+
+**1:58** · Rainforests like The Choco are critical for preserving Earth's biodiversity.
+
+**2:10** · These are some of the determined researchers on a mission to save this remarkable ecosystem.
+
+**2:20** · (Leighton speaking in foreign language) - They contain more than half of all of the species in the world, even though they occupy a relatively small proportion of the Earth's land surface.
+
+**2:29** · There's new species being discovered in tropical rainforests every year, including here in Northwestern Ecuador.
+
+**2:35** · Every year, an area of tropical forest gets cut down that's about the size of Lake Michigan.
+
+**2:43** · (orchestral music) - The Choco is considered one of the most threatened ecoregions in the world.
+
+**2:48** · In Ecuador, only about 2% of the original forest cover remains.
+
+**2:54** · As more and more of it is converted to palm oil plantations, countless species of plants and animals are at risk of extinction.
+
+**3:09** · (Fernando speaking in foreign language) Fernando is now fighting to restore his native lands.
+
+**3:29** · (Fernando speaking in foreign language) But saving a rainforest is not an easy task.
+
+**3:34** · Although scientists know what a healthy tropical forest looks like, they still know very little about how to regrow them.
+
+**3:54** · (Fernando speaking in foreign language) (light music) At this point, maybe you're thinking, why not just plant trees?
+
+**3:58** · One new tree to replace every old one?
+
+**4:01** · Well, the cost, for starters.
+
+**4:03** · Additionally, many traditional replanting efforts have focused on replanting only a small number of tree species.
+
+**4:10** · But this allows only a few fast growing species to dominate the regrown forest, and it really fails to recreate the complex diversity of species in natural rainforests, which can contain upwards of 400 tree species in an area the size of a Manhattan city block.
+
+**4:29** · Regrowing a forest by only replanting a few species is like trying to paint a Picasso with only primary colors.
+
+**4:39** · But here, scientists are trying something new, an idea that harnesses the power of nature itself.
+
+**4:47** · Instead of planting rows of seedlings in a large scale plantation, the researchers are creating small, strategic patches filled with a diverse mix of native trees.
+
+**4:58** · They hope that over time these empty spaces will be filled by the same natural processes that keep healthy rainforests lush and diverse.
+
+**5:08** · [Leighton] The idea is that these small patches of trees will kickstart a natural regeneration process.
+
+**5:13** · [Joe] And here's where things get interesting, because the team's secret weapon is poop. (bright music) The trees planted in these islands produce fruit. In a healthy rainforest, animals act as nature's gardeners. As creatures like howler monkeys and toucans feast on that fruit, their droppings disperse seeds far and wide, planting new forest with every trip to the bathroom. Up to 80% of tree species rely on birds and mammals to spread their seeds in this way.
+
+**5:46** · When a patch of rainforest falls, it's these animal gardeners that hold the key to bringing it back to life. Eating fruits, carrying the seeds far and wide, and ultimately, planting the forest of tomorrow.
+
+**6:00** · One of the big questions is, what are the best kinds of trees to plant?
+
+**6:05** · How many of them do you need to plant and what kinds of spatial configurations?
+
+**6:09** · [Joe] The scientists are betting that by planting trees with mouthwatering fruits, they'll attract a bunch of hungry critters like monkeys, birds, and bats to help this forest regrow itself. Who knew that the key to saving the rainforest could be as simple as a well-stocked fruit buffet. To test the idea, researchers pack half of their plots with trees that produce a bounty of animal attracting fruit, while the other half offer fewer delicious treats.
+
+**6:42** · At the same time, we're also monitoring animal populations to identify what bird species are coming and visiting plots. (Fernando speaking in foreign language) [Leighton] We'd like to be able to connect the dots between what animals are present and what seeds they're bringing into the restoration plots.
+
+**7:12** · [Joe] The project has captured the imagination of the local community.
+
+**7:17** · [Leighton] A lot of the success that FCAT has enjoyed is due to the tight bonds that they have with the local communities that are here. (Fernando speaking in foreign language) [Joe] The experiment is still young, but the team is already seeing promising signs. (Fernando speaking in foreign language) (light music) If it works, this approach could revolutionize reforestation efforts not just in The Choco, but in threatened rainforests worldwide.
+
+**8:08** · Ecological restoration is not a silver bullet.
+
+**8:12** · It's not the solution to all of our environmental problems. In order to prevent mass extinction, we have to stop destroying intact habitats. And restoration can't do that. But restoration is part of the solution as well. Ecological restoration allows us to build back some of the habitat that's been lost.
+
+**8:29** · [Joe] Only time will tell if their tree islands will take root. But in the battle to save our rainforests, every seed of hope matters, and in The Choco, those seeds are starting to sprout. Hey guys, we’re out here working on the next episode of Overview. But before you go, if you’re a fan of history, we want to tell you about two new series over on PBS Origins.
+
+**8:55** · Roots of Resistance is a series which shows how history is often made through defiance. And In the Margins explores the kind of lesser-known stories that they maybe don’t teach you in school. We're gonna put a link to their latest episodes down below. We hope you consider subscribing too. It helps all of us over at PBS.
+
+### Films
+
+#### Managing Moose Colorado's Most Dangerous Animal
+
+**Rocky Mountain PBS**, *09-17-2026*
+
+## Documentary Film (26:40)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/B67o_quLHi4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+#moose #coloradowildlife #animals 
+
+Moose have flourished in Colorado in recent decades, leading to more attacks on people, overgrazing in key valleys and declining ecosystems. On top of that, the question of the animal’s native status has started a contentious debate that could have large impacts on the future of moose in Colorado. Now the question becomes how to manage the population as moose enter the spotlight.
+
+Subscribe to our YouTube channel: https://bit.ly/3zeF6Ch
+
+------------------------------------------------------
+
+Follow Rocky Mountain PBS on our other platforms, too.
+
+• Newsletter: https://www.rmpbs.org/newsletters 
+
+• Facebook: https://www.facebook.com/rmpbs
+
+• Instagram: https://www.instagram.com/rmpbs
+
+• LinkedIn: https://www.linkedin.com/company/rocky-mountain-pbs
+
+## Transcript
+
+**0:00** · (MUSIC PLAYING) I LOVE MOOSE.
+
+**0:05** · I JUST LOVE THEM.
+
+**0:06** · YOU KNOW, THEY'RE AMAZING CREATURES.
+
+**0:09** · IT'S BECOME ONE OF THE MOST EXCITING THINGS FOR PEOPLE TO SEE IN THIS AREA, FOR SURE.
+
+**0:16** · MOOSE ARE EXTREMELY POPULAR, BUT THEY'RE ALSO THE MOST DANGEROUS ANIMAL IN COLORADO. [SCREAMING] HERE IT COMES.
+
+**0:23** · GET AWAY!
+
+**0:24** · IF THEIR EARS GO BACK, IF THEIR HACKLES RAISE UP, IT'S PROBABLY A GOOD INDICATOR THAT YOU'RE TOO CLOSE.
+
+**0:29** · I TURNED AROUND AND IT WAS A MOOSE, AND IT WAS IN FULL CHARGE. COMING UP THE TRAIL BEHIND US.
+
+**0:36** · THEY LOOK DOCILE, BUT DON'T LET THAT FOOL YOU. THAT'S JUST HOW THEY DEAL WITH THREATS.
+
+**0:43** · AS MOOSE POPULATION INCREASES, AS HUMAN POPULATION INCREASES, ALL OF THOSE ARE LEADING TO PROBABLY MORE ENCOUNTERS AND CONFLICTS.
+
+**0:50** · MOOSE WERE TRANSLOCATED TO COLORADO IN THE 1970S, AND SO I THINK PEOPLE WILL GET THE WRONG IDEA ABOUT WHETHER MOOSE BELONG IN THE STATE OF COLORADO.
+
+**1:01** · SINCE THOSE TRANSPLANTS, THE POPULATION HAS STEADILY INCREASED. BUT YOU CAN HAVE TOO MUCH OF A GOOD THING.
+
+**1:08** · AND YOU CAN SEE, WE ALSO HAVE A LOT OF WHAT WE CALL ZOMBIE WILLOWS OUT HERE. THEY'VE BEEN BROWSED BY ELK AND MOOSE TO THE POINT WHERE YOU CAN SEE MOST OF THEM ONLY HAVE A FEW REMAINING LEAVES.
+
+**1:20** · JUST IN 20 YEARS, WE KNOW WE'VE LOST ABOUT 98% OF THE TALL WILLOW. AND WE ATTRIBUTE THAT TO THE FACT THAT MOOSE MOVED INTO THE PARK FROM THE WEST.
+
+**1:27** · THERE WAS A BIG SORT OF WAVE OF NEWS STORIES ABOUT... THE IDEA THAT MOOSE ARE NON-NATIVE OR SOMETIMES YOU EVEN SEE THE WORD INVASIVE. BUT WE HAVE IDENTIFIED MOOSE HAVE BEEN HERE FOR THOUSANDS OF YEARS.
+
+**1:40** · IT'S IRRELEVANT THAT IF THERE WERE 1 OR 100 MOOSE HERE, 500 YEARS AGO OR SOMETHING IN THE VALLEY. LIKE WHAT MATTERS AS THE WAY THINGS ARE FUNCTIONING, WE'RE LOSING ECOSYSTEM SERVICES AND CHARACTERISTICS THAT MIGHT TAKE DECADES TO RECOVER.
+
+**1:55** · EVERYBODY HAS AN OPINION ON WILDLIFE MANAGEMENT.
+
+**1:59** · BUT I HOPE WE CAN CONTINUE TO MANAGE MOOSE AT THE APPROPRIATE NUMBER TO PREVENT THEM FROM PEAKING AND CRASHING. (MUSIC PLAYING) IT SOUNDED LIKE SHE'S, MAYBE A LITTLE FURTHER UP ENDO. WE'RE TRYING ONE LAST SPOT IN HORSESHOE PARK BEFORE WE HEAD UP VALLEY.
+
+**2:20** · IT SOUNDS GOOD.
+
+**2:21** · WE'LL HEAD YOUR WAY AND SEE YOU SHORTLY. SO WE HAVE SOME MOOSE THAT ARE WEARING A COLLAR THAT MAKES A BEEPING NOISE, AND HE CAN USE THAT ANTENNA TO FIND THEM.
+
+**2:32** · YEAH, SO IN THIS CASE, WE'RE LOOKING FOR AN ADULT COW WHO WE CAPTURED LAST YEAR AND FIT WITH A COLLAR. BASED ON THE SIGNALS IT'S GIVING ME, IT'S SOUNDING LIKE SHE'S KIND OF DIRECTLY BEHIND ME. KIND OF HEADING TOWARDS THAT BARE HILLSIDE BACK THERE. SOMEWHERE BETWEEN ME AND THERE IS WHERE IT SOUNDS LIKE SHE'S COMING FROM.
+
+**2:51** · SO THEY'RE RIGHT OVER HERE.
+
+**2:53** · AND WE'RE GOING TO GO--WE'RE GOING TO MEET THEM OVER HERE BECAUSE SHE MOVED THAT WAY A LITTLE BIT. THIS IS THE WORK WE OFTEN DO, WHICH IS THAT WE WANT TO SEE IF SHE HAS A BABY. AND SO WE'D GO A LITTLE CLOSER, BUT WE'RE JUST, LIKE BEING QUIET IS A BIG THING BECAUSE SHE MIGHT JUST STAND UP. AND LIKE, WALK INTO THE BRUSH.
+
+**3:13** · FOR MOOSE IN ROCKY MOUNTAIN NATIONAL PARK, IT BECAME CLEAR THAT WE NEEDED SOME MORE INFORMATION ABOUT THEIR BEHAVIOR, THEIR SURVIVAL, SOME THINGS ABOUT THEIR POPULATION. AND SO WE HAD A FEW COLLARED IN 2017 AND THEN EVERY YEAR SINCE THEN.
+
+**3:29** · OH, THERE SHE GOES.
+
+**3:34** · AND THERE'S THE CALF, YEAH.
+
+**3:37** · SO A BIG QUESTION THAT IS IMPORTANT FOR UNDERSTANDING HOW MOOSE ARE ACTING IN THE PARK IS JUST UNDERSTANDING HOW MANY THERE ARE. AND SO IT'S ACTUALLY A BIG CHALLENGE TO ESTIMATE MOOSE ANYWHERE IN THE WORLD BECAUSE THEY TEND TO BE FAIRLY ELUSIVE.
+
+**3:51** · THEY'RE MOSTLY SOLITARY.
+
+**3:53** · THEY'RE NOT SEEN IN BIG GROUPS IN BIG MEADOWS. AND SO WHAT WE DO IS WE USE A HIGH-FLYING FIXED WING AIRCRAFT THAT USES INFRARED TO SEE MOOSE ON THE LANDSCAPE.
+
+**4:06** · LAST YEAR WE DID THE VERY FIRST PARK-WIDE SURVEY OF MOOSE AND WHAT WE FOUND IS THAT THE POPULATION'S AT ABOUT 240 INDIVIDUALS. ONE THING THAT THAT SHOWED US IS THAT THE POPULATION INCREASED ALMOST 50 PERCENT IN JUST FIVE YEARS.
+
+**4:19** · ROCKY MOUNTAIN NATIONAL PARK IS HOME TO HUNDREDS OF ANIMAL SPECIES. THE PARK COVERS 415 SQUARE MILES OF VARYING MOUNTAIN ENVIRONMENTS. THIS INCLUDES WETLANDS, WHICH ONLY MAKE UP 4% OF THE PARK, BUT ARE CRUCIAL HABITAT FOR THE MANY PLANTS, BIRDS, AND MAMMALS THAT LIVE THERE.
+
+**4:39** · IN RECENT YEARS, WE'VE SEEN DRAMATIC LOSSES OF TALL WILLOW. AND TALL WILLOW IS THE PLANT THAT IS MOST IMPORTANT TO A FUNCTIONING WETLAND IN ROCKY MOUNTAIN NATIONAL PARK.
+
+**4:50** · WE ALSO HAVE A LOT OF WHAT WE CALL ZOMBIE WILLOWS OUT HERE. THESE WILLOWS SHOULD BE 10 TO 12 FEET PLUS TALL. AND OVER THE RECENT DECADES, THEY'VE BEEN BROWSED BY ELK AND MOOSE TO THE POINT WHERE YOU CAN SEE MOST OF THEM ONLY HAVE A FEW REMAINING LEAVES.
+
+**5:07** · DURING THE SUMMER, ONE MOOSE CAN EAT AS MUCH WILLOW AS 15 ELK, CONSUMING UP TO 60 POUNDS A DAY. ON THE WEST SIDE OF ROCKY MOUNTAIN NATIONAL PARK, THIS HAS BEEN A MAJOR FACTOR IN THE DEGRADATION OF THE WILLOW POPULATION.
+
+**5:22** · HERE'S AN EXAMPLE OF SOME OF THESE.
+
+**5:24** · THIS TOO, THESE WERE WILLOWS AND OVER MANY DECADES OF JUST GETTING ALL OF THEIR NEW SHOOTS EATEN. THESE WERE SOME OF THE WILLOWS THAT DIDN'T MAKE IT BETWEEN 1999 AND 2019 THE ACREAGE OF TALL WILLOWS THAT IS WILLOWS TWO METERS OR TALLER DECLINED BY 98 PERCENT. SO THAT'S WHAT WE'RE TRYING TO REVERSE.
+
+**5:49** · AS PART OF THE ELK AND VEGETATION MANAGEMENT PLAN, THE NATIONAL PARK SERVICE INSTALLED SIX-FOOT-TALL FENCES IN HOPES OF RESTORING WILLOWS IN THESE IMPORTANT WETLAND AREAS. THE FENCES KEEP ELK AND MOOSE OUT WHILE ALLOWING SMALLER CREATURES LIKE BEAVER TO WIGGLE UNDERNEATH A GAP LOW IN THE FENCE.
+
+**6:07** · THIS FENCE HAS BEEN INSTALLED SINCE 2011 AND IT'S ABOUT 16 AND A HALF ACRES AND WE'VE SEEN MARKED WILLOW GROWTH AS YOU CAN SEE HERE. IT'S ALL-NATURAL REGROWTH AFTER JUST EXCLUDING BROWSING.
+
+**6:22** · SO BACK BEHIND ME YOU CAN SEE PRETTY HEALTHY STAND OF WILLOW. IT'S NOT QUITE TO THE POINT THAT WE'D CALL RECOVERED, BUT IT'S MAKING GREAT PROGRESS INSIDE THE FENCE. YOU CAN SEE THE CONTRAST IS PRETTY STARK BETWEEN THESE AREAS THAT ARE GREEN AND PRETTY WET AND THE AREA RIGHT NEXT TO IT THAT'S SUPER DRY.
+
+**6:43** · MOOSE NOW ARE ADDING TO THE STRESSORS OF THESE AREAS. SO, WHEN WE FIRST STARTED THE ELK AND VEGETATION MANAGEMENT PLAN, IT WAS VERY MUCH FOCUSED ON ELK. WE KNOW THAT THE MOOSE POPULATION IS BURGEONING IN THE PARK AS WELL AS OUTSIDE OF THE PARK. SO, LOOKING AT JUST AN ADDITIONAL STRESSOR, FUTURE WETLAND RIPARIAN RESTORATION INCLUDES MOOSE AS PART OF THE EQUATION NOW TOO.
+
+**7:07** · MOOSE HAVE SHOWED US THAT MUCH OF COLORADO, PARTICULARLY THE CENTRAL ROCKY MOUNTAIN SPAN OF COLORADO, MUCH OF THAT IS EXCELLENT MOOSE HABITAT.
+
+**7:17** · ANDY HOLLAND IS THE BIG GAME MANAGER FOR COLORADO PARKS AND WILDLIFE. PART OF HIS JOB IS TO LOOK AT THE MOOSE POPULATION AND ECOLOGICAL IMPACTS AROUND THE STATE TO KEEP THINGS IN BALANCE.
+
+**7:28** · MOOSE ARE DOING REALLY WELL IN COLORADO.
+
+**7:31** · THEY'VE BEEN ON THE INCREASE AND PIONEERING NEW HABITATS FOR THE LAST 30 YEARS.
+
+**7:36** · FOR MUCH OF THE 20TH CENTURY, SEEING A MOOSE IN COLORADO WAS RARE. IN THE 1970S, WHAT WAS THEN KNOWN AS THE COLORADO DIVISION OF WILDLIFE STARTED A PROGRAM TO BRING MOOSE INTO THE STATE AND ESTABLISH A BREEDING POPULATION. BEFORE THAT POINT, WITH NO OFFICIAL SYSTEM IN PLACE TO TRACK MOOSE, IT'S UNCLEAR HOW MANY WERE IN COLORADO.
+
+**7:57** · I THINK AND FROM WHAT I GATHER FROM OLD REPORTS AND WHATNOT. THERE IS HISTORICAL RECORD EVIDENCE OF MOOSE IN COLORADO, AND THEY WERE EXTIRPATED LIKE A LOT OF BIG GAME IN THE LATE 1800S. BUT EVERYBODY LOVES MOOSE. AND SO, THERE WAS AN INTEREST IN HAVING MOOSE BROUGHT BACK BOTH FOR THE HUNTING OPPORTUNITY AND FOR THE WILDLIFE VIEWING OPPORTUNITY.
+
+**8:21** · THE FIRST RELOCATION IN 1978 BROUGHT 12 MOOSE FROM UTAH TO NORTH PARK, COLORADO. WHERE AN ABUNDANCE OF WILLOW MADE THE PERFECT HABITAT FOR A BUDDING MOOSE POPULATION.
+
+**8:33** · IN NORTH PARK, THE NATURAL HABITAT UP HERE IS VERY STRONG IN THE NUTRIENTS. I DON'T CARE IF IT'S CATTLE, SHEEP, THEY THRIVE ON IT. WE JUST SIT UP IN THE VERY NORTHWEST CORNER OF COLORADO, AND IT'S JUST A BOWL UP HERE. MOUNTAINS ALL THE WAY AROUND. AND WALDEN IS THE ONLY INCORPORATED TOWN IN THE COUNTY. MY NAME IS TOOTIE CROWNER, AND I'M BORN AND RAISED HERE.
+
+**9:01** · I WAS ELECTED TO MAYOR IN THE 90S, AND I WAS MAYOR TO 95, AND THEN I WAS A COUNTY COMMISSIONER FOR EIGHT YEARS. IN THE BEGINNING, THE TOWN WAS ONE OF THE 10 ENDANGERED TOWNS IN THE UNITED STATES IN THE 95, RIGHT IN THROUGH THERE. AND WE SAID WE NEEDED SOME HELP TO HELP OUR TOWN. AND IF WE WERE GOING TO HAVE THE MOOSE HERE AND IT WAS A TOURIST THING, WE NEEDED TO CAPITALIZE ON IT.
+
+**9:22** · AND SO THEY CHANGED IT TO BE CALLED THE MOOSE VIEWING CAPITAL OF COLORADO. I LIVE RIGHT IN TOWN HERE, A BLOCK FROM THE MAIN STREET HERE. AND WE ALWAYS WOULD SAY, JUST DRIVE AROUND TOWN AND YOU'LL SEE A MOOSE OUT THERE.
+
+**9:40** · STARTING WITH THE FIRST TRANSFER OF MOOSE TO NORTH PARK IN 1978, COLORADO DIVISION OF WILDLIFE BROUGHT IN 215 MOOSE FROM NEIGHBORING STATES OVER THE NEXT SEVERAL DECADES. THE MOOSE THRIVED IN THEIR NEW ENVIRONMENT. TODAY, THE OVERALL MOOSE POPULATION IS ESTIMATED TO BE 3400.
+
+**10:01** · MOOSE HAVE BEEN PIONEERING ON THEIR OWN AND FILLING IN VACANT HABITAT AND EXPANDING BEYOND WHERE WE PUT THEM. WHICH IS OFTEN WHAT HAPPENS WITH REINTRODUCED POPULATIONS, THEY HAVE ABUNDANT FORAGE BECAUSE THAT SPECIES HAS NOT BEEN THERE FOR A LONG TIME. BUT YOU CAN HAVE TOO MUCH OF A GOOD THING. OK, I'M JUST GOING TO WALK OVER HERE. I CAN SEE HER. IT'S AMAZING HOW MUCH THEY DISAPPEAR IN EVEN GRASS LIKE NOT THAT TALL.
+
+**10:31** · YOU KNOW?
+
+**10:32** · ON THE ONE HAND, I LOVE SEEING MOOSE.
+
+**10:34** · THEY'RE SO COOL.
+
+**10:35** · THEY'RE THESE HONESTLY PRETTY ODD-LOOKING ANIMALS. AND THEN ON THE OTHER SIDE, AS AN ECOLOGIST, I KNOW THAT WE HAVE TO SOMETIMES INTERVENE AND BALANCE SPECIES WITH THEIR ENVIRONMENT.
+
+**10:46** · AND SO, WHAT WE'RE TRYING TO PREVENT IS MOOSE POPULATIONS FROM PEAKING, OVER BROWSING SENSITIVE WILLOW AND ASPEN COMMUNITIES AND THEN CRASHING.
+
+**10:55** · AS THE IMPACT OF MOOSE ON THE ENVIRONMENT HAS BECOME MORE EVIDENT, SCIENTISTS AND SOME MEDIA OUTLETS QUESTIONED WHETHER THE SPECIES IS NATIVE AND BELONGS HERE.
+
+**11:05** · THE LAST YEAR OR TWO, THERE WAS A BIG WAVE OF NEWS STORIES ABOUT MOOSE THAT WERE KIND OF CENTERED AROUND THE PREMISE THAT MOOSE HAVE BEEN INTRODUCED TO COLORADO BUT ARE NON-NATIVE, OR SOMETIMES YOU EVEN SEE THE WORD INVASIVE AND I STARTED TO DIG INTO, YOU KNOW, WHAT IS THE SCIENCE BEHIND THIS CONCLUSION?
+
+**11:29** · I'M WILLIAM TAYLOR.
+
+**11:31** · I'M AN ASSISTANT PROFESSOR, A CURATOR OF ARCHAEOLOGY. SO I SPEND A LOT OF MY TIME DIGGING INTO MUSEUM COLLECTIONS ACROSS THE ROCKY MOUNTAIN WEST HERE. SOMEWHERE IN THIS LAB, WE'VE GOT ALMOST EVERY ANIMAL THAT'S LIVED IN COLORADO AT LEAST IN THE LAST 20,000 YEARS. SO, WHAT WE'RE LOOKING AT HERE IS JUST ONE OF OUR MOOSE FROM OUR COLLECTION.
+
+**11:55** · AT CU'S MUSEUM OF NATURAL HISTORY, WILLIAM TAYLOR AND HIS TEAM HAVE BEEN CHALLENGING THIS IDEA THAT MOOSE ARE NOT NATIVE TO COLORADO. THEY'VE BEEN DIGGING THROUGH WRITTEN ARCHIVES, MUSEUM COLLECTIONS, AND ARCHAEOLOGICAL RECORDS TO LEARN MORE ABOUT THE HISTORY OF MOOSE IN THE STATE.
+
+**12:12** · IT'S THAT ONE, SO THERE'S, UH, YEAH, SOME GRAND COUNTY MOOSE. IT'S THE ONE THAT SAYS 6745 ON IT. SO WE'RE SITTING HERE IN THE MAMMAL'S COLLECTION OF THE DENVER MUSEUM OF NATURE AND SCIENCE AND WE'RE LOOKING HERE AT THE PARTIAL PELT HERE OF A MOOSE THAT WAS HARVESTED IN THE ROCKY MOUNTAINS NEAR GRAND LAKE IN THE STATE OF COLORADO. SO HERE YOU CAN SEE THE TAG, THE FIELD NUMBER, THE DATE OF COLLECTION HERE IN 1944.
+
+**12:41** · SO, THIS IS JUST A NICE VISUAL REPRESENTATION OF THE PRESENCE OF MOOSE IN THE MID 20TH CENTURY. SO, THE FIRST TAKEAWAY FROM OUR MOOSE RESEARCH, PRETTY MUCH FROM THE BEGINNING OF ACCESSIBLE RECORD KEEPING IN THE STATE OF THE COLORADO. THERE IS A CONTINUOUS AND PERSISTENT RECORD OF MOOSE.
+
+**13:01** · SO, WHO'S TO SAY MOOSE WERE NOT HERE BEFORE?
+
+**13:06** · I MEAN, THE PROBABILITY OF THEM BEING AROUND IN COLORADO IS PRETTY GOOD. YOU KNOW, THERE COULD BE A TIME WHEN MOOSE WERE HERE, AND THEN THEY LEFT AGAIN, AND THEN THEY CAME BACK.
+
+**13:20** · SO, WHO'S TO SAY THAT'S NOT HAPPENING?
+
+**13:23** · CRYSTAL C'BEARING IS THE TRIBAL HISTORIC PRESERVATION OFFICER FOR THE NORTHERN ARAPAHO TRIBE. AND WORKED WITH WILLIAM TAYLOR ON HIS STUDY ABOUT THE HISTORY OF MOOSE IN THE SOUTHERN ROCKIES.
+
+**13:35** · FOR THE MOOSE, YOU KNOW, THEY WERE THOUGHT AS IN ARAPAHO HINENIHII. IT'S LIKE, HE'S LIKE A BIG MAN. HE LOOKED LIKE A BIG MAN. YOU KNOW, MOOSE ARE SO HUGE AND THEY PROVIDE A LOT OF MEAT. (MUSIC PLAYING) IT WAS ANOTHER SOURCE OF RESOURCES FOR US AS A FOOD SOURCE, AS CLOTHING, AS MAKING ITEMS, MATERIALS. WHEN YOU THINK ABOUT TRIBES, WE WERE A NATURAL PREDATOR AS WELL.
+
+**14:08** · AND SO, WE HUNTED THEM AND WE KEPT THEM AT CONTROLLED WHEN WE WERE THERE.
+
+**14:15** · YOU KNOW, WITHOUT HUNTING IN COLORADO, THE ANIMALS WOULD BECOME OVERPOPULATED OVER TIME FOR THE AMOUNT OF HABITAT WE HAVE LEFT. SO, THERE ARE AREAS THAT, YOU KNOW, JUST CANNOT SUSTAIN THE WILDLIFE UNCHECKED.
+
+**14:30** · SCOTT LIMMER RUNS COMANCHE WILDERNESS OUTFITTERS BASED IN NORTHERN COLORADO. THIS IS HIS 36TH SEASON AS A BIG GAME HUNTING GUIDE. HE PROVIDES FOOD, CAMPING GEAR, HORSES, AND DECADES OF INSIGHT TO HUNTERS WHO DRAW LICENSES FOR A VARIETY OF BIG GAME ANIMALS, INCLUDING MOOSE.
+
+**14:50** · OH,THERE'S ONE, I THINK.
+
+**14:56** · OH, THERE HE IS. HE JUST WENT UP THROUGH THAT OTHER MEADOW. WHAT WE WOULD SAY IS A RECORD BOOK QUALITY TYPE BULL THERE. YOU KNOW, EVERY AREA IS A LITTLE DIFFERENT HOW YOU DO THE HUNT AND HOW MANY MOOSE THERE ARE IN THE AREA. SO AS THE MOOSE PIONEER OUT AND BECOME MORE POPULATED IN NEW AREAS, THEN THE STATE WILL START A SEASON IN THOSE AREAS TOO.
+
+**15:17** · BIG GAME HUNTING IS HIGHLY REGULATED IN COLORADO AND THROUGHOUT THE WEST. AND THE ONLY THING THAT'S KEEPING THEM FROM OVERPOPULATING. IS OUR FEMALE HARVEST. AND WE'VE INCREASED OUR COW MOOSE HUNTING LICENSES FOURFOLD IN THE LAST 13 YEARS.
+
+**15:35** · TO REGULATE HUNTING, CPW DIVIDED THE STATE INTO GAME MANAGEMENT UNITS, OR GMUS. OF COLORADO'S 185 GMUS, 74 ARE OPEN TO MOOSE HUNTING, WITH A LIMITED NUMBER OF LICENSES ALLOTTED TO EACH UNIT. BASED ON MOOSE POPULATION AND STATUS OF THE HABITAT IN THAT AREA. CPW ISSUES TAGS THROUGH A LOTTERY SYSTEM, SO IT'S THE LUCK OF THE DRAW.
+
+**15:59** · FOR 2026, WE HAD 761 MOOSE LICENSES AND 66,000 APPLICANTS FOR THOSE 761 LICENSES. IT'S ESSENTIALLY THE POWER BALL OF BIG GAME HUNTING. PEOPLE GO THEIR WHOLE LIVES LITERALLY WITHOUT EVER DRAWING. -GIANT BULL I'VE BEEN PUTTING IN SINCE THEY OFFERED THE LICENSES THE FIRST YEAR, ALMOST 30 YEARS AGO.
+
+**16:21** · I'VE NEVER DRAWN.
+
+**16:23** · YOU KNOW, IT'S VERY TOUGH TO GET. THERE'S THOUSANDS OF PEOPLE APPLYING FOR THOSE TAGS.
+
+**16:27** · YOU SEE THAT ROCK?
+
+**16:28** · HE WAS RIGHT BELOW THAT ONE.
+
+**16:33** · ALL OF OUR BIG GAME MANAGEMENT IS BASED ON HERD MANAGEMENT PLANS FOR EACH LOCAL INDIVIDUAL HERD. THOSE HERD MANAGEMENT PLANS HAVE BOTH BIOLOGICAL AND SOCIAL FACTORS TO CONSIDER. IN ADDITION TO NOT OVER BROWSING THE HABITAT, THEY ALSO HAVE A CONFLICT COMPONENT WITH MOOSE.
+
+**16:50** · AS COLORADO'S MOOSE POPULATION HAS INCREASED, MORE PEOPLE HAVE MOVED INTO THE STATE, LEADING TO MORE CONFLICTS WITH THE ANIMAL. (MUSIC PLAYING) HERE HE COMES, GET AWAY! [SCREAMING] THE PERSONALITY OF A MOOSE IS DECEIVING, I THINK. THEY LOOK DOCILE, BUT DON'T LET THAT FOOL YOU. THAT'S JUST HOW THEY DEAL WITH THREATS. (MUSIC PLAYING) THEIR PREDATOR AVOIDANCE STRATEGY IS USUALLY TO STAND THEIR GROUND AND USE THEIR FRONT HOOVES TO STOMP WHATEVER IS COMING THEIR WAY.
+
+**17:27** · AND SO, THEY'RE THE MOST DANGEROUS ANIMAL IN COLORADO.
+
+**17:31** · SINCE 2019, MOOSE HAVE ATTACKED AND HURT AT LEAST 31 PEOPLE IN COLORADO. THAT'S ABOUT THE SAME NUMBER OF MOUNTAIN LION AND BEAR ATTACKS COMBINED IN THE SAME TIME PERIOD. AND THAT'S ONLY WHAT HAS BEEN REPORTED TO CPW, LIKE THE ATTACK CHRIS RAY SURVIVED IN 2023.
+
+**17:49** · IT WAS SEPTEMBER OF 2023.
+
+**17:52** · MY DOG AND I WERE ON A HIKE IN THE MORNING UP A TRAIL RIGHT NEAR MY HOUSE.
+
+**17:57** · -COME, NALA.
+
+**17:58** · I WOULD FILL A BIG CONTAINER OF WATER, PUT IT IN MY BACKPACK. THAT BOTTLE OF WATER IN THAT BACKPACK DEFINITELY SAVED ME. WE DO THAT TRAIL EVERY MORNING OR WE USED TO. SO, THIS DAY I HEARD AN ANIMAL CROSSING THE CREEK AND I TURNED AROUND AND IT WAS A MOOSE AND IT WAS IN FULL CHARGE COMING UP THE TRAIL BEHIND US. THIS IS THE SPOT. SHE WAS COMING FROM THERE.
+
+**18:28** · YOU KNOW, SHE WAS MAYBE 30 FEET AWAY WHEN I SAW HER. AND I WENT ‘NO!■ AND I WENT LIKE THIS TOOK A COUPLE STEPS AND WENT OVER THAT BARBED WIRE. I THOUGHT, WELL, SHE'S GOING TO BE ON ME. AND SURE ENOUGH, SHE HIT ME, ALL FOUR HOOVES RIGHT ON MY BACK. AND I THOUGHT AT THAT MOMENT, WELL, MAYBE I'M A GONER.
+
+**18:53** · AND AS I LIFTED MY HEAD UP, I COULD SEE SHE WAS WHEELING AROUND TO COME BACK. AND I PUT MY HAND OVER MY HEAD BECAUSE I WASN'T THERE YET. AND SHE GOT MY ARM THAT TIME AND MY LEG. AND SO, I THOUGHT, I HAVE TO GET OUT OF HERE. I HAVE TO GET SOMETHING. AND I COULD BARELY MOVE. BUT I GOT MYSELF BEHIND THAT TREE SOMEHOW.
+
+**19:11** · WHEN SHE LEFT, SHE WENT THAT WAY AND BACK ACROSS THE CREEK. I COULD HEAR HER SPLASHING ACROSS. AND THEN LUCKILY, SHE NEVER CAME BACK. SHE ENDED UP BREAKING MY BACK IN THREE PLACES, BROKE A RIB, AND BROKE MY STERNUM, EVEN THOUGH THAT WAS FACE DOWN ON THE GROUND. I WAS JUST SO INCREDIBLY LUCKY, JUST LUCKY THAT I WAS CARRYING THAT WATER.
+
+**19:33** · THAT'S THE KEY.
+
+**19:38** · A COW MOOSE WITH A CALF IS FOR SURE THE MOST DANGEROUS ANIMAL WE HAVE IN COLORADO. AND PEOPLE NEED TO KEEP THEIR DISTANCE AND KEEP THEIR DOGS ON A LEASH, OR THE MOOSE WILL SEE THE DOG AS A THREAT TO ITS CALF.
+
+**19:55** · I'M DEFINITELY AFRAID NOW, AND I TAKE PRECAUTIONS. I STILL CARRY BEAR SPRAY AND A HORN BUT I DON'T HAVE ANY GRUDGE AGAINST MOOSE AND THEY'RE AMAZING CREATURES SO MUCH MORE CAPABLE THAN I AM. I HAVE TO HAVE GREAT RESPECT FOR THEM.
+
+**20:11** · AS MOOSE POPULATION INCREASES AS ITS HUMAN POPULATION INCREASES AND AS WE ARE ALL ENJOYING THE OUTDOORS MORE. ALL OF THOSE ARE LEADING TO PROBABLY MORE ENCOUNTERS AND CONFLICTS. I HOPE THAT WE CAN CONTINUE TO MANAGE MOOSE AT AN APPROPRIATE LEVEL WHICH IS THE HARD, GETTING THAT NUMBER IS THE HARD PART.
+
+**20:30** · MANAGING MOOSE IS A CHALLENGE ACROSS THE STATE, BUT IT CAN BE ESPECIALLY DIFFICULT WITHIN THE BORDERS OF ROCKY MOUNTAIN NATIONAL PARK, WHERE HUNTING IS PROHIBITED BY FEDERAL LAW.
+
+**20:41** · FOR MOOSE IN ROCKY MOUNTAIN NATIONAL PARK, THE POPULATION HAS CLIMBED TO A HIGHER-THAN-NORMAL LEVEL. AND THE BIGGEST REASON FOR THAT IS BECAUSE WE DON'T HAVE SOME OF THE APEX PREDATORS THAT TYPICALLY MANAGE UNGULATE POPULATIONS. SO, THE KEY THING HERE IS THAT WE HAVEN'T HAD WOLVES AND WE HAVEN'T HAD GRIZZLY BEARS. AND WITHOUT THOSE TWO NATURAL PREDATORS, WE HAVEN'T HAD REGULATION OF THE POPULATION.
+
+**21:05** · ONE PART THAT I THINK ABOUT IN TERMS OF MOOSE MANAGEMENT IS ROCKY MOUNTAIN NATIONAL PARK SHOULD BE WORKING WITH TRIBES ON HELPING CONTROL THIS MOOSE POPULATION. C'BEARING BELIEVES THERE COULD BE A SOLUTION TO THE OVERPOPULATION OF MOOSE IN ROCKY MOUNTAIN NATIONAL PARK. SHE THINKS AN AGREEMENT COULD BE REACHED BETWEEN TWO GOVERNMENTS, NORTHERN ARAPAHO AND THE UNITED STATES, TO ALLOW TRIBAL HUNTING ON NATIONAL PARK LAND.
+
+**21:33** · THERE'S SO MANY THINGS THAT YOU CAN UTILIZE, JUST LIKE THE BUFFALO. YOU KNOW, EVERY PART OF THE BUFFALO WAS USED, BUT EVERY PART OF THE MOOSE, YOU KNOW, AND REGARDLESS OF WHAT ANIMAL IT IS TOO.
+
+**21:43** · WHY CAN'T THEY LET TRIBES EXERCISE THEIR TREATY RIGHTS TO HARVEST THOSE MOOSE?
+
+**21:49** · THE MOST OBVIOUS SORT OF PREDATOR HERE THAT HAS BEEN REMOVED FROM THE EQUATION IS PEOPLE. AND I THINK ROCKY MOUNTAIN HAS SOME CHOICES TO MAKE ABOUT HOW THEY NAVIGATE MOOSE.
+
+**22:02** · IN JUNE 2026, THE JOURNAL OF BIOGEOGRAPHY PUBLISHED WILLIAM TAYLOR'S PEER-REVIEWED STUDY ABOUT THE HISTORY OF MOOSE IN THE SOUTHERN ROCKIES. THE STUDY DETERMINED THAT MOOSE HAVE BEEN PRESENT IN COLORADO FOR THOUSANDS OF YEARS. AND THAT IT'S SCIENTIFICALLY INACCURATE TO FRAME MOOSE AS NON-NATIVE. THE NATIONAL PARK SERVICE DISAGREES WITH TAYLOR'S CONCLUSION.
+
+**22:27** · ONE THING THAT THE PARK HAS BEEN REALLY CONSISTENT ON IS SAYING, WE KNOW THERE'S BEEN MOOSE RARELY IN COLORADO. BUT WE DON'T THINK THERE'S ANY EVIDENCE OF A SUSTAINED BREEDING POPULATION. AND EVEN WITH NEW INFORMATION THAT'S BEEN GATHERED, NATIVITY ALONE ISN'T A VERY IMPORTANT FACTOR FOR OUR MANAGEMENT.
+
+**22:45** · FOR MOOSE, I THINK IT'S PRETTY CLEAR THAT WHETHER THEY WERE LABELED NATIVE OR NON-NATIVE, WE WOULD STILL BE WRITING A MANAGEMENT PLAN FOR THEM BECAUSE WE SEE THEM HAVING A MAJOR ECOLOGICAL EFFECT.
+
+**22:56** · THE REASON THAT I'VE ENTERED THIS DISCUSSION IS NOT BECAUSE IT'S IMPORTANT TO GET THE ACADEMIC NUANCES JUST RIGHT.
+
+**23:03** · IT'S THAT THAT LANGUAGE ENTERING THE MEDIA LANDSCAPE GIVES ME A LOT OF EXTRAORDINARY CONCERNS THAT YOU CAN DO EXTREME-- SORT OF NO-HOLDS-BARRED MANAGEMENT CHOICES, RIGHT?
+
+**23:16** · AS PART OF TAYLOR'S STUDY, HE POINTS TO INSTANCES WHERE THE NATIONAL PARK SERVICE HAS REMOVED ANIMALS, THEY'VE LABELED AS INVASIVE IN AN EFFORT TO PROTECT THE ECOSYSTEM. WHILE ROCKY MOUNTAIN NATIONAL PARK SAYS THEY ARE WORKING ON A MOOSE MANAGEMENT PLAN, THEY AREN'T READY TO RELEASE DETAILS.
+
+**23:34** · IN A LOT OF OTHER PLACES THAT HAVE TACKLED THIS ISSUE, PEOPLE TURN TO THE SAME TOOLS. SO FENCING IS A COMMON TOOL. REPRODUCTIVE CONTROL IS A COMMON TOOL. CULLING IS USED IN SOME PLACES. THOSE ARE THE COMMON TOOLS THAT WE SEE TIME AND AGAIN.
+
+**23:49** · BUT WE WANT TO MAKE SURE THAT ALL THE MANAGEMENT ACTIONS THAT WE TAKE IN THE PARK ARE ON A REALLY STRONG SCIENTIFIC FOOTING BECAUSE THIS ISN'T SOMETHING THAT WE'LL DO FOR ONE OR TWO YEARS. THIS COULD BE SOMETHING INFLUENCES THE PARK FOR DECADES TO COME.
+
+**24:04** · THIS IS ONE OF THE LAST FEW PLACES WHERE WILDLIFE AND NATURAL PROCESSES CAN OCCUR. AND SO, IT'S IRRELEVANT THAT IF THERE WERE 1 OR 100 MOOSE HERE 500 YEARS AGO OR SOMETHING IN THE VALLEY, LIKE THE WAY THINGS ARE FUNCTIONING, WE'RE LOSING ECOSYSTEM SERVICES AND CHARACTERISTICS THAT MIGHT TAKE DECADES TO RECOVER IF THEY CAN BE RECOVERED.
+
+**24:27** · WE DEFINITELY WANT TO PROTECT SENSITIVE ASPEN AND WILLOW COMMUNITIES FROM OVERBROWSING OF MOOSE AND ELK BECAUSE IT CAN TAKE DECADES FOR OVERBROWSED HABITAT. IT CAN TAKE 30, 40 YEARS TO RECOVER.
+
+**24:42** · WE'RE VERY PLEASED BY THE EARLY OUTCOMES OF THIS PROJECT. YOU'LL EVEN BE ABLE TO SEE SOME OF OUR WILLOW PLANTINGS PRODUCING NEW LEAVES. SO, IT'S NICE WHEN YOU SEE THE POSITIVE OUTCOME AFTER MANY YEARS.
+
+**24:54** · ESPECIALLY WITH LARGE CHARISMATIC ANIMALS, IT'S MOSTLY WORKING WITH PEOPLE. BECAUSE PEOPLE ARE PASSIONATE ABOUT ANIMALS AND IT'S MEANINGFUL FOR PEOPLE TO KEEP THESE ANIMALS ON THE LANDSCAPE, KEEP THEIR POPULATIONS HEALTHY.
+
+**25:07** · THERE'S A LOT OF SOCIAL ASPECTS OF WILDLIFE MANAGEMENT, OF WHO WE'RE MANAGING FOR AND WHY, AND EVERYBODY HAS AN OPINION ON WILDLIFE MANAGEMENT. I MEAN, WE'RE ALL SCIENTISTS AND WE BASE A LOT OF OUR DECISIONS ON DATA. BUT A BIG COMPONENT OF THOSE DECISIONS IS THE HUMAN ELEMENT.
+
+**25:27** · I THINK THE HOPE FOR THE FUTURE OF MOOSE IS THEY'RE ALLOWED TO THRIVE AND NOT COMPETE. AND SO, TRYING TO FIND A GOOD SOLUTION, BRAINSTORMING AND REALLY FIGURING OUT WHAT'S THE BEST SOLUTION HERE FOR EVERYBODY.
+
+**25:45** · OUR CLIMATE AROUND US IS CHANGING. IN 2026, OUR CLIMATE IS DIFFERENT THAN IT'S GOING TO BE IN 2036. AND MOOSE ARE ADAPTING AND RESPONDING TO THOSE CHANGES. SO LIKE EVERYONE ELSE, I'M WATCHING WITH CURIOSITY AND HOPE THAT A THOUGHTFUL AND SUSTAINABLE SET OF CHOICES WILL BE MADE HERE. (MUSIC PLAYING)

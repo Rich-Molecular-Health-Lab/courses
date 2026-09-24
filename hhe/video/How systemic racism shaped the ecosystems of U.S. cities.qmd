@@ -1,0 +1,151 @@
+---
+title: "How systemic racism shaped the ecosystems of U.S. cities"
+profile:
+  - "video"
+  - "hhe"
+categories:
+  - "video"
+  - "ENVN4320"
+---
+
+**Science Magazine**, *10 09, 2020*
+
+## Video (4:08)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/_KfklILeNZg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Historically Black and immigrant communities are more vulnerable to environmental stressors
+
+Read the research: https://scim.ag/3nzjnQE
+
+Credits
+
+producer
+
+Meagan Cantwell
+
+supervising producer
+
+Joel Goldberd
+
+research
+
+Schell  et al., Science 2020
+
+DOI: 10.1126/science.aay4497
+
+special thanks
+
+Elizabeth Pennisi
+
+Pratheek Rebala
+
+Sacha Vigneri
+
+video footage
+
+Meagan Cantwell
+
+Pond5
+
+Videoblocks
+
+Videvo
+
+archival footage
+
+Dynamic Films
+
+Encyclopedia Britannica Films
+
+FDR Presidential Library
+
+Prelinger Archives
+
+photos
+
+Library of Congress
+
+Ted Etyan/Flickr
+
+Will Parson/Chesapeake Bay Program
+
+Enoch Pratt Free Library/Maryland's State Library Resource Center
+
+illustrations
+
+British Library/Flickr
+
+maps/data
+
+Google
+
+Howard Center for Investigative Journalism/CNS/NPR
+
+Johns Hopkins University
+
+Library of Congress
+
+Meagan Cantwell
+
+Portland State/SUPR Lab
+
+Robert K. Nelson et al., 2020 "Mapping Inequality"
+
+music
+
+"Vultures" by Chris Burns
+
+## Transcript
+
+**0:01** · The urban environment is a feat of human decision-making— from where to develop street grids lined with large glass office buildings, to which green spaces to preserve for outdoor recreation.
+
+**0:13** · How humans make these choices, and the natural environment’s response, can create extremely different ecosystems in neighborhoods just a few blocks away from each other.
+
+**0:23** · Researchers delved into dozens of studies to understand what drives these variations.
+
+**0:29** · One well documented phenomenon in cities is the relationship between wealth and biodiversity.
+
+**0:35** · More affluent areas generally have greater canopy cover, with larger, mature trees, as well as a higher diversity of birds.
+
+**0:45** · This is known as the “luxury effect.”
+
+**0:48** · Low-income areas typically have more man-made surfaces— including major heat-absorbers like asphalt and concrete, compared to higher-income areas.
+
+**0:59** · The lack of shade from trees and vegetation, combined with more asphalt and concrete, makes it hotter in these neighborhoods— a phenomenon known as an “urban heat island.”
+
+**1:10** · These communities are also more likely to be near sources of air pollutants, like expansive interstates pumping car exhaust.
+
+**1:19** · Although wealth can sometimes predict the outcomes of an urban ecosystem, there isn’t always a clear relationship.
+
+**1:26** · In some cases, the racial make-up of a neighborhood is better than income when forecasting canopy cover.
+
+**1:33** · Researchers explored studies that highlight how systemic racism shaped our build environment.
+
+**1:39** · One glaring example in the United States is residential segregation.
+
+**1:44** · From 1933-1968, the federal government limited access to homeownership among Black Americans through a practice known as redlining.
+
+**1:55** · Neighborhoods were graded based on the riskiness of providing a mortgage in the area.
+
+**2:00** · The grades ranged from A, the most desirable areas, full of wealthy businessmen, to D, neighborhoods considered high-risk investments due to a combination of factors: from their environmental quality and distance from large industrial factories to the main determinant, the presence of foreign-born and Black people.
+
+**2:22** · The inability for Black people to buy homes in these neighborhoods meant many types of capital investments left— landlords abandoned their properties, and public services, such as transportation and park maintenance, weren’t prioritized.
+
+**2:36** · Today, many U.S. cities still exhibit long-lasting environmental impacts from this discrimination.
+
+**2:42** · Neighborhoods which had a “D” grade in the 60s have about half the canopy cover of historically white communities.
+
+**2:50** · Some studies evaluate how the current environment relates to historically redlined communities, but researchers did not find any research that traces how ecosystems changed over time because of this segregation.
+
+**3:03** · They propose that because habitable regions are more spread out in these areas, animal populations struggle to breed since they are cut off from each other.
+
+**3:14** · The reduced breeding options for animals could have decreased gene diversity, an important way for animals to adapt to changing environments.
+
+**3:23** · And decreased gene flow of native species could promote the abundance of pest species, like mosquitos and brown rats, which carry diseases that can infect humans.
+
+**3:34** · The combination of all these outcomes— from urban heat islands to increased pests— make low-income, marginalized communities far more vulnerable to risks like climate change.
+
+**3:47** · Scientists say such evidence shows that conservation and social justice cross paths— especially along neighborhood streets.

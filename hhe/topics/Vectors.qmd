@@ -1,6 +1,6 @@
 ---
 title: "Vectors"
-date: "2026-08-29"
+date: "2026-11-12T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,5 +13,1764 @@ listing:
   contents: "Vectors_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-11-12T16:00:00, 2026-11-17T16:00:00, 2026-11-19T16:00:00
+
+## Assigned Background
+
+### Our tick nightmare
+
+![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Today, Explained
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4vRcV7xGs5aSMJWLKxJrUL)
+
+[Open Series in Spotify](https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A)
+
+Ticks are exponentially expanding their territory, using us for their next blood meal. We must fight back.  This episode was produced by Danielle Hewitt, edited by Amina Al-Sadi, fact-checked by Gabriel Dunatov, engineered by Patrick Boyd, and hosted by Sean Rameswaram.   The common wood tick, which can transmit Borrelia and TBE viruses to humans and animals. Photo by Patrick Pleul/dpa/Getty Images.  Listen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. Transcript at ⁠vox.com/today-explained-podcast.⁠  Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+## Transcript
+
+**SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
+
+  
+
+<SFX> Mosquito
+
+  
+
+SEAN: We bleed. We scratch. We kill. We complain. But in the end, we laugh it off and we head towards winter.
+
+  
+
+<SFX> Mosquito dies
+
+  
+
+SEAN: But ticks are a much more serious concern.
+
+  
+
+SCORING IN – IMPENDING GLOOM - BMC (lol)
+
+  
+
+SEAN: Lemme just remind you how many tick-bourne diseases there are? 
+
+  
+
+Lyme, you know. Shoutouts Connecticut. Then there’s Alpha-gal syndrome, which can make you allergic to red meat for the rest of your life. Also dairy. 
+
+  
+
+But there’s so much more! Should we go alphabetical? And I apologies in advance for my pronunciation here:  
+  
+<SFX> CASSETTE TAPE  
+  
+SEAN: Anaplasmosis, Babesiosis, Bourbon virus, Colorado tick fever, Ehrlichiosis, hard tick relapsing fever, Heartland virus, Powassan virus, Rickettsia parkeri rickettsiosis, Rocky Mountain spotted fever, Soft tick relapsing fever, STARI, Tularemia, 364D rickettsiosis.
+
+  
+
+<SFX> CASSETTE TAPE
+
+  
+SEAN: Symptoms of all these range from nausea, vomiting and bleeding to seizures, organ failure, facial paralysis, and of course, our old friend, death. 
+
+  
+
+And for those of you who are like NBD – that’s just a Northeast thing. Well, not anymore!  
+  
+Our national tick nightmare, on Today, Explained from Vox.  
+  
+
+[THEME]
+
+  
+
+SEAN: Sean Rameswaram. Today, Explained covered ticks and Lyme disease on the show way back in 2018 when the word on the trail was this was getting much worse. We asked science writer Jonathan Mingle, who recently wrote about ticks for the New York Times newspaper, how much worse this has gotten since then.
+
+  
+
+JONATHAN MINGLE (science journalist): You know some experts I talk to use the word exponential. 
+
+  
+
+SCORING IN - Discretion
+
+  
+
+JONATHAN: So what's happening is that some of these tick species are spreading into areas where people aren't familiar with them, doctors aren't familiar with them. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=Bjj3Ps0dYNQ)> YOUTUBE CBS BOSTON
+
+In the last 15 years, the Lonestar tick has gone from non-existent on the island to fully abundant and everywhere.
+
+<[CLIP](https://www.youtube.com/watch?v=UBFko7DWNRU)> YOUTUBE NBC NEWS 
+
+The tick is present in at least 21 states and is rapidly spreading across the eastern US.
+
+<[CLIP](https://www.youtube.com/watch?v=UwXG_4xycuY)> YOUTUBE CBS MORNINGS
+
+Emergency room visits for bites are the highest in nearly a decade as ticks spread into new parts of the country. 
+
+  
+
+JONATHAN: Thanks to warmer winters, climate change. Ticks are expanding their hunting season. You may have a day that's like 40 degrees in January, ticks are out looking for you, waiting for you to walk by and grab on and grab a meal. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=A-ate5me7PA)> YOUTUBE NBC 10 
+
+A newborn baby is suspected of contracting a rare tick borne virus. It's called Powassan virus.
+
+<[CLIP](https://www.youtube.com/watch?v=5RAlhJC61LA)> YOUTUBE NBC 10 
+
+Lyme's disease has been an ongoing fight on this island. I've had it.
+
+<[CLIP](https://www.youtube.com/watch?v=piokYttuSf8)> YOUTUBE 6 ABC
+
+This morning, a New Jersey man is the first known person to die after a tick bite triggered a severe meat allergy.
+
+  
+
+JONATHAN: So in 2024 a pilot named Brian Weitzel, father of three in northern New Jersey, he had a hamburger, at a barbecue, went home to mow his lawn, and a few hours later was unresponsive on the floor and he died that night. And his family, you know, was left in shock, of course, you know, trying to figure out why he had died. And it turned out that he had likely been bitten by the lone star tick, and had developed an allergy to red meat. And so this is referred to as Alpha-gal syndrome. And Alpha-gal syndrome is just the latest entrant into the files of all the many ways in which tick bites can make us sick. and the most familiar one, of course, is Lyme disease. Each year about half a million people are treated for Lyme disease. It's the fastest growing vector-borne disease in the US. cases have more than doubled over the past decade. And those cases are mostly as a result of getting bitten by the black legged tick or the deer tick. And the thing is both of these ticks and many other ticks that are also marching northward and westward and just, you know, expanding their empires rapidly across North America, they can deliver all kinds of pathogens.
+
+  
+
+SCORING OUT  
+  
+
+JONATHAN: They're claiming more and more of the map and they're claiming more and more of our psychic map right? It's like one of the results of reporting this piece is that I now have phantom tick crawling sensations at all hours of the day. 
+
+  
+
+SEAN: Oh, man. 
+
+  
+
+JONATHAN:I tell people I'm not a tick expert, although I talked to a bunch of them for this story, but I've become a tick expert in the sense that I am very familiar with tick paranoia and how it can keep you from venturing out into the places you love you know, hiking paths or picnic grounds or parks. And so that was part of the story I wanted to write about, too, is: Why are we letting the ticks keep us, if not out of these places that we need and love, why aren't we fighting back?
+
+  
+
+SEAN: And why is it? Are we not fighting back against the ticks?
+
+  
+
+JONATHAN: Not really. I mean, this is one of the surprising takeaways from my reporting is that we're barely even trying. And one way of understanding that, you could think about two numbers. So one number is 90%. 90% of vector-borne disease cases in the US are from ticks, right?
+
+  
+
+SEAN: 90%?
+
+  
+
+JONATHAN: Yeah. And yet despite the fact that 90% of cases of vector-borne illness come from tick bites, if you look at what local city, county health agencies do in terms of vector control, 80% of what they do is mosquito control and about 10 or 11% of these local health agencies around the country do any kind of tick control. So why is that? It's a familiar story in the public health world. It's not enough funding or policy support for trying out, testing, deploying new approaches to controlling ticks.
+
+  
+
+SEAN: Even though people are dying?
+
+  
+
+JONATHAN: We're just kind of taking for granted that, ‘Oh, well, what can you do? You just tuck your pants in and spray some insecticide on your boots and that's all you can do.’ It's like, well, actually we have a long history of going to war <chuckles> with mosquitoes. 
+
+  
+
+SEAN: Mm!
+
+  
+
+JONATHAN: Before there was tick control, there was mosquito control. And the CDC was founded with the sole mandate in 1946 of wiping out malaria and fighting mosquitoes. 
+
+  
+
+<[CLIP](https://www.c-span.org/program/american-history-tv/the-fight-against-the-communicable-diseases/545719)> C-SPAN THE FIGHT AGAINST COMMUNICABLE DISEASES
+
+Scientific information on the subject is discussed and analyzed. Decisions are made and one of these is to design more effective equipment to combat the dreaded mosquito. 
+
+  
+
+SEAN: I did not know that.
+
+  
+
+JONATHAN: Yeah, I didn't know it either.
+
+  
+
+SEAN: It feels like they lost that fight because in my neighborhood …  
+  
+JONATHAN: Yeah.  
+  
+SEAN: … you can't go out between the hours of seven and nine o'clock.
+
+  
+
+JONATHAN: Yeah. The mosquitoes haven't gone away, but malaria did for the most part. You know, in talking to experts today, they told me that, including folks at the CDC, there's a suite of tools we could be using if we wanted to get serious about fighting ticks. As one veteran tick expert at the CDC told me, if you want to make a dent in this problem, you have to get to the deer. So the deer are the engine driving a lot of these tick species spread.  
+  
+SEAN: Mm.  
+  
+JONATHAN: And we just have way more deer than we did decades ago, especially in the Eastern US and suburban parts of America. So how do you get to the deer? I had people in the comments section of my piece saying the clear answer is just we should all be hunting deer.  
+  
+SEAN: Mm-hm.  
+  
+JONATHAN: But in talking to the experts, they'll tell you it's not really a feasible solution. You would have to knock deer populations way down to make a dent in the tick populations. What is more promising is kind of a combined approach of stuff like vaccines. There are people developing vaccines that you could deliver to deer or to rodents, which are another important host for these ticks so that when the tick bites them, they'll die. That I learned from talking to folks who do this kind of research for a living is a more promising avenue for controlling ticks than all of us picking up crossbows and becoming deer hunters.
+
+  
+
+SFX <crossbow>
+
+  
+
+JONATHAN: You know, what I heard from experts is that we're not even funding this research in a serious way. We do this stuff for mosquitoes. People don't realize it, but your local county health agency, they go out and they find where the mosquito breeding grounds are and stagnant pools the water and they treat it. And it takes this sustained quiet effort. It's like we saw the consequences of not doing that recently. This is a bit tangential, but screwworm. You know, screwworm was this flesh eating larval pest that devastates cattle herds. And it was eradicated in the US in 1966 and it was kept at bay by the vigilance of people at USDA and USAID who ran these programs to release millions of sterile screwworm males out of airplanes. And it created this wall that kept it from coming into Southern US and now they're here.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=KESLiqJaXEU)> YOUTUBE CBS LA
+
+But since the beginning of June, at least a dozen animal infections have been confirmed in Texas and New Mexico, putting California and the rest of the nation on alert.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=QymPQDht3IM)> YOUTUBE MS NOW
+
+His Department of Government Efficiency run by Elon Musk decided to cut the funding that was specifically dedicated to monitoring and containing the screw worm in Central America.  
+  
+<CLIP> ELON MUSK: Chainsaw!
+
+  
+
+JONATHAN: And probably if we stopped doing the mosquito control at a local scale, we'd see more cases of dengue fever, West Nile virus, all these other rare but serious illnesses that climate change is making more of a threat here in the US.
+
+  
+
+SCORING IN  
+  
+SEAN: Jonathan Mingle wrote “We're Living in a Tick Nightmare. It's Time to Go to War.” for the New York Times.
+
+  
+The guy with the power to go to war is named Robert F. Kennedy Jr. And one of the kinda curious things about him is he’s kinda obsessed with Lyme disease. 
+
+  
+
+More on that mmm puzzle? When Today, Explained continues. 
+
+  
+
+[BREAK]
+
+  
+
+<BUMPER> KE$HA: Tik! Tik! Tik! Tik!  
+
+AVISHAY ARTSY (producer): Today, Explained.  
+  
+
+MEG TIRRELL: Hi, I'm Meg Tirrell. I am a medical correspondent at CNN.
+
+  
+
+SEAN: Okay, we just spent half the show talking about Lyme disease and how the government's not doing enough to combat it, but earlier this year, our Health and Human Services Secretary, Robert F. Kennedy the Second…
+
+  
+
+MEG: <chuckles>
+
+  
+
+SEAN: …pledged to fight Lyme disease. What is RFK Junior's relationship to Lyme?
+
+  
+
+MEG: Oh wow, RFK Jr.'s Lyme story goes way back
+
+  
+
+SEAN: Woah!
+
+  
+
+SCORING IN - On a Straight Down Train Car
+
+  
+
+MEG: Well, I mean, it's a really RFK Jr-y kind of disease because he's a falconer. He talks a lot about his work with birds of prey. He goes into the woods a lot, he posts lots of photos of himself in nature. And when you start to pay attention to RFK Jr. And Lyme disease, which I have been doing, he starts to tell the same story a few times.  
+  
+SEAN: Huh.  
+  
+MEG: It involves him in a bathtub in the 1980s…
+
+  
+
+<[CLIP](https://www.instagram.com/reel/DSVS390iazq/)> INSTAGRAM – SECRETARY ROBERT F KENNEDY: I remember one day in 1987 when I stood in my bathtub and picked 29 ticks off myself. 
+
+  
+
+MEG: He says he did at one point get Lyme disease. He got the classic bullseye rash on his forearm. He says he took antibiotics and it was cured, but he also describes most of his children have had Lyme disease, some with pretty severe effects of Lyme disease. So he's very focused on it. It also ticks like some other RFK Junior boxes where there is this community of people who feels like they've been neglected and ignored and in his words gaslit, particularly by the federal government. and those are people who have like chronic Lyme disease or long Lyme disease. So this is Lyme disease that hasn't been cured by antibiotics. And that people have been living with these symptoms for a really long period of time. And so he's trying to address that population of people. He had a round table discussion with a lot of those patients, patient advocates, as well as doctors and people who are trying to work on this space. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE – SECRETARY ROBERT F KENNEDY: It is an invisible illness. For many years,  this agency had a deliberate policy to refuse to engage with the Lyme community.
+
+  
+
+MEG: And so he's really speaking to that group of people, but at the same time, Lyme disease is a growing problem …  
+  
+SEAN: Right!  
+  
+MEG: … for anybody who lives in a tick-infested area, which is so many of us.
+
+  
+
+SCORING OUT
+
+  
+
+SEAN: So it sounds like people who have Lyme disease have an ally …  
+  
+MEG: Mm-hm.  
+  
+SEAN: … in the Secretary of Health and Human Services. And of course RFK Jr. Is known to spin up conspiracy theories, pedal falsehoods … 
+
+  
+
+<[CLIP](https://nypost.com/2023/07/15/rfk-jr-says-covid-was-ethnically-targeted-to-spare-jews/)> NYPOST
+
+SECRETARY ROBERT F KENNEDY JR: COVID-19 is targeted to attack caucasians and Black people 
+
+<[CLIP](https://www.youtube.com/watch?v=p6LJXPOv4SM)> YOUTUBE JOE ROGAN PODCAST
+
+SECRETARY ROBERT F KENNEDY JR: Wi-Fi radiation opens up your blood brain barrier and so all these toxics that are in your body can now go into your brain. 
+
+  
+
+SEAN: …  not a fan of vaccines. Does any of that get into the Lyme disease mix? 
+
+  
+
+MEG: Well, I mean, so he convened this round table and it had doctors, it had lawmakers. And so you had these folks speaking around the table about different things that you could do. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: The Lyme Clinical Trials Network is designed to build evidence for repurposing medicines and other treatments so we can improve the lives of people suffering now
+
+  
+
+MEG: And one of the things that RFK Jr.'s really focused on is improving diagnostics and improving treatment. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: There's investments we've made  in identifying new antibiotics that potentially could have a longer, better effects, as well as potentially protective monoclonal antibodies  that can be used as a treatment strategy
+
+  
+
+MEG: What you don't hear him talk about is a vaccine for Lyme disease. And he talks about things like we've got to make it safer for kids to go back in the woods. Vaccine could be one way of doing that. And we actually have a vaccine now that is approaching the regulatory approval process from Pfizer. They reported phase three results. They said they were going to take this to regulatory agencies. And so that was earlier this year. I became interested in, okay, well, RFK Jr. Is a big proponent of solutions for Lyme disease. Is he going to be supportive of this vaccine? Will this be the vaccine that RFK Jr. Sort of wins him over? 
+
+  
+
+SEAN: Tell us a bit more about the history of Lyme disease vaccines because they've been trying for some time to my recollection.
+
+  
+
+MEG: So there actually was an approved Lyme disease vaccine. It was called Lymerix. It was brought to market by GSK, the huge British drug maker. This was about 25-ish years ago. And it worked. It was something like 70 or 80% effective at reducing your risk of getting Lyme disease. But it had kind of this tepid endorsement from the federal vaccine agencies. So the FDA kind of gave it a... It wasn't like the most extreme endorsement, I guess you could say, the way people described it to me. They noted it was just for specific age groups. And then the CDC's group of vaccine advisors, they essentially recommended it for people who might have exposure to ticks. You might consider this. So it wasn't like a strong endorsement that everybody should get this vaccine. And so what we saw was that when it hit the market, the sales were really tepid.
+
+And then some people thought that the vaccine was actually giving them arthritis. 
+
+  
+
+SEAN: Ohh. 
+
+  
+
+MEG: And so this is the kind of thing you're trying to prevent you from getting Lyme disease. You're trying to prevent getting arthritis. The FDA looked into this extensively. Researchers looked at this. The signal did not play out from the conversations I've had with experts about it, but there were lawsuits that were filed. Ultimately GSK just decided to pull the vaccine off the market.  
+  
+SEAN: Huh.  
+  
+MEG: So now you have like 20 years later, Pfizer coming back with this vaccine. So this is approaching regulatory agencies. We might get this Lyme disease vaccine and have to see how RFK Jr's HHS would receive that.
+
+  
+
+SEAN: What's the vibe from HHS and RFK Jr? I mean, he cares about Lyme disease. He thinks there's this forgotten population of people with chronic Lyme disease. He's in charge. He's got an incredible amount of power to do something about it. And here's this vaccine that could be the easy solution. Is it like a match made in tick heaven?
+
+  
+
+MEG: Well, tick hell. 
+
+  
+
+SEAN: Tick Hell.
+
+  
+
+MEG: Preventing the ticks from being able to give us Lyme disease. Although I don't think they care if they give us Lyme disease, they just want to drink our blood. But you know, Kennedy was asked during his confirmation hearing by Susan Collins, because Maine of course is very hard hit by Lyme disease, whether he would support a Lyme disease vaccine. And he told her, quote:  
+  
+
+<[CLIP](https://www.youtube.com/watch?v=UVf93vkLZ_w)> YOUTUBE PBS NEWS HOUR – SECRETARY ROBERT KENNEDY: There's nobody who will fight harder to find a vaccine or a treatment for Lyme disease than me.
+
+  
+
+MEG: Now I reached back out to HHS when I wrote this story back in March about Pfizer's Lyme vaccine application. And a spokesperson for HHS told me HHS supports rigorous gold standard science to better understand, prevent, and treat Lyme disease. So I wrote back, "Does that include a vaccine?" And they just didn't respond.
+
+  
+
+SEAN: Why? Why are they being cagey about this vaccine? It feels like a golden opportunity for them.
+
+  
+
+MEG: You would think, and it's interesting. I've reached out to other folks who are sort of in this realm and most of them are very supportive of a vaccine. It's something that they would like to have as part of the toolkit. I will say there is one population that is skeptical of a vaccine and that is certain folks who have this chronic Lyme who live with long Lyme disease, they feel like they were burned by the first vaccine. They still believe that there were safety problems with that vaccine, at least some portion of this group who I spoke with. And so they're nervous about it, but other people really want a vaccine.
+
+  
+
+SEAN: Where does it leave us ultimately, you think? Is this a time to feel hopeful that there are solutions that are, solutions incoming here as these ticks become more and more just like a concern every summer across this country? Or is it a time to feel ultimately fearful?
+
+  
+
+MEG: Well, I mean, it definitely feels like we're in a time with this, like, massive upsurge in ticks. They're all around, they're spreading new, newly discovered pathogens. So it definitely doesn't feel like we're on the downtrend of that by any means. And the government has put out a plan to try to at least address Lyme disease and to an extent alpha gal, but it's not perceived from people I've spoken with to be enough. It's not a moonshot by any means to address these kinds of things.
+
+  
+
+SEAN: What's the plan?
+
+  
+
+MEG: Yeah. So this came out in May. They call it a sweeping plan to combat Lyme disease and advanced treatment. So you might expect huge amounts of money being poured into this big research consortiums working with the industry. The details are less sort of powerful than that from what we see in the release that HHS put out. They say the actions include a multimillion dollar pilot program focused on tick control up to two and a half million dollars in innovation challenges, funding for NIH researchers to combat alpha gal syndrome and a public-private collaboration to help patients connect with experienced providers.
+
+  
+SEAN: Huh.  
+  
+MEG: So I think people are glad that there is focus on this, but yeah, whether it's the moonshot that is needed especially…  
+  
+SEAN: Mm.  
+  
+MEG: …with the backdrop of broader cuts to science funding. I think experts in this space think it leaves something to be desired. 
+
+  
+
+SCORING IN - Hot Plate  
+  
+
+SEAN: Bummer! But in the meantime, what do you do if you’re going camping this weekend? Jonathan? 
+
+  
+
+JONATHAN: Doing tick checks. And we do it in my household pretty much daily when you come home, do a thorough tick check, throw your clothes in the dryer. Ticks hate heat. And some people like to use permethrin, spray this insecticide that's designed to kill ticks on your boots or your pants when you go out for a hike. So there are things that, I mean, for decades, researchers have known these things are really effective if you keep doing them, if you stay vigilant. Right? And all it takes is that one time, that one time you go out for a hike and you come back and you forget to do the tick check. So we need those kinds of personal measures of vigilance and protection, but we still need to kind of push for a bigger public health response to this…. 
+
+  
+
+SCORING BUMP
+
+  
+
+JONATHAN: Because the ticks are going to keep, they're going to keep spreading into the calendar too in the sense that as winters get warmer, more and more days of the year when you're outdoors, you're going to encounter ticks who are hungry and they're looking for you. 
+
+  
+
+SCORING BUMP
+
+  
+
+SEAN: Thanks, Jonathan! And thanks Meg! And thanks Danielle Hewitt, for producing the show today. Amina Al-Sadi for editing. Gabriel Dunatov for fact checking. And Patrick Boyd for flying solo. 
+
+  
+
+Be careful out there, friends!**
+
+### Ticks are a growing problem, no matter where you live
+
+![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5m5WghWyi9qJIZcvJej9cs)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historically, most Lyme cases were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use, scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?Interested in more episodes about pests and parasites? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+### Should we reengineer the world's deadliest animal?
+
+![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4pXSr8F6Z539jrtjxdMGy3)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+The most ferocious predator for us humans is actually quite small: the mosquito. They are hungry for blood, spreading diseases like malaria, yellow fever and dengue – and picking up new ones all the time. But what if we could wipe out the mosquito? Gene-editing technology could do it, potentially saving millions of lives. But it comes with serious potential for risk. Which begs the question: Should we get to decide when humanity rewrites nature? Here to discuss that is Ben Bradford, the host of a new podcast distributed by the NPR Network: Are We Doomed?Interested in more science? Email us your question at shortwave@npr.org.Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
 
 
+<iframe src="https://www.npr.org/player/embed/nx-s1-5806598/nx-s1-mx-5806598-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+SPEAKER: You're listening to Short Wave from NPR.
+
+EMILY KWONG: The most ferocious predator for us humans is actually quite small.
+
+\[BUZZING\]
+
+KWONG: It's the mosquito. They are hungry for blood and spreading diseases all the time, including serious ones, like malaria, yellow fever, and dengue. But what if we could wipe out the mosquito, We have the technology to do it. But should we? Here to discuss that is Ben Bradford, the host of a new podcast distributed by the NPR Network. It's called Are We Doomed?
+
+BEN BRADFORD: It is. Hi, Emily.
+
+KWONG: So, Ben, your podcast Are We Doomed? covers a lot, from killer AI to nuclear weapons and, of course, the bloodthirsty micropredators I want to talk about today. How do you feel about mosquitoes, by the way?
+
+BRADFORD: I think they're gross, and I think they're rude. And you mentioned, Emily, new gene-editing techniques could allow us to eradicate our little insect nemesis, potentially saving millions of lives.
+
+KWONG: Yes. I learned that from you, from your show.
+
+BRADFORD: Yeah, thank you.
+
+KWONG: The tech is here.
+
+BRADFORD: Yeah. Thank you. And it would be amazing. But also, in that technology is something inherently more dangerous. I talked to Kevin Esvelt, who is a biologist now at the MIT Media Lab.
+
+KEVIN ESVELT: And if you can engineer a mosquito so it can't spread disease, you could engineer a mosquito so it always spreads disease.
+
+\[CONTEMPLATIVE MUSIC\]
+
+KWONG: Today on the show, the technology that allows us to kill the mosquito comes with all kinds of complications.
+
+BRADFORD: So what does it mean to try to change an entire species? Who gets to decide? What might the ripple effects be? How do you test it? How do you protect it?
+
+KWONG: Easy questions, you know. You're listening to Short Wave, the science podcast from NPR.
+
+\[CONTEMPLATIVE MUSIC\]
+
+KWONG: OK, Short Wavers. I'm here with Ben Bradford, who's just done all this reporting on have to save millions of people from malaria by wiping out the mosquito. Ben, how does that even work?
+
+BRADFORD: Yeah. So let's go back to early last decade. Scientists developed a new form of gene editing, which you may know as CRISPR. It's this way of scalpelling out a tiny strand of DNA. And you kind of like suture in a new trait. It doesn't quite look like that, but that's essentially what's happening. And so with CRISPR, you can cure a genetic disease or engineer a cow to grow without horns, both things that they have done in labs.
+
+KWONG: Wow.
+
+BRADFORD: But Kevin Esvelt, this biologist now at the MIT Media Lab, had his own realization.
+
+ESVELT: Turns out, it doesn't just let you engineer organisms in the lab. It lets you let them go, and the engineered trait will spread to most of the ones in the wild. That's incredibly exciting.
+
+BRADFORD: Kevin is the person who figured out you could CRISPR a creature, do this little DNA surgery, so it always passes along the gene that you put into it. And so with CRISPR, the idea is you can create a mosquito that, for instance, always has males, and then its offspring will always have males. And so you put it into an area, and it extinguishes all these species carrying malaria in that area.
+
+KWONG: Because there aren't females to mate with.
+
+BRADFORD: Yeah. And so to do this, you, of course, have to engineer a mosquito from hell. In the show, we called him Jerry.
+
+JERRY: Hi.
+
+\[MACHINERY WHIRRING\]
+
+\[SPLAT\]
+
+BRADFORD: To clarify, Jerry's mission is actually not to murder all mosquitoes, because they're just trying to target in an area with malaria. And that's because mosquitoes are ecologically important.
+
+KWONG: They are important to the environment. It's true.
+
+BRADFORD: I didn't know that, but they are. And it was disappointing. They're pollinators and birds--
+
+KWONG: Wow.
+
+BRADFORD: --and spiders, yeah, all kinds of critters eat them.
+
+KWONG: Yeah. It would be reckless to wipe out mosquitoes entirely. But when it comes to Jerry, the mosquito from hell, he's just meant to wipe out the mosquitoes that carry malaria in a certain region. But then the question becomes, how do you do that without affecting birds and spiders?
+
+BRADFORD: So the idea is to offer birds and spiders a different kind of mosquito to snack on, one that doesn't transmit malaria, because there's a whole bunch of different types of mosquito species. And even better or worse, Kevin says, we don't need to take out the malaria-carrying mosquitoes forever, even.
+
+KWONG: Right. You say in the show, they just need to, quote, \\"go on a sabbatical.\\"
+
+BRADFORD: Yeah. That's right. We just need them to, like, disappear for a little while.
+
+ESVELT: Malaria transmission requires humans, and it requires mosquitoes. So this is a back-and-forth transmission chain.
+
+BRADFORD: So if the mosquitoes go on sabbatical for long enough, for the malaria to die out in the humans that the mosquitoes pick up the malaria from and transmit it between, then when the mosquitoes come back, the malaria is gone, and there's just nothing for them to transmit.
+
+KWONG: This plan is bold. It's like, use CRISPR, make mosquito. Mosquito Jerry, though, only makes sons. And then the malaria mosquitoes will be wiped out, but not for too long, because that would be bad.
+
+BRADFORD: Just enough.
+
+KWONG: Just a sabbatical.
+
+BRADFORD: Yeah. And so it turns out that there's a whole bunch of steps that you kind of have to follow if you're going to do this in a way where you, one, test that the thing actually is going to work, and two, test that it's not going to work too well and go around the world and create a whole bunch of problems.
+
+KWONG: So how do you even go about testing this?
+
+BRADFORD: Well, you need an area where you're going to put out your mosquitoes into the wild, kind of a cordoned-off area where they're going to be on their own. And basically, what we're describing is a mosquito Jurassic Park. And then that leads to other questions, which is, how do you stop what happens in every Jurassic Park movie?
+
+KWONG: Uh, the dinosaurs get out.
+
+BRADFORD: And so, of course, this is the challenge. And we know what we're trying to avoid, because we've seen it in history.
+
+KWONG: Let's listen to a section of the episode that talks about how this can all go wrong.
+
+\[AUDIO PLAYBACK\]
+
+BRADFORD: Take a tangent with me to the shores of Australia and New Zealand in the late 1800s. European ships landed, bringing sailors and soldiers and felons and rabbits. Europeans brought rabbits over for food and hunting, snacks and sport. Of course, the rabbits quickly escaped and bred all over both islands and became a scourge on an environment totally unprepared for them. They eat everything. New Zealanders looked to fight back. They brought over ferrets and weasels to sic on the rabbits. And when that failed, ferrets and weasels became more invasive species. Skip to the 1990s. Neighboring Australia, largely by accident, unleashed an only partially tested biological weapon against its rabbits.
+
+SPEAKER: This nasty virus that wiped out, like, 2/3 of all rabbits or more.
+
+BRADFORD: New Zealand had been considering using this virus as well, but it wanted more testing first.
+
+SPEAKER 1: New Zealand government said, we're not sure of safety and so forth. So for now, you're forbidden to import this virus into New Zealand.
+
+BRADFORD: So what do you think happened at this point? New Zealand farmers, losing millions of dollars as rabbits destroyed their crops, began taking little vacations to Australia to go hunting for infected rabbits.
+
+SPEAKER 1: And they smuggled in diced up, infected rabbit parts from Australia illegally.
+
+BRADFORD: They liquefied the body parts into virus-laden smoothies, which they spread on their fields. Bam. New Zealand had the rabbit virus.
+
+SPEAKER 1: And what's the government going to do?
+
+SPEAKER 2: When it's out, it's out.
+
+BRADFORD: This is Kevin's fear. If we do create a mosquito Jurassic Park to test Jerry, which we have to do to make sure he works and doesn't cause a ripple effect of unknown ecological destruction, Kevin says some New Zealand farmers are going to steal one of our mosquitoes.
+
+ESVELT: Of course someone would do that, and they would tell themselves a perfect story in which they're the hero, right?
+
+BRADFORD: If Jerry gets out, we don't know what harm he would cause because we haven't field tested. Consider the possibilities. Jerry and his descendants could travel around the world. These mosquitoes would spawn only males wherever they go, leading to globally extinguishing all of his species. Worse, what if it turns out Jerry can mate with another type of mosquito and he passes along his all-boys gene to one of them? What if that one can mate with another species, and so on? Maybe that gene travels throughout all types of mosquito and does eradicate them entirely. What if birds and spiders and flowers can't adapt to that loss, and it creates a domino effect of environmental destruction? Then we've got a problem.
+
+\[RELAXING MUSIC\]
+
+\[END PLAYBACK\]
+
+KWONG: This approach, you know, clearly comes with so many unintended consequences. You say on the show, the point is to insert a trait that spreads like wildfire, and wildfire is hard to stop.
+
+BRADFORD: Yeah. And so that is the main argument against doing this thing, this technology, which is basically called an engineered gene drive. And so there are people who think we should, you know, pack this up, seal it away, never do it.
+
+KWONG: And a gene drive in nature is when, like, a trait kind of naturally evolves to get passed on.
+
+BRADFORD: It gets really good at being passed through its offspring.
+
+KWONG: But here, humans are interfering to make that happen.
+
+BRADFORD: Here, we're making it happen. Yeah. That's sort of the debate. But, of course, the stakes are, do you get rid of malaria? Do you get rid of dengue fever? And so when I talked to Kevin, the person who kind of figured out, hey, we could do this, his biggest concern is that an accidental, untested release of, let's say, Jerry, poisons the whole discourse around this and any attempt to do it.
+
+ESVELT: We know what happens when there's a backlash to technology. We're seeing it right now for vaccines and other things. And we saw it even in biomedicine with something like gene therapy, where a single death in a poorly planned clinical trial that led to tragedy set back the entire field by more than a decade. More than a decade is more than 5 million dead children.
+
+KWONG: That's a lot of pressure. Because, you know, mosquito-borne diseases cost the lives of hundreds of thousands of people every year. But on the other hand, you don't want to roll out a gene drive project too quickly because something could go terribly wrong.
+
+BRADFORD: And you can hear, in our episode, that pressure that Kevin feels because of that. And so it does. It creates all of these hurdles, all of these kind of like little puzzles that you need to solve to be able to do that. You know, we need to test our mosquitoes, like Jerry, to make sure he doesn't cause unintended consequences. You have to do this sort of like field test your Jurassic Park. But how do you do the Jurassic Park without risking those consequences, where someone's going to steal him or he's going to get out? I mean, they fly, for God's sakes. So, like, what are you going to do?
+
+KWONG: It is such a puzzle. And in your episode, you talk about some ways to work the puzzle, to actually, like, take what's theoretical and make it happen in the real world.
+
+BRADFORD: These guys are so smart. They're so smart.
+
+KWONG: What is your takeaway from all this when it comes to the ethics of a gene drive for mosquitoes, but really, also for any species?
+
+BRADFORD: Yeah. I think that the possibilities here are really exciting. I mean, malaria is terrible. And the mosquito has killed more people than any other creature on the Earth. And so you start thinking about how we can solve that for our species. That's amazing. But, you know, I will say, you know someone else on our team, our animator, who was watching this episode and doing our animation for it-- and he heard it and was like, this is insane. We should never do this.
+
+KWONG: Mm. Ben Bradford, your podcast Are We Doomed? is out now. Thank you so much for coming into Short Wave.
+
+BRADFORD: Thank you for having me.
+
+KWONG: Check out the show. It's really good. You can find it all the places you typically get your podcasts. And also, if you haven't already, download the NPR app. My bosses really want you to do it, and you will honestly get great journalism from it. Thank you. This episode was produced by Rachel Carlson and edited by our showrunner Rebecca Ramirez. Tyler Jones checked the facts. Kwesi Lee was the audio engineer. I'm Emily Kwong. Thank you for listening to Short Wave from NPR.
+
+### A New Test for Lyme Disease, Developed by High Schoolers
+
+![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5N8msWH12wFtnygV2LaKah)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   A group of students from suburban Atlanta has developed a new method for detecting Lyme disease using the gene-editing tool CRISPR. In this episode: why there's such a desperate need for a new diagnostic, how the students' model works, and why it's so promising for the treatment of Lyme and other diseases.  Guest:  Nicole Baumgarth, PhD, DVM, is Bloomberg Distinguished Professor in Molecular Microbiology and Immunology and the director of the Lyme and Tickborne Disease Research and Education Institute at the Johns Hopkins Bloomberg School of Public Health.   Sankalp Yeleti is a recent graduate of Lambert High School and a rising freshman at New York University, where he plans to study biomolecular science.  Host:   Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health.  Show links and related content:    Teens may have come up with a new way to detect, treat Lyme disease using CRISPR gene editing—CBS News    Lancet—Lambert iGEM 2025   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/41665130/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/fb5600/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### A new approach to fighting malaria
+
+![May 31, 2019: A new approach to fighting malaria](https://i.scdn.co/image/ab67656300005f1fc76cbaa837eb7407972b777c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2019
+
+**Series:** Better Off
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3jHcEROSL3r8U1MtHJSwzc)
+
+[Open Series in Spotify](https://open.spotify.com/show/2TDswhCVfRb4CNBlGEMVfM)
+
+Each year, more than 200 million people around the world are infected with malaria and more than 400,000 die. For the past two decades, the most successful method of malaria prevention has involved treating bed nets with long-lasting insecticides that kill mosquitoes. But that progress is being threatened as mosquitoes increasingly grow resistant to the most commonly used insecticides. Now, new Harvard T.H. Chan School of Public Health research offers a potential fresh approach to fighting malaria: directly target the parasite responsible for the disease. A recent study showed that mosquitoes that landed on surfaces coated with the antimalarial compound atovaquone were completely blocked from developing Plasmodium falciparum, the parasite that causes malaria. The study was led by Flaminia Catteruccia, professor of immunology and infectious diseases and Doug Paton , a research fellow at the Harvard Chan School. In this week's episode we sit down with Paton to discuss the findings—and how they could be used to make progress in the fight against malaria. Full Transcript: hsph.me/malaria-pod
+
+:::
+
+#### A New Test for Lyme Disease, Developed by High Schoolers
+
+![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5N8msWH12wFtnygV2LaKah)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   A group of students from suburban Atlanta has developed a new method for detecting Lyme disease using the gene-editing tool CRISPR. In this episode: why there's such a desperate need for a new diagnostic, how the students' model works, and why it's so promising for the treatment of Lyme and other diseases.  Guest:  Nicole Baumgarth, PhD, DVM, is Bloomberg Distinguished Professor in Molecular Microbiology and Immunology and the director of the Lyme and Tickborne Disease Research and Education Institute at the Johns Hopkins Bloomberg School of Public Health.   Sankalp Yeleti is a recent graduate of Lambert High School and a rising freshman at New York University, where he plans to study biomolecular science.  Host:   Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health.  Show links and related content:    Teens may have come up with a new way to detect, treat Lyme disease using CRISPR gene editing—CBS News    Lancet—Lambert iGEM 2025   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/41665130/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/fb5600/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+#### Acaropathology (TICKS + LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
+
+# Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
+
+![Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2BLaAYJ1noUkrnLPtuOotq)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+It’s 2-for-1! Ticks AND Lyme: together in one helpful, disgusting, gossipy, empowering episode. This pair of episodes is about tiny, thirsty ticks and the diseases they spit into you is wall to wall wisdom from Dr. Neeta Pardanani Connally of the West Connecticut State University Tick Lab and Dr. Andrea Swei of SFSU’s Swei Lab cover how to remove a tick, if you should spray your yard and with what, how landscaping affects tick exposure, why Lyme Disease is spreading, the Lone Star Tick rolling into town, how to protect your pets and why the CC ruined poppyseed muffins. Also: Powassan virus, meat allergies, paralysis ticks, and twin princesses Borrelia and Babesia. Dr. Neeta Pardanani Connally and  Dr. Andrea Swei will charm their way into your heart like a hypostome under your skin.Dr. Neeta Pardanani Connally’s videos, website, Twitter and InstagramFollow Dr. Andrea Swei and her lab SweiLab on TwitterDonations were made to TickEncounter, Union of Concerned Scientists, and 826 ValenciaMore episode sources and linksOther episodes you may enjoy: Opossumology (O/POSSUMS), Scorpiology (SCORPIONS), Epidemiology (DISEASES), Cervidology (DEER), Forest Entomology (CREEPY CRAWLIES), Planariology (VERY COOL WORMS, I PROMISE, Dipterology (FLIES), Kinetic Salticidology (DANCING SPIDERS), Diplopodology (MILLIPEDES & CENTIPEDES), Myrmecology (ANTS), Sparklebuttology (FIREFLIES), Spheksology (WASPS), Lepidopterology (BUTTERFLIES), Melittology (BEES), Entomology (INSECTS), Urban Rodentology (SEWER RATS)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Steven Ray Morris, Mercedes Maitland of Maitland Audio Productions, and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### An Early Start to West Nile Virus Season?
+
+![An Early Start to West Nile Virus Season?](https://i.scdn.co/image/ab67656300005f1f1be97b9c332e24455a879896)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1rN5vT4MBt9QsCbVRQsEPP)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   West Nile virus is the most common mosquito-borne illness in the U.S., and while most people who contract it won't even know they're infected, it can be debilitating for older adults and the immunocompromised. In this episode: an expert in insect-borne diseases gives listeners the essential information on West Nile, offers a forecast on this year's disease season, and answers the most important question: can we just get rid of mosquitoes? Guest:  Douglas Norris, PhD, is a professor of Molecular Microbiology and Immunology who studies vector-borne diseases. Host:   Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health.  Show links and related content:    CDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend—CDC   Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says—CNN   How to Prevent Dengue or "Break-Bone Fever"—Public Health On Call (May 2024)   Why Are Some Humans' Scents More Preferable to Mosquitoes?—Public Health On Call (June 2023)   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+#### Are Rats Running This Podcast?
+
+![Are Rats Running This Podcast?](https://i.scdn.co/image/ab67656300005f1f922709e10fb65904f84860e2)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0HHswbjb0s0vA4fc4Xv2bi)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+This week, New York City crowned Kathleen Corradi its first rat czar. The new position is part of a multipronged approach from city officials. Reporter and New Yorker Anil Oza called up rodentologists to understand — does their approach withstand the test of scientific research? We love hearing your musings and questions about the science in your everyday life. Reach us by emailing shortwave@npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### CRISPR Mosquitoes
+
+![CRISPR Mosquitoes](https://i.scdn.co/image/ab67656300005f1f3f7ea69d81852f00c6bbf64c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Big Picture Science
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7r8BwkebbqH5UV2T4N8LFC)
+
+[Open Series in Spotify](https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL)
+
+The powerful gene editing tool CRISPR is already being tested on animal and plant cells. It has even been used on humans. How might this revolutionary tool change our lives? On the one hand, it could cure inherited diseases and rid the world of malaria-spreading mosquitoes. On the other hand, scientists using it are accelerating evolution and introducing novel genetic combinations that could transform our biological landscape in unforeseen ways. We explore the ramifications of this revolutionary technology.  Guests:  Nathan Rose – Molecular biologist and head of malaria programs at U.K. based biotech company, Oxitec.  Hank Greely – Law professor and director of the Center for Law in the Biosciences at Stanford University and author of “CRISPR People: The Science and Ethics of Editing Humans.”  Antonio Regalado – Senior Editor for Biomedicine, MIT Technology Review.  originally posted April 17, 2023  Big Picture Science is part of the Airwave Media podcast network. Please contact advertising@airwavemedia.com to inquire about advertising on Big Picture Science.  You can get early access to ad-free versions of every episode by joining us on Patreon. Thanks for your support!     Learn more about your ad choices. Visit megaphone.fm/adchoices
+
+:::
+
+#### Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei
+
+# Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei
+
+![Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei](https://i.scdn.co/image/ab67656300005f1f66221027296ed7a75e118c2f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2019
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/35RVV3c2ybXMK63ylbuSyS)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+Lyme Disease! Powassan virus! That Lonestar tick meat allergy! Paralysis ticks! Acarology taught us all about the eight-legged villains that aim for our crevices, but Disease Ecologist Dr. Andrea Swei offers a deep dive under the skin to learn more about what nasties a tick can give us. We chat a whole bunch about Lyme Disease: its prevalence, testing, treatment, which animals carry it, “chronic Lyme” vs. post-treatment Lyme. We also cover how lizards might harbor a helpful protein, two Ukrainian princesses by the names of Borrelia and Babesia, why you'll want chickens and possums hanging out at your barbecues, Lyme vaccines, pet care, symptoms, prevention and what scares her most. This one's a wonderful episode on its own, but is even better as a follow up to Acarology: the nightmare lesson of how ticks work. Listen to the Acarology (TICKS) episode: alieward.com/ologies/acarologyFollow Dr. Swei on Twitter @Andeswei or @SweiLab Donations went to: Union of Concerned Scientists, and 826 ValenciaSponsor links: “You” podcast by Okta; Kiwico.com/Ologies; HelixSleep.com/Ologies; thegreatcoursesplus.com/ologiesMore links at alieward.com/ologies/diseaseecologyBecome a patron of Ologies for as little as a buck a month: www.Patreon.com/ologiesOlogiesMerch.com has hats, shirts, pins, totes!Follow twitter.com/ologies or instagram.com/ologiesFollow twitter.com/AlieWard or instagram.com/AlieWardSound editing by Jarrett Sleeper of MindJam Media & Steven Ray MorrisTheme song by Nick ThorburnSupport the show: http://Patreon.com/ologies Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Does It Feel Like Mosquitoes Are Getting Worse?
+
+![Does It Feel Like Mosquitoes Are Getting Worse?](https://i.scdn.co/image/ab67656300005f1f3282450f01d1e10beed29b66)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7EP3BRxM78QjbVaIcY3vwk)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Mosquitoes are the deadliest animal on the planet, and some of them may be on the rise. At least in listener Abigail Krich-Starr's area, that's due to warmer, wetter weather — which, yes, is linked to climate change. But it doesn't stop there: Ecologists and entomologists say increased heat could also alter mosquito behavior, shift their natural habitat, and even change how pathogens incubate and spread inside their bodies.So how do you protect yourself against the (mosquito) masses? Our experts suggested several things:- Assess your risk by checking local mosquito surveillance efforts, like this one for the state of Massachusetts- Consider rescheduling outdoor events happening between dusk and dawn, which is peak biting time for multiple mosquito species- Wear long-sleeved shirts and pants, weather-permitting, to limit exposed skin- Use an EPA-approved DEET repellent, and/or a permethrin spray for clothing and outdoor gearThis episode is part of Nature Quest, a monthly Short Wave segment that answers listener questions about the local environment.Got a question about changes in your local environment? Send a voice memo to shortwave@npr.org with your name, where you live and your question. We might make it into our next Nature Quest episode! Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Hantavirus - the risks, the science and what you need to know
+
+# Hantavirus: the risks, the science and what you need to know
+
+![Hantavirus: the risks, the science and what you need to know](https://i.scdn.co/image/ab67656300005f1f8ea10197d6d32374c68ddb2f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6UQsPw4kXHEI2voes766kh)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+On May 2, the World Health Organization got an alarming report: People aboard a ship in the Atlantic Ocean were falling ill. The culprit is now confirmed as hantavirus, a pathogen that some rodents carry that can infect humans in rare, but often deadly, instances. Multiple passengers have died, and more people are showing symptoms. So, we’re talking to Emily Abdoler, an infectious disease doctor at the University of Michigan, about the news – how common is hantavirus in humans, what are the consequences of getting it, and how can at-risk people protect themselves from it? If you found this episode interesting, listen to our episode on Rocky Mountain spotted fever.Interested in more science in the news? Email us your question at shortwave@npr.org.Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### How Do You Kill a Mosquito?
+
+![How Do You Kill a Mosquito?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Are We Doomed?
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6dAAP04Bekkn7sLeTUdc0u)
+
+[Open Series in Spotify](https://open.spotify.com/show/5zO1JRIY0pon3rxHEEbm8X)
+
+Mosquitoes are little jerks. They suck your blood to make more mosquitoes, spread deadly diseases like malaria and dengue, and have killed more humans than any other creature in the history of Earth. But now, we can fight back. Gene-editing technology (CRISPR, gene drives) could temporarily wipe out disease-carrying mosquitoes in whole regions — potentially saving millions of lives. A miracle, but with an unsettling question of its own: Who gets to decide when humanity rewrites nature?Also: radiation-blasted flies, Australian rabbit smoothies, and … Mosquito Jurassic Park.Support Are We Doomed?, get bonus episodes, and more: https://doompod.com/support/  To manage podcast ad preferences, review the links below:See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy
+
+:::
+
+#### Inside The Race To Save Honeybees From Parasitic Mites
+
+![Inside The Race To Save Honeybees From Parasitic Mites](https://i.scdn.co/image/ab67656300005f1f18e48f25526772ae356d2c5e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/57pJiLQmXOQB3ZBqG99GDi)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Last year, almost half of the honeybee colonies in the U.S. died, making it the second deadliest year for honeybees on record. The main culprit wasn’t climate change, starvation, or even pesticides, but a parasite: Varroa destructor.“The name for this parasite is a very Transformer-y sounding name, but … these Varroa destructor mites have earned this name. It’s not melodramatic by any means. [They are] incredibly destructive organisms,” says Dr. Sammy Ramsey, entomologist at the University of Colorado Boulder.These tiny mites feed on the bees and make them susceptible to other threats like diseases and pesticides. They’re also highly contagious: They arrived in the US in 1987, and now they live in almost every honeybee colony in the country. Honeybees pollinate many important crops, like apples, peaches, and berries, and their pollinator services add up to billions of dollars.Ramsey and his lab are trying to put an end to the varroa mites’ spree. Part of their research includes spying on baby bees and their accompanying mites to learn how the parasites feed on the bees and whether there’s a way to disrupt that process.In Boulder, Colorado, SciFri producer Rasha Aridi speaks with Dr. Ramsey and fellow entomologist Dr. Madison Sankovitz about how the varroa mites terrorize bees so effectively, and what it would take to get ahead of them.Transcripts for each segment will be available the week after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Oropouche Virus - More than a smidge worrisome
+
+# Ep 206 Oropouche Virus: More than a smidge worrisome
+
+![Ep 206 Oropouche Virus: More than a smidge worrisome](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2gMpVAg7vdjJ2Y9a8xaZ5F)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+Though discovered relatively recently, Oropouche virus has been making headlines as an emerging vector-borne infectious disease on the rise. Not transmitted by the usual suspects (like ticks and mosquitoes), this virus is instead spread through the bites of midges or no-see-ums. Since these arthropods are already widely distributed and their range is growing thanks to climate change, this is a recipe for potential disaster. In this episode, we take you through the story of Oropouche virus, from how it makes us sick to what the construction of a highway has to do with its discovery, from surprising prevalence statistics to the history of One Health. Tune in for the full scoop on this midge and the virus it carries. Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAuSee omnystudio.com/listener for privacy information.
+
+:::
+
+#### Our tick nightmare
+
+![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Today, Explained
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4vRcV7xGs5aSMJWLKxJrUL)
+
+[Open Series in Spotify](https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A)
+
+Ticks are exponentially expanding their territory, using us for their next blood meal. We must fight back.  This episode was produced by Danielle Hewitt, edited by Amina Al-Sadi, fact-checked by Gabriel Dunatov, engineered by Patrick Boyd, and hosted by Sean Rameswaram.   The common wood tick, which can transmit Borrelia and TBE viruses to humans and animals. Photo by Patrick Pleul/dpa/Getty Images.  Listen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. Transcript at ⁠vox.com/today-explained-podcast.⁠  Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+## Transcript
+
+**SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
+
+  
+
+<SFX> Mosquito
+
+  
+
+SEAN: We bleed. We scratch. We kill. We complain. But in the end, we laugh it off and we head towards winter.
+
+  
+
+<SFX> Mosquito dies
+
+  
+
+SEAN: But ticks are a much more serious concern.
+
+  
+
+SCORING IN – IMPENDING GLOOM - BMC (lol)
+
+  
+
+SEAN: Lemme just remind you how many tick-bourne diseases there are? 
+
+  
+
+Lyme, you know. Shoutouts Connecticut. Then there’s Alpha-gal syndrome, which can make you allergic to red meat for the rest of your life. Also dairy. 
+
+  
+
+But there’s so much more! Should we go alphabetical? And I apologies in advance for my pronunciation here:  
+  
+<SFX> CASSETTE TAPE  
+  
+SEAN: Anaplasmosis, Babesiosis, Bourbon virus, Colorado tick fever, Ehrlichiosis, hard tick relapsing fever, Heartland virus, Powassan virus, Rickettsia parkeri rickettsiosis, Rocky Mountain spotted fever, Soft tick relapsing fever, STARI, Tularemia, 364D rickettsiosis.
+
+  
+
+<SFX> CASSETTE TAPE
+
+  
+SEAN: Symptoms of all these range from nausea, vomiting and bleeding to seizures, organ failure, facial paralysis, and of course, our old friend, death. 
+
+  
+
+And for those of you who are like NBD – that’s just a Northeast thing. Well, not anymore!  
+  
+Our national tick nightmare, on Today, Explained from Vox.  
+  
+
+[THEME]
+
+  
+
+SEAN: Sean Rameswaram. Today, Explained covered ticks and Lyme disease on the show way back in 2018 when the word on the trail was this was getting much worse. We asked science writer Jonathan Mingle, who recently wrote about ticks for the New York Times newspaper, how much worse this has gotten since then.
+
+  
+
+JONATHAN MINGLE (science journalist): You know some experts I talk to use the word exponential. 
+
+  
+
+SCORING IN - Discretion
+
+  
+
+JONATHAN: So what's happening is that some of these tick species are spreading into areas where people aren't familiar with them, doctors aren't familiar with them. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=Bjj3Ps0dYNQ)> YOUTUBE CBS BOSTON
+
+In the last 15 years, the Lonestar tick has gone from non-existent on the island to fully abundant and everywhere.
+
+<[CLIP](https://www.youtube.com/watch?v=UBFko7DWNRU)> YOUTUBE NBC NEWS 
+
+The tick is present in at least 21 states and is rapidly spreading across the eastern US.
+
+<[CLIP](https://www.youtube.com/watch?v=UwXG_4xycuY)> YOUTUBE CBS MORNINGS
+
+Emergency room visits for bites are the highest in nearly a decade as ticks spread into new parts of the country. 
+
+  
+
+JONATHAN: Thanks to warmer winters, climate change. Ticks are expanding their hunting season. You may have a day that's like 40 degrees in January, ticks are out looking for you, waiting for you to walk by and grab on and grab a meal. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=A-ate5me7PA)> YOUTUBE NBC 10 
+
+A newborn baby is suspected of contracting a rare tick borne virus. It's called Powassan virus.
+
+<[CLIP](https://www.youtube.com/watch?v=5RAlhJC61LA)> YOUTUBE NBC 10 
+
+Lyme's disease has been an ongoing fight on this island. I've had it.
+
+<[CLIP](https://www.youtube.com/watch?v=piokYttuSf8)> YOUTUBE 6 ABC
+
+This morning, a New Jersey man is the first known person to die after a tick bite triggered a severe meat allergy.
+
+  
+
+JONATHAN: So in 2024 a pilot named Brian Weitzel, father of three in northern New Jersey, he had a hamburger, at a barbecue, went home to mow his lawn, and a few hours later was unresponsive on the floor and he died that night. And his family, you know, was left in shock, of course, you know, trying to figure out why he had died. And it turned out that he had likely been bitten by the lone star tick, and had developed an allergy to red meat. And so this is referred to as Alpha-gal syndrome. And Alpha-gal syndrome is just the latest entrant into the files of all the many ways in which tick bites can make us sick. and the most familiar one, of course, is Lyme disease. Each year about half a million people are treated for Lyme disease. It's the fastest growing vector-borne disease in the US. cases have more than doubled over the past decade. And those cases are mostly as a result of getting bitten by the black legged tick or the deer tick. And the thing is both of these ticks and many other ticks that are also marching northward and westward and just, you know, expanding their empires rapidly across North America, they can deliver all kinds of pathogens.
+
+  
+
+SCORING OUT  
+  
+
+JONATHAN: They're claiming more and more of the map and they're claiming more and more of our psychic map right? It's like one of the results of reporting this piece is that I now have phantom tick crawling sensations at all hours of the day. 
+
+  
+
+SEAN: Oh, man. 
+
+  
+
+JONATHAN:I tell people I'm not a tick expert, although I talked to a bunch of them for this story, but I've become a tick expert in the sense that I am very familiar with tick paranoia and how it can keep you from venturing out into the places you love you know, hiking paths or picnic grounds or parks. And so that was part of the story I wanted to write about, too, is: Why are we letting the ticks keep us, if not out of these places that we need and love, why aren't we fighting back?
+
+  
+
+SEAN: And why is it? Are we not fighting back against the ticks?
+
+  
+
+JONATHAN: Not really. I mean, this is one of the surprising takeaways from my reporting is that we're barely even trying. And one way of understanding that, you could think about two numbers. So one number is 90%. 90% of vector-borne disease cases in the US are from ticks, right?
+
+  
+
+SEAN: 90%?
+
+  
+
+JONATHAN: Yeah. And yet despite the fact that 90% of cases of vector-borne illness come from tick bites, if you look at what local city, county health agencies do in terms of vector control, 80% of what they do is mosquito control and about 10 or 11% of these local health agencies around the country do any kind of tick control. So why is that? It's a familiar story in the public health world. It's not enough funding or policy support for trying out, testing, deploying new approaches to controlling ticks.
+
+  
+
+SEAN: Even though people are dying?
+
+  
+
+JONATHAN: We're just kind of taking for granted that, ‘Oh, well, what can you do? You just tuck your pants in and spray some insecticide on your boots and that's all you can do.’ It's like, well, actually we have a long history of going to war <chuckles> with mosquitoes. 
+
+  
+
+SEAN: Mm!
+
+  
+
+JONATHAN: Before there was tick control, there was mosquito control. And the CDC was founded with the sole mandate in 1946 of wiping out malaria and fighting mosquitoes. 
+
+  
+
+<[CLIP](https://www.c-span.org/program/american-history-tv/the-fight-against-the-communicable-diseases/545719)> C-SPAN THE FIGHT AGAINST COMMUNICABLE DISEASES
+
+Scientific information on the subject is discussed and analyzed. Decisions are made and one of these is to design more effective equipment to combat the dreaded mosquito. 
+
+  
+
+SEAN: I did not know that.
+
+  
+
+JONATHAN: Yeah, I didn't know it either.
+
+  
+
+SEAN: It feels like they lost that fight because in my neighborhood …  
+  
+JONATHAN: Yeah.  
+  
+SEAN: … you can't go out between the hours of seven and nine o'clock.
+
+  
+
+JONATHAN: Yeah. The mosquitoes haven't gone away, but malaria did for the most part. You know, in talking to experts today, they told me that, including folks at the CDC, there's a suite of tools we could be using if we wanted to get serious about fighting ticks. As one veteran tick expert at the CDC told me, if you want to make a dent in this problem, you have to get to the deer. So the deer are the engine driving a lot of these tick species spread.  
+  
+SEAN: Mm.  
+  
+JONATHAN: And we just have way more deer than we did decades ago, especially in the Eastern US and suburban parts of America. So how do you get to the deer? I had people in the comments section of my piece saying the clear answer is just we should all be hunting deer.  
+  
+SEAN: Mm-hm.  
+  
+JONATHAN: But in talking to the experts, they'll tell you it's not really a feasible solution. You would have to knock deer populations way down to make a dent in the tick populations. What is more promising is kind of a combined approach of stuff like vaccines. There are people developing vaccines that you could deliver to deer or to rodents, which are another important host for these ticks so that when the tick bites them, they'll die. That I learned from talking to folks who do this kind of research for a living is a more promising avenue for controlling ticks than all of us picking up crossbows and becoming deer hunters.
+
+  
+
+SFX <crossbow>
+
+  
+
+JONATHAN: You know, what I heard from experts is that we're not even funding this research in a serious way. We do this stuff for mosquitoes. People don't realize it, but your local county health agency, they go out and they find where the mosquito breeding grounds are and stagnant pools the water and they treat it. And it takes this sustained quiet effort. It's like we saw the consequences of not doing that recently. This is a bit tangential, but screwworm. You know, screwworm was this flesh eating larval pest that devastates cattle herds. And it was eradicated in the US in 1966 and it was kept at bay by the vigilance of people at USDA and USAID who ran these programs to release millions of sterile screwworm males out of airplanes. And it created this wall that kept it from coming into Southern US and now they're here.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=KESLiqJaXEU)> YOUTUBE CBS LA
+
+But since the beginning of June, at least a dozen animal infections have been confirmed in Texas and New Mexico, putting California and the rest of the nation on alert.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=QymPQDht3IM)> YOUTUBE MS NOW
+
+His Department of Government Efficiency run by Elon Musk decided to cut the funding that was specifically dedicated to monitoring and containing the screw worm in Central America.  
+  
+<CLIP> ELON MUSK: Chainsaw!
+
+  
+
+JONATHAN: And probably if we stopped doing the mosquito control at a local scale, we'd see more cases of dengue fever, West Nile virus, all these other rare but serious illnesses that climate change is making more of a threat here in the US.
+
+  
+
+SCORING IN  
+  
+SEAN: Jonathan Mingle wrote “We're Living in a Tick Nightmare. It's Time to Go to War.” for the New York Times.
+
+  
+The guy with the power to go to war is named Robert F. Kennedy Jr. And one of the kinda curious things about him is he’s kinda obsessed with Lyme disease. 
+
+  
+
+More on that mmm puzzle? When Today, Explained continues. 
+
+  
+
+[BREAK]
+
+  
+
+<BUMPER> KE$HA: Tik! Tik! Tik! Tik!  
+
+AVISHAY ARTSY (producer): Today, Explained.  
+  
+
+MEG TIRRELL: Hi, I'm Meg Tirrell. I am a medical correspondent at CNN.
+
+  
+
+SEAN: Okay, we just spent half the show talking about Lyme disease and how the government's not doing enough to combat it, but earlier this year, our Health and Human Services Secretary, Robert F. Kennedy the Second…
+
+  
+
+MEG: <chuckles>
+
+  
+
+SEAN: …pledged to fight Lyme disease. What is RFK Junior's relationship to Lyme?
+
+  
+
+MEG: Oh wow, RFK Jr.'s Lyme story goes way back
+
+  
+
+SEAN: Woah!
+
+  
+
+SCORING IN - On a Straight Down Train Car
+
+  
+
+MEG: Well, I mean, it's a really RFK Jr-y kind of disease because he's a falconer. He talks a lot about his work with birds of prey. He goes into the woods a lot, he posts lots of photos of himself in nature. And when you start to pay attention to RFK Jr. And Lyme disease, which I have been doing, he starts to tell the same story a few times.  
+  
+SEAN: Huh.  
+  
+MEG: It involves him in a bathtub in the 1980s…
+
+  
+
+<[CLIP](https://www.instagram.com/reel/DSVS390iazq/)> INSTAGRAM – SECRETARY ROBERT F KENNEDY: I remember one day in 1987 when I stood in my bathtub and picked 29 ticks off myself. 
+
+  
+
+MEG: He says he did at one point get Lyme disease. He got the classic bullseye rash on his forearm. He says he took antibiotics and it was cured, but he also describes most of his children have had Lyme disease, some with pretty severe effects of Lyme disease. So he's very focused on it. It also ticks like some other RFK Junior boxes where there is this community of people who feels like they've been neglected and ignored and in his words gaslit, particularly by the federal government. and those are people who have like chronic Lyme disease or long Lyme disease. So this is Lyme disease that hasn't been cured by antibiotics. And that people have been living with these symptoms for a really long period of time. And so he's trying to address that population of people. He had a round table discussion with a lot of those patients, patient advocates, as well as doctors and people who are trying to work on this space. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE – SECRETARY ROBERT F KENNEDY: It is an invisible illness. For many years,  this agency had a deliberate policy to refuse to engage with the Lyme community.
+
+  
+
+MEG: And so he's really speaking to that group of people, but at the same time, Lyme disease is a growing problem …  
+  
+SEAN: Right!  
+  
+MEG: … for anybody who lives in a tick-infested area, which is so many of us.
+
+  
+
+SCORING OUT
+
+  
+
+SEAN: So it sounds like people who have Lyme disease have an ally …  
+  
+MEG: Mm-hm.  
+  
+SEAN: … in the Secretary of Health and Human Services. And of course RFK Jr. Is known to spin up conspiracy theories, pedal falsehoods … 
+
+  
+
+<[CLIP](https://nypost.com/2023/07/15/rfk-jr-says-covid-was-ethnically-targeted-to-spare-jews/)> NYPOST
+
+SECRETARY ROBERT F KENNEDY JR: COVID-19 is targeted to attack caucasians and Black people 
+
+<[CLIP](https://www.youtube.com/watch?v=p6LJXPOv4SM)> YOUTUBE JOE ROGAN PODCAST
+
+SECRETARY ROBERT F KENNEDY JR: Wi-Fi radiation opens up your blood brain barrier and so all these toxics that are in your body can now go into your brain. 
+
+  
+
+SEAN: …  not a fan of vaccines. Does any of that get into the Lyme disease mix? 
+
+  
+
+MEG: Well, I mean, so he convened this round table and it had doctors, it had lawmakers. And so you had these folks speaking around the table about different things that you could do. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: The Lyme Clinical Trials Network is designed to build evidence for repurposing medicines and other treatments so we can improve the lives of people suffering now
+
+  
+
+MEG: And one of the things that RFK Jr.'s really focused on is improving diagnostics and improving treatment. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: There's investments we've made  in identifying new antibiotics that potentially could have a longer, better effects, as well as potentially protective monoclonal antibodies  that can be used as a treatment strategy
+
+  
+
+MEG: What you don't hear him talk about is a vaccine for Lyme disease. And he talks about things like we've got to make it safer for kids to go back in the woods. Vaccine could be one way of doing that. And we actually have a vaccine now that is approaching the regulatory approval process from Pfizer. They reported phase three results. They said they were going to take this to regulatory agencies. And so that was earlier this year. I became interested in, okay, well, RFK Jr. Is a big proponent of solutions for Lyme disease. Is he going to be supportive of this vaccine? Will this be the vaccine that RFK Jr. Sort of wins him over? 
+
+  
+
+SEAN: Tell us a bit more about the history of Lyme disease vaccines because they've been trying for some time to my recollection.
+
+  
+
+MEG: So there actually was an approved Lyme disease vaccine. It was called Lymerix. It was brought to market by GSK, the huge British drug maker. This was about 25-ish years ago. And it worked. It was something like 70 or 80% effective at reducing your risk of getting Lyme disease. But it had kind of this tepid endorsement from the federal vaccine agencies. So the FDA kind of gave it a... It wasn't like the most extreme endorsement, I guess you could say, the way people described it to me. They noted it was just for specific age groups. And then the CDC's group of vaccine advisors, they essentially recommended it for people who might have exposure to ticks. You might consider this. So it wasn't like a strong endorsement that everybody should get this vaccine. And so what we saw was that when it hit the market, the sales were really tepid.
+
+And then some people thought that the vaccine was actually giving them arthritis. 
+
+  
+
+SEAN: Ohh. 
+
+  
+
+MEG: And so this is the kind of thing you're trying to prevent you from getting Lyme disease. You're trying to prevent getting arthritis. The FDA looked into this extensively. Researchers looked at this. The signal did not play out from the conversations I've had with experts about it, but there were lawsuits that were filed. Ultimately GSK just decided to pull the vaccine off the market.  
+  
+SEAN: Huh.  
+  
+MEG: So now you have like 20 years later, Pfizer coming back with this vaccine. So this is approaching regulatory agencies. We might get this Lyme disease vaccine and have to see how RFK Jr's HHS would receive that.
+
+  
+
+SEAN: What's the vibe from HHS and RFK Jr? I mean, he cares about Lyme disease. He thinks there's this forgotten population of people with chronic Lyme disease. He's in charge. He's got an incredible amount of power to do something about it. And here's this vaccine that could be the easy solution. Is it like a match made in tick heaven?
+
+  
+
+MEG: Well, tick hell. 
+
+  
+
+SEAN: Tick Hell.
+
+  
+
+MEG: Preventing the ticks from being able to give us Lyme disease. Although I don't think they care if they give us Lyme disease, they just want to drink our blood. But you know, Kennedy was asked during his confirmation hearing by Susan Collins, because Maine of course is very hard hit by Lyme disease, whether he would support a Lyme disease vaccine. And he told her, quote:  
+  
+
+<[CLIP](https://www.youtube.com/watch?v=UVf93vkLZ_w)> YOUTUBE PBS NEWS HOUR – SECRETARY ROBERT KENNEDY: There's nobody who will fight harder to find a vaccine or a treatment for Lyme disease than me.
+
+  
+
+MEG: Now I reached back out to HHS when I wrote this story back in March about Pfizer's Lyme vaccine application. And a spokesperson for HHS told me HHS supports rigorous gold standard science to better understand, prevent, and treat Lyme disease. So I wrote back, "Does that include a vaccine?" And they just didn't respond.
+
+  
+
+SEAN: Why? Why are they being cagey about this vaccine? It feels like a golden opportunity for them.
+
+  
+
+MEG: You would think, and it's interesting. I've reached out to other folks who are sort of in this realm and most of them are very supportive of a vaccine. It's something that they would like to have as part of the toolkit. I will say there is one population that is skeptical of a vaccine and that is certain folks who have this chronic Lyme who live with long Lyme disease, they feel like they were burned by the first vaccine. They still believe that there were safety problems with that vaccine, at least some portion of this group who I spoke with. And so they're nervous about it, but other people really want a vaccine.
+
+  
+
+SEAN: Where does it leave us ultimately, you think? Is this a time to feel hopeful that there are solutions that are, solutions incoming here as these ticks become more and more just like a concern every summer across this country? Or is it a time to feel ultimately fearful?
+
+  
+
+MEG: Well, I mean, it definitely feels like we're in a time with this, like, massive upsurge in ticks. They're all around, they're spreading new, newly discovered pathogens. So it definitely doesn't feel like we're on the downtrend of that by any means. And the government has put out a plan to try to at least address Lyme disease and to an extent alpha gal, but it's not perceived from people I've spoken with to be enough. It's not a moonshot by any means to address these kinds of things.
+
+  
+
+SEAN: What's the plan?
+
+  
+
+MEG: Yeah. So this came out in May. They call it a sweeping plan to combat Lyme disease and advanced treatment. So you might expect huge amounts of money being poured into this big research consortiums working with the industry. The details are less sort of powerful than that from what we see in the release that HHS put out. They say the actions include a multimillion dollar pilot program focused on tick control up to two and a half million dollars in innovation challenges, funding for NIH researchers to combat alpha gal syndrome and a public-private collaboration to help patients connect with experienced providers.
+
+  
+SEAN: Huh.  
+  
+MEG: So I think people are glad that there is focus on this, but yeah, whether it's the moonshot that is needed especially…  
+  
+SEAN: Mm.  
+  
+MEG: …with the backdrop of broader cuts to science funding. I think experts in this space think it leaves something to be desired. 
+
+  
+
+SCORING IN - Hot Plate  
+  
+
+SEAN: Bummer! But in the meantime, what do you do if you’re going camping this weekend? Jonathan? 
+
+  
+
+JONATHAN: Doing tick checks. And we do it in my household pretty much daily when you come home, do a thorough tick check, throw your clothes in the dryer. Ticks hate heat. And some people like to use permethrin, spray this insecticide that's designed to kill ticks on your boots or your pants when you go out for a hike. So there are things that, I mean, for decades, researchers have known these things are really effective if you keep doing them, if you stay vigilant. Right? And all it takes is that one time, that one time you go out for a hike and you come back and you forget to do the tick check. So we need those kinds of personal measures of vigilance and protection, but we still need to kind of push for a bigger public health response to this…. 
+
+  
+
+SCORING BUMP
+
+  
+
+JONATHAN: Because the ticks are going to keep, they're going to keep spreading into the calendar too in the sense that as winters get warmer, more and more days of the year when you're outdoors, you're going to encounter ticks who are hungry and they're looking for you. 
+
+  
+
+SCORING BUMP
+
+  
+
+SEAN: Thanks, Jonathan! And thanks Meg! And thanks Danielle Hewitt, for producing the show today. Amina Al-Sadi for editing. Gabriel Dunatov for fact checking. And Patrick Boyd for flying solo. 
+
+  
+
+Be careful out there, friends!**
+
+#### Parasitic Bugs Are Making Combacks Across The Country
+
+# Science: Parasitic Bugs Are Making Combacks Across The Country
+
+![Science: Parasitic Bugs Are Making Combacks Across The Country](https://i.scdn.co/image/ab67656300005f1fc26403737b5cdf5fba559b7c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** 1A
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0t1KduppfOB2QGqCV6gT5s)
+
+[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
+
+In 1966, the United States declared victory over a destructive flesh-eating parasite that devastated livestock. The New World Screwworm is a fly whose larvae burrow into the living flesh of mammals. It was eradicated after a long campaign that involved releasing millions of sterile flies over infested areas.Last week, that fly came back.The U.S. Department of Agriculture confirmed five cases of larvae contamination in Texas and New Mexico – the first detections in decades. Federal officials say the food supply is safe, but the cattle industry is on high alert. The American cattle supply is already at a 75-year low. Beef prices are high. And a screwworm outbreak could make it worse.Outside farms and ranches, the tick population is growing and spreading in new parts of the country. Emergency room visits for tick bites hit a 10-year seasonal high in April. And a growing number of Americans are discovering they’ve developed an allergy to red meat triggered by tick bites.We sit down with a panel of experts to talk about it.Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Return of Alpha Gal
+
+![Return of Alpha Gal](https://i.scdn.co/image/ab67656300005f1fc89d7cd6fe57023593e6c87a)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2021
+
+**Series:** Radiolab
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3k70ez6iqTMJLZ5Of0qX7g)
+
+[Open Series in Spotify](https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL)
+
+Tuck your napkin under your chin.  We’re about to serve up a tale of love, loss, and lamb chops - with a side of genetic modification. Several years ago we told a story about Amy Pearl. For as long as she could remember, Amy loved meat in all its glorious cuts and marbled flavors. And then one day, for seemingly no reason, her body wouldn’t tolerate it.  No steaks. No brisket. No weenies. It made no sense: why couldn’t she eat something that she had routinely enjoyed for decades?  It turned out Amy was not alone. And the answer to her mysterious allergy involved maps, a dancing lone star tick, and a very particular sugar called Alpha Gal.  In this update, we discover that our troubles with Alpha Gal go way beyond food. We go to NYU Langone Health hospital to see the second ever transplant of a kidney from a pig into a human, talk to some people at Revivicor, the company that bred the pig in question, and go back to Amy to find out what she thinks about this brave new world. The original episode was reported by Latif Nasser, and produced by Annie McEwen and Matt Kielty. Sound design and scoring from Dylan Keefe, Annie McEwen, and Matt Kielty. Mix by Dylan Keefe with Arianne Wack. The update was reported and produced by Sarah Qari. It was sound designed, scored, and mixed by Jeremy Bloom.  Support Radiolab by becoming a member today at Radiolab.org/donate.    Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Rift Valley Fever - Ruminating on ruminants
+
+# Ep 164 Rift Valley Fever: Ruminating on ruminants
+
+![Ep 164 Rift Valley Fever: Ruminating on ruminants](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/40Oqk2CCeakS4MRJXxYxcY)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+Hemorrhagic virus? Check. Deadly disease? Check. Mosquito-borne? Check. Affected by animal movement, human activity, and environmental change? Check. Rift Valley Fever has all the markings of a classic TPWKY episode. This week, we’re doing a deep dive on this deadly virus, taking a One Health approach to explore the intricate relationships between animals, humans, and the environment to understand how this virus moves across the landscape. We trace the various paths this virus takes: through the organisms it infects, across the globe as it spreads, and over time as it appears to be evolving to be deadlier. Tune in to learn more about Rift Valley fever and what we might see with this pathogen in the years to come.Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAu See omnystudio.com/listener for privacy information.
+
+:::
+
+#### Should we reengineer the world's deadliest animal?
+
+![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4pXSr8F6Z539jrtjxdMGy3)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+The most ferocious predator for us humans is actually quite small: the mosquito. They are hungry for blood, spreading diseases like malaria, yellow fever and dengue – and picking up new ones all the time. But what if we could wipe out the mosquito? Gene-editing technology could do it, potentially saving millions of lives. But it comes with serious potential for risk. Which begs the question: Should we get to decide when humanity rewrites nature? Here to discuss that is Ben Bradford, the host of a new podcast distributed by the NPR Network: Are We Doomed?Interested in more science? Email us your question at shortwave@npr.org.Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+
+<iframe src="https://www.npr.org/player/embed/nx-s1-5806598/nx-s1-mx-5806598-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+SPEAKER: You're listening to Short Wave from NPR.
+
+EMILY KWONG: The most ferocious predator for us humans is actually quite small.
+
+\[BUZZING\]
+
+KWONG: It's the mosquito. They are hungry for blood and spreading diseases all the time, including serious ones, like malaria, yellow fever, and dengue. But what if we could wipe out the mosquito, We have the technology to do it. But should we? Here to discuss that is Ben Bradford, the host of a new podcast distributed by the NPR Network. It's called Are We Doomed?
+
+BEN BRADFORD: It is. Hi, Emily.
+
+KWONG: So, Ben, your podcast Are We Doomed? covers a lot, from killer AI to nuclear weapons and, of course, the bloodthirsty micropredators I want to talk about today. How do you feel about mosquitoes, by the way?
+
+BRADFORD: I think they're gross, and I think they're rude. And you mentioned, Emily, new gene-editing techniques could allow us to eradicate our little insect nemesis, potentially saving millions of lives.
+
+KWONG: Yes. I learned that from you, from your show.
+
+BRADFORD: Yeah, thank you.
+
+KWONG: The tech is here.
+
+BRADFORD: Yeah. Thank you. And it would be amazing. But also, in that technology is something inherently more dangerous. I talked to Kevin Esvelt, who is a biologist now at the MIT Media Lab.
+
+KEVIN ESVELT: And if you can engineer a mosquito so it can't spread disease, you could engineer a mosquito so it always spreads disease.
+
+\[CONTEMPLATIVE MUSIC\]
+
+KWONG: Today on the show, the technology that allows us to kill the mosquito comes with all kinds of complications.
+
+BRADFORD: So what does it mean to try to change an entire species? Who gets to decide? What might the ripple effects be? How do you test it? How do you protect it?
+
+KWONG: Easy questions, you know. You're listening to Short Wave, the science podcast from NPR.
+
+\[CONTEMPLATIVE MUSIC\]
+
+KWONG: OK, Short Wavers. I'm here with Ben Bradford, who's just done all this reporting on have to save millions of people from malaria by wiping out the mosquito. Ben, how does that even work?
+
+BRADFORD: Yeah. So let's go back to early last decade. Scientists developed a new form of gene editing, which you may know as CRISPR. It's this way of scalpelling out a tiny strand of DNA. And you kind of like suture in a new trait. It doesn't quite look like that, but that's essentially what's happening. And so with CRISPR, you can cure a genetic disease or engineer a cow to grow without horns, both things that they have done in labs.
+
+KWONG: Wow.
+
+BRADFORD: But Kevin Esvelt, this biologist now at the MIT Media Lab, had his own realization.
+
+ESVELT: Turns out, it doesn't just let you engineer organisms in the lab. It lets you let them go, and the engineered trait will spread to most of the ones in the wild. That's incredibly exciting.
+
+BRADFORD: Kevin is the person who figured out you could CRISPR a creature, do this little DNA surgery, so it always passes along the gene that you put into it. And so with CRISPR, the idea is you can create a mosquito that, for instance, always has males, and then its offspring will always have males. And so you put it into an area, and it extinguishes all these species carrying malaria in that area.
+
+KWONG: Because there aren't females to mate with.
+
+BRADFORD: Yeah. And so to do this, you, of course, have to engineer a mosquito from hell. In the show, we called him Jerry.
+
+JERRY: Hi.
+
+\[MACHINERY WHIRRING\]
+
+\[SPLAT\]
+
+BRADFORD: To clarify, Jerry's mission is actually not to murder all mosquitoes, because they're just trying to target in an area with malaria. And that's because mosquitoes are ecologically important.
+
+KWONG: They are important to the environment. It's true.
+
+BRADFORD: I didn't know that, but they are. And it was disappointing. They're pollinators and birds--
+
+KWONG: Wow.
+
+BRADFORD: --and spiders, yeah, all kinds of critters eat them.
+
+KWONG: Yeah. It would be reckless to wipe out mosquitoes entirely. But when it comes to Jerry, the mosquito from hell, he's just meant to wipe out the mosquitoes that carry malaria in a certain region. But then the question becomes, how do you do that without affecting birds and spiders?
+
+BRADFORD: So the idea is to offer birds and spiders a different kind of mosquito to snack on, one that doesn't transmit malaria, because there's a whole bunch of different types of mosquito species. And even better or worse, Kevin says, we don't need to take out the malaria-carrying mosquitoes forever, even.
+
+KWONG: Right. You say in the show, they just need to, quote, \\"go on a sabbatical.\\"
+
+BRADFORD: Yeah. That's right. We just need them to, like, disappear for a little while.
+
+ESVELT: Malaria transmission requires humans, and it requires mosquitoes. So this is a back-and-forth transmission chain.
+
+BRADFORD: So if the mosquitoes go on sabbatical for long enough, for the malaria to die out in the humans that the mosquitoes pick up the malaria from and transmit it between, then when the mosquitoes come back, the malaria is gone, and there's just nothing for them to transmit.
+
+KWONG: This plan is bold. It's like, use CRISPR, make mosquito. Mosquito Jerry, though, only makes sons. And then the malaria mosquitoes will be wiped out, but not for too long, because that would be bad.
+
+BRADFORD: Just enough.
+
+KWONG: Just a sabbatical.
+
+BRADFORD: Yeah. And so it turns out that there's a whole bunch of steps that you kind of have to follow if you're going to do this in a way where you, one, test that the thing actually is going to work, and two, test that it's not going to work too well and go around the world and create a whole bunch of problems.
+
+KWONG: So how do you even go about testing this?
+
+BRADFORD: Well, you need an area where you're going to put out your mosquitoes into the wild, kind of a cordoned-off area where they're going to be on their own. And basically, what we're describing is a mosquito Jurassic Park. And then that leads to other questions, which is, how do you stop what happens in every Jurassic Park movie?
+
+KWONG: Uh, the dinosaurs get out.
+
+BRADFORD: And so, of course, this is the challenge. And we know what we're trying to avoid, because we've seen it in history.
+
+KWONG: Let's listen to a section of the episode that talks about how this can all go wrong.
+
+\[AUDIO PLAYBACK\]
+
+BRADFORD: Take a tangent with me to the shores of Australia and New Zealand in the late 1800s. European ships landed, bringing sailors and soldiers and felons and rabbits. Europeans brought rabbits over for food and hunting, snacks and sport. Of course, the rabbits quickly escaped and bred all over both islands and became a scourge on an environment totally unprepared for them. They eat everything. New Zealanders looked to fight back. They brought over ferrets and weasels to sic on the rabbits. And when that failed, ferrets and weasels became more invasive species. Skip to the 1990s. Neighboring Australia, largely by accident, unleashed an only partially tested biological weapon against its rabbits.
+
+SPEAKER: This nasty virus that wiped out, like, 2/3 of all rabbits or more.
+
+BRADFORD: New Zealand had been considering using this virus as well, but it wanted more testing first.
+
+SPEAKER 1: New Zealand government said, we're not sure of safety and so forth. So for now, you're forbidden to import this virus into New Zealand.
+
+BRADFORD: So what do you think happened at this point? New Zealand farmers, losing millions of dollars as rabbits destroyed their crops, began taking little vacations to Australia to go hunting for infected rabbits.
+
+SPEAKER 1: And they smuggled in diced up, infected rabbit parts from Australia illegally.
+
+BRADFORD: They liquefied the body parts into virus-laden smoothies, which they spread on their fields. Bam. New Zealand had the rabbit virus.
+
+SPEAKER 1: And what's the government going to do?
+
+SPEAKER 2: When it's out, it's out.
+
+BRADFORD: This is Kevin's fear. If we do create a mosquito Jurassic Park to test Jerry, which we have to do to make sure he works and doesn't cause a ripple effect of unknown ecological destruction, Kevin says some New Zealand farmers are going to steal one of our mosquitoes.
+
+ESVELT: Of course someone would do that, and they would tell themselves a perfect story in which they're the hero, right?
+
+BRADFORD: If Jerry gets out, we don't know what harm he would cause because we haven't field tested. Consider the possibilities. Jerry and his descendants could travel around the world. These mosquitoes would spawn only males wherever they go, leading to globally extinguishing all of his species. Worse, what if it turns out Jerry can mate with another type of mosquito and he passes along his all-boys gene to one of them? What if that one can mate with another species, and so on? Maybe that gene travels throughout all types of mosquito and does eradicate them entirely. What if birds and spiders and flowers can't adapt to that loss, and it creates a domino effect of environmental destruction? Then we've got a problem.
+
+\[RELAXING MUSIC\]
+
+\[END PLAYBACK\]
+
+KWONG: This approach, you know, clearly comes with so many unintended consequences. You say on the show, the point is to insert a trait that spreads like wildfire, and wildfire is hard to stop.
+
+BRADFORD: Yeah. And so that is the main argument against doing this thing, this technology, which is basically called an engineered gene drive. And so there are people who think we should, you know, pack this up, seal it away, never do it.
+
+KWONG: And a gene drive in nature is when, like, a trait kind of naturally evolves to get passed on.
+
+BRADFORD: It gets really good at being passed through its offspring.
+
+KWONG: But here, humans are interfering to make that happen.
+
+BRADFORD: Here, we're making it happen. Yeah. That's sort of the debate. But, of course, the stakes are, do you get rid of malaria? Do you get rid of dengue fever? And so when I talked to Kevin, the person who kind of figured out, hey, we could do this, his biggest concern is that an accidental, untested release of, let's say, Jerry, poisons the whole discourse around this and any attempt to do it.
+
+ESVELT: We know what happens when there's a backlash to technology. We're seeing it right now for vaccines and other things. And we saw it even in biomedicine with something like gene therapy, where a single death in a poorly planned clinical trial that led to tragedy set back the entire field by more than a decade. More than a decade is more than 5 million dead children.
+
+KWONG: That's a lot of pressure. Because, you know, mosquito-borne diseases cost the lives of hundreds of thousands of people every year. But on the other hand, you don't want to roll out a gene drive project too quickly because something could go terribly wrong.
+
+BRADFORD: And you can hear, in our episode, that pressure that Kevin feels because of that. And so it does. It creates all of these hurdles, all of these kind of like little puzzles that you need to solve to be able to do that. You know, we need to test our mosquitoes, like Jerry, to make sure he doesn't cause unintended consequences. You have to do this sort of like field test your Jurassic Park. But how do you do the Jurassic Park without risking those consequences, where someone's going to steal him or he's going to get out? I mean, they fly, for God's sakes. So, like, what are you going to do?
+
+KWONG: It is such a puzzle. And in your episode, you talk about some ways to work the puzzle, to actually, like, take what's theoretical and make it happen in the real world.
+
+BRADFORD: These guys are so smart. They're so smart.
+
+KWONG: What is your takeaway from all this when it comes to the ethics of a gene drive for mosquitoes, but really, also for any species?
+
+BRADFORD: Yeah. I think that the possibilities here are really exciting. I mean, malaria is terrible. And the mosquito has killed more people than any other creature on the Earth. And so you start thinking about how we can solve that for our species. That's amazing. But, you know, I will say, you know someone else on our team, our animator, who was watching this episode and doing our animation for it-- and he heard it and was like, this is insane. We should never do this.
+
+KWONG: Mm. Ben Bradford, your podcast Are We Doomed? is out now. Thank you so much for coming into Short Wave.
+
+BRADFORD: Thank you for having me.
+
+KWONG: Check out the show. It's really good. You can find it all the places you typically get your podcasts. And also, if you haven't already, download the NPR app. My bosses really want you to do it, and you will honestly get great journalism from it. Thank you. This episode was produced by Rachel Carlson and edited by our showrunner Rebecca Ramirez. Tyler Jones checked the facts. Kwesi Lee was the audio engineer. I'm Emily Kwong. Thank you for listening to Short Wave from NPR.
+
+#### Ticks are a growing problem, no matter where you live
+
+![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5m5WghWyi9qJIZcvJej9cs)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historically, most Lyme cases were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use, scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?Interested in more episodes about pests and parasites? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### What's Next for a New Lyme Vaccine
+
+![1045 - What's Next for a New Lyme Vaccine](https://i.scdn.co/image/ab67656300005f1f6acea551cf6af001e255a691)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/78QC0hgWHx6pTOvCY02SVb)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode: A new vaccine shows 70% efficacy in preventing Lyme disease, but limitations to the clinical trials put the fate of this intervention in limbo. In this episode: Anna Durbin, an expert in experimental vaccines, explains where this vaccine shows promise, where it falls short, and what could happen next for licensing and regulation. Guest: Dr. Anna Durbin is a professor of International Health and the director of the Johns Hopkins Center for Immunization Research. Host:  Stephanie Desmon, MA, is a former journalist, author, and the director of public relations and communications for the Johns Hopkins Center for Communication Programs. Show links and related content:   Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial—Pfizer   Tickborne Diseases Are on the Rise—Here's What To Know—Johns Hopkins Bloomberg School of Public Health   F.D.A. Reverses Decision and Agrees to Review Moderna's Flu Vaccine—New York Times   It's Tick Season!—Public Health On Call (April 2025)   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+### Video Clips
+
+#### Trash containers making a difference in NYC's war on rats
+
+**CBS New York**, *08 06, 2026*
+
+## Video (1:56)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+There have been fewer complaints about rats to 311, which appears to show trash container efforts are working. CBS News New York's Dave Carlin reports. 
+
+For video licensing inquiries, contact: licensing@veritone.com
+
+## Transcript
+
+**0:04** · CALL IT A TRASHY TRIUMPH FOR CITY LEADERS IN THEIR WAR AGAINST RATS. AS DAVE CARLIN REPORTS, FEWER COMPLAINTS ABOUT RATS TO 311 APPEAR TO SHOW THOSE CONTAINER EFFORTS ARE WORKING.
+
+**0:17** · HIS EAST VILLAGE APARTMENT IS ON A STREET WHERE RATS SEEM TO HIDE DURING THE DAY. BUT AFTER THE SUN GOES DOWN, THEY'RE OUT FOR BUFFET TIME, SAYS JOHN HENNIGAN.
+
+**0:26** · AT NIGHT, THEY'RE VERY ACTIVE.
+
+**0:30** · ACTIVE ALSO DESCRIBES CITY SANITATION WORKERS DEPLOYING EMPIRE BINS. THE JOB IS DESCRIBED AS DONE IN PARTS OF HARLEM AND MORNINGSIDE HEIGHTS, WHERE WE SEE THE NEW BINS FOR BUILDINGS, NEW RAT RESISTANT CORNER LITTER BASKETS AND APPROVED SECURE BINS FOR BUSINESSES. FELIX MOLINA SITS IN A PARK HE ONCE AVOIDED FOR BEING RAT INFESTED.
+
+**0:50** · NOW IT'S NO PROBLEM AT ALL.
+
+**0:51** · MY WIFE ACTUALLY HAD A A FLOWER BED IN OUR FRONT WINDOW THAT WE COULDN'T KEEP FLOWERS IN BECAUSE THE RATS WOULD JUST COME IN AND DIG IT ALL UP AND TEAR IT ALL TO PIECES.
+
+**1:02** · AND WHAT ABOUT NOW?
+
+**1:04** · NOT NOT A PROBLEM.
+
+**1:06** · GREGORY ANDERSON IS COMMISSIONER OF THE DEPARTMENT OF SANITATION, AND WE ASKED HIM WHAT'S GOING ON WITH RAT SIGHTINGS CITYWIDE.
+
+**1:14** · AND YOU HAVE SUCCESS.
+
+**1:14** · SO IT'S ROUGHLY 22% DECLINE IN RAT COMPLAINTS IN THE FIRST SEVEN MONTHS OF THIS CALENDAR YEAR COMPARED TO THE SAME TIME LAST YEAR. CONTAINERIZATION IS THE REASON.
+
+**1:24** · HELP WITH RATS ROLLING.
+
+**1:25** · OUT NEIGHBORHOOD BY NEIGHBORHOOD. AND IT'S GOING TO TAKE TIME. ACCORDING TO THE CITY, THE CITY MUST BUY HUNDREDS MORE OF THESE AUTOMATED SIDE LOADING COLLECTION TRUCKS TO GO WITH THE EMPIRE BINS.
+
+**1:35** · EVEN THOUGH WE'VE TAKEN TWO 3% OF PARKING SPACES, IT'S REALLY MADE A BIG IMPACT ON JUST HOW THE NEIGHBORHOOD LOOKS AND FEELS.
+
+**1:45** · THE FOCUS NOW PARTS OF BROOKLYN, INCLUDING DUMBO, THAN THE REST OF THE CITY.
+
+**1:48** · WE WILL BE CITYWIDE BY 2031.
+
+**1:50** · SO WE'RE ESTIMATING AROUND 60,000 BINS.
+
+**1:53** · LOOK FOR THE PARTS OF BROOKLYN TO BE COMPLETELY CONTAINE

@@ -12,7 +12,9 @@ categories:
 ![How Housing Discrimination Works](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2021
+
 **Series:** Stuff You Should Know
 
 ::: {.callout-description collapse="true"}
@@ -25,3 +27,4370 @@ Owning a home in the US is a way to pass wealth down from one generation to the 
 
 :::
 
+## Transcript
+
+Speaker 1 (00:01):  
+
+Welcome to Stuff You Should Know, a production of I  
+
+Heart Radio. Hey, and welcome to the podcast. I'm Josh Clark,  
+
+and there's Charles W Chuck Bryan over there, and this  
+
+is stuff you should know. Um the man oh man addition,  
+  
+(00:25):  
+
+do you know what I love about this topic is  
+
+that it's not just a bunch of like ranting about  
+
+how we think things are and how people think things are.  
+
+It's like so studied and statistic heavy that you can  
+
+talk about how things are and then say, and here's  
+  
+(00:45):  
+
+the proof exactly, here's a lot of data to back  
+
+it up. It's really great. I love it when they  
+
+dovetail like this. Yeah. I get the impression, though, UM  
+
+that you when you're talking about the studying race and  
+
+especially in America like you are, you have to back  
+
+it up with data like people are like, oh, yeah,  
+
+I don't I don't know about that. But um, I  
+
+want to give a shout out to actually to um  
+  
+(01:08):  
+
+uh scholars both sell sociologists of race. UM Professor Villnabashi  
+
+Treatler from UC Santa Barbara and Professor Tricia Rose of  
+
+Brown University both are experts on this stuff and they  
+
+helped me out big time with this and some other  
+
+research on on racism I've done, um and they Dr  
+  
+(01:28):  
+
+Bashi Treatler said, hey, make sure you mentioned this hashtag  
+
+we have going called site hashtag. Sorry, and I'm making  
+
+the hashtag symbol like justin Timberlake hashtag site black women  
+
+ce I t e black women. UM, and that leads  
+
+you to all sorts of good often overlooked research by  
+
+black scholars. Um, who are women that don't always get  
+  
+(01:51):  
+
+a lot of credit. So I'm glad you told me  
+
+about that one. I wanted to tell everybody else. So  
+
+when you, uh, that was a stutter when he said  
+
+so so sociologists, you didn't mean they were just mediocre sociologists. No,  
+
+I was. I was sociologist. I could see how that  
+
+would be confusing. I was doing my impression of Phil  
+
+Collins saying sociologist so so studio. Yeah, well that's the  
+  
+(02:16):  
+
+last joke we're gonna tell you. Oh yeah, probably. I  
+
+was warned by Dr Bashi Treatler not to do our  
+
+usual stick when we're talking about race stuff, and I  
+
+was like, well, I mean, we we can handle ourselves.  
+
+She said. I I listened to your stuff. I listened  
+
+to the Braws episode just trust me on this. It's like,  
+
+all right, So then that means the housing discrimination episode  
+  
+(02:38):  
+
+officially starts. Now, that's right. So that's what we're talking about, dude.  
+
+Housing discrimination and um uh in the United States, and  
+
+there is a very long history of housing discrimination. And  
+
+you might say, like, well, that really sucks. That sucks  
+
+that people have trouble buying a home or maybe they  
+
+get less favorable terms on their loans just because of  
+  
+(02:59):  
+
+their race, and that does suck. That's absolutely true. But  
+
+it's even worse than that because in the United States,  
+
+one of the biggest ways of growing wealth intergenerationally, like  
+
+over the course of generations within a single family is  
+
+through a house. Yeah, I mean it's sometimes people don't  
+  
+(03:19):  
+
+have a ton of money to invest in the stock market.  
+
+Some people think the stock market is not something to trust.  
+
+But one thing that has always been fairly reliable in  
+
+this country, you know, say, for a few moments in history,  
+
+is real estate and the idea that if you scrap  
+
+up and save enough money for a down payment for  
+
+a home, that house will eventually be worth quite a  
+  
+(03:42):  
+
+bit more years later, and you can sell it and  
+
+use that extra windfall of cash to invest in the  
+
+stock market or to pass down to your kids so  
+
+they can then get in the housing market sooner than  
+
+they might have and then it just becomes a cycle  
+
+where it just builds wealth. Yeah, Like the average family  
+  
+(04:02):  
+
+in America has most of their net worth tied up  
+
+in their house, and then you know, when it comes  
+
+time to sell it and the house is paid off,  
+
+that's a lot of money. And then when you kick  
+
+the bucket, your kids get that money and maybe they  
+
+get a better house, and it just keeps growing and growing.  
+
+So if you put up barriers to housing, you're actually  
+
+putting up barriers to passing along intergenerational wealth. And as  
+  
+(04:24):  
+
+a big, big problem in America. UM Still today, I  
+
+saw a study from I think Brookings that found that,  
+
+um the median. Yeah, brooking study said that the median  
+
+net worth of a white family in America is a  
+
+hundred and seventy one thousand dollars. The median net worth  
+  
+(04:48):  
+
+of a black family in America is seventeen thousand, one  
+
+hundred and fifty dollars, about a ten of what the  
+
+median is for white people. And that is largely because  
+
+of housing discriminate in the history of housing discrimination in  
+
+this country. Yeah, and as far as history goes, you know,  
+
+it started with literal racist laws where they said, if  
+  
+(05:10):  
+
+you're a black person or a black family, you cannot  
+
+live here. Um. That went on for a while, and  
+
+then those laws were sort of altered to the Jim  
+
+Crows Separate but Equal era, where they said, you know what, Um,  
+
+we'll say things are better, but it's really the same  
+
+effect in the end. And then they got rid of  
+  
+(05:30):  
+
+those laws and said, all right, now we've really passed  
+
+the meaningful legislation, and now we can just racially discriminate  
+
+on the down low and very creative ways. Yeah, that's  
+
+basically the pattern that it's followed. Um. And what kind  
+
+of stuck out to meet Chuck is is that before  
+
+about nine hundred, before like the rise of like industrialization  
+  
+(05:53):  
+
+to a really legitimate degree in the United States, like,  
+
+there wasn't not nearly as much segregation as we saw  
+
+starting around nineteen especially in the North, because if you  
+
+had a trade or a craft in the North and  
+
+you were an African American, there's a really good chance  
+
+that you were going to be serving white people as  
+
+well as black people, right and because you usually were  
+  
+(06:16):  
+
+very closely your home was tied close to your shop,  
+
+you often lived above it if you were like a  
+
+cobbler or something like that. Um, you made live next  
+
+door to a white baker or something like that. So  
+
+the there wasn't a lot of segregation until industrialization came  
+
+along and there was a big call for labor, which  
+
+drew a lot of African Americans, a lot of Black  
+  
+(06:38):  
+
+Americans out of the South up to the north. And  
+
+all of a sudden, all of those people who were  
+
+living in integrated neighborhoods, all those white people I should say,  
+
+had had a problem with this influx of black migration  
+
+from the South to the north, and they responded with  
+
+a lot of really disgusting violence. Yeah. I mean, we've  
+
+talked about some of these, um race incidents and race  
+  
+(07:01):  
+
+riots and race almost race wars really uh here and  
+
+there on the show, and they're always hard to talk about.  
+
+But that was just sort of the reality of things  
+
+at the time. Um. In the nineteen thirties, the New  
+
+Deal comes along, and this is when legislation starts to  
+
+kind of kick in. When the government stepped in and said,  
+
+you know what, we think we should make it easier  
+  
+(07:23):  
+
+for people to own homes. We really want to boost  
+
+home ownership because that's a boon for the economy of  
+
+the country. And we're going to create the home Owners  
+
+Loan Corporation, which is going to help people refinance their mortgages.  
+
+But we need some criteria here to sort of establish  
+
+a uniform way of like how to how to dole  
+  
+(07:45):  
+
+out this assistance. And they reckoned, let's let's look at  
+
+every population of forty or more and let's create a  
+
+color coded map that's based on riskiness of these loans.  
+
+And they said, you know, they talked to real estate brokers,  
+
+they talk to bankers, and they said, help us out,  
+
+help us draw these boundaries, and they came up with  
+
+a one, two, three, four color graded system. Right, yeah,  
+  
+(08:07):  
+
+that's right. Because again this was like long before credit  
+
+scores were developed, so you couldn't really look at you know,  
+
+if somebody came into your bank to ask for a loan,  
+
+you couldn't be like, well, you're your your credit scores this,  
+
+So I'm not gonna look at that start. I don't  
+
+know we should do an episode on if we haven't already.  
+
+I don't think for sure. Um, but yeah, so the  
+
+four color codes they had were also um delineated by  
+  
+(08:29):  
+
+grades Grade A, B, C, and D. Grade A was  
+
+the most desirable neighborhood. They were usually homogeneous, meaning white. Um,  
+
+there were um lots of professionals living in there. Grade  
+
+B was maybe a step down, but still largely homogeneous,  
+
+if not totally homogeneous, and they were considered still desirable.  
+
+And then it started to get into the lower grades  
+  
+(08:50):  
+
+grades C and D, and C was um, I think  
+
+colored yellow on the map, right, Yeah, the first two  
+
+were green and blue, and then Grade C was rated  
+
+as declining and colored yellow and that sort of. In fact,  
+
+I think it even said infiltration of a lower grade  
+
+population in the document, which you don't have to be  
+  
+(09:13):  
+
+a genius to figure out what they were saying there.  
+
+It means people of color were moving in. And then  
+
+finally you end up with the color red Grade D,  
+
+which is least desirable. Um, very densely populated areas almost  
+
+always communities of color. Right. So um, the h O  
+
+l C created these maps, and then um, along came  
+  
+(09:36):  
+
+the Federal Housing Authority and they said, well, we need  
+
+similar maps because we're not we're not here to help  
+
+stem the tide of foreclosures. We're actually here to generate  
+
+new home ownership among Americans. Um, but we still have  
+
+the same issue. We got to figure out who's credit  
+
+worthy and who's not. So we're going to base it  
+
+on where the people live. And they basically made identical  
+
+maps to the h O l C maps, and so  
+  
+(09:58):  
+
+they probably used them. Right, there's a lot of debate.  
+
+I don't think anyone's found the smoking gun yet. But  
+
+if you take an h O l C map in  
+
+an f h A map and you put them over  
+
+one another, they're basically the same thing. And I I  
+
+it's kind of all. It's up for the debate still.  
+
+But the the the upshot was that because of these maps, Um,  
+  
+(10:22):  
+
+if you lived in one of these red and often  
+
+yellow communities, they wouldn't lend to you, for um, for  
+
+a new mortgage or even a second mortgage to say,  
+
+remodel your home. And they also wouldn't assist you with  
+
+refinancing your existing mortgage, which means you're subject to foreclosure.  
+
+And if you were in a red or yellow community,  
+  
+(10:43):  
+
+you were probably um black or a person of color  
+
+or some other ethnic minority. And UM, that means that  
+
+they were shut out of this enormous housing boom that  
+
+generated a tremendous amount of prosperity immediately after the New  
+
+Deal in World War Two. As we'll see, so African  
+
+Americans were left out of or on the fringes of  
+  
+(11:04):  
+
+the New Deal anyway. And this is where we get  
+
+to shout out Francis Perkins. Perkins again, which is it's  
+
+fun to now that we know so much about her,  
+
+to continually shout her out. But she did a lot  
+
+of work arguing in favor of inclusion for black people  
+
+in the New Deal. Um, I guess you know, sometimes successfully,  
+
+sometimes not. But at the end of the day, the  
+  
+(11:25):  
+
+f h A imposed these rules through the New Deal. Uh.  
+
+Their maps were just like the UH the h O  
+
+l C. And the process of excluding these groups because  
+
+they were colored red was called redlining. That is that  
+
+like the where that whole term comes from. That's exactly  
+
+where it comes from. So now today, any any time  
+
+you're discriminated against, whether it's buying insurance or anything like that, um,  
+  
+(11:49):  
+
+based on your race or say your community. Um, it's  
+
+called redlining now. But that's where it grew out of  
+
+those h O l C maps and f A J maps. UM.  
+
+And I mean they would use terms and like their  
+
+their handbooks that like these communities had quote undesirable racial  
+
+or nationality groups in them, so you couldn't you couldn't  
+
+lend them any money or whatever. Um. And it was  
+  
+(12:11):  
+
+I mean like this is still like a really big  
+
+problem today. Yeah, I mean back then basically and still today.  
+
+In many cases, that leaves you with a couple of  
+
+options as a person of color. You can rent uh  
+
+forever um often times back then and still now from  
+
+a white landlord who doesn't live anywhere near that community,  
+  
+(12:31):  
+
+not always, but usually, or just pay for the home  
+
+in cash, which is a stretch for anybody. Uh, it's  
+
+it's tough to do unless you're like wealthy. And there  
+
+were there were, I have to say there were black  
+
+owned banks. But there was nine black own banks in  
+
+the entire United States in the thirties. So that is  
+
+a place where you could turn to if you're lucky  
+
+enough to have one in your area. But that that  
+  
+(12:53):  
+
+was not a solution to the general population for Black Americans. Yeah,  
+
+and like you said, also affected their ability to get  
+
+second mortgages, to do home improvements or to like expand  
+
+on their house and upgrade it, remodel it. So that  
+
+means that the properties are gonna deteriorate and decline over  
+  
+(13:13):  
+
+the years, and it's just it's part of that systemic  
+
+racist cycle that is just prevalent. Yeah, because still today, eventually,  
+
+over time people from the outside looking in say, look,  
+
+black people can't even take care of their communities. Look  
+
+at look at how their houses are. Um, just as  
+
+a result of this. That is definitely like the definition  
+  
+(13:33):  
+
+of systemic racism for sure. It's just by the way  
+
+into the structures. If you hear dogs barking, My dogs  
+
+are upstairs and they're just very excited about this topic. Yeah,  
+
+and I don't know what's going on there, but they're  
+
+not going to shut up. So let's say we press on.  
+
+We'll press on. Should we take a break, then press on.  
+
+We're going to press on like some lee nails right  
+  
+(13:53):  
+
+after a break. How about that? All right, it sounds good.  
+  
+(14:19):  
+
+All right, we're back and look, these things look amazing  
+
+on me. Yeah, they're very nice. There's a little bit  
+
+of cuticle showing. I didn't put them right up against it,  
+
+but it's still it's passable. Well, I think if you  
+
+paint them just right, that's not so noticeable. Right, fill ins,  
+
+that's what I need. I need to get some fill ins.  
+
+So back to the topic at hand, joking is over. Um,  
+  
+(14:43):  
+
+so here's the deal. There's, like you said, a lot  
+
+of debate whether or not or I don't think we  
+
+said this part, whether or not the lenders actually use  
+
+these maps because these were government maps from government programs.  
+
+It's not like they said, here, banks have these and  
+
+use these. Uh. If you look at the statistics, it  
+
+seems like they probably got their hands on some of  
+  
+(15:03):  
+
+these maps. It does. And also, don't forget the government  
+
+figured out, you know, how to draw these maps for  
+
+every city over forty people from the lenders, from the banks,  
+
+from the Yeah, so they knew this anyway, but now  
+
+the government has basically said it is okay to do this, um.  
+
+And so so yeah, if you if you look at  
+
+the outcome of this redlining, these red line maps, um,  
+  
+(15:28):  
+
+it's it's really hard to say, no, this didn't happen  
+
+like this definitely didn't make it out of government hands  
+
+like forts here just great, let's trade off. Between ninety  
+
+four and nineteen sixty two, over of all the federally  
+
+backed mortgages that were issued in the United States went  
+  
+(15:49):  
+
+to white buyers. Between four and nineteen sixty two, that's right,  
+
+because of this black ownership since then and can tinuing  
+
+today is lagged behind white homeownership in America, and seventeen  
+
+just a few short years ago, of black Americans own  
+
+their homes versus seventy of white Americans. And then the  
+  
+(16:13):  
+
+other problem with redlining a community is you basically put  
+
+a pox on it. It's cursed, because that means that  
+
+those houses are not going to get any kind of  
+
+attention UM, and so they're going to continue to deteriorate.  
+
+And if you live in this community, as far as  
+
+a banker is concerned, you are a huge credit risk. Right,  
+
+And so still today UM sev of the neighborhoods that  
+  
+(16:35):  
+
+were originally redlined in those maps are our redline UM  
+
+low income communities today, And which is I mean, that's  
+
+pretty surprising. And I also saw that UM study found  
+
+that homes and red line neighborhoods we're still worth less  
+
+than half of those in green neighborhoods. Yeah, and here's  
+  
+(16:57):  
+
+the one. I marked these as stats with an exclamation point,  
+
+just that's how excited I get. But the ones that  
+
+I'm really floored by, I don't even write anything except  
+
+for three exclamation points. I've got three exclamation points by  
+
+that of back federally back mortgages. For sure, that is  
+
+definitely one. Um here's mine. If if you might say, well,  
+  
+(17:18):  
+
+what about variables man and education level and income level  
+
+and stuff like that, Like you gotta factor all that in.  
+
+That's a whole other side conversation as far as systemic  
+
+racism and being able to go to good schools and  
+
+afford a good education and get a good job and  
+
+all that. So just park that to the side. But  
+
+if you control for all those variables, college educated black  
+  
+(17:40):  
+
+Americans are still less likely to own their home than  
+
+white Americans without a high school diploma. Yeah, That's That's  
+
+what really gets you is when they they're like, well,  
+
+let us just control for all these factors and only  
+
+variable that remains is the race of the people applying  
+
+for a owner owning a home, and it's still the case.  
+  
+(18:02):  
+
+That's when it's like, well this is indisputable. Actually yeah,  
+
+and you know you can put a price on this.  
+
+Red Fen did a study um just last year in  
+
+twenty that black American families missed out on the opportunity  
+
+to accumulate an average of two hundred and twelve thousand  
+
+dollars of you know what, we're talking about that intergenerational  
+  
+(18:22):  
+
+wealth per household over the last forty years, just over  
+
+the last forty years. I mean we're talking about stuff  
+
+that started, I mean back in the days of slavery,  
+
+but really started to take off in the nineteen thirties  
+
+with the New Deal. And this is just since nineteen  
+
+eighty they've lost out on that amount of money per household.  
+
+That's nuts and still today, Chuck, here's another one that  
+
+gets me. Black American is five times likelier to own  
+  
+(18:45):  
+
+a home in a red line neighborhood than a white  
+
+American is. So this is still an issue today. Um.  
+
+So redlining these maps just set off this enormous amount  
+
+of um discrimination and I guess is all you can say.  
+
+And then all of the horrible effects that come out  
+
+of that that level of discrimination. But they weren't the  
+  
+(19:06):  
+
+only things that set it off. Um. The g I  
+
+Bill really kind of came in and said, well, hold on,  
+
+hold my beer, I want to mess things up to  
+
+what does hold my beer mean? It means that like  
+
+there's some dude just kind of sitting there with like  
+
+his shirt, um just barely covering his gut drinking a beer,  
+
+watching somebody do something stupid and he says, hold my beer,  
+  
+(19:26):  
+
+and then he doesn't stupid. That's right. Yeah, I thought  
+
+that's what it meant. But you know me, I'm a  
+
+I'm an old man with a shirt barely covering his gut.  
+
+So I wasn't quite short. You should spend more time  
+
+on Urban Dictionary. It should. I don't drink much beer anymore, though,  
+
+although I do love it. What's your favorite? I mean,  
+
+you know I love Tropicalia here out of Athens, Georgia.  
+  
+(19:49):  
+
+The creature comfort. I still never had one. Well, you  
+
+should come over. I have a cagorator now on my deck.  
+
+Oh my god, I'm serving it up. But I don't  
+
+know why I got it. I got it for friends  
+
+because I don't drink. It's on a beer. And then  
+
+the pandemic happened, and now I've just got a half  
+
+keg of beer sitting ship. All right. So yeah, the  
+  
+(20:09):  
+
+g I Bill um this, you know, in theory, the  
+
+g I Bill is a great thing, and it has  
+
+done a lot of good. But in this case, it  
+
+did block access to home ownership among black Americans because,  
+
+uh they would come home from World War Two. The  
+
+g I Bill was passed. Banks are handing out mortgages  
+
+to veterans and they were actually allowed to discriminate based  
+  
+(20:31):  
+
+on race. Yes, it's shocking. Yeah, well it's like whenever  
+
+you see that kind of thing, you're like, this doesn't  
+
+jibe with what I understand. Just look to the Dixiecrats,  
+
+the segregationists of the South, who were a very powerful  
+
+voting block and during the Jim Crow era, and they  
+
+were like to appease them and get them to vote  
+  
+(20:52):  
+
+for something like a New Deal program or to not  
+
+do everything they could to block it. You had to say, okay,  
+
+well we'll make sure that that blacks are excluded them  
+
+this that that that Black Americans won't have access to  
+
+this amazing program. And they'd be like, okay, cool, let's  
+
+let's do it. That's that's that's where a lot of  
+
+that came from. And I mean, it's easy to blame  
+
+the Dixie Krats, but you can also be like, well,  
+  
+(21:14):  
+
+you know, how hard did you try to go around  
+
+the Dixie Kratz too. I mean it was allowed to happen, yes, yeah,  
+
+by everybody, despite Francis perkins best efforts. Yeah, here's the  
+
+stat For instance, in Mississippi in Uh, they build out  
+
+told out more than three thousand v A backed home  
+
+loans that year. Uh, and two of them were two  
+  
+(21:37):  
+
+black veterans. Uh. Pretty startling. I don't even know the  
+
+percentage on that point nine eight. Oh yeah, there's got  
+
+to be a repeating something in there somewhere. Uh. And  
+
+you know this is a big deal because when World  
+
+War Two ended, they wanted a housing boom. There was  
+
+a lot of the supplies that would have gone to  
+
+home construction during the war went to the war effort.  
+  
+(21:58):  
+
+So the f h A said, you know what, we  
+
+we need a housing boom here. We're going to guarantee  
+
+construction loans to you like big construction companies out there.  
+
+And that's when the suburbs popped up for the first time,  
+
+and that changed everything forever. Yeah. I mean, like they  
+
+they the birth of the suburbs were like a deliberate  
+  
+(22:18):  
+
+program created by the federal government to to basically get  
+
+more people buying houses, to start that intergenerational wealth and  
+
+to create a middle class or to expand the middle  
+
+class dramatically. And they were able to do that partially  
+
+through just like when the f h came along and said, hey,  
+
+you know, we're going to back these people's loans as  
+  
+(22:39):  
+
+long as they're not in a red line neighborhood. That  
+
+says to the lenders, well, then you know that means  
+
+even if this person defaults, the government will buy the  
+
+loan from me. I'm gonna get paid back no matter what.  
+
+They did the same thing to these construction companies to  
+
+which created this huge housing boom. But there's a caveat  
+
+to it. Just like with the v A loans that  
+
+said you can discriminate based on race for loans, even  
+  
+(23:01):  
+
+though this is really important, Chuck. Even though the government  
+
+the v A would back the loan of a black  
+
+veteran just like they would back the loan of a  
+
+white veteran and you would be repaid no matter what,  
+
+you were still allowed to discriminate based on race. The  
+
+f h A, supposedly with the birth of the suburbs,  
+
+said we're going to guarantee your construction loans, so you  
+  
+(23:22):  
+
+can build suburbs, but you can't sell two black Americans.  
+
+That's another one that I don't think there's a smoking  
+
+gun that I saw, so I don't know if that means,  
+
+like get the word out, like you can't sell the  
+
+black people or else we're not going to back these loans,  
+
+or if it was stated policy, that haven't been able  
+
+to turn up. But it's pretty well understood that the  
+  
+(23:43):  
+
+f h A discriminated against black people basically moving to  
+
+the suburbs by not backing construction loans like that. Well. Yeah,  
+
+and there were neighborhood covenants in place that said that  
+
+black people cannot own homes in these neighborhoods they were  
+
+there were clauses that said you cannot resell your home  
+
+if you go to move, you can't sell it to  
+  
+(24:04):  
+
+a black family. Yeah, dude, if you want to be startled,  
+
+go search that um on Google Images. There's like pictures  
+
+of these clauses and deeds that say you can't sell  
+
+to anybody who's not white, or even specifically, you can't  
+
+sell anybody who's black. It's really jarring. Yeah, and it's um,  
+
+I mean, it was sort of expressly understood that the  
+
+suburbs were being created for a reason, and that's to  
+  
+(24:26):  
+
+get white people out of the city to a place  
+
+where they could live among themselves. And it's it's something  
+
+that's still going on. I mean, during the uh most  
+
+recent presidential election campaign, Donald Trump started playing praying on  
+
+these fears again. He was saying things like, literally, suburban  
+
+housewives of America, Biden will destroy your neighborhood and your  
+  
+(24:49):  
+
+American dream. People living their suburban lifestyle dream will no  
+
+longer be bothered of fine or financially hurt by having  
+
+low income housing built in your neighborhood. And the these  
+
+are literal quotes, and it's just he's trying to to  
+
+garner a certain kind of vote, to be sure. But  
+
+you know, we'll get to other stuff. I mean, Trump  
+  
+(25:09):  
+
+has a long history and his and his family with  
+
+he and his father of housing discrimination. But the end  
+
+result of all this is white people. You know, people  
+
+call it white flight. They left the cities, moved to  
+
+the suburbs. People that were in the city still, these  
+
+African American families in these yellow and red line communities,  
+
+we're sort of stuck there. So the government steps in  
+  
+(25:32):  
+
+to build affordable housing, which at first were racially integrated.  
+
+There were black people and white people, but then even  
+
+the lower income white people, uh fled for the suburbs. Yeah,  
+
+because wages rose. Yeah, and they left cities in an  
+
+urban communities almost entirely black. Um. Yeah. So proportionately speaking,  
+
+there was a tremendous drain of white people from the cities.  
+  
+(25:57):  
+
+I'm sure it was different on a city to city based.  
+
+As a matter of fact, I know it was. There's  
+
+not a you can't put a whole blanket of history  
+
+over every square inch of the United States, so different  
+
+cities had different experiences. But proportionately speaking, black people have  
+
+always made up a smaller amount of the American population overall.  
+  
+(26:17):  
+
+But then if you look at the you know, percentage  
+
+of black people, say in a city in nine I  
+
+think is when it peaked. For Atlanta in particular, Um,  
+
+it's like say black or something that's a way larger  
+
+proportion or disproportionate amount of black people living in the  
+
+city than say, um, in the suburbs. And then conversely, Chuck,  
+  
+(26:38):  
+
+when you look at the suburbs and the statistics about  
+
+race or demography in the suburbs, then it really kind  
+
+of all comes home. Yeah, and you know they're living  
+
+in the suburbs. They decide, you know, we still need  
+
+to go into the city sometimes, so we need interstates  
+
+to get us there because we like going to concerts  
+
+occasionally or seeing a professional sports team play, right, and  
+  
+(27:01):  
+
+so they built these interstates, Uh, they kind of barreled  
+
+through black neighborhoods built them there they often became a  
+
+dividing line. UH. And you know, these communities were set  
+
+up to fail. They had less frequent garbage pickup, they  
+
+had inadequate funding to keep up this public housing that  
+
+they built, UM, lower access to basic utilities, and they  
+  
+(27:22):  
+
+were just in no position to to succeed basically. Now.  
+
+And I'm trying to remember what episode we talked about  
+
+prow I Go Housing UM project in in St. Louis.  
+
+I think it was the Environmental Psychology episode, if I'm  
+
+not mistaken, But that was a really good example of  
+
+this of how people pointed to that people from the  
+
+outside and we're like, look, you can't like black people  
+  
+(27:43):  
+
+can't take care of anything. Look at the degraded state  
+
+that this housing project is in. And it's, like you said,  
+
+like they were set up to fail through all through  
+
+like a lack of attention, a lack of funding, UM,  
+
+just a lack of basically everything UM. And it's it's  
+
+that kind of seem to keep perpetuating these um uh biases.  
+  
+(28:07):  
+
+For example, and this is a big one that we'll  
+
+talk about later, that white people think if black people  
+
+move into an area, their housing values are going to  
+
+go down because of stuff like that. Yeah, I mean,  
+
+that's sort of the I guess you'd call it the  
+
+dog whistle that everyone leans on there like, hey, we  
+
+you know, we don't mind. Uh, we're not bigoted at all.  
+  
+(28:27):  
+
+We just want to keep our housing values up. That's right.  
+
+That that so that one and then the the um  
+
+the myth that black people are just inherently um uncredit  
+
+worthy or not credit worthy are the two things that  
+
+seem to be used the most as cover for, like  
+
+you said, post civil rights are segregation in the United States,  
+  
+(28:51):  
+
+the dog whistle, like you said, yeah, I mean, and  
+
+now is when we can talk a little bit about  
+
+um gentrification, because I mean, the way housing has worked  
+
+in this country is really fascinating and really gross in  
+
+a lot of ways, but just interesting to look at  
+
+from a bird's eye point of view. The way people  
+
+move around and what eventually happened with the cities is that, uh,  
+  
+(29:16):  
+
+you know, call them what you want, yuppies or dinks.  
+
+There's a lot of name for upwardly mobile white people.  
+
+They're like, Hey, I want to move into the city,  
+
+I want to be closer to to the concerts. Although  
+
+this is going to be controversial, I'm gonna get a  
+
+lot of cred for this, but one of the most  
+
+annoying trends of the last like fifteen years is building  
+  
+(29:37):  
+
+all these concert venues out in the suburbs. It's so annoying.  
+
+And I know they want their concert venues out there  
+
+so they don't have to come into the city, but  
+
+I hate it when I one of my bands plays,  
+
+you know, thirty miles out into the suburbs. I won't go. Yeah,  
+
+it's kind of a pain. Although we did go out.  
+
+It's a huge Motley Crewe thanks to that was Nita Strauss. No,  
+  
+(30:02):  
+
+that's true, So that was that was worth the trip  
+
+because it was Miley Crue and Alice Cooper. I just think,  
+
+I don't know, I think all sports stadiums and all  
+
+concerts and you should be in the city. I'm with you.  
+
+That's definitely traditional into the city for a big day out.  
+
+You know, when they start moving museums way out in  
+
+the exurbs and I'm done. Um. But the same thing.  
+  
+(30:23):  
+
+You could make the same case. When they built the  
+
+highways and everything, they just kind of built them through  
+
+black communities. That's what they did with with the stadiums  
+
+and all that as well too. Well, no, that's true.  
+
+You know, think about Braves. They just plunked Braves Stadium  
+
+ted Turner out just right in the middle of Mechanicsville,  
+
+which is a historically black community, and said, everybody moves  
+  
+(30:45):  
+
+move aside, and don't harass all the white people who  
+
+come down to see the game on you know, same day.  
+
+We should do I mean, I love sports, but we  
+
+should do a There's such a problematic side to pro  
+
+sports from that too. Um, these billionaire owners is using  
+
+city money to build new stadiums when their other stadium  
+
+is just like ten years old or whatever. That is  
+  
+(31:06):  
+
+definitely problematic. It's crazy, what a crazy amount of waste  
+
+that produces a loan just that alone. Yeah, um, alright,  
+
+so where was I? All right? Uh, white dinks are  
+
+moving into the neighborhoods again in the city because they  
+
+want good Thai food, and uh, these neighborhoods become a  
+  
+(31:28):  
+
+little more attractive the more white people move into, other  
+
+white people to move in, and they start moving in  
+
+and increasing numbers, and the houses are generally renovated or  
+
+improved over time or sometimes they might bulldoze you know,  
+
+a pretty decent house with good bones just to build  
+
+you know, the biggest house possible on their postage stamp  
+  
+(31:48):  
+
+of a lot. It's crazy how close they build these  
+
+mammoth houses together. I'm sure it happens everywhere. Atlanta's got  
+
+a real problem with it. But what happens is, you know,  
+
+home user going to increase, that's gonna raise taxes on  
+
+the other homes around them. A lot of time, those  
+
+other homes are owned by UM, longtime lower income residents,  
+  
+(32:10):  
+
+most times people of color, it becomes unsustainable. UM. We  
+
+have a great, great program here in my neighborhood and  
+
+east like called Neighbor in Need. That is UH Emily  
+
+and I have four main charities that we work with  
+
+and give to every year, and Neighbor in Need is  
+
+one of them because we like to stay really locally focused.  
+
+But Neighbor in Need basically addresses this head on and  
+  
+(32:33):  
+
+they you know, raise a lot of money and they  
+
+use that money to take care of these people. UM,  
+
+if they hear about a neighbor that's like, you know,  
+
+in need, like an older African American couple who's been  
+
+here for forty years, they're having to pay way too  
+
+much in property taxes so they can't afford a roof  
+
+on their house. They'll go put a roof on their house,  
+
+or they'll pay their power bill, um whatever. I mean.  
+  
+(32:56):  
+
+It's a really really great grassroots organization, so UM very  
+
+happy to be working with them and uh, you know,  
+
+trying to fight the sort of ills of gentrification overall. Yeah,  
+
+that's neat because it also draws the community together to  
+
+help the longest term residents of that community rather than  
+
+that whole everybody's on their own kind of thing, which  
+  
+(33:17):  
+
+I'm sure most people who move into a community like  
+
+you know that is gentrifying probably would want to do.  
+
+They just don't know how to do it, or they  
+
+don't know how to contact anybody. People don't just usually  
+
+go over to their neighbor's house and knock on the  
+
+door and introduce themselves anymore. So that's cool. Yeah, and  
+
+you know this is uh sometimes they are able to  
+
+sell their house for a pretty good you know, the  
+  
+(33:39):  
+
+housing value does increase, so they're able to get more  
+
+money than they might have before, which can be a  
+
+nice windfall. But I've also seen firsthand, literally with my neighbors, UM,  
+
+these sort of predatory home builders that come in there,  
+
+and while they think it's probably decent money compared to  
+
+what they thought they could get, it's still a lower  
+  
+(34:00):  
+
+than what they would offer a white family. But even  
+
+if they were treated fairly and they walked away with  
+
+the big windfall from the sale, um and you know,  
+
+had a lot of money to retire on, that community  
+
+was still fractured. You know, the people who are having  
+
+to move and their neighbors who already had to move  
+
+may have lived there for generations or even you know,  
+  
+(34:22):  
+
+just their whole lives and they formed a community. And  
+
+it's not like that whole community just moves elsewhere together.  
+
+They all go to different communities, often towards the end  
+
+of their life, and it leads to alienation, isolation. Um.  
+
+It's a that I mean, that's a real problem. Even  
+
+even if they are being paid well for the the  
+
+houses they're they're being bought out of because they don't  
+  
+(34:43):  
+
+necessarily want to move, but they just can't afford the  
+
+taxes anymore. Um. So there's there's that's a big issue  
+
+with gentrification. It's tough to get around sounds like that  
+
+neighborhood group that you're talking about what's the name again  
+
+that they that they've they've figured out a way or  
+
+round it. Do you know what there needs to be  
+
+dude is uh and this is chuck twenty two stuff. Okay.  
+  
+(35:08):  
+
+I think if you live in a house long enough,  
+
+you shouldn't have to pay property tax anymore. Yeah, I  
+
+think there are I mean, I have to be a lot.  
+
+Maybe it's like twenty years or something, but that would  
+
+solve a lot of this problem. There is zero reason  
+
+why some elderly African American couple that's been in a  
+
+home for forty years needs to be paying taxes at  
+  
+(35:28):  
+
+all on that house, much less these jacked up rates. Yeah. No,  
+
+I think that's that's totally true. Um. Yeah, I think  
+
+there's a if it's not law, there's a proposal in  
+
+Georgia to do that once you're sixty five or something  
+
+like that. Maybe. I mean, I'm ad about property tax anyway,  
+
+just because it's I don't know, we pay so much  
+
+in taxes. Then you finally scrape up enough to buy  
+  
+(35:50):  
+
+a place that's your own, and the government's then like, well,  
+
+if you're going to have to pay tax on that,  
+
+do right? You know, I know, it's seems unfair. Also,  
+
+you shouldn't have to pay full price for coffee anywhere  
+
+once you reach sixty five or old agreed, especially after  
+
+three pm. Uh, All right, well, should we take a  
+
+break and then talk about the Fair Housing Act, which  
+  
+(36:11):  
+
+solved everything. It totally did. It's all great now, alright,  
+
+we'll be right back up to this. Alright, spoiler, So  
+  
+(36:41):  
+
+we ruined things. They passed the Fair Housing Act, and  
+
+racism has been solved in America. That's right. Ninety eight  
+
+And we talked about the Fair Housing Act a little bit, UM,  
+
+and you know, it's a good thing they passed it.  
+
+It did banned discrimination in housing practices officially, but it  
+
+just led to a little trickier way to get around  
+  
+(37:03):  
+
+stuff by UM doing it on the download. Yeah, and  
+
+that is that is for if you're studying systemic racisicism  
+
+in the United States. The passing of like the Voting  
+
+Rights Act, the Civil Rights Act, the Fair Housing Act UH,  
+
+and some other legislation UM during the sixties really changed  
+
+things in that no longer was the government in the  
+  
+(37:27):  
+
+business of enforcing discrimination and segregation UM. And also now  
+
+you had recourse in the courts if you were discriminated  
+
+against UM. But it didn't just a race racism in  
+
+the United States that that task of enforcing basically white  
+
+supremacy and racial discrimination and segregation and all the stuff  
+  
+(37:48):  
+
+that comes along with it fell to um lesser institutions  
+
+in everyday people who carried out. And when you're talking  
+
+about something like housing discrimination, UM, the people who now  
+
+are best able to continue enforcing segregation and discrimination in  
+
+the United States are people like lenders and real estate  
+  
+(38:10):  
+
+agents and even people who are deciding where to buy  
+
+a house. Um. Everyday americans buying the house UM often  
+
+make choices that they don't necessarily think our racist, and  
+
+they might they probably don't think that they're racist, but  
+
+they're still they're housing choices often reflect um inadvertent or  
+  
+(38:32):  
+
+otherwise racial choices or choices along racial lines. Yeah, and  
+
+this you know this next bit, we're we're sort of  
+
+busting on real estate professionals a little bit. I have  
+
+very good friends that are real estate agents. They're great  
+
+people for the most part. We don't mean to just  
+
+paint everything with the big broadbrush, but the industry does  
+  
+(38:54):  
+
+have a history of it, for sure. Yeah, and we  
+
+have to talk about it. So there was one in  
+
+the in the eighties, there was one practice called block  
+
+busting god um not having anything to do with video stores,  
+
+I know it was the eighties, but um literally busting  
+
+up a block. When a real estate agent would work  
+
+or sort of act as a speculator and say, either, hey,  
+  
+(39:19):  
+
+you know what you know, there are some black families  
+
+that are moving into the area. You may want to  
+
+think about selling just to protect your home values before  
+
+they fall. Or they might sell to a black family  
+
+and introduce them to the area so they could then  
+
+turn around, um, buy these houses from the white residents  
+
+and then sell them to the black residents or you know,  
+  
+(39:41):  
+
+hopefully black residents, but at a big mark up. Yeah,  
+
+which has insult to injury, Like they created a basically  
+
+white flight from an area just from the rumor of  
+
+black people moving in, and then they move black people  
+
+in and sell them sell to them at wildly inflated rates,  
+
+which is crazy. And I read one story to Chuck  
+
+of one of these real estate agents that was doing blockbusting.  
+  
+(40:03):  
+
+They would have a black dad with the stroller walk  
+
+around the neighborhood, um like he had moved in or  
+
+was thinking of moving in or whatever, and apparently just  
+
+that was enough to get people to start to sell.  
+
+And again you're like, you know, this is this is  
+
+terrible that real estate agents are doing it. But the  
+
+fact that it was effective really says a lot about  
+
+every day you know, white homeowners too. And also again  
+  
+(40:27):  
+
+like it it doesn't mean like that these white homeowners  
+
+hate black people like they were worried about their property values,  
+
+because it's such an embedded myth in America that when  
+
+a black family moves into a neighborhood, they're so bad  
+
+at taking care of their their house and their home  
+
+values that it's going to drag the home values down  
+
+in throughout the entire neighborhood. And so everybody needed to  
+  
+(40:49):  
+
+get out before that happened. That's that's again, that's the  
+
+definition of systemic racism. Yeah, and you know this has  
+
+been busted up to a large degree officially, but up  
+
+until nineteen fifty, the official policy of the National Association  
+
+of Real Estate Boards UM said a realtor should never  
+
+be instrumental and introducing into a neighborhood members of any  
+  
+(41:13):  
+
+race or nationality whose presence will clearly be detrimental to  
+
+property values in that neighborhood. That was like literal policy  
+
+up until nineteen fifty, and then there was a study  
+
+in two thousand six by the National Fair Housing Alliance  
+
+that said, and this is something else called steering, which  
+
+is not blockbusting, but it's like, hey, like we want  
+  
+(41:34):  
+
+to show you houses over here in this neighborhood because  
+
+we think it's a better fit for you. Uh. And  
+
+you know here the financial instruments available to get mortgages  
+
+for you and maybe not just for everybody. And black  
+
+people historically have not given the full picture. They're maybe  
+
+not shown white neighborhoods. Uh. And the study found that  
+
+steering occurred sent of the time when researchers posed as  
+  
+(41:58):  
+
+buyers and we're shown homes like these sort of undercover operations. Yeah,  
+
+and steering occurs, um not just you know, if you're  
+
+if you're a black home buyer, you're not just going  
+
+to be shown a black neighborhoods. If you're a white  
+
+home buyer, they're probably not going to take you to  
+
+black neighborhoods either. So through this process of racial steering,  
+
+this is basically enforcing patterns of segregation still in the  
+  
+(42:22):  
+
+United States. Yeah, there was another study by Brookings. They  
+
+found that black owned homes are undervalued by an average  
+
+of forty thou dollars. And this is one that's controlled  
+
+by all the factors like home quality and amenities and everything. Exclamation, Yeah,  
+
+it's forty eight grand literally because it is a home  
+  
+(42:43):  
+
+owned by a black individual. When they control for amenities  
+
+where the home is the size of the house, everything  
+
+else about the house. If you compare apples to apples,  
+
+and it's the same house owned by a white person  
+
+and the other house that's exactly the same home by  
+
+a black person, the black person's house is going to  
+
+be forty thousand dollars less in value just because it's  
+  
+(43:05):  
+
+owned by a black person. And that's that's just basically  
+
+that whole idea of um that black people drag home  
+
+values down becoming a self fulfilling prophecy, and um that  
+
+those same home values are all of that undervaluing that  
+
+same Brooking study found amounts to a loss of about  
+  
+(43:27):  
+
+a hundred and fifty six billion dollars for Black Americans. Yeah,  
+
+for wealth they were not able to achieve. And uh,  
+
+you know, we talked a lot about the Great Recession  
+
+in the mortgage crisis kind of when it was going  
+
+on and shortly thereafter, Um, Black Americans back then were  
+
+likelier to receive subprime mortgages. These were the loans that  
+  
+(43:47):  
+
+were really expensive to repay. They had higher fees, they  
+
+had higher interest rates, um they also had mechanisms built  
+
+in if you were a black loan owner that made  
+
+it easier for the lender to seize their collateral with  
+
+usually meant their house and so like, it makes sense  
+
+that if you are taking a greater risk lending to  
+
+somebody as the bank, you should be able to get  
+  
+(44:10):  
+
+more money for it, right, But the problem is is  
+
+like subprime mortgages were doled out to black homeowners or  
+
+black home buyers at way higher rates than they were  
+
+to white home buyers. And that's a problem in and  
+
+of itself if the if the rates are less favorable  
+
+and it's easier for the bank to repossess the house.  
+
+But especially it proved to be a big problem during  
+  
+(44:32):  
+
+the mortgage crisis when that bubble bursts, because if you  
+
+were a low income Black American, you were probably denied  
+
+a mortgage of any kind. But even if you were  
+
+a middle to high income black home buyer, you probably  
+
+got a subprime mortgage compared to say, a white buyer  
+  
+(44:52):  
+
+with the same criteria that you had to offer. UM.  
+
+So that meant that when those foreclosures happened because the  
+
+bubble bursts, Black Americans, especially UM, wealthier Black Americans, were  
+
+disproportionately impacted, so that that subprime mortgage debacle erased way  
+
+more Black intergenerational wealth than it did for white people. Yeah,  
+  
+(45:15):  
+
+I have my last three exclamation points. Stat during the  
+
+subprime mortgage crisis, there was a study that found black  
+
+and Latino families, because you know we've mentioned people of  
+
+color a few times, is not just solely African American  
+
+families affected? Um, And the study found that black and  
+
+Latino families making two hundred thousand dollars a year or more,  
+  
+(45:39):  
+
+we're still more likely to receive a subprime loan than  
+
+white families making less than thirty thousand dollars a year.  
+
+That nuts, and six point two percent of white people  
+
+with a credit score of six sixty or higher received  
+
+a subprime mortgage compared to twenty one point four percent  
+
+of black borrowers with that same credit score. So, Chuck, UM,  
+  
+(46:00):  
+
+there's a big problem with all this. And it's kind  
+
+of like you said at the beginning, like when you're  
+
+talking about race and especially discrimination by race. Um, people  
+
+tend to be like, especially white people tend to be like, well,  
+
+I don't know about that. I mean, there's a lot  
+
+of other factors involved, Like it could be anything. So  
+
+you really have to kind of prove that this is  
+
+a thing. And ever since the federal government got out  
+  
+(46:22):  
+
+of discriminating on paper, um, it's gotten a lot harder  
+
+to track. So back in the seventies, the Department of  
+
+Housing and Urban Development, they have an office of Research  
+
+and Policy. They came up with the way of testing  
+
+this to control for as many variables as possible and  
+
+just see if it's just race that is being discriminated against.  
+  
+(46:43):  
+
+And it's called paired testing. It's actually pretty clever from  
+
+what I understand. Yeah, that's when you get to equally  
+
+qualified candidates to apply for homeown or to go to  
+
+a real estate agent and like look at apartments or  
+
+houses or whatever. Uh. They are trained to basically be  
+
+as identical as they can be to one another, to  
+  
+(47:04):  
+
+respond to the questions in the same way, have the  
+
+same credit history, same job status, same income level, and  
+
+basically sort of be duplicates of one another except for  
+
+their skin color. Uh, they're not working together so they  
+
+don't even know, um, like there's no bias there even  
+
+because they're not like paired together, right, They're not like,  
+
+oh they got too, I'm gonna try this with them.  
+
+Like they don't. They don't meet one another, they don't  
+  
+(47:26):  
+
+interact with one another. They're just doing their thing and  
+
+they're just trained to do it exactly the same way.  
+
+The only distinction between them is their their race. Right.  
+
+And so the Urban Institute, which is a think tank,  
+
+UM study this and they came up with kind of  
+
+four big points from this paired testing UH exercise, which  
+  
+(47:47):  
+
+is UH. They found about discrimination and housing vouchers that  
+
+are intended to let low income renters choose from a  
+
+bigger pool a rental housing uh than the realtors even showed. UM,  
+
+there were fewer homes and apartments available to minorities like  
+
+we were, like I kind of mentioned earlier, like just  
+
+a smaller like no, you know, we'll just look here. Yeah,  
+  
+(48:09):  
+
+the racial steering usually results in fewer, fewer places being shown. Um.  
+
+They were steered again to primarily um, you know, neighborhoods  
+
+of their own ethnicity, and then given less information overall.  
+
+Like I mentioned about mortgage products, UM, different kinds of loans,  
+
+different kinds of ways of structuring a loan, just not  
+  
+(48:31):  
+
+given that information at all. Right, Um, so the they  
+
+also found this paired testing turns up very frequently that um,  
+
+it's not just even people of colors, not just black Americans,  
+
+but it's people of color in general. But um, it's  
+
+not even just down to to racial discrimination. There's also  
+
+a lot of discrimination against people who are differently abled.  
+  
+(48:53):  
+
+They actually sometimes fair worse than minorities when it comes  
+
+to housing discrimination. Paired testing is has turned that up  
+
+as well. So it's still the upshot of all this  
+
+is that it's still a problem and there is like  
+
+some silver lining to it. Um the I think. Uh.  
+
+That same think tank, the Urban Institute, also turned up  
+  
+(49:14):  
+
+that there's been a general decline overall. It's not huge,  
+
+but it's it's noteworthy. It's remarkable. Um of preference in  
+
+favoritism toward white white buyers over buyers of of like  
+
+minority buyers by about five percent between and two thousand.  
+
+It went from about so And there does seem to  
+  
+(49:38):  
+
+be a general decline in racism or discrimination, I should say, uh,  
+
+in the United States. So that's the good news, is  
+
+that America seems to be getting less racist. The bad  
+
+news is that America is still racist. Like, we still  
+
+have a long way to go. It's, as the study  
+
+put the studies findings confirm a hard truth that America's  
+  
+(49:58):  
+
+long journey to end housing discrimination remains unfinished. Um. And  
+
+so there's still a long way to go. And I  
+
+think it's really important for everybody to realize that there's  
+
+a long history of discriminating against people of color, but  
+
+also very specifically Black Americans, and that it's still going  
+
+on today. And even though it's in a slightly lesser form,  
+
+it's very important if it's going on at all, that  
+  
+(50:21):  
+
+we we erase it. That's right, agreed, You got anything else?  
+
+Nothing else? All right, Chuck, Well then that's housing discrimination.  
+
+And since I said all right, Chuck, it's time for  
+
+a listener mail. Well instead of reading a specific listener mail.  
+
+And because this episode is a little heavy, we thought  
+
+we'd have a little fun. Um. We got maybe more  
+  
+(50:45):  
+
+emails than we have for any other episode in our  
+
+history down literally about Neco wavers Um. A lot of  
+
+support for the Neco for people, and a lot of  
+
+condemnation for yucking yums without giving having tried them. You  
+
+were all correct. We honor you all, and we're gonna  
+
+Josh got some sent them to me. We're gonna try  
+  
+(51:06):  
+
+some necka wafers on the air. Listen there. I just  
+
+realized I think I made a grave mistake by not  
+
+having any water in the basement. Yeah, I just realized  
+
+this as well. Do you have a pipe to tap into?  
+
+I think we should eat the same color. Oh really? Okay,  
+
+all right, so we can kind of go, you know,  
+
+nose to nose. I'm never open one these before. Okay, exactly, already,  
+  
+(51:29):  
+
+so nasty. You know, everybody was right about yucking people's  
+
+yams in general, but also because we hadn't tried them.  
+
+So that's why we're doing this. I mean, they're just  
+
+falling apart when I opened the package. So to strike one,  
+
+I've got a mess on my table. What color are  
+
+we gonna do? I mean it's hard to tell. This  
+
+looks sort of like a very pale yellow. That's the  
+  
+(51:51):  
+
+only whole one in my hand. Pale yellow. I don't  
+
+even have that. I got white. I've got orange it  
+
+maybe maybe it is white, Okay, I'll call it. Wait wait, wait, wait,  
+
+I might have a palio when I do, I do it. Okay,  
+
+apology to the people of Mesophonia, but here we go.  
+
+Oh my god, it's just like it's like a flatter um,  
+  
+(52:18):  
+
+bigger candy heart. The conversation hart, it's not bam like okay,  
+
+very hard, the crunches. I think what probably gets people.  
+
+I mean, the taste isn't bad, but it's not great. No,  
+
+they're not great, But I mean, who's crazy for conversation hearts,  
+
+sickos and weirdos? You know, the same goes for me. Well,  
+  
+(52:40):  
+
+what's the verdict? Would you ever buy and eat Neca  
+
+wafers after this? I will tell you what. I will  
+
+probably eat the rest of these. And I like sugar.  
+
+I like as atter fact, I'm gonna do one of  
+
+the gray ones real quick. What about you? Uh no, no,  
+
+that is not my up my alley. But I'm gonna  
+  
+(53:02):  
+
+try one of those chocolates because those where I think  
+
+recommended steer clear, the dark gray ones, the liquorice ones.  
+
+They're awful. It tastes Oh no, it is slightly different. Yeah,  
+
+I get a little hint up cocoa. I've come around  
+
+a little bit to the liquorice ones. At the end Wow,  
+
+I'm turning into an eco weirdo. Actually, the chocolate aren't bad.  
+  
+(53:23):  
+
+What about pink? Try pink? Well, that's um, this is  
+
+winter green. I think people are so disgusted right now. Yeah,  
+
+this is all right. We're literally the last two people  
+
+listening to this. Man, I think we should wrap this. Okay. Well, um,  
+
+if you want to tell us that we shouldn't yuck  
+
+everybody's jump, especially about something we haven't tried, we need  
+  
+(53:44):  
+
+to hear that whenever we do that. It's totally true  
+
+and totally right. Thank you everybody who wrote him. You  
+
+can get in touch with us at Stuff podcast at  
+
+I heart radio dot calm Stuff. You should know it  
+
+is pretty action of I heart Radio. For more podcasts  
+
+for my heart Radio, visit the iHeart Radio app, Apple Podcasts,  
+  
+(54:05):  
+
+or wherever you listen to your favorite shows. H
+
+#### Older Episo
+
+## Transcript
+
+Available transcripts are automatically generated. Complete accuracy is not guaranteed.
+
+Speaker 1 (00:01):  
+
+Welcome to Stuff You Should Know, a production of I  
+
+Heart Radio. Hey, and welcome to the podcast. I'm Josh Clark,  
+
+and there's Charles W Chuck Bryan over there, and this  
+
+is stuff you should know. Um the man oh man addition,  
+  
+(00:25):  
+
+do you know what I love about this topic is  
+
+that it's not just a bunch of like ranting about  
+
+how we think things are and how people think things are.  
+
+It's like so studied and statistic heavy that you can  
+
+talk about how things are and then say, and here's  
+  
+(00:45):  
+
+the proof exactly, here's a lot of data to back  
+
+it up. It's really great. I love it when they  
+
+dovetail like this. Yeah. I get the impression, though, UM  
+
+that you when you're talking about the studying race and  
+
+especially in America like you are, you have to back  
+
+it up with data like people are like, oh, yeah,  
+
+I don't I don't know about that. But um, I  
+
+want to give a shout out to actually to um  
+  
+(01:08):  
+
+uh scholars both sell sociologists of race. UM Professor Villnabashi  
+
+Treatler from UC Santa Barbara and Professor Tricia Rose of  
+
+Brown University both are experts on this stuff and they  
+
+helped me out big time with this and some other  
+
+research on on racism I've done, um and they Dr  
+  
+(01:28):  
+
+Bashi Treatler said, hey, make sure you mentioned this hashtag  
+
+we have going called site hashtag. Sorry, and I'm making  
+
+the hashtag symbol like justin Timberlake hashtag site black women  
+
+ce I t e black women. UM, and that leads  
+
+you to all sorts of good often overlooked research by  
+
+black scholars. Um, who are women that don't always get  
+  
+(01:51):  
+
+a lot of credit. So I'm glad you told me  
+
+about that one. I wanted to tell everybody else. So  
+
+when you, uh, that was a stutter when he said  
+
+so so sociologists, you didn't mean they were just mediocre sociologists. No,  
+
+I was. I was sociologist. I could see how that  
+
+would be confusing. I was doing my impression of Phil  
+
+Collins saying sociologist so so studio. Yeah, well that's the  
+  
+(02:16):  
+
+last joke we're gonna tell you. Oh yeah, probably. I  
+
+was warned by Dr Bashi Treatler not to do our  
+
+usual stick when we're talking about race stuff, and I  
+
+was like, well, I mean, we we can handle ourselves.  
+
+She said. I I listened to your stuff. I listened  
+
+to the Braws episode just trust me on this. It's like,  
+
+all right, So then that means the housing discrimination episode  
+  
+(02:38):  
+
+officially starts. Now, that's right. So that's what we're talking about, dude.  
+
+Housing discrimination and um uh in the United States, and  
+
+there is a very long history of housing discrimination. And  
+
+you might say, like, well, that really sucks. That sucks  
+
+that people have trouble buying a home or maybe they  
+
+get less favorable terms on their loans just because of  
+  
+(02:59):  
+
+their race, and that does suck. That's absolutely true. But  
+
+it's even worse than that because in the United States,  
+
+one of the biggest ways of growing wealth intergenerationally, like  
+
+over the course of generations within a single family is  
+
+through a house. Yeah, I mean it's sometimes people don't  
+  
+(03:19):  
+
+have a ton of money to invest in the stock market.  
+
+Some people think the stock market is not something to trust.  
+
+But one thing that has always been fairly reliable in  
+
+this country, you know, say, for a few moments in history,  
+
+is real estate and the idea that if you scrap  
+
+up and save enough money for a down payment for  
+
+a home, that house will eventually be worth quite a  
+  
+(03:42):  
+
+bit more years later, and you can sell it and  
+
+use that extra windfall of cash to invest in the  
+
+stock market or to pass down to your kids so  
+
+they can then get in the housing market sooner than  
+
+they might have and then it just becomes a cycle  
+
+where it just builds wealth. Yeah, Like the average family  
+  
+(04:02):  
+
+in America has most of their net worth tied up  
+
+in their house, and then you know, when it comes  
+
+time to sell it and the house is paid off,  
+
+that's a lot of money. And then when you kick  
+
+the bucket, your kids get that money and maybe they  
+
+get a better house, and it just keeps growing and growing.  
+
+So if you put up barriers to housing, you're actually  
+
+putting up barriers to passing along intergenerational wealth. And as  
+  
+(04:24):  
+
+a big, big problem in America. UM Still today, I  
+
+saw a study from I think Brookings that found that,  
+
+um the median. Yeah, brooking study said that the median  
+
+net worth of a white family in America is a  
+
+hundred and seventy one thousand dollars. The median net worth  
+  
+(04:48):  
+
+of a black family in America is seventeen thousand, one  
+
+hundred and fifty dollars, about a ten of what the  
+
+median is for white people. And that is largely because  
+
+of housing discriminate in the history of housing discrimination in  
+
+this country. Yeah, and as far as history goes, you know,  
+
+it started with literal racist laws where they said, if  
+  
+(05:10):  
+
+you're a black person or a black family, you cannot  
+
+live here. Um. That went on for a while, and  
+
+then those laws were sort of altered to the Jim  
+
+Crows Separate but Equal era, where they said, you know what, Um,  
+
+we'll say things are better, but it's really the same  
+
+effect in the end. And then they got rid of  
+  
+(05:30):  
+
+those laws and said, all right, now we've really passed  
+
+the meaningful legislation, and now we can just racially discriminate  
+
+on the down low and very creative ways. Yeah, that's  
+
+basically the pattern that it's followed. Um. And what kind  
+
+of stuck out to meet Chuck is is that before  
+
+about nine hundred, before like the rise of like industrialization  
+  
+(05:53):  
+
+to a really legitimate degree in the United States, like,  
+
+there wasn't not nearly as much segregation as we saw  
+
+starting around nineteen especially in the North, because if you  
+
+had a trade or a craft in the North and  
+
+you were an African American, there's a really good chance  
+
+that you were going to be serving white people as  
+
+well as black people, right and because you usually were  
+  
+(06:16):  
+
+very closely your home was tied close to your shop,  
+
+you often lived above it if you were like a  
+
+cobbler or something like that. Um, you made live next  
+
+door to a white baker or something like that. So  
+
+the there wasn't a lot of segregation until industrialization came  
+
+along and there was a big call for labor, which  
+
+drew a lot of African Americans, a lot of Black  
+  
+(06:38):  
+
+Americans out of the South up to the north. And  
+
+all of a sudden, all of those people who were  
+
+living in integrated neighborhoods, all those white people I should say,  
+
+had had a problem with this influx of black migration  
+
+from the South to the north, and they responded with  
+
+a lot of really disgusting violence. Yeah. I mean, we've  
+
+talked about some of these, um race incidents and race  
+  
+(07:01):  
+
+riots and race almost race wars really uh here and  
+
+there on the show, and they're always hard to talk about.  
+
+But that was just sort of the reality of things  
+
+at the time. Um. In the nineteen thirties, the New  
+
+Deal comes along, and this is when legislation starts to  
+
+kind of kick in. When the government stepped in and said,  
+
+you know what, we think we should make it easier  
+  
+(07:23):  
+
+for people to own homes. We really want to boost  
+
+home ownership because that's a boon for the economy of  
+
+the country. And we're going to create the home Owners  
+
+Loan Corporation, which is going to help people refinance their mortgages.  
+
+But we need some criteria here to sort of establish  
+
+a uniform way of like how to how to dole  
+  
+(07:45):  
+
+out this assistance. And they reckoned, let's let's look at  
+
+every population of forty or more and let's create a  
+
+color coded map that's based on riskiness of these loans.  
+
+And they said, you know, they talked to real estate brokers,  
+
+they talk to bankers, and they said, help us out,  
+
+help us draw these boundaries, and they came up with  
+
+a one, two, three, four color graded system. Right, yeah,  
+  
+(08:07):  
+
+that's right. Because again this was like long before credit  
+
+scores were developed, so you couldn't really look at you know,  
+
+if somebody came into your bank to ask for a loan,  
+
+you couldn't be like, well, you're your your credit scores this,  
+
+So I'm not gonna look at that start. I don't  
+
+know we should do an episode on if we haven't already.  
+
+I don't think for sure. Um, but yeah, so the  
+
+four color codes they had were also um delineated by  
+  
+(08:29):  
+
+grades Grade A, B, C, and D. Grade A was  
+
+the most desirable neighborhood. They were usually homogeneous, meaning white. Um,  
+
+there were um lots of professionals living in there. Grade  
+
+B was maybe a step down, but still largely homogeneous,  
+
+if not totally homogeneous, and they were considered still desirable.  
+
+And then it started to get into the lower grades  
+  
+(08:50):  
+
+grades C and D, and C was um, I think  
+
+colored yellow on the map, right, Yeah, the first two  
+
+were green and blue, and then Grade C was rated  
+
+as declining and colored yellow and that sort of. In fact,  
+
+I think it even said infiltration of a lower grade  
+
+population in the document, which you don't have to be  
+  
+(09:13):  
+
+a genius to figure out what they were saying there.  
+
+It means people of color were moving in. And then  
+
+finally you end up with the color red Grade D,  
+
+which is least desirable. Um, very densely populated areas almost  
+
+always communities of color. Right. So um, the h O  
+
+l C created these maps, and then um, along came  
+  
+(09:36):  
+
+the Federal Housing Authority and they said, well, we need  
+
+similar maps because we're not we're not here to help  
+
+stem the tide of foreclosures. We're actually here to generate  
+
+new home ownership among Americans. Um, but we still have  
+
+the same issue. We got to figure out who's credit  
+
+worthy and who's not. So we're going to base it  
+
+on where the people live. And they basically made identical  
+
+maps to the h O l C maps, and so  
+  
+(09:58):  
+
+they probably used them. Right, there's a lot of debate.  
+
+I don't think anyone's found the smoking gun yet. But  
+
+if you take an h O l C map in  
+
+an f h A map and you put them over  
+
+one another, they're basically the same thing. And I I  
+
+it's kind of all. It's up for the debate still.  
+
+But the the the upshot was that because of these maps, Um,  
+  
+(10:22):  
+
+if you lived in one of these red and often  
+
+yellow communities, they wouldn't lend to you, for um, for  
+
+a new mortgage or even a second mortgage to say,  
+
+remodel your home. And they also wouldn't assist you with  
+
+refinancing your existing mortgage, which means you're subject to foreclosure.  
+
+And if you were in a red or yellow community,  
+  
+(10:43):  
+
+you were probably um black or a person of color  
+
+or some other ethnic minority. And UM, that means that  
+
+they were shut out of this enormous housing boom that  
+
+generated a tremendous amount of prosperity immediately after the New  
+
+Deal in World War Two. As we'll see, so African  
+
+Americans were left out of or on the fringes of  
+  
+(11:04):  
+
+the New Deal anyway. And this is where we get  
+
+to shout out Francis Perkins. Perkins again, which is it's  
+
+fun to now that we know so much about her,  
+
+to continually shout her out. But she did a lot  
+
+of work arguing in favor of inclusion for black people  
+
+in the New Deal. Um, I guess you know, sometimes successfully,  
+
+sometimes not. But at the end of the day, the  
+  
+(11:25):  
+
+f h A imposed these rules through the New Deal. Uh.  
+
+Their maps were just like the UH the h O  
+
+l C. And the process of excluding these groups because  
+
+they were colored red was called redlining. That is that  
+
+like the where that whole term comes from. That's exactly  
+
+where it comes from. So now today, any any time  
+
+you're discriminated against, whether it's buying insurance or anything like that, um,  
+  
+(11:49):  
+
+based on your race or say your community. Um, it's  
+
+called redlining now. But that's where it grew out of  
+
+those h O l C maps and f A J maps. UM.  
+
+And I mean they would use terms and like their  
+
+their handbooks that like these communities had quote undesirable racial  
+
+or nationality groups in them, so you couldn't you couldn't  
+
+lend them any money or whatever. Um. And it was  
+  
+(12:11):  
+
+I mean like this is still like a really big  
+
+problem today. Yeah, I mean back then basically and still today.  
+
+In many cases, that leaves you with a couple of  
+
+options as a person of color. You can rent uh  
+
+forever um often times back then and still now from  
+
+a white landlord who doesn't live anywhere near that community,  
+  
+(12:31):  
+
+not always, but usually, or just pay for the home  
+
+in cash, which is a stretch for anybody. Uh, it's  
+
+it's tough to do unless you're like wealthy. And there  
+
+were there were, I have to say there were black  
+
+owned banks. But there was nine black own banks in  
+
+the entire United States in the thirties. So that is  
+
+a place where you could turn to if you're lucky  
+
+enough to have one in your area. But that that  
+  
+(12:53):  
+
+was not a solution to the general population for Black Americans. Yeah,  
+
+and like you said, also affected their ability to get  
+
+second mortgages, to do home improvements or to like expand  
+
+on their house and upgrade it, remodel it. So that  
+
+means that the properties are gonna deteriorate and decline over  
+  
+(13:13):  
+
+the years, and it's just it's part of that systemic  
+
+racist cycle that is just prevalent. Yeah, because still today, eventually,  
+
+over time people from the outside looking in say, look,  
+
+black people can't even take care of their communities. Look  
+
+at look at how their houses are. Um, just as  
+
+a result of this. That is definitely like the definition  
+  
+(13:33):  
+
+of systemic racism for sure. It's just by the way  
+
+into the structures. If you hear dogs barking, My dogs  
+
+are upstairs and they're just very excited about this topic. Yeah,  
+
+and I don't know what's going on there, but they're  
+
+not going to shut up. So let's say we press on.  
+
+We'll press on. Should we take a break, then press on.  
+
+We're going to press on like some lee nails right  
+  
+(13:53):  
+
+after a break. How about that? All right, it sounds good.  
+  
+(14:19):  
+
+All right, we're back and look, these things look amazing  
+
+on me. Yeah, they're very nice. There's a little bit  
+
+of cuticle showing. I didn't put them right up against it,  
+
+but it's still it's passable. Well, I think if you  
+
+paint them just right, that's not so noticeable. Right, fill ins,  
+
+that's what I need. I need to get some fill ins.  
+
+So back to the topic at hand, joking is over. Um,  
+  
+(14:43):  
+
+so here's the deal. There's, like you said, a lot  
+
+of debate whether or not or I don't think we  
+
+said this part, whether or not the lenders actually use  
+
+these maps because these were government maps from government programs.  
+
+It's not like they said, here, banks have these and  
+
+use these. Uh. If you look at the statistics, it  
+
+seems like they probably got their hands on some of  
+  
+(15:03):  
+
+these maps. It does. And also, don't forget the government  
+
+figured out, you know, how to draw these maps for  
+
+every city over forty people from the lenders, from the banks,  
+
+from the Yeah, so they knew this anyway, but now  
+
+the government has basically said it is okay to do this, um.  
+
+And so so yeah, if you if you look at  
+
+the outcome of this redlining, these red line maps, um,  
+  
+(15:28):  
+
+it's it's really hard to say, no, this didn't happen  
+
+like this definitely didn't make it out of government hands  
+
+like forts here just great, let's trade off. Between ninety  
+
+four and nineteen sixty two, over of all the federally  
+
+backed mortgages that were issued in the United States went  
+  
+(15:49):  
+
+to white buyers. Between four and nineteen sixty two, that's right,  
+
+because of this black ownership since then and can tinuing  
+
+today is lagged behind white homeownership in America, and seventeen  
+
+just a few short years ago, of black Americans own  
+
+their homes versus seventy of white Americans. And then the  
+  
+(16:13):  
+
+other problem with redlining a community is you basically put  
+
+a pox on it. It's cursed, because that means that  
+
+those houses are not going to get any kind of  
+
+attention UM, and so they're going to continue to deteriorate.  
+
+And if you live in this community, as far as  
+
+a banker is concerned, you are a huge credit risk. Right,  
+
+And so still today UM sev of the neighborhoods that  
+  
+(16:35):  
+
+were originally redlined in those maps are our redline UM  
+
+low income communities today, And which is I mean, that's  
+
+pretty surprising. And I also saw that UM study found  
+
+that homes and red line neighborhoods we're still worth less  
+
+than half of those in green neighborhoods. Yeah, and here's  
+  
+(16:57):  
+
+the one. I marked these as stats with an exclamation point,  
+
+just that's how excited I get. But the ones that  
+
+I'm really floored by, I don't even write anything except  
+
+for three exclamation points. I've got three exclamation points by  
+
+that of back federally back mortgages. For sure, that is  
+
+definitely one. Um here's mine. If if you might say, well,  
+  
+(17:18):  
+
+what about variables man and education level and income level  
+
+and stuff like that, Like you gotta factor all that in.  
+
+That's a whole other side conversation as far as systemic  
+
+racism and being able to go to good schools and  
+
+afford a good education and get a good job and  
+
+all that. So just park that to the side. But  
+
+if you control for all those variables, college educated black  
+  
+(17:40):  
+
+Americans are still less likely to own their home than  
+
+white Americans without a high school diploma. Yeah, That's That's  
+
+what really gets you is when they they're like, well,  
+
+let us just control for all these factors and only  
+
+variable that remains is the race of the people applying  
+
+for a owner owning a home, and it's still the case.  
+  
+(18:02):  
+
+That's when it's like, well this is indisputable. Actually yeah,  
+
+and you know you can put a price on this.  
+
+Red Fen did a study um just last year in  
+
+twenty that black American families missed out on the opportunity  
+
+to accumulate an average of two hundred and twelve thousand  
+
+dollars of you know what, we're talking about that intergenerational  
+  
+(18:22):  
+
+wealth per household over the last forty years, just over  
+
+the last forty years. I mean we're talking about stuff  
+
+that started, I mean back in the days of slavery,  
+
+but really started to take off in the nineteen thirties  
+
+with the New Deal. And this is just since nineteen  
+
+eighty they've lost out on that amount of money per household.  
+
+That's nuts and still today, Chuck, here's another one that  
+
+gets me. Black American is five times likelier to own  
+  
+(18:45):  
+
+a home in a red line neighborhood than a white  
+
+American is. So this is still an issue today. Um.  
+
+So redlining these maps just set off this enormous amount  
+
+of um discrimination and I guess is all you can say.  
+
+And then all of the horrible effects that come out  
+
+of that that level of discrimination. But they weren't the  
+  
+(19:06):  
+
+only things that set it off. Um. The g I  
+
+Bill really kind of came in and said, well, hold on,  
+
+hold my beer, I want to mess things up to  
+
+what does hold my beer mean? It means that like  
+
+there's some dude just kind of sitting there with like  
+
+his shirt, um just barely covering his gut drinking a beer,  
+
+watching somebody do something stupid and he says, hold my beer,  
+  
+(19:26):  
+
+and then he doesn't stupid. That's right. Yeah, I thought  
+
+that's what it meant. But you know me, I'm a  
+
+I'm an old man with a shirt barely covering his gut.  
+
+So I wasn't quite short. You should spend more time  
+
+on Urban Dictionary. It should. I don't drink much beer anymore, though,  
+
+although I do love it. What's your favorite? I mean,  
+
+you know I love Tropicalia here out of Athens, Georgia.  
+  
+(19:49):  
+
+The creature comfort. I still never had one. Well, you  
+
+should come over. I have a cagorator now on my deck.  
+
+Oh my god, I'm serving it up. But I don't  
+
+know why I got it. I got it for friends  
+
+because I don't drink. It's on a beer. And then  
+
+the pandemic happened, and now I've just got a half  
+
+keg of beer sitting ship. All right. So yeah, the  
+  
+(20:09):  
+
+g I Bill um this, you know, in theory, the  
+
+g I Bill is a great thing, and it has  
+
+done a lot of good. But in this case, it  
+
+did block access to home ownership among black Americans because,  
+
+uh they would come home from World War Two. The  
+
+g I Bill was passed. Banks are handing out mortgages  
+
+to veterans and they were actually allowed to discriminate based  
+  
+(20:31):  
+
+on race. Yes, it's shocking. Yeah, well it's like whenever  
+
+you see that kind of thing, you're like, this doesn't  
+
+jibe with what I understand. Just look to the Dixiecrats,  
+
+the segregationists of the South, who were a very powerful  
+
+voting block and during the Jim Crow era, and they  
+
+were like to appease them and get them to vote  
+  
+(20:52):  
+
+for something like a New Deal program or to not  
+
+do everything they could to block it. You had to say, okay,  
+
+well we'll make sure that that blacks are excluded them  
+
+this that that that Black Americans won't have access to  
+
+this amazing program. And they'd be like, okay, cool, let's  
+
+let's do it. That's that's that's where a lot of  
+
+that came from. And I mean, it's easy to blame  
+
+the Dixie Krats, but you can also be like, well,  
+  
+(21:14):  
+
+you know, how hard did you try to go around  
+
+the Dixie Kratz too. I mean it was allowed to happen, yes, yeah,  
+
+by everybody, despite Francis perkins best efforts. Yeah, here's the  
+
+stat For instance, in Mississippi in Uh, they build out  
+
+told out more than three thousand v A backed home  
+
+loans that year. Uh, and two of them were two  
+  
+(21:37):  
+
+black veterans. Uh. Pretty startling. I don't even know the  
+
+percentage on that point nine eight. Oh yeah, there's got  
+
+to be a repeating something in there somewhere. Uh. And  
+
+you know this is a big deal because when World  
+
+War Two ended, they wanted a housing boom. There was  
+
+a lot of the supplies that would have gone to  
+
+home construction during the war went to the war effort.  
+  
+(21:58):  
+
+So the f h A said, you know what, we  
+
+we need a housing boom here. We're going to guarantee  
+
+construction loans to you like big construction companies out there.  
+
+And that's when the suburbs popped up for the first time,  
+
+and that changed everything forever. Yeah. I mean, like they  
+
+they the birth of the suburbs were like a deliberate  
+  
+(22:18):  
+
+program created by the federal government to to basically get  
+
+more people buying houses, to start that intergenerational wealth and  
+
+to create a middle class or to expand the middle  
+
+class dramatically. And they were able to do that partially  
+
+through just like when the f h came along and said, hey,  
+
+you know, we're going to back these people's loans as  
+  
+(22:39):  
+
+long as they're not in a red line neighborhood. That  
+
+says to the lenders, well, then you know that means  
+
+even if this person defaults, the government will buy the  
+
+loan from me. I'm gonna get paid back no matter what.  
+
+They did the same thing to these construction companies to  
+
+which created this huge housing boom. But there's a caveat  
+
+to it. Just like with the v A loans that  
+
+said you can discriminate based on race for loans, even  
+  
+(23:01):  
+
+though this is really important, Chuck. Even though the government  
+
+the v A would back the loan of a black  
+
+veteran just like they would back the loan of a  
+
+white veteran and you would be repaid no matter what,  
+
+you were still allowed to discriminate based on race. The  
+
+f h A, supposedly with the birth of the suburbs,  
+
+said we're going to guarantee your construction loans, so you  
+  
+(23:22):  
+
+can build suburbs, but you can't sell two black Americans.  
+
+That's another one that I don't think there's a smoking  
+
+gun that I saw, so I don't know if that means,  
+
+like get the word out, like you can't sell the  
+
+black people or else we're not going to back these loans,  
+
+or if it was stated policy, that haven't been able  
+
+to turn up. But it's pretty well understood that the  
+  
+(23:43):  
+
+f h A discriminated against black people basically moving to  
+
+the suburbs by not backing construction loans like that. Well. Yeah,  
+
+and there were neighborhood covenants in place that said that  
+
+black people cannot own homes in these neighborhoods they were  
+
+there were clauses that said you cannot resell your home  
+
+if you go to move, you can't sell it to  
+  
+(24:04):  
+
+a black family. Yeah, dude, if you want to be startled,  
+
+go search that um on Google Images. There's like pictures  
+
+of these clauses and deeds that say you can't sell  
+
+to anybody who's not white, or even specifically, you can't  
+
+sell anybody who's black. It's really jarring. Yeah, and it's um,  
+
+I mean, it was sort of expressly understood that the  
+
+suburbs were being created for a reason, and that's to  
+  
+(24:26):  
+
+get white people out of the city to a place  
+
+where they could live among themselves. And it's it's something  
+
+that's still going on. I mean, during the uh most  
+
+recent presidential election campaign, Donald Trump started playing praying on  
+
+these fears again. He was saying things like, literally, suburban  
+
+housewives of America, Biden will destroy your neighborhood and your  
+  
+(24:49):  
+
+American dream. People living their suburban lifestyle dream will no  
+
+longer be bothered of fine or financially hurt by having  
+
+low income housing built in your neighborhood. And the these  
+
+are literal quotes, and it's just he's trying to to  
+
+garner a certain kind of vote, to be sure. But  
+
+you know, we'll get to other stuff. I mean, Trump  
+  
+(25:09):  
+
+has a long history and his and his family with  
+
+he and his father of housing discrimination. But the end  
+
+result of all this is white people. You know, people  
+
+call it white flight. They left the cities, moved to  
+
+the suburbs. People that were in the city still, these  
+
+African American families in these yellow and red line communities,  
+
+we're sort of stuck there. So the government steps in  
+  
+(25:32):  
+
+to build affordable housing, which at first were racially integrated.  
+
+There were black people and white people, but then even  
+
+the lower income white people, uh fled for the suburbs. Yeah,  
+
+because wages rose. Yeah, and they left cities in an  
+
+urban communities almost entirely black. Um. Yeah. So proportionately speaking,  
+
+there was a tremendous drain of white people from the cities.  
+  
+(25:57):  
+
+I'm sure it was different on a city to city based.  
+
+As a matter of fact, I know it was. There's  
+
+not a you can't put a whole blanket of history  
+
+over every square inch of the United States, so different  
+
+cities had different experiences. But proportionately speaking, black people have  
+
+always made up a smaller amount of the American population overall.  
+  
+(26:17):  
+
+But then if you look at the you know, percentage  
+
+of black people, say in a city in nine I  
+
+think is when it peaked. For Atlanta in particular, Um,  
+
+it's like say black or something that's a way larger  
+
+proportion or disproportionate amount of black people living in the  
+
+city than say, um, in the suburbs. And then conversely, Chuck,  
+  
+(26:38):  
+
+when you look at the suburbs and the statistics about  
+
+race or demography in the suburbs, then it really kind  
+
+of all comes home. Yeah, and you know they're living  
+
+in the suburbs. They decide, you know, we still need  
+
+to go into the city sometimes, so we need interstates  
+
+to get us there because we like going to concerts  
+
+occasionally or seeing a professional sports team play, right, and  
+  
+(27:01):  
+
+so they built these interstates, Uh, they kind of barreled  
+
+through black neighborhoods built them there they often became a  
+
+dividing line. UH. And you know, these communities were set  
+
+up to fail. They had less frequent garbage pickup, they  
+
+had inadequate funding to keep up this public housing that  
+
+they built, UM, lower access to basic utilities, and they  
+  
+(27:22):  
+
+were just in no position to to succeed basically. Now.  
+
+And I'm trying to remember what episode we talked about  
+
+prow I Go Housing UM project in in St. Louis.  
+
+I think it was the Environmental Psychology episode, if I'm  
+
+not mistaken, But that was a really good example of  
+
+this of how people pointed to that people from the  
+
+outside and we're like, look, you can't like black people  
+  
+(27:43):  
+
+can't take care of anything. Look at the degraded state  
+
+that this housing project is in. And it's, like you said,  
+
+like they were set up to fail through all through  
+
+like a lack of attention, a lack of funding, UM,  
+
+just a lack of basically everything UM. And it's it's  
+
+that kind of seem to keep perpetuating these um uh biases.  
+  
+(28:07):  
+
+For example, and this is a big one that we'll  
+
+talk about later, that white people think if black people  
+
+move into an area, their housing values are going to  
+
+go down because of stuff like that. Yeah, I mean,  
+
+that's sort of the I guess you'd call it the  
+
+dog whistle that everyone leans on there like, hey, we  
+
+you know, we don't mind. Uh, we're not bigoted at all.  
+  
+(28:27):  
+
+We just want to keep our housing values up. That's right.  
+
+That that so that one and then the the um  
+
+the myth that black people are just inherently um uncredit  
+
+worthy or not credit worthy are the two things that  
+
+seem to be used the most as cover for, like  
+
+you said, post civil rights are segregation in the United States,  
+  
+(28:51):  
+
+the dog whistle, like you said, yeah, I mean, and  
+
+now is when we can talk a little bit about  
+
+um gentrification, because I mean, the way housing has worked  
+
+in this country is really fascinating and really gross in  
+
+a lot of ways, but just interesting to look at  
+
+from a bird's eye point of view. The way people  
+
+move around and what eventually happened with the cities is that, uh,  
+  
+(29:16):  
+
+you know, call them what you want, yuppies or dinks.  
+
+There's a lot of name for upwardly mobile white people.  
+
+They're like, Hey, I want to move into the city,  
+
+I want to be closer to to the concerts. Although  
+
+this is going to be controversial, I'm gonna get a  
+
+lot of cred for this, but one of the most  
+
+annoying trends of the last like fifteen years is building  
+  
+(29:37):  
+
+all these concert venues out in the suburbs. It's so annoying.  
+
+And I know they want their concert venues out there  
+
+so they don't have to come into the city, but  
+
+I hate it when I one of my bands plays,  
+
+you know, thirty miles out into the suburbs. I won't go. Yeah,  
+
+it's kind of a pain. Although we did go out.  
+
+It's a huge Motley Crewe thanks to that was Nita Strauss. No,  
+  
+(30:02):  
+
+that's true, So that was that was worth the trip  
+
+because it was Miley Crue and Alice Cooper. I just think,  
+
+I don't know, I think all sports stadiums and all  
+
+concerts and you should be in the city. I'm with you.  
+
+That's definitely traditional into the city for a big day out.  
+
+You know, when they start moving museums way out in  
+
+the exurbs and I'm done. Um. But the same thing.  
+  
+(30:23):  
+
+You could make the same case. When they built the  
+
+highways and everything, they just kind of built them through  
+
+black communities. That's what they did with with the stadiums  
+
+and all that as well too. Well, no, that's true.  
+
+You know, think about Braves. They just plunked Braves Stadium  
+
+ted Turner out just right in the middle of Mechanicsville,  
+
+which is a historically black community, and said, everybody moves  
+  
+(30:45):  
+
+move aside, and don't harass all the white people who  
+
+come down to see the game on you know, same day.  
+
+We should do I mean, I love sports, but we  
+
+should do a There's such a problematic side to pro  
+
+sports from that too. Um, these billionaire owners is using  
+
+city money to build new stadiums when their other stadium  
+
+is just like ten years old or whatever. That is  
+  
+(31:06):  
+
+definitely problematic. It's crazy, what a crazy amount of waste  
+
+that produces a loan just that alone. Yeah, um, alright,  
+
+so where was I? All right? Uh, white dinks are  
+
+moving into the neighborhoods again in the city because they  
+
+want good Thai food, and uh, these neighborhoods become a  
+  
+(31:28):  
+
+little more attractive the more white people move into, other  
+
+white people to move in, and they start moving in  
+
+and increasing numbers, and the houses are generally renovated or  
+
+improved over time or sometimes they might bulldoze you know,  
+
+a pretty decent house with good bones just to build  
+
+you know, the biggest house possible on their postage stamp  
+  
+(31:48):  
+
+of a lot. It's crazy how close they build these  
+
+mammoth houses together. I'm sure it happens everywhere. Atlanta's got  
+
+a real problem with it. But what happens is, you know,  
+
+home user going to increase, that's gonna raise taxes on  
+
+the other homes around them. A lot of time, those  
+
+other homes are owned by UM, longtime lower income residents,  
+  
+(32:10):  
+
+most times people of color, it becomes unsustainable. UM. We  
+
+have a great, great program here in my neighborhood and  
+
+east like called Neighbor in Need. That is UH Emily  
+
+and I have four main charities that we work with  
+
+and give to every year, and Neighbor in Need is  
+
+one of them because we like to stay really locally focused.  
+
+But Neighbor in Need basically addresses this head on and  
+  
+(32:33):  
+
+they you know, raise a lot of money and they  
+
+use that money to take care of these people. UM,  
+
+if they hear about a neighbor that's like, you know,  
+
+in need, like an older African American couple who's been  
+
+here for forty years, they're having to pay way too  
+
+much in property taxes so they can't afford a roof  
+
+on their house. They'll go put a roof on their house,  
+
+or they'll pay their power bill, um whatever. I mean.  
+  
+(32:56):  
+
+It's a really really great grassroots organization, so UM very  
+
+happy to be working with them and uh, you know,  
+
+trying to fight the sort of ills of gentrification overall. Yeah,  
+
+that's neat because it also draws the community together to  
+
+help the longest term residents of that community rather than  
+
+that whole everybody's on their own kind of thing, which  
+  
+(33:17):  
+
+I'm sure most people who move into a community like  
+
+you know that is gentrifying probably would want to do.  
+
+They just don't know how to do it, or they  
+
+don't know how to contact anybody. People don't just usually  
+
+go over to their neighbor's house and knock on the  
+
+door and introduce themselves anymore. So that's cool. Yeah, and  
+
+you know this is uh sometimes they are able to  
+
+sell their house for a pretty good you know, the  
+  
+(33:39):  
+
+housing value does increase, so they're able to get more  
+
+money than they might have before, which can be a  
+
+nice windfall. But I've also seen firsthand, literally with my neighbors, UM,  
+
+these sort of predatory home builders that come in there,  
+
+and while they think it's probably decent money compared to  
+
+what they thought they could get, it's still a lower  
+  
+(34:00):  
+
+than what they would offer a white family. But even  
+
+if they were treated fairly and they walked away with  
+
+the big windfall from the sale, um and you know,  
+
+had a lot of money to retire on, that community  
+
+was still fractured. You know, the people who are having  
+
+to move and their neighbors who already had to move  
+
+may have lived there for generations or even you know,  
+  
+(34:22):  
+
+just their whole lives and they formed a community. And  
+
+it's not like that whole community just moves elsewhere together.  
+
+They all go to different communities, often towards the end  
+
+of their life, and it leads to alienation, isolation. Um.  
+
+It's a that I mean, that's a real problem. Even  
+
+even if they are being paid well for the the  
+
+houses they're they're being bought out of because they don't  
+  
+(34:43):  
+
+necessarily want to move, but they just can't afford the  
+
+taxes anymore. Um. So there's there's that's a big issue  
+
+with gentrification. It's tough to get around sounds like that  
+
+neighborhood group that you're talking about what's the name again  
+
+that they that they've they've figured out a way or  
+
+round it. Do you know what there needs to be  
+
+dude is uh and this is chuck twenty two stuff. Okay.  
+  
+(35:08):  
+
+I think if you live in a house long enough,  
+
+you shouldn't have to pay property tax anymore. Yeah, I  
+
+think there are I mean, I have to be a lot.  
+
+Maybe it's like twenty years or something, but that would  
+
+solve a lot of this problem. There is zero reason  
+
+why some elderly African American couple that's been in a  
+
+home for forty years needs to be paying taxes at  
+  
+(35:28):  
+
+all on that house, much less these jacked up rates. Yeah. No,  
+
+I think that's that's totally true. Um. Yeah, I think  
+
+there's a if it's not law, there's a proposal in  
+
+Georgia to do that once you're sixty five or something  
+
+like that. Maybe. I mean, I'm ad about property tax anyway,  
+
+just because it's I don't know, we pay so much  
+
+in taxes. Then you finally scrape up enough to buy  
+  
+(35:50):  
+
+a place that's your own, and the government's then like, well,  
+
+if you're going to have to pay tax on that,  
+
+do right? You know, I know, it's seems unfair. Also,  
+
+you shouldn't have to pay full price for coffee anywhere  
+
+once you reach sixty five or old agreed, especially after  
+
+three pm. Uh, All right, well, should we take a  
+
+break and then talk about the Fair Housing Act, which  
+  
+(36:11):  
+
+solved everything. It totally did. It's all great now, alright,  
+
+we'll be right back up to this. Alright, spoiler, So  
+  
+(36:41):  
+
+we ruined things. They passed the Fair Housing Act, and  
+
+racism has been solved in America. That's right. Ninety eight  
+
+And we talked about the Fair Housing Act a little bit, UM,  
+
+and you know, it's a good thing they passed it.  
+
+It did banned discrimination in housing practices officially, but it  
+
+just led to a little trickier way to get around  
+  
+(37:03):  
+
+stuff by UM doing it on the download. Yeah, and  
+
+that is that is for if you're studying systemic racisicism  
+
+in the United States. The passing of like the Voting  
+
+Rights Act, the Civil Rights Act, the Fair Housing Act UH,  
+
+and some other legislation UM during the sixties really changed  
+
+things in that no longer was the government in the  
+  
+(37:27):  
+
+business of enforcing discrimination and segregation UM. And also now  
+
+you had recourse in the courts if you were discriminated  
+
+against UM. But it didn't just a race racism in  
+
+the United States that that task of enforcing basically white  
+
+supremacy and racial discrimination and segregation and all the stuff  
+  
+(37:48):  
+
+that comes along with it fell to um lesser institutions  
+
+in everyday people who carried out. And when you're talking  
+
+about something like housing discrimination, UM, the people who now  
+
+are best able to continue enforcing segregation and discrimination in  
+
+the United States are people like lenders and real estate  
+  
+(38:10):  
+
+agents and even people who are deciding where to buy  
+
+a house. Um. Everyday americans buying the house UM often  
+
+make choices that they don't necessarily think our racist, and  
+
+they might they probably don't think that they're racist, but  
+
+they're still they're housing choices often reflect um inadvertent or  
+  
+(38:32):  
+
+otherwise racial choices or choices along racial lines. Yeah, and  
+
+this you know this next bit, we're we're sort of  
+
+busting on real estate professionals a little bit. I have  
+
+very good friends that are real estate agents. They're great  
+
+people for the most part. We don't mean to just  
+
+paint everything with the big broadbrush, but the industry does  
+  
+(38:54):  
+
+have a history of it, for sure. Yeah, and we  
+
+have to talk about it. So there was one in  
+
+the in the eighties, there was one practice called block  
+
+busting god um not having anything to do with video stores,  
+
+I know it was the eighties, but um literally busting  
+
+up a block. When a real estate agent would work  
+
+or sort of act as a speculator and say, either, hey,  
+  
+(39:19):  
+
+you know what you know, there are some black families  
+
+that are moving into the area. You may want to  
+
+think about selling just to protect your home values before  
+
+they fall. Or they might sell to a black family  
+
+and introduce them to the area so they could then  
+
+turn around, um, buy these houses from the white residents  
+
+and then sell them to the black residents or you know,  
+  
+(39:41):  
+
+hopefully black residents, but at a big mark up. Yeah,  
+
+which has insult to injury, Like they created a basically  
+
+white flight from an area just from the rumor of  
+
+black people moving in, and then they move black people  
+
+in and sell them sell to them at wildly inflated rates,  
+
+which is crazy. And I read one story to Chuck  
+
+of one of these real estate agents that was doing blockbusting.  
+  
+(40:03):  
+
+They would have a black dad with the stroller walk  
+
+around the neighborhood, um like he had moved in or  
+
+was thinking of moving in or whatever, and apparently just  
+
+that was enough to get people to start to sell.  
+
+And again you're like, you know, this is this is  
+
+terrible that real estate agents are doing it. But the  
+
+fact that it was effective really says a lot about  
+
+every day you know, white homeowners too. And also again  
+  
+(40:27):  
+
+like it it doesn't mean like that these white homeowners  
+
+hate black people like they were worried about their property values,  
+
+because it's such an embedded myth in America that when  
+
+a black family moves into a neighborhood, they're so bad  
+
+at taking care of their their house and their home  
+
+values that it's going to drag the home values down  
+
+in throughout the entire neighborhood. And so everybody needed to  
+  
+(40:49):  
+
+get out before that happened. That's that's again, that's the  
+
+definition of systemic racism. Yeah, and you know this has  
+
+been busted up to a large degree officially, but up  
+
+until nineteen fifty, the official policy of the National Association  
+
+of Real Estate Boards UM said a realtor should never  
+
+be instrumental and introducing into a neighborhood members of any  
+  
+(41:13):  
+
+race or nationality whose presence will clearly be detrimental to  
+
+property values in that neighborhood. That was like literal policy  
+
+up until nineteen fifty, and then there was a study  
+
+in two thousand six by the National Fair Housing Alliance  
+
+that said, and this is something else called steering, which  
+
+is not blockbusting, but it's like, hey, like we want  
+  
+(41:34):  
+
+to show you houses over here in this neighborhood because  
+
+we think it's a better fit for you. Uh. And  
+
+you know here the financial instruments available to get mortgages  
+
+for you and maybe not just for everybody. And black  
+
+people historically have not given the full picture. They're maybe  
+
+not shown white neighborhoods. Uh. And the study found that  
+
+steering occurred sent of the time when researchers posed as  
+  
+(41:58):  
+
+buyers and we're shown homes like these sort of undercover operations. Yeah,  
+
+and steering occurs, um not just you know, if you're  
+
+if you're a black home buyer, you're not just going  
+
+to be shown a black neighborhoods. If you're a white  
+
+home buyer, they're probably not going to take you to  
+
+black neighborhoods either. So through this process of racial steering,  
+
+this is basically enforcing patterns of segregation still in the  
+  
+(42:22):  
+
+United States. Yeah, there was another study by Brookings. They  
+
+found that black owned homes are undervalued by an average  
+
+of forty thou dollars. And this is one that's controlled  
+
+by all the factors like home quality and amenities and everything. Exclamation, Yeah,  
+
+it's forty eight grand literally because it is a home  
+  
+(42:43):  
+
+owned by a black individual. When they control for amenities  
+
+where the home is the size of the house, everything  
+
+else about the house. If you compare apples to apples,  
+
+and it's the same house owned by a white person  
+
+and the other house that's exactly the same home by  
+
+a black person, the black person's house is going to  
+
+be forty thousand dollars less in value just because it's  
+  
+(43:05):  
+
+owned by a black person. And that's that's just basically  
+
+that whole idea of um that black people drag home  
+
+values down becoming a self fulfilling prophecy, and um that  
+
+those same home values are all of that undervaluing that  
+
+same Brooking study found amounts to a loss of about  
+  
+(43:27):  
+
+a hundred and fifty six billion dollars for Black Americans. Yeah,  
+
+for wealth they were not able to achieve. And uh,  
+
+you know, we talked a lot about the Great Recession  
+
+in the mortgage crisis kind of when it was going  
+
+on and shortly thereafter, Um, Black Americans back then were  
+
+likelier to receive subprime mortgages. These were the loans that  
+  
+(43:47):  
+
+were really expensive to repay. They had higher fees, they  
+
+had higher interest rates, um they also had mechanisms built  
+
+in if you were a black loan owner that made  
+
+it easier for the lender to seize their collateral with  
+
+usually meant their house and so like, it makes sense  
+
+that if you are taking a greater risk lending to  
+
+somebody as the bank, you should be able to get  
+  
+(44:10):  
+
+more money for it, right, But the problem is is  
+
+like subprime mortgages were doled out to black homeowners or  
+
+black home buyers at way higher rates than they were  
+
+to white home buyers. And that's a problem in and  
+
+of itself if the if the rates are less favorable  
+
+and it's easier for the bank to repossess the house.  
+
+But especially it proved to be a big problem during  
+  
+(44:32):  
+
+the mortgage crisis when that bubble bursts, because if you  
+
+were a low income Black American, you were probably denied  
+
+a mortgage of any kind. But even if you were  
+
+a middle to high income black home buyer, you probably  
+
+got a subprime mortgage compared to say, a white buyer  
+  
+(44:52):  
+
+with the same criteria that you had to offer. UM.  
+
+So that meant that when those foreclosures happened because the  
+
+bubble bursts, Black Americans, especially UM, wealthier Black Americans, were  
+
+disproportionately impacted, so that that subprime mortgage debacle erased way  
+
+more Black intergenerational wealth than it did for white people. Yeah,  
+  
+(45:15):  
+
+I have my last three exclamation points. Stat during the  
+
+subprime mortgage crisis, there was a study that found black  
+
+and Latino families, because you know we've mentioned people of  
+
+color a few times, is not just solely African American  
+
+families affected? Um, And the study found that black and  
+
+Latino families making two hundred thousand dollars a year or more,  
+  
+(45:39):  
+
+we're still more likely to receive a subprime loan than  
+
+white families making less than thirty thousand dollars a year.  
+
+That nuts, and six point two percent of white people  
+
+with a credit score of six sixty or higher received  
+
+a subprime mortgage compared to twenty one point four percent  
+
+of black borrowers with that same credit score. So, Chuck, UM,  
+  
+(46:00):  
+
+there's a big problem with all this. And it's kind  
+
+of like you said at the beginning, like when you're  
+
+talking about race and especially discrimination by race. Um, people  
+
+tend to be like, especially white people tend to be like, well,  
+
+I don't know about that. I mean, there's a lot  
+
+of other factors involved, Like it could be anything. So  
+
+you really have to kind of prove that this is  
+
+a thing. And ever since the federal government got out  
+  
+(46:22):  
+
+of discriminating on paper, um, it's gotten a lot harder  
+
+to track. So back in the seventies, the Department of  
+
+Housing and Urban Development, they have an office of Research  
+
+and Policy. They came up with the way of testing  
+
+this to control for as many variables as possible and  
+
+just see if it's just race that is being discriminated against.  
+  
+(46:43):  
+
+And it's called paired testing. It's actually pretty clever from  
+
+what I understand. Yeah, that's when you get to equally  
+
+qualified candidates to apply for homeown or to go to  
+
+a real estate agent and like look at apartments or  
+
+houses or whatever. Uh. They are trained to basically be  
+
+as identical as they can be to one another, to  
+  
+(47:04):  
+
+respond to the questions in the same way, have the  
+
+same credit history, same job status, same income level, and  
+
+basically sort of be duplicates of one another except for  
+
+their skin color. Uh, they're not working together so they  
+
+don't even know, um, like there's no bias there even  
+
+because they're not like paired together, right, They're not like,  
+
+oh they got too, I'm gonna try this with them.  
+
+Like they don't. They don't meet one another, they don't  
+  
+(47:26):  
+
+interact with one another. They're just doing their thing and  
+
+they're just trained to do it exactly the same way.  
+
+The only distinction between them is their their race. Right.  
+
+And so the Urban Institute, which is a think tank,  
+
+UM study this and they came up with kind of  
+
+four big points from this paired testing UH exercise, which  
+  
+(47:47):  
+
+is UH. They found about discrimination and housing vouchers that  
+
+are intended to let low income renters choose from a  
+
+bigger pool a rental housing uh than the realtors even showed. UM,  
+
+there were fewer homes and apartments available to minorities like  
+
+we were, like I kind of mentioned earlier, like just  
+
+a smaller like no, you know, we'll just look here. Yeah,  
+  
+(48:09):  
+
+the racial steering usually results in fewer, fewer places being shown. Um.  
+
+They were steered again to primarily um, you know, neighborhoods  
+
+of their own ethnicity, and then given less information overall.  
+
+Like I mentioned about mortgage products, UM, different kinds of loans,  
+
+different kinds of ways of structuring a loan, just not  
+  
+(48:31):  
+
+given that information at all. Right, Um, so the they  
+
+also found this paired testing turns up very frequently that um,  
+
+it's not just even people of colors, not just black Americans,  
+
+but it's people of color in general. But um, it's  
+
+not even just down to to racial discrimination. There's also  
+
+a lot of discrimination against people who are differently abled.  
+  
+(48:53):  
+
+They actually sometimes fair worse than minorities when it comes  
+
+to housing discrimination. Paired testing is has turned that up  
+
+as well. So it's still the upshot of all this  
+
+is that it's still a problem and there is like  
+
+some silver lining to it. Um the I think. Uh.  
+
+That same think tank, the Urban Institute, also turned up  
+  
+(49:14):  
+
+that there's been a general decline overall. It's not huge,  
+
+but it's it's noteworthy. It's remarkable. Um of preference in  
+
+favoritism toward white white buyers over buyers of of like  
+
+minority buyers by about five percent between and two thousand.  
+
+It went from about so And there does seem to  
+  
+(49:38):  
+
+be a general decline in racism or discrimination, I should say, uh,  
+
+in the United States. So that's the good news, is  
+
+that America seems to be getting less racist. The bad  
+
+news is that America is still racist. Like, we still  
+
+have a long way to go. It's, as the study  
+
+put the studies findings confirm a hard truth that America's  
+  
+(49:58):  
+
+long journey to end housing discrimination remains unfinished. Um. And  
+
+so there's still a long way to go. And I  
+
+think it's really important for everybody to realize that there's  
+
+a long history of discriminating against people of color, but  
+
+also very specifically Black Americans, and that it's still going  
+
+on today. And even though it's in a slightly lesser form,  
+
+it's very important if it's going on at all, that  
+  
+(50:21):  
+
+we we erase it. That's right, agreed, You got anything else?  
+
+Nothing else? All right, Chuck, Well then that's housing discrimination.  
+
+And since I said all right, Chuck, it's time for  
+
+a listener mail. Well instead of reading a specific listener mail.  
+
+And because this episode is a little heavy, we thought  
+
+we'd have a little fun. Um. We got maybe more  
+  
+(50:45):  
+
+emails than we have for any other episode in our  
+
+history down literally about Neco wavers Um. A lot of  
+
+support for the Neco for people, and a lot of  
+
+condemnation for yucking yums without giving having tried them. You  
+
+were all correct. We honor you all, and we're gonna  
+
+Josh got some sent them to me. We're gonna try  
+  
+(51:06):  
+
+some necka wafers on the air. Listen there. I just  
+
+realized I think I made a grave mistake by not  
+
+having any water in the basement. Yeah, I just realized  
+
+this as well. Do you have a pipe to tap into?  
+
+I think we should eat the same color. Oh really? Okay,  
+
+all right, so we can kind of go, you know,  
+
+nose to nose. I'm never open one these before. Okay, exactly, already,  
+  
+(51:29):  
+
+so nasty. You know, everybody was right about yucking people's  
+
+yams in general, but also because we hadn't tried them.  
+
+So that's why we're doing this. I mean, they're just  
+
+falling apart when I opened the package. So to strike one,  
+
+I've got a mess on my table. What color are  
+
+we gonna do? I mean it's hard to tell. This  
+
+looks sort of like a very pale yellow. That's the  
+  
+(51:51):  
+
+only whole one in my hand. Pale yellow. I don't  
+
+even have that. I got white. I've got orange it  
+
+maybe maybe it is white, Okay, I'll call it. Wait wait, wait, wait,  
+
+I might have a palio when I do, I do it. Okay,  
+
+apology to the people of Mesophonia, but here we go.  
+
+Oh my god, it's just like it's like a flatter um,  
+  
+(52:18):  
+
+bigger candy heart. The conversation hart, it's not bam like okay,  
+
+very hard, the crunches. I think what probably gets people.  
+
+I mean, the taste isn't bad, but it's not great. No,  
+
+they're not great, But I mean, who's crazy for conversation hearts,  
+
+sickos and weirdos? You know, the same goes for me. Well,  
+  
+(52:40):  
+
+what's the verdict? Would you ever buy and eat Neca  
+
+wafers after this? I will tell you what. I will  
+
+probably eat the rest of these. And I like sugar.  
+
+I like as atter fact, I'm gonna do one of  
+
+the gray ones real quick. What about you? Uh no, no,  
+
+that is not my up my alley. But I'm gonna  
+  
+(53:02):  
+
+try one of those chocolates because those where I think  
+
+recommended steer clear, the dark gray ones, the liquorice ones.  
+
+They're awful. It tastes Oh no, it is slightly different. Yeah,  
+
+I get a little hint up cocoa. I've come around  
+
+a little bit to the liquorice ones. At the end Wow,  
+
+I'm turning into an eco weirdo. Actually, the chocolate aren't bad.  
+  
+(53:23):  
+
+What about pink? Try pink? Well, that's um, this is  
+
+winter green. I think people are so disgusted right now. Yeah,  
+
+this is all right. We're literally the last two people  
+
+listening to this. Man, I think we should wrap this. Okay. Well, um,  
+
+if you want to tell us that we shouldn't yuck  
+
+everybody's jump, especially about something we haven't tried, we need  
+  
+(53:44):  
+
+to hear that whenever we do that. It's totally true  
+
+and totally right. Thank you everybody who wrote him. You  
+
+can get in touch with us at Stuff podcast at  
+
+I heart radio dot calm Stuff. You should know it  
+
+is pretty action of I heart Radio. For more podcasts  
+
+for my heart Radio, visit the iHeart Radio app, Apple Podcasts,  
+  
+(54:05):  
+
+or wherever you listen to your favorite shows. H
+
+#### Older Episodes
+
+[Short Stuff: How California Got Its Name](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/short-stuff-how-california-got-its-name-77450421)
+
+February 9, 2021
+
+•
+
+12 min
+
+California is a pretty cool name. And the story about where it came from is even cooler. Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
+
+[Sacagawea: Impressive Teen](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/sacagawea-impressive-teen-77387834)
+
+February 8, 2021
+
+•
+
+47 min
+
+Sacagawea was only 16 when she joined the Corps of Discovery. That is one seriously impressive teenager. Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
+
+[Selects: Earwax: Live With It](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/selects-earwax-live-with-it-77258355)
+
+February 5, 2021
+
+•
+
+36 min
+
+Despite tons of people using cotton swabs each day to clean the earwax from their ears, cerumen (as earwax is clinically known) is actually quite beneficial to the health of your ears - and even kind of ingenious as your body's defense goes. Learn more in this classic episode. Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.

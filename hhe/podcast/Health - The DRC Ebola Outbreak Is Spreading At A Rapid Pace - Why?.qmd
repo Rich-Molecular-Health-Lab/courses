@@ -14,7 +14,9 @@ categories:
 ![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** 1A
 
 ::: {.callout-description collapse="true"}

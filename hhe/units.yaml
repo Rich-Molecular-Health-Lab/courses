@@ -77,11 +77,13 @@
     - "ENVN4320_W3D2"
     - "ENVN4320_W4D1"
     - "ENVN4320_W4D2"
+    - "ENVN4320_W5D1"
   dates:
     - "2026-09-08T16:00:00"
     - "2026-09-10T16:00:00"
     - "2026-09-15T16:00:00"
     - "2026-09-17T16:00:00"
+    - "2026-09-22T16:00:00"
   content:
     - "Floods_&_Hurricanes"
     - "Wildfires"
@@ -106,9 +108,9 @@
   class_start: "ENVN4320_W3D1"
   date_start: "2026-09-08T16:00:00"
   week_start: 3
-  class_end: "ENVN4320_W4D2"
-  date_end: "2026-09-17T16:00:00"
-  week_end: 4
+  class_end: "ENVN4320_W5D1"
+  date_end: "2026-09-22T16:00:00"
+  week_end: 5
   title: "Disasters"
 - unit:
     - "Exams ENVN4320"
@@ -212,7 +214,7 @@
   exams:
     - "Exam 1 ENVN4320"
   films:
-    []
+    - "A New Inferno"
   case_convos:
     []
   projects:
@@ -247,17 +249,24 @@
     - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
     - "Nsilo Berry on making buildings healthier"
   slides:
+    - "Redlining & Public Health Legacies"
     - "Heat_Islands-Infrastructure_&_Health"
   course_name: "Human Health & the Environment"
   content:
+    - "Redlining & Public Health Legacies"
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+    - "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
     - "Heat_Islands-Infrastructure_&_Health"
     - "What Does Extreme Heat Do to the Body?"
-    - "Extreme Heat Is the New Normal"
     - "How Urban Heat Impacts Communities of Color"
     - "Heatwave What is the urban heat island effect"
+    - "A New Inferno"
   videos:
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+    - "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
     - "What Does Extreme Heat Do to the Body?"
-    - "Extreme Heat Is the New Normal"
     - "How Urban Heat Impacts Communities of Color"
     - "Heatwave What is the urban heat island effect"
   class_start: "ENVN4320_W5D1"

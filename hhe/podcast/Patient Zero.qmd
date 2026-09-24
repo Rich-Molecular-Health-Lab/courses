@@ -12,7 +12,9 @@ categories:
 ![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2011
+
 **Series:** Radiolab
 
 ::: {.callout-description collapse="true"}
@@ -25,3 +27,1362 @@ The greatest mysteries have a shadowy figure at the center—someone who sets th
 
 :::
 
+<iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/1541748/&share=1"></iframe>
+
+## Transcript
+
+Patient Zero
+
+**SOREN WHEELER:** Hey, this is Radiolab. I'm Soren Wheeler, and I have a show for you today that I want to play for a couple reasons. First of all, it's one of my favorites of all time. And secondly, despite the fact that we produced his story back in 2011, it is weirdly—and unfortunately—perennially relevant. Like, every year. Like, if you're in the US right now, that would be because of the Cyclospora situation, which is the explosive diarrhea outbreak. But thinking back to COVID or monkeypox or even the most recent Ebola outbreak, anytime one of these diseases makes its way into us humans, the first question is always: How did it start? Like, where did this come from? Or sometimes, like, who did it come from? And that is what this show that I'm gonna play for you today is all about. We produced this one back in 2011. It's got mysterious, shadowy figures, it's got a very high-stakes story of a man hunting a chimp in Cameroon, and a probably futile attempt to get to the bottom—or rather the beginning—of the most famous celebratory gesture in human history. So here it is.
+
+\[RADIOLAB INTRO\]
+
+***LYNN LEVY:*** *So have we said where we are on tape yet?*
+
+**JAD ABUMRAD:** Starting us off today are our producers Lynn Levy and Sean Cole.
+
+***SEAN COLE:*** *Very pretty day to be on an abandoned island where victims of contagious disease were quarantined. And one in particular who lived here, died here, never believing that she was, in fact, sick and dangerous.*
+
+**ROBERT KRULWICH:** So this is a story that begins when?
+
+**SEAN:** It—well actually, it starts in 1906. And it doesn't start on the island, it starts in Oyster Bay.
+
+**ROBERT:** Oh, nice neighborhood!
+
+**SEAN:** Very nice. And there was this one rich family on vacation there.
+
+***JUDY LEVITT:*** *And their daughter gets sick. She gets sick first.*
+
+**SEAN:** This is Judy Levitt.
+
+***JUDY LEVITT:*** *I am a professor emerita at the University of Wisconsin.*
+
+**SEAN:** And she wrote a book about this story. So basically, the girl, the daughter, has a fever. Then her sister comes down with it, and then her mom, and a maid.
+
+***JUDY LEVITT:*** *About six out of eleven in the family gets sick.*
+
+**SEAN:** And with this disease, the fever's just the first part of it.
+
+***JUDY LEVITT:*** *Both diarrhea or constipation are reported. So it can go either way, I guess.*
+
+**JAD:** What is it?
+
+**SEAN:** Typhoid.
+
+**ROBERT:** Hmm.
+
+***JUDY LEVITT:*** *And they couldn't figure out what had caused the disease, so they called in this sanitary engineer named George Soper.*
+
+**SEAN:** With the Public Health Department. He was the go-to guy for outbreaks like this. Back then, the Department of Public Health was thinking, you know, you'd get sick because of something dirty near you.
+
+**ROBERT:** In the well or in the pipes.
+
+**SEAN:** Yeah. So he looks into all of that.
+
+***JUDY LEVITT:*** *Did a whole test on the house and the water and everything. Couldn't find anything, and so...*
+
+**SEAN:** He starts talking to the family.
+
+***JUDY LEVITT:*** *And he started quizzing them all, and they...*
+
+**SEAN:** Eventually, he builds up this whole picture of several outbreaks going back years.
+
+*\[****ARCHIVE CLIP:*** *1900\. Mamaroneck. A New York family had a house for the summer...\]*
+
+*\[****ARCHIVE CLIP:*** *1902\. Dark Harbor, Maine.\]*
+
+*\[****ARCHIVE CLIP:*** *1904\. Seven cases.\]*
+
+*\[****ARCHIVE CLIP:*** *Sands Point, New York.\]*
+
+*\[****ARCHIVE CLIP:*** *Autumn, 1906.\]*
+
+*\[****ARCHIVE CLIP:*** *Winter, 1907. New York City\]*
+
+**SEAN:** All these cases. And they all had one thing in common.
+
+**ROBERT:** What?
+
+**SEAN:** Each of these families had employed the same cook.
+
+**JAD:** Really?
+
+**ROBERT:** Really?
+
+**SEAN:** Which is funny, because when you cook food you kill the bacteria in the food.
+
+**JAD:** Yeah!
+
+**ROBERT:** So it couldn't be the cook then.
+
+**SEAN:** But this cook...
+
+***JUDY LEVITT:*** *Her most famous dish was Peach Melba, which is ice cream and fresh peaches.*
+
+**SEAN:** Fresh peaches. Raw fruit.
+
+***JUDY LEVITT:*** *It was a perfect medium.*
+
+**SEAN:** And the cook's name was Mary Mallon.
+
+**JAD:** Mary Mallon. Wait a second, Sean Cole.
+
+**ROBERT:** Typhoid...
+
+**JAD:** Typhoid Mary is who we're talking about.
+
+**ROBERT:** Oh, so we know this story.
+
+**SEAN:** No, you don't know this story.
+
+**ROBERT:** What do you mean?
+
+**SEAN:** Everybody thinks they know this story. I thought I knew this story. And then when I looked into it, I realized I didn't know the first thing about it. And when you look into the details, they tell us some very difficult things about who we were and who we still are in a lot of ways. It's all in the details, all of the juice and problem.
+
+**JAD:** Like the peach juice.
+
+**ROBERT:** The peach juice.
+
+**SEAN:** Just like the peach juice. Still dealing with...
+
+**ROBERT:** Wait! I'm Robert Krulwich.
+
+**JAD:** \[laughs\]
+
+**ROBERT:** Go ahead. Go ahead, do your part!
+
+**JAD:** I'm Jad Abumrad.
+
+**ROBERT:** This is Radiolab. And in this hour...
+
+**JAD:** A series of stories that all hew to that delicious story archetype we call...
+
+**ROBERT:** Patient Zero. The first cause.
+
+**JAD:** We'll try to trace ideas and trends and massive social traumas like pandemics back to that one person.
+
+**ROBERT:** Or one critter. Or the other way you could call it is called the "but for." If you didn't have this thing, but for this thing, you wouldn't have the rest of the story.
+
+**JAD:** I like the but for.
+
+**ROBERT:** The but for.
+
+**JAD:** But meanwhile...
+
+**ROBERT:** Back to the peaches.
+
+**SEAN:** So George Soper's like, "I've got to find this woman." And when he finds her...
+
+***JUDY LEVITT:*** *She's in New York City working for another family.*
+
+*\[****ARCHIVE*** ***CLIP:*** *The laundress had recently been taken to the Presbyterian Hospital with typhoid fever.\]*
+
+**SEAN:** This is from an article Soper wrote called The Curious Case of Typhoid Mary.
+
+*\[****ARCHIVE*** ***CLIP:*** *And the only child of a family, a lovely daughter was dying of it.\]*
+
+**SEAN:** So he goes to the house, walks into the kitchen. Sees this woman, 5'6", blond hair, blue eyes.
+
+*\[****ARCHIVE*** ***CLIP:*** *Had a good figure, and might have been called athletic had she not been a little too heavy.\]*
+
+**SEAN:** Irish immigrant, 36 years old.
+
+*\[****ARCHIVE*** ***CLIP:*** *Not particularly clean.\]*
+
+***JUDY LEVITT:*** *And he says, "Mary Mallon, I think you are causing disease in people and I want samples of your urine, feces and blood." \[laughs\]*
+
+***SEAN:*** *\[laughs\] Good afternoon!*
+
+**SEAN:** And she says...
+
+***DAVID ROSNER:*** *What are you accusing me of being sick?*
+
+**SEAN:** Playing the role of Mary is Columbia Public Health Professor David Rosner.
+
+***DAVID ROSNER:*** *How dare you? I'm not a sick person.*
+
+***JAD:*** *What does she do?*
+
+***DAVID ROSNER:*** *She chases him out of the building.*
+
+***JUDY LEVITT:*** *With a fork in her hand.*
+
+***SEAN:*** *A serving fork.*
+
+***JAD:*** *A serving fork?*
+
+***SEAN:*** *Yeah.*
+
+*\[****ARCHIVE*** ***CLIP:*** *I felt rather lucky to escape.\]*
+
+**JAD:** But did she have typhoid? I mean, did she outwardly have typhoid?
+
+**SEAN:** Well, that's the thing.
+
+***DAVID ROSNER:*** *She never had any symptoms. She felt perfectly healthy.*
+
+**SEAN:** She was actually the first documented case in North America of a healthy carrier, which is to say someone who has the disease and is contagious, but never actually feels...
+
+**ROBERT:** The symptoms?
+
+**SEAN:** The symptoms. So in one weird way, Soper's thrilled. Like, he's only read about this. And then here she is in front of him. But think of how all of this must have sounded to Mary. I mean, some guy from outer space comes into your kitchen and says, "You're diseased and you're hurting people." She must have thought...
+
+***DAVID ROSNER:*** *What? I feel fine. I'm living a moral life. I'm not a vagrant. I'm employed. I'm a good, solid citizen. You know, you would be crazed too, wouldn't you? Even today.*
+
+***JAD:*** *You'd—you'd probably grab your knife, yeah.*
+
+***DAVID ROSNER:*** *Yeah, you'd grab your knife.*
+
+**ROBERT:** Well, does he have any evidence though, that she is spreading the disease?
+
+**SEAN:** Not yet. That's why he needs her poop.
+
+**ROBERT:** Ah.
+
+**SEAN:** So he goes back, finds her at a rooming house. She kicks him out, swears at him.
+
+***JUDY LEVITT:*** *She apparently had quite a temper.*
+
+**SEAN:** And then the health department sends in this female doctor...
+
+***JUDY LEVITT:*** *By the name of S. Josephine Baker. Maybe she could ask for blood, feces and urine a little more gently than...*
+
+***SEAN:*** *I just don't know how you ask for that gently.*
+
+**SEAN:** But she tries. And when it doesn't work, she comes back a little bit later with cops.
+
+***JUDY LEVITT:*** *And they come to the house and Mary Mallon, when she realizes what's happening disappears.*
+
+***SEAN:*** *What do you mean, disappears? She just vanishes?*
+
+***JUDY LEVITT:*** *Just completely vanishes. They end up searching the entire place, and they can't find her. Finally, I think they're about to leave when one of them spots...*
+
+***DAVID ROSNER:*** *... her skirt coming outside of a door.*
+
+***JUDY LEVITT:*** *It's a little piece of calico kind of stuck in a doorway.*
+
+***DAVID ROSNER:*** *They open the door and there she is.*
+
+***JUDY LEVITT:*** *And so they drag her out and she comes out kicking and screaming and...*
+
+***DAVID ROSNER:*** *... screaming and kicking.*
+
+***JUDY LEVITT:*** *It takes all of them to drag her out.*
+
+***DAVID ROSNER:*** *Protesting.*
+
+***JUDY LEVITT:*** *They get her in the ambulance and Josephine Baker sits on her. According to her, sits on her.*
+
+**SEAN:** And Baker later said...
+
+***JUDY LEVITT:*** *Something like it was like being in a cage with an angry lion.*
+
+**SEAN:** So they take her down to the hospital.
+
+***JUDY LEVITT:*** *They tested her feces and urine, and they found that yes, she was in fact a carrier of live typhoid bacilli.*
+
+***MAN:*** *It's a weird island. I spent a while on here.*
+
+***JUDY LEVITT:*** *So they isolate her, and they ultimately move her from Manhattan to North Brother Island.*
+
+***DAVID ROSNER:*** *And there she is.*
+
+**SEAN:** We went there to just to try to get our heads around what she must have thought.
+
+**JAD:** What was the island like?
+
+***SEAN:*** *Man, everything is completely overgrown.*
+
+**SEAN:** It was really creepy.
+
+**ROBERT:** Creepy because it was in such dissolution?
+
+**SEAN:** Yeah. Yeah.
+
+***SEAN:*** *Just be careful where you step.*
+
+**SEAN:** On one end, there are all of these medical—former medical buildings, including a giant hospital where they isolated tuberculosis patients. So big, brick, stately building. And then on the other side of the island, there's smaller wooden buildings that are crushed.
+
+***SEAN:*** *This may be where her cottage is.*
+
+**SEAN:** Where her cottage would be if it was still standing, but it's not standing anymore.
+
+***JUDY LEVITT:*** *Well, it was one room. One room. It had a kitchen. It had a, I guess a sleeping area and a sitting area. It probably wasn't so bad if you didn't have to stay there. You know, any place is—that you're not free to leave becomes like a prison.*
+
+**SEAN:** So we're marching around and then Lynn says to me, "Hey, look at the view." And...
+
+***SEAN:*** *Holy moly! It's right there.*
+
+**SEAN:** That's when it really hit me.
+
+***SEAN:*** *If this is where her cabin was, then one window of it looked exactly onto Manhattan.*
+
+***LYNN:*** *She could have seen where she used to live.*
+
+***SEAN:*** *You can see the traffic on the streets.*
+
+**SEAN:** This was like the most horrible seaside vacation.
+
+***JUDY LEVITT:*** *Almost the whole time they had her incarcerated, they took feces three times a week, which is* — *you know, it's not pleasant to have to do that. And sometimes she was negative and sometimes she was positive.*
+
+**JAD:** Wait, what?
+
+**SEAN:** So that's—that's another thing that they were figuring out at the time. So she was probably an intermittent carrier.
+
+**JAD:** What does that mean?
+
+**SEAN:** The disease is always in her, but sometimes she excretes it and sometimes she doesn't.
+
+**JAD:** Oh, that must have been confusing for her.
+
+***LYNN:*** *"When I first came here, I was so nervous and almost prostrated with grief and trouble. My eyes began to twitch."*
+
+**SEAN:** This is from a letter that Mary wrote from the island.
+
+***LYNN:*** *"I have, in fact, been a peep show for everybody."*
+
+**SEAN:** But if you keep reading it, and in fact, it's addressed to a lawyer, it's clear that she was fighting this. And she had been sending her own feces samples herself to a private lab in Manhattan. And each one of those was negative.
+
+**JAD:** Really?
+
+***LYNN:*** *"The tuberculosis man would say, 'There she is, the kidnapped woman.'"*
+
+***SEAN:*** *Yeah, that is poison ivy.*
+
+**SEAN:** She sues the city and loses. Still, there are all of these questions as to whether any of this is legal. I mean, even George Soper, the guy who hunted her down said it was contrary to the Constitution of the United States to hold her under the circumstance.
+
+**JAD:** And how long was she on this island for?
+
+**SEAN:** Three years.
+
+**JAD:** Wow!
+
+**SEAN:** And then what changed was a new health commissioner took over.
+
+***JUDY LEVITT:*** *And so he says it's just not right that we keep a healthy woman locked up like this. She was not dangerous to anybody if she didn't cook.*
+
+**SEAN:** He lets her go.
+
+**ROBERT:** He lets her go?
+
+**SEAN:** Yeah, back to Manhattan. But he makes her promise.
+
+***JUDY LEVITT:*** *She did promise. She signed an affidavit...*
+
+**SEAN:** Saying she'll never cook again. And she was released. They gave—they set her up with a job as a laundress and they went, "Here you go, Mary." And then, you know, they kept track of her for a while.
+
+**JAD:** Hmm.
+
+**SEAN:** And then at a certain point they kind of stopped keeping track of her.
+
+**JAD:** \[laughs\]
+
+**SEAN:** \[laughs\]
+
+**ROBERT:** Dun dun dun dun! So how many years will go by?
+
+**SEAN:** Five.
+
+**ROBERT:** Five.
+
+**JAD:** What happens next?
+
+**SEAN:** There's an outbreak of typhoid.
+
+**ROBERT:** Oh, boy.
+
+**JAD:** Where?
+
+**ROBERT:** Where?
+
+**SEAN:** At a maternity hospital.
+
+**ROBERT:** Oh, you're kidding!
+
+**JAD:** Oh, wow!
+
+**SEAN:** Josephine Baker who sat on her in the ambulance before, she says that she goes and pays a visit and walks into the kitchen. And she says the first person that she encountered was Typhoid Mary Mallon. George Soper did some legwork on where Mary had been, and it turned out she had worked at a restaurant, two hotels, an inn and a sanatorium, as well as the hospital. And at least according to his account, two of the people that she made sick during those couple years were children.
+
+*\[****ARCHIVE CLIP:*** *She was now a woman who could not claim innocence. She was known willfully and deliberately to have taken desperate chances with human life. She had abused her privilege. She had broken her parole.\]*
+
+***JUDY LEVITT:*** *So then they put her back on North Brother Island, back in her bungalow. And there she sits.*
+
+*\[****ARCHIVE CLIP:*** *She was a dangerous character and must be treated accordingly.\]*
+
+**ROBERT:** Absolutely. She's broke—broke her promise.
+
+**JAD:** Yeah, I totally agree.
+
+**ROBERT:** She made a deal and she didn't keep the deal.
+
+**SEAN:** But the thing is is that at the time she was sent back to the island, there were hundreds of other healthy carriers identified all over New York, and some of them were cooks.
+
+**JAD:** What?
+
+**ROBERT:** Really?
+
+**SEAN:** Mostly men, by the way. And...
+
+**JAD:** And they were cooking?
+
+**SEAN:** Well, they were barred from cooking, but not all of them always listened. And yet Mary was the only one who they isolated in this way.
+
+**JAD:** Why? Why only her?
+
+**SEAN:** I think it was more about making people feel safe than actually making them safe.
+
+***SEAN:*** *Oh look out for this stair. It's all crumbled.*
+
+**SEAN:** She was what we needed at the time.
+
+***SEAN:*** *We're in the hospital where the tuberculosis patients were quarantined.*
+
+**SEAN:** This was towards the end of Lynn and my visit to the island.
+
+***SEAN:*** *Yeah, these must be the wards.*
+
+***LYNN:*** *Definitely.*
+
+***SEAN:*** *Yeah.*
+
+***LYNN:*** *So when was she here?*
+
+***SEAN:*** *This is where they brought her after she had a stroke. And this is where she was for the last six years of her life.*
+
+***LYNN:*** *Did she die in here?*
+
+***SEAN:*** *Yeah. Yeah.*
+
+**JAD:** Hey, I'm Jad Abumrad.
+
+**ROBERT:** I'm Robert. Krulwich.
+
+**JAD:** This is Radiolab. And today...
+
+**ROBERT:** It's patient zero. That's our subject.
+
+**JAD:** Yeah, and this next story, whew!
+
+**ROBERT:** It's so huge.
+
+**JAD:** It's the ultimate patient zero story, really.
+
+**ROBERT:** Many of us have lived through this. It was—it's as recent an event—it's such a recent event that it still hurts and it still bleeds.
+
+**JAD:** Yeah.
+
+**ROBERT:** And in it somewhere is a—literally, the—the patient that is called Zero. So this is...
+
+**JAD:** Yeah. A lot of people are gonna help us tell the story, but starting us off is science writer, Radiolab regular Carl Zimmer.
+
+***CARL ZIMMER:*** *So in 1981, doctors for the first time described...*
+
+*\[****NEWS CLIP:*** *A mysterious newly-discovered disease...\]*
+
+***CARL ZIMMER:*** *A syndrome.*
+
+*\[****NEWS CLIP:*** *... which affects mostly homosexual men.\]*
+
+***CARL ZIMMER:*** *The young men in Los Angeles...*
+
+**JAD:** Were dying.
+
+*\[****NEWS CLIP:*** *The number of cases has been growing faster and faster.\]*
+
+*\[****NEWS CLIP:*** *So far, more than 80 Americans have died.\]*
+
+*\[****NEWS CLIP:*** *258 people have died.\]*
+
+*\[****NEWS CLIP:*** *625 people have died.\]*
+
+**JAD:** Of course, this is the part we all know. How, from those first few cases in LA, AIDS became one of the deadliest pandemics the world has ever seen.
+
+*\[****NEWS CLIP:*** *More dangerous than the plague of the Middle Ages.\]*
+
+**JAD:** But back at the beginning, there was a story that I've not been able to shake for the last 30 years. And it's a story that I want to re-imagine right now.
+
+***DAVID QUAMMEN:*** *Right after news of this syndrome started to break...*
+
+**JAD:** That's science writer David Quammen, who along with Carl will be one of our guides.
+
+***CARL ZIMMER:*** *Epidemiologists were trying to figure out where...*
+
+*\[****NEWS CLIP:*** *Where did it come from?\]*
+
+***CARL ZIMMER:*** *And they were thinking, like, "Well, maybe it's a sexually-transmitted disease."*
+
+**JAD:** So the CDC launches a study.
+
+***DAVID QUAMMEN:*** *Of a group of about 30 patients.*
+
+**JAD:** Gay men.
+
+***DAVID QUAMMEN:*** *In New York, Los Angeles and San Francisco, to see who had had sexual contact with whom.*
+
+***JAD:*** *How do you—is that just a series of interviews with people?*
+
+***CARL ZIMMER:*** *Yeah. Please name all the people that you—that you've slept with.*
+
+**JAD:** The CDC eventually releases the results of this survey in the form of a diagram.
+
+***DAVID QUAMMEN:*** *Like a network drawing with circles representing patients, and then lines representing sexual contact.*
+
+**JAD:** And each patient, each little circle was numbered.
+
+***DAVID QUAMMEN:*** *New York, seven. Los Angeles, twelve.*
+
+**JAD:** So you didn't know who was who, but you could tell immediately when you look at this thing, that of all the 30 or so circles, there was one circle that was special. It had lines coming out in every direction.
+
+***DAVID QUAMMEN:*** *Seven or eight emanating from him.*
+
+**JAD:** Like the hub of a wheel, except all the spokes on this wheel connected to other wheels which then shot out and connected to other wheels, fanning outward. And at the center of it all was that one little circle, numbered...
+
+***DAVID QUAMMEN:*** *Zero. Number zero.*
+
+**JAD:** As far as we know, that was the first time that you ever get the term 'patient zero.'
+
+*\[****60 MINUTES CLIP:*** *Patient zero was a man, the central victim and victimizer.\]*
+
+**JAD:** This is from a 60 Minutes special in 1988. That year a reporter named Randy Shilts had written a book called And The Band Played On that for the first time revealed the identity of patient zero.
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *He was a French-Canadian.\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *A very handsome airline steward.\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *Named Gaëtan Dugas.\]*
+
+***DAVID QUAMMEN:*** *Gaëtan Dugas.*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *Patient zero.\]*
+
+**JAD:** A few minutes later in the report, Shilts comes on to describe a guy...
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *A guy who has got unlimited sexual stamina.\]*
+
+**JAD:** This sexual athlete who would fly from one hot spot to the next because of his job, having sex with literally thousands of men.
+
+***DAVID QUAMMEN:*** *And as he knew he was dying, at least according to Randy Shilts, he became somewhat sinister and malicious. He would sleep with a male partner at a bathhouse in San Francisco or somewhere else. And then when the light came up, according to Randy Shilts, he would say, "I've got gay cancer."*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *"Now you're gonna get it too."\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *You talked to him?\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *I talked to him, yeah.\]*
+
+**JAD:** This is Dr. Selma Dritz. She was part of that CDC study.
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *I told him that he was getting other people sick with it. And he said, "It's my right to do whatever I want. My civil rights. I do as I please. I've got it, why shouldn't they have it?" I said, "You can kill yourself if you want but you got no right to take somebody else along with you." And he said, "Screw you," and walked out.\]*
+
+***DAVID QUAMMEN:*** *Really, a chilling moment.*
+
+**JAD:** And pretty much from that moment on, Gaëtan Dugas...
+
+***CARL ZIMMER:*** *He just took on this—this aura as single-handedly causing an epidemic in the United States.*
+
+**JAD:** Now I don't know about you, but I first bumped into this story in the movie version of And The Band Played On.
+
+*\[****ARCHIVE CLIP, And the Band Played On:*** *My friend, we're talking about thousands of men whose faces I cannot even remember and you want names.\]*
+
+**JAD:** That's an actor playing Gaëtan Dugas in the movie. Now when I first saw that, AIDS had already infected two and a half million people. And to think that it could all go back to this one guy just seemed unreal.
+
+***CARL ZIMMER:*** *It was a—it was a very potent story. There's no doubt. And—and he gave HIV to a lot of people, there's no question about that. But what we do know is that he was not patient zero.*
+
+***JAD:*** *He was not patient zero.*
+
+***CARL ZIMMER:*** *No.*
+
+***DAVID QUAMMEN:*** *He was not the beginning point.*
+
+***CARL ZIMMER:*** *He wasn't.*
+
+**JAD:** Not even close.
+
+**ROBERT:** Huh.
+
+**JAD:** So here's the question that got me started on this story. Okay, so the gay steward, that was the movie stuck in my head. But what's the real movie? What movie can we make about the beginning of the AIDS epidemic? Because when you've got something so vast that, according to some estimates, will have killed 60 million people by the end of the decade, you need a beginning. You need some way of explaining how this disaster happened—and how it might happen again.
+
+**ROBERT:** And how exactly do we know that Gaëtan Dugas wasn't patient zero?
+
+***CARL ZIMMER:*** *Well, there are a couple reasons we know it. So—so one thing that people started to do...*
+
+**JAD:** Scientists.
+
+***CARL ZIMMER:*** *... was to—they went, started going back and looking at people who had died.*
+
+***DAVID QUAMMEN:*** *People who died mysteriously...*
+
+***CARL ZIMMER:*** *... of AIDS-like things.*
+
+**JAD:** In the past.
+
+***DAVID QUAMMEN:*** *Might some of them have been early cases?*
+
+***CARL ZIMMER:*** *And they started finding a lot.*
+
+*\[****NEWS CLIP:*** *Robert Rayford had AIDS 12 years before it was recognized in this country in 1981.\]*
+
+*\[****NEWS CLIP:*** *In 1959, a sailor in Britain died of pneumocystis pneumonia.\]*
+
+**JAD:** And so for a while, you had all these new patient zeros.
+
+*\[****NEWS CLIP:*** *In 1961, a nurse in Chicago died of Kaposi's sarcoma.\]*
+
+***CARL ZIMMER:*** *But the real definitive blow to this whole patient zero nonsense came by actually looking at the virus itself.*
+
+**JAD:** In 1984, same year that Gaëtan Dugas died, scientists isolate the virus.
+
+***CARL ZIMMER:*** *HIV.*
+
+**JAD:** Which is really just a little string of genetic code that gets into your body and into your cells and uses your cells to make copies of itself. But here's the thing.
+
+***DAVID QUAMMEN:*** *When it replicates within a single patient, it copies itself imprecisely. It mutates quickly. It changes a lot.*
+
+**JAD:** As the virus duplicates itself inside a person, the dupes often have little copying errors in them, little mutations. And it turns out, those errors? They happen at a predictable rate. You can kind of almost predict how many you're gonna see in a year or five years. And so the amount of changes that you see out there, the diversity, really, of the viruses in the AIDS population, well that becomes really good information. And so a group of scientists began to look at...
+
+***DAVID QUAMMEN:*** *The amount of diversity among HIV patients in the US.*
+
+***CARL ZIMMER:*** *And other parts of the world.*
+
+***ROBERT:*** *And the more diversity, the longer the virus has been around.*
+
+***DAVID QUAMMEN:*** *Right. Right.*
+
+***CARL ZIMMER:*** *And they could use that kind of like a clock. If you have a virus here and a virus there...*
+
+**JAD:** You could measure how different they are, and you would know that it would take a certain amount of time for them to get that different. And to make a long story short...
+
+***CARL ZIMMER:*** *The picture they get is...*
+
+**JAD:** That AIDS entered the United States...
+
+***CARL ZIMMER:*** *Around 1966.*
+
+***DAVID QUAMMEN:*** *At a time when Gaëtan Dugas was still a virginal adolescent.*
+
+**JAD:** From there, scientists were able to trace the virus back to Haiti and from Haiti back to Africa.
+
+***CARL ZIMMER:*** *It's been there the longest. It's had the longest time to become diverse, to mutate, to evolve. So if you want to really—if you want to get to the real patient zero as it were, the most interesting stuff come—actually comes from Africa. So one way to try to figure out its origins there is to go looking for the virus.*
+
+***DAVID QUAMMEN:*** *Yep. And that takes us back to ZR 59 and DRC 60. Can we talk about them?*
+
+***ROBERT:*** *Sure.*
+
+***JAD:*** *What?*
+
+***DAVID QUAMMEN:*** *These are the two earliest known HIV-positive human specimens.*
+
+**JAD:** And this is where for me at least, the story gets way bigger than I imagined. Now, the first sample...
+
+***DAVID QUAMMEN:*** *ZR 59.*
+
+**JAD:** Came to light in the late-'90s. Somehow, scientists unearthed a very old tube of blood from a hospital in Kinshasa in the Democratic Republic of Congo. And when they tested it...
+
+***DAVID QUAMMEN:*** *It had HIV. This had been taken from a Bantu man in 1959.*
+
+***ROBERT:*** *1959!*
+
+***DAVID QUAMMEN:*** *Yeah. Nobody knows his name. Nobody even knows, I think, what he died of. And that was the only one for a number of years.*
+
+***MICHAEL WOROBEY:*** *That was our one glimpse into the kind of deep history of HIV.*
+
+**JAD:** But then along comes that guy, Michael Worobey. He's an evolutionary biologist at the University of Arizona. And a few years ago, Michael went back to Kinshasa and found a second HIV sample. He actually found the virus lurking in a tiny bit of human tissue that was preserved in paraffin wax.
+
+***MICHAEL WOROBEY:*** *It's kind of like Han Solo in the Star Wars movie when he's kind of frozen in that carbonite or whatever that stuff is.*
+
+**JAD:** In this new sample, it was from the same town, Kinshasa, as the first. And also more importantly, from the same time.
+
+***MICHAEL WOROBEY:*** *1960\. And with the two of them, then you can kind of go back in time.*
+
+**JAD:** Like we described before, you can measure the differences between the samples, calculate how long it would take for those samples to get that different. And in the end, you can use these two samples to wind the clock all the way back to the virus that started it all. And it turned out...
+
+***DAVID QUAMMEN:*** *The most recent common ancestor of those two specimens...*
+
+**JAD:** Goes back to...
+
+***DAVID QUAMMEN:*** *... to about 1908.*
+
+**JAD:** 1908. That is when it started in human beings.
+
+**ROBERT:** What? 1908? Is that what he said?
+
+**JAD:** Well, roughly.
+
+***DAVID QUAMMEN:*** *Give or take a margin of error.*
+
+***CARL ZIMMER:*** *Early 1900s.*
+
+***JAD:*** *So around 1908, give or take, something happened.*
+
+***DAVID QUAMMEN:*** *That's right. That moment is the spillover.*
+
+***ROBERT:*** *Spillover.*
+
+***DAVID QUAMMEN:*** *Spillover's the term that scientists use to describe the moment when a virus in one species passes into another species.*
+
+***CARL ZIMMER:*** *You know, new diseases in humans tend to pop up from animals. So people said, "Okay, flu comes from birds. Where does HIV come from?" To get at that answer, you have to look beyond human beings. You have to look at other viruses that are like HIV.*
+
+***DAVID QUAMMEN:*** *So the search was on.*
+
+*\[****NEWS CLIP:*** *The inability to find a similar disease in research animals.\]*
+
+**JAD:** Turns out, right about the time that the HIV virus was discovered...
+
+*\[****NEWS CLIP:*** *Scientists at the New England Primate Research Center...\]*
+
+**JAD:** Some researchers found a virus like it in macaque monkeys.
+
+*\[****NEWS CLIP:*** *Macaque monkey.\]*
+
+**JAD:** In fact, it was so similar that they called it...
+
+***CARL ZIMMER:*** *SIV.*
+
+***DAVID QUAMMEN:*** *Simian immunodeficiency virus.*
+
+***BEATRICE HAHN:*** *Yes, and that's where the origin quest started.*
+
+**JAD:** This is Beatrice Hahn.
+
+***BEATRICE HAHN:*** *I'm a professor of medicine and microbiology at the University of Pennsylvania.*
+
+***JAD:*** *And so after they found it in macaques, what happened?*
+
+***BEATRICE HAHN:*** *It took a couple of years...*
+
+**JAD:** But eventually, she says, they found SIV...
+
+***BEATRICE HAHN:*** *In still another primate species, the sooty mangabey.*
+
+**JAD:** And then in a few more.
+
+***BEATRICE HAHN:*** *The African green monkeys, mandrills.*
+
+**JAD:** Pretty soon, it was all over the place.
+
+***BEATRICE HAHN:*** *There are now I think 40 different species of African monkeys known to have their own version of SIV.*
+
+**JAD:** So then the question was, which one of these monkeys or primates passed it to us?
+
+***BEATRICE HAHN:*** *Then, unexpectedly...*
+
+**JAD:** A researcher named Martine...
+
+***BEATRICE HAHN:*** *Martine Peters.*
+
+***DAVID QUAMMEN:*** *At the center in Gabon.*
+
+**JAD:** Decided to test her chimps.
+
+***BEATRICE HAHN:*** *Two orphan chimpanzees.*
+
+***DAVID QUAMMEN:*** *And bingo. She found a very, very close match.*
+
+***BEATRICE HAHN:*** *A virus that was the closest relative of HIV-1.*
+
+**JAD:** So...
+
+***BEATRICE HAHN:*** *Everybody said, "Well, you know..."*
+
+***DAVID QUAMMEN:*** *It was a chimp.*
+
+***ROBERT:*** *It was a chimp. Okay.*
+
+***DAVID QUAMMEN:*** *Yeah, it came from a chimp.*
+
+***BEATRICE HAHN:*** *Yes.*
+
+**JAD:** But then the question was well, which chimps, or rather where?
+
+***DAVID QUAMMEN:*** *Where, exactly?*
+
+**JAD:** So...
+
+***DAVID QUAMMEN:*** *Beatrice Hahn and her colleagues started looking at chimps that came from different parts of Western Central Africa.*
+
+**JAD:** Now getting blood samples from chimps in the wild is pretty much...
+
+***BEATRICE HAHN:*** *It just isn't feasible.*
+
+**JAD:** You know, because in the wild they hide the moment they see us.
+
+***BEATRICE HAHN:*** *So you get stuck with fecal samples.*
+
+***CARL ZIMMER:*** *Poop.*
+
+***BEATRICE HAHN:*** *Yes, poop.*
+
+***CARL ZIMMER:*** *There's lots of DNA in there.*
+
+**JAD:** And viruses.
+
+***CARL ZIMMER:*** *So they would just go to where the chimpanzees would sleep at night, and they would just, you know, collect some poop.*
+
+**JAD:** Bring it back to the lab, and Beatrice would analyze all the viruses.
+
+***BEATRICE HAHN:*** *Over 90 different wild communities.*
+
+**JAD:** From every part of central Africa.
+
+***BEATRICE HAHN:*** *Over 7,000 different fecal samples.*
+
+**JAD:** And slowly, they were able to piece together...
+
+***BEATRICE HAHN:*** *Which communities were infected and which ones had the closest to HIV-1. That's when it hit us for the first time.*
+
+***JAD:*** *What exactly hit you?*
+
+***BEATRICE HAHN:*** *The geographic origin of these chimps.*
+
+**JAD:** In 2006, her and her colleagues published that the human AIDS virus comes from a group of chimps, a very specific group that live in a very specific place.
+
+***DAVID QUAMMEN:*** *This little corner of southeastern Cameroon.*
+
+***BEATRICE HAHN:*** *Between the Boumba River, the Ngoko River and the Sangha River.*
+
+**JAD:** These chimps were essentially penned in between these three rivers.
+
+***DAVID QUAMMEN:*** *It's an area probably only of a hundred square miles. Not much more than that.*
+
+***ROBERT:*** *So when we're looking at what humans have and we're looking at what all of those chimps in Africa have, the most perfect match is this little territory up there in Cameroon?*
+
+***DAVID QUAMMEN:*** *Yeah.*
+
+***BEATRICE HAHN:*** *There is no other virus that is any closer. So that's that.*
+
+***JAD:*** *So can you reconstruct the spillover and the who that it spilled over into, as best—you know, as best as we understand it?*
+
+***DAVID QUAMMEN:*** *You can hypothesize. And the best hypothesis is the cut hunter hypothesis.*
+
+***JAD:*** *The cut hunter?*
+
+***ROBERT:*** *The C-U-T hunter?*
+
+***DAVID QUAMMEN:*** *That's right. A hunter who gets cut.*
+
+***JAD:*** *And what can we say about this guy? I mean, is he—what do we know about him?*
+
+***DAVID QUAMMEN:*** *If we had to guess? If we had to guess, that human was probably a Bantu man living very near the forest or in the forest in southeastern Cameroon. He was hunting. Maybe he had a bow and arrow, maybe he had a spear, and he kills a chimpanzee. Bingo, here's a big pile of meat. And he starts to butcher it. He's cutting open the chest cavity. He's pulling out organs and he cuts himself. And he gets blood-to-blood contact. Chimpanzee blood against his blood. What happens is that the virus in the chimpanzee blood found itself in an environment that was unexpected, that was alien to it, but was not too much different from the biochemical environment it had been in, chimpanzee blood. It could function. And that's the moment. That's the moment it begins. That human is patient zero.*
+
+***JAD:*** *But why then? Why 1908? I mean presumably, people have been hunting chimps for a really long time. Why wouldn't this guy be patient seven million?*
+
+***DAVID QUAMMEN:*** *That's another of the big questions. People certainly in central Africa have been eating monkeys for thousands of years.*
+
+**JAD:** I mean, David says there's really no way to know, but this could have just been the right virus.
+
+***DAVID QUAMMEN:*** *Maybe this particular virus evolved in a way that made it more transmissible in humans.*
+
+**JAD:** Or maybe it just got lucky to come along at precisely the right time.
+
+***CARL ZIMMER:*** *What you're looking at...*
+
+**JAD:** This is Carl again.
+
+***CARL ZIMMER:*** *... is a time when this part of Africa was being heavily colonized. The French and the Belgians were building train systems. And populations were on the move. Kinshasa, which was then Leopoldville, it was exploding. It was huge.*
+
+***DAVID QUAMMEN:*** *The cities were attracting people from the boonies in those days...*
+
+**JAD:** So by 1908, all the virus has to do is get from that tiny village where the cut hunter lived to one of the new cities.
+
+***DAVID QUAMMEN:*** *That happens almost certainly by river. I was stirred by the work of Beatrice Hahn and Mike Worobey to see what this scenario looked like on the ground. So I went to southeastern Cameroon and I chartered a little boat, about a 30-foot wooden boat with an outboard motor.*
+
+**JAD:** And he traced the path of the virus.
+
+***DAVID QUAMMEN:*** *We went down the Ngoko River, and we stopped at a few villages. There are a couple little villages there, one of which has a market where you can buy monkey meat and crocodile meat.*
+
+**JAD:** And he says it wasn't hard to imagine how it all might have went down. Perhaps the cut hunter gave the virus to a woman who then passed it on to a fisherman.
+
+***DAVID QUAMMEN:*** *Fellow that I called the voyager.*
+
+**JAD:** Who then got in the boat as David did and carried it down the river.
+
+***DAVID QUAMMEN:*** *The Sangha River, which is—the Ngoko is a tributary of the Sangha. The Sangha becomes a bigger river 200 meters wide, which then flows to the Congo River, the big river.*
+
+**JAD:** And into the city.
+
+***DAVID QUAMMEN:*** *And I imagined him sliding into Brazzaville around 1920. The first HIV-positive man to arrive in an urban center, where there's a much greater density of humans, where there are prostitutes, a greater fluidity of social and sexual interactions. And that seems to have been the place from which the disease went global.*
+
+**ROBERT:** So that's how it happened?
+
+***DAVID QUAMMEN:*** *Let me add another parentheses. There are essentially 12 major groups of the HIV virus.*
+
+**JAD:** What David means is that 12 different kinds of HIV viruses have spilled over 12 different times.
+
+***DAVID QUAMMEN:*** *Eight of them came from monkeys, three of them came from chimps and one came from gorillas.*
+
+***JAD:*** *Wow.*
+
+***DAVID QUAMMEN:*** *And of those 12, only one of them is responsible for the global pandemic.*
+
+***JAD:*** *There are 12 kinds!*
+
+***DAVID QUAMMEN:*** *Twelve kinds that we know about. It's probably happened dozens and dozens more times that we don't know about. So the spillover is not a highly improbable event. In most cases, those spillovers have not resulted in extended chains of disease in humans, let alone global pandemic. In a few cases they've resulted in localized disease. And in one case, the sweepstakes-winning strain, HIV-1 group M, has infected 60 million humans around the world and killed 30 million.*
+
+***JAD:*** *A lot of people to thank for this segment. Thanks to David Quammen, who's got a book called Spillover, which is all about diseases crossing over from animals to us.*
+
+**ROBERT:** Also, thank you to Carl Zimmer, whose book on viruses is called A Planet of Viruses. And thank you also to him and to Michael Worobey. Their interview was recorded on a podcast from Meet the Scientists. And also to Beatrice Hahn at the University of Pennsylvania.
+
+**JAD:** And to Katie Slocum from the University of York for letting us use her recordings of chimpanzees.
+
+**JAD:** Hey, you want to know about my—one of my proudest moments of being a dad?
+
+**ROBERT:** Yeah.
+
+**JAD:** Happened this morning.
+
+**ROBERT:** Yeah?
+
+**JAD:** So you know how Emil's a little bit of an introvert, right?
+
+**ROBERT:** Mm-hmm.
+
+**JAD:** And we're sort of worried whether he socializes enough. Well, we were taking him to daycare and we're—he's taking his shoes off, and there's this little boy who's only there two days a week and he's not adjusting well. And every time his mother drops him off, she has to literally pry him off her and he's wailing and you know? So Emil sits down on this little seat to take his shoes off. The mother of this kid puts this little boy next to Emil and he is just crying. Wah! He's distraught. So then what happens is Emil turns to this little boy, looks at him, sticks out his hand and says, "High-five."
+
+**ROBERT:** \[laughs\]
+
+**JAD:** "High-five." Out of nowhere.
+
+**JON MOOALLEM:** That is amazing. Yeah, because it's like, they're out in their own society, you know?
+
+**JAD:** Okay, so let's do the introductions. I'm Jad.
+
+**ROBERT:** I'm Robert.
+
+**JAD:** This is Radiolab. We're calling this show...
+
+**ROBERT:** Patient Zero.
+
+**JAD:** Yeah. And for this next segment, no more patients.
+
+**ROBERT:** No more diseases.
+
+**JAD:** Exactly.
+
+**ROBERT:** Let's focus instead on invention. On the people who bring new ideas into the world.
+
+**JAD:** Yeah, the zeros behind the ideas. That doesn't quite sound right. You know what I mean.
+
+**ROBERT:** Yeah.
+
+**JAD:** And that guy you just heard?
+
+***JON MOOALLEM:*** *Hi. My name is Jon Mooallem. I'm a contributing writer at the New York Times Magazine.*
+
+**JAD:** He's got his own high-five story to tell, though it's not about his daughter.
+
+***JON MOOALLEM:*** *We have—I think we have kids around the same age.*
+
+**JAD:** Or her first high-five. It's actually about the first high-five ever.
+
+***JON MOOALLEM:*** *Yeah.*
+
+***JAD:*** *Ever?*
+
+***JON MOOALLEM:*** *Yeah.*
+
+**JAD:** See, one morning a few years ago...
+
+***JON MOOALLEM:*** *2007 or 2008.*
+
+**JAD:** Jon turned on his computer, opened up his email and found...
+
+***JON MOOALLEM:*** *A press release about the—the true undisputed inventor of the high-five coming, you know, out finally.*
+
+***JAD:*** *Who was the press release from?*
+
+***JON MOOALLEM:*** *National High-Five Day, which is a kind of a joke holiday that was invented by a group of high school friends, I think.*
+
+***ROBERT:*** *And they told the story?*
+
+***JON MOOALLEM:*** *They told the story of Lamont Sleets. College basketball player at Murray State in Kentucky.*
+
+**ROBERT:** And the story in the press release went something like this. Sleets's father fought in...
+
+***JON MOOALLEM:*** *Vietnam. as part of the 1st Battalion 5th Infantry, which was nicknamed The Five. And they used to greet each other by holding up their hand and saying, "Five" as a kind of prideful thing. And when Lamont was younger, they would all sort of hang out at the house in Kentucky, and he couldn't keep all their names straight. So when they'd walk in the door and they'd go "Five," he would just sort of smack their hand and he'd go, "Hi, Five."*
+
+***JAD:*** *Oh, like "Hi" like, "Hello, five."*
+
+***JON MOOALLEM:*** *Hello, Five. Yeah. Hi comma Five. You know, he has small hands, he liked to put them up against the big hands of the Five guys. And it was years later that he started playing college basketball at Murray State and started high-fiving all his teammates. He really never stopped high-fiving, it was just something he did. But when he went around playing away games, other teams picked it up and it sort of spread out. So he was sort of both the inventor of the high-five and the kind of Johnny Appleseed of the high-five at the same time.*
+
+**JAD:** And within a few weeks of Jon getting this press release...
+
+**ROBERT:** The story was everywhere.
+
+**JAD:** Went kind of viral.
+
+***JON MOOALLEM:*** *It wound up sort of all over the internet. There were some local newspapers who, you know, picked it up. You know, Murray State suddenly became very proud of the fact that they were the home of the high-five. It became sort of part of the institutional lore in the athletic department there.*
+
+***JAD:*** *And then you read this and you thought what?*
+
+***JON MOOALLEM:*** *I thought, how sad.*
+
+***JAD:*** *How sad? Why how sad?*
+
+***JON MOOALLEM:*** *Because I knew the story of Glenn Burke.*
+
+**JAD:** Turns out Jon had already been poking around into this question of who invented the high-five, and he had stumbled on this photograph.
+
+***JON MOOALLEM:*** *You know, maybe I don't have it.*
+
+**JAD:** Black and white picture.
+
+***JON MOOALLEM:*** *Oh, yeah. Here we go.*
+
+**JAD:** Two baseball players facing each other. Afros, huge smiles, and their hands are in the air right about to connect.
+
+***JAD:*** *Which one of these is Glenn Burke?*
+
+***JON MOOALLEM:*** *So Burke's—Burke's the guy in the warm-up jacket. I think he's even got his hat on backwards.*
+
+**JAD:** Glenn Burke was a center fielder for the LA Dodgers in the '70s. Big guy.
+
+***JON MOOALLEM:*** *He says he had 17-inch biceps. So I'll take his—I'll take his word for that.*
+
+**JAD:** The other guy in the picture is Dusty Baker. He's an outfielder. But you can tell in the picture just from the way that Glenn is sort of throwing his whole body forward that he's the one initiating the gesture.
+
+***JON MOOALLEM:*** *I mean, this is a guy who was, you know, the soul of the Dodgers clubhouse.*
+
+***LUTHA BURKE DAVIS:*** *He just had that type of charisma.*
+
+**ROBERT:** This is Lutha Burke Davis, Glenn's sister.
+
+***LUTHA BURKE DAVIS:*** *With Glenn it was like he would always be on the stage. I often said he should have been a comedian.*
+
+***JON MOOALLEM:*** *He was always dancing around in the—in the clubhouse. He used to do Richard Pryor stand-up routines just from memory.*
+
+***LUTHA BURKE DAVIS:*** *He just genuinely loved people.*
+
+**ROBERT:** So much so she says, that in the year that picture was taken, the Dodgers made him their sort of public face of the team.
+
+***LUTHA BURKE DAVIS:*** *He was their Ambassador of Goodwill.*
+
+**ROBERT:** He's the guy they'd send out to all the press events.
+
+***LUTHA BURKE DAVIS:*** *You know, like meet the youngsters, or...*
+
+**ROBERT:** That sort of thing.
+
+***JON MOOALLEM:*** *Here's the story about this picture.*
+
+***JAD:*** *What was the date?*
+
+***JON MOOALLEM:*** *October 5, poetically enough, 1977.*
+
+**JAD:** It's the playoffs. Dodgers versus the Phillies. Game four. Bases are loaded.
+
+***JON MOOALLEM:*** *Dusty Baker...*
+
+**ROBERT:** Steps to the plate...
+
+***JON MOOALLEM:*** *And grand slam.*
+
+**JAD:** Crowd goes nuts.
+
+**ROBERT:** Baker does his victory lap.
+
+**JAD:** And just as he's...
+
+***JON MOOALLEM:*** *You know, rounding third, coming to the plate.*
+
+**ROBERT:** Burke comes racing out of the dugout...
+
+***JON MOOALLEM:*** *And he's got his arm really high up, and Baker...*
+
+**JAD:** Sees him, instinctively raises his arm, and before you know it...
+
+***JON MOOALLEM:*** *Burke and Baker smack hands.*
+
+**JAD:** Bam! There it was.
+
+***LUTHA BURKE DAVIS:*** *The sportscasters that were, you know, announcing the game, said they had never seen that done in sports before.*
+
+***JON MOOALLEM:*** *And from there on, the Dodgers started high-fiving and everyone else started high-fiving.*
+
+***LUTHA BURKE DAVIS:*** *The high-five...*
+
+***JAD:*** *Became a thing.*
+
+***LUTHA BURKE DAVIS:*** *Mm-hmm.*
+
+**JAD:** And it all began with that one moment.
+
+***JON MOOALLEM:*** *The platonic high-five right there.*
+
+**ROBERT:** Unfortunately, that moment...
+
+***JON MOOALLEM:*** *That was actually both the beginning and also almost the end of Burke's career.*
+
+**JAD:** It's not that he wasn't good. He was actually really good, even in his rookie season.
+
+***JON MOOALLEM:*** *He was being talked about as the next Willie Mays by the Dodgers organization.*
+
+**ROBERT:** But...
+
+***JON MOOALLEM:*** *He was gay. And he tried to keep that a secret while he was playing. Dusty Baker actually had kept trying to set him up with his wife's cousins, and Burke never want—never liked any of them. And Baker's completely confused because he knew, you know, these were these were really good-looking women, apparently. So there were rumors circulating, and the rumors reached the front office of the LA Dodgers. And—and one day, Burke was called in by management and they offered him $75,000 to get married.*
+
+***JAD:*** *What?*
+
+***ROBERT:*** *$75,000.*
+
+***JAD:*** *To get married?*
+
+***ROBERT:*** *Huh.*
+
+***JAD:*** *What is this, like the mob or something?*
+
+***JON MOOALLEM:*** *Well, exactly. I mean, they didn't regularly offer their players money to get—to get married. And Burke's response apparently was—he said, "I suppose you mean to a woman."*
+
+***ROBERT:*** *\[laughs\]*
+
+***JON MOOALLEM:*** *Shortly after that, the Dodgers traded him to the Oakland A's for a player who everyone acknowledged was completely inferior.*
+
+***LUTHA BURKE DAVIS:*** *That was confusing for us, and I know it had to be confusing for him.*
+
+***JON MOOALLEM:*** *It was shocking to everyone. No one understood why he was traded.*
+
+***JAD:*** *And you think it was because he was gay?*
+
+***JON MOOALLEM:*** *Yeah. Yeah.*
+
+***LUTHA BURKE DAVIS:*** *You know, baseball is the all-American sport.*
+
+***JAD:*** *Yeah.*
+
+***LUTHA BURKE DAVIS:*** *But, you know, at least he was still gonna be able to play ball. Or at least he thought.*
+
+***JON MOOALLEM:*** *He ends up in Oakland. Doesn't get very much playing time.*
+
+**ROBERT:** And when he did get on the field, it wasn't very pleasant.
+
+***LUTHA BURKE DAVIS:*** *He used to get heckled a lot, you know, from people in the bleachers and...*
+
+**ROBERT:** And even worse, according to a couple of different people his coach...
+
+***LUTHA BURKE DAVIS:*** *Billy Martin.*
+
+**ROBERT:** Would often introduce Glenn Burke this way.
+
+***LUTHA BURKE DAVIS:*** *This is Glenn Burke, the faggot.*
+
+***JAD:*** *Really?*
+
+***LUTHA BURKE DAVIS:*** *Yeah.*
+
+***JON MOOALLEM:*** *And so Glenn Burke retires.*
+
+***JAD:*** *Wow, and he was only, like, 26 or something, right?*
+
+***LUTHA BURKE DAVIS:*** *Yes. He was young.*
+
+***JON MOOALLEM:*** *Within a year of his rookie season. Just walks away.*
+
+***JAD:*** *God, that's like a aborted career.*
+
+***JON MOOALLEM:*** *Exactly. From there, he ends up in the Castro District in San Francisco, which is the big gay neighborhood.*
+
+**JAD:** And things go okay for a while.
+
+**ROBERT:** But then one day when he's crossing the street...
+
+***LUTHA BURKE DAVIS:*** *Three teenaged girls in their mother's car...*
+
+**JAD:** Come barreling down the road.
+
+***LUTHA BURKE DAVIS:*** *And they hit him and broke his leg in three places.*
+
+***JAD:*** *Oh, man.*
+
+***LUTHA BURKE DAVIS:*** *And that kind of ended everything when that happened.*
+
+**ROBERT:** He starts taking painkillers. One thing leads to another.
+
+***JON MOOALLEM:*** *He gets hooked on crack. Can't hold a job. He goes broke.*
+
+**JAD:** Ends up living...
+
+***LUTHA BURKE DAVIS:*** *On the street.*
+
+***JON MOOALLEM:*** *And in 1994, Burke is diagnosed with—with HIV or AIDS. I guess AIDS at that point.*
+
+***LUTHA BURKE DAVIS:*** *He ended up coming to live with me. A lot of times he didn't sleep well at night, and we would sit up and talk. Put on music. And I danced, and he'd move his arms around because he was in the bed. He was bedridden.*
+
+***JAD:*** *And so you took care of him 'til he died?*
+
+***LUTHA BURKE DAVIS:*** *Yeah.*
+
+**JAD:** And Glenn Burke died in 1995.
+
+**ROBERT:** But what he's left with at this point is he's left with the original high-five, right? That's his claim.
+
+**JON MOOALLEM:** Yes. Yes. That defined him, to some people at least at the end. And he—and he believed it. A reporter had asked him, you know, if it was true about the high-five and he said, "Yeah, think about the feeling you get when you give someone the high-five. I had that feeling before everybody else did."
+
+**JAD:** Huh. So what did you do when you got this press release?
+
+**JON MOOALLEM:** So I called National High-Five Day, because I wanted to talk to Lamont Sleets. Even though I was sad, it seemed like okay, here's another person's prideful accomplishment. Let's get his story.
+
+***GREG HARRELL-EDGE:*** *Hello? Hello?*
+
+**JAD:** Eventually...
+
+***GREG HARRELL-EDGE:*** *Hey, there we go.*
+
+**JAD:** He gets this guy on the phone.
+
+***GREG HARRELL-EDGE:*** *My name is Greg Harrell-Edge.*
+
+**JAD:** Greg is one of the founders, and he and Jon gets talking. And Jon asks him the sensible first question.
+
+***JON MOOALLEM:*** *Is the Lamont Sleets story true?*
+
+**ROBERT:** He figured it was, but he thought he should at least ask. He's a reporter.
+
+***JON MOOALLEM:*** *And there was a pause, and he said, "No."*
+
+***GREG HARRELL-EDGE:*** *Frankly, we've been waiting for someone to ask. We thought no one would ever ask.*
+
+***JON MOOALLEM:*** *It's not true.*
+
+***GREG HARRELL-EDGE:*** *This is something that we had made up. We wanted to see if the media would—would run with it.*
+
+***ROBERT:*** *They made the whole thing up.*
+
+***JON MOOALLEM:*** *They made the whole thing up, and then they just went to go cast their protagonist.*
+
+***GREG HARRELL-EDGE:*** *So we sat down. We picked Murray State. That's just kind of a great-sounding school. It pops up in the NCAA tournament every few years.*
+
+***JON MOOALLEM:*** *And they came across this guy Lamont Sleets.*
+
+***JAD:*** *Why him?*
+
+***GREG HARRELL-EDGE:*** *Well, it was pretty close to random.*
+
+***JON MOOALLEM:*** *They then told me they had received an email from Lamont Sleets's wife.*
+
+***GREG HARRELL-EDGE:*** *Absolutely. His wife emailed us and said some of the details that you have are flat out wrong.*
+
+***JAD:*** *That implies that some of the things you've said are right, though.*
+
+***JON MOOALLEM:*** *But Lamont thinks he probably did invent the high-five.*
+
+***JAD:*** *Wait, wait, wait, wait, wait. What about Glenn?*
+
+***LUTHA BURKE DAVIS:*** *I was kind of like, hmm, kind of a bit blown away, you know?*
+
+***JON MOOALLEM:*** *Yeah, you know, here was this guy who is proud of this, and these guys just kind of stripped it away from him?*
+
+***JAD:*** *Do you feel a little guilty? That I mean like, okay, it's a high-five. It's kind of a silly thing. On the other hand, this guy's life, the way he died. Do you feel like you robbed him?*
+
+***GREG HARRELL-EDGE:*** *We do feel—we do feel—we wish that we had done things slightly differently in—in putting together this sort of collegiate prank. But we didn't really know of Glenn Burke at that time.*
+
+**JAD:** Greg says they hadn't heard of the Glenn Burke story when they pulled this prank, and now that they know it, they really feel bad. In fact, they're now organizing a charity event they're calling...
+
+***GREG HARRELL-EDGE:*** *The National High-Five-Athon.*
+
+**JAD:** Which will raise money for charity, including one chosen by Glenn Burke's sister Lutha.
+
+***LUTHA BURKE DAVIS:*** *I'm very proud. Any time I see somebody do a high-five, it just really makes me happy.*
+
+**JAD:** And that seemed like a good end to the story.
+
+***JON MOOALLEM:*** *But...*
+
+**ROBERT:** No. Because then Jon told us that...
+
+**JAD:** If you really honestly want to get to the bottom of who invented the high-five? I mean, we didn't think we wanted to but now there were in it, what the hell. Well, you've got to go beyond Glenn Burke's story.
+
+***JON MOOALLEM:*** *I've wanted you to believe that he was a hero at this point, right? So maybe I should tell you a little bit about Derek Smith, right?*
+
+**ROBERT:** Even though Glenn Burke died believing that the high-five was his legacy, at more or less the same moment that he invented it, a guy named Derek Smith, a basketball player for the Louisville Cardinals was at practice...
+
+***JON MOOALLEM:*** *And a guy named Wiley Brown went up to Derek Smith and was going to give him just a ordinary low-five, and Derek Smith looked him in the eye. This is what Wiley Brown told me. Derek Smith looked him in the eye and said, "No. Up high." That year's Louisville team, they were—they were known as the Doctors of Dunk. You know, they're a high-flying team. They played above the rim.*
+
+**JAD:** And Jon says when Louisville played in the 1980 NCAA finals...
+
+***JON MOOALLEM:*** *I haven't seen it, but apparently the broadcaster referred actually to the high-five handshake.*
+
+*\[****ARCHIVE CLIP:*** *Giving the high-five handshake. High-fives!\]*
+
+***JON MOOALLEM:*** *He felt compelled to explain it to America.*
+
+***JAD:*** *Wow, and did—at the moment that Derek Smith did it—did an asteroid fall on his head or something?*
+
+***JON MOOALLEM:*** *Well in 1996, I believe. In the '90s, he had an undiagnosed heart condition and he just died all of a sudden on a cruise ship.*
+
+***JAD:*** *What?*
+
+***JON MOOALLEM:*** *Yes, and he said explicitly to Wiley Brown, "This is something I'm gonna be remembered for. You know, our kids and our grandkids are gonna talk about this." And in fact, their kids and grandkids do talk about it.*
+
+**JAD:** And they're probably very proud. But...
+
+***KATHY GREGORY:*** *Hello, it's Kathy.*
+
+**ROBERT:** Then we ran into this woman.
+
+***KATHY GREGORY:*** *Fire away.*
+
+**JAD:** This is Kathy Gregory. She coached women's volleyball in the 1960s, years before Glenn Burke and Derek Smith. And she says with her girls...
+
+***KATHY GREGORY:*** *Everyone did it. All the time. So I do believe that it was volleyball that first started it.*
+
+**JAD:** And interestingly, she says they would high-five more when a player screwed up.
+
+***KATHY GREGORY:*** *Yes. No, no, it isn't just about celebration.*
+
+**JAD:** Because really, when do you need a high-five?
+
+***KATHY GREGORY:*** *Of course, it's more when you're down.*
+
+***JON MOOALLEM:*** *Yeah, it makes people so happy.*
+
+**JAD:** So women's volleyball. There you go.
+
+***\[ARCHIVE CLIP, Breathless:*** *Non, ce n'est pas fini.\]*
+
+**ROBERT:** Non, ce n'est pas fini! Because then our producer Lynn Levy also discovered that in the movie Breathless in 1955, at exactly one hour, 18 minutes into the film, you will see two Frenchmen do a very distinct haute cinq.
+
+*\[****ARCHIVE CLIP, Breathless:*** *Amigo!\]*
+
+**ROBERT:** Right there!
+
+***JAD:*** *\[laughs\]* *Isn't this all, like, an indication to you that it—it's maybe—it's one of those things that probably was there at the dawn of man?*
+
+***JON MOOALLEM:*** *Because it, like, gives pleasure?*
+
+***JAD:*** *Yeah, it's just like a...*
+
+***JON MOOALLEM:*** *Like, from an evolutionary point of view?*
+
+***ROBERT:*** *No, I don't think so. I think—I think this has the feeling of something that was born. I mean, who in this room wants Glenn Burke to be the original guy?*
+
+***JAD:*** *Just raise your hand. Me.*
+
+***JON MOOALLEM:*** *Me.*
+
+***ROBERT:*** *Me.*
+
+***JAD:*** *It's a better story!*
+
+***ROBERT:*** *So look at what's happening here. Every time we look for the original of anything, be it a disease, a contagion, a gesture, we find more than one. So what do you do in this situation?*
+
+***JAD:*** *I think, you know what you do is you just choose. You say which one is the better story. Let's just go with the best high-five. Forget the first. The best.*
+
+***ROBERT:*** *And I think we can do that. Lets just call it Glenn Burke.*
+
+***JAD:*** *Glenn Burke invented the high-five.*
+
+***ROBERT:*** *Done.*
+
+***JAD:*** *All right. High-five. Hive-five.*
+
+*\[high-five slap\]*
+
+***ROBERT:*** *\[laughs\]*
+
+*\[****LISTENER:*** *Hi, I'm Josh, and I'm from Plainfield, New Jersey, and here are the staff credits. Radiolab is hosted by Lulu Miller and Latif Nasser. Soren Wheeler is our executive editor. Sarah Sandbach is our executive director. Our managing editor is Pat Walters. Dylan Keefe is our director of sound design. Our staff includes: Jeremy Bloom, W. Harry Fortuna, David Gebel, Maria Paz Gutiérrez, Sindhu Gnanasambandan, Matt Kielty, Mona Madgavkar, Annie McEwen, Alex Neason, Sarah Qari, Natalia Ramirez, Joanna Strogatz, Anisa Vietze, Arianne Wack, Molly Webster and Jessica Yung, with help from Gabby Santas and Maia Appleby Melamed. Our fact-checkers are Nora Belblidia, Hilary Elkins, Rachel Gross, Diane Kelly, Emily Krieger, Natalie Middleton and Sophie Samiee.\]*
+
+*\[****LISTENER:*** *Hi. I'm Maddie and I'm from Frederick, Maryland. Leadership support for Radiolab's science programming is provided by the Simons Foundation and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation.\]*
+
+**\-30-**
+
+*Copyright © 2026 New York Public Radio. All rights reserved. Visit our website* [*terms of use*](https://www.wnyc.org/terms/) *at* [*www.wnyc.org*](http://www.wnyc.org/) *for further information.*
+
+*New York Public Radio transcripts are created on a rush deadline, often by contractors. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of programming is the audio record.*

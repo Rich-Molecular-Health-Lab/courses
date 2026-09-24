@@ -12,7 +12,9 @@ categories:
 ![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** Consider This from NPR
 
 ::: {.callout-description collapse="true"}
@@ -24,4 +26,88 @@ categories:
 The flooding in Nepal has left hundreds dead and many more missing. Many scientists believe the flooding is the result of a melting glacier.What do we know about the link between the disaster in Nepal and climate change?This episode was produced by Henry Larson, Megan Lim and Kai McNamee, with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams.It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
 
 :::
+
+<iframe src="https://www.npr.org/player/embed/nx-s1-5946819/nx-s1-mx-5946819-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+AILSA CHANG, HOST:
+
+It's CONSIDER THIS, where every day we go deep on one big news story. Today, the devastating flooding in Nepal and its links to climate change. Hundreds are dead, and many more are missing after catastrophic flash flooding along the Tibet-Nepal border.
+
+ANDY THAPA: Nothing is visible - no houses, no roads, no any greenery in those areas and no blue water. Now it's muddy water now.
+
+CHANG: Andy Thapa is one of the rescuers trying to get to as many survivors as he can. He's a charter and rescue pilot for a helicopter company in Nepal, and in 20 or so flights over the last two days, he shot some video and shared that video with us.
+
+THAPA: We saw many people stuck in the middle of the mud. Half of the body were inside the mud and they were just seeking for help. But there were no place to land, even no place to drop for the rescue.
+
+CHANG: Thapa said he was able to find survivors in some accessible parts of the mountainous region, but many were in bad shape.
+
+THAPA: Personally, for me, I evacuated more than 120 people. They are muddy, like in their face, in their legs, might be body scratched, hand broken, leg broken and they terrified, you know, unable to speak.
+
+CHANG: He told us about one man who was able to talk with him.
+
+THAPA: He had 10 people in the family, out of which he lost nine in front of his eye.
+
+CHANG: Thapa has been flying the most critically injured people to Nepal's capital, Kathmandu, and the rest to a closer staging area. But there are so many people still stranded. Today, he said he had to leave several hundred people sheltering in a tunnel because the weather just got too bad to fly.
+
+THAPA: But they are very safe and they have enough food to eat. We will just continue with such missions.
+
+CHANG: CONSIDER THIS - climate change is accelerating the frequency of deadly natural disasters. What do we know about the role climate change is playing in the Himalayan region?
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: From NPR, I'm Ailsa Chang.
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: It's CONSIDER THIS FROM NPR. These deadly flash floods on the border of Nepal and Chinese-administered Tibet are not a surprise to many climate scientists. NPR's Julia Simon joins us now to explain why. Hi, Julia.
+
+JULIA SIMON, BYLINE: Hello, Ailsa.
+
+CHANG: So the way I understand it, this flooding - it came from a glacier - right? - that collapsed. Is that correct?
+
+SIMON: Yeah. So the reports are still preliminary, but many scientists think this was a glacier collapsing - this giant chunk of ice that snapped off, triggering the floods. This mass of ice and rock and mud and water - it started ripping down this Himalayan river valley, down through these villages, destroying communities. If you've seen the videos, you can see it's this avalanche of deadly debris.
+
+CHANG: Yeah. And I mean, these glaciers, they've been around for thousands of years, right? So...
+
+SIMON: Right.
+
+CHANG: ...To have a chunk of glacier just snap off now seems like a huge deal.
+
+SIMON: It does. But sadly, many scientists are not so surprised that this could happen, Ailsa, and that's because of human-caused climate change. These glaciers that were once stable - they're disappearing. NPR has been reporting on Nepal's glaciers for years. A team from NPR traveled to Nepal in 2022. They were climbing up a moraine. That's a massive pile of boulders created by a glacier. But when NPR's Rebecca Hersher got to the top, there was no glacier in sight.
+
+(SOUNDBITE OF ARCHIVED NPR CONTENT)
+
+REBECCA HERSHER: Oh, wow.
+
+(SOUNDBITE OF WATER SPLASHING)
+
+SIMON: That's the sound of water. There was only water - this huge lake - where a glacier should have been, Ailsa. The glacier had melted, and glacial lake floods are a growing threat. In recent years, multiple glacial lake floods have displaced and killed people. Scientists warn that an estimated 15 million people around the world are at risk from such floods.
+
+CHANG: Wow. So just how unstable are these melting glaciers?
+
+SIMON: Yeah. So NPR spoke with Alton Byers about this. He's at the Institute of Arctic and Alpine Research at the University of Colorado at Boulder. He says he's surprised how fast the permafrost - that's the continuously frozen ice, soil and rock that's held the mountains together for millennia - it's now changing.
+
+ALTON BYERS: The analogy I and my colleagues use is take a stick of butter out of the refrigerator and put it on the counter. It's going to get softer and it's going to lose its structural integrity.
+
+SIMON: Yeah. So these melting glaciers - they pose deadly risks to the communities in their path.
+
+CHANG: I mean, we're seeing it right now. So...
+
+SIMON: Yeah.
+
+CHANG: ...What are some solutions here to prevent the kind of disaster that we are seeing in Nepal, for example, a disaster that is caused by melting glaciers?
+
+SIMON: Well, the first thing is better alert systems. It seems right now, like, Nepal's flood warning system wasn't equipped to handle this, despite quite a bit of investment in those warning systems over the last decade or so. And it's important to mention this area has seen flash floods before. But we also know the primary driver of global warming is the burning of fossil fuels, like oil, gas and coal. The solutions to transition away from fossil fuels are out there, Ailsa. They are scalable. They're affordable. They're reliable. They include solar energy, wind energy and batteries.
+
+CHANG: That is NPR climate and energy correspondent Julia Simon. Thank you, Julia.
+
+SIMON: Thank you, Ailsa.
+
+CHANG: This episode was produced by Henry Larson, Megan Lim, and Kai McNamee with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams. It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas. Our interim executive producer is Courtney Dorning.
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: It's CONSIDER THIS FROM NPR. I'm Ailsa Chang.
 

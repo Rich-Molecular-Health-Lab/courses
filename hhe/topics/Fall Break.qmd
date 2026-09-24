@@ -1,6 +1,6 @@
 ---
 title: "Fall Break"
-date: "2026-08-29"
+date: "2026-10-20T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,6 @@ listing:
   contents: "Fall Break_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-10-20T16:00:00

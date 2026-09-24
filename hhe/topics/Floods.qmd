@@ -1,6 +1,6 @@
 ---
 title: "Floods"
-date: "2026-08-29"
+date: "2026-09-10T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,614 @@ listing:
   contents: "Floods_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-09-10T16:00:00, 2026-09-15T16:00:00
+
+<a class='btn btn-outline-primary p-3 m-2' href='slides/Floods_&_Hurricanes/index.html'>Floods & Hurricanes <i class='fa-solid fa-link'></i></a>
+
+## Assigned Background
+
+### As the climate changes, is the deadly flooding in Nepal a sign of things to come?
+
+![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Consider This from NPR
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6PfBrmLds090IlN5LEtww0)
+
+[Open Series in Spotify](https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH)
+
+The flooding in Nepal has left hundreds dead and many more missing. Many scientists believe the flooding is the result of a melting glacier.What do we know about the link between the disaster in Nepal and climate change?This episode was produced by Henry Larson, Megan Lim and Kai McNamee, with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams.It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+<iframe src="https://www.npr.org/player/embed/nx-s1-5946819/nx-s1-mx-5946819-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+AILSA CHANG, HOST:
+
+It's CONSIDER THIS, where every day we go deep on one big news story. Today, the devastating flooding in Nepal and its links to climate change. Hundreds are dead, and many more are missing after catastrophic flash flooding along the Tibet-Nepal border.
+
+ANDY THAPA: Nothing is visible - no houses, no roads, no any greenery in those areas and no blue water. Now it's muddy water now.
+
+CHANG: Andy Thapa is one of the rescuers trying to get to as many survivors as he can. He's a charter and rescue pilot for a helicopter company in Nepal, and in 20 or so flights over the last two days, he shot some video and shared that video with us.
+
+THAPA: We saw many people stuck in the middle of the mud. Half of the body were inside the mud and they were just seeking for help. But there were no place to land, even no place to drop for the rescue.
+
+CHANG: Thapa said he was able to find survivors in some accessible parts of the mountainous region, but many were in bad shape.
+
+THAPA: Personally, for me, I evacuated more than 120 people. They are muddy, like in their face, in their legs, might be body scratched, hand broken, leg broken and they terrified, you know, unable to speak.
+
+CHANG: He told us about one man who was able to talk with him.
+
+THAPA: He had 10 people in the family, out of which he lost nine in front of his eye.
+
+CHANG: Thapa has been flying the most critically injured people to Nepal's capital, Kathmandu, and the rest to a closer staging area. But there are so many people still stranded. Today, he said he had to leave several hundred people sheltering in a tunnel because the weather just got too bad to fly.
+
+THAPA: But they are very safe and they have enough food to eat. We will just continue with such missions.
+
+CHANG: CONSIDER THIS - climate change is accelerating the frequency of deadly natural disasters. What do we know about the role climate change is playing in the Himalayan region?
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: From NPR, I'm Ailsa Chang.
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: It's CONSIDER THIS FROM NPR. These deadly flash floods on the border of Nepal and Chinese-administered Tibet are not a surprise to many climate scientists. NPR's Julia Simon joins us now to explain why. Hi, Julia.
+
+JULIA SIMON, BYLINE: Hello, Ailsa.
+
+CHANG: So the way I understand it, this flooding - it came from a glacier - right? - that collapsed. Is that correct?
+
+SIMON: Yeah. So the reports are still preliminary, but many scientists think this was a glacier collapsing - this giant chunk of ice that snapped off, triggering the floods. This mass of ice and rock and mud and water - it started ripping down this Himalayan river valley, down through these villages, destroying communities. If you've seen the videos, you can see it's this avalanche of deadly debris.
+
+CHANG: Yeah. And I mean, these glaciers, they've been around for thousands of years, right? So...
+
+SIMON: Right.
+
+CHANG: ...To have a chunk of glacier just snap off now seems like a huge deal.
+
+SIMON: It does. But sadly, many scientists are not so surprised that this could happen, Ailsa, and that's because of human-caused climate change. These glaciers that were once stable - they're disappearing. NPR has been reporting on Nepal's glaciers for years. A team from NPR traveled to Nepal in 2022. They were climbing up a moraine. That's a massive pile of boulders created by a glacier. But when NPR's Rebecca Hersher got to the top, there was no glacier in sight.
+
+(SOUNDBITE OF ARCHIVED NPR CONTENT)
+
+REBECCA HERSHER: Oh, wow.
+
+(SOUNDBITE OF WATER SPLASHING)
+
+SIMON: That's the sound of water. There was only water - this huge lake - where a glacier should have been, Ailsa. The glacier had melted, and glacial lake floods are a growing threat. In recent years, multiple glacial lake floods have displaced and killed people. Scientists warn that an estimated 15 million people around the world are at risk from such floods.
+
+CHANG: Wow. So just how unstable are these melting glaciers?
+
+SIMON: Yeah. So NPR spoke with Alton Byers about this. He's at the Institute of Arctic and Alpine Research at the University of Colorado at Boulder. He says he's surprised how fast the permafrost - that's the continuously frozen ice, soil and rock that's held the mountains together for millennia - it's now changing.
+
+ALTON BYERS: The analogy I and my colleagues use is take a stick of butter out of the refrigerator and put it on the counter. It's going to get softer and it's going to lose its structural integrity.
+
+SIMON: Yeah. So these melting glaciers - they pose deadly risks to the communities in their path.
+
+CHANG: I mean, we're seeing it right now. So...
+
+SIMON: Yeah.
+
+CHANG: ...What are some solutions here to prevent the kind of disaster that we are seeing in Nepal, for example, a disaster that is caused by melting glaciers?
+
+SIMON: Well, the first thing is better alert systems. It seems right now, like, Nepal's flood warning system wasn't equipped to handle this, despite quite a bit of investment in those warning systems over the last decade or so. And it's important to mention this area has seen flash floods before. But we also know the primary driver of global warming is the burning of fossil fuels, like oil, gas and coal. The solutions to transition away from fossil fuels are out there, Ailsa. They are scalable. They're affordable. They're reliable. They include solar energy, wind energy and batteries.
+
+CHANG: That is NPR climate and energy correspondent Julia Simon. Thank you, Julia.
+
+SIMON: Thank you, Ailsa.
+
+CHANG: This episode was produced by Henry Larson, Megan Lim, and Kai McNamee with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams. It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas. Our interim executive producer is Courtney Dorning.
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: It's CONSIDER THIS FROM NPR. I'm Ailsa Chang.
+
+### Hurricane Katrina
+
+![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short History Of...
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6g8p84wcEdYgxaR7nvLBeJ)
+
+[Open Series in Spotify](https://open.spotify.com/show/2mcJ0sFMn4TdKCQrxoLPgO)
+
+In August 2005, one of the most powerful storms ever recorded in the Gulf of Mexico barrelled toward the United States. When Hurricane Katrina finally struck land, it devastated hundreds of miles of shoreline, but the disaster that captured the world’s attention unfolded in one place above all: the city of New Orleans.     Within hours of the storm passing, the flood defence levees meant to protect the city broke, and it began to fill with water. What followed the natural disaster was a crisis that raised profound questions about preparedness, inequality, and the ability and willingness of a modern nation to protect one of its own great cities.     But why was New Orleans so vulnerable in the first place? What was the response in the wake of the hurricane and flooding? And what did the disaster reveal about the systems of engineering, government and society that were supposed to protect it?    This is a Short History Of Hurricane Katrina.    A Noiser podcast production. Hosted by John Hopkins. With thanks to Jed Horne, a Pulitzer Prize-winning reporter and author of Breach of Faith: Hurricane Katrina and the Near Death of a Great American City.    Written by Sean Coleman | Produced by Kate Simants | Production Assistant: Chris McDonald | Exec produced by Katrina Hughes | Sound supervisor: Tom Pink | Sound design by Mirianna Pitman-Latham and Matthew Peaty | Assembly edit by Dorry Macaulay | Compositions by Oliver Baines, Dorry Macaulay, Tom Pink | Mix & mastering: Cody Reynolds-Shaw    Unlock the next two episodes of Short History Of… right now by subscribing to Noiser+. You’ll also get ad-free listening and early access to shows across the Noiser podcast network, including Real Survival Stories and Sherlock Holmes Short Stories. Just click the subscription banner at the top of the feed, or head to www.noiser.com/subscriptions to get started. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### Antediluvian
+
+![Antediluvian](https://i.scdn.co/image/ab67656300005f1f4295008e1fb9a81c2166656e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2020
+
+**Series:** Floodlines
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2stdRmSnEEFyfEOi7VqWn5)
+
+[Open Series in Spotify](https://open.spotify.com/show/595SdSgkD1Nrn90qx1hjc8)
+
+Part I: It all started long before a hurricane named Katrina. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### As the climate changes, is the deadly flooding in Nepal a sign of things to come?
+
+![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Consider This from NPR
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6PfBrmLds090IlN5LEtww0)
+
+[Open Series in Spotify](https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH)
+
+The flooding in Nepal has left hundreds dead and many more missing. Many scientists believe the flooding is the result of a melting glacier.What do we know about the link between the disaster in Nepal and climate change?This episode was produced by Henry Larson, Megan Lim and Kai McNamee, with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams.It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas.Our interim executive producer is Courtney Dorning.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+<iframe src="https://www.npr.org/player/embed/nx-s1-5946819/nx-s1-mx-5946819-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+AILSA CHANG, HOST:
+
+It's CONSIDER THIS, where every day we go deep on one big news story. Today, the devastating flooding in Nepal and its links to climate change. Hundreds are dead, and many more are missing after catastrophic flash flooding along the Tibet-Nepal border.
+
+ANDY THAPA: Nothing is visible - no houses, no roads, no any greenery in those areas and no blue water. Now it's muddy water now.
+
+CHANG: Andy Thapa is one of the rescuers trying to get to as many survivors as he can. He's a charter and rescue pilot for a helicopter company in Nepal, and in 20 or so flights over the last two days, he shot some video and shared that video with us.
+
+THAPA: We saw many people stuck in the middle of the mud. Half of the body were inside the mud and they were just seeking for help. But there were no place to land, even no place to drop for the rescue.
+
+CHANG: Thapa said he was able to find survivors in some accessible parts of the mountainous region, but many were in bad shape.
+
+THAPA: Personally, for me, I evacuated more than 120 people. They are muddy, like in their face, in their legs, might be body scratched, hand broken, leg broken and they terrified, you know, unable to speak.
+
+CHANG: He told us about one man who was able to talk with him.
+
+THAPA: He had 10 people in the family, out of which he lost nine in front of his eye.
+
+CHANG: Thapa has been flying the most critically injured people to Nepal's capital, Kathmandu, and the rest to a closer staging area. But there are so many people still stranded. Today, he said he had to leave several hundred people sheltering in a tunnel because the weather just got too bad to fly.
+
+THAPA: But they are very safe and they have enough food to eat. We will just continue with such missions.
+
+CHANG: CONSIDER THIS - climate change is accelerating the frequency of deadly natural disasters. What do we know about the role climate change is playing in the Himalayan region?
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: From NPR, I'm Ailsa Chang.
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: It's CONSIDER THIS FROM NPR. These deadly flash floods on the border of Nepal and Chinese-administered Tibet are not a surprise to many climate scientists. NPR's Julia Simon joins us now to explain why. Hi, Julia.
+
+JULIA SIMON, BYLINE: Hello, Ailsa.
+
+CHANG: So the way I understand it, this flooding - it came from a glacier - right? - that collapsed. Is that correct?
+
+SIMON: Yeah. So the reports are still preliminary, but many scientists think this was a glacier collapsing - this giant chunk of ice that snapped off, triggering the floods. This mass of ice and rock and mud and water - it started ripping down this Himalayan river valley, down through these villages, destroying communities. If you've seen the videos, you can see it's this avalanche of deadly debris.
+
+CHANG: Yeah. And I mean, these glaciers, they've been around for thousands of years, right? So...
+
+SIMON: Right.
+
+CHANG: ...To have a chunk of glacier just snap off now seems like a huge deal.
+
+SIMON: It does. But sadly, many scientists are not so surprised that this could happen, Ailsa, and that's because of human-caused climate change. These glaciers that were once stable - they're disappearing. NPR has been reporting on Nepal's glaciers for years. A team from NPR traveled to Nepal in 2022. They were climbing up a moraine. That's a massive pile of boulders created by a glacier. But when NPR's Rebecca Hersher got to the top, there was no glacier in sight.
+
+(SOUNDBITE OF ARCHIVED NPR CONTENT)
+
+REBECCA HERSHER: Oh, wow.
+
+(SOUNDBITE OF WATER SPLASHING)
+
+SIMON: That's the sound of water. There was only water - this huge lake - where a glacier should have been, Ailsa. The glacier had melted, and glacial lake floods are a growing threat. In recent years, multiple glacial lake floods have displaced and killed people. Scientists warn that an estimated 15 million people around the world are at risk from such floods.
+
+CHANG: Wow. So just how unstable are these melting glaciers?
+
+SIMON: Yeah. So NPR spoke with Alton Byers about this. He's at the Institute of Arctic and Alpine Research at the University of Colorado at Boulder. He says he's surprised how fast the permafrost - that's the continuously frozen ice, soil and rock that's held the mountains together for millennia - it's now changing.
+
+ALTON BYERS: The analogy I and my colleagues use is take a stick of butter out of the refrigerator and put it on the counter. It's going to get softer and it's going to lose its structural integrity.
+
+SIMON: Yeah. So these melting glaciers - they pose deadly risks to the communities in their path.
+
+CHANG: I mean, we're seeing it right now. So...
+
+SIMON: Yeah.
+
+CHANG: ...What are some solutions here to prevent the kind of disaster that we are seeing in Nepal, for example, a disaster that is caused by melting glaciers?
+
+SIMON: Well, the first thing is better alert systems. It seems right now, like, Nepal's flood warning system wasn't equipped to handle this, despite quite a bit of investment in those warning systems over the last decade or so. And it's important to mention this area has seen flash floods before. But we also know the primary driver of global warming is the burning of fossil fuels, like oil, gas and coal. The solutions to transition away from fossil fuels are out there, Ailsa. They are scalable. They're affordable. They're reliable. They include solar energy, wind energy and batteries.
+
+CHANG: That is NPR climate and energy correspondent Julia Simon. Thank you, Julia.
+
+SIMON: Thank you, Ailsa.
+
+CHANG: This episode was produced by Henry Larson, Megan Lim, and Kai McNamee with audio engineering by Tiffany Vera Castro. Our director is Jonas Adams. It was edited by Sadie Babits, Sarah Handel and Tinbete Ermyas. Our interim executive producer is Courtney Dorning.
+
+(SOUNDBITE OF MUSIC)
+
+CHANG: It's CONSIDER THIS FROM NPR. I'm Ailsa Chang.
+
+#### Flash floods on Nepal-Tibet border
+
+![Flash floods on Nepal-Tibet border](https://i.scdn.co/image/ab67656300005f1f4c7cc8c8d2e6710f01d0d412)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** The World: Latest Stories
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3Y6t7mNRq7Jy17LVxw9Gir)
+
+[Open Series in Spotify](https://open.spotify.com/show/5THzU7dZvhKXTDQNGmcxVy)
+
+Flash floods triggered by an ice avalanche have left hundreds of people missing in Nepal along its border with Tibet. Some scientists think the tragedy may have been set off, at least in part, by an enormous chunk of ice snapping off a glacier. Simon Cook, a glaciologist at the University of Dundee in Scotland tells The World’s Host Carolyn Beeler what a satellite analysis reveals about the disaster.
+
+:::
+
+#### Hurricane Katrina
+
+![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short History Of...
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6g8p84wcEdYgxaR7nvLBeJ)
+
+[Open Series in Spotify](https://open.spotify.com/show/2mcJ0sFMn4TdKCQrxoLPgO)
+
+In August 2005, one of the most powerful storms ever recorded in the Gulf of Mexico barrelled toward the United States. When Hurricane Katrina finally struck land, it devastated hundreds of miles of shoreline, but the disaster that captured the world’s attention unfolded in one place above all: the city of New Orleans.     Within hours of the storm passing, the flood defence levees meant to protect the city broke, and it began to fill with water. What followed the natural disaster was a crisis that raised profound questions about preparedness, inequality, and the ability and willingness of a modern nation to protect one of its own great cities.     But why was New Orleans so vulnerable in the first place? What was the response in the wake of the hurricane and flooding? And what did the disaster reveal about the systems of engineering, government and society that were supposed to protect it?    This is a Short History Of Hurricane Katrina.    A Noiser podcast production. Hosted by John Hopkins. With thanks to Jed Horne, a Pulitzer Prize-winning reporter and author of Breach of Faith: Hurricane Katrina and the Near Death of a Great American City.    Written by Sean Coleman | Produced by Kate Simants | Production Assistant: Chris McDonald | Exec produced by Katrina Hughes | Sound supervisor: Tom Pink | Sound design by Mirianna Pitman-Latham and Matthew Peaty | Assembly edit by Dorry Macaulay | Compositions by Oliver Baines, Dorry Macaulay, Tom Pink | Mix & mastering: Cody Reynolds-Shaw    Unlock the next two episodes of Short History Of… right now by subscribing to Noiser+. You’ll also get ad-free listening and early access to shows across the Noiser podcast network, including Real Survival Stories and Sherlock Holmes Short Stories. Just click the subscription banner at the top of the feed, or head to www.noiser.com/subscriptions to get started. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Nearly 400 Killed in Nepal Flooding, 1,300+ Missing
+
+![Nearly 400 Killed in Nepal Flooding, 1,300+ Missing](https://i.scdn.co/image/ab67656300005f1fd0c546919545395b52d4b7cd)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Anderson Cooper 360
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7vB8bi0mTUXCtCoJ08J2j7)
+
+[Open Series in Spotify](https://open.spotify.com/show/23fKF51XHsWmMHI4wmho6s)
+
+A frantic search is underway for more than 1,300 people missing after catastrophic flooding swamped a China-Nepal border region Wednesday, dozens of Americans are among the at least 700 foreigners unaccounted for. Anderson talks with an American doctor, whose parents had traveled to the region for a Hindu pilgrimage and are now unaccounted for, along with their entire tour group. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Sudden Flood in Tibet - The 340th Evolutionary Lens with Bret Weinstein and Heather Heying
+
+# Sudden Flood in Tibet: The 340th Evolutionary Lens with Bret Weinstein and Heather Heying
+
+![Sudden Flood in Tibet: The 340th Evolutionary Lens with Bret Weinstein and Heather Heying](https://i.scdn.co/image/ab67656300005f1f7adbd7b8499210f438c2e61e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** DarkHorse Podcast | Bret Weinstein and Heather Heying
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5TryFTiz7tRmEXW7YgF30p)
+
+[Open Series in Spotify](https://open.spotify.com/show/57R7dOcs60jUfOnuNG0J1R)
+
+On this, our 340th Evolutionary Lens livestream, we discuss the recent flash flood on the border of Nepal and Tibet, climate science, and the nature of evidence. What commonalities are there between a glacial dam breaking and flooding the valley below, taking out towns and villages; Dry Falls and the Columbia River Gorge in Washington state; the Boxing Day tsunami in the Indian Ocean; and the 2011 earthquake that resulted in the destruction of the Fukushima nuclear power plant in Japan? In some cases we have to infer what happened; in some cases we have direct observation; in all cases we have to construct a plausible story that fits all of the evidence. Meanwhile in climate science, a new paper reconstructs NOAA data from 1,200 weather stations from over 100 years, uses a different metric than NOAA does to describe the data, and concludes that the world—or at least the coterminous U.S.—is not heating up in the way we have been told. We discuss.*****Our sponsors:Ethos: Protect your family with life insurance from Ethos. Get up to $3 million in coverage in as little as 10 minutes at https://ethos.com/darkhorseCaraway: Non-toxic, highly functional & beautiful cookware and bakeware. Save up to $230 on their 12 piece cookware set, and visit http://Carawayhome.com/DarkHorse for an additional 10% off your next purchase. Add their minis duo, and save up to $350.Puori: Clean and safe supplements, lab tested and guaranteed. Go to http://Puori.com/DarkHorse for 32% off grass-fed whey protein with a subscription. DarkHorse code works on all products!*****Join us on Locals! Get access to our Discord server, exclusive live streams, live chats for all streams, and early access to many podcasts: https://darkhorse.locals.comHeather’s newsletter, Natural Selections (subscribe to get free weekly essays in your inbox): https://naturalselections.substack.comOur book, A Hunter-Gatherer’s Guide to the 21st Century, is available everywhere books are sold, including from Amazon: https://amzn.to/3AGANGg (commission earned)Check out our store! Epic tabby, digital book burning, saddle up the dire wolves, and more: https://darkhorsestore.orgMusic: "Marble Machine" by WintergatanThis track can be downloaded for free at www.wintergatan.netFree License to use this track in your video can be downloaded at www.wintergatan.net*****Mentioned in this episode:New York Post on flood: https://nypost.com/2026/08/26/world-news/flood-hits-china-nepal-border-leaving-many-dead-and-missing/ Flood video: https://x.com/weaponizedwheat/status/2092652586935763289?s=46 More flood video: https://x.com/charlesarthur/status/2092613128387211617?s=20 Christy 2026. Declines in hot and cold daily temperature extremes in the conterminous US, 1899–2025. Theoretical and Applied Climatology, 157(5): 309: https://link.springer.com/article/10.1007/s00704-026-06200-3 Epoch Times: https://www.theepochtimes.com/article/climatologist-says-a-century-of-weather-data-contradicts-claims-of-record-heat-6072358*****Timestamps:00:00:00 When Can You Trust Your Own Eyes?00:03:49 Sponsor: Ethos00:05:31 Sponsor: Caraway00:10:35 Sponsor: Puori00:12:55 Infinite Paper for a Paperless World00:18:38 Disaster on the Nepal-Tibet Border00:22:19 Only 10% of Those Who Get Wet Survive00:28:25 Dry Falls, the Largest Waterfall Ever00:33:13 But Where Did the Water Come From?00:35:27 Glacial Lake Missoula Explodes00:41:58 The Flash Flood That Nearly Killed Us00:44:26 Flash Flood vs. Mountain Tsunami00:48:10 Japan Built Below the Stones00:55:52 The Huascarán Debris Avalanche01:00:45 What Boxing Day Taught the World01:05:35 Declines in Hot and Cold Extremes01:14:02 Means vs. Extremes01:17:34 The License to Discard Outliers01:22:55 The Records NOAA Left Out01:27:33 Systematic vs. Random Error01:31:12 How It's Supposed to Be Done01:36:28 Frogs Next Time
+
+:::
+
+#### The Ghost Town (Times Beach, Missouri)
+
+# S10 Ep140: The Ghost Town (Times Beach, Missouri)
+
+![S10 Ep140: The Ghost Town (Times Beach, Missouri)](https://i.scdn.co/image/ab67656300005f1fd352f167cf2d28d9d9fa1fd9)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Swindled
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0DHeY6fmPJRovMGaTr9H4O)
+
+[Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
+
+A small Missouri town faces a compounded catastrophe as a devastating flood follows the discovery of toxic contamination.Prelude: A mysterious illness attacks the horses and humans at Shenandoah Stables.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Thanks for listening. :-)
+
+:::
+
+#### The History And Legacy Of Hurricane Helene
+
+![The History And Legacy Of Hurricane Helene](https://i.scdn.co/image/ab67656300005f1f66149791638977b8dc4d841a)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** 1A
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4rh3W1ki7sYqPOduBBbzA3)
+
+[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
+
+On the night of Sept. 27, 2024, Hurricane Helene dropped a historic wall of rain on the southern Appalachian mountains.Some 31 inches of water fell in three days. The Swannanoa River rose 27 feet. Roads, bridges, and entire communities – very little was left in the storm’s aftermath.  More than 250 people died across the Southeast. More than a hundred of them in North Carolina alone. It was the deadliest hurricane to hit the continental United States since Katrina.We check in on how much western North Carolina has rebuilt in the nearly two years since the storm. And how far it still has to go. Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### What Worsening Floods Mean For Superfund Sites
+
+![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/529FSErk9SjroIvEiJ0NVA)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Superfund sites are some of the most polluted areas in the country, containing highly toxic waste such as asbestos, lead, and dioxin. Cleaning them up, which follows a systematic, science-based process as required by law, can take decades.There are more than 1,300 of these sites across the US, from Florida’s Panhandle to the banks of the Rio Grande in New Mexico. They’re found in nearly every state, often near residential areas. The EPA estimates that 78 million people live within three miles of a Superfund site—nearly 1 in 4 Americans.But these waste dumps face a growing threat: the worsening effects of climate change. The EPA has determined that more than 300 Superfund sites are at risk of flooding. The actual number of flood-prone sites, however, may be more than twice that amount, according to a 2021 Government Accountability Office report. Floodwaters can move toxic waste into neighboring communities, which threatens drinking water, agriculture, and broader ecosystem health.Read more at sciencefriday.comTranscripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+### Video Clips
+
+#### How China is designing flood-resistant cities
+
+**Vox**, *10 26, 2023*
+
+## Video (6:49)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nf-Yy3EuZi0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+These "sponge city" designs resist floods and increase biodiversity to help us adapt to a changing climate.
+
+This episode is presented by Delta. Delta doesn’t have a say in our editorial decisions, but they make videos like this possible. For more information, visit http://www.delta.com/sustainability.
+
+Subscribe to our channel and turn on notifications (🔔) so you don't miss any videos: http://goo.gl/0bsAjO
+
+From rising sea levels in Mumbai to unbearable heat in Houston, cities around the world are feeling the effects of climate change. Unfortunately, they don’t always have the right infrastructure to handle its impacts — which is one reason why cities are beginning to reimagine urban design. One of these designs is a “sponge city.”
+
+Although one city design certainly won’t save us from the effects of climate change, “sponge cities” can help with how we live with it. 
+
+Here are some studies and articles we used to inform our reporting:
+
+Biodiversity — our strongest natural defense against climate change: https://www.un.org/en/climatechange/science/climate-issues/biodiversity
+
+Sponge City, Shenzhen Explores the Benefits of Designing with Nature: https://www.lincolninst.edu/publications/articles/sponge-city-shenzhen-explores-benefits-designing-with-nature
+
+Sponge City Practices in China: From Pilot Exploration to Systemic Demonstration: https://www.mdpi.com/2073-4441/14/10/1531
+
+The ocean is rising — and so is Miami’s skyline: https://www.vox.com/climate/23872640/coastal-climate-ocean-rising-miami-florida-building
+
+Sponge Cities: Integrating Green and Gray Infrastructure to Build Climate Change Resilience in the People’s Republic of China: https://www.adb.org/sites/default/files/publication/838386/adb-brief-222-sponge-cities-prc.pdf
+
+How Is Climate Change Affecting Floods?: https://www.nytimes.com/article/flooding-climate-change.html
+
+Vox is on a mission is to help everyone, regardless of income or status, understand our complicated world so that we can all help shape it. Part of that mission is keeping our work free. 
+
+Watch our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on TikTok: http://tiktok.com/@voxdotcom
+
+Check out our articles: https://www.vox.com/
+
+Listen to our podcasts: https://www.vox.com/podcasts
+
+## Transcript
+
+**0:02** · This isn't a forest.
+
+**0:04** · Not really.
+
+**0:05** · It's actually an urban park in the densely populated city of Nanchang, China.
+
+**0:11** · Filled with birds, native trees...
+
+**0:14** · and volcanic rock on 137 acres of urban land.
+
+**0:19** · It's called a sponge city.
+
+**0:21** · And it's a type of natural infrastructure that architects around the world are designing to help us combat and withstand a changing climate.
+
+**0:29** · So what does it mean for a city to become spongy?
+
+**0:38** · This video is presented by Delta Airlines.
+
+**0:42** · Today, like everywhere else on the globe cities are feeling the effects of climate change.
+
+**0:46** · And they often don't have the right infrastructure to help them survive its impacts.
+
+**0:52** · Some neighborhoods in Houston don't have enough trees to provide shade and relief from rising temperatures.
+
+**0:58** · Meanwhile, rising sea levels threaten coastal cities, like Mumbai and Seoul that don't often have the infrastructure to handle more frequent flooding.
+
+**1:06** · This is only made worse by the fact that cities are covered with pavement and other surfaces that can't absorb water.
+
+**1:13** · Urbanization changes habitat.
+
+**1:15** · So, when you build on a place it removes vegetation and alters hydrology.
+
+**1:22** · That's Dr. Charlie Nilon.
+
+**1:24** · He told me that cities play a complicated role in the climate crisis...
+
+**1:28** · especially when it comes to maintaining biodiversity.
+
+**1:31** · Biodiversity is, simply put the total number of plants and animals that occur someplace.
+
+**1:39** · Biodiversity is one of our main support systems for human life on earth.
+
+**1:44** · We rely on natural ecosystems full of diverse plants, animals, and organisms for essential things like clean water, food, and medicine.
+
+**1:54** · And biodiversity is critical to defending the Earth against climate change.
+
+**1:59** · We need healthy forests to absorb carbon dioxide from the air and enough native plants for pollinators to help crops flourish.
+
+**2:07** · But studies show that as urban expansion continues it can drive habitat losses that directly put some species in danger...
+
+**2:13** · profoundly impacting global biodiversity.
+
+**2:16** · Cities have a big impact on what happens locally.
+
+**2:19** · Cities capture a significant number of plant and animal species...
+
+**2:23** · which are native.
+
+**2:24** · So that, even in cities, there's a significant amount of biodiversity.
+
+**2:28** · Which means they can play a role in saving these local plant and animal species.
+
+**2:33** · The really important thing to think about is not so much how urbanization...
+
+**2:38** · reduces biodiversity, but really how in cities you can conserve biodiversity.
+
+**2:43** · One way to do this is by creating environments where nature can flourish.
+
+**2:47** · Environments that can also help cities soak up excess water.
+
+**2:52** · And that's where sponge cities come in.
+
+**2:55** · In 2015, China launched a sponge city pilot program in 30 cities across the country.
+
+**3:01** · The goal of the program was to coordinate and promote the construction of sponge cities...
+
+**3:06** · which would improve urban drainage and flood prevention and create a diverse biological environment.
+
+**3:13** · Architects did this by supplementing the existing grey infrastructure that relied on concrete pipes and dams with natural solutions like gardens that are designed to capture rain and native trees that suck up excess water through their roots.
+
+**3:27** · In China, these ideas were taken from ancient drainage systems.
+
+**3:31** · That's because for centuries Chinese cities actually handled water pretty well in part because they were built with nature in mind.
+
+**3:39** · A study from the scientific journal Water recreated some of these old practices.
+
+**3:44** · Building roofs designed with sloped eaves allowed rainwater to fall onto the permeable pavement below...
+
+**3:50** · and exterior walls were lined with flowers and trees to absorb rain and stormwater.
+
+**3:55** · Today, natural solutions like these have been reimplemented in major cities across China.
+
+**4:04** · In Qian’an, a sewage pipe was replaced with this natural infiltration system...
+
+**4:09** · that uses vegetation beds to purify storm and rainwater.
+
+**4:13** · Shanghai replaced concrete roads and sidewalks with this permeable pavement which is lined with vegetation to absorb excess water into the soil underground.
+
+**4:23** · And across Wuhan, dozens of urban gardens like these were planted to absorb water before it overwhelms communities.
+
+**4:31** · Most of these projects rely on introducing vegetation in an urban area to soak up excess water.
+
+**4:37** · This is a really great way to handle flooding and it also supports urban biodiversity.
+
+**4:43** · Because you're providing habitat for additional groups...
+
+**4:46** · Plant and animal species.
+
+**4:47** · Sometimes you can restore habitats that have been lost.
+
+**4:50** · Despite these benefits, sponge cities can't fix everything.
+
+**4:54** · The connection between climate change and flooding is still being studied.
+
+**4:58** · But when floods do happen these spongy cities are only able to absorb excess water up to a certain point.
+
+**5:05** · In 2021, sponge city designs in Zhengzhou failed when historic rainfall drenched the city.
+
+**5:11** · More than 300 people died from the catastrophic flooding.
+
+**5:15** · There are other limitations, too.
+
+**5:17** · One review of sponge cities in Guian New District found that national standards and codes for spongy infrastructure are really difficult to enforce because climate, hydrology, and even socio-economics are vastly different from one city to the next.
+
+**5:33** · So what might work in some cities won't necessarily solve climate-related problems in others.
+
+**5:39** · Plus, ambitious sponge city designs like the sprawling parks built in China are expensive and require a lot of space...
+
+**5:45** · which most cities don't have.
+
+**5:47** · So some US cities experimenting with natural infrastructure like LA and Boston are using the green space they already have.
+
+**5:56** · By trying things like planting vegetation on curbs...
+
+**5:59** · and creating green spaces along median strips.
+
+**6:03** · One type of city design certainly won't save us from climate change...
+
+**6:07** · but they can make a difference in how we live with it.
+
+**6:10** · We often talk about biodiversity like it's far away, but it's actually right there.
+
+**6:16** · And I think the more that people understand that the kinds of things they do around where they live that really matters.
+
+**6:21** · People can do things to change cities.
+
+**6:24** · They can do things to make cities different.
+
+**6:27** · They can do things to make cities better.
+
+### Films
+
+#### We Gonna Ride It Out Like We Always Do
+
+>**Episode 1** of **Katrina: Come Hell and High Water**
+>*Duration: 01:01:59*
+>[***More details on netflix.com***](https://www.netflix.com/watch/81753022?trackId=288274279)
+
+<iframe width="560" height="315" title=We Gonna Ride It Out Like We Always Do allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://www.netflix.com/watch/81753022?trackId=288274279></iframe>

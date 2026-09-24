@@ -34,7 +34,32 @@
     - "2026-09-09T16:00:00"
     - "2026-09-14T16:00:00"
   course_name: "Conservation Biology"
-- title: "Climate Change"
+  class_start: "BIOL4120_W3D2"
+  date_start: "2026-09-09T16:00:00"
+  week_start: 3
+  class_end: "BIOL4120_W4D1"
+  date_end: "2026-09-14T16:00:00"
+  week_end: 4
+  lecture_archive: null
+  background_possible:
+    - "Biodiversity"
+    - "Ch 3 Biodiversity Concepts and Measurement"
+    - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
+  films_possible:
+    - "Ocean With David Attenborough"
+    - "Rebuilding The Herd Rewilding The Future"
+    - "Some Animals Are More Equal than Others Keystone Species and Trophic Cascades"
+    - "Vanishing Act"
+  videos_possible:
+    - "AI-powered camera traps are protecting Gabon wildlife from poachers"
+    - "Are We Living In the Sixth Extinction"
+    - "Camera Trapping at American Prairie Reserve"
+    - "How eDNA helps strengthen marine biodiversity monitoring across Africa"
+    - "How Otters Are Saving Earth’s Underwater Forests"
+    - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
+    - "Measuring biodiversity made easy  short version"
+    - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
+- title: "Climate Change & Biodiversity"
   unit:
     - "Threats to Biodiversity"
   chapter: 3
@@ -68,6 +93,20 @@
     - "2026-11-02T16:00:00"
     - "2026-11-04T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W11D1"
+  date_start: "2026-11-02T16:00:00"
+  week_start: 11
+  class_end: "BIOL4120_W11D2"
+  date_end: "2026-11-04T16:00:00"
+  week_end: 11
+  background_possible:
+    - "Ch 12 Climate Change"
+    - "Climate Change"
+  films_possible:
+    - "Ocean With David Attenborough"
+  videos_possible:
+    - "Are We Living In the Sixth Extinction"
+    - "The salmon dilemma"
 - title: "Community & Ecosystem Approaches"
   unit:
     - "Approaches to Conservation"
@@ -101,6 +140,24 @@
   dates:
     - "2026-11-30T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W15D1"
+  date_start: "2026-11-30T16:00:00"
+  week_start: 15
+  class_end: "BIOL4120_W15D1"
+  date_end: "2026-11-30T16:00:00"
+  week_end: 15
+  background_possible:
+    - "Ch 14 Community and Ecosystem Conservation"
+    - "Conservation planning and priorities"
+    - "From conservation theory to practice - crossing the divide"
+  films_possible:
+    - "Ocean With David Attenborough"
+    - "Rebuilding The Herd Rewilding The Future"
+    - "Some Animals Are More Equal than Others Keystone Species and Trophic Cascades"
+    - "Vanishing Act"
+  videos_possible:
+    - "How Otters Are Saving Earth’s Underwater Forests"
+    - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
 - title: "Ex Situ Conservation"
   unit:
     - "Approaches to Conservation"
@@ -135,6 +192,19 @@
     - "2026-11-11T16:00:00"
     - "2026-11-16T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W12D2"
+  date_start: "2026-11-11T16:00:00"
+  week_start: 12
+  class_end: "BIOL4120_W13D1"
+  date_end: "2026-11-16T16:00:00"
+  week_end: 13
+  background_possible:
+    - "Ch 16 Ex Situ Conservation"
+    - "miranda_etal_2023a"
+  films_possible:
+    - "Vanishing Act"
+  videos_possible:
+    - "Should zoos exist  BBC Ideas"
 - title: "Exam 1 BIOL4120"
   unit:
     - "Exams BIOL4120"
@@ -166,6 +236,18 @@
   dates:
     - "2026-10-14T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W8D2"
+  date_start: "2026-10-14T16:00:00"
+  week_start: 8
+  class_end: "BIOL4120_W8D2"
+  date_end: "2026-10-14T16:00:00"
+  week_end: 8
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Extinction"
   unit:
     - "Threats to Biodiversity"
@@ -176,22 +258,18 @@
   course_prefix: "BIOL"
   course_number: 4120
   class_days:
-    - "BIOL4120_W4D2"
-    - "BIOL4120_W5D1"
+    - "BIOL4120_W5D2"
+    - "BIOL4120_W6D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
     - "Extinctions and the practice of preventing them"
-  quizzes: null
   slides:
-    - "https://canva.link/9u0qo7yq40d34nu"
-    - "https://canva.link/p3f89pahovuj46e"
-    - "Extinction Threats"
-  videos: null
-  films: null
-  exercises: null
-  handouts: null
-  assignments: null
+    - "Patterns & Risk of Extinction"
+  videos:
+    - "How poaching is changing the face of African elephants"
+    - "This Is Martha, the World's Last-Known Passenger Pigeon"
+    - "Are We Living In the Sixth Extinction"
   area: "teaching"
   tags:
     - "teaching"
@@ -199,9 +277,38 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-16T16:00:00"
-    - "2026-09-21T16:00:00"
+    - "2026-09-23T16:00:00"
+    - "2026-09-28T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W5D2"
+  date_start: "2026-09-23T16:00:00"
+  week_start: 5
+  class_end: "BIOL4120_W6D1"
+  date_end: "2026-09-28T16:00:00"
+  week_end: 6
+  background_possible:
+    - "Ch 8 Extinction"
+    - "Extinctions and the practice of preventing them"
+  films_possible:
+    - "Managing Moose Colorado's Most Dangerous Animal"
+    - "Some Animals Are More Equal than Others Keystone Species and Trophic Cascades"
+    - "Vanishing Act"
+  videos_possible:
+    - "Are We Living In the Sixth Extinction"
+    - "Giant Pythons Have Overrun Florida. Here’s Why"
+    - "How Otters Are Saving Earth’s Underwater Forests"
+    - "How poaching is changing the face of African elephants"
+    - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
+    - "Project aims to count Africa's shrinking elephant population"
+    - "Selection for Tuskless Elephants  HHMI BioInteractive Video"
+    - "Should zoos exist  BBC Ideas"
+    - "The salmon dilemma"
+    - "This Is Martha, the World's Last-Known Passenger Pigeon"
+  lecture_archive:
+    - "8-1_extinction_patterns"
+    - "8-3_extinction_risk"
+  films:
+    - "Vanishing Act"
 - title: "Fall Break BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -233,6 +340,18 @@
   dates:
     - "2026-10-19T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W9D1"
+  date_start: "2026-10-19T16:00:00"
+  week_start: 9
+  class_end: "BIOL4120_W9D1"
+  date_end: "2026-10-19T16:00:00"
+  week_end: 9
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Final Exam BIOL4120"
   unit:
     - "Exams BIOL4120"
@@ -263,6 +382,18 @@
   dates:
     - "2026-12-14T17:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W17D1"
+  date_start: "2026-12-14T17:00:00"
+  week_start: 17
+  class_end: "BIOL4120_W17D1"
+  date_end: "2026-12-14T17:00:00"
+  week_end: 17
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Habitat Loss, Fragmentation, and Degradation"
   unit:
     - "Threats to Biodiversity"
@@ -274,7 +405,6 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
     - "BIOL4120_W6D2"
   projects:
@@ -296,10 +426,29 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-09-30T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W6D1"
+  date_start: "2026-09-28T16:00:00"
+  week_start: 6
+  class_end: "BIOL4120_W6D2"
+  date_end: "2026-09-30T16:00:00"
+  week_end: 6
+  background_possible:
+    - "Ch 9 Habitat Loss, Fragmentation, and Degradation"
+    - "Habitat destruction - death by a thousand cuts"
+    - "Habitat fragmentation and landscape change"
+  films_possible:
+    - "Managing Moose Colorado's Most Dangerous Animal"
+    - "Rebuilding The Herd Rewilding The Future"
+  videos_possible:
+    - "Are We Living In the Sixth Extinction"
+    - "Giant Pythons Have Overrun Florida. Here’s Why"
+    - "How Otters Are Saving Earth’s Underwater Forests"
+    - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
+    - "We’re creating the world’s biggest wildlife corridor"
+    - "Why This Unusual Pattern May Save the Rainforests"
 - title: "Invasive Alien Species"
   unit:
     - "Threats to Biodiversity"
@@ -334,6 +483,23 @@
     - "2026-10-21T16:00:00"
     - "2026-10-26T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W9D2"
+  date_start: "2026-10-21T16:00:00"
+  week_start: 9
+  class_end: "BIOL4120_W10D1"
+  date_end: "2026-10-26T16:00:00"
+  week_end: 10
+  background_possible:
+    - "Ch 11 Invasive Alien Species"
+    - "Invasive Species"
+  films_possible:
+    []
+  videos_possible:
+    - "Drowning in seaweed How to stop invasive Sargassum"
+    - "Giant Pythons Have Overrun Florida. Here’s Why"
+    - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
+    - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
+    - "Wild Horses America's Most Beloved Invasive Species"
 - title: "Labor Day"
   unit:
     - "Breaks BIOL4120"
@@ -365,6 +531,18 @@
   dates:
     - "2026-09-07T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W3D1"
+  date_start: "2026-09-07T16:00:00"
+  week_start: 3
+  class_end: "BIOL4120_W3D1"
+  date_end: "2026-09-07T16:00:00"
+  week_end: 3
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Landscape-Scale Approaches"
   unit:
     - "Approaches to Conservation"
@@ -397,6 +575,20 @@
   dates:
     - "2026-12-07T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W16D1"
+  date_start: "2026-12-07T16:00:00"
+  week_start: 16
+  class_end: "BIOL4120_W16D1"
+  date_end: "2026-12-07T16:00:00"
+  week_end: 16
+  background_possible:
+    - "Ch 15 Landscape-Scale Conservation"
+    - "Conservation in human‐modified landscapes"
+  films_possible:
+    - "Managing Moose Colorado's Most Dangerous Animal"
+  videos_possible:
+    - "We’re creating the world’s biggest wildlife corridor"
+    - "Why This Unusual Pattern May Save the Rainforests"
 - title: "No Class BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -430,6 +622,18 @@
     - "2026-08-24T16:00:00"
     - "2026-09-02T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W1D1"
+  date_start: "2026-08-24T16:00:00"
+  week_start: 1
+  class_end: "BIOL4120_W2D2"
+  date_end: "2026-09-02T16:00:00"
+  week_end: 2
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Overexploitation"
   unit:
     - "Threats to Biodiversity"
@@ -464,6 +668,24 @@
     - "2026-10-05T16:00:00"
     - "2026-10-07T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W7D1"
+  date_start: "2026-10-05T16:00:00"
+  week_start: 7
+  class_end: "BIOL4120_W7D2"
+  date_end: "2026-10-07T16:00:00"
+  week_end: 7
+  background_possible:
+    - "Ch 10 Overexploitation"
+    - "Overharvesting"
+  films_possible:
+    []
+  videos_possible:
+    - "Are We Living In the Sixth Extinction"
+    - "How poaching is changing the face of African elephants"
+    - "Project aims to count Africa's shrinking elephant population"
+    - "Selection for Tuskless Elephants  HHMI BioInteractive Video"
+    - "The salmon dilemma"
+    - "This Is Martha, the World's Last-Known Passenger Pigeon"
 - title: "Overview & Syllabus BIOL4120"
   unit:
     - "Overview BIOL4120"
@@ -495,6 +717,18 @@
   dates:
     - "2026-08-26T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W1D2"
+  date_start: "2026-08-26T16:00:00"
+  week_start: 1
+  class_end: "BIOL4120_W1D2"
+  date_end: "2026-08-26T16:00:00"
+  week_end: 1
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Species-Level Approaches"
   unit:
     - "Approaches to Conservation"
@@ -527,6 +761,29 @@
   dates:
     - "2026-11-18T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W13D2"
+  date_start: "2026-11-18T16:00:00"
+  week_start: 13
+  class_end: "BIOL4120_W13D2"
+  date_end: "2026-11-18T16:00:00"
+  week_end: 13
+  background_possible:
+    - "Ch 13 Species-Level Conservation"
+    - "Endangered species management - the US experience"
+  films_possible:
+    - "Managing Moose Colorado's Most Dangerous Animal"
+    - "Rebuilding The Herd Rewilding The Future"
+    - "Some Animals Are More Equal than Others Keystone Species and Trophic Cascades"
+    - "Vanishing Act"
+  videos_possible:
+    - "How Otters Are Saving Earth’s Underwater Forests"
+    - "How poaching is changing the face of African elephants"
+    - "Project aims to count Africa's shrinking elephant population"
+    - "Selection for Tuskless Elephants  HHMI BioInteractive Video"
+    - "Should zoos exist  BBC Ideas"
+    - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
+    - "The salmon dilemma"
+    - "We Let Beavers Transform an Old Farm"
 - title: "Thanksgiving Break BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -558,6 +815,18 @@
   dates:
     - "2026-11-25T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W14D2"
+  date_start: "2026-11-25T16:00:00"
+  week_start: 14
+  class_end: "BIOL4120_W14D2"
+  date_end: "2026-11-25T16:00:00"
+  week_end: 14
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "The Rise of Conservation Biology"
   unit:
     - "Foundations of Conservation Biology"
@@ -574,7 +843,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   background:
-    - "Conservation biology - past and present 1"
+    - "Conservation biology - past and present"
   quizzes: null
   slides:
     - "Contemporary_Conservation_Biology"
@@ -593,3 +862,16 @@
     - "2026-08-31T16:00:00"
     - "2026-09-09T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W2D1"
+  date_start: "2026-08-31T16:00:00"
+  week_start: 2
+  class_end: "BIOL4120_W3D2"
+  date_end: "2026-09-09T16:00:00"
+  week_end: 3
+  background_possible:
+    - "Ch 2 The Rise of Conservation Biology"
+    - "Conservation biology - past and present"
+  films_possible:
+    - "Rebuilding The Herd Rewilding The Future"
+  videos_possible:
+    - "This Is Martha, the World's Last-Known Passenger Pigeon"

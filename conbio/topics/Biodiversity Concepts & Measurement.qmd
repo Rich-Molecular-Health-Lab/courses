@@ -1,6 +1,6 @@
 ---
 title: "Biodiversity Concepts & Measurement"
-date: "2026-08-29"
+date: "2026-09-09T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,4 +13,2380 @@ listing:
   contents: "Biodiversity Concepts & Measurement_resources.yaml"
 ---
 
+## Class Meetings
 
+**Dates:** 2026-09-09T16:00:00, 2026-09-14T16:00:00
+
+<a class='btn btn-outline-primary p-3 m-2' href='slides/Biodiversity_Concepts_&_Measurement/index.html'>Biodiversity Concepts & Measurement <i class='fa-solid fa-link'></i></a>
+
+## Assigned Background
+
+### Biodiversity
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Biodiversity
+
+**Ch No.:** 2 (Foundations of Conservation Biology)
+
+**Pages:** 27-44 (Biodiversity Concepts & Measurement)
+
+**PDF:** [gaston_2010.pdf](../attachments/gaston_2010.pdf)
+
+**Textbook:** Conservation biology for all *(see details below)*
+
+**Days Covered:** BIOL4120_W3D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Kevin J. Gaston
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![gaston_2010.pdf](../attachments/gaston_2010.pdf)
+
+:::
+
+### The conservation biologist's toolbox – principles for the design and analysis of conservation studies
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** The conservation biologist's toolbox – principles for the design and analysis of conservation studies
+
+**Ch No.:** 16 (Foundations of Conservation Biology)
+
+**Pages:** 313-340 (Biodiversity Concepts & Measurement, Quantifying Biodiversity)
+
+**PDF:** [bradshaw_brook_2010.pdf](../attachments/bradshaw_brook_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W3D2, BIOL4120_W5D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Corey J. A. Bradshaw, Barry W. Brook
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193207047)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![bradshaw_brook_2010.pdf](../attachments/bradshaw_brook_2010.pdf)
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Readings
+
+#### Biodiversity
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Biodiversity
+
+**Ch No.:** 2 (Foundations of Conservation Biology)
+
+**Pages:** 27-44 (Biodiversity Concepts & Measurement)
+
+**PDF:** [gaston_2010.pdf](../attachments/gaston_2010.pdf)
+
+**Textbook:** Conservation biology for all *(see details below)*
+
+**Days Covered:** BIOL4120_W3D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Kevin J. Gaston
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![gaston_2010.pdf](../attachments/gaston_2010.pdf)
+
+:::
+
+#### Ch 3 Biodiversity Concepts and Measurement
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Textbook:** Conservation Biology *(see details below)*
+
+**Chapter:** 3 (Foundations of Conservation Biology)
+
+**Sections Assigned:** 3.2, 3.3, 3.4, 3.5, 3.6 (Biodiversity Concepts & Measurement)
+
+**Days Covered:** BIOL4120_W3D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology by 
+
+**Edition:** 2nd (2025-01-17)
+
+**ISBN:** 9780197667033 (textbook)
+
+[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+
+:::
+
+#### The conservation biologist's toolbox – principles for the design and analysis of conservation studies
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** The conservation biologist's toolbox – principles for the design and analysis of conservation studies
+
+**Ch No.:** 16 (Foundations of Conservation Biology)
+
+**Pages:** 313-340 (Biodiversity Concepts & Measurement, Quantifying Biodiversity)
+
+**PDF:** [bradshaw_brook_2010.pdf](../attachments/bradshaw_brook_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W3D2, BIOL4120_W5D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Corey J. A. Bradshaw, Barry W. Brook
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193207047)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![bradshaw_brook_2010.pdf](../attachments/bradshaw_brook_2010.pdf)
+
+:::
+
+### Video Clips
+
+#### AI-powered camera traps are protecting Gabon wildlife from poachers
+
+**New Scientist**, *04 05, 2022*
+
+## Video (3:17)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/2AZqjEVQWE8?start=55 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+AI-powered camera traps give Gabon wildlife rangers a new tool in the fight against poaching and biodiversity loss. 
+
+With around 24 million hectares of forest, Gabon is a biodiversity hotspot, including hosting one of the largest populations of the critically endangered  African forest elephant (Loxodonta cyclotis). Now, researchers from the University of Stirling, UK, are using a new kind of camera trap to help monitor and protect this and other species.  
+
+Learn more ➤ https://www.newscientist.com/video/2314977-ai-powered-camera-traps-could-protect-gabon-wildlife-from-poachers/
+ 
+Subscribe ➤ https://bit.ly/NSYTSUBS
+ 
+Get more from New Scientist:
+
+Official website: https://bit.ly/NSYTHP
+
+Facebook: https://bit.ly/NSYTFB
+
+Twitter: https://bit.ly/NSYTTW
+
+Instagram: https://bit.ly/NSYTINSTA
+
+LinkedIn: https://bit.ly/NSYTLIN
+ 
+About New Scientist:
+
+New Scientist was founded in 1956 for “all those interested in scientific discovery and its social consequences”. Today our website, videos, newsletters, app, podcast and print magazine cover the world’s most important, exciting and entertaining science news as well as asking the big-picture questions about life, the universe, and what it means to be human.
+ 
+New Scientist
+
+https://www.newscientist.com/
+
+#biodiversity #gabon #forestelephants #ai #artificalintelligence
+
+## Transcript
+
+### Intro
+
+**0:02** · Forest covers over 80% of Gabon in Central Africa.
+
+**0:06** · It has extraordinary biodiversity and researchers from the University of Stirling using a new kind of camera trap in order to help monitor and maintain it.
+
+**0:18** · Biodiversity as a unit however you choose to measure it is important because it is part of the functioning of the earth's global ecosystem.
+
+### Gabons wildlife
+
+**0:27** · So I've been working in Gabon since 2018.
+
+**0:31** · And one of the striking features about Gabon is just how intact its wildlife and its ecosystems and its in general environment is you know it's a country pretty much the size of the UK.
+
+**0:45** · But it only has a population of about 2 million people.
+
+**0:48** · And it's just incredible. You walk around and there's just signs of wildlife everywhere.
+
+### Camera traps
+
+**0:55** · These cameras that we use are called camera traps and you you essentially you strap them to a tree. We deploy the camera in the forest for up to 3 to 6 months and every time an animal walks by triggers the camera and we get a picture and we can collect hundreds of thousands or even millions of images. You know the only way to extract meaningful information from that data is to either look at all of the images and say okay this image has got an elephant this image has got a leopard but that's extremely slow.
+
+**1:22** · So we have AI tools that we've been developing that actually can analyze those images and detect species in the images automatically.
+
+### AI tools
+
+**1:33** · These cameras detect the animal we get a picture of the animal and then instantly run the AI algorithm in the field and then send via satellite the the species identification in the camera. So we can have our 200 cameras out in the field in the forest and literally looking at our phone at WhatsApp or a map online we can have real-time data telling us where elephants are where buffaloes are you name it.
+
+### Traditional model
+
+**1:58** · You know, the traditional model in ecology is that you deploy cameras or you deploy a sensor, you collect the data, you gather it back after some months, you analyze it over a period of 6 months, and then at the end of all that you come up with a report and you say this is where your animals were. But by the time you do that report, you could be a year, 2 years, 5 years out of date.
+
+### Detecting poachers
+
+**2:19** · Gabon is home to the critically endangered forest elephant.
+
+**2:23** · So, another potential use of these camera traps is to use them to detect poachers.
+
+**2:29** · We've been working with Hack the Planet in Netherlands to develop a system that can give real-time data, for example, when it detects a human with a gun. And that data could be used by the National Parks Agency in Gabon to inform their anti-poaching activities.
+
+**2:44** · Biodiversity as a unit, however you choose to measure it, is important because it just is part of the functioning of the Earth's global ecosystem. You can't have forests that store carbon without the mammals that eat the the fruits from the trees and disperse the seeds. You know, that's just one simple example, but all of those complex interactions are fascinating to understand and absolutely crucial for life on Earth as a whole.
+
+#### Are We Living In the Sixth Extinction
+
+**Be Smart**, *11 17, 2014*
+
+## Video (9:11)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/z9gHuAwxwAs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+This time, we're the asteroid.
+
+Viewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/PBSDSDonate
+
+Subscribe to It's Okay To Be Smart: http://bit.ly/iotbs_sub 
+
+Read "The Sixth Extinction by Elizabeth Kolbert: http://amzn.to/1xGKn0K 
+
+Rodolfo Dirzo et al. "Defaunation in the Anthropocene" http://bit.ly/1H7JQdw 
+
+Stuart Pimm et al. "Biodiversity of Species and Their Rates of Extinction" http://bit.ly/1A5UZJM 
+
+Get to know an endangered species: http://discover.iucnredlist.org/ 
+
+Half of world's wildlife has died off in past 40 years: http://bit.ly/1BHl8jR 
+
+Have an idea for an episode or an amazing science question you want answered? Leave a comment below!
+
+Produced for PBS Digital Studios 
+
+Joe Hanson - Host/Writer
+
+Joe Nicolosi - Director
+
+Amanda Fox - Producer, Spotzen Inc
+
+Kate Eads - Associate Producer
+
+Katie Graham - Director of Photography
+
+Andrew Matthews - Editing/Motion Graphics
+
+Dalton Allen - Post-production intern
+
+John Knudsen - Gaffer 
+
+Theme music:
+
+"Ouroboros" by Kevin MacLeod
+
+Stock images by Shutterstock
+
+-----------
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+## Transcript
+
+### The history of extinction
+
+**0:02** · [MUSIC] The California Golden Bear The Great Auk The Passenger pigeon The Tasmanian tiger The Pinta Island tortoise The Golden toad All dead. And the killer is right there in the room with you.
+
+**0:22** · [MUSIC] The walls of France’s Lascaux cave hold some of humankind’s earliest art, almost mythical species: a wooly rhinoceros, enormous-antlered Megaloceros elk and massive aurochs. The artists lived on, became us, but those cave walls are the last place that those animals still run. They’re gone. Extinct.
+
+**0:51** · We all pretty much understand extinction, it’s when a species kicks the proverbial bucket, it rides off into the great biological sunset, bites the dust from whence it came and shall return, which is all just a pretty way of saying that every last one of them dies.
+
+**1:05** · Even kids are used to the idea that sometimes groups of living things just… don’t exist anymore. Okay, mostly don’t exist.
+
+### Discovering mass events
+
+**1:13** · But extinction, as a thing, is a surprisingly new concept. In the 1790’s, by studying various fossils, naturalist Georges Cuvier was the first to show that they were not from living, yet undiscovered creatures, as many thought, but from what he called “lost species”.
+
+**1:29** · In the decades to come, scientists like Charles Lyell and ol' Chuck Darwin began to popularize the idea that Earth’s processes, like geology, evolution, and even extinction, did occur, just very, very, verrrry slowly. So slowly that we’d surely never actually see something go extinct. The idea of so-called catastrophic change was just impossible… It wasn’t until the 1980’s that scientists were able to shake that idea. Geologist Walter Alvarez was puzzled by the sudden disappearance of tiny aquatic fossils between two rock layers that dated from about 66 million years ago, the same age as the last dinosaurs.
+
+**2:01** · With the help of his Nobel Prize winning father, he analyzed the chemistry of that boundary and found iridium levels that were off the charts. Now, there’s usually not much iridium in Earth’s crust, but it’s very common in asteroids. So Alvarez’s theory? A 10-km wide rock collided with Earth, wiping out 75% of Earth’s plants and animals. To be honest scientists kinda laughed at it… until the 1991 discovery of the Chicxulub crater near the Yucatan peninsula finally settled it.
+
+**2:36** · Everything alive today is a descendent of a survivor of that terrible, horrible, no good, very bad day, the so-called Cretaceous-Paleogene mass extinction event, the most recent of the Big 5.
+
+### The big five extinctions
+
+**2:50** · You should feel pretty lucky. When we look at all of Earth’s fossil record together, 98% of the species that have ever lived are extinct,. Only they haven’t always disappeared at a constant rate.
+
+**3:02** · In the history of life on Earth, we know of 5 different mass extinctions, when a majority of life on Earth at the time disappeared in the blink of a geologic eye.
+
+**3:13** · Besides the most recent dino-killer, there’s the Triassic-Jurassic, Late Devonian, Ordivician-Silurian, and the worst of all, the End Permian. This was the mother of mass extinctions, it wiped out as many as 96% of Earth’s species, so it got the best nickname: The Great Dying.
+
+**3:34** · We’ve learned about all these just in time to get some bad news: We are in the 6th mass extinction, and this time, we are the asteroid.
+
+### The sixth mass extinction
+
+**3:46** · The hard facts of life mean that even when things are going pretty well on Earth, there’s a background rate of extinction. Among mammals, for instance, we’d expect to see one species go extinct every 700 years, or maybe one amphibian every thousand years.
+
+**4:00** · Studies of current extinction rates say we’re roughly one thousand times past that, and in some groups, like amphibians, are disappearing forty-five thousand times faster than normal.
+
+**4:13** · And since there are so many species still unknown or uncharacterized, all of those numbers are probably underestimates.
+
+**4:19** · Goodbye, gastric brooding frog, Pyrenean ibex, the Fomosan clouded leopard. We could have been friends.
+
+**4:29** · So how do we know we’re to blame?
+
+**4:32** · Around 13,000 years ago, as Earth thawed from its most recent big freeze, all of our favorite weird megafauna like the wooly mammoth, Smilodon, and our old friend Megatherium disappeared from the Earth, thanks to a changing climate and the invention of sharp stabby hunting tools. I really wish we had saved the 8-foot long beaver though. That would be awesome.
+
+**4:53** · Along the way, through hunting and farming, humans have been altering ecosystems in small but significant ways, but since the Industrial Revolution, man we have really kicked it into overdrive.
+
+**5:05** · With the exception of maybe the first bacteria to breathe oxygen into the air, no living thing has ever altered life on Earth to the degree that we have, which is why scientists now refer to current epoch as the Anthropocene.
+
+### Drivers of species loss
+
+**5:18** · "We are the ultimate problem. There are 7 billion people on the planet, we tend to destroy critical habitats where species live, we tend to be warming the planet, we tend to be very careless about moving species around the planet."
+
+**5:32** · According to a 2014 paper by Stuart Pimm in Science (link in the doobly do), the main cause of the current extinction is human population growth and increased consumption. But those two things lead to a whole mess of threats: The most obvious are climate change and habitat destruction. Scientists found that most land species have very small ranges, so they can’t just pack up and move when we cut down their forest or turn it into a desert.
+
+**5:55** · Ocean species have more freedom to move to better waters, unless they’re coral reefs, but thanks to the highest atmospheric CO2 concentrations in 800,000+ years turning the oceans more acidic, anything with a calcium based shell has nowhere to run… or swim. If current trends hold up and the ocean hits pH 7.8 by end of century, it could wipe out ⅓ of the species in the ocean.
+
+**6:23** · Then there’s the invaders! Thanks to a species of snake hitching a ride on military cargo in the 1940s, Guam has lost all of its native birds. "I have had it with these (invasive) snakes on this (Guam-bound cargo) plane" In Africa’s Lake Victoria, 100s of species of cichlid fish species vanished after fishermen introduced the Nile Perch. Go us! We’re erasing species faster than we can even name them.
+
+**6:50** · Stanford’s Rodolfo Dirzo says that in the past 40 years, invertebrate populations, which might make up 97% of species on Earth, have declined 45% worldwide, and that’s just the ones we know about. (Link in the doobly do to that one too) You have to feel worst for the amphibians. Over the past 350 million years, they’ve survived multiple mass extinctions, but this time we’re giving them all we’ve got.
+
+**7:17** · Dirzo gives this loss of animal life a rather harmless sounding name: Defaunation. But there is nothing cute about it. There is not a group of living things on Earth today that is not threatened by the current and coming extinction. That includes us.
+
+### Why saving species matters
+
+**7:34** · Extinction is about more than gorillas, tigers, polar bears, and rhinos, and the dozens of other “famous” or “charismatic” species out there. Those are all important and worth saving, but we need to care just as much about the humble beetles, the ugly little worms, and the slimy frogs.
+
+**7:52** · Every species, big or small, panda or protozoa, is important and worth saving, whether or not we understand exactly why it’s worth saving.
+
+**8:02** · John Muir once said, “When we try to pick out anything by itself we find that it is bound fast by a thousand invisible cords that cannot be broken, to everything in the universe.”
+
+**8:15** · I’ve put some links down in the description where you can get to know some of Earth’s less-loved endangered species. Go make friends with one.
+
+**8:23** · Our knowledge and understanding of the planet’s ecosystems may be incomplete, but our effect on them knows no bounds. I hope the same tools and technology that we’ve used to push life on Earth to the edge might also give us power to bring ‘em back.
+
+**8:39** · So what are we gonna do? Let’s talk about it down there.
+
+**8:43** · Stay curious.
+
+**8:44** · If you want to read more about the brilliant and tragic stories of extinction in this age of humans, check out "The Sixth Extinction" by Elizabeth Kolbert, link in the description.
+
+#### Camera Trapping at American Prairie Reserve
+
+**Smithsonian's National Zoo**, *06 26, 2019*
+
+## Video (1:42)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/sYIFEPzC6A8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Camera traps are motion-sensitive cameras that snap a picture whenever they detect movement, giving researchers extra eyes in the wild. Smithsonian ecologists set up camera traps around the American Prairie Reserve in Montana. The cameras are deployed 24/7, allowing researchers to gather data without disturbing animals and to collect data even when they are not in the field. The photos they collect will help build a clearer picture of the ecosystem — what animals are present and when, how species interact, which habitats they prefer and whether their land use changes with the seasons.
+
+## Transcript
+
+**0:03** · Bison, yea.
+
+**0:05** · Oh, wow! Look at him!
+
+**0:07** · That's nice.
+
+**0:09** · I'm Hila Shamoon. I'm a Smithsonian ecologist conducting research at the American Prairie Reserve in Montana.
+
+**0:17** · This place is a hotspot for biodiversity.
+
+**0:21** · Right now we're just trying to collect as much data as we can in a unified way across the landscape So we have a good idea of where the animals are, their distributions, and what are their activity patterns in each area.
+
+**0:34** · Putting this up, we're just getting their natural movements across this landscape.
+
+**0:39** · This is just a tiny camera and has just a few batteries, it can last a month in the field.
+
+**0:44** · and the camera only triggers when something's walking in front of it, so we know their exact activity times.
+
+**0:51** · Are they active at night or day?
+
+**0:54** · Where do they prefer to move across?
+
+**0:57** · And we're not disturbing the wildlife. So that's a huge thing.
+
+**1:03** · We're placing them in hundreds of places across the landscape.
+
+**1:07** · We want to know how and when the animals use these corridors.
+
+**1:14** · Putting something in the field for weeks that records everything that walks in front of it, it really helps us to see this place in a whole new way So I think we have it pretty good now.
+
+**1:25** · The more time I spend out here, I kind of get the feeling of how complex it is and it's much more exciting that way.
+
+#### How eDNA helps strengthen marine biodiversity monitoring across Africa
+
+**UNESCO**, *08 27, 2026*
+
+## Video (3:44)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ME3wR5-Y3zQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+At the 2026 edition of the Environmental DNA (eDNA) Training for Africa and the Adjacent Island States, 30 ocean experts from 14 Eastern and Southern Africa countries, including Early Ocean Career Professionals (#ECOPs), gathered at Pwani University in Kenya for an intensive hands-on training to gain experience in the entire eDNA process. 
+
+With 439 key marine biodiversity areas, Africa and the Adjacent Island States are home to a rich diversity of ocean life. However, a substantial amount of this biodiversity remains undocumented. 
+
+Environmental DNA allows scientists to detect species by analysing traces of DNA found in water. This provides a simple and cost-effective way to monitor marine biodiversity and protect ecosystems in the region, helping to strengthen regional capacity for marine biodiversity monitoring.
+
+Beyond technical skills, this training also supported researchers from across the continent to work together and advance ocean science by Africans, for Africans. 
+
+This training is organized by the Intergovernmental Oceanographic Commission (IOC) of UNESCO's Sub Commission for Africa & the Adjacent Island States (IOCAFRICA) with the support of the IOC's OceanTeacher Global Academy and the International Ocean Data and Information Exchange (IODE) programme, Pwani University, Kenya Marine and Fisheries Research Institute (KMFRI), and RTC Ghana (University of Ghana), and co-sponsored by the Ocean Decade Capacity Development Facility.
+
+🔗 Find more info about this training here: https://ow.ly/VFsN50ZvHs1 
+
+🔗 Learn more about the Ocean Decade Capacity Development Facility here: https://ow.ly/5e1a50ZvHs0
+
+## Transcript
+
+**0:03** · A substantial amount of African biodiversity remains [music] undocumented.
+
+**0:09** · Uh most of which is difficult to detect with the traditional [music] survey methods, especially if they are microscopic, [music] if they are rare, if they are cryptic, uh if they don't [music] appear at the times that you are, you know, doing your surveys. Perhaps these organisms that hibernate.
+
+**0:32** · [music] Basically because of lack of infrastructure and also because of lack of expertise. And also with [music] a lot of interference and lack of commitment from governmental agencies.
+
+**0:44** · eDNA is a quite a innovative approach.
+
+**0:47** · It can tell us a lot about cryptic species, some that are pelagic, demersal, and species that come out [music] at different times of the uh of the of the day, be it morning or relatively evening, where we as fishermen [music] or conservationists may not have that opportunity to explore.
+
+**1:08** · I think this training is really um timely and it's helping us build a capacity [music] of the African scientists we have here because we understand [music] our system and we know what happens here. So, for us to contribute to global databases, [music] I think it's very essential for us to keep organizing such [music] um trainings, building the capacity of our African scientists, and then we'll be able to contribute [music] um to um the global databases.
+
+**1:39** · It's the first time I have done the eDNA sampling.
+
+**1:42** · [music] Uh I had learned the proper technical skills, which [music] I can use it further for our own institution to con- contribute [music] to the data gaps that we have we have in our marine lagoon. [music] eDNA it overall will just improve our way of monitoring our ecosystem. [music] Like I said, it will help us not to be too invasive towards our marine environmental environment and as well as [music] destructive or something that could be potentially harming our environment.
+
+**2:17** · [music] This program has so far trained 60 African early career and mid-career ocean professionals. We primarily target Africans because first of all we are disadvantaged in terms of resources, [music] we are marginalized in terms of opportunities and and and and funding. So that's why [music] our focus is majorly on Africa.
+
+**2:39** · Africa is a really big place and we need to understand how the dynamism [music] um is affected by location. Okay, so [music] right now bringing all these individuals together from various countries, now seeing what is happening [music] on this side and on the eastern side, I think is very important [music] that we come together um foster um good collaborations and
+
+**3:06** · then [music] um improve on our monitoring and understanding of the various ecosystems [music] and how they are interacting.
+
+**3:14** · I am extremely grateful to IOC Africa uh for allowing me to participate [music] in this uh training, uh for funding me to come to Kenya. Uh and I also want to [music] thank my institution and I will say on for recognizing the need for this training and encouraging me to participate.
+
+#### How Otters Are Saving Earth’s Underwater Forests
+
+**PBS Terra**, *08 15, 2024*
+
+## Video (10:06)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/2Rchqd400W0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Hidden beneath the surface of our coastal seas are towering forests - of kelp. These underwater ecosystems are as crucial to our environment as their land-based counterparts. We’ll explore them alongside conservationists who are working to restore these threatened habitats. We'll also meet some adorable sea otters and learn about the role they play in maintaining the balance in this sensitive environment.
+
+Hosted by Joe Hanson from Be Smart, Overview uses stunning 4k drone footage to reveal the natural and human made marvels shaping our planet--from a 10,000-foot view--literally.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+## Transcript
+
+**0:00** · (birds squawking) (light music) (water moving) This is one of the most important forest ecosystems on earth.
+
+**0:10** · Okay, not a forest like you were expecting, right?
+
+**0:13** · But trust me, this forest ecosystem is every bit as beautiful and epic as a forest on land, only instead of being made of trees, this one is made of giant towering strands of kelp.
+
+**0:25** · (light music continues) But this epic forest is in danger of disappearing.
+
+**0:30** · Luckily, an unlikely team of marine mammal researchers, underwater ecologists and algae farmers is fighting to bring this forest back from the brink.
+
+**0:41** · Like every forest, this one has predators to help keep it in balance, and one of those predators is really stinking cute.
+
+**0:53** · I mean, have you ever seen anything that adorable in your life?
+
+**0:57** · (light music continues) Kelp forests are the foundation of this marine ecosystem.
+
+**1:06** · Without them, this environment would not exist as we know it.
+
+**1:11** · They support over 800 species and provide crucial habitat and food.
+
+**1:16** · Kelp forests like this one can be found in cold water regions all over the world.
+
+**1:21** · Now, you might be tempted to call kelp a plant, but don't.
+
+**1:24** · Kelp is a type of macroalgae, which means it doesn't have roots, stems, or leaves like plants.
+
+**1:32** · Kelp forests have been a part of these coastlines for more than 30 million years.
+
+**1:38** · One of the dominant species of kelp here in California is bull kelp.
+
+**1:42** · It's the trees of this underwater forest, and these kelp forests thrive in part because of animals like sea otters.
+
+**1:50** · They're part of a complex love/lunch triangle between predators like otters, kelp, and underwater plant eaters like sea urchins.
+
+**1:59** · Here's how it all works.
+
+**2:01** · Urchins eat kelp, which is fine, so long as someone eats the urchins.
+
+**2:05** · Someone like our cute and hungry friend here who can eat up to 15 pounds of seafood a day.
+
+**2:11** · An otter's appetite protects the kelp forest from being overgrazed.
+
+**2:16** · The kelp keeps the urchin happy and fed.
+
+**2:18** · The urchin keep the otter healthy and fed, and the otter eating the urchin keeps the kelp from being overgrazed.
+
+**2:25** · Scientists call this type of carefully balanced relationship between different species a trophic cascade.
+
+**2:31** · (gentle music) But here's the thing.
+
+**2:35** · This carefully balanced trophic cascade has fallen apart in Northern California.
+
+**2:41** · Otters are fighting for their lives here.
+
+**2:44** · European settlers decimated the otter population in the mid 1700s and early 1800s as part of the fur trade, but researchers are trying to bring them back one otter at a time.
+
+**2:57** · (gentle music continues) (birds squawking) [Sandrine] My name is Sandrine Hazan and I rescue and rehabilitate sea otters.
+
+**3:08** · You get to take care and rehabilitate and release the cutest animal on earth into the wild?
+
+**3:13** · I do that.
+
+**3:14** · Yes, I have that badge. This is a receiver that's used to pick up a signal that a released otter would have, so they are implanted with a transmitter that has a specific frequency, and we can pick that up with this receiver. We recently released Otter 956 just out here in the kelp bed, and so we have been tracking her on a daily basis.
+
+**3:37** · Let's cut this joyous otter release footage.
+
+**3:40** · (soft music) Why do all this work?
+
+**3:51** · Why do all this trouble to to track, you know, one otter?
+
+**3:54** · Well, it's really part of the bigger picture of helping to bring these otters back to their historic habitat. They are keystone species and they really do so much for these kelp forests, keeping them healthy and keeping them balanced.
+
+**4:12** · [Joe] After the otter population disappeared, another predator stepped up, sea stars, particularly the Sunflower Sea star, with its dinner plate sized body and up to 24 limbs. They began to dine on urchins becoming formidable urchin hunters themselves, but then a series of events turned hundreds of miles of California coastline, a spiky purple.
+
+**4:36** · Suddenly a mysterious marine disease nearly wiped out sea star populations, and then a roving ball of warm ocean water known as the blob rolled through the region causing sea temperatures to rise by two to three degrees Celsius. The trophic cascade fell out of balance. The sea stars disappeared, the urchins went wild, and 96% of the kelp canopy along Northern California's coastline has disappeared in the past decade. A region spanning 350 kilometers of the coast.
+
+**5:10** · (soft music) (waves lapping) (bird squawking) I think we're ready to go.
+
+**5:22** · Got my camera.
+
+**5:23** · Yeah, let's do it. (soft music continues) [Joe] One of the last remaining strongholds of bull kelp is here in Mendocino County in Northern California.
+
+**5:32** · We're kind of left in a situation where there is no natural predator in the sea right now. And so what I work on specifically is trying to find ways where human can temporarily mitigate and help fill that role until we're able to have some level of apex predator back in the system. (soft music continues) This is our coral reef. This is our great barrier reef for Californians.
+
+**5:53** · It's kelp forests.
+
+**5:54** · Kelp and the ecosystems they create are why we have any fish in the ocean. They create food, habitat and shelter for hundreds, if not thousands of organisms, including human.
+
+**6:08** · [Joe To understand the extent of the loss, scientists like Tristan have turned to aerial imagery and high resolution mapping, looking at kelp from both below the water and from above.
+
+**6:19** · So what you're looking at right there is the dark green patches, and this was just this past fall, and that's where, that's the only area where we saw kelp. And so what we're focused on now is looking at where kelp has been persistent and it's survived, so then we can really focus our kelp recovery efforts in a way that's meaningful, impactful, and then also leveraging persistent kelp refugia.
+
+**6:44** · [Joe] One of those recovery efforts involved roping in aquaculture researcher, Andrew Kim and his team to plant lab grown kelp in the waters of Northern California.
+
+**6:54** · [Andrew Kim] We've developed these methods for being able to grow kelps year round. Being able to put kelps out that are already ahead of the curve and giving them really just a headstart in the environment, I think is a big breakthrough because for an annual species, like the bull kelp, it extends the potential window for them to be reproductive and to put spores into the environment.
+
+**7:19** · [Joe] Bull kelp like this regenerates every year growing from a microscopic spore to a huge structure dozens of meters tall. (soft music) This kelp can grow up to 60 centimeters per day, making it one of the fastest growing organisms in the ocean. After three years of trial and error, Andrew and his team are seeing success with new ways of planting their lab grown kelp designed to protect young kelp from predators and harsh conditions.
+
+**7:47** · Kind of like you would plant a raised garden bed if you had animals like running through your garden, you could put your seaweed in, in a raised bed and keep it out of the hungry reaches of the urchins. About a month ago, we put out kelps that were about six to 10 inches, and we came back and we surveyed these modules, and in the last month, they've grown several feet and they're already attracting lots of fish.
+
+**8:13** · Every time we put kelp out, we're putting a piece of hope out. You know the hope that it'll create home for some little fish. It's a big ocean. We just need to keep working and chipping away. We're all in this together and we need to keep trying.
+
+**8:30** · (soft music continues) Back in the rich marine waters of Monterey, Sandrine is working hard to support otters as the cute, hungry predators fight to retake their place as the keystone species of this ecosystem.
+
+**8:44** · Do we have ears on 956 right now?
+
+**8:46** · We do, yep.
+
+**8:47** · This is her signal and she is somewhere nearby and based on this signal, she is resting.
+
+**8:52** · Do you think in your lifetime that otters in the kelp forest will be restored north of here?
+
+**9:00** · I hope so.
+
+**9:00** · The sea otters are trying really hard to expand their range, and we are doing everything we can to support conservation efforts to help them restore back to their range.
+
+**9:09** · It sounds like you take it day by day, otter by otter around here.
+
+**9:13** · Yes, very, very much so.
+
+**9:14** · 956, wherever you are, I hope that you're getting lots of good urchin snacks. (gentle music) The kelp forest reminds us of the wonder that's out there in nature, sometimes literally right beneath the surface. It's also precious and so fragile. We just have to take it one breath at a time. (gentle music continues)
+
+#### Is “Environmental DNA” the Future of Conservation  Wild Hope Explains
+
+**Nature on PBS**, *04 13, 2026*
+
+## Video (5:28)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/WG_ryk_0zM8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+What if you could discover every animal in an ecosystem…without ever seeing them? Environmental DNA (or eDNA) does exactly that. By collecting tiny samples of soil, water, or even air, researchers can identify dozens (or even hundreds) of species from the genetic traces they leave behind. 
+
+From tracking predators in Detroit to uncovering rare species in Ecuador’s rainforests, eDNA is helping conservationists make better decisions to protect biodiversity. Learn how it works, why it matters, and how this cutting-edge science is reshaping the future of conservation.
+
+
+Follow us: https://www.instagram.com/wildhopetv/ 
+
+Join our community: https://wildhope.tv
+
+Get our newsletter: http://eepurl.com/irGMng 
+
+Share this with a friend!
+
+## Transcript
+
+**0:00** · SPEAKER 1: To protect wildlife, conservationists need to first answer what might seem like a simple question.
+
+**0:06** · Which species actually live in the habitats they're trying to save?
+
+**0:11** · This question might be difficult to answer, especially in dense and complex habitats like rainforests or shifting landscapes around cities.
+
+**0:23** · Ecologists have a long list of methods at their disposal-- radio collars, camera traps, acoustic monitoring, and even good, old-fashioned direct observation.
+
+**0:34** · SPEAKER 2: See where it went down?
+
+**0:35** · SPEAKER 1: But the newest tool has the potential to be the most comprehensive yet.
+
+**0:40** · By collecting small samples of soil, water, or air, scientists can now create a genetic roster of every species that calls an environment home.
+
+**0:51** · It's a tool known as environmental DNA.
+
+**1:02** · Here in Detroit, environmental DNA, or eDNA, is revolutionizing our ability to survey wildlife.
+
+**1:10** · Dr. Nyeema Harris and Dr. Jane Hallam are tracking how predators, like coyotes, travel through the urban landscape and how their range overlaps with the other wildlife, with local pets, and with humans.
+
+**1:23** · Camera traps have been the go-to method for this type of research for decades, but now with eDNA, scientists can detect species without ever catching them on camera.
+
+**1:34** · Animal shed DNA constantly through scat or hair or skin cells.
+
+**1:40** · Samples from a single habitat might contain this so-called trace DNA from dozens or hundreds of wild species.
+
+**1:50** · NYEEMA C. HARRIS: We get that species list from the cameras because we see the images.
+
+**1:54** · When we're collecting the eDNA, we also then get a species list.
+
+**1:58** · So that means when we've collected the soil and we've done the molecular analysis, the DNA that we've detected has come from 24 different mammal species in the city of Detroit, and some of those species we don't actually see on the camera.
+
+**2:15** · SPEAKER 1: EDNA isn't new.
+
+**2:17** · It's been used to detect wildlife since the early 2000s, but the technology continues to advance.
+
+**2:23** · Today, scientists can identify species using much smaller fragments of DNA than ever before.
+
+**2:30** · Trace DNA collected in the field is replicated through a technique called Polymerase Chain Reaction, or PCR.
+
+**2:37** · It makes millions of identical copies of the genetic material, which can then be cross-checked against a DNA database of known species.
+
+**2:46** · Dr. JANE HALLAM: This is a bit like forensics.
+
+**2:47** · Environmental DNA tends to be quite broken up because it's been exposed to the elements, and it's been broken down by ultraviolet light from the sun.
+
+**2:56** · So that DNA isn't in great shape.
+
+**2:57** · It tends to be in quite small fragments, but that's enough for us to detect the species.
+
+**3:04** · SPEAKER 1: The size of those DNA fragments is key to why environmental DNA is such a powerful technique.
+
+**3:10** · For context, the genome of an animal like a coyote includes roughly 2.5 billion base pairs.
+
+**3:16** · But you don't need a complete genome to identify a sample source.
+
+**3:20** · Certain small DNA sequences are shared among all members of a species.
+
+**3:26** · They act like the barcodes you see at the store.
+
+**3:29** · And when fragments of eDNA from the wild are cross-checked against a database of existing barcodes, we can match the fragments to the species they came from.
+
+**3:39** · Early eDNA methods required a barcode 100 base pairs or longer in order to identify a species.
+
+**3:46** · But today, with new sequencing technology and better computing power, fragments as small as 30 base pairs are often enough for a successful species match.
+
+**3:59** · This has broadened the use of eDNA to some amazing extremes.
+
+**4:03** · Even ancient, degraded DNA from soil 2 million years old can reveal extinct species, like woolly mammoths.
+
+**4:13** · And in dense environments like the rainforests of Ecuador, where vegetation makes wildlife surveys difficult, eDNA has become an essential tool.
+
+**4:23** · Traditional genetic analysis can sample just one species at a time.
+
+**4:28** · Now, eDNA can sample hundreds at once.
+
+**4:33** · To the teams on the ground, eDNA is a low-cost, low-disturbance tool that detects species that are otherwise extremely difficult to find.
+
+**4:46** · From the rainforests of Ecuador to the streets of Detroit, results from eDNA are directly impacting environmental policy.
+
+**4:54** · Conservationists everywhere are embracing eDNA, the latest powerful tool at their disposal.
+
+**5:01** · Finally a way to reveal an entire ecosystem worth of life in a single scoop of dirt.
+
+#### Measuring biodiversity made easy  short version
+
+**DW News**, *03 12, 2014*
+
+## Video (3:24)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/4xcx-4z3TvE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+In the south of Brazil, scientists are developing a new monitoring programme, and are hoping to add the most important ingredient soon: ordinary people who will contribute with their own biodiversity observations.
+
+A film by Michael Wetzel
+
+More information: www.ideasforacoolerworld.org
+
+## Transcript
+
+**0:00** · [Music] [Music] think they say the trunk of this tree has a circumference of 86 cm it's the
+
+**0:20** · first tree the biologists from Brazil's nature conservation Authority are measuring marking the start of biodiversity monitoring in sadur there's scarcely any reliable data on the condition of this protected area how is the ecosystem developing what's been the influence of climate change until now biologist Nara stesy has only been able to
+
+**0:45** · speculate that's just what our monitoring program is meant to show what influences are tangible in this Forest we don't know yet we don't have the data but we believe there is an impact the German international cooperation agency the gis prepared the monitoring project Yan kleining and Marcio weara PR worked on it for 2 years now they're finally seeing the protected area with their own eyes it's 750 square kilm almost as big
+
+**1:19** · as Berlin it's impossible to measure and count everything here so scientists are concentrating on bioindicators species that also reveal information about other Forest inhabitants this instruction manual for a butterfly trap consists of pictograms so that later local people as well as experts can do some
+
+**1:44** · monitoring a mixture of bananas and sugar cane is used as bait for the butterflies and it [Music] works the next morning the contents of the Trap are evaluated on the way there an armadillo comes into
+
+**2:15** · view and a giant anteater a large number of butterflies have been caught in the scientist's net the next step is to identify them count them and then set them free
+
+**2:37** · again the monitoring won't provide results until later every 6 months data will be collected here only by comparing all the data will the results become evident the first field test is over Yan
+
+**2:53** · kleining says the project could now be extended to all of Brazil the IDE is this monitoring could be expanded to cover each protected area and the federal states that are interested would have the opportunity to use the information this is really a national issue a major project that's beginning here in the middle of the forests of
+
+**3:23** · sokina
+
+#### Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed
+
+**VICE News**, *06 03, 2021*
+
+## Video (4:59)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/1ybg6hd-TUA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+It might be time to cull the world’s largest invasive species: Pablo Escobar’s cocaine hippos. The rapidly reproducing 80 hippos have taken over Colombia’s waterways, poisoning wildlife with their toxic urine and feces, scientists say. But not everyone can agree on what to do with them.
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+
+Facebook: https://www.facebook.com/vicenews
+
+Twitter: https://twitter.com/vicenews
+
+Tumblr: http://vicenews.tumblr.com/
+
+Instagram: http://instagram.com/vicenews
+
+More videos from the VICE network: https://www.fb.com/vicevideo
+
+#VICENews #News
+
+## Transcript
+
+### Films
+
+#### Ocean With David Attenborough
+
+>*Duration: 01:01:01*
+>[***More details on hulu.com***](https://www.hulu.com/watch/1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7)
+
+<iframe width="560" height="315" title="Hulu Video" allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://www.hulu.com/watch/1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7></iframe>
+
+## Description
+
+The world’s leading natural historian draws on a lifetime of knowledge to reveal how Earth’s vast,  ,interconnected waterways can be restored.…SEE MORE
+
+#### Rebuilding The Herd Rewilding The Future
+
+>Episode 8/13/2026 of Conservation Works (Season 2026)
+>- *Released: 2026-08-13*
+>- *Duration: 00:27:27*
+
+[***More details on pbs.org***](https://www.pbs.org/video/rebuild-the-herd-rewilding-the-future-ohn9c9/)
+
+<iframe width="560" height="315" title=Rebuilding The Herd Rewilding The Future allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/rebuild-the-herd-rewilding-the-future-ohn9c9/?uid=62a74a65-f6a1-4a7c-8907-df1f2b1854e1&amp;userPassportStatus=no&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true\></iframe>
+
+## Description
+
+Explore Nebraska's bighorn sheep comeback, Zoo Schools' Earth Day event, the beauty of Scotts Bluff.
+
+## Transcript
+
+#### Some Animals Are More Equal than Others Keystone Species and Trophic Cascades
+
+**biointeractive**, *05 03, 2016*
+
+## Video (19:28)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/hRGg5it5FMI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+The short film opens with two questions: “So what determines how many species live in a given place? Or how many individuals of the species can live somewhere?” 
+
+The research that provided answers to these questions was set in motion by key experiments by ecologists Robert Paine and James Estes. Robert Paine’s starfish exclusion experiments on the coast of Washington state showed that removing starfish from this marine ecosystem has a big impact on the population sizes of other species, establishing the starfish as a keystone species. James Estes and colleague John Palmisano discovered that the kelp forest ecosystems of the North Pacific are regulated by the presence or absence of sea otters, which feed on sea urchins that consume kelp. These direct and indirect effects of sea otters on other species describe a trophic cascade. These early studies were the inspiration for hundreds of investigations on other keystone species and trophic cascades, as well as ongoing studies into the regulation of population sizes and species numbers.
+
+## Transcript
+
+**0:09** · [MUSIC PLAYING] SEAN CARROLL: From jungle to desert, from forest to PLANE from mountaintops to the seashore, the Earth is home to many habitats.
+
+**0:24** · And every habitat contains a community of plants and animals each community is populated by different species.
+
+**0:34** · And each species is present in different numbers.
+
+**0:39** · So what determines how many species live in a given place, or how large each population can grow?
+
+**0:50** · The answers to such basic questions about how nature works eluded biologists for a long time, until, on this rocky Pacific shore in 1963, young zoology professor Robert Paine pried a purple starfish off the rocks and threw it out into the bay.
+
+**1:07** · And so began one of the most important experiments in the history of ecology.
+
+**1:14** · [MUSIC PLAYING] So what brought Robert Paine to this rugged coast?
+
+**1:35** · And why was he hurling starfish?
+
+**1:40** · The answer takes us back a few years to a classroom at the University of Michigan.
+
+**1:45** · ROBERT PAINE: It was a lovely day.
+
+**1:46** · The old zoology building at Ann Arbor had a courtyard.
+
+**1:49** · And in that courtyard, there was a tree which was beginning to bud out.
+
+**1:55** · SEAN CARROLL: Professor Fred Smith asked his students a seemingly simple question.
+
+**2:00** · ROBERT PAINE: And he said, class, I want you to think about this.
+
+**2:04** · Why is that tree green?
+
+**2:07** · And someone said-- SPEAKER: Chlorophyll.
+
+**2:10** · ROBERT PAINE: Fred said, what keeps the leaves there?
+
+**2:14** · SEAN CARROLL: Although technically, chlorophyll is what makes trees green, Fred Smith was asking a bigger question.
+
+**2:22** · He was thinking about food chains.
+
+**2:25** · ROBERT PAINE: You obviously had producers.
+
+**2:28** · They are the energy suppliers to whatever lives off of them.
+
+**2:33** · You have consumers on top of that.
+
+**2:35** · And we know the herbivores.
+
+**2:38** · SEAN CARROLL: The popular idea at the time was that the number of producers limits the number of herbivores.
+
+**2:44** · In turn, the number of herbivores limits the number of predators that feed on them.
+
+**2:49** · Every level was regulated by the amount of food from the bottom of the food chain going up.
+
+**2:55** · But this view didn't explain why herbivore populations don't simply grow to the point where they eat all of the leaves on the tree.
+
+**3:04** · Professor Smith had discussed this conundrum with two colleagues, Nelson Hairston and Lawrence Slobodkin They proposed a new idea.
+
+**3:13** · The number of herbivores must be controlled not only from the bottom up, but also from the top down.
+
+**3:21** · ROBERT PAINE: The herbivores had the capacity of destroying the plant community.
+
+**3:25** · Trees could be defoliated.
+
+**3:27** · And why weren't they defoliated?
+
+**3:29** · And the answer was because there weren't enough insects around to do that.
+
+**3:33** · And that was the role of predators.
+
+**3:36** · SEAN CARROLL: The world is green because predators keep herbivores in check.
+
+**3:41** · This was a radical concept that became known as the green world hypothesis.
+
+**3:47** · Up until that time, no one thought predators had any role in regulating ecosystems.
+
+**3:53** · ROBERT PAINE: This class was the first public vetting of the green world hypothesis.
+
+**3:58** · SEAN CARROLL: And one of Smith's students, Robert Paine, would be the one to put this idea to the test.
+
+**4:09** · A few years later, as a new professor at the University of Washington, Paine went looking for a system where he could study the role of predators.
+
+**4:21** · ROBERT PAINE: I discovered the Pacific Ocean and this magnificent array of organisms which lives along its margins.
+
+**4:30** · There it was, spread out in front of me.
+
+**4:32** · It was nirvana.
+
+**4:36** · SEAN CARROLL: He began by identifying all the organisms.
+
+**4:40** · And then he started mapping out who eats whom.
+
+**4:43** · ROBERT PAINE: There were carnivorous gastropods feeding on barnacles.
+
+**4:47** · There were sea urchins feeding on algae.
+
+**4:51** · There was a lot of pattern.
+
+**4:54** · SEAN CARROLL: His observation showed that a species of large purple and orange starfish called pisaster ochraceus was at the top of the food chain.
+
+**5:08** · Starfish may seem like unlikely predators, but speed time up a bit, and you'll see deadly hunters.
+
+**5:18** · ROBERT PAINE: If a starfish is feeding, you turn it over and you see what the starfish is eating.
+
+**5:22** · They're eating mussels.
+
+**5:23** · They're eating a lot of other things as well, but they're eating mussels.
+
+**5:28** · SEAN CARROLL: So Paine asked, what happens when you remove the predator starfish from a single outcrop?
+
+**5:38** · ROBERT PAINE: You have to surprise them.
+
+**5:39** · Because a starfish clamps down.
+
+**5:43** · It takes a strong wrist and a pry bar.
+
+**5:46** · I would then scale them as far as I could.
+
+**5:49** · And in those days I could throw a starfish 60 or 70 feet out to deeper water.
+
+**5:56** · There were always starfish marching in.
+
+**5:57** · So during the summer months, I would drive the 350-mile round trip, hit the area at low tide, do my removal, take other data, and then return to Seattle.
+
+**6:10** · SEAN CARROLL: The ecosystem started to change rapidly.
+
+**6:13** · ROBERT PAINE: Within a year and a half, I knew that I had ecological gold.
+
+**6:18** · SEAN CARROLL: Although the top predator had been removed, surprisingly, the number of species in the rock actually decreased from 15 to eight.
+
+**6:29** · ROBERT PAINE: After three years, I think it went down to seven.
+
+**6:32** · But then by seven years, it simplified itself.
+
+**6:37** · It was basically a monoculture.
+
+**6:41** · I had changed the nature of the system.
+
+**6:45** · SEAN CARROLL: As the experiment continued, the line of mussels advanced down the rock face, monopolizing almost all of the available space and pushing all other species out.
+
+**6:57** · Paine had discovered that one predator could regulate the composition of an entire community.
+
+**7:06** · He coined a term to describe the power a single species can exert on an ecosystem.
+
+**7:13** · ROBERT PAINE: I know very little about architecture.
+
+**7:16** · If you build an arch, you have to get the two sides of it to put pressure against one other.
+
+**7:22** · And therefore, at the apex of the arch, you have a keystone.
+
+**7:27** · You pull the keystone out, and the structure collapses.
+
+**7:38** · SEAN CARROLL: Many predators, like pisaster starfish, turn out to be keystone species.
+
+**7:44** · ROBERT PAINE: These keystone species have a huge impact, which extends well beyond to the species they primarily prey on.
+
+**7:54** · SEAN CARROLL: Most species do not have large impacts.
+
+**7:57** · In other experiments, Paine had removed various species.
+
+**8:01** · But that had little or no effect on the ecosystem as a whole.
+
+**8:05** · ROBERT PAINE: All animals are equal, but some animals are more equal than others.
+
+**8:10** · And that expresses the fact that all species don't have the same impact on the system they're in.
+
+**8:18** · It takes experiments to tease that out.
+
+**8:20** · And that's often not easily done.
+
+**8:24** · SEAN CARROLL: Paine's pioneering experiments and the concept of keystone species sent ripples through the field of ecology and turned thinking about the regulation of communities upside down.
+
+**8:36** · ROBERT PAINE: Remove the predator, the system simplifies itself.
+
+**8:40** · This is an ecological concept which is general and global.
+
+**8:45** · SEAN CARROLL: As Paine continued his studies a little further from shore, he noticed another striking pattern.
+
+**8:52** · ROBERT PAINE: There were a lot of tide pools.
+
+**8:54** · And some of the tide pools were dominated by urchins.
+
+**8:57** · Some weren't.
+
+**8:59** · SEAN CARROLL: In the tide pools with lots of urchins, there was much less kelp.
+
+**9:03** · Paine suspected the urchins were keeping the kelp from growing.
+
+**9:07** · ROBERT PAINE: And I said to myself, that's my next round of experiments.
+
+**9:12** · SEAN CARROLL: Paine removed all the urchins by hand from some pools, and left nearby pools untouched.
+
+**9:19** · Again, the results were dramatic.
+
+**9:22** · In the pools where he removed urchins, the kelp started growing almost immediately.
+
+**9:30** · ROBERT PAINE: Urchins control the kelp.
+
+**9:32** · Therefore, this is a total violation of the green world hypothesis.
+
+**9:37** · SEAN CARROLL: The urchins in Paine's pools were eating all of the kelp.
+
+**9:41** · So why was nothing regulating the urchin populations?
+
+**9:46** · The answer would come from a fortuitous meeting on a remote island in Alaska's Aleutian Island chain.
+
+**9:54** · There, Paine would cross paths with another scientist.
+
+**9:59** · In 1971, James Estes was an ambitious young graduate student.
+
+**10:04** · JAMES ESTES: At the time that Bob and I met, I was just beginning to try to think my way through what it was I was going to do.
+
+**10:11** · ROBERT PAINE: We met in a bar after a movie.
+
+**10:13** · I was just in sea urchins.
+
+**10:14** · And Jim, I think, was doing a study on sea otter physiology.
+
+**10:24** · JAMES ESTES: I was explaining to him what it was that I was thinking of trying to do, which was somehow understand how an ecosystem like the one in Amchitka Island could support such a high abundance of predators and do that through an understanding of production and efficiency of energy and material flow upward through the food web.
+
+**10:46** · And Bob's explicit or implicit reaction to that was, that's just not very interesting, and, have you ever thought about what these animals might be doing to the system?
+
+**10:59** · SEAN CARROLL: Paine realized if Estes focused on what sea otters were doing from the top down rather than the kelp from the bottom up, he might discover the role otters play in the organization of nature.
+
+**11:13** · JAMES ESTES: And so I thought, why not?
+
+**11:15** · Let's go out and have a look.
+
+**11:16** · SEAN CARROLL: Paine was suggesting an approach similar to his starfish throwing experiment-- remove otters from the ecosystem and test the impact that had on other species.
+
+**11:27** · JAMES ESTES: But I don't think, at that time, that Bob had any perception of how that might be done.
+
+**11:32** · But I did, because I knew quite a bit about the history of the otter.
+
+**11:37** · They were abundant across the North Pacific.
+
+**11:39** · And then the Pacific Maritime fur trade began in 1741.
+
+**11:44** · And over the subsequent 150 years, otters were hunted to the brink of extinction.
+
+**11:51** · In 1911 or 1912, fur take was prohibited.
+
+**11:56** · And a few of those colony survived and served as a seed for the recovery of the species.
+
+**12:03** · SEAN CARROLL: But the sea otter recovery was spotty.
+
+**12:06** · JAMES ESTES: They had completely recovered from the fur trade at a number of island systems across the Aleutian archipelago, of which Amchitka is a part.
+
+**12:15** · There were other island systems where they had not yet recovered.
+
+**12:22** · SEAN CARROLL: The experiment was simple-- compare ecosystems with otters to those without.
+
+**12:28** · He began with his home island of Amchitka.
+
+**12:32** · JAMES ESTES: I knew a lot about what Amchitka looked like.
+
+**12:34** · I knew that sea urchins were common, but very small.
+
+**12:39** · SEAN CARROLL: The next step was to arrange for a dive at nearby Shemya Island, a location with no otters.
+
+**12:47** · JAMES ESTES: The most dramatic moment of learning in my life happened in less than a second.
+
+**12:54** · And that was sticking my head in the water at Shemya Island.
+
+**13:00** · It was just green with urchins and no kelp.
+
+**13:03** · And it all sort of fell into place in just an instant, that the loss of otters from that system had completely reorganized that system from which kelps had probably been very abundant before the loss of otters to one in which the sea urchins now had become abundant in the absence of the otters and had eaten all the kelps.
+
+**13:25** · SEAN CARROLL: It was a striking demonstration of the green world hypothesis.
+
+**13:30** · Sea otters, the predators, were controlling the urchins that fed on the kelp.
+
+**13:35** · Remove the sea otters, and the kelp forests disappear.
+
+**13:39** · Paine called these cascading effects of one species downward upon others trophic cascades.
+
+**13:47** · ROBERT PAINE: Trophic cascade is when you have an apex predator controlling the distribution of resources, and they lead to these cascades of indirect effects-- lots and lots of indirect effects.
+
+**14:00** · You have fewer sea otters.
+
+**14:01** · You have more sea urchins.
+
+**14:03** · You have fewer kelp.
+
+**14:06** · JAMES ESTES: I expect every coastal species is probably impacted in one way or another by the presence or absence of kelp.
+
+**14:14** · Kelp forest fishes depend a lot on kelp.
+
+**14:16** · There are birds that feed in the kelp forests.
+
+**14:18** · There are invertebrates that feed in the kelp forest.
+
+**14:21** · Virtually everything that lives in the coastal zone depends upon that system in some way.
+
+**14:28** · SEAN CARROLL: So sea otters are another keystone species.
+
+**14:32** · They regulate the structure of this coastal marine community.
+
+**14:37** · ROBERT PAINE: The results are unambiguous.
+
+**14:38** · Sea otters drive the system from the top down.
+
+**14:43** · So the message is clear, and it's been enormously important in how ecologists tend to view the world.
+
+**14:49** · SEAN CARROLL: Estes returned regularly to Alaska to study otters.
+
+**14:53** · Some 20 years later, he noticed something strange was happening.
+
+**14:58** · JAMES ESTES: We were capturing otters, having a devil of a time catching enough.
+
+**15:02** · And that was peculiar, because I'd never had trouble catching otters.
+
+**15:06** · SEAN CARROLL: Otter populations seemed to be declining.
+
+**15:09** · He tried to think of every possible explanation.
+
+**15:13** · JAMES ESTES: And we essentially lined up all of the hypotheses that we could think of that could be causing this population decline.
+
+**15:20** · SEAN CARROLL: He ruled out starvation.
+
+**15:22** · He ruled out disease.
+
+**15:24** · And then a third hypothesis emerged.
+
+**15:27** · JAMES ESTES: Tim Tinker, who is a technician, called me one day in the winter and said, you know, I'm starting to wonder if it might be killer whales.
+
+**15:33** · And I said, you're crazy.
+
+**15:34** · I mean, this just couldn't happen.
+
+**15:35** · They don't eat otters.
+
+**15:36** · He said, yes, they do.
+
+**15:37** · I've seen them eat a couple.
+
+**15:39** · SEAN CARROLL: But how could he test it?
+
+**15:41** · Once again, nature provided an ideal site.
+
+**15:45** · JAMES ESTES: We went into a place called Clam Lagoon.
+
+**15:47** · It provided us a site that orcas could not get to.
+
+**15:51** · We had no problem catching about 30 animals in two or three days.
+
+**15:56** · And the fact that that little population did not decline when everything else did the orcas had access to helped me become convinced that it was a viable hypothesis.
+
+**16:10** · SEAN CARROLL: Why were the orcas now eating otters?
+
+**16:13** · Orcas generally eat whales, not otters.
+
+**16:16** · JAMES ESTES: There were a lot of whales around after World War II.
+
+**16:20** · After World War II, the Japanese and the Russians started reducing those whales.
+
+**16:24** · And by the late 1960s, they had been depleted by 90%.
+
+**16:29** · And the full stripping of all these big whales out of the system shocked these killer whales and forced them to broaden their diet and start feeding on these other species.
+
+**16:40** · What had happened is that we had taken this three-level trophic cascade, and the orcas had added a fourth trophic level, and it made that system behave just like the theory predicted.
+
+**16:53** · SEAN CARROLL: With the orcas eating otters, urchin populations increased, and kelp disappeared.
+
+**17:02** · JAMES ESTES: To me, the amazing part of that was the notion that something like whaling, that started in the middle of the 20th century way out in the oceanic realm of the North Pacific, could affect something like urchins and kelp and the coastal ecosystem.
+
+**17:18** · It was mind-boggling to even conceive of something.
+
+**17:20** · It was almost like science fiction.
+
+**17:23** · SEAN CARROLL: To Robert Paine, this was a satisfying confirmation.
+
+**17:27** · ROBERT PAINE: And it provided an example of how the concept of a trophic cascade functions in nature.
+
+**17:34** · And it's Jim's work in the Aleutians which in fact solved the case.
+
+**17:43** · SEAN CARROLL: As ecologists explored other habitats with new eyes, they discovered keystone species and trophic cascades in many places.
+
+**17:53** · And just as with otters, the removal of predators such as wolves, sharks, and lions has had profound effects on the number and variety of other species and on ecosystems as a whole.
+
+**18:08** · These fundamental insights have changed the way we look at the world, and they've given ecologists and conservationists a new set of tools.
+
+**18:17** · JAMES ESTES: It has turned us from a fundamental view of nature that was bottom-up.
+
+**18:23** · More than any other single ecologist, he was the one that transitioned our thinking to the importance of top-down forcing.
+
+**18:32** · ROBERT PAINE: Oh, thank you.
+
+**18:34** · JAMES ESTES: No, it's the truth.
+
+**18:37** · SEAN CARROLL: But from Paine's vantage point, humans still have much to learn.
+
+**18:41** · ROBERT PAINE: To ignore the fact that there are top down effects is to invite mistakes.
+
+**18:47** · One ignores at one's own risk what role apex predators play.
+
+**18:53** · [HOWLING]
+
+#### Vanishing Act
+
+>Episode 6 of Human Footprint (Season 2)
+>- *Released: 2025-07-30*
+>- *Duration: 00:55:39*
+
+[***More details on pbs.org***](https://www.pbs.org/video/vanishing-act-4bp9fu/)
+
+<iframe width="560" height="315" title=Human Footprint  Vanishing Act  Season 2 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/vanishing-act-4bp9fu/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+## Description
+
+Shane meets species on the brink of oblivion, and the people who won’t let them slip away.
+
+## Transcript
+
+
+("Ready or Not" by Fugees plays) (Shane) The story of our planet is a tale of equal and opposite forces: Life... (female singer) Ready or not, here I come (Shane) ...and death.
+
+We've never known one without the other.
+
+(female singer) And take it slowly Ready or not (Shane) From the first primordial cell, to the loftiest tree, to beasts we've never known, each species walks its own path... ...but they all end in the same place.
+
+(female singer) Ready or not (Shane) Extinction is Mother Nature's way of pruning the Tree of Life.
+
+(female singer) Ready or not (Shane) And she is a tireless arborist.
+
+Ninety-nine percent of all the species that ever existed no longer do.
+
+(female singer) I play my enemies like a game of chess (thunder, explosions) (Shane) Of Earth's eight million living species, one has become a force of nature in its own right.
+
+And, ironically, we humans-- the only species that can fathom extinction-- are driving it faster than any other species in our planet's history.
+
+What fate awaits the Tree of Life in the Age of Humans?
+
+And can we change course before putting our future in peril?
+
+Welcome to the age of humans, where one species can change everything, and what we do reveals who we truly are.
+
+This is Human Footprint.
+
+(serene music) For most of our history, the world was a pretty scary place.
+
+Colossal predators hunted massive herbivores.
+
+And we were definitely on the menu.
+
+(roaring) Today, there aren't many places where the land still pulses with the ancient rhythms of giants.
+
+(animals grunting) Where you're grateful for the safety of a safari vehicle.
+
+People travel thousands of miles to experience Africa's megafauna, yet these iconic animals are dwarfed by the titans that roamed North America in the not-so-distant past.
+
+("To Live & Die in L.A." by Tupac Shakur plays) (engine revving) The sprawl of L.A. feels a world apart from the Serengeti... (Tupac) It never rains in Southern To live and die in L.A. (Shane) But if you want to meet the giants that once ruled this continent, this is the place to do it.
+
+(chorus) To live and die in L.A. (vocalizing) (Emily) This is my favorite critter here.
+
+This is a giant ground sloth.
+
+(Shane) Yeah, what makes this your favorite?
+
+(Emily) It's a sloth and it was giant.
+
+(laughter) (Shane) Need you say more?
+
+(bicycle bell rings) Meet paleontologist Emily Lindsey.
+
+Her commute through L.A.'s urban jungle helps her connect with the present... (relaxing music) ...but when she gets to the La Brea Tar Pits, her thoughts turn to the ancient world.
+
+(Emily) This is called a short-faced bear.
+
+(Shane) The idea that there was an animal this large is deeply disturbing to me.
+
+How much bigger is this than, like, a polar bear?
+
+(Emily) A lot.
+
+(laughter) (Shane) Today, La Brea is almost as iconic as Disneyland or Hollywood, drawing visitors from around the world.
+
+But at the start of the 20th century, people flocked here for another reason.
+
+(Emily) The L.A. basin is the richest oil basin of its size in the world.
+
+In the early 20th century, we were producing about a quarter of the world's oil.
+
+(Shane) In those days, Rancho La Brea was a rich source of the densest form of crude oil: asphalt.
+
+(Emily) They were digging it up and shipping it up to San Francisco, where it was being used to pave the roads.
+
+(Shane) In some places, finding asphalt didn't even require digging.
+
+(Emily) And because the other thing we have a lot of in L.A. is earthquakes, there are places where these fissures occur in the ground.
+
+(Shane) Here, the asphalt seeps up to the surface in shallow, sticky pools.
+
+Before long, miners noticed bones-- a lot of them.
+
+They assumed the bones belonged to cattle from the ranch they were digging on until a traveling geologist took a closer look.
+
+(Emily) And he was like, "That's not a cow bone."
+
+It was the saber of the saber-toothed cat.
+
+Exactly what part of the cow do you think this came from?
+
+(laughing) (Emily) Over time, plants, animals, big, small, get stuck in there.
+
+(Shane) At La Brea, the miners had stumbled onto the world's largest deposit of Pleistocene fossils-- an entire ecosystem sealed in an asphalt time capsule.
+
+Soon, a new kind of excavation was underway.
+
+(Emily) In about two and a half years, they collected about a million fossils.
+
+Whoa.
+
+(rhythmic music) Is, like, this density, like, normal for the pits?
+
+(Emily) Yeah, it's just bone on bone, on bone, on bone, on bone.
+
+It makes them really challenging to excavate.
+
+So, imagine playing, pick-up sticks.
+
+But every stick is, like, a different size and shape and also fragile and also priceless.
+
+And then, somebody has dumped a bunch of cement on top of it.
+
+(Shane) In the last century, scientists have excavated over five million fossils here, representing 40,000 years of ecological history.
+
+(Emily) This is our dire wolf wall.
+
+So, there's 400 skulls of dire wolves on this wall.
+
+That represents maybe 10% of the dire wolves that we've discovered so far at the tar pits.
+
+(serene music) (Shane) Thousands of apex predators died in the pits, along with the massive herbivores they hunted.
+
+Then, suddenly, mysteriously... the megafauna stopped getting stuck.
+
+(Emily) Through intensive radiocarbon dating, we were able to figure out exactly when they stopped getting stuck, which is a proxy for when they stopped being on the landscape.
+
+So, these are the very last animals of their kind that we know of at La Brea, and in many cases, in all of North America.
+
+This is the last dire wolf.
+
+(Shane) Like, the last.
+
+The last one that we know of.
+
+(Shane) Wow.
+
+(Emily) 13,000 years ago.
+
+The last saber-toothed cat that we know of, 13,000 years ago.
+
+This is a piece of the last American lion.
+
+-13,000 years ago?
+
+-Yeah.
+
+13,000 years ago was a bad year.
+
+So, what happened 13,000 years ago?
+
+Gosh.
+
+(Emily) So, this is a Columbian mammoth and these are one of the species here that we know overlapped with and interacted with the first humans in the Americas.
+
+We find a lot of mammoth kill sites.
+
+(Shane) It takes a brave person to point to one of these things and say, "You hungry?"
+
+(Emily) Yeah.
+
+(laughter) (Shane) Humans are brave.
+
+We're also smart, social, and skilled at making and using tools, which is why, in the late 1960s, paleontologist Paul Martin proposed an idea to explain these extinctions: the "overkill hypothesis."
+
+(dramatic drumming music) (Emily) We know that humans are perfectly capable of hunting species to extinction.
+
+(Shane) Before the overkill hypothesis, experts attributed the loss of North American megafauna to the end of the last Ice Age.
+
+But Martin questioned how these animals had survived so many previous warming periods, only to vanish when humans arrived.
+
+Overkill had an intuitive appeal amidst the growing environmental movement.
+
+It was easy to envision us hunting species to extinction.
+
+(Emily) One of the counterarguments is, well, you know, these small bands of hunter gatherers couldn't possibly have, like, driven all the mammoths to extinction.
+
+(Shane) Megafauna kill sites do exist, but they're rare.
+
+And it's not just species that ancient humans hunted that vanished, lots of other plants and animals disappeared in the same timeframe.
+
+So, what really happened?
+
+(Emily) The problem is that when you have two things happening at pretty much exactly the same time, you need a really high-resolution understanding.
+
+(Shane) La Brea provides that high-def view of a long-gone ecosystem.
+
+Emily and her team used radiocarbon dating to determine the precise timing of each species' disappearance, then compared those dates with data gathered from lake-bottom sediment cores, which record climate and vegetation before and after the megafauna disappear.
+
+(Emily) For about the 2,000 years leading up to that, we were going through some pretty substantial climate change.
+
+(Shane) As the Ice Age ended and the ice sheets receded, the climate got warmer and drier.
+
+(Emily) We have multiple mega-droughts that last decades at a time.
+
+We see half of the tree species start to die off.
+
+So, the landscape is becoming more open and drier.
+
+Megafauna populations are decreasing, and then, about 13,200 years ago, something really remarkable happens.
+
+Everything catches on fire.
+
+(flames hissing) (Shane) How do they know this?
+
+Because fire leaves behind charcoal.
+
+So, the amount of charcoal in any layer of a sediment core is a good indication of how much fire was happening.
+
+(Emily) The first 20,000 years of that core record, there's, like, essentially no evidence of fire.
+
+There's very, very little charcoal in that record.
+
+(Shane) But over time, more and more charcoal appears in the cores.
+
+(Emily) And then we see an order of magnitude increase in the charcoal, right around 13,200 years ago.
+
+(flames hissing) (Shane) For 400 years, fires engulfed California again and again, burning its forests into charcoal we would discover 13,000 years later.
+
+(Emily) And when we come out of it, we are in a completely new ecosystem.
+
+The large mammals are gone.
+
+This is when we see the modern flora of coastal Southern California, the chaparral, which is an assemblage of fire-adapted species.
+
+And humans are common on the landscape.
+
+(Shane) So, what caused the fires?
+
+(Emily) We don't really get lightning here.
+
+We don't really have naturally occurring fire, and in fact, 97% of wildfires in Southern California today are caused by humans.
+
+The most powerful tool that humans have ever invented is fire.
+
+We use it to cook our food, we use it to keep warm, to have light in the dark.
+
+So, humans are spreading in an ecosystem that is really prone to fire.
+
+It's ready to go, but there isn't an ignition source until humans bring it into the ecosystem.
+
+That is a plot twist I was not expecting.
+
+It's really shown me the degree to which humans can have really large-scale impacts on ecosystems, unanticipated impacts, especially when combined with climate change.
+
+(flames hissing) (Shane) That combination sounds uncomfortably familiar today.
+
+(haunting music) (Emily) Extinctions didn't stop happening at the end of the Pleistocene.
+
+Scientists usually define a mass extinction as 75% or more of all species going extinct.
+
+Okay.
+
+(Emily) And there have been five of these so far.
+
+And the most recent one was 66 million years ago.
+
+There's a lot of discussion about whether the biodiversity crisis that we're experiencing today will result in the sixth mass extinction.
+
+(Shane) If it does, it'll be the first mass extinction caused by a single species.
+
+In the past 200 years, we've pushed more than 900 species over the brink--a rate up to a thousand times faster than the natural pace of extinction.
+
+Nearly 50,000 other species are considered threatened by the IUCN.
+
+And few animals are at greater risk today than the megafauna that survived the end of the Pleistocene.
+
+(birds chirping) The story of one of those species starts where you'd least expect.
+
+(serene music) With more than 650 species-- many rare or endangered-- the San Diego Zoo offers a window into our planet's living diversity.
+
+But behind the public exhibits, there's another zoo with specimens found nowhere else.
+
+(Marlys) So, these are our cryo tanks, this is where we keep the samples, living dividing cells from all of the 11,000 individuals and 1,300 species and subspecies, all in primarily three tanks.
+
+("Got 'Til It's Gone" by Janet Jackson, Q-Tip, and Joni plays) (Shane) If the Frozen Zoo had a zookeeper, it would be Marlys Houck.
+
+Her bespoke beaded wine glass charms keep her guests from mixing up their drinks.
+
+(female singer) Don't it always seem to go (Shane) And that attention to detail pays off at work, too.
+
+(Marlys) So, in there is the liquid nitrogen.
+
+Each one of these vials contains about one to three million living cells.
+
+(Shane) Oh, wow.
+
+Today, the Frozen Zoo is the largest, most diverse, and longest-running cryobank in the world.
+
+But when it started in the 1970s, its ambitions felt like science fiction.
+
+(Marlys) It was started by Dr. Kurt Benirschke in 1975.
+
+He had the idea that because we had this new technology where you could grow cells from skin biopsies that we should do this and bank them because we don't really know how technology will evolve in the future and what those cells could be used for.
+
+(Shane) The samples here aren't just on ice.
+
+While many of the animals they came from are dead, the cells stored here are very alive.
+
+(Marlys) If you just take a skin biopsy and throw it in the freezer, it will form ice crystals.
+
+And the ice will pierce the cell membrane, destroy the cell, it will no longer be living.
+
+So, we have to go through this process of adding a cryoprotectant.
+
+It's kind of like an antifreeze... and then they have to be frozen at -196 Â°C in liquid nitrogen.
+
+And they're just resting there without aging.
+
+And then, when we pull them back out, they start growing and dividing again.
+
+That's incredible.
+
+Marlys joined the Frozen Zoo because of her concern for one species in particular.
+
+(Marlys) When I came, there were probably 60 northern white rhinos.
+
+I never would have thought when I first came that I would be watching the extinction of one of the animals I was working with.
+
+(Shane) But that's exactly what happened.
+
+So, this box is really special.
+
+Maybe you can read what species?
+
+(Shane) Northern white rhino.
+
+(Marlys) Right, and these are not just any northern white rhino, they are Sudan, the last male of the species.
+
+(downbeat music) Put that on... and then you can just go like that.
+
+You are holding living cells of Sudan, the last male northern white rhino of the species.
+
+What does that feel like?
+
+Really intense, actually.
+
+Wow.
+
+(sighs) -Thank you.
+
+-Yeah.
+
+(Shane) His cells may still be alive, but Sudan, the rhino, died on the other side of the globe, with the whole world watching.
+
+(Zach) I've been looking after these northern white rhinos for 16 years now.
+
+I consider these rhinos as my second part of my family.
+
+("Guess Who's Back" by Rakim plays) (male singer) Yeah (male singer 2) Once again, back is the incredible (male singer) It's the return of the... (Shane) Meet Zach Mutai.
+
+(male singer) Smashin' hits, make it hard He started here as a fence builder, but soon became a ranger, and eventually, a caregiver to the last northern white rhinos.
+
+(male singer 2) Incredible, the incredible (Shane) The day Sudan died, Zach was by his side.
+
+(Zach) I spent, like, nine years taking care of Sudan until he passed away on 19th of March day of 2018.
+
+(camera snaps) (melancholic music) (Shane sighs) That must have been a really intense experience.
+
+Yeah...it was such a difficult day.
+
+It was really sad.
+
+Losing a rhino to me is more like losing one of my family members, and it was really such sad news by losing the last male of its kind.
+
+It really shook the whole world.
+
+(news anchor) The world's last surviving male northern white rhino has died.
+
+(dramatic music) (Shane) Ol Pejeta is one of the world's most important wildlife conservancies.
+
+Yet even here, under constant surveillance, rhinos aren't always safe.
+
+(clicking sound) At the turn of the 20th century, half a million rhinos roamed Africa and Asia.
+
+But wars, habitat loss, and most of all, poaching for their horns caused catastrophic declines.
+
+Driven by false beliefs of rhino horn's healing powers and its luxury status, illegal markets have fueled a deadly trade.
+
+Today, only 5% of rhinos that existed a century ago remain.
+
+The last wild northern white rhinos were killed in the early 2000s.
+
+In a desperate attempt to keep the species alive, conservationists transported the final captive individuals from a zoo in the Czech Republic to create a breeding program here.
+
+Among them were Sudan and two females.
+
+(Zach) So, this is Najin, uh, the mama, and her daughter Fatu is the other one.
+
+And this is their friend, a southern white rhino.
+
+-Okay.
+
+-Yeah.
+
+She's a good friend and a trainer for them because these two, they were raised in captivity and they never know how to do all natural things like grazing, socializing, and all other natural activities.
+
+Hi, good girl.
+
+I know.
+
+Have you ever feel and touch a rhino?
+
+(Shane) No.
+
+(Zach) You can just come closer to me, you can just feel.
+
+(serene music) Kind of here, just.
+
+It's quite soft behind the ears but the rest part of the body is quite rough and thick skin.
+
+(Shane) Yeah.
+
+(Zach) Fatu, no.
+
+I think I just fell in love.
+
+(Zach) Fatu, good girl, Fatu.
+
+(Shane) This is one of the most incredible experiences.
+
+(Zach) Could you imagine that you are watching the last two of their kind?
+
+(Shane) Yeah, that's... (Zach) And they are being killed only for the two horns and nothing else.
+
+(Shane) Yeah.
+
+(Zach) We have got only the last two in the whole entire planet.
+
+If anything happens and they are gone, there will be no more northern white rhinos species.
+
+I've come to realize that extinction is something real, and we have just learned that we are the most dangerous creatures on this planet, yeah.
+
+(rhino grunts) Man, this... this is intense.
+
+And... you can't help but look at these... just big, beautiful animals and just... like, what... what do we do?
+
+How did we get here?
+
+We are a hell of a conundrum as a species.
+
+One hell of a conundrum.
+
+Just like, we've had so many opportunities to correct our actions, like-- (rhino farting repeatedly) (farting continues unabated) Wow.
+
+That's impressive.
+
+(soulful music) Even if there were a male of their kind, Najin and Fatu aren't healthy enough to have babies.
+
+But that's not stopping scientists from trying this species alive.
+
+(Dr. Florence) Every experience I have is so surreal.
+
+It's so amazing to be working with such big animals.
+
+So, you basically have the coolest job in the world.
+
+(Dr. Florence) Mm-hmm.
+
+(laughter) (Shane) As one of Ol Pejeta's resident veterinarians, Dr. Florence Kang'ethe has a big job.
+
+From health check-ups with the conservancy's anti-poaching dogs, to wound care with a blind and very grumpy black rhino, her to-do list is long.
+
+At the top of it is saving the northern white rhino.
+
+("If I Ruled the World" by Nas playing) (Dr. Florence) Today, I had to be here early to do stimulations.
+
+So, that involves me injecting a hormone.
+
+(Shane) Dr. Florence is part of a groundbreaking initiative that aims to bring baby northern white rhinos back into the world.
+
+Using cryo-preserved sperm from deceased males, researchers fertilize eggs collected from the last females to create embryos, which they can implant into surrogate females of the closely related southern white rhino.
+
+(Dr. Florence) It's sad that we have come to that point where we have to do such efforts, but we're quite hopeful that soon we shall be talking about a northern white rhino baby running around, yeah.
+
+(Shane) If, for whatever reason, the northern white rhino were to go extinct without a baby coming to be, what will we have lost?
+
+We would have lost the chance to redeem ourselves.
+
+(soulful vocalizing) (Shane) The people fighting to save these rhinos embody humanity's compassion for wild species, yet this species' story also reveals our capacity and willingness to destroy them.
+
+And while losing a rare species like the northern white rhino is a tragedy... ...losing an abundant species can unravel the fabric of an ecosystem.
+
+(percussive hip-hop music) (Sara) You always like it when you can't get your arms all the way around it, right?
+
+(assistant) I know, that's a good sign.
+
+(Sara) Beautiful.
+
+(Shane) This is Sara Fern Fitzsimmons.
+
+Her love of spreadsheets-- used for everything from planning family weekends to tracking her hikes-- is matched only by her passion for a tree whose ghost still haunts Eastern forests.
+
+(Sara) The American Chestnut Foundation is a nonprofit organization dedicated to restoring the American chestnut back to its original range.
+
+(serene music) (Shane) American chestnuts once numbered in the billions.
+
+They sustained wildlife-- from deer to turkey, and black bears to passenger pigeons-- and they were the foundation for an entire subsistence culture in Appalachia (Sara) So, I grew up in southern West Virginia, and they called it a cradle-to-grave species because it could be used for cribs, coffins, and everything in between.
+
+(Shane) But the American chestnut can't do any of those things anymore.
+
+The chestnut blight put an end to all that.
+
+(Sara) The chestnut blight is a fungus.
+
+Um, and it was brought over in the 1800s.
+
+(Shane) The blight hitchhiked here on another chestnut species imported from Asia for landscaping.
+
+And exactly what does the blight do to the tree?
+
+(ripping sound) (Sara) The cambium tissue of a tree is its living layer; a fungal spore can get in, germinate in that tissue.
+
+It completely strangles the tree by eating the tissue around it.
+
+It's pretty gruesome, actually.
+
+(Shane) It sounds like a horror movie.
+
+It really is.
+
+(Shane) The fungus was discovered in 1904, and it spread fast.
+
+(Sara) By 1950, pretty much the entire range from Maine to Georgia had become infected and all the big trees had--had succumbed.
+
+(Shane) Today, the scale of that loss is hard to comprehend.
+
+(Sara) It's approximately 180 million acres.
+
+And, in some locations, especially Southeastern Pennsylvania, some areas of Massachusetts and Virginia, it was as much as 50% of the forest.
+
+(Shane) Today, some of those places are still covered in trees... but without the chestnut, it's not the same forest.
+
+No one alive remembers the forest that was.
+
+Some of its parts remain, but the ecosystem is gone.
+
+For the chestnut as a tree, it's more complicated.
+
+(Sara) So, the American chestnut is not technically extinct.
+
+But, it's functionally extinct.
+
+There's an estimated 400 million sprouts out there on the landscape.
+
+(Shane) But Sara's using the word "sprouts" in the same way that a zombie "sprouts" from its grave.
+
+(Sara) So, this is a pretty classic oak-hickory forest type.
+
+Back in the day, chestnuts would have covered this forest.
+
+(Sara) Here's a perfect example of an American chestnut that has died back and then is sending up these new re-sprouts.
+
+(Shane) This definitely isn't a normal sapling.
+
+(Sara) So, the roots are probably older than the blight.
+
+(Shane) Because chestnut blight doesn't attack the roots.
+
+(Sara) So, this is still original genetics from when the blight first swept through.
+
+It'll die back, it'll re-sprout.
+
+This will continue forever, I imagine.
+
+(Shane) It's like a very sickly phoenix that keeps rising.
+
+(Sara) There you go.
+
+I like that.
+
+-Okay.
+
+-Yeah.
+
+(birds chirping) (Shane) This little tree-- through a series of past lives, each cut tragically short-- might have been here longer than the blight has.
+
+(Shane) God, this is weird to look at.
+
+The sprouts rarely get large enough to produce nuts because the blight is never far away.
+
+(Sara) Even when the tree dies, the fungus is still around, just, you know, spewing spores into the, into the atmosphere.
+
+(Shane) But that doesn't mean the American chestnut is doomed.
+
+Sara and her colleagues are trying to breed a better chestnut-- one that can hold its own against the blight.
+
+(Sara) You say, "Well, this tree looks really good, it has really good resistance.
+
+This tree looks really good, it has good resistance."
+
+And then you have to put that together and see if you can build that up in the population.
+
+(Shane) So, where can you find these genes for resistance?
+
+One strategy is to look for the rare American chestnut that's doing more than just sprouting and dying.
+
+A new find in Central Pennsylvania might be the biggest chestnut tree in the state.
+
+(Sara) There we go.
+
+Ha ha!
+
+Look at that.
+
+That's awesome.
+
+So, these two are good and then that one's, that one's a dud.
+
+(cameraman) That's exciting.
+
+It's very exciting.
+
+We grow the tree up, we take the fungus, we put it in the tree and we say, did it survive?
+
+(Shane) It's painstaking work, made possible by an army of volunteers.
+
+(man) .3, Sara.
+
+(Shane) Another source of potential blight-resistant genes are Chinese chestnut trees, which evolved with the fungus and are naturally resistant.
+
+Scientists are hybridizing the two species, trying to breed trees that are mostly American, but have the disease resistance of the Chinese species.
+
+Some chestnut researchers are even using genome editing, although the exact genetic causes of resistance are still mostly unknown.
+
+(smooth bass music) The chestnut's allies aren't taking anything off the table.
+
+(Sara) It's not that it's an American chestnut and it's got, uh, you know, waving an American flag and has eagles flying over, you know, it's not that which we are trying to, you know, restore into this tree.
+
+It's its ecological function.
+
+Can it feed the insects?
+
+Can it produce the nuts that all of our wildlife wants to eat?
+
+(serene music) (Shane) Sara knows that American chestnuts won't reclaim their former glory in her lifetime.
+
+That kind of success could still be generations away.
+
+But that doesn't make her, or the chestnut's other champions, any less devoted to the cause.
+
+(Sara) In this world of instant gratification, I think having something that's more of a slow movement, I think that that's kind of refreshing.
+
+(Shane) And it's the least we can do for a species that's fighting so hard to keep going.
+
+(Shane) Are there any American chestnuts that existed before the blight that are still, like, adult trees now?
+
+(Sara) We think we know of about four that survived the original pandemic.
+
+Four?
+
+Oh, God.
+
+(Sara) It's not, so, from an estimated four billion, I mean, those aren't great odds.
+
+(Shane) But one of those one-in-a-billion trees-- surviving despite the fungus growing under its bark-- stood alone in a farmer's field, not far away.
+
+What are we all here for, if not to serve a function?
+
+So, to be functionally extinct, to be around but serve no function... somehow seems sadder to me than just being gone.
+
+You think about forests that contained billions of these trees, and now this is one of a handful of this age.
+
+I mean, yeah, one of four.
+
+When chestnuts vanished from Eastern forests, a whole ecosystem was lost to human memory.
+
+An interdependent web of life, built around a single "keystone" species.
+
+For generations, humans have played a similar "keystone" role on the lands they call home.
+
+But with Earth's cultures disappearing as fast as its biodiversity... these fading connections leave some species in even greater peril.
+
+(deckhand) To the right of that shiny spot.
+
+Making giant splashing-- look at that!
+
+(Giles) Yeah, that's whales.
+
+Good eyes.
+
+Okay.
+
+Everybody hang on.
+
+(Shane) This is Deborah Giles, or as most people know her, Giles.
+
+She's been studying orcas, also known as killer whales, for nearly 20 years.
+
+But it's her newest assistant who might just be the team's MVP.
+
+(dog barks) (Giles) She's trying to orient to smell.
+
+(Shane) Okay.
+
+(Giles) And then, as we're coming into the scent cone, she'll move to the front of the bow, she'll start maybe whining.
+
+(Shane) Okay, but she's basically your poop compass.
+
+(Giles) She is our poop compass.
+
+The tip of her nose is gonna point us at that smell.
+
+(Shane) Okay.
+
+(Giles) And then she's working for playtime, that's her reward, is playtime.
+
+(Shane) Aww.
+
+You heard that right.
+
+The hero of Giles's research is an Orca-poop-sniffing pooch named Eba.
+
+(quirky music) (Giles) We go in and we collect the scat sample off the water.
+
+(Shane) Whale poop can yield a smorgasbord of data with minimal disturbance.
+
+DNA identifies the pooper, while other tests paint a detailed picture of the whale's diet, hormones, and overall health.
+
+Giles is monitoring these orcas, a distinct population known as the southern resident killer whales-- because they're in deep trouble.
+
+(Giles) So, 70% of the females in this population who are getting pregnant are unable to bring their calves to term.
+
+So, they're miscarrying or the baby is born alive and dies right away, 70%.
+
+How long is an orca pregnant before she gives birth?
+
+Seventeen months.
+
+(Shane) Wow.
+
+Long time.
+
+(grim music) (news anchor) A mother orca whose calf died after birth is still carrying her baby, 17 days later.
+
+(Shane) The southern residents aren't the only orcas in the Salish Sea, but they are the most endangered.
+
+(Giles) By far the biggest problem is the lack of prey.
+
+(Shane) Most orcas hunt other mammals, but the southern residents prefer fish.
+
+(Giles) The fish eaters are dictated by what mom says, what grandmother says.
+
+These are matriarchal societies.
+
+(Shane) The southern residents are particularly reliant on Chinook or King salmon, which have declined by more than 90% in the last century.
+
+Without the salmon, orca mothers are starving and many can't carry their babies to term.
+
+Despite legal protection, the population is still dwindling.
+
+(melancholic music) When I visited, there were just 73 left.
+
+(Ellie) We're a perfect triangle.
+
+We call orca Quahamitchdon.
+
+So, us, Quahamitchdon, and salmon, we need all three to be able to survive.
+
+(Shane) Quahamitchdon are more than neighbors.
+
+(Ellie) We believe they've just put on their underwater regalia and they've become Quahamitchdon.
+
+Hmm.
+
+(Ellie) So, they are just members of our family.
+
+(Shane) Ellie Kinley is a member of the Lummi Nation.
+
+(mellow music) When she's not working on a beautiful flower arrangement, you might find Ellie on her boat-- fishing in waters that the Lummi, the orca, and the salmon all call home.
+
+(Ellie) I just love the fact that there is no word for famine or starvation in our language, because we never starved.
+
+(Ellie) A lot of our stories talk about all our creeks and rivers being so full of salmon, you could walk across their backs.
+
+(Shane) Whoa.
+
+(Ellie) We've always had plenty from the Salish Sea.
+
+(solemn music) (Shane) But in the past century, dams, pollution, development, and overfishing have decimated the salmon runs, while many Lummi fishers have been displaced from their traditional fishing grounds.
+
+And the Lummi's underwater relatives faced another threat.
+
+(news anchor) The so-called "killer whale" was the first of the whale family to be successfully kept in captivity.
+
+(Shane) In the 1960s and '70s, amusement parks and aquariums were stocking up, and the southern residents proved easy to catch.
+
+At least 50 orcas, including babies, were captured for aquariums around the world.
+
+A female named Tokitae was kept in a tiny tank at the Miami Seaquarium, mostly alone, for more than half a century.
+
+For the Lummi, the story is painfully resonant.
+
+(Ellie) The aquarium was the residential school.
+
+She was taken there, and the savage was taken out of her.
+
+She was taught to perform.
+
+It's the same thing our children went through.
+
+(Shane) Like other indigenous children in the U.S. and Canada, Lummi children were often sent to boarding schools with the explicit goal of forced assimilation.
+
+(teacher) Now, let's pick up where we left off yesterday, with the English lesson.
+
+(Shane) As Ellie sees it, the Lummi and their underwater family have both suffered the same trauma.
+
+And it's only by repairing that trauma and restoring their connection to the Salish Sea that both can thrive again.
+
+(Ellie) Family takes care of family.
+
+So, it's our job to make the Salish Sea healthy enough to provide for us all again.
+
+(Shane) That means rebuilding the legendary salmon runs that once sustained the orca and the Lummi.
+
+(tranquil music) (Ellie) We're still the biggest tribal fishing fleet in the nation, but we were once twice the size.
+
+What you see is people that aren't fishing.
+
+There's a lot of broken people.
+
+-I know where home is.
+
+-Mm-hm.
+
+And when I get there, I know it.
+
+I can just stand on the bow of my boat, and I just feel it.
+
+There has never been a generation in my family that hasn't fished.
+
+(Shane) Mh-hm...never.
+
+Yep.
+
+(Shane) In the Salish Sea, a culture was born of this place and the creatures who share it.
+
+The erosion of that culture puts species at risk just as surely as the loss of those species diminishes the culture.
+
+Our ties to other life run deep.
+
+It might be why extinction feels so wrong.
+
+But look around, and it kinda feels like humans are just getting started.
+
+Whether by ignorance, apathy, or greed, we don't have any trouble ending another species' journey.
+
+Which is why, for some, preventing extinction just isn't enough.
+
+(Beth) We get drawings from kids every week of pictures of mammoths and dodos and thylacine.
+
+Some of them are good, some of them are not.
+
+(laughter) (Shane) This is Beth Shapiro.
+
+She's trying to put the pieces of lost ecosystems back together using biotechnology to undo extinction.
+
+Beth is chief science officer of Colossal Biosciences, a startup that's captivated the world with their goal of reviving extinct animals from ancient DNA.
+
+Sound familiar?
+
+("Jurassic Park" soundtrack plays) (Beth) There's no DNA in dinosaurs, we can't do that.
+
+(Shane) I'm never gonna get Jurassic Park?
+
+-No, I'm sorry.
+
+-Okay.
+
+A flesh-and-blood T. rex is still firmly in the realm of sci-fi.
+
+But Colossal is working on species that disappeared more recently.
+
+(news reporter) At Colossal Biosciences in Dallas, the mission is clear.
+
+(researcher) We are less than five years away from seeing mammoths back on the planet.
+
+(Shane) When Beth wrote her first book in 2015, she was...ambivalent about de-extinction.
+
+(Beth) I thought that... it's a little far-fetched.
+
+Probably too hard, probably too many technical, ethical, ecological hurdles that need to be overcome.
+
+(Shane) But her perspective has evolved.
+
+(Beth) As we make these advances, we are creating new tools that can be applied to stop extinctions from happening today.
+
+(Shane) High on Colossal's list is a species I got to know at the La Brea Tar Pits.
+
+(wolf howling) In April 2025, Colossal announced the birth of three puppies, which they described as the first living dire wolves in 10,000 years.
+
+They hailed the achievement as "the world's first de-extinction."
+
+But a lot of scientists cried foul.
+
+Were these really dire wolves?
+
+(Beth) It is never going to be possible to bring back a species that is 100% identical in every way, genetically, physiologically, behaviorally, to a species that is extinct.
+
+(Shane) In this case, the team created the so-called dire wolves by cloning cells from modern gray wolves, with DNA edited to give them dire wolf-like traits.
+
+The goal isn't so much to bring back lost species as it is to create new ones to do the same job.
+
+(Beth) I think it's about interactions in ecosystems, so, I don't care what species is there that's doing this really important role, as long as it's there.
+
+(Shane) Some of Colossal's critics say, "Okay...then why dire wolves?"
+
+Their Pleistocene ecosystem is long gone.
+
+(wolf howling) But Beth points out that it's big flashy species like the dire wolf that make this work possible.
+
+(Beth) It is incredibly hard to raise money to do conservation work.
+
+(Shane) Yet Colossal is doing exactly that.
+
+(Beth) That is new money, tech money, that's directly going to develop tools that we can use to stop species from becoming extinct, and that is really what I think an incredible benefit of the idea of de-extinction is.
+
+It's energizing.
+
+(Shane) But not everyone is convinced that de-extinction is a goal worth chasing.
+
+(phone ringing) (Christopher) If we bring them back, can we ensure that they stay alive this time?
+
+There's no good evidence that we can do that.
+
+("Born to Roll" by Masta Ace plays) (Shane) This is Christopher Preston.
+
+When he isn't prepping for mountain bike season, Christopher teaches environmental philosophy at the University of Montana.
+
+He's thought a lot about extinction and why it matters.
+
+(Christopher) In some ways, what you're losing when you lose a species is you-- you're losing a thread.
+
+You're losing a DNA thread that goes back in time over tens of millions of years, sometimes.
+
+If you put an end to that continuous chain back into the past, you've lost something really that has philosophical value, and arguably, something that has moral value, too.
+
+(Shane) Our species has proven all too capable of breaking those chains, but we can't necessarily repair them.
+
+(Christopher) To make restitution to a species, that thing has to be around, but it's not around anymore.
+
+So, what exactly are you making restitution to?
+
+I don't think we're making things right again.
+
+(Shane) But even skeptics understand why de-extinction has gotten so much attention.
+
+(dark music) (Christopher) That word "extinction" has such a central place in the whole environmental discussion.
+
+It's the worst of all environmental sins, and we all know extinction is forever, right?
+
+And so, if someone walks in the room and says, "Hey, extinction, it's not forever," we're gonna look up, and we're gonna get excited.
+
+(moody music) (Shane) Will de-extinction become part of our conservation toolkit?
+
+I honestly don't know.
+
+But what would it look like if it did?
+
+What if someone really did bring back a mammoth?
+
+African elephants are among the woolly mammoth's closest living relatives.
+
+And a big reason why they're endangered is that they're not so easy to live with.
+
+Just ask folks in Kenya who have them as neighbors.
+
+To me, they are good animals,1000 (Shane) David Mwiti has been farming on the edge of Kenya's Lewa Wildlife Conservancy for 30 years.
+
+("Jamboree" by Naughty by Nature feat.
+
+ZhanÃ© plays) (male singer) I want to see y'all who wanna plan with me Wave your hands across the land If we family Say hot damn (Shane) Most of his neighbors rely on their farms to make a living.
+
+So, when elephants raid their fields, the results can be devastating.
+
+(Shane) Whoa.
+
+(Shane) And hungry elephants aren't just destructive, they're dangerous.
+
+-Okay.
+
+-Yeah.
+
+(Shane) But everything's different now.
+
+(serene music) (Shane) Okay.
+
+(Shane) This electrified fence keeps most elephants out of the village and out of harm's way.
+
+(Shane) Nearby, an elephant underpass prevents deadly vehicle collisions on the highway.
+
+These huge infrastructure investments are part of a bigger strategy to make human-elephant coexistence possible.
+
+("Fight the Power" by Public Enemy plays) (male singer) Let's get down to business Mental self defensive fitness (Shane) Meet John Pameri, head of general security at Lewa Conservancy.
+
+The way John takes care of himself, you'd never know he's been working here for 30 years.
+
+As human and elephant populations have grown, managing conflict between the two has gotten more demanding.
+
+(Shane) Some elephants cause more problems than others.
+
+(elephant trumpeting) GPS collars allow the team to monitor the habitual troublemakers 24/7.
+
+(Shane) Yeah.
+
+(calm music) (speaking foreign language) That monitoring effort is just one part of a comprehensive security operation that John oversees.
+
+(phone beeping) (Shane) When the call comes in, a human-wildlife conflict team deploys to defuse the situation before it escalates.
+
+The ops room can also rapidly mobilize anti-poaching units.
+
+But Lewa's strategy isn't just reactive, it's proactive, too.
+
+The Conservancy has spent decades building goodwill with the surrounding communities-- digging wells, constructing schools, and creating good, reliable jobs, all funded by conservation.
+
+(Shane) It's been really successful, but also hugely expensive.
+
+If the elephants were gone, do you think farmers, like, would they be upset about it?
+
+Would they be happy about it?
+
+(Shane) It all makes me think again about mammoths.
+
+(deeply percussive music) If we brought them back, could we coexist with them?
+
+-Mmm.
+
+(Shane) Here in Kenya, people are keeping megafauna alive in a fast-changing world.
+
+But it means doing things differently.
+
+(Christopher) I think behavioral change is difficult.
+
+If someone comes along and says, "Hey, I can fix that for you, and you don't have to change a thing," that is going to be very appealing.
+
+(Shane) And that might be why de-extinction gets so much attention.
+
+The same day Colossal made its "dire wolf" announcement, critics of the U.S.
+
+Endangered Species Act claimed that de-extinction-- not regulations that protect wildlife-- could become the bedrock of species conservation.
+
+Could the promise of a techno-fix for extinction change how we value our fellow species?
+
+(Beth) It's a good question, and I think it assumes both something beautiful about humanity, but also something that's wrong.
+
+And that is that most people value biodiversity now.
+
+I think most people don't value biodiversity or think about extinction, and I worry that that's a problem.
+
+(solemn music) (Shane) Beth might be right about a lot of folks, maybe even most.
+
+But everywhere I've gone, I've met amazing people taking extraordinary measures to keep species from disappearing.
+
+(Christopher) Humans, unlike other species, can choose to do differently.
+
+If we can put empathy at the center of our world, I think that helps in human relations and it helps in our relationships with the natural world.
+
+So, let's choose to do something differently.
+
+(Shane) We're living in a new age of extinction, one crafted by our own hands.
+
+It might be the first time one species has snuffed out so many others.
+
+But we're also the first of this planet's creatures to grasp the consequences of our actions and to consider changing our ways.
+
+I want to believe that we can turn the tide, that we can keep wild species from going over the brink, or maybe even bring them back.
+
+If we act thoughtfully, empathetically, and urgently, maybe our species will redefine the legacy we leave on all the others that share our one incredible planet.
+
+(announcer) This program is available with PBS Passport and on Amazon Prime Video

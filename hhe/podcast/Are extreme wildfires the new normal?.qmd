@@ -12,7 +12,9 @@ categories:
 ![Are extreme wildfires the new normal?](https://i.scdn.co/image/ab67656300005f1f3b5da52b76c4eb91bb3c111c)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** Short Wave
 
 ::: {.callout-description collapse="true"}
@@ -25,3 +27,254 @@ With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you m
 
 :::
 
+<iframe src="https://www.npr.org/player/embed/nx-s1-5909367/nx-s1-mx-5909367-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+REGINA BARBER: Hey, Short Wavers. It's Gina here with a request-- follow us on whichever app you're listening from. We love sharing cool and important science stories with you. And following us means you'll always know when our next episode is ready, just for you. And guess what. The next episode is ready.
+
+\[MUSIC PLAYING\]
+
+EMILY KWONG: You're listening to Short Wave from NPR.
+
+BARBER: Hello, Short Wavers, Regina Barber here with my co host, NPR science correspondent Nate Rott. Hey, Nate.
+
+NATHAN ROTT: Hello, Gina.
+
+BARBER: So, Nate, over the years, you've reported a ton on wildfires and fought some in a previous life, I heard.
+
+ROTT: Yes, a previous, younger, more lithe life. Yes, that is correct.
+
+BARBER: Yeah. We're all getting old, Nate.
+
+ROTT: Yeah.
+
+BARBER: And Nate, it seems like a lot of the world is experiencing them right now. Like, fires are happening in France and Spain. Canada and even Oregon is fighting dozens of fires right now. So, with all of your expertise, riddle me this.
+
+ROTT: OK.
+
+BARBER: Is it my imagination, or are wildfires increasing globally?
+
+ROTT: Gina, are you sitting down?
+
+BARBER: I am, actually. You can see me.
+
+ROTT: OK, yeah, I can. And you are sitting. I just wanted to confirm for anybody who can't see you. I say, are you sitting, because overall, there are fewer wildfires globally and less land burning on average than in the past. But--
+
+BARBER: Huh.
+
+ROTT: --within those two sentences, Gina, there is so much nuance, and so, we'll get into that.
+
+ZEKE HAUSFATHER: There's a lot of different regional trends that are underneath that.
+
+ROTT: Yeah, so that's Zeke Hausfather. He's a climate scientist in California. And he says that, for example, in North American forests, like where we are, the trend is definitely more burning.
+
+HAUSFATHER: The typical fire burns about three times more area than it did 30 years ago or 40 years ago, which is largely driven by changes in conditions. The vegetation is drier, and so when a spark catches, it's more likely to burn a larger area.
+
+ROTT: And Gina, globally, extreme wildfire activity has more than doubled in the last two decades.
+
+BARBER: That's so much.
+
+ROTT: Yeah, it's a lot, which means that in certain areas, there are more fires burning bigger and hotter, which, in some cases, means more smoke from those fires can travel a very long way and make a beautiful sunset, but muddy up a perfectly normal vacation.
+
+BARBER: Yeah, which is why we've been seeing smoke here on the East Coast, right?
+
+ROTT: Yeah.
+
+BARBER: And one thing I've been wondering when it gets hazy, especially having a kid, is, like, how much time can I spend outside? And should I even be outside at all? Like, I know that there's, like, an air quality index, but the guidelines seem vague.
+
+ROTT: \[CHUCKLES\] Vague is a very diplomatic way of putting it, Gina. And--
+
+BARBER: Yeah.
+
+ROTT: --there's a reason for that. You know, scientists just don't have a lot of long-term data on wildfire smoke exposure to give people definitive guidelines, which leaves a lot of people like you and me wondering how to go about their days when there's a lot of smoke in the air.
+
+\[MUSIC PLAYING\]
+
+BARBER: So today on the show, what to do when the world's on fire.
+
+ROTT: We talk about the changing wildfire landscape, what's driving the trends, and what you can do about it.
+
+BARBER: You're listening to Short Wave, the science podcast from NPR.
+
+BARBER: OK, Nate, so you said earlier that wildfires are actually decreasing globally. This is just wild to me. Like, how is that possible?
+
+ROTT: Yeah, I mean, OK, so when we say wildfires, that includes lots of different types of environments and vegetation-- forests, yes, but also, you know, grasslands and shrublands and savanna. And as anyone who messed around with fireworks as a kid or had a little pyro streak maybe like me, you will know that fire burns a lot faster and quicker in lighter vegetation, like grasses, than it does in, like, a forest, right?
+
+BARBER: Yeah.
+
+ROTT: So most of the area--
+
+BARBER: Yeah, definitely.
+
+ROTT: --that burns every year are grasslands, shrublands, and savannas, not forests.
+
+BARBER: OK.
+
+ROTT: And so, the reason that, globally, there's less land burned is largely because there's less grasslands and shrublands and savannas burning mostly in Africa, which, you know, is a really big continent. So that brings down the global scale.
+
+BARBER: I love this. This is, like, fascinating, these nuances. OK, so, now, there's these two pretty bad forest fires in France and Spain. And--
+
+ROTT: Yeah.
+
+BARBER: --outside of these fires, is Europe another place where there are fewer fires recently?
+
+ROTT: Well, honestly, Gina, this is, like, a really active area of research, like what are the trends in wildfire are in Europe. But when our producer--
+
+BARBER: Yeah.
+
+ROTT: --Berly McCoy spoke to Zeke Monday about the current fires, he said the area burned was higher than average for the European Union, so--
+
+BARBER: OK.
+
+ROTT: --not record-setting yet. Of course, that could change. But he said these fires are understandably getting a lot of media attention because there are two big fires burning at the same time near a lot of--
+
+BARBER: Yeah.
+
+ROTT: --people. So it might seem like a trend, but it might not necessarily be.
+
+BARBER: So, I mean, could this be just, like, a normal fire year for Europe? I remember, like, four years ago, a big fire in Spain. Like, is this--
+
+ROTT: Yeah.
+
+BARBER: --just normal?
+
+ROTT: Yeah, I mean, look, it could be. But, you know, Zeke pointed out that there is a trend that is related to many wildfires today in Europe and North America everywhere. The fires that are burning in Spain and France both coincided with an extreme heat wave.
+
+BARBER: OK, I see where this is going.
+
+ROTT: Yeah, climate change-- don't know if you've heard of it, small thing--
+
+BARBER: Yeah.
+
+ROTT: --happening globally.
+
+BARBER: Yeah, the climate crisis, it's like this cartoon villain, right? It's very predictable.
+
+ROTT: Yeah, well, unlike a generic cartoon villain, you know, it's not easily vanquished by Captain Planet and his gang of trusted friends.
+
+BARBER: Yes.
+
+ROTT: Zeke says that rising temperatures nurture fires that might otherwise just die out. So, like, take Canada, for example.
+
+HAUSFATHER: So, every one degree centigrade, or roughly two degrees Fahrenheit, of warming during the fire season in Canada-- so May to September-- is associated with an 80% increase in the amount of area burned that year.
+
+BARBER: 80%-- that's a huge jump for just, like, a couple of degrees Fahrenheit.
+
+ROTT: Yeah, it's massive. And he says, since the 1960s, the fire season has warmed up about four degrees Fahrenheit on average. So--
+
+BARBER: Wow.
+
+ROTT: --that translates to a huge amount of burned area in Canada because when it's warmer, things just dry out quicker, so there's literally more fuel for the fire.
+
+BARBER: So doesn't this also have to do with humans not doing, like, prescribed burns to clear the underbrush?
+
+ROTT: In the United States, yes, that's definitely true. So, in many parts of the country, not just the Western US, forests are adapted to fire. In many cases, they need it ecologically. And, you know, Native communities used fires for centuries to forests, but since at least the 1930s, we've been suppressing forest fires, putting them out as quickly as we can.
+
+BARBER: I mean, Nate, only you can prevent forest fires.
+
+ROTT: Yes, God bless Smokey Bear. It's not Smokey the Bear, Gina. It's Smokey Bear. Don't let the Forest Service come after you.
+
+BARBER: I had no idea, honestly.
+
+ROTT: Yeah. And look, like, Smokey's slogan was great to protect people and homes and, you know, maybe some timber, but it's not so great to keep fuel levels down in those forests.
+
+HAUSFATHER: When fires do occur in those forests, there's so much undergrowth that's accumulated that the fires are much more catastrophic. They reach up into the canopy of the trees. They become what we call crown fires that actually kill the trees--
+
+BARBER: Geez.
+
+HAUSFATHER: --rather than what historically has happened in Western forests, where you have these low-level fires that kill the undergrowth, but don't reach up and actually kill the trees. The boreal forest is a different beast.
+
+ROTT: Yeah, and the boreal forests in Canada, the ones that are smoking up parts of the US right now, those have never needed prescribed burning in the same way.
+
+HAUSFATHER: The boreal forest--
+
+BARBER: Wow.
+
+HAUSFATHER: --in Canada is 4 and 1/2 times the size of Texas. And so, historically--
+
+BARBER: What?
+
+HAUSFATHER: --when fires burn in those forests, they're just allowed to burn themselves out. You know, they haven't had the same history of fire suppression that we have in the US that has built up fuel.
+
+ROTT: So what he's kind of saying is, it is normal for these big fires to happen in Canada, but what's not normal is how often these huge fires are happening.
+
+BARBER: So, historically, how often is normal for them to burn?
+
+ROTT: So, typically, in Canada's western boreal forest, Zeke says big fires would happen, you know, once every 50 to 200 years.
+
+BARBER: That is not happening right now.
+
+ROTT: No, it is much more frequent. And--
+
+BARBER: Yeah.
+
+ROTT: --when we're talking about boreal forests, you know, for you non-ecology nerds out there, you know, we're talking about these dense forests that stretch across the Northern Hemisphere, and temperatures are rising at higher latitudes faster than they are closer to the equator.
+
+HAUSFATHER: What we're seeing now is considerably more frequent fires, because these areas that used to be much wetter-- you know, much of the the northern boreal resembles a swamp-- are now much drier because of higher temperatures.
+
+ROTT: And it's not necessarily that more fires are starting, you know, which, in both the US and Canada, is often caused by lightning, sometimes caused by people. It's that a warmer climate is creating the conditions for fires to get going and burn a lot more vegetation when they do.
+
+BARBER: OK, so I grew up in the Pacific Northwest, and there weren't a lot of wildfires. And then I had my own kid, and then wildfires and smoke were just part of the summers. And honestly, I thought I was going to just, like, avoid all that and move to the East Coast.
+
+ROTT: Yeah.
+
+BARBER: And once I'm here, I'm not going to have any of that smoke.
+
+ROTT: Yeah.
+
+BARBER: But for listeners in the same boat as me-- like, now, I'm inhaling this smoke-- like, what are the recommendations for staying healthy?
+
+ROTT: Well, so the biggest piece of advice I could give you, Gina, is to monitor the air quality to figure out your exposure to risk. So, in the US--
+
+BARBER: OK.
+
+ROTT: --there's an air quality index for how polluted--
+
+BARBER: Yeah.
+
+ROTT: --the air is in a certain area. You know, it's based on how many pollutants are in the air, and that includes particulate matter, these tiny little particles that are so small, they can get into your bloodstream.
+
+BARBER: Oh, my gosh.
+
+ROTT: You know, there's been a lot of research that shows that it's particularly risky for pregnant people. So I'd highly recommend people use AQI as kind of a quick pulse check to figure out how good the air quality is. It goes from green, where the air pollution isn't a risk to people, all the way up to maroon, which means it's a risk for everybody. And there is limited guidance for, you know, when you should limit outdoor activity, for example. But Lisa Patel, a pediatrician and environmental scientist at Stanford Medicine Children's Health, says it may not be a good enough tool for wildfires.
+
+LISA PATEL: These air quality guidelines were built off the burning of fossil fuels. There was a study that was done on children between zero to five that found that wildfire smoke is about 10 times as toxic. 10 times as many children showed up to the emergency room with respiratory complaints.
+
+ROTT: And it's not just kids, right? Like, inhaling that smoke can lead to inflammation, which is linked to cancer, to heart and lung disease, and to dementia.
+
+BARBER: Oof. So, what else can we do to limit our exposure to wildfire smoke?
+
+ROTT: Yeah, so spending more time inside, you know, though, I should say, you know, staying inside won't totally keep you from being exposed, especially in older homes with a lot of drafts. But, you know, staying inside is one piece of advice-- wearing a mask when you go outside, recirculating the air in your car, you know, so you're not sucking air directly from outside into the car. And using an air filter indoors goes a long way. Lisa says you can make one with a HEPA filter duct taped to a box fan. I've actually been to places where they're doing this in Missoula, where I grew up. They are creating them for people that can't afford air filters in their house. And when it comes to this bigger, you know, staying inside part that we're talking about, Lisa knows that advice might be tough to hear.
+
+PATEL: I'm a parent myself. My kids were 2 and 5 when-- and we were in the middle of a pandemic. What we are in is a situation where-- and it is sad for me to say. I grieve about it when I have to say it, but we're increasingly having periods of time where it's not safe for our kids to be outdoors.
+
+ROTT: But she also says this is part of our new normal, which is what I also heard from Zeke.
+
+HAUSFATHER: Like, we're not going to be able to put the fire genie back in the bottle and return to the climate we had in the 1980s, at least not anytime in the next few centuries. So, it's not a good news story.
+
+BARBER: Geez.
+
+HAUSFATHER: But I also don't want to let people off the hook, you know. We need to adapt--
+
+BARBER: Wow.
+
+HAUSFATHER: --to this world of more and more extreme fires.
+
+ROTT: You know, but both Zeke and Lisa emphasize the thing that people can do is reduce their emissions, right, which is going to stop the problem from getting even worse. You know, so that means things like switching to renewable energy, regenerative farming practices, and, you know, making more urban green space to cool down cities. You know, but sadly, we all should settle into this new normal, too.
+
+BARBER: And more inside time, I guess.
+
+ROTT: Yeah.
+
+\[MUSIC PLAYING\]
+
+BARBER: Nate, thank you so much for bringing us this reporting.
+
+ROTT: Yeah, happy to do it.
+
+BARBER: This episode was produced and co-reported by Berly McCoy. It was edited by our showrunner, Rebecca Ramirez, and fact-checked by Tyler Jones.
+
+ROTT: The audio engineer was Robert Rodriguez. Special thanks to science correspondent, Alejandra Borunda, for her guidance. I'm Nate Rott.
+
+BARBER: And I'm Regina Barber. Thank you so much for listening to Short Wave from NPR.

@@ -1,6 +1,6 @@
 ---
 title: "Radiation"
-date: "2026-08-29"
+date: "2026-10-13T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,50 @@ listing:
   contents: "Radiation_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-10-13T16:00:00
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### The Workplace Hazard of Radiation—For Flight Crews
+
+![The Workplace Hazard of Radiation—For Flight Crews](https://i.scdn.co/image/ab67656300005f1f98fda0a540c5374b96cf3bd4)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5vi2xD7F5B5JHkkq9MTzAI)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   Long flights at high altitudes can expose pilots and flight attendants to dangerous levels of cosmic radiation over their careers, potentially increasing their risk for a variety of cancers and posing special dangers to pregnant crewmembers. In this episode: a new report from the National Academies of Sciences, Engineering, and Medicine urges action on in-flight radiation exposure, including mandating airline safety programs and developing new ways to measure hazards. Guest:  Tom Burke, PhD, MPH, is an emeritus professor at Johns Hopkins and a former top official with the Environmental Protection Agency in the Obama administration.  Lindsay S. Fenwick is an accomplished pilot with over 21,000 flight hours spanning military, corporate, VIP, and major airline operations. He also has extensive experience in aviation safety management. Host:  Dr. Josh Sharfstein is distinguished professor of the practice in Health Policy and Management, a pediatrician, and former secretary of Maryland's Health Department. He served as the Baltimore City Commissioner of Health from 2005 to 2009.  Show links and related content:    Assessing Radiation Exposure, Health Outcomes, and Mitigation Strategies for Flight Crewmembers—National Academies of Sciences, Engineering, and Medicine   Aircrew and Cosmic Ionizing Radiation—CDC   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+#### What Ever Happened to the Ozone Hole?
+
+![What Ever Happened to the Ozone Hole?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Are We Doomed?
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6a4uz45CcjiOxFLacfX0bY)
+
+[Open Series in Spotify](https://open.spotify.com/show/5zO1JRIY0pon3rxHEEbm8X)
+
+A dark blue wound across the bottom of the world — that’s what NASA images showed in the 1980s. It was a hole in the ozone layer, eight million square miles across. Human activity and convenience had quietly, but rapidly, eaten away  Earth’s crucial shield against the sun, one that likely helped make life on land possible in the first place.Ben Bradford goes back to re-examine the story of the ozone hole: how people discovered it, how they fought over what to do, and what finally happened. It’s a tale of hairspray, human progress, exploding refrigerators, scientists balancing on icy Antarctic rooftops, and Ronald Reagan’s ranch. And from it, maybe, we can find a map for building consensus on our most pressing environmental challenges today.Guest:Susan Solomon, MIT atmospheric scientist and one of the key figures in solving the ozone crisis.Support Are We Doomed?, get bonus episodes, and more: https://doompod.com/support/ Watch earlier episodes on Youtube! https://www.youtube.com/@arewedoomedpod  To manage podcast ad preferences, review the links below:See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy
+
+:::

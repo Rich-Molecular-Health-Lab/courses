@@ -1,7 +1,7 @@
 - number: 1
   unit:
     - "Threats to Biodiversity"
-  topic: "Extinction"
+  topics: "Extinction"
   chapter: 1
   section: 8
   days_needed: 1
@@ -27,11 +27,17 @@
   dates:
     - "2026-09-16T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W4D2"
+  date_start: "2026-09-16T16:00:00"
+  week_start: 4
+  class_end: "BIOL4120_W4D2"
+  date_end: "2026-09-16T16:00:00"
+  week_end: 4
   title: "Case Conversation 1 - Extinction"
 - number: 2
   unit:
     - "Threats to Biodiversity"
-  topic: "Habitat Loss, Fragmentation, and Degradation"
+  topics: "Habitat Loss, Fragmentation, and Degradation"
   chapter: 1
   section: 9
   days_needed: 1
@@ -57,11 +63,17 @@
   dates:
     - "2026-09-30T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W6D2"
+  date_start: "2026-09-30T16:00:00"
+  week_start: 6
+  class_end: "BIOL4120_W6D2"
+  date_end: "2026-09-30T16:00:00"
+  week_end: 6
   title: "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
 - number: 3
   unit:
     - "Threats to Biodiversity"
-  topic: "Overexploitation"
+  topics: "Overexploitation"
   chapter: 1
   section: 10
   days_needed: 1
@@ -87,11 +99,17 @@
   dates:
     - "2026-10-12T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W8D1"
+  date_start: "2026-10-12T16:00:00"
+  week_start: 8
+  class_end: "BIOL4120_W8D1"
+  date_end: "2026-10-12T16:00:00"
+  week_end: 8
   title: "Case Conversation 3 - Overexploitation"
 - number: 4
   unit:
     - "Threats to Biodiversity"
-  topic: "Invasive Alien Species"
+  topics: "Invasive Alien Species"
   chapter: 1
   section: 11
   days_needed: 1
@@ -117,11 +135,17 @@
   dates:
     - "2026-10-28T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W10D2"
+  date_start: "2026-10-28T16:00:00"
+  week_start: 10
+  class_end: "BIOL4120_W10D2"
+  date_end: "2026-10-28T16:00:00"
+  week_end: 10
   title: "Case Conversation 4 - Invasive Alien Species"
 - number: 5
   unit:
     - "Threats to Biodiversity"
-  topic: "Climate Change"
+  topics: "Climate Change & Biodiversity"
   chapter: 1
   section: 12
   days_needed: 1
@@ -147,11 +171,17 @@
   dates:
     - "2026-11-09T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W12D1"
+  date_start: "2026-11-09T16:00:00"
+  week_start: 12
+  class_end: "BIOL4120_W12D1"
+  date_end: "2026-11-09T16:00:00"
+  week_end: 12
   title: "Case Conversation 5 - Climate Change"
 - number: 6
   unit:
     - "Approaches to Conservation"
-  topic: "Species-Level Approaches"
+  topics: "Species-Level Approaches"
   chapter: 2
   section: 13
   days_needed: 1
@@ -178,11 +208,17 @@
   dates:
     - "2026-11-23T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W14D1"
+  date_start: "2026-11-23T16:00:00"
+  week_start: 14
+  class_end: "BIOL4120_W14D1"
+  date_end: "2026-11-23T16:00:00"
+  week_end: 14
   title: "Case Conversation 6 - Species-Level Approaches"
 - number: 7
   unit:
     - "Approaches to Conservation"
-  topic: "Community & Ecosystem Approaches"
+  topics: "Community & Ecosystem Approaches"
   chapter: 2
   section: 14
   days_needed: 1
@@ -208,11 +244,17 @@
   dates:
     - "2026-12-02T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W15D2"
+  date_start: "2026-12-02T16:00:00"
+  week_start: 15
+  class_end: "BIOL4120_W15D2"
+  date_end: "2026-12-02T16:00:00"
+  week_end: 15
   title: "Case Conversation 7 - Community & Ecosystem Approaches"
 - number: 8
   unit:
     - "Approaches to Conservation"
-  topic: "Landscape-Scale Approaches"
+  topics: "Landscape-Scale Approaches"
   chapter: 2
   section: 15
   days_needed: 1
@@ -238,4 +280,10 @@
   dates:
     - "2026-12-09T16:00:00"
   course_name: "Conservation Biology"
+  class_start: "BIOL4120_W16D2"
+  date_start: "2026-12-09T16:00:00"
+  week_start: 16
+  class_end: "BIOL4120_W16D2"
+  date_end: "2026-12-09T16:00:00"
+  week_end: 16
   title: "Case Conversation 8 - Landscape-Scale Approaches"

@@ -12,7 +12,9 @@ categories:
 ![How The Current Heat Dome Can Affect Human Health](https://i.scdn.co/image/ab67656300005f1f63009efb8eab6ce32b692dbe)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2024
+
 **Series:** Short Wave
 
 ::: {.callout-description collapse="true"}

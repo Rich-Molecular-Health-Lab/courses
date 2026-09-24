@@ -24,12 +24,13 @@
   css:
     - "slides-teaching.css"
   defaultTemplate: "tpl-default-lecture"
-  profile:
-    - "slides"
-    - "conbio"
-  categories:
-    - "slides"
-    - "BIOL4120"
+  class_start: "BIOL4120_W3D2"
+  date_start: "2026-09-09T16:00:00"
+  week_start: 3
+  class_end: "BIOL4120_W4D1"
+  date_end: "2026-09-14T16:00:00"
+  week_end: 4
+  profile: "slides"
   attachments:
     - "Biodiversity_Concepts_&_Measurement.jpg"
     - "genetics-discovery-pipeline.png"
@@ -62,46 +63,56 @@
   css:
     - "slides-teaching.css"
   defaultTemplate: "tpl-default-lecture"
-  profile:
-    - "slides"
-    - "conbio"
-  categories:
-    - "slides"
-    - "BIOL4120"
+  class_start: "BIOL4120_W2D1"
+  date_start: "2026-08-31T16:00:00"
+  week_start: 2
+  class_end: "BIOL4120_W3D2"
+  date_end: "2026-09-09T16:00:00"
+  week_end: 3
+  profile: "slides"
   attachments:
     - "Contemporary_Conservation_Biology.jpg"
-- title: "Extinction Threats"
-  image: "extinction_statista.jpeg"
-  class_days:
-    - "BIOL4120_W4D2"
-    - "BIOL4120_W5D1"
-  projects:
-    - "Conservation Biology Fall 2026"
-  course_prefix: "BIOL"
-  course_number: 4120
+- title: "Patterns & Risk of Extinction"
+  image: "c08fig002.jpg"
   tags:
     - "teaching"
     - "slides"
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  dates:
+    - "2026-09-23T16:00:00"
+    - "2026-09-28T16:00:00"
+  videos:
+    - "How poaching is changing the face of African elephants"
+    - "This Is Martha, the World's Last-Known Passenger Pigeon"
+    - "Are We Living In the Sixth Extinction"
+  films:
+    []
+  class_days:
+    - "BIOL4120_W5D2"
+    - "BIOL4120_W6D1"
+  themes:
+    - "Threats to Biodiversity"
   area: "teaching"
+  topics:
+    - "Extinction"
+  date_start: "2026-09-23T16:00:00"
+  class_start: "BIOL4120_W5D2"
+  week_start: 5
+  week_end: 6
+  class_end: "BIOL4120_W6D1"
+  date_end: "2026-09-28T16:00:00"
   margin: 0
   maxScale: 4
   css:
     - "slides-teaching.css"
   defaultTemplate: "tpl-default-lecture"
-  topics:
-    - "Extinction"
-  themes:
-    - "Threats to Biodiversity"
-  dates:
-    - "2026-09-16T16:00:00"
-    - "2026-09-21T16:00:00"
   course_name: "Conservation Biology"
-  profile:
-    - "slides"
-    - "conbio"
-  categories:
-    - "slides"
-    - "BIOL4120"
+  profile: "slides"
   attachments:
-    - "extinction_statista.jpeg"
-    - "direwolf.jpg"
+    - "c08fig002.jpg"
+    - "extinction_scale.jpg"
+    - "c08boxfig01.jpg"
+    - "band-tailed-pigeon-passenger-pigeon-two-column.jpg.thumb.768.768.png"

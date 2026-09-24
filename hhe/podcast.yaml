@@ -39,10 +39,12 @@
   week_end: 12
   topics_possible:
     - "Vectors"
+    - "Epidemiology"
+    - "One Health"
   themes_possible:
     - "Pathogens"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "710198"
   course_name: "Human Health & the Environment"
   published_at: "2026-06-17"
@@ -58,6 +60,7 @@
   author_first: "Call"
   author_last: "Call"
   author_display: "Public Health On Call"
+  url_direct: "https://podcast.publichealth.jhu.edu/website/a-new-test-for-lyme-disease-developed-by-high-schoolers"
   profile: "podcast"
   attachments:
     []
@@ -107,7 +110,6 @@
   themes_possible:
     - "Disasters"
   type: "podcast"
-  selected: false
   duration_ms: "1949779"
   course_name: "Human Health & the Environment"
   published_at: "2022-01-27"
@@ -170,8 +172,8 @@
     - "Epidemics & Pandemics"
   themes_possible:
     - "Pathogens"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "1308416"
   course_name: "Human Health & the Environment"
   published_at: "2026-06-25"
@@ -186,6 +188,7 @@
   author_first: "Call"
   author_last: "Call"
   author_display: "Public Health On Call"
+  url_direct: "https://podcast.publichealth.jhu.edu/website/animal-diseases-and-human-health-the-sloth-and-screwworm-episode"
   profile: "podcast"
   attachments:
     []
@@ -232,10 +235,12 @@
   week_end: 4
   topics_possible:
     - "Fires"
+    - "Climate Change & Extreme Weather"
+    - "Air Pollution"
   themes_possible:
     - "Disasters"
+    - "Toxins"
   type: "podcast"
-  selected: false
   duration_ms: "801149"
   course_name: "Human Health & the Environment"
   published_at: "2026-07-29"
@@ -252,6 +257,7 @@
   author_first: "Wave"
   author_last: "Wave"
   author_display: "Short Wave"
+  url_direct: "https://www.npr.org/2026/07/29/nx-s1-5909367/spain-france-oregon-canada-fires-smoke"
   profile: "podcast"
   attachments:
     []
@@ -295,10 +301,10 @@
   week_end: 3
   topics_possible:
     - "Floods"
+    - "Climate Change & Extreme Weather"
   themes_possible:
     - "Disasters"
   type: "podcast"
-  selected: false
   duration_ms: "361534"
   course_name: "Human Health & the Environment"
   published_at: "2026-08-27"
@@ -315,6 +321,7 @@
   author_first: "NPR"
   author_last: "NPR"
   author_display: "Consider This from NPR"
+  url_direct: "https://www.npr.org/2026/08/27/nx-s1-5946819/as-the-climate-changes-is-the-deadly-flooding-in-nepal-a-sign-of-things-to-come"
   profile: "podcast"
   attachments:
     []
@@ -360,10 +367,10 @@
   week_end: 4
   topics_possible:
     - "Fires"
+    - "Climate Change & Extreme Weather"
   themes_possible:
     - "Disasters"
   type: "podcast"
-  selected: false
   duration_ms: "3283069"
   course_name: "Human Health & the Environment"
   published_at: "2024-08-19"
@@ -381,6 +388,7 @@
   author_first: "Science"
   author_last: "Science"
   author_display: "Big Picture Science"
+  url_direct: "https://bigpicturescience.org/episodes/catching-fire"
   profile: "podcast"
   attachments:
     []
@@ -426,11 +434,13 @@
   topics_possible:
     - "Climate Change & Extreme Weather"
     - "Heat Islands"
+    - "One Health"
+    - "Epidemiology"
   themes_possible:
     - "Disasters"
     - "Infrastructure"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "2597041"
   course_name: "Human Health & the Environment"
   published_at: "2026-07-23"
@@ -478,20 +488,22 @@
   classes_assigned:
     - class_day: "ENVN4320_W6D1"
       date: "2026-09-29T16:00:00"
+    - class_day: "ENVN4320_W6D2"
+      date: "2026-10-01T16:00:00"
   duration_string: "00:15:16"
-  class_start: "ENVN4320_W6D1"
-  date_start: "2026-09-29T16:00:00"
+  class_start: "ENVN4320_W6D2"
+  date_start: "2026-10-01T16:00:00"
   week_start: 6
-  class_end: "ENVN4320_W6D1"
-  date_end: "2026-09-29T16:00:00"
+  class_end: "ENVN4320_W6D2"
+  date_end: "2026-10-01T16:00:00"
   week_end: 6
   topics_possible:
     - "Healthy Housing"
     - "Environmental Justice"
   themes_possible:
     - "Infrastructure"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "916668"
   course_name: "Human Health & the Environment"
   published_at: "2026-07-22"
@@ -506,6 +518,7 @@
   author_first: "Call"
   author_last: "Call"
   author_display: "Public Health On Call"
+  url_direct: "https://podcast.publichealth.jhu.edu/website/curbing-urban-sprawl-why-better-city-planning-could-mean-better-health"
   profile: "podcast"
   attachments:
     []
@@ -541,13 +554,15 @@
   classes_assigned:
     - class_day: "ENVN4320_W5D2"
       date: "2026-09-24T16:00:00"
+    - class_day: "ENVN4320_W6D1"
+      date: "2026-09-29T16:00:00"
   duration_string: "00:08:29"
-  class_start: "ENVN4320_W5D2"
-  date_start: "2026-09-24T16:00:00"
-  week_start: 5
-  class_end: "ENVN4320_W5D2"
-  date_end: "2026-09-24T16:00:00"
-  week_end: 5
+  class_start: "ENVN4320_W6D1"
+  date_start: "2026-09-29T16:00:00"
+  week_start: 6
+  class_end: "ENVN4320_W6D1"
+  date_end: "2026-09-29T16:00:00"
+  week_end: 6
   topics_possible:
     - "Environmental Justice"
     - "Redlining"
@@ -555,7 +570,6 @@
     - "Infrastructure"
     - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "509204"
   course_name: "Human Health & the Environment"
   episode_number: "6"
@@ -571,6 +585,7 @@
   author_first: "Foundations"
   author_last: "Foundations"
   author_display: "Urban Planning Foundations "
+  url_direct: null
   profile: "podcast"
   attachments:
     []
@@ -617,8 +632,8 @@
     - "One Health"
   themes_possible:
     - "Pathogens"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "2754638"
   course_name: "Human Health & the Environment"
   published_at: "2026-08-25"
@@ -633,6 +648,7 @@
   author_first: "1A"
   author_last: "1A"
   author_display: "1A"
+  url_direct: "https://the1a.org/segments/the-drc-ebola-outbreak-is-spreading-at-a-rapid-pace-why/"
   profile: "podcast"
   attachments:
     []
@@ -668,13 +684,15 @@
   classes_assigned:
     - class_day: "ENVN4320_W5D2"
       date: "2026-09-24T16:00:00"
+    - class_day: "ENVN4320_W6D1"
+      date: "2026-09-29T16:00:00"
   duration_string: "00:54:14"
-  class_start: "ENVN4320_W5D2"
-  date_start: "2026-09-24T16:00:00"
-  week_start: 5
-  class_end: "ENVN4320_W5D2"
-  date_end: "2026-09-24T16:00:00"
-  week_end: 5
+  class_start: "ENVN4320_W6D1"
+  date_start: "2026-09-29T16:00:00"
+  week_start: 6
+  class_end: "ENVN4320_W6D1"
+  date_end: "2026-09-29T16:00:00"
+  week_end: 6
   topics_possible:
     - "Environmental Justice"
     - "Redlining"
@@ -682,7 +700,6 @@
     - "Infrastructure"
     - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "3254491"
   course_name: "Human Health & the Environment"
   published_at: "2021-02-11"
@@ -697,6 +714,7 @@
   author_first: "Know"
   author_last: "Know"
   author_display: "Stuff You Should Know"
+  url_direct: "https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-housing-discrimination-works-77501277/"
   profile: "podcast"
   attachments:
     []
@@ -746,7 +764,6 @@
     - "Infrastructure"
     - "Disasters"
   type: "podcast"
-  selected: false
   duration_ms: "658755"
   course_name: "Human Health & the Environment"
   published_at: "2024-06-12"
@@ -761,6 +778,7 @@
   author_first: "Wave"
   author_last: "Wave"
   author_display: "Short Wave"
+  url_direct: "https://www.npr.org/2024/06/12/1198910210/heat-dome-humidity-index-hot-summer"
   profile: "podcast"
   attachments:
     []
@@ -805,10 +823,13 @@
   week_end: 3
   topics_possible:
     - "Floods"
+    - "Environmental Justice"
+    - "Epidemics & Pandemics"
   themes_possible:
     - "Disasters"
+    - "Introduction"
+    - "Pathogens"
   type: "podcast"
-  selected: false
   duration_ms: "2862184"
   course_name: "Human Health & the Environment"
   published_at: "2026-06-28"
@@ -857,19 +878,23 @@
   classes_assigned:
     - class_day: "ENVN4320_W6D1"
       date: "2026-09-29T16:00:00"
+    - class_day: "ENVN4320_W6D2"
+      date: "2026-10-01T16:00:00"
   duration_string: "00:45:57"
-  class_start: "ENVN4320_W6D1"
-  date_start: "2026-09-29T16:00:00"
+  class_start: "ENVN4320_W6D2"
+  date_start: "2026-10-01T16:00:00"
   week_start: 6
-  class_end: "ENVN4320_W6D1"
-  date_end: "2026-09-29T16:00:00"
+  class_end: "ENVN4320_W6D2"
+  date_end: "2026-10-01T16:00:00"
   week_end: 6
   topics_possible:
     - "Healthy Housing"
+    - "Environmental Justice"
+    - "One Health"
   themes_possible:
     - "Infrastructure"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "2757381"
   course_name: "Human Health & the Environment"
   published_at: "2023-05-31"
@@ -884,6 +909,7 @@
   author_first: "Justice"
   author_last: "Justice"
   author_display: "Agents of Change in Environmental Justice"
+  url_direct: "https://www.ehn.org/building-healthy-communities"
   profile: "podcast"
   attachments:
     []
@@ -928,10 +954,13 @@
   week_end: 12
   topics_possible:
     - "Vectors"
+    - "Epidemiology"
+    - "Zoonoses"
+    - "One Health"
   themes_possible:
     - "Pathogens"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "1722697"
   course_name: "Human Health & the Environment"
   published_at: "2026-07-23"
@@ -990,10 +1019,12 @@
   topics_possible:
     - "Epidemics & Pandemics"
     - "Zoonoses"
+    - "One Health"
+    - "Epidemiology"
   themes_possible:
     - "Pathogens"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "4589218"
   course_name: "Human Health & the Environment"
   published_at: "2011-11-14"
@@ -1009,6 +1040,7 @@
   author_first: "Radiolab"
   author_last: "Radiolab"
   author_display: "Radiolab"
+  url_direct: "https://radiolab.org/podcast/patient-zero"
   profile: "podcast"
   attachments:
     []
@@ -1051,10 +1083,12 @@
   week_end: 15
   topics_possible:
     - "Epidemics & Pandemics"
+    - "One Health"
+    - "Zoonoses"
   themes_possible:
     - "Pathogens"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "3595964"
   course_name: "Human Health & the Environment"
   published_at: "2026-05-11"
@@ -1113,10 +1147,12 @@
   week_end: 12
   topics_possible:
     - "Vectors"
+    - "Epidemics & Pandemics"
+    - "One Health"
   themes_possible:
     - "Pathogens"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "719699"
   course_name: "Human Health & the Environment"
   published_at: "2026-05-27"
@@ -1132,6 +1168,7 @@
   author_first: "Wave"
   author_last: "Wave"
   author_display: "Short Wave"
+  url_direct: "https://www.npr.org/2026/05/27/nx-s1-5806598/disease-science-mosquito-genetic"
   profile: "podcast"
   attachments:
     []
@@ -1176,10 +1213,14 @@
   week_end: 12
   topics_possible:
     - "Vectors"
+    - "Zoonoses"
+    - "Climate Change & Extreme Weather"
+    - "Epidemiology"
   themes_possible:
     - "Pathogens"
+    - "Disasters"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "794462"
   course_name: "Human Health & the Environment"
   published_at: "2026-06-30"
@@ -1231,12 +1272,12 @@
     - class_day: "ENVN4320_W4D2"
       date: "2026-09-17T16:00:00"
   duration_string: "00:12:31"
-  class_start: "ENVN4320_W4D2"
-  date_start: "2026-09-17T16:00:00"
-  week_start: 4
-  class_end: "ENVN4320_W4D2"
-  date_end: "2026-09-17T16:00:00"
-  week_end: 4
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
   topics_possible:
     - "Drought"
     - "Climate Change & Extreme Weather"
@@ -1244,8 +1285,8 @@
     - "One Health"
   themes_possible:
     - "Disasters"
+    - "Introduction"
   type: "podcast"
-  selected: false
   duration_ms: "751412"
   course_name: "Human Health & the Environment"
   published_at: "2023-03-21"
@@ -1261,6 +1302,7 @@
   author_first: "Wave"
   author_last: "Wave"
   author_display: "Short Wave"
+  url_direct: "https://www.npr.org/2023/03/20/1164829382/what-we-lose-if-the-great-salt-lake-dries-up"
   profile: "podcast"
   attachments:
     []

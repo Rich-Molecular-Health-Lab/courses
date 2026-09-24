@@ -12,7 +12,9 @@ categories:
 ![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** Today, Explained
 
 ::: {.callout-description collapse="true"}
@@ -25,3 +27,450 @@ Ticks are exponentially expanding their territory, using us for their next blood
 
 :::
 
+## Transcript
+
+**SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
+
+  
+
+<SFX> Mosquito
+
+  
+
+SEAN: We bleed. We scratch. We kill. We complain. But in the end, we laugh it off and we head towards winter.
+
+  
+
+<SFX> Mosquito dies
+
+  
+
+SEAN: But ticks are a much more serious concern.
+
+  
+
+SCORING IN – IMPENDING GLOOM - BMC (lol)
+
+  
+
+SEAN: Lemme just remind you how many tick-bourne diseases there are? 
+
+  
+
+Lyme, you know. Shoutouts Connecticut. Then there’s Alpha-gal syndrome, which can make you allergic to red meat for the rest of your life. Also dairy. 
+
+  
+
+But there’s so much more! Should we go alphabetical? And I apologies in advance for my pronunciation here:  
+  
+<SFX> CASSETTE TAPE  
+  
+SEAN: Anaplasmosis, Babesiosis, Bourbon virus, Colorado tick fever, Ehrlichiosis, hard tick relapsing fever, Heartland virus, Powassan virus, Rickettsia parkeri rickettsiosis, Rocky Mountain spotted fever, Soft tick relapsing fever, STARI, Tularemia, 364D rickettsiosis.
+
+  
+
+<SFX> CASSETTE TAPE
+
+  
+SEAN: Symptoms of all these range from nausea, vomiting and bleeding to seizures, organ failure, facial paralysis, and of course, our old friend, death. 
+
+  
+
+And for those of you who are like NBD – that’s just a Northeast thing. Well, not anymore!  
+  
+Our national tick nightmare, on Today, Explained from Vox.  
+  
+
+[THEME]
+
+  
+
+SEAN: Sean Rameswaram. Today, Explained covered ticks and Lyme disease on the show way back in 2018 when the word on the trail was this was getting much worse. We asked science writer Jonathan Mingle, who recently wrote about ticks for the New York Times newspaper, how much worse this has gotten since then.
+
+  
+
+JONATHAN MINGLE (science journalist): You know some experts I talk to use the word exponential. 
+
+  
+
+SCORING IN - Discretion
+
+  
+
+JONATHAN: So what's happening is that some of these tick species are spreading into areas where people aren't familiar with them, doctors aren't familiar with them. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=Bjj3Ps0dYNQ)> YOUTUBE CBS BOSTON
+
+In the last 15 years, the Lonestar tick has gone from non-existent on the island to fully abundant and everywhere.
+
+<[CLIP](https://www.youtube.com/watch?v=UBFko7DWNRU)> YOUTUBE NBC NEWS 
+
+The tick is present in at least 21 states and is rapidly spreading across the eastern US.
+
+<[CLIP](https://www.youtube.com/watch?v=UwXG_4xycuY)> YOUTUBE CBS MORNINGS
+
+Emergency room visits for bites are the highest in nearly a decade as ticks spread into new parts of the country. 
+
+  
+
+JONATHAN: Thanks to warmer winters, climate change. Ticks are expanding their hunting season. You may have a day that's like 40 degrees in January, ticks are out looking for you, waiting for you to walk by and grab on and grab a meal. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=A-ate5me7PA)> YOUTUBE NBC 10 
+
+A newborn baby is suspected of contracting a rare tick borne virus. It's called Powassan virus.
+
+<[CLIP](https://www.youtube.com/watch?v=5RAlhJC61LA)> YOUTUBE NBC 10 
+
+Lyme's disease has been an ongoing fight on this island. I've had it.
+
+<[CLIP](https://www.youtube.com/watch?v=piokYttuSf8)> YOUTUBE 6 ABC
+
+This morning, a New Jersey man is the first known person to die after a tick bite triggered a severe meat allergy.
+
+  
+
+JONATHAN: So in 2024 a pilot named Brian Weitzel, father of three in northern New Jersey, he had a hamburger, at a barbecue, went home to mow his lawn, and a few hours later was unresponsive on the floor and he died that night. And his family, you know, was left in shock, of course, you know, trying to figure out why he had died. And it turned out that he had likely been bitten by the lone star tick, and had developed an allergy to red meat. And so this is referred to as Alpha-gal syndrome. And Alpha-gal syndrome is just the latest entrant into the files of all the many ways in which tick bites can make us sick. and the most familiar one, of course, is Lyme disease. Each year about half a million people are treated for Lyme disease. It's the fastest growing vector-borne disease in the US. cases have more than doubled over the past decade. And those cases are mostly as a result of getting bitten by the black legged tick or the deer tick. And the thing is both of these ticks and many other ticks that are also marching northward and westward and just, you know, expanding their empires rapidly across North America, they can deliver all kinds of pathogens.
+
+  
+
+SCORING OUT  
+  
+
+JONATHAN: They're claiming more and more of the map and they're claiming more and more of our psychic map right? It's like one of the results of reporting this piece is that I now have phantom tick crawling sensations at all hours of the day. 
+
+  
+
+SEAN: Oh, man. 
+
+  
+
+JONATHAN:I tell people I'm not a tick expert, although I talked to a bunch of them for this story, but I've become a tick expert in the sense that I am very familiar with tick paranoia and how it can keep you from venturing out into the places you love you know, hiking paths or picnic grounds or parks. And so that was part of the story I wanted to write about, too, is: Why are we letting the ticks keep us, if not out of these places that we need and love, why aren't we fighting back?
+
+  
+
+SEAN: And why is it? Are we not fighting back against the ticks?
+
+  
+
+JONATHAN: Not really. I mean, this is one of the surprising takeaways from my reporting is that we're barely even trying. And one way of understanding that, you could think about two numbers. So one number is 90%. 90% of vector-borne disease cases in the US are from ticks, right?
+
+  
+
+SEAN: 90%?
+
+  
+
+JONATHAN: Yeah. And yet despite the fact that 90% of cases of vector-borne illness come from tick bites, if you look at what local city, county health agencies do in terms of vector control, 80% of what they do is mosquito control and about 10 or 11% of these local health agencies around the country do any kind of tick control. So why is that? It's a familiar story in the public health world. It's not enough funding or policy support for trying out, testing, deploying new approaches to controlling ticks.
+
+  
+
+SEAN: Even though people are dying?
+
+  
+
+JONATHAN: We're just kind of taking for granted that, ‘Oh, well, what can you do? You just tuck your pants in and spray some insecticide on your boots and that's all you can do.’ It's like, well, actually we have a long history of going to war <chuckles> with mosquitoes. 
+
+  
+
+SEAN: Mm!
+
+  
+
+JONATHAN: Before there was tick control, there was mosquito control. And the CDC was founded with the sole mandate in 1946 of wiping out malaria and fighting mosquitoes. 
+
+  
+
+<[CLIP](https://www.c-span.org/program/american-history-tv/the-fight-against-the-communicable-diseases/545719)> C-SPAN THE FIGHT AGAINST COMMUNICABLE DISEASES
+
+Scientific information on the subject is discussed and analyzed. Decisions are made and one of these is to design more effective equipment to combat the dreaded mosquito. 
+
+  
+
+SEAN: I did not know that.
+
+  
+
+JONATHAN: Yeah, I didn't know it either.
+
+  
+
+SEAN: It feels like they lost that fight because in my neighborhood …  
+  
+JONATHAN: Yeah.  
+  
+SEAN: … you can't go out between the hours of seven and nine o'clock.
+
+  
+
+JONATHAN: Yeah. The mosquitoes haven't gone away, but malaria did for the most part. You know, in talking to experts today, they told me that, including folks at the CDC, there's a suite of tools we could be using if we wanted to get serious about fighting ticks. As one veteran tick expert at the CDC told me, if you want to make a dent in this problem, you have to get to the deer. So the deer are the engine driving a lot of these tick species spread.  
+  
+SEAN: Mm.  
+  
+JONATHAN: And we just have way more deer than we did decades ago, especially in the Eastern US and suburban parts of America. So how do you get to the deer? I had people in the comments section of my piece saying the clear answer is just we should all be hunting deer.  
+  
+SEAN: Mm-hm.  
+  
+JONATHAN: But in talking to the experts, they'll tell you it's not really a feasible solution. You would have to knock deer populations way down to make a dent in the tick populations. What is more promising is kind of a combined approach of stuff like vaccines. There are people developing vaccines that you could deliver to deer or to rodents, which are another important host for these ticks so that when the tick bites them, they'll die. That I learned from talking to folks who do this kind of research for a living is a more promising avenue for controlling ticks than all of us picking up crossbows and becoming deer hunters.
+
+  
+
+SFX <crossbow>
+
+  
+
+JONATHAN: You know, what I heard from experts is that we're not even funding this research in a serious way. We do this stuff for mosquitoes. People don't realize it, but your local county health agency, they go out and they find where the mosquito breeding grounds are and stagnant pools the water and they treat it. And it takes this sustained quiet effort. It's like we saw the consequences of not doing that recently. This is a bit tangential, but screwworm. You know, screwworm was this flesh eating larval pest that devastates cattle herds. And it was eradicated in the US in 1966 and it was kept at bay by the vigilance of people at USDA and USAID who ran these programs to release millions of sterile screwworm males out of airplanes. And it created this wall that kept it from coming into Southern US and now they're here.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=KESLiqJaXEU)> YOUTUBE CBS LA
+
+But since the beginning of June, at least a dozen animal infections have been confirmed in Texas and New Mexico, putting California and the rest of the nation on alert.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=QymPQDht3IM)> YOUTUBE MS NOW
+
+His Department of Government Efficiency run by Elon Musk decided to cut the funding that was specifically dedicated to monitoring and containing the screw worm in Central America.  
+  
+<CLIP> ELON MUSK: Chainsaw!
+
+  
+
+JONATHAN: And probably if we stopped doing the mosquito control at a local scale, we'd see more cases of dengue fever, West Nile virus, all these other rare but serious illnesses that climate change is making more of a threat here in the US.
+
+  
+
+SCORING IN  
+  
+SEAN: Jonathan Mingle wrote “We're Living in a Tick Nightmare. It's Time to Go to War.” for the New York Times.
+
+  
+The guy with the power to go to war is named Robert F. Kennedy Jr. And one of the kinda curious things about him is he’s kinda obsessed with Lyme disease. 
+
+  
+
+More on that mmm puzzle? When Today, Explained continues. 
+
+  
+
+[BREAK]
+
+  
+
+<BUMPER> KE$HA: Tik! Tik! Tik! Tik!  
+
+AVISHAY ARTSY (producer): Today, Explained.  
+  
+
+MEG TIRRELL: Hi, I'm Meg Tirrell. I am a medical correspondent at CNN.
+
+  
+
+SEAN: Okay, we just spent half the show talking about Lyme disease and how the government's not doing enough to combat it, but earlier this year, our Health and Human Services Secretary, Robert F. Kennedy the Second…
+
+  
+
+MEG: <chuckles>
+
+  
+
+SEAN: …pledged to fight Lyme disease. What is RFK Junior's relationship to Lyme?
+
+  
+
+MEG: Oh wow, RFK Jr.'s Lyme story goes way back
+
+  
+
+SEAN: Woah!
+
+  
+
+SCORING IN - On a Straight Down Train Car
+
+  
+
+MEG: Well, I mean, it's a really RFK Jr-y kind of disease because he's a falconer. He talks a lot about his work with birds of prey. He goes into the woods a lot, he posts lots of photos of himself in nature. And when you start to pay attention to RFK Jr. And Lyme disease, which I have been doing, he starts to tell the same story a few times.  
+  
+SEAN: Huh.  
+  
+MEG: It involves him in a bathtub in the 1980s…
+
+  
+
+<[CLIP](https://www.instagram.com/reel/DSVS390iazq/)> INSTAGRAM – SECRETARY ROBERT F KENNEDY: I remember one day in 1987 when I stood in my bathtub and picked 29 ticks off myself. 
+
+  
+
+MEG: He says he did at one point get Lyme disease. He got the classic bullseye rash on his forearm. He says he took antibiotics and it was cured, but he also describes most of his children have had Lyme disease, some with pretty severe effects of Lyme disease. So he's very focused on it. It also ticks like some other RFK Junior boxes where there is this community of people who feels like they've been neglected and ignored and in his words gaslit, particularly by the federal government. and those are people who have like chronic Lyme disease or long Lyme disease. So this is Lyme disease that hasn't been cured by antibiotics. And that people have been living with these symptoms for a really long period of time. And so he's trying to address that population of people. He had a round table discussion with a lot of those patients, patient advocates, as well as doctors and people who are trying to work on this space. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE – SECRETARY ROBERT F KENNEDY: It is an invisible illness. For many years,  this agency had a deliberate policy to refuse to engage with the Lyme community.
+
+  
+
+MEG: And so he's really speaking to that group of people, but at the same time, Lyme disease is a growing problem …  
+  
+SEAN: Right!  
+  
+MEG: … for anybody who lives in a tick-infested area, which is so many of us.
+
+  
+
+SCORING OUT
+
+  
+
+SEAN: So it sounds like people who have Lyme disease have an ally …  
+  
+MEG: Mm-hm.  
+  
+SEAN: … in the Secretary of Health and Human Services. And of course RFK Jr. Is known to spin up conspiracy theories, pedal falsehoods … 
+
+  
+
+<[CLIP](https://nypost.com/2023/07/15/rfk-jr-says-covid-was-ethnically-targeted-to-spare-jews/)> NYPOST
+
+SECRETARY ROBERT F KENNEDY JR: COVID-19 is targeted to attack caucasians and Black people 
+
+<[CLIP](https://www.youtube.com/watch?v=p6LJXPOv4SM)> YOUTUBE JOE ROGAN PODCAST
+
+SECRETARY ROBERT F KENNEDY JR: Wi-Fi radiation opens up your blood brain barrier and so all these toxics that are in your body can now go into your brain. 
+
+  
+
+SEAN: …  not a fan of vaccines. Does any of that get into the Lyme disease mix? 
+
+  
+
+MEG: Well, I mean, so he convened this round table and it had doctors, it had lawmakers. And so you had these folks speaking around the table about different things that you could do. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: The Lyme Clinical Trials Network is designed to build evidence for repurposing medicines and other treatments so we can improve the lives of people suffering now
+
+  
+
+MEG: And one of the things that RFK Jr.'s really focused on is improving diagnostics and improving treatment. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: There's investments we've made  in identifying new antibiotics that potentially could have a longer, better effects, as well as potentially protective monoclonal antibodies  that can be used as a treatment strategy
+
+  
+
+MEG: What you don't hear him talk about is a vaccine for Lyme disease. And he talks about things like we've got to make it safer for kids to go back in the woods. Vaccine could be one way of doing that. And we actually have a vaccine now that is approaching the regulatory approval process from Pfizer. They reported phase three results. They said they were going to take this to regulatory agencies. And so that was earlier this year. I became interested in, okay, well, RFK Jr. Is a big proponent of solutions for Lyme disease. Is he going to be supportive of this vaccine? Will this be the vaccine that RFK Jr. Sort of wins him over? 
+
+  
+
+SEAN: Tell us a bit more about the history of Lyme disease vaccines because they've been trying for some time to my recollection.
+
+  
+
+MEG: So there actually was an approved Lyme disease vaccine. It was called Lymerix. It was brought to market by GSK, the huge British drug maker. This was about 25-ish years ago. And it worked. It was something like 70 or 80% effective at reducing your risk of getting Lyme disease. But it had kind of this tepid endorsement from the federal vaccine agencies. So the FDA kind of gave it a... It wasn't like the most extreme endorsement, I guess you could say, the way people described it to me. They noted it was just for specific age groups. And then the CDC's group of vaccine advisors, they essentially recommended it for people who might have exposure to ticks. You might consider this. So it wasn't like a strong endorsement that everybody should get this vaccine. And so what we saw was that when it hit the market, the sales were really tepid.
+
+And then some people thought that the vaccine was actually giving them arthritis. 
+
+  
+
+SEAN: Ohh. 
+
+  
+
+MEG: And so this is the kind of thing you're trying to prevent you from getting Lyme disease. You're trying to prevent getting arthritis. The FDA looked into this extensively. Researchers looked at this. The signal did not play out from the conversations I've had with experts about it, but there were lawsuits that were filed. Ultimately GSK just decided to pull the vaccine off the market.  
+  
+SEAN: Huh.  
+  
+MEG: So now you have like 20 years later, Pfizer coming back with this vaccine. So this is approaching regulatory agencies. We might get this Lyme disease vaccine and have to see how RFK Jr's HHS would receive that.
+
+  
+
+SEAN: What's the vibe from HHS and RFK Jr? I mean, he cares about Lyme disease. He thinks there's this forgotten population of people with chronic Lyme disease. He's in charge. He's got an incredible amount of power to do something about it. And here's this vaccine that could be the easy solution. Is it like a match made in tick heaven?
+
+  
+
+MEG: Well, tick hell. 
+
+  
+
+SEAN: Tick Hell.
+
+  
+
+MEG: Preventing the ticks from being able to give us Lyme disease. Although I don't think they care if they give us Lyme disease, they just want to drink our blood. But you know, Kennedy was asked during his confirmation hearing by Susan Collins, because Maine of course is very hard hit by Lyme disease, whether he would support a Lyme disease vaccine. And he told her, quote:  
+  
+
+<[CLIP](https://www.youtube.com/watch?v=UVf93vkLZ_w)> YOUTUBE PBS NEWS HOUR – SECRETARY ROBERT KENNEDY: There's nobody who will fight harder to find a vaccine or a treatment for Lyme disease than me.
+
+  
+
+MEG: Now I reached back out to HHS when I wrote this story back in March about Pfizer's Lyme vaccine application. And a spokesperson for HHS told me HHS supports rigorous gold standard science to better understand, prevent, and treat Lyme disease. So I wrote back, "Does that include a vaccine?" And they just didn't respond.
+
+  
+
+SEAN: Why? Why are they being cagey about this vaccine? It feels like a golden opportunity for them.
+
+  
+
+MEG: You would think, and it's interesting. I've reached out to other folks who are sort of in this realm and most of them are very supportive of a vaccine. It's something that they would like to have as part of the toolkit. I will say there is one population that is skeptical of a vaccine and that is certain folks who have this chronic Lyme who live with long Lyme disease, they feel like they were burned by the first vaccine. They still believe that there were safety problems with that vaccine, at least some portion of this group who I spoke with. And so they're nervous about it, but other people really want a vaccine.
+
+  
+
+SEAN: Where does it leave us ultimately, you think? Is this a time to feel hopeful that there are solutions that are, solutions incoming here as these ticks become more and more just like a concern every summer across this country? Or is it a time to feel ultimately fearful?
+
+  
+
+MEG: Well, I mean, it definitely feels like we're in a time with this, like, massive upsurge in ticks. They're all around, they're spreading new, newly discovered pathogens. So it definitely doesn't feel like we're on the downtrend of that by any means. And the government has put out a plan to try to at least address Lyme disease and to an extent alpha gal, but it's not perceived from people I've spoken with to be enough. It's not a moonshot by any means to address these kinds of things.
+
+  
+
+SEAN: What's the plan?
+
+  
+
+MEG: Yeah. So this came out in May. They call it a sweeping plan to combat Lyme disease and advanced treatment. So you might expect huge amounts of money being poured into this big research consortiums working with the industry. The details are less sort of powerful than that from what we see in the release that HHS put out. They say the actions include a multimillion dollar pilot program focused on tick control up to two and a half million dollars in innovation challenges, funding for NIH researchers to combat alpha gal syndrome and a public-private collaboration to help patients connect with experienced providers.
+
+  
+SEAN: Huh.  
+  
+MEG: So I think people are glad that there is focus on this, but yeah, whether it's the moonshot that is needed especially…  
+  
+SEAN: Mm.  
+  
+MEG: …with the backdrop of broader cuts to science funding. I think experts in this space think it leaves something to be desired. 
+
+  
+
+SCORING IN - Hot Plate  
+  
+
+SEAN: Bummer! But in the meantime, what do you do if you’re going camping this weekend? Jonathan? 
+
+  
+
+JONATHAN: Doing tick checks. And we do it in my household pretty much daily when you come home, do a thorough tick check, throw your clothes in the dryer. Ticks hate heat. And some people like to use permethrin, spray this insecticide that's designed to kill ticks on your boots or your pants when you go out for a hike. So there are things that, I mean, for decades, researchers have known these things are really effective if you keep doing them, if you stay vigilant. Right? And all it takes is that one time, that one time you go out for a hike and you come back and you forget to do the tick check. So we need those kinds of personal measures of vigilance and protection, but we still need to kind of push for a bigger public health response to this…. 
+
+  
+
+SCORING BUMP
+
+  
+
+JONATHAN: Because the ticks are going to keep, they're going to keep spreading into the calendar too in the sense that as winters get warmer, more and more days of the year when you're outdoors, you're going to encounter ticks who are hungry and they're looking for you. 
+
+  
+
+SCORING BUMP
+
+  
+
+SEAN: Thanks, Jonathan! And thanks Meg! And thanks Danielle Hewitt, for producing the show today. Amina Al-Sadi for editing. Gabriel Dunatov for fact checking. And Patrick Boyd for flying solo. 
+
+  
+
+Be careful out there, friends!**

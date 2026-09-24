@@ -17,6 +17,7 @@ categories:
 ## Description
 
 Watch more of this series: https://to.pbs.org/4wkQIAG
+
 The climate crisis isn't a distant threat — it's already here, and it's deadly. But keeping people cool is surprisingly complicated. 
 
 In Sydney, Australia, physiologist Ollie Jay is tackling the problem by studying how the human body responds to extreme heat. The ultimate goal is to create low-cost cooling strategies for people without access to air conditioning — those most at risk from extreme heat. Science journalist Miles O'Brien puts himself in the hot seat — literally — to find out what it feels like when the body's cooling system starts to fail.
@@ -30,12 +31,17 @@ Enjoy full episodes of your favorite PBS shows anytime, anywhere with the free P
 FOLLOW US:
 
 Facebook: https://www.facebook.com/PBS/
+
 X: https://twitter.com/PBS/
+
 Instagram: https://www.instagram.com/PBS/
+
 TikTok: https://www.tiktok.com/@pbs
+
 Threads: https://www.threads.net/@pbs
 
 Resolve to Solve with Miles O'Brien
+
 Miles O'Brien travels the globe searching for solutions to climate, water, and health crises. From building sea curtains in Antarctica to restoring wildlife in Argentina, the answers are closer than we think thanks to people with a “Resolve to Solve.”
 
 #heat #heatwave #extremeweather #climatesolutions
@@ -43,111 +49,219 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 ## Transcript
 
 **0:01** · MILES O'BRIEN: At the iconic Sydney Opera House, I met a scientist looking for an answer.
+
 **0:06** · Ollie Jay runs the Heat and Health Research Center at the University of Sydney.
+
 **0:13** · Lay the context for us a little bit on Australia, its climate, and the heat impacts you deal with here.
+
 **0:21** · We have an increased prevalence of heat waves.
+
 **0:23** · They're greater intensity, the maximum temperature records are being beaten regularly.
+
 **0:28** · Among, uh, high income countries, we're actually the most susceptible to the impacts of extreme heat on human health and well-being.
+
 **0:35** · For a researcher such as yourself, trying to find solutions, ways to adapt, this is the perfect laboratory, isn't it?
+
 **0:41** · JAY: Absolutely.
+
 **0:42** · We take time to understand the nature of the problem before we start trying to develop solutions, because we don't want to go down that route that a lot of academics do of finding solutions to problems that don't exist.
+
 **0:52** · O'BRIEN: Ollie and his team are looking for smarter, more efficient ways to keep people safe and cool as the global thermostat rises.
+
 **1:01** · ♪ ♪ That was on his mind when I met him on a steamy Saturday at the University of Sydney Cricket Club Oval.
+
 **1:11** · (bat cracks) A match like this can last two long days, six to eight hours each.
+
 **1:19** · That was big!
+
 **1:20** · (cheers and applause) On the sidelines, Ollie Jay and his team were setting up a curious contraption they call the EMU.
+
 **1:30** · It's a flightless Australian bird, but also something called the Environmental Measurement Unit.
+
 **1:35** · O'BRIEN: Mm-hmm.
+
 **1:36** · Like MaRTy in Phoenix, EMU measures four key parameters: air temperature, humidity, radiant temperature and wind speed.
+
 **1:47** · We measure temperature in this device right here.
+
 **1:50** · We can move air in a certain way across that temperature sensor to get a very accurate read on what the temperature of the air is in the shade.
+
 **1:57** · O'BRIEN: Humidity is measured in that same white chamber.
+
 **2:01** · Above it is a copper sphere that is painted matte black.
+
 **2:07** · It measures radiation that comes directly from the sun and bounces off the various surfaces surrounding an athlete.
+
 **2:15** · JAY: And then using all of this information, we can model how hot someone's going to get, and therefore what their rate of dehydration might be.
+
 **2:21** · And, you know, potentially how much water they need to drink in order to maintain hydration.
+
 **2:29** · O'BRIEN: A short walk away from the cricket oval is Ollie's lab.
+
 **2:33** · And that's where he's built another novel tool to better understand how heat affects the human body.
+
 **2:39** · It's a climate chamber.
+
 **2:42** · Think of it as a science oven, and I'm on the menu.
+
 **2:47** · JAY: Just be careful of the step there.
+
 **2:49** · Here we go, Miles.
+
 **2:50** · O'BRIEN: You're not messing around.
+
 **2:52** · JAY: No, we're not messing around. O'BRIEN: All right.
+
 **2:54** · Reporting for scientific duty.
+
 **2:55** · I was finally going to find out what it's like to be an order of French fries, waiting under the heat lamp on a short-order shelf.
+
 **3:05** · Before I got this far, I swallowed a horse pill.
+
 **3:08** · Right down the gullet there.
+
 **3:10** · A thermometer with a tiny transmitter inside that tracked my core temperature.
+
 **3:15** · I'm hot stuff.
+
 **3:16** · They took my blood pressure.
+
 **3:18** · Applied a strap to track my heart rate and a mask that measured the amount of oxygen I was consuming, to help estimate how much heat my body was generating on its own.
+
 **3:30** · JAMES SMALLCOMBE: If you can just blow out for me.
+
 **3:31** · (blows) Yep, that's tight enough, that's perfect.
+
 **3:34** · Your cardiovascular system seems to be in pretty good nick, uh, Miles, we've got, you know, great blood pressure and your resting heart rate's nice and, uh, nice and low, so.
+
 **3:43** · Objective evidence demonstrating your very good health.
+
 **3:46** · O'BRIEN: He put it to the test by simulating one of the worst weather disasters in modern U.S. history: the heat wave in Chicago in 1995.
+
 **3:57** · More than 700 people died.
+
 **3:59** · Researchers concluded a working air conditioner would have prevented half the fatalities.
+
 **4:05** · And living alone doubled the risk of death.
+
 **4:07** · It became a stark lesson in how vulnerability and isolation can turn extreme heat into a mass-casualty disaster.
+
 **4:17** · Almost for the first time, it placed extreme heat on the radar of public health officials and actually seeing that it is responsible for excess death and morbidity.
+
 **4:27** · O'BRIEN: The tragedy exposed something deeper than weather.
+
 **4:31** · It was about inequality, and neglect.
+
 **4:35** · That summer, Chicago made it painfully clear heat doesn't strike evenly, and it kills quietly.
+
 **4:44** · We're doing this from the perspective of trying to understand the settings that the most vulnerable are going to be in, and then developing solutions that are fit for purpose in those settings.
+
 **4:54** · O'BRIEN: Here in the chamber, the temperature was 104 degrees Fahrenheit, with humidity between 50% and 60%.
+
 **5:03** · It was pretty miserable.
+
 **5:06** · I feel like a cheeseburger just off the grill.
+
 **5:08** · The human body cools itself by sweating, but that only works if the sweat can evaporate.
+
 **5:14** · At this temperature and humidity, it can't.
+
 **5:19** · The air is nearly saturated.
+
 **5:21** · The sweat just sits there, and the body keeps heating up.
+
 **5:27** · It's a huge challenge for human survival.
+
 **5:30** · What we know is that the people who are most vulnerable won't have access to air conditioning.
+
 **5:34** · They most likely won't have access to things like cooling shelters as well.
+
 **5:38** · They'll be sheltering at home in place.
+
 **5:40** · So the question is, what type of activities, what type of risk reduction cooling strategies can these people use that is most effective at blunting that physiological heat strain that generates inside the body that we know is harmful to human health?
+
 **5:53** · O'BRIEN: He's exploring cooling strategies for people who can't afford to live in air-conditioned comfort.
+
 **6:00** · Practical, low-cost ways to survive the heat.
+
 **6:04** · Things like immersing your feet in water so they act like radiators.
+
 **6:09** · And using fans which, under the right conditions, can significantly reduce the effects of heat stress.
+
 **6:16** · These are the kinds of things that can help the most vulnerable among us, during a heat wave like Chicago in 1995.
+
 **6:26** · With the proper prior planning on that, could those deaths have been preventable?
+
 **6:31** · Most of them?
+
 **6:32** · There's a, there's a saying, um, in the heat health space that every heat-related death is preventable.
+
 **6:40** · O'BRIEN: Globally, heat kills about a half-a-million people every year.
+
 **6:45** · And in the U.S., the fatalities are growing at an alarming rate.
+
 **6:50** · In 2023, more than 2,300 died from heat in the U.S.
+
 **6:55** · About three times more than a decade ago.
+
 **6:58** · Far greater than the average toll for hurricanes and wildfires.
+
 **7:03** · They grab the headlines, but heat has always been the most lethal consequence of climate change, by far.
+
 **7:11** · Outside this window in Sydney, intense heat is everywhere-- quiet, invisible and relentless.
+
 **7:20** · Ah.
+
 **7:22** · (sighs) Sheesh.
+
 **7:23** · After I'd mopped myself up, Ollie and I went from the frying pan to the fire.
+
 **7:31** · He took me on a walking tour of the University of Sydney campus.
+
 **7:35** · Born and raised in Wales, with a stop in Canada along the way, Ollie actually earned his PhD studying cold temperatures.
+
 **7:45** · But in 2014, Sydney beckoned.
+
 **7:48** · Suddenly, he was on the opposite end of the earth and the thermometer.
+
 **7:53** · Australia being a hot place, and it is a hot place, I figure that if, Australian-based researchers, if we can't get a handle on these problems, and we can't find a solution, then there's very little chance that anyone else will.
+
 **8:06** · O'BRIEN: Plenty of scientists study the climate and the relentless rise of temperatures.
+
 **8:10** · But far fewer connect the dots to the impact on human health.
+
 **8:15** · How heat affects real bodies, in real time, in a warming world.
+
 **8:20** · It's a mistake to overlook human physiology as you try to come up with some answers here, right?
+
 **8:25** · If you think about it from a health perspective, obviously, the hot weather is a problem.
+
 **8:29** · But the real problem is the hot person in the hot environment.
+
 **8:32** · ♪ ♪ O'BRIEN: It was time for us to solve that problem.
+
 **8:36** · We met up with his partner Allison and their adorable, precocious daughter Lottie.
+
 **8:41** · ALLISON: Ready to go to the beach?
+
 **8:43** · O'BRIEN: They took me to Coogee Beach, a short walk from their home in Sydney.
+
 **8:49** · Becoming a parent has changed the way he thinks about his work.
+
 **8:54** · It's sharpened his focus and redoubled his resolve to solve.
+
 **9:00** · There are lots of solutions, but I think what we've got to do is focus on not just climate change mitigation, ensuring that the choices that we make don't aggravate the problem in the future, but also got to face that we've got to adapt to a warmer world.
+
 **9:13** · We need to do both of them at the same time.
+
 **9:15** · It would be bad if all of that back and forth led to inertia and apathy. JAY: Well, it's exactly right.
+
 **9:21** · People need to have hope in order to act.
+
 **9:22** · Otherwise, we just bury our head in the sand and try to pretend it's not happening when it is.
+
 **9:26** · O'BRIEN: In the sand. JAY: Here we are.
+
 **9:28** · O'BRIEN: I see what you're doing there, man.
+
 **9:30** · Nicely done, nicely done. (Ollie laughing) ♪ ♪

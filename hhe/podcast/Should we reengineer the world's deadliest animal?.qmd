@@ -12,7 +12,9 @@ categories:
 ![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** Short Wave
 
 ::: {.callout-description collapse="true"}
@@ -25,3 +27,165 @@ The most ferocious predator for us humans is actually quite small: the mosquito.
 
 :::
 
+
+<iframe src="https://www.npr.org/player/embed/nx-s1-5806598/nx-s1-mx-5806598-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+SPEAKER: You're listening to Short Wave from NPR.
+
+EMILY KWONG: The most ferocious predator for us humans is actually quite small.
+
+\[BUZZING\]
+
+KWONG: It's the mosquito. They are hungry for blood and spreading diseases all the time, including serious ones, like malaria, yellow fever, and dengue. But what if we could wipe out the mosquito, We have the technology to do it. But should we? Here to discuss that is Ben Bradford, the host of a new podcast distributed by the NPR Network. It's called Are We Doomed?
+
+BEN BRADFORD: It is. Hi, Emily.
+
+KWONG: So, Ben, your podcast Are We Doomed? covers a lot, from killer AI to nuclear weapons and, of course, the bloodthirsty micropredators I want to talk about today. How do you feel about mosquitoes, by the way?
+
+BRADFORD: I think they're gross, and I think they're rude. And you mentioned, Emily, new gene-editing techniques could allow us to eradicate our little insect nemesis, potentially saving millions of lives.
+
+KWONG: Yes. I learned that from you, from your show.
+
+BRADFORD: Yeah, thank you.
+
+KWONG: The tech is here.
+
+BRADFORD: Yeah. Thank you. And it would be amazing. But also, in that technology is something inherently more dangerous. I talked to Kevin Esvelt, who is a biologist now at the MIT Media Lab.
+
+KEVIN ESVELT: And if you can engineer a mosquito so it can't spread disease, you could engineer a mosquito so it always spreads disease.
+
+\[CONTEMPLATIVE MUSIC\]
+
+KWONG: Today on the show, the technology that allows us to kill the mosquito comes with all kinds of complications.
+
+BRADFORD: So what does it mean to try to change an entire species? Who gets to decide? What might the ripple effects be? How do you test it? How do you protect it?
+
+KWONG: Easy questions, you know. You're listening to Short Wave, the science podcast from NPR.
+
+\[CONTEMPLATIVE MUSIC\]
+
+KWONG: OK, Short Wavers. I'm here with Ben Bradford, who's just done all this reporting on have to save millions of people from malaria by wiping out the mosquito. Ben, how does that even work?
+
+BRADFORD: Yeah. So let's go back to early last decade. Scientists developed a new form of gene editing, which you may know as CRISPR. It's this way of scalpelling out a tiny strand of DNA. And you kind of like suture in a new trait. It doesn't quite look like that, but that's essentially what's happening. And so with CRISPR, you can cure a genetic disease or engineer a cow to grow without horns, both things that they have done in labs.
+
+KWONG: Wow.
+
+BRADFORD: But Kevin Esvelt, this biologist now at the MIT Media Lab, had his own realization.
+
+ESVELT: Turns out, it doesn't just let you engineer organisms in the lab. It lets you let them go, and the engineered trait will spread to most of the ones in the wild. That's incredibly exciting.
+
+BRADFORD: Kevin is the person who figured out you could CRISPR a creature, do this little DNA surgery, so it always passes along the gene that you put into it. And so with CRISPR, the idea is you can create a mosquito that, for instance, always has males, and then its offspring will always have males. And so you put it into an area, and it extinguishes all these species carrying malaria in that area.
+
+KWONG: Because there aren't females to mate with.
+
+BRADFORD: Yeah. And so to do this, you, of course, have to engineer a mosquito from hell. In the show, we called him Jerry.
+
+JERRY: Hi.
+
+\[MACHINERY WHIRRING\]
+
+\[SPLAT\]
+
+BRADFORD: To clarify, Jerry's mission is actually not to murder all mosquitoes, because they're just trying to target in an area with malaria. And that's because mosquitoes are ecologically important.
+
+KWONG: They are important to the environment. It's true.
+
+BRADFORD: I didn't know that, but they are. And it was disappointing. They're pollinators and birds--
+
+KWONG: Wow.
+
+BRADFORD: --and spiders, yeah, all kinds of critters eat them.
+
+KWONG: Yeah. It would be reckless to wipe out mosquitoes entirely. But when it comes to Jerry, the mosquito from hell, he's just meant to wipe out the mosquitoes that carry malaria in a certain region. But then the question becomes, how do you do that without affecting birds and spiders?
+
+BRADFORD: So the idea is to offer birds and spiders a different kind of mosquito to snack on, one that doesn't transmit malaria, because there's a whole bunch of different types of mosquito species. And even better or worse, Kevin says, we don't need to take out the malaria-carrying mosquitoes forever, even.
+
+KWONG: Right. You say in the show, they just need to, quote, \\"go on a sabbatical.\\"
+
+BRADFORD: Yeah. That's right. We just need them to, like, disappear for a little while.
+
+ESVELT: Malaria transmission requires humans, and it requires mosquitoes. So this is a back-and-forth transmission chain.
+
+BRADFORD: So if the mosquitoes go on sabbatical for long enough, for the malaria to die out in the humans that the mosquitoes pick up the malaria from and transmit it between, then when the mosquitoes come back, the malaria is gone, and there's just nothing for them to transmit.
+
+KWONG: This plan is bold. It's like, use CRISPR, make mosquito. Mosquito Jerry, though, only makes sons. And then the malaria mosquitoes will be wiped out, but not for too long, because that would be bad.
+
+BRADFORD: Just enough.
+
+KWONG: Just a sabbatical.
+
+BRADFORD: Yeah. And so it turns out that there's a whole bunch of steps that you kind of have to follow if you're going to do this in a way where you, one, test that the thing actually is going to work, and two, test that it's not going to work too well and go around the world and create a whole bunch of problems.
+
+KWONG: So how do you even go about testing this?
+
+BRADFORD: Well, you need an area where you're going to put out your mosquitoes into the wild, kind of a cordoned-off area where they're going to be on their own. And basically, what we're describing is a mosquito Jurassic Park. And then that leads to other questions, which is, how do you stop what happens in every Jurassic Park movie?
+
+KWONG: Uh, the dinosaurs get out.
+
+BRADFORD: And so, of course, this is the challenge. And we know what we're trying to avoid, because we've seen it in history.
+
+KWONG: Let's listen to a section of the episode that talks about how this can all go wrong.
+
+\[AUDIO PLAYBACK\]
+
+BRADFORD: Take a tangent with me to the shores of Australia and New Zealand in the late 1800s. European ships landed, bringing sailors and soldiers and felons and rabbits. Europeans brought rabbits over for food and hunting, snacks and sport. Of course, the rabbits quickly escaped and bred all over both islands and became a scourge on an environment totally unprepared for them. They eat everything. New Zealanders looked to fight back. They brought over ferrets and weasels to sic on the rabbits. And when that failed, ferrets and weasels became more invasive species. Skip to the 1990s. Neighboring Australia, largely by accident, unleashed an only partially tested biological weapon against its rabbits.
+
+SPEAKER: This nasty virus that wiped out, like, 2/3 of all rabbits or more.
+
+BRADFORD: New Zealand had been considering using this virus as well, but it wanted more testing first.
+
+SPEAKER 1: New Zealand government said, we're not sure of safety and so forth. So for now, you're forbidden to import this virus into New Zealand.
+
+BRADFORD: So what do you think happened at this point? New Zealand farmers, losing millions of dollars as rabbits destroyed their crops, began taking little vacations to Australia to go hunting for infected rabbits.
+
+SPEAKER 1: And they smuggled in diced up, infected rabbit parts from Australia illegally.
+
+BRADFORD: They liquefied the body parts into virus-laden smoothies, which they spread on their fields. Bam. New Zealand had the rabbit virus.
+
+SPEAKER 1: And what's the government going to do?
+
+SPEAKER 2: When it's out, it's out.
+
+BRADFORD: This is Kevin's fear. If we do create a mosquito Jurassic Park to test Jerry, which we have to do to make sure he works and doesn't cause a ripple effect of unknown ecological destruction, Kevin says some New Zealand farmers are going to steal one of our mosquitoes.
+
+ESVELT: Of course someone would do that, and they would tell themselves a perfect story in which they're the hero, right?
+
+BRADFORD: If Jerry gets out, we don't know what harm he would cause because we haven't field tested. Consider the possibilities. Jerry and his descendants could travel around the world. These mosquitoes would spawn only males wherever they go, leading to globally extinguishing all of his species. Worse, what if it turns out Jerry can mate with another type of mosquito and he passes along his all-boys gene to one of them? What if that one can mate with another species, and so on? Maybe that gene travels throughout all types of mosquito and does eradicate them entirely. What if birds and spiders and flowers can't adapt to that loss, and it creates a domino effect of environmental destruction? Then we've got a problem.
+
+\[RELAXING MUSIC\]
+
+\[END PLAYBACK\]
+
+KWONG: This approach, you know, clearly comes with so many unintended consequences. You say on the show, the point is to insert a trait that spreads like wildfire, and wildfire is hard to stop.
+
+BRADFORD: Yeah. And so that is the main argument against doing this thing, this technology, which is basically called an engineered gene drive. And so there are people who think we should, you know, pack this up, seal it away, never do it.
+
+KWONG: And a gene drive in nature is when, like, a trait kind of naturally evolves to get passed on.
+
+BRADFORD: It gets really good at being passed through its offspring.
+
+KWONG: But here, humans are interfering to make that happen.
+
+BRADFORD: Here, we're making it happen. Yeah. That's sort of the debate. But, of course, the stakes are, do you get rid of malaria? Do you get rid of dengue fever? And so when I talked to Kevin, the person who kind of figured out, hey, we could do this, his biggest concern is that an accidental, untested release of, let's say, Jerry, poisons the whole discourse around this and any attempt to do it.
+
+ESVELT: We know what happens when there's a backlash to technology. We're seeing it right now for vaccines and other things. And we saw it even in biomedicine with something like gene therapy, where a single death in a poorly planned clinical trial that led to tragedy set back the entire field by more than a decade. More than a decade is more than 5 million dead children.
+
+KWONG: That's a lot of pressure. Because, you know, mosquito-borne diseases cost the lives of hundreds of thousands of people every year. But on the other hand, you don't want to roll out a gene drive project too quickly because something could go terribly wrong.
+
+BRADFORD: And you can hear, in our episode, that pressure that Kevin feels because of that. And so it does. It creates all of these hurdles, all of these kind of like little puzzles that you need to solve to be able to do that. You know, we need to test our mosquitoes, like Jerry, to make sure he doesn't cause unintended consequences. You have to do this sort of like field test your Jurassic Park. But how do you do the Jurassic Park without risking those consequences, where someone's going to steal him or he's going to get out? I mean, they fly, for God's sakes. So, like, what are you going to do?
+
+KWONG: It is such a puzzle. And in your episode, you talk about some ways to work the puzzle, to actually, like, take what's theoretical and make it happen in the real world.
+
+BRADFORD: These guys are so smart. They're so smart.
+
+KWONG: What is your takeaway from all this when it comes to the ethics of a gene drive for mosquitoes, but really, also for any species?
+
+BRADFORD: Yeah. I think that the possibilities here are really exciting. I mean, malaria is terrible. And the mosquito has killed more people than any other creature on the Earth. And so you start thinking about how we can solve that for our species. That's amazing. But, you know, I will say, you know someone else on our team, our animator, who was watching this episode and doing our animation for it-- and he heard it and was like, this is insane. We should never do this.
+
+KWONG: Mm. Ben Bradford, your podcast Are We Doomed? is out now. Thank you so much for coming into Short Wave.
+
+BRADFORD: Thank you for having me.
+
+KWONG: Check out the show. It's really good. You can find it all the places you typically get your podcasts. And also, if you haven't already, download the NPR app. My bosses really want you to do it, and you will honestly get great journalism from it. Thank you. This episode was produced by Rachel Carlson and edited by our showrunner Rebecca Ramirez. Tyler Jones checked the facts. Kwesi Lee was the audio engineer. I'm Emily Kwong. Thank you for listening to Short Wave from NPR.

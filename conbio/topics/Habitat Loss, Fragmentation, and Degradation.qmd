@@ -1,6 +1,6 @@
 ---
 title: "Habitat Loss, Fragmentation, and Degradation"
-date: "2026-08-29"
+date: "2026-09-28T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,1794 @@ listing:
   contents: "Habitat Loss, Fragmentation, and Degradation_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-09-28T16:00:00, 2026-09-30T16:00:00
+
+## Assigned Background
+
+### Habitat fragmentation and landscape change
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Habitat fragmentation and landscape change
+
+**Ch No.:** 5 (Threats to Biodiversity)
+
+**Pages:** 88-106 (Habitat Loss, Fragmentation, and Degradation)
+
+**PDF:** [bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2, BIOL4120_W6D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Andrew F. Bennett, Denis A. Saunders
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193199032)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+:::
+
+### Habitat destruction: death by a thousand cuts
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Habitat destruction: death by a thousand cuts
+
+**Ch No.:** 4 (Threats to Biodiversity)
+
+**Pages:** 73-87 (Habitat Loss, Fragmentation, and Degradation)
+
+**PDF:** [laurance_2010.pdf](../attachments/laurance_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2, BIOL4120_W6D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by William F. Laurance
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193198326)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![laurance_2010.pdf](../attachments/laurance_2010.pdf)
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Readings
+
+#### Ch 9 Habitat Loss, Fragmentation, and Degradation
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Textbook:** Conservation Biology *(see details below)*
+
+**Chapter:** 9 (Threats to Biodiversity)
+
+**Sections Assigned:** 9.1, 9.2, 9.3, 9.4 (Habitat Loss, Fragmentation, and Degradation)
+
+**Days Covered:** BIOL4120_W5D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology by 
+
+**Edition:** 2nd (2025-01-17)
+
+**ISBN:** 9780197667033 (textbook)
+
+[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+
+:::
+
+#### Habitat destruction: death by a thousand cuts
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Habitat destruction: death by a thousand cuts
+
+**Ch No.:** 4 (Threats to Biodiversity)
+
+**Pages:** 73-87 (Habitat Loss, Fragmentation, and Degradation)
+
+**PDF:** [laurance_2010.pdf](../attachments/laurance_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2, BIOL4120_W6D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by William F. Laurance
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193198326)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![laurance_2010.pdf](../attachments/laurance_2010.pdf)
+
+:::
+
+#### Habitat fragmentation and landscape change
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Habitat fragmentation and landscape change
+
+**Ch No.:** 5 (Threats to Biodiversity)
+
+**Pages:** 88-106 (Habitat Loss, Fragmentation, and Degradation)
+
+**PDF:** [bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2, BIOL4120_W6D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Andrew F. Bennett, Denis A. Saunders
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193199032)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+:::
+
+### Video Clips
+
+#### Are We Living In the Sixth Extinction
+
+**Be Smart**, *11 17, 2014*
+
+## Video (9:11)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/z9gHuAwxwAs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+This time, we're the asteroid.
+
+Viewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/PBSDSDonate
+
+Subscribe to It's Okay To Be Smart: http://bit.ly/iotbs_sub 
+
+Read "The Sixth Extinction by Elizabeth Kolbert: http://amzn.to/1xGKn0K 
+
+Rodolfo Dirzo et al. "Defaunation in the Anthropocene" http://bit.ly/1H7JQdw 
+
+Stuart Pimm et al. "Biodiversity of Species and Their Rates of Extinction" http://bit.ly/1A5UZJM 
+
+Get to know an endangered species: http://discover.iucnredlist.org/ 
+
+Half of world's wildlife has died off in past 40 years: http://bit.ly/1BHl8jR 
+
+Have an idea for an episode or an amazing science question you want answered? Leave a comment below!
+
+Produced for PBS Digital Studios 
+
+Joe Hanson - Host/Writer
+
+Joe Nicolosi - Director
+
+Amanda Fox - Producer, Spotzen Inc
+
+Kate Eads - Associate Producer
+
+Katie Graham - Director of Photography
+
+Andrew Matthews - Editing/Motion Graphics
+
+Dalton Allen - Post-production intern
+
+John Knudsen - Gaffer 
+
+Theme music:
+
+"Ouroboros" by Kevin MacLeod
+
+Stock images by Shutterstock
+
+-----------
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+## Transcript
+
+### The history of extinction
+
+**0:02** · [MUSIC] The California Golden Bear The Great Auk The Passenger pigeon The Tasmanian tiger The Pinta Island tortoise The Golden toad All dead. And the killer is right there in the room with you.
+
+**0:22** · [MUSIC] The walls of France’s Lascaux cave hold some of humankind’s earliest art, almost mythical species: a wooly rhinoceros, enormous-antlered Megaloceros elk and massive aurochs. The artists lived on, became us, but those cave walls are the last place that those animals still run. They’re gone. Extinct.
+
+**0:51** · We all pretty much understand extinction, it’s when a species kicks the proverbial bucket, it rides off into the great biological sunset, bites the dust from whence it came and shall return, which is all just a pretty way of saying that every last one of them dies.
+
+**1:05** · Even kids are used to the idea that sometimes groups of living things just… don’t exist anymore. Okay, mostly don’t exist.
+
+### Discovering mass events
+
+**1:13** · But extinction, as a thing, is a surprisingly new concept. In the 1790’s, by studying various fossils, naturalist Georges Cuvier was the first to show that they were not from living, yet undiscovered creatures, as many thought, but from what he called “lost species”.
+
+**1:29** · In the decades to come, scientists like Charles Lyell and ol' Chuck Darwin began to popularize the idea that Earth’s processes, like geology, evolution, and even extinction, did occur, just very, very, verrrry slowly. So slowly that we’d surely never actually see something go extinct. The idea of so-called catastrophic change was just impossible… It wasn’t until the 1980’s that scientists were able to shake that idea. Geologist Walter Alvarez was puzzled by the sudden disappearance of tiny aquatic fossils between two rock layers that dated from about 66 million years ago, the same age as the last dinosaurs.
+
+**2:01** · With the help of his Nobel Prize winning father, he analyzed the chemistry of that boundary and found iridium levels that were off the charts. Now, there’s usually not much iridium in Earth’s crust, but it’s very common in asteroids. So Alvarez’s theory? A 10-km wide rock collided with Earth, wiping out 75% of Earth’s plants and animals. To be honest scientists kinda laughed at it… until the 1991 discovery of the Chicxulub crater near the Yucatan peninsula finally settled it.
+
+**2:36** · Everything alive today is a descendent of a survivor of that terrible, horrible, no good, very bad day, the so-called Cretaceous-Paleogene mass extinction event, the most recent of the Big 5.
+
+### The big five extinctions
+
+**2:50** · You should feel pretty lucky. When we look at all of Earth’s fossil record together, 98% of the species that have ever lived are extinct,. Only they haven’t always disappeared at a constant rate.
+
+**3:02** · In the history of life on Earth, we know of 5 different mass extinctions, when a majority of life on Earth at the time disappeared in the blink of a geologic eye.
+
+**3:13** · Besides the most recent dino-killer, there’s the Triassic-Jurassic, Late Devonian, Ordivician-Silurian, and the worst of all, the End Permian. This was the mother of mass extinctions, it wiped out as many as 96% of Earth’s species, so it got the best nickname: The Great Dying.
+
+**3:34** · We’ve learned about all these just in time to get some bad news: We are in the 6th mass extinction, and this time, we are the asteroid.
+
+### The sixth mass extinction
+
+**3:46** · The hard facts of life mean that even when things are going pretty well on Earth, there’s a background rate of extinction. Among mammals, for instance, we’d expect to see one species go extinct every 700 years, or maybe one amphibian every thousand years.
+
+**4:00** · Studies of current extinction rates say we’re roughly one thousand times past that, and in some groups, like amphibians, are disappearing forty-five thousand times faster than normal.
+
+**4:13** · And since there are so many species still unknown or uncharacterized, all of those numbers are probably underestimates.
+
+**4:19** · Goodbye, gastric brooding frog, Pyrenean ibex, the Fomosan clouded leopard. We could have been friends.
+
+**4:29** · So how do we know we’re to blame?
+
+**4:32** · Around 13,000 years ago, as Earth thawed from its most recent big freeze, all of our favorite weird megafauna like the wooly mammoth, Smilodon, and our old friend Megatherium disappeared from the Earth, thanks to a changing climate and the invention of sharp stabby hunting tools. I really wish we had saved the 8-foot long beaver though. That would be awesome.
+
+**4:53** · Along the way, through hunting and farming, humans have been altering ecosystems in small but significant ways, but since the Industrial Revolution, man we have really kicked it into overdrive.
+
+**5:05** · With the exception of maybe the first bacteria to breathe oxygen into the air, no living thing has ever altered life on Earth to the degree that we have, which is why scientists now refer to current epoch as the Anthropocene.
+
+### Drivers of species loss
+
+**5:18** · "We are the ultimate problem. There are 7 billion people on the planet, we tend to destroy critical habitats where species live, we tend to be warming the planet, we tend to be very careless about moving species around the planet."
+
+**5:32** · According to a 2014 paper by Stuart Pimm in Science (link in the doobly do), the main cause of the current extinction is human population growth and increased consumption. But those two things lead to a whole mess of threats: The most obvious are climate change and habitat destruction. Scientists found that most land species have very small ranges, so they can’t just pack up and move when we cut down their forest or turn it into a desert.
+
+**5:55** · Ocean species have more freedom to move to better waters, unless they’re coral reefs, but thanks to the highest atmospheric CO2 concentrations in 800,000+ years turning the oceans more acidic, anything with a calcium based shell has nowhere to run… or swim. If current trends hold up and the ocean hits pH 7.8 by end of century, it could wipe out ⅓ of the species in the ocean.
+
+**6:23** · Then there’s the invaders! Thanks to a species of snake hitching a ride on military cargo in the 1940s, Guam has lost all of its native birds. "I have had it with these (invasive) snakes on this (Guam-bound cargo) plane" In Africa’s Lake Victoria, 100s of species of cichlid fish species vanished after fishermen introduced the Nile Perch. Go us! We’re erasing species faster than we can even name them.
+
+**6:50** · Stanford’s Rodolfo Dirzo says that in the past 40 years, invertebrate populations, which might make up 97% of species on Earth, have declined 45% worldwide, and that’s just the ones we know about. (Link in the doobly do to that one too) You have to feel worst for the amphibians. Over the past 350 million years, they’ve survived multiple mass extinctions, but this time we’re giving them all we’ve got.
+
+**7:17** · Dirzo gives this loss of animal life a rather harmless sounding name: Defaunation. But there is nothing cute about it. There is not a group of living things on Earth today that is not threatened by the current and coming extinction. That includes us.
+
+### Why saving species matters
+
+**7:34** · Extinction is about more than gorillas, tigers, polar bears, and rhinos, and the dozens of other “famous” or “charismatic” species out there. Those are all important and worth saving, but we need to care just as much about the humble beetles, the ugly little worms, and the slimy frogs.
+
+**7:52** · Every species, big or small, panda or protozoa, is important and worth saving, whether or not we understand exactly why it’s worth saving.
+
+**8:02** · John Muir once said, “When we try to pick out anything by itself we find that it is bound fast by a thousand invisible cords that cannot be broken, to everything in the universe.”
+
+**8:15** · I’ve put some links down in the description where you can get to know some of Earth’s less-loved endangered species. Go make friends with one.
+
+**8:23** · Our knowledge and understanding of the planet’s ecosystems may be incomplete, but our effect on them knows no bounds. I hope the same tools and technology that we’ve used to push life on Earth to the edge might also give us power to bring ‘em back.
+
+**8:39** · So what are we gonna do? Let’s talk about it down there.
+
+**8:43** · Stay curious.
+
+**8:44** · If you want to read more about the brilliant and tragic stories of extinction in this age of humans, check out "The Sixth Extinction" by Elizabeth Kolbert, link in the description.
+
+#### Giant Pythons Have Overrun Florida. Here’s Why
+
+**PBS Terra**, *08 08, 2023*
+
+## Video (13:31)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/kweD8y5LqsA?start=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Watch the full first episode of Human Footprint here: https://youtu.be/m36E3n7y3mY
+
+Ever heard of the phrase "when pet pythons outgrow their owners"? Well, host Shane Campbell-Staton is about to take us on an adventure to find out what happens next in this episode of Human Footprint. Join Shane as he meets bounty hunter Donna Kalil, exotic animal trader Hillary Dupont, and biologists Matthew McCollister and Kristen Hart as they battle the invasive Burmese Pythons of the Everglades.
+
+Human Footprint is a show that delves into the impact of humans on the planet. Join Shane as he travels from farms to restaurants, from high-tech labs to street markets, and from forests to cities to uncover the consequences of our unique history. Are you ready to explore our past, present, and future as a species?
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+## Transcript
+
+**0:07** · Another monster gone!
+
+**0:09** · Oh my gosh.
+
+**0:11** · Burmese Pythons have transformed the entire ecosystem of South Florida.
+
+**0:17** · After arriving here as seemingly innocent pets, these snakes have overrun their new environment in just a few decades.
+
+**0:23** · The thing is, there’s still a lot we don’t know about how these elusive snakes live in the wild, like how long they live, how far they move, or even how many offspring they have.
+
+**0:33** · And the only way to find out... well, is to catch them.
+
+**0:36** · So I met up with a python hunter, an exotic pet dealer, and a team of wildlife biologists to get the story behind the invasion, and see how these dedicated south Floridians are working together to protect these natural habitats.
+
+**0:50** · I'm Shane Campbell-Staton, and this is Human footprint.
+
+**0:55** · Once I see it, adrenaline starts pumping and, you know, the game's on.
+
+**1:13** · I've caught on full moons, I've caught below 75.
+
+**1:16** · I've caught on windy days.
+
+**1:17** · So, you know, you just got to be out here.
+
+**1:20** · You never know when a python's going to be out here moving around.
+
+**1:25** · In 2017, Donna Kalil quit her job in real estate to become a full-time Burmese python hunter.
+
+**1:34** · I'm loving the, loving this uh, the snake leather. It's nice and supple.
+
+**1:39** · Right there.
+
+**1:39** · Yeah!
+
+**1:40** · Love the trim.
+
+**1:41** · It helps my volunteers, you know, remember what you're looking for out there.
+
+**1:47** · What made you decide to take up the mantle of python wrangler?
+
+**1:50** · I know how to catch snakes.
+
+**1:52** · I've known how to all my life.
+
+**1:54** · And I knew that I can make a difference to the environment that I love.
+
+**1:57** · What is the largest python you’ve caught?
+
+**2:00** · The largest I've caught was 16 even.
+
+**2:03** · Oh wow!
+
+**2:04** · These guys didn't sprout wings and fly over from Southeast Asia.
+
+**2:07** · We brought them here.
+
+**2:08** · So we made the problem.
+
+**2:09** · We got to, we got to fix it.
+
+**2:12** · One way Florida is trying to fix the problem is by paying folks like Donna to capture and kill the pythons.
+
+**2:19** · So far, she’s brought in more than 600 of them.
+
+**2:26** · So if you do see something on the road, yell “Python,” and then we're good to go.
+
+**2:31** · Awesome. Let's ride.
+
+**2:38** · I so highly respect these things because they're in an environment that they were put in, and they took over.
+
+**2:45** · Oh, will you stop?
+
+**2:47** · Back up just a little bit.
+
+**2:48** · Got something?
+
+**2:49** · Stop.
+
+**2:53** · Let me go check.
+
+**2:55** · It was down by the trees?
+
+**2:56** · Both of us saw it.
+
+**2:58** · When they feel vibrations coming at them, when they think that there's something's coming at them, they're going to take off.
+
+**3:12** · There is a gator right there.
+
+**3:14** · You definitely saw a python though?
+
+**3:17** · I’m positive.
+
+**3:24** · If it was a python, it got to the water before we got to it.
+
+**3:33** · To understand how the python problem started, you need to understand the Florida pet trade.
+
+**3:40** · Some of the snakes Donna and I were looking for came from stores a lot like this one in Palm Beach County.
+
+**3:46** · We had a 22 foot reticulated python named Heather.
+
+**3:50** · We named her after my sister.
+
+**3:53** · I never really had a fear of big snakes.
+
+**4:02** · Hillary Dupont took over the store from her parents, who started it in the 90s.
+
+**4:12** · Her dad was a herpetologist and zookeeper, so Hillary’s been around exotic animals her whole life.
+
+**4:19** · So I grew up, back in the day, I have pictures, where my Dad used to bring home the lions and the chimpanzees from lion country, back when that was “OK”!
+
+**4:32** · Hillary’s bringing up her children in this world too, and from what I can see, they’re into it.
+
+**4:37** · I mean, really, what kid wouldn’t love growing up with all these animals in the family?
+
+**4:46** · Did a lot of Burmese pythons come through this store?
+
+**4:50** · Were they sold here?
+
+**4:51** · Yeah, we did.
+
+**4:52** · We had a lot of Burmese pythons come in and out and people would buy them.
+
+**4:56** · And then, of course, when they got to a certain size, they were like, oh, where are we going to keep this?
+
+**4:59** · Where are we going to put this?
+
+**5:00** · And they would bring them back.
+
+**5:01** · But not everyone took their pythons back to the store.
+
+**5:05** · Many dumped them into the closest wetland.
+
+**5:07** · Yes, we're 100% at fault for contributing to that back in the day, but that's where I'm redeeming myself.
+
+**5:16** · Florida Fish and Wildlife called us and said, do you want to be a drop center?
+
+**5:19** · And we said, absolutely.
+
+**5:21** · And so that's when they started getting dropped to us.
+
+**5:23** · Wildlife drop centers provide a safe place for people to bring unwanted pets… so Hillary’s store is a rare place where you can see Burmese pythons kept legally in Florida.
+
+**5:35** · Can I see one of these guys?
+
+**5:35** · You wanna go see one of them?
+
+**5:36** · Oh, yeah.
+
+**5:37** · I'll bring you over there.
+
+**5:39** · Come on, darling.
+
+**5:40** · Oh, my goodness.
+
+**5:42** · Come on.
+
+**5:43** · Boy’s got body, as they say.
+
+**5:47** · This is Satan.
+
+**5:48** · This is Satan?
+
+**5:49** · I know.
+
+**5:50** · It's a horrible name.
+
+**5:53** · He's kind of heavy and lanky.
+
+**5:55** · Alright Satan, let's say hello to everybody.
+
+**5:58** · How long is Satan?
+
+**6:00** · Well, he's around eight feet.
+
+**6:01** · Okay.
+
+**6:02** · And how old is the Prince of Darkness?
+
+**6:04** · We've had him for around five or six years.
+
+**6:06** · In a glass cage, these snakes seem harmless.
+
+**6:10** · But when they were released into a new environment, the results were devastating.
+
+**6:18** · Scientists are still trying to understand just how large of an impact they’re having.
+
+**6:23** · What they do know is that with their indiscriminate appetite, these snakes are wreaking havoc on the ecosystem’s native species.
+
+**6:31** · Burmese Pythons can take out the ecosystem’s apex predators, like alligators and crocodiles, upsetting the delicate balance in the Everglades which is home to endangered species like the Florida panther.
+
+**6:42** · And they can pose a risk to humans too.
+
+**6:45** · While Burmese Pythons typically stay far away from us, they can strike with and constrict to defend themselves and are fully capable of devouring cats and dogs.
+
+**6:54** · The animal is a challenge like no other.
+
+**6:57** · There’s a lot of surprises.
+
+**7:00** · This is ecologist Kristen Hart of the US Geological Survey.
+
+**7:04** · When she’s not chasing personal bests, she’s chasing down pythons… Kristen and Matt McCollister of the National Park Service are part of a team that’s trying to learn everything they can about how these snakes live in the Florida swamps.
+
+**7:23** · Today on the to-do list is to check two of our transmitted females.
+
+**7:28** · Okay.
+
+**7:29** · She was around 125 pounds when she was caught about this time last year.
+
+**7:36** · This is a basic radio tag.
+
+**7:37** · Okay.
+
+**7:39** · This is for an adult.
+
+**7:40** · We anchor it to the rib.
+
+**7:41** · So, there's a surgery to put the tags in.
+
+**7:45** · We put two in, so we don't lose them.
+
+**7:47** · They have a different frequency.
+
+**7:49** · So should one die, one tag, the battery expire, we still have a backup.
+
+**7:54** · And so it goes actually in the body in a surgery.
+
+**7:57** · And then we feed the antenna also right under the skin.
+
+**8:02** · You can hear it in the animal.
+
+**8:04** · It's all inside.
+
+**8:06** · So they come in for surgery based on the expected battery life.
+
+**8:11** · It seems pretty straightforward, but at the same time, it's a very technologically advanced solution.
+
+**8:19** · It's a really important tool for us.
+
+**8:21** · If we’re just walking around the woods, you're not likely to find a python.
+
+**8:24** · The tags are definitely the thing that help us track these animals.
+
+**8:28** · The team has radio tagged over 60 pythons.
+
+**8:31** · But they’re still learning the most basic facts about this species’ biology… like how long they live, how far they move, and how many babies they have… because to control them, we’ve got to understand them.
+
+**8:44** · So we'll end up going around this marsh and then back in the pine.
+
+**8:48** · I think they're adapting very well.
+
+**8:50** · And very quickly here in South Florida, it is a landscape scale phenomenon.
+
+**8:57** · This is not an easy environment to get around in… much less find a snake that doesn’t want to be found.
+
+**9:11** · It makes me realize how large I am as a human being.
+
+**9:15** · Not exactly built for stealth, but I'm trying my best.
+
+**9:19** · If it was easy, it would have been done before.
+
+**9:27** · Burmese pythons are very cryptic.
+
+**9:28** · They are in the canals.
+
+**9:30** · They are on the levees.
+
+**9:33** · They can be up in trees and underground.
+
+**9:41** · I believe it’s right here, just off the signal.
+
+**9:44** · You know, the animal is close to 16 feet long, so it could be in a few places.
+
+**9:48** · But if she’s in a ball, it’s likely right here.
+
+**9:53** · Just off where the signal feels hot.
+
+**9:55** · Prove once again why they have been able to conquer this habitat.
+
+**10:01** · Believe it or not there’s a snake here.
+
+**10:03** · The radio tag doesn’t lie… there’s a 16-foot python right under our feet, we just can’t get to it.
+
+**10:11** · Unfortunately, y’all have received the typical track experience.
+
+**10:17** · We will have to try another one.
+
+**10:23** · I mean, I think it's like an alien thing.
+
+**10:24** · Right?
+
+**10:25** · I mean, they lose teeth and they grow them back.
+
+**10:28** · They have regenerative organ growth.
+
+**10:30** · So they can actually like their heart can shrink, their stomach can shrink, and then they can grow it back.
+
+**10:37** · This is a vast wilderness with lots of prey.
+
+**10:41** · We've seen everything in their diet -- mammals, birds, gators.
+
+**10:46** · Once gators are on the menu, you've reached official gangster status.
+
+**10:52** · It's just unbelievable.
+
+**10:53** · Burmese pythons eat prey as small as mice, and as large as deer.
+
+**10:58** · And in some part of the everglades, these mammal populations have dropped by more than 90% from their python numbers.
+
+**11:08** · She’s at the base of this squash myrtle.
+
+**11:10** · I see her, I think.
+
+**11:12** · You see it in there?
+
+**11:13** · I do.
+
+**11:13** · Go and get your blood stuff out.
+
+**11:14** · It’s moving.
+
+**11:14** · I see it.
+
+**11:15** · You see it in there?
+
+**11:17** · Get the camera right in there.
+
+**11:17** · You see it?
+
+**11:19** · Wanna let her move out.
+
+**11:20** · You ready?
+
+**11:21** · Yeah.
+
+**11:23** · Nope, she wiggled out.
+
+**11:26** · Here’s a head.
+
+**11:37** · [Inaudible] To touch this animal and feel how muscular the whole thing is.
+
+**11:51** · Giving me all kinds of presents back here.
+
+**11:54** · You appreciate the beauty of it.
+
+**11:56** · But it's also like this cannot be out there.
+
+**12:00** · I mean, but it is.
+
+**12:03** · You wanna go and cinch, cinch the drawstring?
+
+**12:08** · 20.1.
+
+**12:09** · Tare the bag.
+
+**12:11** · It’s hard to believe that this 10-foot snake is the smallest python we tracked today.
+
+**12:17** · After taking measurements and collecting blood, the team releases the snake back into the wild.
+
+**12:23** · For Kristen, that’s a necessary evil.
+
+**12:27** · It is a big ask to put them back, right?
+
+**12:29** · Because you have an invasive in your hand, just put it down, get it out of the system.
+
+**12:34** · But if we do that, we lose the ability to learn.
+
+**12:36** · It is like driving the car while you’re building it in many ways.
+
+**12:39** · The rulebook is not there for these animals.
+
+**12:44** · The better we understand these snakes, the more likely we are to find a weakness that we can exploit to control them and reduce their impacts.
+
+**12:53** · What is the outlook?
+
+**12:54** · Is the goal like eradication?
+
+**12:56** · Is that beyond what is possible now?
+
+**12:58** · Trying to manage and mitigate the impacts that they're having is sort of the shifting, shared goal I think.
+
+**13:05** · I love the Everglades.
+
+**13:07** · I have to work on this issue like I can't back away as hard as it gets or as frustrating it gets sometimes.
+
+**13:16** · If you want more Human Footprint, you can tune in to the full length series on the PBS App or on your local PBS station.
+
+**13:23** · Check out the link in the description to watch a full episode and to find out more about the show.
+
+#### How Otters Are Saving Earth’s Underwater Forests
+
+**PBS Terra**, *08 15, 2024*
+
+## Video (10:06)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/2Rchqd400W0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Hidden beneath the surface of our coastal seas are towering forests - of kelp. These underwater ecosystems are as crucial to our environment as their land-based counterparts. We’ll explore them alongside conservationists who are working to restore these threatened habitats. We'll also meet some adorable sea otters and learn about the role they play in maintaining the balance in this sensitive environment.
+
+Hosted by Joe Hanson from Be Smart, Overview uses stunning 4k drone footage to reveal the natural and human made marvels shaping our planet--from a 10,000-foot view--literally.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+## Transcript
+
+**0:00** · (birds squawking) (light music) (water moving) This is one of the most important forest ecosystems on earth.
+
+**0:10** · Okay, not a forest like you were expecting, right?
+
+**0:13** · But trust me, this forest ecosystem is every bit as beautiful and epic as a forest on land, only instead of being made of trees, this one is made of giant towering strands of kelp.
+
+**0:25** · (light music continues) But this epic forest is in danger of disappearing.
+
+**0:30** · Luckily, an unlikely team of marine mammal researchers, underwater ecologists and algae farmers is fighting to bring this forest back from the brink.
+
+**0:41** · Like every forest, this one has predators to help keep it in balance, and one of those predators is really stinking cute.
+
+**0:53** · I mean, have you ever seen anything that adorable in your life?
+
+**0:57** · (light music continues) Kelp forests are the foundation of this marine ecosystem.
+
+**1:06** · Without them, this environment would not exist as we know it.
+
+**1:11** · They support over 800 species and provide crucial habitat and food.
+
+**1:16** · Kelp forests like this one can be found in cold water regions all over the world.
+
+**1:21** · Now, you might be tempted to call kelp a plant, but don't.
+
+**1:24** · Kelp is a type of macroalgae, which means it doesn't have roots, stems, or leaves like plants.
+
+**1:32** · Kelp forests have been a part of these coastlines for more than 30 million years.
+
+**1:38** · One of the dominant species of kelp here in California is bull kelp.
+
+**1:42** · It's the trees of this underwater forest, and these kelp forests thrive in part because of animals like sea otters.
+
+**1:50** · They're part of a complex love/lunch triangle between predators like otters, kelp, and underwater plant eaters like sea urchins.
+
+**1:59** · Here's how it all works.
+
+**2:01** · Urchins eat kelp, which is fine, so long as someone eats the urchins.
+
+**2:05** · Someone like our cute and hungry friend here who can eat up to 15 pounds of seafood a day.
+
+**2:11** · An otter's appetite protects the kelp forest from being overgrazed.
+
+**2:16** · The kelp keeps the urchin happy and fed.
+
+**2:18** · The urchin keep the otter healthy and fed, and the otter eating the urchin keeps the kelp from being overgrazed.
+
+**2:25** · Scientists call this type of carefully balanced relationship between different species a trophic cascade.
+
+**2:31** · (gentle music) But here's the thing.
+
+**2:35** · This carefully balanced trophic cascade has fallen apart in Northern California.
+
+**2:41** · Otters are fighting for their lives here.
+
+**2:44** · European settlers decimated the otter population in the mid 1700s and early 1800s as part of the fur trade, but researchers are trying to bring them back one otter at a time.
+
+**2:57** · (gentle music continues) (birds squawking) [Sandrine] My name is Sandrine Hazan and I rescue and rehabilitate sea otters.
+
+**3:08** · You get to take care and rehabilitate and release the cutest animal on earth into the wild?
+
+**3:13** · I do that.
+
+**3:14** · Yes, I have that badge. This is a receiver that's used to pick up a signal that a released otter would have, so they are implanted with a transmitter that has a specific frequency, and we can pick that up with this receiver. We recently released Otter 956 just out here in the kelp bed, and so we have been tracking her on a daily basis.
+
+**3:37** · Let's cut this joyous otter release footage.
+
+**3:40** · (soft music) Why do all this work?
+
+**3:51** · Why do all this trouble to to track, you know, one otter?
+
+**3:54** · Well, it's really part of the bigger picture of helping to bring these otters back to their historic habitat. They are keystone species and they really do so much for these kelp forests, keeping them healthy and keeping them balanced.
+
+**4:12** · [Joe] After the otter population disappeared, another predator stepped up, sea stars, particularly the Sunflower Sea star, with its dinner plate sized body and up to 24 limbs. They began to dine on urchins becoming formidable urchin hunters themselves, but then a series of events turned hundreds of miles of California coastline, a spiky purple.
+
+**4:36** · Suddenly a mysterious marine disease nearly wiped out sea star populations, and then a roving ball of warm ocean water known as the blob rolled through the region causing sea temperatures to rise by two to three degrees Celsius. The trophic cascade fell out of balance. The sea stars disappeared, the urchins went wild, and 96% of the kelp canopy along Northern California's coastline has disappeared in the past decade. A region spanning 350 kilometers of the coast.
+
+**5:10** · (soft music) (waves lapping) (bird squawking) I think we're ready to go.
+
+**5:22** · Got my camera.
+
+**5:23** · Yeah, let's do it. (soft music continues) [Joe] One of the last remaining strongholds of bull kelp is here in Mendocino County in Northern California.
+
+**5:32** · We're kind of left in a situation where there is no natural predator in the sea right now. And so what I work on specifically is trying to find ways where human can temporarily mitigate and help fill that role until we're able to have some level of apex predator back in the system. (soft music continues) This is our coral reef. This is our great barrier reef for Californians.
+
+**5:53** · It's kelp forests.
+
+**5:54** · Kelp and the ecosystems they create are why we have any fish in the ocean. They create food, habitat and shelter for hundreds, if not thousands of organisms, including human.
+
+**6:08** · [Joe To understand the extent of the loss, scientists like Tristan have turned to aerial imagery and high resolution mapping, looking at kelp from both below the water and from above.
+
+**6:19** · So what you're looking at right there is the dark green patches, and this was just this past fall, and that's where, that's the only area where we saw kelp. And so what we're focused on now is looking at where kelp has been persistent and it's survived, so then we can really focus our kelp recovery efforts in a way that's meaningful, impactful, and then also leveraging persistent kelp refugia.
+
+**6:44** · [Joe] One of those recovery efforts involved roping in aquaculture researcher, Andrew Kim and his team to plant lab grown kelp in the waters of Northern California.
+
+**6:54** · [Andrew Kim] We've developed these methods for being able to grow kelps year round. Being able to put kelps out that are already ahead of the curve and giving them really just a headstart in the environment, I think is a big breakthrough because for an annual species, like the bull kelp, it extends the potential window for them to be reproductive and to put spores into the environment.
+
+**7:19** · [Joe] Bull kelp like this regenerates every year growing from a microscopic spore to a huge structure dozens of meters tall. (soft music) This kelp can grow up to 60 centimeters per day, making it one of the fastest growing organisms in the ocean. After three years of trial and error, Andrew and his team are seeing success with new ways of planting their lab grown kelp designed to protect young kelp from predators and harsh conditions.
+
+**7:47** · Kind of like you would plant a raised garden bed if you had animals like running through your garden, you could put your seaweed in, in a raised bed and keep it out of the hungry reaches of the urchins. About a month ago, we put out kelps that were about six to 10 inches, and we came back and we surveyed these modules, and in the last month, they've grown several feet and they're already attracting lots of fish.
+
+**8:13** · Every time we put kelp out, we're putting a piece of hope out. You know the hope that it'll create home for some little fish. It's a big ocean. We just need to keep working and chipping away. We're all in this together and we need to keep trying.
+
+**8:30** · (soft music continues) Back in the rich marine waters of Monterey, Sandrine is working hard to support otters as the cute, hungry predators fight to retake their place as the keystone species of this ecosystem.
+
+**8:44** · Do we have ears on 956 right now?
+
+**8:46** · We do, yep.
+
+**8:47** · This is her signal and she is somewhere nearby and based on this signal, she is resting.
+
+**8:52** · Do you think in your lifetime that otters in the kelp forest will be restored north of here?
+
+**9:00** · I hope so.
+
+**9:00** · The sea otters are trying really hard to expand their range, and we are doing everything we can to support conservation efforts to help them restore back to their range.
+
+**9:09** · It sounds like you take it day by day, otter by otter around here.
+
+**9:13** · Yes, very, very much so.
+
+**9:14** · 956, wherever you are, I hope that you're getting lots of good urchin snacks. (gentle music) The kelp forest reminds us of the wonder that's out there in nature, sometimes literally right beneath the surface. It's also precious and so fragile. We just have to take it one breath at a time. (gentle music continues)
+
+#### The Florida River Becoming a Refuge for Manatees  WILD HOPE
+
+**Nature on PBS**, *01 08, 2024*
+
+## Video (15:34)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/1sVU9RocV7M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Crystal River has long been a safe haven for the Florida manatee, but when an invasive algae wiped out the eelgrass that manatees need for food, the community rallied to restore the river and save the animals that call it home.
+
+After an unexpected storm forever changed Crystal River more than three decades ago, Lisa Moore founded Save Crystal River to rally the community to garner funding for a massive restoration project. Sea and Shoreline’s Jessica Mailliez demonstrates the dirty work they do to remove invasive algae and restore native eelgrass. This transformation has allowed Florida manatees to return to Crystal River, but for those living along the west coast of the state, the situation is much more dire.  
+
+There, manatees are declining fast — nearly two thousand have died from starvation since 2020 along the Indian River Lagoon. Zoo Tampa has been rescuing as many starving manatees as they can hold, saving them from death and prepping them for re-release into the wild. Fortunately for the manatees ready to return to the wild, they have a safe destination: Crystal River. The strides made in that small community hold promise for a path forward for manatees across the state.
+
+Learn more about this story and ways that YOU can get involved in saving your local biodiversity by becoming a Wild Hoper:
+
+Follow us: https://www.instagram.com/wildhopetv/ 
+
+Join our community: https://wildhope.tv
+
+Get our newsletter: http://eepurl.com/irGMng 
+
+Share this with a friend!
+
+## Transcript
+
+**0:01** · LISA: Crystal River was perfect for the manatees.
+
+**0:04** · (water swooshing) ♪ When you lose the basis of your ecosystem, which is your plants, everything else goes away.
+
+**0:13** · ♪ It just becomes a chain reaction of devastation, and that's what happened here.
+
+**0:20** · We lost it all. Our river basically died.
+
+**0:23** · ♪ We are a manatee refuge. They needed food.
+
+**0:28** · There was no food for them to eat.
+
+**0:30** · ♪ (water splashing) ♪ It's one of those situations, your house burns down.
+
+**0:38** · What do you do? You rebuild.
+
+**0:40** · You have to start from scratch.
+
+**0:42** · ♪ (water swooshing) ♪ ♪ Growing up in Crystal River was any child's dream.
+
+**0:58** · You could go out on the boat all day long, go fishing, swimming in the spring, and the water was crystal clear.
+
+**1:07** · You could see fish all around you, big fish, and they would just swim by.
+
+**1:13** · And manatees could come up here.
+
+**1:15** · There was plenty of food, and they could bring their young.
+
+**1:18** · They would have their babies here, and they would spend the winter here in our springs.
+
+**1:24** · Our water's 72 degrees year round.
+
+**1:26** · It was just a great habitat for wildlife.
+
+**1:30** · ♪ ♪ NARRATOR: Manatees, also known as sea cows, are herbivores that live in coastal rivers, bays, and estuaries.
+
+**1:41** · ♪ Florida manatees will travel as far north as Virginia or as far west as Texas in Summer.
+
+**1:50** · But each winter they return to Florida and it's warm, spring- fed rivers and bays.
+
+**1:56** · ♪ Two thirds of the population now relies on the warm discharge waters from power plants.
+
+**2:06** · Manatees began taking refuge there over the past 30 years as urban developments swallowed up spring-fed rivers and bays.
+
+**2:15** · ♪ There are still a few good natural springs remaining, and one of the best is Crystal River.
+
+**2:25** · But this manatee haven was almost lost.
+
+**2:29** · LISA: Back in the '70s, we had a lot of hydrilla, and that kind of filled the river.
+
+**2:33** · It caused a problem. It was an invasive fresh water plant.
+
+**2:36** · ♪ NARRATOR: The hydrilla depleted oxygen levels in the water and out-competed the native eelgrass, a staple of the manatees' diet.
+
+**2:45** · ♪ Then in the '90s, things got a whole lot worse.
+
+**2:51** · (waves crashing) ♪ LISA: The 1993, they called it, "Storm of the Century" or the "No-Name Storm."
+
+**3:00** · (waves crashing) We didn't know it was coming, and it blew in so much salt water from the Gulf of Mexico.
+
+**3:09** · It inundated all the waterfront homes.
+
+**3:13** · NARRATOR: The storm surge pushed loads of salt water into Crystal River's freshwater system.
+
+**3:18** · ♪ LISA: It really affected the water, but nobody knew it at the time.
+
+**3:24** · ♪ We were so worried about people that we didn't know that so much hydrilla was dead and fell to the bottom of the river.
+
+**3:32** · ♪ That caused a problem because it started to rot.
+
+**3:37** · ♪ NARRATOR: Eelgrass in the river fared better because it thrives in brackish water.
+
+**3:45** · But the rotting hydrilla suffocated the grass and triggered an explosion of an invasive algae called lyngbya.
+
+**3:55** · LISA: It turned into slime, and then it looked like the surface of the moon on the bottom.
+
+**4:01** · It was noxious to animals. It would give people rashes.
+
+**4:06** · Huge plumes of nasty algae destroyed the eelgrass.
+
+**4:12** · ♪ NARRATOR: Manatees need to eat close to 10% of their body weight in eelgrass every day, up to 350 pounds of it.
+
+**4:23** · (water swooshing) The disappearing eelgrass in Crystal River forced manatees to venture out into colder waters where it's harder to find food and where they risk dying from cold stress.
+
+**4:37** · Manatees can't survive long in waters below 68 degrees.
+
+**4:42** · LISA: It had never happened before, and nobody knew what to do to fix it.
+
+**4:47** · I had children and grandchildren and I just kept thinking, "We can't leave it like this."
+
+**4:53** · We know what this river used to be, and we have to fix this.
+
+**4:58** · So neighbors got together, friends got with other friends, and we formed Save Crystal River.
+
+**5:05** · MARIE: Remember how bad it was? This park was closed.
+
+**5:08** · It was probably the only time in my life I wanted to leave Crystal River 'cause it was just terrible.
+
+**5:13** · NARRATOR: After watching the lyngbya take over, Lisa and her friend Marie urged the community to tackle the crisis.
+
+**5:21** · MARIE: It was 2015 when we went to every school, and we asked them to write a letter about why the river was important to them.
+
+**5:33** · They wrote 5,280 letters, and so then we took them to Tallahassee.
+
+**5:40** · LISA: I think that was important, showing them that their opinions mattered to the legislators.
+
+**5:45** · And it made an impression 'cause they knew that these people cared.
+
+**5:50** · NARRATOR: The campaign also opened the government's coffers.
+
+**5:54** · Soon, the community nonprofit had the funding to hire a private contractor to start restoring the river.
+
+**6:01** · LISA: One day, somebody told us about a project that was similar to what we needed to have done.
+
+**6:06** · They were taking out algae and replacing it with healthy eelgrass.
+
+**6:12** · So they came up here, and they said, "We think we can fix this."
+
+**6:16** · ♪ ♪ NARRATOR: Jessica Mailliez works with aquatic restoration firm, Sea and Shoreline to replant the manatees' eelgrass on behalf of the community.
+
+**6:30** · ♪ JESSICA: I guess I first realized that a career working with sea grass and eelgrass would be something that I absolutely loved was when I realized that really everything depends on it.
+
+**6:47** · I love the manatees, the turtles, all those charismatic creatures.
+
+**6:51** · ♪ NARRATOR: Eelgrass cleans the water.
+
+**6:55** · Its roots hold the sediment in place, and it serves as a critical nursery for many kinds of fish.
+
+**7:02** · ♪ But for eelgrass to return and thrive, the lyngbya algae had to go.
+
+**7:11** · (water swooshing) ♪ JESSICA: It's a nasty mat-forming algae.
+
+**7:21** · It really blankets everything. It blocks out the sunlight.
+
+**7:24** · Nothing can grow beneath it.
+
+**7:27** · That stuff smells awful.
+
+**7:30** · I mean, it is thick.
+
+**7:31** · ♪ We have divers that go in and they hand vacuum the bottom.
+
+**7:37** · It's hours and hours, full days, four to eight hours underwater in no visibility.
+
+**7:44** · Just feeling around on the bottom and making sure that you remove all of this nasty algae.
+
+**7:52** · It's a dirty job.
+
+**7:52** · ♪ We've removed over 500 million pounds of lyngbya and detrital muck.
+
+**8:02** · ♪ ♪ I think one of the proudest moments for our divers and our dredge crew is being able to uncover those large spring vents.
+
+**8:16** · ♪ You start going down, down, down into a hole.
+
+**8:21** · And you realize when you start to feel some water gushing out that you just opened up a spring vent that's been clogged for who knows how many years.
+
+**8:31** · ♪ NARRATOR: The vents are like faucets delivering warm water from underground aquifers deep within the Earth.
+
+**8:42** · JESSICA: We have cleaned and uncovered over 800 spring vents in the Crystal River area.
+
+**8:47** · ♪ (water splashing) NARRATOR: Once the algae is removed, young grasses can be planted.
+
+**8:54** · (water splashing) ♪ There's a lot of river bed to cover, and it's all done by hand.
+
+**9:02** · ♪ Pre-rooted pods are planted every three feet.
+
+**9:08** · ♪ (water swooshing) JESSICA: After we plant these, we come back to check on them every single week for the first four weeks, then biweekly after that, and then every single month for a total of 12 months.
+
+**9:24** · ♪ NARRATOR: The community's efforts to remove the algae mats and restore eelgrass have reversed the river's decline.
+
+**9:32** · ♪ Manatees are once again thriving here, and tourism and fishing are both up.
+
+**9:39** · ♪ JESSICA: Crystal River is a huge success story.
+
+**9:44** · We have some of the healthiest manatees in the state, and this warm-water refuge is also like a salad bar to them.
+
+**9:53** · ♪ Last winter, we had our- our highest concentration of manatees in this area reaching over 1,000.
+
+**10:03** · ♪ NARRATOR: The numbers statewide have increased significantly over the past 50 years, from a low of just a few hundred manatees in the '60s, to a high of about 9,000 in 2016.
+
+**10:18** · ♪ But since then, the trend has been going down again, and the Crystal River manatees are one of the few populations doing well.
+
+**10:28** · ♪ One of the most threatened populations is in the Indian River Lagoon, which is facing a crisis eerily similar to the one Crystal River endured.
+
+**10:40** · ♪ JESSICA: The Indian River Lagoon is on the east coast of Florida, and the problem that we've seen there is we had gradual sea grass loss.
+
+**10:51** · And then a huge brown tide bloom came in and completely starved the grass of all sunlight, and we lost what we were already short on.
+
+**11:03** · ♪ (water swooshing) (equipment humming) NARRATOR: The Manatee Critical Care Center at Zoo Tampa is trying to manage the fallout.
+
+**11:15** · ♪ MOLLY: We've had over 500 manatees come through our doors and over 300 go back to the wild.
+
+**11:22** · ♪ NARRATOR: Manatees are here for a variety of reasons.
+
+**11:27** · Some have been struck by boats or overexposed to cold water.
+
+**11:33** · But increasingly they're being brought in because they're starving.
+
+**11:39** · ♪ MOLLY: All over the state of Florida, we are seeing a die off of natural sea grasses for manatees.
+
+**11:46** · ♪ Manatees on the East Coast, in particular, they're coming in basically starving.
+
+**11:53** · They're emaciated. They are very ill.
+
+**11:56** · ♪ NARRATOR: The zoo tries to save as many patients as possible.
+
+**12:02** · MOLLY: Manatees have a pretty slow gestation, which means they don't give birth that often, about every two to three years.
+
+**12:08** · So if you're losing a lot of adults, that can be really detrimental to the species in the long run.
+
+**12:13** · ♪ This year alone, we took in 17 manatees in two months, which is an incredible number.
+
+**12:22** · I've seen quite a few orphans coming in our doors, and we don't really know what happened to their mother.
+
+**12:26** · But they come in with no wild experience, and so we want to set them up for success.
+
+**12:31** · ♪ They have to gain a lot of weight when they're at the zoo.
+
+**12:35** · They eat about eight hours of their day, and so that is a ton of food.
+
+**12:39** · ♪ We can give them romaine lettuce and things to get their body condition back up, but we need the natural vegetation in order for them to thrive.
+
+**12:48** · ♪ This is natural sea grass that's been collected from the wild, and today I'll be putting it in for our orphan calves.
+
+**12:55** · ♪ Our goal is to feed it every single day, so that way they're used to it.
+
+**13:03** · ♪ (water splashing) They need sea grasses out in the wild for them to survive.
+
+**13:08** · So it's really important that we're out there protecting the sea grasses and helping them to grow so that the manatees will be here for many years to come.
+
+**13:16** · ♪ ♪ NARRATOR: When the manatees from Zoo Tampa are ready to return to the wild, a destination of choice is the restored Crystal River ecosystem.
+
+**13:30** · MOLLY: Crystal River, in particular, has changed and is such a bountiful environment for them that we're releasing those animals to that space.
+
+**13:38** · (group cheering) ♪ NARRATOR: It's also become a model for restoration elsewhere.
+
+**13:45** · LISA: We wanted everybody in the state of Florida who had a problem like this to know what we did, how we did it, how to get others involved, share this information.
+
+**13:54** · NARRATOR: Along the Indian River Lagoon, conservationists are taking notice.
+
+**13:59** · The region has a long road to recovery, but Crystal River has given them a roadmap for success.
+
+**14:05** · ♪ LISA: The Indian River Lagoon is replicating the same kind of process that's being used in Crystal River.
+
+**14:15** · JESSICA: You don't have to be a scientist to be part of the solution.
+
+**14:19** · You can do something as simple as not using fertilizers, pulling weeds by hand.
+
+**14:24** · ♪ You can even be a- a responsible boater by being conscious of here you're anchoring, making sure you're using grass-friendly anchors.
+
+**14:34** · You can help educate the younger generation about the importance of creating a healthy ecosystem.
+
+**14:42** · (water splashing) ♪ ♪ LISA: I think my grandchildren and all the children that are growing up now will inherit from our generation a clean, healthy river teeming with wildlife, both above and below the water.
+
+**15:02** · ♪ This river is the life that runs through this community.
+
+**15:07** · We wanna protect it forever.
+
+**15:11** · ♪ ♪
+
+**15:31** · ♪ ♪ ♪
+
+#### We’re creating the world’s biggest wildlife corridor
+
+**Planet Wild**, *02 15, 2026*
+
+## Video (12:18)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/UM2sDTMrkVE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+We're contributing to one of the biggest wildlife corridors in the world, a huge network of wildlife crossings, tunnels and fencing systems in North America.
+
+🌱 Join us to rewild the planet: https://planetwild.com/join/m36
+
+For centuries, wildlife moved freely across the Rocky Mountains. Now, roads cut through animal habitat across North America, turning simple movement into something dangerous. There are millions of wildlife collisions every year, claiming countless lives and costing billions of dollars in damages. 
+
+We went to the Rocky Mountains and partnered with Yellowstone to Yukon (Y2Y) to contribute to a massive wildlife corridor that's reconnecting these areas and making sure wildlife can move freely again. 
+
+But big infrastructure projects like this take extensive bureaucracy, government permits and a huge amount of public funding. And none of that happens without evidence. 
+
+That's why, in our 36th mission, we helped Y2Y gather the data and information needed to plan future crossings and shape a landscape where humans and wildlife can coexist.
+
+Thanks to Sean Konkolics, Government of Alberta, Miistakis and Nature Conservancy of Canada, Darryn Epp, Biodiversity Pathways, Dan Rafla and Parks Canada for providing additional pictures, and to Siobhan Williams/Wildsight for additional drone cinematography. 
+
+#wildlifecrossings #wildlifecorridor #animalhighways
+
+Chapters
+
+0:00 Reconnecting Yellowstone to Yukon
+
+1:07 Welcome to the Rocky Mountains
+
+2:12 How habitats were fragmented 
+
+3:45 Meet our partner 
+
+5:06 The solution: Wildlife crossings 
+
+8:02 The challenge of Highway 3
+
+8:51 Our support
+
+10:18 Wildlife camera footage
+
+_______________________
+What is Planet Wild?
+
+We’re a global community of people who care deeply about nature and want to help our planet bounce back – one mission at a time.
+
+EVERY MONTH, we work with wildlife pioneers worldwide to
+
+🦁 bring back endangered species
+
+🌊 support oceans and aquatic life
+
+🌳 revive forests and rewild landscapes
+
+EVERY MEMBER can vote on how we spend the money, connect with us on our Discord, and collect unique badges for each mission they support.
+
+EVERY MISSION is documented in videos like this. 100% transparency.
+
+EVERYONE can join. The bigger the community grows, the bigger these missions will get!
+
+👉 Become a Planet Wild member: https://planetwild.com/join/m36
+
+👉 Follow us on Instagram: https://www.instagram.com/planetwild.official/
+
+👉 Follow on LinkedIn: https://www.linkedin.com/company/planetwild-official/
+
+Find all sources here:
+
+https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1980559c97e4e717f0b682?source=copy_link
+
+## Transcript
+
+### Reconnecting Yellowstone to Yukon
+
+
+**0:00** · This is not a normal highway bridge.
+
+**0:03** · Oh, my God.
+
+**0:04** · It's actually part of a massive effort to build one of the biggest wildlife corridors in the world: the Yellowstone to Yukon region, spanning five U.S. states, two Canadian provinces, and more than 75 indigenous territories. It's the size of a large country. Now, a hidden network of bridges, tunnels, fences, and whatever these are, has started to connect 11 huge national parks within this region, allowing wildlife to roam freely for the first time in generations.
+
+**0:35** · This is not only saving animal and human lives, but it will save billions of dollars of taxpayer money in the process. And it's only possible 'cause of a small team of scientists and nature lovers. So I'm here in the Rocky Mountains to find out how research and engineering emerging into one of the biggest rewilding projects in the world. And we're going to use this to capture the insane collection of creatures that are already using these passageways.
+
+**1:02** · We are Planet Wild. Welcome to Mission 36. (tense inspirational music) The Rocky Mountains, the largest mountain range in North America, a vast, largely untouched expanse. I just have to take a second to fully appreciate where I am, because I'm surrounded by forest and by mountain peaks like I've never seen before in my entire life.
+
+### Welcome to the Rocky Mountains
+
+**1:28** · And it's incredible.
+
+**1:31** · (tense music continues) (graphic chimes) But I'm also a little bit worried about grizzly bears (quirky music) 'cause this is grizzly bear territory. And last week I was talking to a bear expert for some research and he said I wouldn't have a problem.
+
+**1:48** · You won't have a problem.
+
+**1:50** · But he also said some stuff that made me a little bit more worried.
+
+**1:53** · I thought I was going to die.
+
+**1:54** · (Clayton laughs) Thanks, Clayton. We'll come back to you later. Grizzlies used to be found all the way from the Arctic Circle in the north to down in Mexico. And just 200 years ago, (projector whirring) this landscape was completely uninterrupted, which is the blink of an eye in evolutionary terms. But now the range of the grizzlies has shrunk to just this corner of North America. And this is why.
+
+### How habitats were fragmented
+
+**2:18** · (train horn blaring) (track rattling) (truck horn blaring) This is the Canada Pacific Railway built in 1881, and during the colonisation of North America, this connected the east and the west coast of Canada. But it cut straight through this valley. And now imagine if you are a grizzly bear and you have to travel from this side of the valley to this side.
+
+**2:42** · And if a train goes past once an hour, imagine trying to cross a highway where a car goes past on average once every three seconds. (melancholic music) It makes the world smaller for grizzly bears, and they have to increasingly navigate around those barriers. What it means is these bears basically never get old and die, like, there's essentially no natural mortality.
+
+**3:06** · If a bear's going to die in the Elk Valley, it's unfortunately gonna be at the hand of people. And half of the grizzly bears that died in our study were due to collisions with vehicles or with the train.
+
+**3:19** · [Cameron] Recently there was a report of a young bear named Lingenpolter, who spent months trying to get across a highway. In fact, he tried and failed 45 times, only managing on the 46th attempt.
+
+**3:34** · It's a real challenge to navigate this landscape.
+
+**3:37** · We've got power lines, canals, railways, highways, and housing developments, right?
+
+**3:42** · So it's a very complex landscape.
+
+### Meet our partner
+
+
+**3:45** · [Cameron] This is Bill Hunt from the Yellowstone to Yukon initiative, or Y2Y. Bill has spent his life working in Canada's wilderness, first as a park warden and then a conservation manager, always with the goal of protecting wildlife. Today with Y2Y, he's trying to create the biggest corridor for wildlife in North America and possibly the world.
+
+**4:06** · The scale of Y2Y is huge.
+
+**4:09** · It's a big vision. It's a big, it's very ambitious, but it's completely achievable.
+
+**4:13** · Y2Y has been working for more than 30 years to create a massive interconnected area starting from Yellowstone Park in the south, tracing the range of the Rocky Mountains around over 100 existing protected areas, including 11 national parks all the way up to the Yukon Territory in northern Canada. So the Y2Y vision is a massive interconnected area of 1.3 million square kilometres.
+
+**4:39** · And I was just looking up, trying to get an idea of how big that actually is. And apparently, if it was a country, it would be in the top 20 biggest countries in the world, right in between Peru and Mongolia. I mean, just look at it compared to the size of Europe, the scale of that, it's just huge. But in order to make this dream a reality, we need to get rid of all these roads.
+
+**5:04** · Okay, we obviously can't do that, but we can build new infrastructure for wildlife. So this behind me is a wildlife crossing, and it's specially designed to get animals over the highway safely. This bridge is basically built to carry a small forest. Thousands of tonnes of soil are piled on top, and then native bushes and trees are planted, so it blends perfectly into the landscape. And you might be thinking, that looks really expensive.
+
+### The solution: Wildlife crossings
+
+**5:30** · Who's gonna pay for it?
+
+**5:32** · Well, it's actually more expensive without it. Every year in the U.S., there's around 2 million collisions with animals, and as well as the countless lives that are lost in these collisions, it also costs people $8 billion a year. But a wildlife crossing like this can reduce collisions by over 90%. (graphic clicking) How it works is that there's miles of fencing along here that funnelled the animals over the crossing.
+
+**6:00** · And honestly, I never thought I would get into fence design. But this is not just any old fence. (soft music) One of the key elements is that there's a buried apron of chain-link fencing actually dug into the earth, and this keeps bears and wolves from digging tunnels underneath the fence, which would defeat the whole purpose. And then going up, this is the page wire, and you'll see that it's what we call graduated page wire.
+
+**6:23** · And so the spacing at the bottom is smaller to prevent small animals from getting through. And then when you get higher on the fence, we've widened that out so that you're saving on weight and cost. So it makes it as affordable as possible. And then right on the very top of this, you'll see that there's a high tensile cable supported on the top of the posts.
+
+**6:44** · And that's so that if a tree falls onto the fence, it doesn't damage the page wire. In the old days, we didn't have that. If a tree blew on, this would all get crumpled and mushed up. And it was really hard to get it back together. And now the tree just sits on the cable, you come with a saw, you can cut that off and everything's still working.
+
+**7:00** · Yeah. - It seems subtle, but each of these things saves tonnes of maintenance over the long run.
+
+**7:04** · Yeah.
+
+**7:04** · - Yeah.
+
+**7:06** · (bell chimes) But to make our lives a bit harder, not every animal likes to go over the highway. And this is like an old highway bridge that is retrofitted with fences along the side to guide the animals down here. It's actually kind of peaceful almost, the noise of the highway is reduced significantly. And you can tell why some species like cougars and black bears actually prefer to cross underneath the highway.
+
+**7:34** · And you can tell that loads of animals are coming through here. There's deer tracks everywhere, and you can tell that these crossings really just work. And there are many more types of crossings, like there's tunnels for toads, canopy bridges for squirrels, and even this amazing little crossing built especially for salamanders. Throughout the Y2Y region, more than 200 crossings have been built so far, but there's still one stretch of road that's causing serious problems.
+
+**8:01** · (contemplative music) This is Highway 3. Its location makes it really strategically important. It's currently blocking the movement of wildlife, both from north to south and east to west. In fact, this highway is separating two populations of grizzly bears, which is bad news because with a smaller gene pool, these populations become way more vulnerable to environmental changes and disease.
+
+### The challenge of Highway 3
+
+**8:27** · In a case like this, Y2Y brings all the necessary people together to identify where the crossings are needed and to build them. (soft electronic music) So the vision is to instal 27 new crossings, including three new overpass bridges that would connect these two grizzly populations and allow all kinds of wildlife to roam freely through here. Creating big infrastructure projects like this takes a huge amount of bureaucracy and massive amounts of government funding.
+
+### Our support
+
+**8:59** · So Y2Y needs lots of hard data to get the ball rolling. And that is where these come in. Camera traps lay the groundwork. They allow us to show how effective certain crossings are for different species, and they show us where animals are already trying to cross the roads.
+
+**9:15** · So the Planet Wild community is funding six extremely durable professional trail cameras to support the Highway 3 project, along with 15 of these new GPS wildlife collars for four different species. That's elk, mule deer, bighorn sheep, and, of course, grizzly bears. With the GPS data from these collars, researchers can pinpoint the critical places where new crossings should be built to ensure separated populations can find each other better.
+
+**9:43** · And whilst we're installing the cameras, I'm gonna tell you how we made this possible. Planet Wild is a global community of nature protectors. And every month we go on a mission to clean up our oceans, to bring back endangered species, and to rewild entire landscapes. And everything is community-funded. So if you wanna support projects like this, join Planet Wild as a backer. There's a QR code here and a link in the description.
+
+**10:09** · There we go.
+
+**10:11** · Done. - Perfect.
+
+**10:12** · Amazing.
+
+**10:13** · (wind blowing) (feet thudding) Future Cam here. So Y2Y just sent me over some of the footage from the wildlife cameras, and I'm sitting here watching it, and I'm just thinking like, it's just... Okay, you know what, we're just gonna have to roll it. (bright enthralling music) Research has proven more than 150,000 animal crossings through these new structures, and it really hits you when you just take a second to watch the footage from these cameras.
+
+### Wildlife camera footage
+
+**10:50** · (bright enthralling music continues) If they can find a safe spot, like an underpass or an overpass, they memorise that, they learn that, and they'll come back to that spot time and time again. (bright enthralling music continues) (bright enthralling music continues) This footage is gonna push forward at the Highway 3 project. But it's not just about one highway, this is about reimagining how entire landscapes can work.
+
+**11:31** · And this vision is gonna take a lot of work, a lot of collaboration, and probably many decades to complete. For every single data point, every crossing and every animal that makes it across the highway safely is one step closer to making that vision a reality.
+
+**11:47** · So what can you do next?
+
+**11:48** · Well, join Planet Wild as a backer at the QR code here, or subscribe to catch our next mission. Thanks, and see you next time. (bright enthralling music continues) (bright enthralling music continues) (music fades)
+
+#### Why This Unusual Pattern May Save the Rainforests
+
+**PBS Terra**, *09 12, 2024*
+
+## Video (9:34)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/EDpCLIgfHXo?start=114 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Check out In the Margins on @pbsorigins : https://youtu.be/Y1cJCowMz9M?feature=shared
+
+Check out Roots of Resistance on @pbsorigins : https://youtu.be/rUCrmh58GrU?si=b6HPENjsnEKYPrzK
+
+The Choco region in northwest Ecuador is hosting a groundbreaking experiment to try and help it’s rainforests recover from rampant deforestation. A multinational team is planting small “tree islands" to attract natural seed dispersers. It’s an innovative approach that we’ll take a close look at, from above and within. 
+
+Hosted by Joe Hanson from Be Smart, Overview uses stunning 4k drone footage to reveal the natural and human made marvels shaping our planet--from a 10,000-foot view--literally.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+## Transcript
+
+**0:05** · (light music) Hidden along the equator lies a rainforest like no other.
+
+**0:13** · The Choco is a kaleidoscope of life.
+
+**0:17** · An enchanting home to an astonishing array of species many found nowhere else on Earth.
+
+**0:24** · But like most of Earth's tropical rainforests, The Choco is under threat.
+
+**0:29** · Widespread deforestation for agriculture, logging, and human settlements has pushed this incredible ecosystem to the brink of disappearing.
+
+**0:37** · But, there is hope, thanks to these.
+
+**0:41** · These are tree islands, small patches of trees replanted within larger deforested areas.
+
+**0:47** · Scientists think this groundbreaking idea could change the world's forest recovery efforts by allowing the forest to regrow itself thanks to one surprising ingredient, animal poop.
+
+**1:06** · (gentle music) Here in Ecuador, the Choco Rainforest covers approximately 7,000 square kilometers, nearly one and a half times the size of Grand Canyon National Park.
+
+**1:18** · Separated from the Amazon by the towering Andes, The Choco is a world unto itself.
+
+**1:25** · It's also one of the wettest places on Earth.
+
+**1:29** · Some spots receiving upwards of 400 inches of rain per year.
+
+**1:35** · It's also one of the world's most biologically diverse places.
+
+**1:39** · A home for over 800 species of birds, 140 species of mammals, and 9,000 species of plants.
+
+**1:50** · Here, inside a 100-meter square, you can find nearly as many tree species as in all of Europe.
+
+**1:58** · Rainforests like The Choco are critical for preserving Earth's biodiversity.
+
+**2:10** · These are some of the determined researchers on a mission to save this remarkable ecosystem.
+
+**2:20** · (Leighton speaking in foreign language) - They contain more than half of all of the species in the world, even though they occupy a relatively small proportion of the Earth's land surface.
+
+**2:29** · There's new species being discovered in tropical rainforests every year, including here in Northwestern Ecuador.
+
+**2:35** · Every year, an area of tropical forest gets cut down that's about the size of Lake Michigan.
+
+**2:43** · (orchestral music) - The Choco is considered one of the most threatened ecoregions in the world.
+
+**2:48** · In Ecuador, only about 2% of the original forest cover remains.
+
+**2:54** · As more and more of it is converted to palm oil plantations, countless species of plants and animals are at risk of extinction.
+
+**3:09** · (Fernando speaking in foreign language) Fernando is now fighting to restore his native lands.
+
+**3:29** · (Fernando speaking in foreign language) But saving a rainforest is not an easy task.
+
+**3:34** · Although scientists know what a healthy tropical forest looks like, they still know very little about how to regrow them.
+
+**3:54** · (Fernando speaking in foreign language) (light music) At this point, maybe you're thinking, why not just plant trees?
+
+**3:58** · One new tree to replace every old one?
+
+**4:01** · Well, the cost, for starters.
+
+**4:03** · Additionally, many traditional replanting efforts have focused on replanting only a small number of tree species.
+
+**4:10** · But this allows only a few fast growing species to dominate the regrown forest, and it really fails to recreate the complex diversity of species in natural rainforests, which can contain upwards of 400 tree species in an area the size of a Manhattan city block.
+
+**4:29** · Regrowing a forest by only replanting a few species is like trying to paint a Picasso with only primary colors.
+
+**4:39** · But here, scientists are trying something new, an idea that harnesses the power of nature itself.
+
+**4:47** · Instead of planting rows of seedlings in a large scale plantation, the researchers are creating small, strategic patches filled with a diverse mix of native trees.
+
+**4:58** · They hope that over time these empty spaces will be filled by the same natural processes that keep healthy rainforests lush and diverse.
+
+**5:08** · [Leighton] The idea is that these small patches of trees will kickstart a natural regeneration process.
+
+**5:13** · [Joe] And here's where things get interesting, because the team's secret weapon is poop. (bright music) The trees planted in these islands produce fruit. In a healthy rainforest, animals act as nature's gardeners. As creatures like howler monkeys and toucans feast on that fruit, their droppings disperse seeds far and wide, planting new forest with every trip to the bathroom. Up to 80% of tree species rely on birds and mammals to spread their seeds in this way.
+
+**5:46** · When a patch of rainforest falls, it's these animal gardeners that hold the key to bringing it back to life. Eating fruits, carrying the seeds far and wide, and ultimately, planting the forest of tomorrow.
+
+**6:00** · One of the big questions is, what are the best kinds of trees to plant?
+
+**6:05** · How many of them do you need to plant and what kinds of spatial configurations?
+
+**6:09** · [Joe] The scientists are betting that by planting trees with mouthwatering fruits, they'll attract a bunch of hungry critters like monkeys, birds, and bats to help this forest regrow itself. Who knew that the key to saving the rainforest could be as simple as a well-stocked fruit buffet. To test the idea, researchers pack half of their plots with trees that produce a bounty of animal attracting fruit, while the other half offer fewer delicious treats.
+
+**6:42** · At the same time, we're also monitoring animal populations to identify what bird species are coming and visiting plots. (Fernando speaking in foreign language) [Leighton] We'd like to be able to connect the dots between what animals are present and what seeds they're bringing into the restoration plots.
+
+**7:12** · [Joe] The project has captured the imagination of the local community.
+
+**7:17** · [Leighton] A lot of the success that FCAT has enjoyed is due to the tight bonds that they have with the local communities that are here. (Fernando speaking in foreign language) [Joe] The experiment is still young, but the team is already seeing promising signs. (Fernando speaking in foreign language) (light music) If it works, this approach could revolutionize reforestation efforts not just in The Choco, but in threatened rainforests worldwide.
+
+**8:08** · Ecological restoration is not a silver bullet.
+
+**8:12** · It's not the solution to all of our environmental problems. In order to prevent mass extinction, we have to stop destroying intact habitats. And restoration can't do that. But restoration is part of the solution as well. Ecological restoration allows us to build back some of the habitat that's been lost.
+
+**8:29** · [Joe] Only time will tell if their tree islands will take root. But in the battle to save our rainforests, every seed of hope matters, and in The Choco, those seeds are starting to sprout. Hey guys, we’re out here working on the next episode of Overview. But before you go, if you’re a fan of history, we want to tell you about two new series over on PBS Origins.
+
+**8:55** · Roots of Resistance is a series which shows how history is often made through defiance. And In the Margins explores the kind of lesser-known stories that they maybe don’t teach you in school. We're gonna put a link to their latest episodes down below. We hope you consider subscribing too. It helps all of us over at PBS.
+
+### Films
+
+#### Managing Moose Colorado's Most Dangerous Animal
+
+**Rocky Mountain PBS**, *09-17-2026*
+
+## Documentary Film (26:40)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/B67o_quLHi4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+#moose #coloradowildlife #animals 
+
+Moose have flourished in Colorado in recent decades, leading to more attacks on people, overgrazing in key valleys and declining ecosystems. On top of that, the question of the animal’s native status has started a contentious debate that could have large impacts on the future of moose in Colorado. Now the question becomes how to manage the population as moose enter the spotlight.
+
+Subscribe to our YouTube channel: https://bit.ly/3zeF6Ch
+
+------------------------------------------------------
+
+Follow Rocky Mountain PBS on our other platforms, too.
+
+• Newsletter: https://www.rmpbs.org/newsletters 
+
+• Facebook: https://www.facebook.com/rmpbs
+
+• Instagram: https://www.instagram.com/rmpbs
+
+• LinkedIn: https://www.linkedin.com/company/rocky-mountain-pbs
+
+## Transcript
+
+**0:00** · (MUSIC PLAYING) I LOVE MOOSE.
+
+**0:05** · I JUST LOVE THEM.
+
+**0:06** · YOU KNOW, THEY'RE AMAZING CREATURES.
+
+**0:09** · IT'S BECOME ONE OF THE MOST EXCITING THINGS FOR PEOPLE TO SEE IN THIS AREA, FOR SURE.
+
+**0:16** · MOOSE ARE EXTREMELY POPULAR, BUT THEY'RE ALSO THE MOST DANGEROUS ANIMAL IN COLORADO. [SCREAMING] HERE IT COMES.
+
+**0:23** · GET AWAY!
+
+**0:24** · IF THEIR EARS GO BACK, IF THEIR HACKLES RAISE UP, IT'S PROBABLY A GOOD INDICATOR THAT YOU'RE TOO CLOSE.
+
+**0:29** · I TURNED AROUND AND IT WAS A MOOSE, AND IT WAS IN FULL CHARGE. COMING UP THE TRAIL BEHIND US.
+
+**0:36** · THEY LOOK DOCILE, BUT DON'T LET THAT FOOL YOU. THAT'S JUST HOW THEY DEAL WITH THREATS.
+
+**0:43** · AS MOOSE POPULATION INCREASES, AS HUMAN POPULATION INCREASES, ALL OF THOSE ARE LEADING TO PROBABLY MORE ENCOUNTERS AND CONFLICTS.
+
+**0:50** · MOOSE WERE TRANSLOCATED TO COLORADO IN THE 1970S, AND SO I THINK PEOPLE WILL GET THE WRONG IDEA ABOUT WHETHER MOOSE BELONG IN THE STATE OF COLORADO.
+
+**1:01** · SINCE THOSE TRANSPLANTS, THE POPULATION HAS STEADILY INCREASED. BUT YOU CAN HAVE TOO MUCH OF A GOOD THING.
+
+**1:08** · AND YOU CAN SEE, WE ALSO HAVE A LOT OF WHAT WE CALL ZOMBIE WILLOWS OUT HERE. THEY'VE BEEN BROWSED BY ELK AND MOOSE TO THE POINT WHERE YOU CAN SEE MOST OF THEM ONLY HAVE A FEW REMAINING LEAVES.
+
+**1:20** · JUST IN 20 YEARS, WE KNOW WE'VE LOST ABOUT 98% OF THE TALL WILLOW. AND WE ATTRIBUTE THAT TO THE FACT THAT MOOSE MOVED INTO THE PARK FROM THE WEST.
+
+**1:27** · THERE WAS A BIG SORT OF WAVE OF NEWS STORIES ABOUT... THE IDEA THAT MOOSE ARE NON-NATIVE OR SOMETIMES YOU EVEN SEE THE WORD INVASIVE. BUT WE HAVE IDENTIFIED MOOSE HAVE BEEN HERE FOR THOUSANDS OF YEARS.
+
+**1:40** · IT'S IRRELEVANT THAT IF THERE WERE 1 OR 100 MOOSE HERE, 500 YEARS AGO OR SOMETHING IN THE VALLEY. LIKE WHAT MATTERS AS THE WAY THINGS ARE FUNCTIONING, WE'RE LOSING ECOSYSTEM SERVICES AND CHARACTERISTICS THAT MIGHT TAKE DECADES TO RECOVER.
+
+**1:55** · EVERYBODY HAS AN OPINION ON WILDLIFE MANAGEMENT.
+
+**1:59** · BUT I HOPE WE CAN CONTINUE TO MANAGE MOOSE AT THE APPROPRIATE NUMBER TO PREVENT THEM FROM PEAKING AND CRASHING. (MUSIC PLAYING) IT SOUNDED LIKE SHE'S, MAYBE A LITTLE FURTHER UP ENDO. WE'RE TRYING ONE LAST SPOT IN HORSESHOE PARK BEFORE WE HEAD UP VALLEY.
+
+**2:20** · IT SOUNDS GOOD.
+
+**2:21** · WE'LL HEAD YOUR WAY AND SEE YOU SHORTLY. SO WE HAVE SOME MOOSE THAT ARE WEARING A COLLAR THAT MAKES A BEEPING NOISE, AND HE CAN USE THAT ANTENNA TO FIND THEM.
+
+**2:32** · YEAH, SO IN THIS CASE, WE'RE LOOKING FOR AN ADULT COW WHO WE CAPTURED LAST YEAR AND FIT WITH A COLLAR. BASED ON THE SIGNALS IT'S GIVING ME, IT'S SOUNDING LIKE SHE'S KIND OF DIRECTLY BEHIND ME. KIND OF HEADING TOWARDS THAT BARE HILLSIDE BACK THERE. SOMEWHERE BETWEEN ME AND THERE IS WHERE IT SOUNDS LIKE SHE'S COMING FROM.
+
+**2:51** · SO THEY'RE RIGHT OVER HERE.
+
+**2:53** · AND WE'RE GOING TO GO--WE'RE GOING TO MEET THEM OVER HERE BECAUSE SHE MOVED THAT WAY A LITTLE BIT. THIS IS THE WORK WE OFTEN DO, WHICH IS THAT WE WANT TO SEE IF SHE HAS A BABY. AND SO WE'D GO A LITTLE CLOSER, BUT WE'RE JUST, LIKE BEING QUIET IS A BIG THING BECAUSE SHE MIGHT JUST STAND UP. AND LIKE, WALK INTO THE BRUSH.
+
+**3:13** · FOR MOOSE IN ROCKY MOUNTAIN NATIONAL PARK, IT BECAME CLEAR THAT WE NEEDED SOME MORE INFORMATION ABOUT THEIR BEHAVIOR, THEIR SURVIVAL, SOME THINGS ABOUT THEIR POPULATION. AND SO WE HAD A FEW COLLARED IN 2017 AND THEN EVERY YEAR SINCE THEN.
+
+**3:29** · OH, THERE SHE GOES.
+
+**3:34** · AND THERE'S THE CALF, YEAH.
+
+**3:37** · SO A BIG QUESTION THAT IS IMPORTANT FOR UNDERSTANDING HOW MOOSE ARE ACTING IN THE PARK IS JUST UNDERSTANDING HOW MANY THERE ARE. AND SO IT'S ACTUALLY A BIG CHALLENGE TO ESTIMATE MOOSE ANYWHERE IN THE WORLD BECAUSE THEY TEND TO BE FAIRLY ELUSIVE.
+
+**3:51** · THEY'RE MOSTLY SOLITARY.
+
+**3:53** · THEY'RE NOT SEEN IN BIG GROUPS IN BIG MEADOWS. AND SO WHAT WE DO IS WE USE A HIGH-FLYING FIXED WING AIRCRAFT THAT USES INFRARED TO SEE MOOSE ON THE LANDSCAPE.
+
+**4:06** · LAST YEAR WE DID THE VERY FIRST PARK-WIDE SURVEY OF MOOSE AND WHAT WE FOUND IS THAT THE POPULATION'S AT ABOUT 240 INDIVIDUALS. ONE THING THAT THAT SHOWED US IS THAT THE POPULATION INCREASED ALMOST 50 PERCENT IN JUST FIVE YEARS.
+
+**4:19** · ROCKY MOUNTAIN NATIONAL PARK IS HOME TO HUNDREDS OF ANIMAL SPECIES. THE PARK COVERS 415 SQUARE MILES OF VARYING MOUNTAIN ENVIRONMENTS. THIS INCLUDES WETLANDS, WHICH ONLY MAKE UP 4% OF THE PARK, BUT ARE CRUCIAL HABITAT FOR THE MANY PLANTS, BIRDS, AND MAMMALS THAT LIVE THERE.
+
+**4:39** · IN RECENT YEARS, WE'VE SEEN DRAMATIC LOSSES OF TALL WILLOW. AND TALL WILLOW IS THE PLANT THAT IS MOST IMPORTANT TO A FUNCTIONING WETLAND IN ROCKY MOUNTAIN NATIONAL PARK.
+
+**4:50** · WE ALSO HAVE A LOT OF WHAT WE CALL ZOMBIE WILLOWS OUT HERE. THESE WILLOWS SHOULD BE 10 TO 12 FEET PLUS TALL. AND OVER THE RECENT DECADES, THEY'VE BEEN BROWSED BY ELK AND MOOSE TO THE POINT WHERE YOU CAN SEE MOST OF THEM ONLY HAVE A FEW REMAINING LEAVES.
+
+**5:07** · DURING THE SUMMER, ONE MOOSE CAN EAT AS MUCH WILLOW AS 15 ELK, CONSUMING UP TO 60 POUNDS A DAY. ON THE WEST SIDE OF ROCKY MOUNTAIN NATIONAL PARK, THIS HAS BEEN A MAJOR FACTOR IN THE DEGRADATION OF THE WILLOW POPULATION.
+
+**5:22** · HERE'S AN EXAMPLE OF SOME OF THESE.
+
+**5:24** · THIS TOO, THESE WERE WILLOWS AND OVER MANY DECADES OF JUST GETTING ALL OF THEIR NEW SHOOTS EATEN. THESE WERE SOME OF THE WILLOWS THAT DIDN'T MAKE IT BETWEEN 1999 AND 2019 THE ACREAGE OF TALL WILLOWS THAT IS WILLOWS TWO METERS OR TALLER DECLINED BY 98 PERCENT. SO THAT'S WHAT WE'RE TRYING TO REVERSE.
+
+**5:49** · AS PART OF THE ELK AND VEGETATION MANAGEMENT PLAN, THE NATIONAL PARK SERVICE INSTALLED SIX-FOOT-TALL FENCES IN HOPES OF RESTORING WILLOWS IN THESE IMPORTANT WETLAND AREAS. THE FENCES KEEP ELK AND MOOSE OUT WHILE ALLOWING SMALLER CREATURES LIKE BEAVER TO WIGGLE UNDERNEATH A GAP LOW IN THE FENCE.
+
+**6:07** · THIS FENCE HAS BEEN INSTALLED SINCE 2011 AND IT'S ABOUT 16 AND A HALF ACRES AND WE'VE SEEN MARKED WILLOW GROWTH AS YOU CAN SEE HERE. IT'S ALL-NATURAL REGROWTH AFTER JUST EXCLUDING BROWSING.
+
+**6:22** · SO BACK BEHIND ME YOU CAN SEE PRETTY HEALTHY STAND OF WILLOW. IT'S NOT QUITE TO THE POINT THAT WE'D CALL RECOVERED, BUT IT'S MAKING GREAT PROGRESS INSIDE THE FENCE. YOU CAN SEE THE CONTRAST IS PRETTY STARK BETWEEN THESE AREAS THAT ARE GREEN AND PRETTY WET AND THE AREA RIGHT NEXT TO IT THAT'S SUPER DRY.
+
+**6:43** · MOOSE NOW ARE ADDING TO THE STRESSORS OF THESE AREAS. SO, WHEN WE FIRST STARTED THE ELK AND VEGETATION MANAGEMENT PLAN, IT WAS VERY MUCH FOCUSED ON ELK. WE KNOW THAT THE MOOSE POPULATION IS BURGEONING IN THE PARK AS WELL AS OUTSIDE OF THE PARK. SO, LOOKING AT JUST AN ADDITIONAL STRESSOR, FUTURE WETLAND RIPARIAN RESTORATION INCLUDES MOOSE AS PART OF THE EQUATION NOW TOO.
+
+**7:07** · MOOSE HAVE SHOWED US THAT MUCH OF COLORADO, PARTICULARLY THE CENTRAL ROCKY MOUNTAIN SPAN OF COLORADO, MUCH OF THAT IS EXCELLENT MOOSE HABITAT.
+
+**7:17** · ANDY HOLLAND IS THE BIG GAME MANAGER FOR COLORADO PARKS AND WILDLIFE. PART OF HIS JOB IS TO LOOK AT THE MOOSE POPULATION AND ECOLOGICAL IMPACTS AROUND THE STATE TO KEEP THINGS IN BALANCE.
+
+**7:28** · MOOSE ARE DOING REALLY WELL IN COLORADO.
+
+**7:31** · THEY'VE BEEN ON THE INCREASE AND PIONEERING NEW HABITATS FOR THE LAST 30 YEARS.
+
+**7:36** · FOR MUCH OF THE 20TH CENTURY, SEEING A MOOSE IN COLORADO WAS RARE. IN THE 1970S, WHAT WAS THEN KNOWN AS THE COLORADO DIVISION OF WILDLIFE STARTED A PROGRAM TO BRING MOOSE INTO THE STATE AND ESTABLISH A BREEDING POPULATION. BEFORE THAT POINT, WITH NO OFFICIAL SYSTEM IN PLACE TO TRACK MOOSE, IT'S UNCLEAR HOW MANY WERE IN COLORADO.
+
+**7:57** · I THINK AND FROM WHAT I GATHER FROM OLD REPORTS AND WHATNOT. THERE IS HISTORICAL RECORD EVIDENCE OF MOOSE IN COLORADO, AND THEY WERE EXTIRPATED LIKE A LOT OF BIG GAME IN THE LATE 1800S. BUT EVERYBODY LOVES MOOSE. AND SO, THERE WAS AN INTEREST IN HAVING MOOSE BROUGHT BACK BOTH FOR THE HUNTING OPPORTUNITY AND FOR THE WILDLIFE VIEWING OPPORTUNITY.
+
+**8:21** · THE FIRST RELOCATION IN 1978 BROUGHT 12 MOOSE FROM UTAH TO NORTH PARK, COLORADO. WHERE AN ABUNDANCE OF WILLOW MADE THE PERFECT HABITAT FOR A BUDDING MOOSE POPULATION.
+
+**8:33** · IN NORTH PARK, THE NATURAL HABITAT UP HERE IS VERY STRONG IN THE NUTRIENTS. I DON'T CARE IF IT'S CATTLE, SHEEP, THEY THRIVE ON IT. WE JUST SIT UP IN THE VERY NORTHWEST CORNER OF COLORADO, AND IT'S JUST A BOWL UP HERE. MOUNTAINS ALL THE WAY AROUND. AND WALDEN IS THE ONLY INCORPORATED TOWN IN THE COUNTY. MY NAME IS TOOTIE CROWNER, AND I'M BORN AND RAISED HERE.
+
+**9:01** · I WAS ELECTED TO MAYOR IN THE 90S, AND I WAS MAYOR TO 95, AND THEN I WAS A COUNTY COMMISSIONER FOR EIGHT YEARS. IN THE BEGINNING, THE TOWN WAS ONE OF THE 10 ENDANGERED TOWNS IN THE UNITED STATES IN THE 95, RIGHT IN THROUGH THERE. AND WE SAID WE NEEDED SOME HELP TO HELP OUR TOWN. AND IF WE WERE GOING TO HAVE THE MOOSE HERE AND IT WAS A TOURIST THING, WE NEEDED TO CAPITALIZE ON IT.
+
+**9:22** · AND SO THEY CHANGED IT TO BE CALLED THE MOOSE VIEWING CAPITAL OF COLORADO. I LIVE RIGHT IN TOWN HERE, A BLOCK FROM THE MAIN STREET HERE. AND WE ALWAYS WOULD SAY, JUST DRIVE AROUND TOWN AND YOU'LL SEE A MOOSE OUT THERE.
+
+**9:40** · STARTING WITH THE FIRST TRANSFER OF MOOSE TO NORTH PARK IN 1978, COLORADO DIVISION OF WILDLIFE BROUGHT IN 215 MOOSE FROM NEIGHBORING STATES OVER THE NEXT SEVERAL DECADES. THE MOOSE THRIVED IN THEIR NEW ENVIRONMENT. TODAY, THE OVERALL MOOSE POPULATION IS ESTIMATED TO BE 3400.
+
+**10:01** · MOOSE HAVE BEEN PIONEERING ON THEIR OWN AND FILLING IN VACANT HABITAT AND EXPANDING BEYOND WHERE WE PUT THEM. WHICH IS OFTEN WHAT HAPPENS WITH REINTRODUCED POPULATIONS, THEY HAVE ABUNDANT FORAGE BECAUSE THAT SPECIES HAS NOT BEEN THERE FOR A LONG TIME. BUT YOU CAN HAVE TOO MUCH OF A GOOD THING. OK, I'M JUST GOING TO WALK OVER HERE. I CAN SEE HER. IT'S AMAZING HOW MUCH THEY DISAPPEAR IN EVEN GRASS LIKE NOT THAT TALL.
+
+**10:31** · YOU KNOW?
+
+**10:32** · ON THE ONE HAND, I LOVE SEEING MOOSE.
+
+**10:34** · THEY'RE SO COOL.
+
+**10:35** · THEY'RE THESE HONESTLY PRETTY ODD-LOOKING ANIMALS. AND THEN ON THE OTHER SIDE, AS AN ECOLOGIST, I KNOW THAT WE HAVE TO SOMETIMES INTERVENE AND BALANCE SPECIES WITH THEIR ENVIRONMENT.
+
+**10:46** · AND SO, WHAT WE'RE TRYING TO PREVENT IS MOOSE POPULATIONS FROM PEAKING, OVER BROWSING SENSITIVE WILLOW AND ASPEN COMMUNITIES AND THEN CRASHING.
+
+**10:55** · AS THE IMPACT OF MOOSE ON THE ENVIRONMENT HAS BECOME MORE EVIDENT, SCIENTISTS AND SOME MEDIA OUTLETS QUESTIONED WHETHER THE SPECIES IS NATIVE AND BELONGS HERE.
+
+**11:05** · THE LAST YEAR OR TWO, THERE WAS A BIG WAVE OF NEWS STORIES ABOUT MOOSE THAT WERE KIND OF CENTERED AROUND THE PREMISE THAT MOOSE HAVE BEEN INTRODUCED TO COLORADO BUT ARE NON-NATIVE, OR SOMETIMES YOU EVEN SEE THE WORD INVASIVE AND I STARTED TO DIG INTO, YOU KNOW, WHAT IS THE SCIENCE BEHIND THIS CONCLUSION?
+
+**11:29** · I'M WILLIAM TAYLOR.
+
+**11:31** · I'M AN ASSISTANT PROFESSOR, A CURATOR OF ARCHAEOLOGY. SO I SPEND A LOT OF MY TIME DIGGING INTO MUSEUM COLLECTIONS ACROSS THE ROCKY MOUNTAIN WEST HERE. SOMEWHERE IN THIS LAB, WE'VE GOT ALMOST EVERY ANIMAL THAT'S LIVED IN COLORADO AT LEAST IN THE LAST 20,000 YEARS. SO, WHAT WE'RE LOOKING AT HERE IS JUST ONE OF OUR MOOSE FROM OUR COLLECTION.
+
+**11:55** · AT CU'S MUSEUM OF NATURAL HISTORY, WILLIAM TAYLOR AND HIS TEAM HAVE BEEN CHALLENGING THIS IDEA THAT MOOSE ARE NOT NATIVE TO COLORADO. THEY'VE BEEN DIGGING THROUGH WRITTEN ARCHIVES, MUSEUM COLLECTIONS, AND ARCHAEOLOGICAL RECORDS TO LEARN MORE ABOUT THE HISTORY OF MOOSE IN THE STATE.
+
+**12:12** · IT'S THAT ONE, SO THERE'S, UH, YEAH, SOME GRAND COUNTY MOOSE. IT'S THE ONE THAT SAYS 6745 ON IT. SO WE'RE SITTING HERE IN THE MAMMAL'S COLLECTION OF THE DENVER MUSEUM OF NATURE AND SCIENCE AND WE'RE LOOKING HERE AT THE PARTIAL PELT HERE OF A MOOSE THAT WAS HARVESTED IN THE ROCKY MOUNTAINS NEAR GRAND LAKE IN THE STATE OF COLORADO. SO HERE YOU CAN SEE THE TAG, THE FIELD NUMBER, THE DATE OF COLLECTION HERE IN 1944.
+
+**12:41** · SO, THIS IS JUST A NICE VISUAL REPRESENTATION OF THE PRESENCE OF MOOSE IN THE MID 20TH CENTURY. SO, THE FIRST TAKEAWAY FROM OUR MOOSE RESEARCH, PRETTY MUCH FROM THE BEGINNING OF ACCESSIBLE RECORD KEEPING IN THE STATE OF THE COLORADO. THERE IS A CONTINUOUS AND PERSISTENT RECORD OF MOOSE.
+
+**13:01** · SO, WHO'S TO SAY MOOSE WERE NOT HERE BEFORE?
+
+**13:06** · I MEAN, THE PROBABILITY OF THEM BEING AROUND IN COLORADO IS PRETTY GOOD. YOU KNOW, THERE COULD BE A TIME WHEN MOOSE WERE HERE, AND THEN THEY LEFT AGAIN, AND THEN THEY CAME BACK.
+
+**13:20** · SO, WHO'S TO SAY THAT'S NOT HAPPENING?
+
+**13:23** · CRYSTAL C'BEARING IS THE TRIBAL HISTORIC PRESERVATION OFFICER FOR THE NORTHERN ARAPAHO TRIBE. AND WORKED WITH WILLIAM TAYLOR ON HIS STUDY ABOUT THE HISTORY OF MOOSE IN THE SOUTHERN ROCKIES.
+
+**13:35** · FOR THE MOOSE, YOU KNOW, THEY WERE THOUGHT AS IN ARAPAHO HINENIHII. IT'S LIKE, HE'S LIKE A BIG MAN. HE LOOKED LIKE A BIG MAN. YOU KNOW, MOOSE ARE SO HUGE AND THEY PROVIDE A LOT OF MEAT. (MUSIC PLAYING) IT WAS ANOTHER SOURCE OF RESOURCES FOR US AS A FOOD SOURCE, AS CLOTHING, AS MAKING ITEMS, MATERIALS. WHEN YOU THINK ABOUT TRIBES, WE WERE A NATURAL PREDATOR AS WELL.
+
+**14:08** · AND SO, WE HUNTED THEM AND WE KEPT THEM AT CONTROLLED WHEN WE WERE THERE.
+
+**14:15** · YOU KNOW, WITHOUT HUNTING IN COLORADO, THE ANIMALS WOULD BECOME OVERPOPULATED OVER TIME FOR THE AMOUNT OF HABITAT WE HAVE LEFT. SO, THERE ARE AREAS THAT, YOU KNOW, JUST CANNOT SUSTAIN THE WILDLIFE UNCHECKED.
+
+**14:30** · SCOTT LIMMER RUNS COMANCHE WILDERNESS OUTFITTERS BASED IN NORTHERN COLORADO. THIS IS HIS 36TH SEASON AS A BIG GAME HUNTING GUIDE. HE PROVIDES FOOD, CAMPING GEAR, HORSES, AND DECADES OF INSIGHT TO HUNTERS WHO DRAW LICENSES FOR A VARIETY OF BIG GAME ANIMALS, INCLUDING MOOSE.
+
+**14:50** · OH,THERE'S ONE, I THINK.
+
+**14:56** · OH, THERE HE IS. HE JUST WENT UP THROUGH THAT OTHER MEADOW. WHAT WE WOULD SAY IS A RECORD BOOK QUALITY TYPE BULL THERE. YOU KNOW, EVERY AREA IS A LITTLE DIFFERENT HOW YOU DO THE HUNT AND HOW MANY MOOSE THERE ARE IN THE AREA. SO AS THE MOOSE PIONEER OUT AND BECOME MORE POPULATED IN NEW AREAS, THEN THE STATE WILL START A SEASON IN THOSE AREAS TOO.
+
+**15:17** · BIG GAME HUNTING IS HIGHLY REGULATED IN COLORADO AND THROUGHOUT THE WEST. AND THE ONLY THING THAT'S KEEPING THEM FROM OVERPOPULATING. IS OUR FEMALE HARVEST. AND WE'VE INCREASED OUR COW MOOSE HUNTING LICENSES FOURFOLD IN THE LAST 13 YEARS.
+
+**15:35** · TO REGULATE HUNTING, CPW DIVIDED THE STATE INTO GAME MANAGEMENT UNITS, OR GMUS. OF COLORADO'S 185 GMUS, 74 ARE OPEN TO MOOSE HUNTING, WITH A LIMITED NUMBER OF LICENSES ALLOTTED TO EACH UNIT. BASED ON MOOSE POPULATION AND STATUS OF THE HABITAT IN THAT AREA. CPW ISSUES TAGS THROUGH A LOTTERY SYSTEM, SO IT'S THE LUCK OF THE DRAW.
+
+**15:59** · FOR 2026, WE HAD 761 MOOSE LICENSES AND 66,000 APPLICANTS FOR THOSE 761 LICENSES. IT'S ESSENTIALLY THE POWER BALL OF BIG GAME HUNTING. PEOPLE GO THEIR WHOLE LIVES LITERALLY WITHOUT EVER DRAWING. -GIANT BULL I'VE BEEN PUTTING IN SINCE THEY OFFERED THE LICENSES THE FIRST YEAR, ALMOST 30 YEARS AGO.
+
+**16:21** · I'VE NEVER DRAWN.
+
+**16:23** · YOU KNOW, IT'S VERY TOUGH TO GET. THERE'S THOUSANDS OF PEOPLE APPLYING FOR THOSE TAGS.
+
+**16:27** · YOU SEE THAT ROCK?
+
+**16:28** · HE WAS RIGHT BELOW THAT ONE.
+
+**16:33** · ALL OF OUR BIG GAME MANAGEMENT IS BASED ON HERD MANAGEMENT PLANS FOR EACH LOCAL INDIVIDUAL HERD. THOSE HERD MANAGEMENT PLANS HAVE BOTH BIOLOGICAL AND SOCIAL FACTORS TO CONSIDER. IN ADDITION TO NOT OVER BROWSING THE HABITAT, THEY ALSO HAVE A CONFLICT COMPONENT WITH MOOSE.
+
+**16:50** · AS COLORADO'S MOOSE POPULATION HAS INCREASED, MORE PEOPLE HAVE MOVED INTO THE STATE, LEADING TO MORE CONFLICTS WITH THE ANIMAL. (MUSIC PLAYING) HERE HE COMES, GET AWAY! [SCREAMING] THE PERSONALITY OF A MOOSE IS DECEIVING, I THINK. THEY LOOK DOCILE, BUT DON'T LET THAT FOOL YOU. THAT'S JUST HOW THEY DEAL WITH THREATS. (MUSIC PLAYING) THEIR PREDATOR AVOIDANCE STRATEGY IS USUALLY TO STAND THEIR GROUND AND USE THEIR FRONT HOOVES TO STOMP WHATEVER IS COMING THEIR WAY.
+
+**17:27** · AND SO, THEY'RE THE MOST DANGEROUS ANIMAL IN COLORADO.
+
+**17:31** · SINCE 2019, MOOSE HAVE ATTACKED AND HURT AT LEAST 31 PEOPLE IN COLORADO. THAT'S ABOUT THE SAME NUMBER OF MOUNTAIN LION AND BEAR ATTACKS COMBINED IN THE SAME TIME PERIOD. AND THAT'S ONLY WHAT HAS BEEN REPORTED TO CPW, LIKE THE ATTACK CHRIS RAY SURVIVED IN 2023.
+
+**17:49** · IT WAS SEPTEMBER OF 2023.
+
+**17:52** · MY DOG AND I WERE ON A HIKE IN THE MORNING UP A TRAIL RIGHT NEAR MY HOUSE.
+
+**17:57** · -COME, NALA.
+
+**17:58** · I WOULD FILL A BIG CONTAINER OF WATER, PUT IT IN MY BACKPACK. THAT BOTTLE OF WATER IN THAT BACKPACK DEFINITELY SAVED ME. WE DO THAT TRAIL EVERY MORNING OR WE USED TO. SO, THIS DAY I HEARD AN ANIMAL CROSSING THE CREEK AND I TURNED AROUND AND IT WAS A MOOSE AND IT WAS IN FULL CHARGE COMING UP THE TRAIL BEHIND US. THIS IS THE SPOT. SHE WAS COMING FROM THERE.
+
+**18:28** · YOU KNOW, SHE WAS MAYBE 30 FEET AWAY WHEN I SAW HER. AND I WENT ‘NO!■ AND I WENT LIKE THIS TOOK A COUPLE STEPS AND WENT OVER THAT BARBED WIRE. I THOUGHT, WELL, SHE'S GOING TO BE ON ME. AND SURE ENOUGH, SHE HIT ME, ALL FOUR HOOVES RIGHT ON MY BACK. AND I THOUGHT AT THAT MOMENT, WELL, MAYBE I'M A GONER.
+
+**18:53** · AND AS I LIFTED MY HEAD UP, I COULD SEE SHE WAS WHEELING AROUND TO COME BACK. AND I PUT MY HAND OVER MY HEAD BECAUSE I WASN'T THERE YET. AND SHE GOT MY ARM THAT TIME AND MY LEG. AND SO, I THOUGHT, I HAVE TO GET OUT OF HERE. I HAVE TO GET SOMETHING. AND I COULD BARELY MOVE. BUT I GOT MYSELF BEHIND THAT TREE SOMEHOW.
+
+**19:11** · WHEN SHE LEFT, SHE WENT THAT WAY AND BACK ACROSS THE CREEK. I COULD HEAR HER SPLASHING ACROSS. AND THEN LUCKILY, SHE NEVER CAME BACK. SHE ENDED UP BREAKING MY BACK IN THREE PLACES, BROKE A RIB, AND BROKE MY STERNUM, EVEN THOUGH THAT WAS FACE DOWN ON THE GROUND. I WAS JUST SO INCREDIBLY LUCKY, JUST LUCKY THAT I WAS CARRYING THAT WATER.
+
+**19:33** · THAT'S THE KEY.
+
+**19:38** · A COW MOOSE WITH A CALF IS FOR SURE THE MOST DANGEROUS ANIMAL WE HAVE IN COLORADO. AND PEOPLE NEED TO KEEP THEIR DISTANCE AND KEEP THEIR DOGS ON A LEASH, OR THE MOOSE WILL SEE THE DOG AS A THREAT TO ITS CALF.
+
+**19:55** · I'M DEFINITELY AFRAID NOW, AND I TAKE PRECAUTIONS. I STILL CARRY BEAR SPRAY AND A HORN BUT I DON'T HAVE ANY GRUDGE AGAINST MOOSE AND THEY'RE AMAZING CREATURES SO MUCH MORE CAPABLE THAN I AM. I HAVE TO HAVE GREAT RESPECT FOR THEM.
+
+**20:11** · AS MOOSE POPULATION INCREASES AS ITS HUMAN POPULATION INCREASES AND AS WE ARE ALL ENJOYING THE OUTDOORS MORE. ALL OF THOSE ARE LEADING TO PROBABLY MORE ENCOUNTERS AND CONFLICTS. I HOPE THAT WE CAN CONTINUE TO MANAGE MOOSE AT AN APPROPRIATE LEVEL WHICH IS THE HARD, GETTING THAT NUMBER IS THE HARD PART.
+
+**20:30** · MANAGING MOOSE IS A CHALLENGE ACROSS THE STATE, BUT IT CAN BE ESPECIALLY DIFFICULT WITHIN THE BORDERS OF ROCKY MOUNTAIN NATIONAL PARK, WHERE HUNTING IS PROHIBITED BY FEDERAL LAW.
+
+**20:41** · FOR MOOSE IN ROCKY MOUNTAIN NATIONAL PARK, THE POPULATION HAS CLIMBED TO A HIGHER-THAN-NORMAL LEVEL. AND THE BIGGEST REASON FOR THAT IS BECAUSE WE DON'T HAVE SOME OF THE APEX PREDATORS THAT TYPICALLY MANAGE UNGULATE POPULATIONS. SO, THE KEY THING HERE IS THAT WE HAVEN'T HAD WOLVES AND WE HAVEN'T HAD GRIZZLY BEARS. AND WITHOUT THOSE TWO NATURAL PREDATORS, WE HAVEN'T HAD REGULATION OF THE POPULATION.
+
+**21:05** · ONE PART THAT I THINK ABOUT IN TERMS OF MOOSE MANAGEMENT IS ROCKY MOUNTAIN NATIONAL PARK SHOULD BE WORKING WITH TRIBES ON HELPING CONTROL THIS MOOSE POPULATION. C'BEARING BELIEVES THERE COULD BE A SOLUTION TO THE OVERPOPULATION OF MOOSE IN ROCKY MOUNTAIN NATIONAL PARK. SHE THINKS AN AGREEMENT COULD BE REACHED BETWEEN TWO GOVERNMENTS, NORTHERN ARAPAHO AND THE UNITED STATES, TO ALLOW TRIBAL HUNTING ON NATIONAL PARK LAND.
+
+**21:33** · THERE'S SO MANY THINGS THAT YOU CAN UTILIZE, JUST LIKE THE BUFFALO. YOU KNOW, EVERY PART OF THE BUFFALO WAS USED, BUT EVERY PART OF THE MOOSE, YOU KNOW, AND REGARDLESS OF WHAT ANIMAL IT IS TOO.
+
+**21:43** · WHY CAN'T THEY LET TRIBES EXERCISE THEIR TREATY RIGHTS TO HARVEST THOSE MOOSE?
+
+**21:49** · THE MOST OBVIOUS SORT OF PREDATOR HERE THAT HAS BEEN REMOVED FROM THE EQUATION IS PEOPLE. AND I THINK ROCKY MOUNTAIN HAS SOME CHOICES TO MAKE ABOUT HOW THEY NAVIGATE MOOSE.
+
+**22:02** · IN JUNE 2026, THE JOURNAL OF BIOGEOGRAPHY PUBLISHED WILLIAM TAYLOR'S PEER-REVIEWED STUDY ABOUT THE HISTORY OF MOOSE IN THE SOUTHERN ROCKIES. THE STUDY DETERMINED THAT MOOSE HAVE BEEN PRESENT IN COLORADO FOR THOUSANDS OF YEARS. AND THAT IT'S SCIENTIFICALLY INACCURATE TO FRAME MOOSE AS NON-NATIVE. THE NATIONAL PARK SERVICE DISAGREES WITH TAYLOR'S CONCLUSION.
+
+**22:27** · ONE THING THAT THE PARK HAS BEEN REALLY CONSISTENT ON IS SAYING, WE KNOW THERE'S BEEN MOOSE RARELY IN COLORADO. BUT WE DON'T THINK THERE'S ANY EVIDENCE OF A SUSTAINED BREEDING POPULATION. AND EVEN WITH NEW INFORMATION THAT'S BEEN GATHERED, NATIVITY ALONE ISN'T A VERY IMPORTANT FACTOR FOR OUR MANAGEMENT.
+
+**22:45** · FOR MOOSE, I THINK IT'S PRETTY CLEAR THAT WHETHER THEY WERE LABELED NATIVE OR NON-NATIVE, WE WOULD STILL BE WRITING A MANAGEMENT PLAN FOR THEM BECAUSE WE SEE THEM HAVING A MAJOR ECOLOGICAL EFFECT.
+
+**22:56** · THE REASON THAT I'VE ENTERED THIS DISCUSSION IS NOT BECAUSE IT'S IMPORTANT TO GET THE ACADEMIC NUANCES JUST RIGHT.
+
+**23:03** · IT'S THAT THAT LANGUAGE ENTERING THE MEDIA LANDSCAPE GIVES ME A LOT OF EXTRAORDINARY CONCERNS THAT YOU CAN DO EXTREME-- SORT OF NO-HOLDS-BARRED MANAGEMENT CHOICES, RIGHT?
+
+**23:16** · AS PART OF TAYLOR'S STUDY, HE POINTS TO INSTANCES WHERE THE NATIONAL PARK SERVICE HAS REMOVED ANIMALS, THEY'VE LABELED AS INVASIVE IN AN EFFORT TO PROTECT THE ECOSYSTEM. WHILE ROCKY MOUNTAIN NATIONAL PARK SAYS THEY ARE WORKING ON A MOOSE MANAGEMENT PLAN, THEY AREN'T READY TO RELEASE DETAILS.
+
+**23:34** · IN A LOT OF OTHER PLACES THAT HAVE TACKLED THIS ISSUE, PEOPLE TURN TO THE SAME TOOLS. SO FENCING IS A COMMON TOOL. REPRODUCTIVE CONTROL IS A COMMON TOOL. CULLING IS USED IN SOME PLACES. THOSE ARE THE COMMON TOOLS THAT WE SEE TIME AND AGAIN.
+
+**23:49** · BUT WE WANT TO MAKE SURE THAT ALL THE MANAGEMENT ACTIONS THAT WE TAKE IN THE PARK ARE ON A REALLY STRONG SCIENTIFIC FOOTING BECAUSE THIS ISN'T SOMETHING THAT WE'LL DO FOR ONE OR TWO YEARS. THIS COULD BE SOMETHING INFLUENCES THE PARK FOR DECADES TO COME.
+
+**24:04** · THIS IS ONE OF THE LAST FEW PLACES WHERE WILDLIFE AND NATURAL PROCESSES CAN OCCUR. AND SO, IT'S IRRELEVANT THAT IF THERE WERE 1 OR 100 MOOSE HERE 500 YEARS AGO OR SOMETHING IN THE VALLEY, LIKE THE WAY THINGS ARE FUNCTIONING, WE'RE LOSING ECOSYSTEM SERVICES AND CHARACTERISTICS THAT MIGHT TAKE DECADES TO RECOVER IF THEY CAN BE RECOVERED.
+
+**24:27** · WE DEFINITELY WANT TO PROTECT SENSITIVE ASPEN AND WILLOW COMMUNITIES FROM OVERBROWSING OF MOOSE AND ELK BECAUSE IT CAN TAKE DECADES FOR OVERBROWSED HABITAT. IT CAN TAKE 30, 40 YEARS TO RECOVER.
+
+**24:42** · WE'RE VERY PLEASED BY THE EARLY OUTCOMES OF THIS PROJECT. YOU'LL EVEN BE ABLE TO SEE SOME OF OUR WILLOW PLANTINGS PRODUCING NEW LEAVES. SO, IT'S NICE WHEN YOU SEE THE POSITIVE OUTCOME AFTER MANY YEARS.
+
+**24:54** · ESPECIALLY WITH LARGE CHARISMATIC ANIMALS, IT'S MOSTLY WORKING WITH PEOPLE. BECAUSE PEOPLE ARE PASSIONATE ABOUT ANIMALS AND IT'S MEANINGFUL FOR PEOPLE TO KEEP THESE ANIMALS ON THE LANDSCAPE, KEEP THEIR POPULATIONS HEALTHY.
+
+**25:07** · THERE'S A LOT OF SOCIAL ASPECTS OF WILDLIFE MANAGEMENT, OF WHO WE'RE MANAGING FOR AND WHY, AND EVERYBODY HAS AN OPINION ON WILDLIFE MANAGEMENT. I MEAN, WE'RE ALL SCIENTISTS AND WE BASE A LOT OF OUR DECISIONS ON DATA. BUT A BIG COMPONENT OF THOSE DECISIONS IS THE HUMAN ELEMENT.
+
+**25:27** · I THINK THE HOPE FOR THE FUTURE OF MOOSE IS THEY'RE ALLOWED TO THRIVE AND NOT COMPETE. AND SO, TRYING TO FIND A GOOD SOLUTION, BRAINSTORMING AND REALLY FIGURING OUT WHAT'S THE BEST SOLUTION HERE FOR EVERYBODY.
+
+**25:45** · OUR CLIMATE AROUND US IS CHANGING. IN 2026, OUR CLIMATE IS DIFFERENT THAN IT'S GOING TO BE IN 2036. AND MOOSE ARE ADAPTING AND RESPONDING TO THOSE CHANGES. SO LIKE EVERYONE ELSE, I'M WATCHING WITH CURIOSITY AND HOPE THAT A THOUGHTFUL AND SUSTAINABLE SET OF CHOICES WILL BE MADE HERE. (MUSIC PLAYING)
+
+#### Rebuilding The Herd Rewilding The Future
+
+>Episode 8/13/2026 of Conservation Works (Season 2026)
+>- *Released: 2026-08-13*
+>- *Duration: 00:27:27*
+
+[***More details on pbs.org***](https://www.pbs.org/video/rebuild-the-herd-rewilding-the-future-ohn9c9/)
+
+<iframe width="560" height="315" title=Rebuilding The Herd Rewilding The Future allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/rebuild-the-herd-rewilding-the-future-ohn9c9/?uid=62a74a65-f6a1-4a7c-8907-df1f2b1854e1&amp;userPassportStatus=no&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true\></iframe>
+
+## Description
+
+Explore Nebraska's bighorn sheep comeback, Zoo Schools' Earth Day event, the beauty of Scotts Bluff.
+
+## Transcript

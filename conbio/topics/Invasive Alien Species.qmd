@@ -1,6 +1,6 @@
 ---
 title: "Invasive Alien Species"
-date: "2026-08-29"
+date: "2026-10-21T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,1116 @@ listing:
   contents: "Invasive Alien Species_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-10-21T16:00:00, 2026-10-26T16:00:00
+
+## Assigned Background
+
+### Invasive Species
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Invasive Species
+
+**Ch No.:** 7 (Threats to Biodiversity)
+
+**Pages:** 131-152 (Invasive Alien Species)
+
+**PDF:** [simberloff_2010.pdf](../attachments/simberloff_2010.pdf)
+
+**Textbook:** Conservation biology for all *(see details below)*
+
+**Days Covered:** BIOL4120_W9D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Daniel Simberloff
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![simberloff_2010.pdf](../attachments/simberloff_2010.pdf)
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Readings
+
+#### Ch 11 Invasive Alien Species
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Textbook:** Conservation Biology *(see details below)*
+
+**Chapter:** 11 (Threats to Biodiversity)
+
+**Sections Assigned:** 11.1, 11.2, 11.4 (Invasive Alien Species)
+
+**Days Covered:** BIOL4120_W9D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology by 
+
+**Edition:** 2nd (2025-01-17)
+
+**ISBN:** 9780197667033 (textbook)
+
+[![Conservation Biology](file:////Users/aliciamrich/GitRepos/richlab_main/courses/syllabi/graphics/conbio/text.jpg){width=50px}](https://bookshelf.vitalsource.com/reader/books/9780197667033)
+
+:::
+
+#### Invasive Species
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Invasive Species
+
+**Ch No.:** 7 (Threats to Biodiversity)
+
+**Pages:** 131-152 (Invasive Alien Species)
+
+**PDF:** [simberloff_2010.pdf](../attachments/simberloff_2010.pdf)
+
+**Textbook:** Conservation biology for all *(see details below)*
+
+**Days Covered:** BIOL4120_W9D2
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation biology for all by Daniel Simberloff
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2 978-0-19-955424-9
+
+[![Conservation biology for all](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}]()
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![simberloff_2010.pdf](../attachments/simberloff_2010.pdf)
+
+:::
+
+### Video Clips
+
+#### Drowning in seaweed How to stop invasive Sargassum
+
+**nature video**, *01 25, 2023*
+
+## Video (10:31)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/CH7MpiGCdgU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+The story of Sargassum stretches from the Congo to the Amazon, from soybean farming to climate change and from toxic gases to robotic vehicles. In this documentary researchers from around the world explain the vast scope of the Sargassum problem and the solutions that may one day begin to address it.
+
+Additional photographs and footage in this film were provided by Drake Lee-Patterson, Gary Marshall, Joseph Weekes, Driven Visual Media, Kerwin Noel,  Nick Hurley, Akeisha Clark, Sargassum Information Hub, NASA, Chuanmin Hu, Jeff Davis's team, Hazel Oxenford, Caroline Juang, Melvina Walsh, Morgan Lewis, Kerton Jobe, P McConney, Markel Gomez Letona and Nico Frohberg who were mistakenly missed off the film credits.
+
+## Transcript
+
+**0:03** · VOICE OVER: The Great Atlantic Sargassum Belt is the largest seaweed bloom in the world, and it's expanding.
+
+**0:11** · Visible from space, it's a growing problem for coastal communities.
+
+**0:15** · HARSHINI VUMMADI: The beaches, genuinely, if they aren't maintained, you just can't go there.
+
+**0:21** · You'd be up to your knees in sargassum.
+
+**0:24** · VOICE OVER: But as a key sequester of carbon, this invasive species also presents an opportunity.
+
+**0:30** · AJIT SUBRAMANIAM: We want to gather sargassum using robotic vehicles.
+
+**0:34** · You sink it down 2,000 metres, our current model suggests that that particular water body does not come back in contact with the atmosphere for at least 100 years.
+
+**0:42** · VOICE OVER: Can scientists take a global challenge and turn it into an opportunity to buy time in the race against climate change?
+
+**1:00** · VOICE OVER: Sargassum has been in the Atlantic since the time of Christopher Columbus, floating mats of seaweed that gave its name to the Sargasso Sea – a nutrient-poor patch of the Atlantic penned in by ocean currents.
+
+**1:13** · AJIT: You can think of it as a floating rainforest or an upside-down coral reef because each raft of sargassum is a hotspot of biological activity.
+
+**1:22** · VOICE OVER: But in the last couple of decades, a new population has emerged, further south near the coast of Brazil and the Caribbean.
+
+**1:29** · SHELLY-ANN COX: In 2011, we were all taken back by this new phenomenon, where we saw tons of sargassum being brought and beached in the region.
+
+**1:42** · VOICE OVER: Based in Barbados, scientist and entrepreneur Shelly-Ann Cox specialises in fisheries management.
+
+**1:49** · She first noticed the impact of sargassum on the sea urchin divers she was working with.
+
+**1:54** · SHELLY-ANN: Fisher folk had reported sargassum mats as far as their eyes can see.
+
+**2:01** · Some of them can't get to the boat or the boats can't get through the sargassum to get out.
+
+**2:07** · Those near shore, the spear fishers as well, they reported some of their skin being irritated when they're diving and the berries that keep the sargassum floating have gotten into their ears as well.
+
+**2:21** · VOICE OVER: The impact on tourism – the lifeblood of the Caribbean – has been huge.
+
+**2:25** · OFF-SCREEN VOICE: This weed is going right up to the sanitation plant by Barnacle Point.
+
+**2:33** · People, get ready for the smell tomorrow.
+
+**2:39** · VOICE OVER: Around the same time, other scientists working in the Atlantic had also noticed a change.
+
+**2:45** · Oceanographer Ajit Subramaniam has been working in the South Atlantic for more than 25 years.
+
+**2:50** · AJIT: In 2018, it was astounding how much sargassum we ran into, and it was really striking.
+
+**2:55** · It was something that we'd never seen before and then, bam.
+
+**2:58** · We were there, and the ship was often surrounded by sargassum that was hundreds of metres around the ship.
+
+**3:05** · VOICE OVER: Sargassum wasn't thought to be found this far south.
+
+**3:08** · AJIT: We were seeing things that we had not seen before, and I was trying to get context for that.
+
+**3:12** · VOICE OVER: Ajit linked up with colleagues at the University of South Florida, who had been making their own observations.
+
+**3:17** · AJIT: They'd been actually watching this on their satellite data, and they had actually seen this explosion of this new population that is growing much closer to the equator.
+
+**3:26** · VOICE OVER: With the satellite data, scientists were able to hazard an estimate of its size.
+
+**3:31** · SHELLY-ANN: 24.2 million metric tons in June, from the satellite imagery.
+
+**3:38** · VOICE OVER: Dubbed the Great Atlantic Sargassum Belt, this is almost certainly the world's largest macroalgal bloom.
+
+**3:44** · It's thought that intensive agriculture, especially soya plantations, has increased nitrogen concentrations in the Atlantic, causing rapid sargassum growth.
+
+**3:54** · SHELLY-ANN: Sargassum is really known as a symptom of climate change because, due to increasing surface temperatures, nutrients from the Amazon and Congo, Saharan dust which brings in iron, upwelling as well, the change in currents, all of these factors have led to the proliferation of sargassum.
+
+**4:19** · HARSHINI: Outside of the Caribbean, I don't think many people are talking about this.
+
+**4:23** · VOICE OVER: Harshini Vummadi is a biology major undergraduate, who's recently returned from an exploratory trip to the Dominican Republic.
+
+**4:32** · HARSHINI: It affects the Caribbean and I believe West Africa, and a bit of East Asia as well.
+
+**4:40** · VOICE OVER: Harshini is part of an interdisciplinary team from the Georgia Institute of Technology.
+
+**4:44** · They're working with the school of biological sciences to try and explore solutions to the sargassum problem.
+
+**4:49** · RESEARCHER: Yeah, so, I'm just collecting some sargassum samples and there are lots of different plants in here.
+
+**4:57** · HARSHINI: I am the biology major on their team. We have a chemical engineer, a civil engineer, a mechanical engineer.
+
+**5:03** · VOICE OVER: A solution of some sort is definitely needed, and urgently.
+
+**5:07** · HARSHINI: I just didn't realise how much of it there would be, like we watched a clean-up crew work and work, and in 2 hours they like hardly made a dent. The growth just seems to be almost exponential.
+
+**5:18** · VOICE OVER: While there are many creative small-scale craft uses of sargassum, local communities have yet to find a viable solution to disposing of vast quantities of the stuff, or even better, making it useful.
+
+**5:30** · HARSHINI: It uptakes a lot of different heavy metals, particularly arsenic, which makes it like quite dangerous to use as, say, like a fertiliser because, again, now you're introducing arsenic to these land systems where it could potentially leach into groundwater.
+
+**5:47** · So, we try to like branch out from fertiliser. One of our team members focused on an application involving bricks.
+
+**5:55** · Someone else focused on black soldier fly larvae, which could consume the sargassum and then in turn be used as a sort of biofuel in like an anaerobic digester.
+
+**6:08** · I personally have been working on using it as a bioaccumulate. Why not use it in waste water treatment?
+
+**6:16** · It can absorb those heavy metals that we were so concerned about in the first place.
+
+**6:21** · VOICE OVER: Harshini's team are working on ways to make the sargassum financially viable.
+
+**6:26** · Meanwhile, Ajit is thinking more broadly, exploring the bigger checks and balances of the global carbon cycle.
+
+**6:32** · He's come up with a radical plan.
+
+**6:34** · AJIT: So, the way we want to do this is essentially gather nets of sargassum using robotic vehicles, have them ballasted and then sink them down to 2,000 metres.
+
+**6:46** · VOICE OVER: Sargassum sequesters a lot of carbon, but it also releases it when it decays.
+
+**6:52** · This approach would theoretically remove the carbon from the atmosphere, effectively buying the planet time in the race against climate change.
+
+**6:59** · AJIT: Sinking down 2,000 metres, our current model suggests that that particular water body does not come back in contact with the atmosphere for at least 100 years.
+
+**7:08** · VOICE OVER: The idea of sinking the sargassum has been proposed before, but the suggestion is usually to sink it where it grows, in shallower water.
+
+**7:15** · AJIT: Merely capturing it at the surface and getting rid of it just off the beach at 100 metres or something like that will basically have the carbon coming right back up.
+
+**7:26** · It might even actually come back up in a more potent form if you are starting to have it rotting and forming methane.
+
+**7:32** · VOICE OVER: Ajit plans to sink the sargassum in deeper water, but there are a lot of questions still to be answered.
+
+**7:38** · AJIT: We want to make sure that the carbon that we are capturing is actually going down to the sea floor and will stay down there, and so we want to follow it down to the sea floor.
+
+**7:46** · VOICE OVER: In addition, as a biologist, he's keen to understand the impact of this plan on the ecosystem.
+
+**7:51** · AJIT: So, we actually have a fisheries scientist on the team who will be looking at what kind of communities the sargassum rafts harbour, and therefore we'll have a sense of what we might be impacting if we were to do the sinking.
+
+**8:02** · It's not that we're going to decimate the ocean of sargassum.
+
+**8:06** · VOICE OVER: The list of problems attributed to sargassum is growing. From the harmful gases released when it decays to its impact on wildlife.
+
+**8:13** · HARSHINI: Especially when it washes up on beaches where turtles go to lay their eggs, a lot of these baby turtles are actually unable to climb over these sargassum things, and so they're unable to make it into the ocean due to these big patches of sargassum.
+
+**8:28** · SHELLY-ANN: So, every year we're seeing more countries reporting the influx and the catastrophic impacts on tourism, fisheries sectors, maritime and transport and then the health impacts.
+
+**8:43** · So, some of our colleagues recently published a paper on the impacts on pregnant women who were exposed to hydrogen sulfide and ammonia when the sargassum decomposes.
+
+**8:57** · Those pregnant ladies who live near the coast and were exposed were at a higher risk of preeclampsia.
+
+**9:04** · VOICE OVER: Going into the future, it's likely that the challenge presented by sargassum, like many of the challenges of climate change, might be bigger than one scientist or one idea.
+
+**9:14** · HARSHINI: There needs to be some sort of economically driven, or at least be governmentally subsidised, but there needs to be some sort of way to like tackle and solve the problem.
+
+**9:27** · AJIT: I feel that countries like Barbados are the populations that contribute the least to climate change and yet are facing the greatest impact of climate change.
+
+**9:36** · I would like to figure out a financing model where we can actually have credit going to communities in Barbados for the carbon that is sequestered.
+
+**9:46** · SHELLY-ANN: There are lots of bright, brilliant minds out there developing solutions that need this support.
+
+**9:53** · They need the financial support to upscale until governments realise that this problem is really here to stay, then they will be willing then to invest in building up sargassum industries.
+
+**10:07** · HARSHINI: Nothing has like had any concrete potential yet. There's just several isolated research groups.
+
+**10:15** · But I just think that things would move a lot faster if everyone could like work together.
+
+#### Giant Pythons Have Overrun Florida. Here’s Why
+
+**PBS Terra**, *08 08, 2023*
+
+## Video (13:31)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/kweD8y5LqsA?start=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Watch the full first episode of Human Footprint here: https://youtu.be/m36E3n7y3mY
+
+Ever heard of the phrase "when pet pythons outgrow their owners"? Well, host Shane Campbell-Staton is about to take us on an adventure to find out what happens next in this episode of Human Footprint. Join Shane as he meets bounty hunter Donna Kalil, exotic animal trader Hillary Dupont, and biologists Matthew McCollister and Kristen Hart as they battle the invasive Burmese Pythons of the Everglades.
+
+Human Footprint is a show that delves into the impact of humans on the planet. Join Shane as he travels from farms to restaurants, from high-tech labs to street markets, and from forests to cities to uncover the consequences of our unique history. Are you ready to explore our past, present, and future as a species?
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+## Transcript
+
+**0:07** · Another monster gone!
+
+**0:09** · Oh my gosh.
+
+**0:11** · Burmese Pythons have transformed the entire ecosystem of South Florida.
+
+**0:17** · After arriving here as seemingly innocent pets, these snakes have overrun their new environment in just a few decades.
+
+**0:23** · The thing is, there’s still a lot we don’t know about how these elusive snakes live in the wild, like how long they live, how far they move, or even how many offspring they have.
+
+**0:33** · And the only way to find out... well, is to catch them.
+
+**0:36** · So I met up with a python hunter, an exotic pet dealer, and a team of wildlife biologists to get the story behind the invasion, and see how these dedicated south Floridians are working together to protect these natural habitats.
+
+**0:50** · I'm Shane Campbell-Staton, and this is Human footprint.
+
+**0:55** · Once I see it, adrenaline starts pumping and, you know, the game's on.
+
+**1:13** · I've caught on full moons, I've caught below 75.
+
+**1:16** · I've caught on windy days.
+
+**1:17** · So, you know, you just got to be out here.
+
+**1:20** · You never know when a python's going to be out here moving around.
+
+**1:25** · In 2017, Donna Kalil quit her job in real estate to become a full-time Burmese python hunter.
+
+**1:34** · I'm loving the, loving this uh, the snake leather. It's nice and supple.
+
+**1:39** · Right there.
+
+**1:39** · Yeah!
+
+**1:40** · Love the trim.
+
+**1:41** · It helps my volunteers, you know, remember what you're looking for out there.
+
+**1:47** · What made you decide to take up the mantle of python wrangler?
+
+**1:50** · I know how to catch snakes.
+
+**1:52** · I've known how to all my life.
+
+**1:54** · And I knew that I can make a difference to the environment that I love.
+
+**1:57** · What is the largest python you’ve caught?
+
+**2:00** · The largest I've caught was 16 even.
+
+**2:03** · Oh wow!
+
+**2:04** · These guys didn't sprout wings and fly over from Southeast Asia.
+
+**2:07** · We brought them here.
+
+**2:08** · So we made the problem.
+
+**2:09** · We got to, we got to fix it.
+
+**2:12** · One way Florida is trying to fix the problem is by paying folks like Donna to capture and kill the pythons.
+
+**2:19** · So far, she’s brought in more than 600 of them.
+
+**2:26** · So if you do see something on the road, yell “Python,” and then we're good to go.
+
+**2:31** · Awesome. Let's ride.
+
+**2:38** · I so highly respect these things because they're in an environment that they were put in, and they took over.
+
+**2:45** · Oh, will you stop?
+
+**2:47** · Back up just a little bit.
+
+**2:48** · Got something?
+
+**2:49** · Stop.
+
+**2:53** · Let me go check.
+
+**2:55** · It was down by the trees?
+
+**2:56** · Both of us saw it.
+
+**2:58** · When they feel vibrations coming at them, when they think that there's something's coming at them, they're going to take off.
+
+**3:12** · There is a gator right there.
+
+**3:14** · You definitely saw a python though?
+
+**3:17** · I’m positive.
+
+**3:24** · If it was a python, it got to the water before we got to it.
+
+**3:33** · To understand how the python problem started, you need to understand the Florida pet trade.
+
+**3:40** · Some of the snakes Donna and I were looking for came from stores a lot like this one in Palm Beach County.
+
+**3:46** · We had a 22 foot reticulated python named Heather.
+
+**3:50** · We named her after my sister.
+
+**3:53** · I never really had a fear of big snakes.
+
+**4:02** · Hillary Dupont took over the store from her parents, who started it in the 90s.
+
+**4:12** · Her dad was a herpetologist and zookeeper, so Hillary’s been around exotic animals her whole life.
+
+**4:19** · So I grew up, back in the day, I have pictures, where my Dad used to bring home the lions and the chimpanzees from lion country, back when that was “OK”!
+
+**4:32** · Hillary’s bringing up her children in this world too, and from what I can see, they’re into it.
+
+**4:37** · I mean, really, what kid wouldn’t love growing up with all these animals in the family?
+
+**4:46** · Did a lot of Burmese pythons come through this store?
+
+**4:50** · Were they sold here?
+
+**4:51** · Yeah, we did.
+
+**4:52** · We had a lot of Burmese pythons come in and out and people would buy them.
+
+**4:56** · And then, of course, when they got to a certain size, they were like, oh, where are we going to keep this?
+
+**4:59** · Where are we going to put this?
+
+**5:00** · And they would bring them back.
+
+**5:01** · But not everyone took their pythons back to the store.
+
+**5:05** · Many dumped them into the closest wetland.
+
+**5:07** · Yes, we're 100% at fault for contributing to that back in the day, but that's where I'm redeeming myself.
+
+**5:16** · Florida Fish and Wildlife called us and said, do you want to be a drop center?
+
+**5:19** · And we said, absolutely.
+
+**5:21** · And so that's when they started getting dropped to us.
+
+**5:23** · Wildlife drop centers provide a safe place for people to bring unwanted pets… so Hillary’s store is a rare place where you can see Burmese pythons kept legally in Florida.
+
+**5:35** · Can I see one of these guys?
+
+**5:35** · You wanna go see one of them?
+
+**5:36** · Oh, yeah.
+
+**5:37** · I'll bring you over there.
+
+**5:39** · Come on, darling.
+
+**5:40** · Oh, my goodness.
+
+**5:42** · Come on.
+
+**5:43** · Boy’s got body, as they say.
+
+**5:47** · This is Satan.
+
+**5:48** · This is Satan?
+
+**5:49** · I know.
+
+**5:50** · It's a horrible name.
+
+**5:53** · He's kind of heavy and lanky.
+
+**5:55** · Alright Satan, let's say hello to everybody.
+
+**5:58** · How long is Satan?
+
+**6:00** · Well, he's around eight feet.
+
+**6:01** · Okay.
+
+**6:02** · And how old is the Prince of Darkness?
+
+**6:04** · We've had him for around five or six years.
+
+**6:06** · In a glass cage, these snakes seem harmless.
+
+**6:10** · But when they were released into a new environment, the results were devastating.
+
+**6:18** · Scientists are still trying to understand just how large of an impact they’re having.
+
+**6:23** · What they do know is that with their indiscriminate appetite, these snakes are wreaking havoc on the ecosystem’s native species.
+
+**6:31** · Burmese Pythons can take out the ecosystem’s apex predators, like alligators and crocodiles, upsetting the delicate balance in the Everglades which is home to endangered species like the Florida panther.
+
+**6:42** · And they can pose a risk to humans too.
+
+**6:45** · While Burmese Pythons typically stay far away from us, they can strike with and constrict to defend themselves and are fully capable of devouring cats and dogs.
+
+**6:54** · The animal is a challenge like no other.
+
+**6:57** · There’s a lot of surprises.
+
+**7:00** · This is ecologist Kristen Hart of the US Geological Survey.
+
+**7:04** · When she’s not chasing personal bests, she’s chasing down pythons… Kristen and Matt McCollister of the National Park Service are part of a team that’s trying to learn everything they can about how these snakes live in the Florida swamps.
+
+**7:23** · Today on the to-do list is to check two of our transmitted females.
+
+**7:28** · Okay.
+
+**7:29** · She was around 125 pounds when she was caught about this time last year.
+
+**7:36** · This is a basic radio tag.
+
+**7:37** · Okay.
+
+**7:39** · This is for an adult.
+
+**7:40** · We anchor it to the rib.
+
+**7:41** · So, there's a surgery to put the tags in.
+
+**7:45** · We put two in, so we don't lose them.
+
+**7:47** · They have a different frequency.
+
+**7:49** · So should one die, one tag, the battery expire, we still have a backup.
+
+**7:54** · And so it goes actually in the body in a surgery.
+
+**7:57** · And then we feed the antenna also right under the skin.
+
+**8:02** · You can hear it in the animal.
+
+**8:04** · It's all inside.
+
+**8:06** · So they come in for surgery based on the expected battery life.
+
+**8:11** · It seems pretty straightforward, but at the same time, it's a very technologically advanced solution.
+
+**8:19** · It's a really important tool for us.
+
+**8:21** · If we’re just walking around the woods, you're not likely to find a python.
+
+**8:24** · The tags are definitely the thing that help us track these animals.
+
+**8:28** · The team has radio tagged over 60 pythons.
+
+**8:31** · But they’re still learning the most basic facts about this species’ biology… like how long they live, how far they move, and how many babies they have… because to control them, we’ve got to understand them.
+
+**8:44** · So we'll end up going around this marsh and then back in the pine.
+
+**8:48** · I think they're adapting very well.
+
+**8:50** · And very quickly here in South Florida, it is a landscape scale phenomenon.
+
+**8:57** · This is not an easy environment to get around in… much less find a snake that doesn’t want to be found.
+
+**9:11** · It makes me realize how large I am as a human being.
+
+**9:15** · Not exactly built for stealth, but I'm trying my best.
+
+**9:19** · If it was easy, it would have been done before.
+
+**9:27** · Burmese pythons are very cryptic.
+
+**9:28** · They are in the canals.
+
+**9:30** · They are on the levees.
+
+**9:33** · They can be up in trees and underground.
+
+**9:41** · I believe it’s right here, just off the signal.
+
+**9:44** · You know, the animal is close to 16 feet long, so it could be in a few places.
+
+**9:48** · But if she’s in a ball, it’s likely right here.
+
+**9:53** · Just off where the signal feels hot.
+
+**9:55** · Prove once again why they have been able to conquer this habitat.
+
+**10:01** · Believe it or not there’s a snake here.
+
+**10:03** · The radio tag doesn’t lie… there’s a 16-foot python right under our feet, we just can’t get to it.
+
+**10:11** · Unfortunately, y’all have received the typical track experience.
+
+**10:17** · We will have to try another one.
+
+**10:23** · I mean, I think it's like an alien thing.
+
+**10:24** · Right?
+
+**10:25** · I mean, they lose teeth and they grow them back.
+
+**10:28** · They have regenerative organ growth.
+
+**10:30** · So they can actually like their heart can shrink, their stomach can shrink, and then they can grow it back.
+
+**10:37** · This is a vast wilderness with lots of prey.
+
+**10:41** · We've seen everything in their diet -- mammals, birds, gators.
+
+**10:46** · Once gators are on the menu, you've reached official gangster status.
+
+**10:52** · It's just unbelievable.
+
+**10:53** · Burmese pythons eat prey as small as mice, and as large as deer.
+
+**10:58** · And in some part of the everglades, these mammal populations have dropped by more than 90% from their python numbers.
+
+**11:08** · She’s at the base of this squash myrtle.
+
+**11:10** · I see her, I think.
+
+**11:12** · You see it in there?
+
+**11:13** · I do.
+
+**11:13** · Go and get your blood stuff out.
+
+**11:14** · It’s moving.
+
+**11:14** · I see it.
+
+**11:15** · You see it in there?
+
+**11:17** · Get the camera right in there.
+
+**11:17** · You see it?
+
+**11:19** · Wanna let her move out.
+
+**11:20** · You ready?
+
+**11:21** · Yeah.
+
+**11:23** · Nope, she wiggled out.
+
+**11:26** · Here’s a head.
+
+**11:37** · [Inaudible] To touch this animal and feel how muscular the whole thing is.
+
+**11:51** · Giving me all kinds of presents back here.
+
+**11:54** · You appreciate the beauty of it.
+
+**11:56** · But it's also like this cannot be out there.
+
+**12:00** · I mean, but it is.
+
+**12:03** · You wanna go and cinch, cinch the drawstring?
+
+**12:08** · 20.1.
+
+**12:09** · Tare the bag.
+
+**12:11** · It’s hard to believe that this 10-foot snake is the smallest python we tracked today.
+
+**12:17** · After taking measurements and collecting blood, the team releases the snake back into the wild.
+
+**12:23** · For Kristen, that’s a necessary evil.
+
+**12:27** · It is a big ask to put them back, right?
+
+**12:29** · Because you have an invasive in your hand, just put it down, get it out of the system.
+
+**12:34** · But if we do that, we lose the ability to learn.
+
+**12:36** · It is like driving the car while you’re building it in many ways.
+
+**12:39** · The rulebook is not there for these animals.
+
+**12:44** · The better we understand these snakes, the more likely we are to find a weakness that we can exploit to control them and reduce their impacts.
+
+**12:53** · What is the outlook?
+
+**12:54** · Is the goal like eradication?
+
+**12:56** · Is that beyond what is possible now?
+
+**12:58** · Trying to manage and mitigate the impacts that they're having is sort of the shifting, shared goal I think.
+
+**13:05** · I love the Everglades.
+
+**13:07** · I have to work on this issue like I can't back away as hard as it gets or as frustrating it gets sometimes.
+
+**13:16** · If you want more Human Footprint, you can tune in to the full length series on the PBS App or on your local PBS station.
+
+**13:23** · Check out the link in the description to watch a full episode and to find out more about the show.
+
+#### Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed
+
+**VICE News**, *06 03, 2021*
+
+## Video (4:59)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/1ybg6hd-TUA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+It might be time to cull the world’s largest invasive species: Pablo Escobar’s cocaine hippos. The rapidly reproducing 80 hippos have taken over Colombia’s waterways, poisoning wildlife with their toxic urine and feces, scientists say. But not everyone can agree on what to do with them.
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News
+
+Check out VICE News for more: http://vicenews.com
+
+Follow VICE News here:
+
+Facebook: https://www.facebook.com/vicenews
+
+Twitter: https://twitter.com/vicenews
+
+Tumblr: http://vicenews.tumblr.com/
+
+Instagram: http://instagram.com/vicenews
+
+More videos from the VICE network: https://www.fb.com/vicevideo
+
+#VICENews #News
+
+## Transcript
+
+#### The Florida River Becoming a Refuge for Manatees  WILD HOPE
+
+**Nature on PBS**, *01 08, 2024*
+
+## Video (15:34)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/1sVU9RocV7M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Crystal River has long been a safe haven for the Florida manatee, but when an invasive algae wiped out the eelgrass that manatees need for food, the community rallied to restore the river and save the animals that call it home.
+
+After an unexpected storm forever changed Crystal River more than three decades ago, Lisa Moore founded Save Crystal River to rally the community to garner funding for a massive restoration project. Sea and Shoreline’s Jessica Mailliez demonstrates the dirty work they do to remove invasive algae and restore native eelgrass. This transformation has allowed Florida manatees to return to Crystal River, but for those living along the west coast of the state, the situation is much more dire.  
+
+There, manatees are declining fast — nearly two thousand have died from starvation since 2020 along the Indian River Lagoon. Zoo Tampa has been rescuing as many starving manatees as they can hold, saving them from death and prepping them for re-release into the wild. Fortunately for the manatees ready to return to the wild, they have a safe destination: Crystal River. The strides made in that small community hold promise for a path forward for manatees across the state.
+
+Learn more about this story and ways that YOU can get involved in saving your local biodiversity by becoming a Wild Hoper:
+
+Follow us: https://www.instagram.com/wildhopetv/ 
+
+Join our community: https://wildhope.tv
+
+Get our newsletter: http://eepurl.com/irGMng 
+
+Share this with a friend!
+
+## Transcript
+
+**0:01** · LISA: Crystal River was perfect for the manatees.
+
+**0:04** · (water swooshing) ♪ When you lose the basis of your ecosystem, which is your plants, everything else goes away.
+
+**0:13** · ♪ It just becomes a chain reaction of devastation, and that's what happened here.
+
+**0:20** · We lost it all. Our river basically died.
+
+**0:23** · ♪ We are a manatee refuge. They needed food.
+
+**0:28** · There was no food for them to eat.
+
+**0:30** · ♪ (water splashing) ♪ It's one of those situations, your house burns down.
+
+**0:38** · What do you do? You rebuild.
+
+**0:40** · You have to start from scratch.
+
+**0:42** · ♪ (water swooshing) ♪ ♪ Growing up in Crystal River was any child's dream.
+
+**0:58** · You could go out on the boat all day long, go fishing, swimming in the spring, and the water was crystal clear.
+
+**1:07** · You could see fish all around you, big fish, and they would just swim by.
+
+**1:13** · And manatees could come up here.
+
+**1:15** · There was plenty of food, and they could bring their young.
+
+**1:18** · They would have their babies here, and they would spend the winter here in our springs.
+
+**1:24** · Our water's 72 degrees year round.
+
+**1:26** · It was just a great habitat for wildlife.
+
+**1:30** · ♪ ♪ NARRATOR: Manatees, also known as sea cows, are herbivores that live in coastal rivers, bays, and estuaries.
+
+**1:41** · ♪ Florida manatees will travel as far north as Virginia or as far west as Texas in Summer.
+
+**1:50** · But each winter they return to Florida and it's warm, spring- fed rivers and bays.
+
+**1:56** · ♪ Two thirds of the population now relies on the warm discharge waters from power plants.
+
+**2:06** · Manatees began taking refuge there over the past 30 years as urban developments swallowed up spring-fed rivers and bays.
+
+**2:15** · ♪ There are still a few good natural springs remaining, and one of the best is Crystal River.
+
+**2:25** · But this manatee haven was almost lost.
+
+**2:29** · LISA: Back in the '70s, we had a lot of hydrilla, and that kind of filled the river.
+
+**2:33** · It caused a problem. It was an invasive fresh water plant.
+
+**2:36** · ♪ NARRATOR: The hydrilla depleted oxygen levels in the water and out-competed the native eelgrass, a staple of the manatees' diet.
+
+**2:45** · ♪ Then in the '90s, things got a whole lot worse.
+
+**2:51** · (waves crashing) ♪ LISA: The 1993, they called it, "Storm of the Century" or the "No-Name Storm."
+
+**3:00** · (waves crashing) We didn't know it was coming, and it blew in so much salt water from the Gulf of Mexico.
+
+**3:09** · It inundated all the waterfront homes.
+
+**3:13** · NARRATOR: The storm surge pushed loads of salt water into Crystal River's freshwater system.
+
+**3:18** · ♪ LISA: It really affected the water, but nobody knew it at the time.
+
+**3:24** · ♪ We were so worried about people that we didn't know that so much hydrilla was dead and fell to the bottom of the river.
+
+**3:32** · ♪ That caused a problem because it started to rot.
+
+**3:37** · ♪ NARRATOR: Eelgrass in the river fared better because it thrives in brackish water.
+
+**3:45** · But the rotting hydrilla suffocated the grass and triggered an explosion of an invasive algae called lyngbya.
+
+**3:55** · LISA: It turned into slime, and then it looked like the surface of the moon on the bottom.
+
+**4:01** · It was noxious to animals. It would give people rashes.
+
+**4:06** · Huge plumes of nasty algae destroyed the eelgrass.
+
+**4:12** · ♪ NARRATOR: Manatees need to eat close to 10% of their body weight in eelgrass every day, up to 350 pounds of it.
+
+**4:23** · (water swooshing) The disappearing eelgrass in Crystal River forced manatees to venture out into colder waters where it's harder to find food and where they risk dying from cold stress.
+
+**4:37** · Manatees can't survive long in waters below 68 degrees.
+
+**4:42** · LISA: It had never happened before, and nobody knew what to do to fix it.
+
+**4:47** · I had children and grandchildren and I just kept thinking, "We can't leave it like this."
+
+**4:53** · We know what this river used to be, and we have to fix this.
+
+**4:58** · So neighbors got together, friends got with other friends, and we formed Save Crystal River.
+
+**5:05** · MARIE: Remember how bad it was? This park was closed.
+
+**5:08** · It was probably the only time in my life I wanted to leave Crystal River 'cause it was just terrible.
+
+**5:13** · NARRATOR: After watching the lyngbya take over, Lisa and her friend Marie urged the community to tackle the crisis.
+
+**5:21** · MARIE: It was 2015 when we went to every school, and we asked them to write a letter about why the river was important to them.
+
+**5:33** · They wrote 5,280 letters, and so then we took them to Tallahassee.
+
+**5:40** · LISA: I think that was important, showing them that their opinions mattered to the legislators.
+
+**5:45** · And it made an impression 'cause they knew that these people cared.
+
+**5:50** · NARRATOR: The campaign also opened the government's coffers.
+
+**5:54** · Soon, the community nonprofit had the funding to hire a private contractor to start restoring the river.
+
+**6:01** · LISA: One day, somebody told us about a project that was similar to what we needed to have done.
+
+**6:06** · They were taking out algae and replacing it with healthy eelgrass.
+
+**6:12** · So they came up here, and they said, "We think we can fix this."
+
+**6:16** · ♪ ♪ NARRATOR: Jessica Mailliez works with aquatic restoration firm, Sea and Shoreline to replant the manatees' eelgrass on behalf of the community.
+
+**6:30** · ♪ JESSICA: I guess I first realized that a career working with sea grass and eelgrass would be something that I absolutely loved was when I realized that really everything depends on it.
+
+**6:47** · I love the manatees, the turtles, all those charismatic creatures.
+
+**6:51** · ♪ NARRATOR: Eelgrass cleans the water.
+
+**6:55** · Its roots hold the sediment in place, and it serves as a critical nursery for many kinds of fish.
+
+**7:02** · ♪ But for eelgrass to return and thrive, the lyngbya algae had to go.
+
+**7:11** · (water swooshing) ♪ JESSICA: It's a nasty mat-forming algae.
+
+**7:21** · It really blankets everything. It blocks out the sunlight.
+
+**7:24** · Nothing can grow beneath it.
+
+**7:27** · That stuff smells awful.
+
+**7:30** · I mean, it is thick.
+
+**7:31** · ♪ We have divers that go in and they hand vacuum the bottom.
+
+**7:37** · It's hours and hours, full days, four to eight hours underwater in no visibility.
+
+**7:44** · Just feeling around on the bottom and making sure that you remove all of this nasty algae.
+
+**7:52** · It's a dirty job.
+
+**7:52** · ♪ We've removed over 500 million pounds of lyngbya and detrital muck.
+
+**8:02** · ♪ ♪ I think one of the proudest moments for our divers and our dredge crew is being able to uncover those large spring vents.
+
+**8:16** · ♪ You start going down, down, down into a hole.
+
+**8:21** · And you realize when you start to feel some water gushing out that you just opened up a spring vent that's been clogged for who knows how many years.
+
+**8:31** · ♪ NARRATOR: The vents are like faucets delivering warm water from underground aquifers deep within the Earth.
+
+**8:42** · JESSICA: We have cleaned and uncovered over 800 spring vents in the Crystal River area.
+
+**8:47** · ♪ (water splashing) NARRATOR: Once the algae is removed, young grasses can be planted.
+
+**8:54** · (water splashing) ♪ There's a lot of river bed to cover, and it's all done by hand.
+
+**9:02** · ♪ Pre-rooted pods are planted every three feet.
+
+**9:08** · ♪ (water swooshing) JESSICA: After we plant these, we come back to check on them every single week for the first four weeks, then biweekly after that, and then every single month for a total of 12 months.
+
+**9:24** · ♪ NARRATOR: The community's efforts to remove the algae mats and restore eelgrass have reversed the river's decline.
+
+**9:32** · ♪ Manatees are once again thriving here, and tourism and fishing are both up.
+
+**9:39** · ♪ JESSICA: Crystal River is a huge success story.
+
+**9:44** · We have some of the healthiest manatees in the state, and this warm-water refuge is also like a salad bar to them.
+
+**9:53** · ♪ Last winter, we had our- our highest concentration of manatees in this area reaching over 1,000.
+
+**10:03** · ♪ NARRATOR: The numbers statewide have increased significantly over the past 50 years, from a low of just a few hundred manatees in the '60s, to a high of about 9,000 in 2016.
+
+**10:18** · ♪ But since then, the trend has been going down again, and the Crystal River manatees are one of the few populations doing well.
+
+**10:28** · ♪ One of the most threatened populations is in the Indian River Lagoon, which is facing a crisis eerily similar to the one Crystal River endured.
+
+**10:40** · ♪ JESSICA: The Indian River Lagoon is on the east coast of Florida, and the problem that we've seen there is we had gradual sea grass loss.
+
+**10:51** · And then a huge brown tide bloom came in and completely starved the grass of all sunlight, and we lost what we were already short on.
+
+**11:03** · ♪ (water swooshing) (equipment humming) NARRATOR: The Manatee Critical Care Center at Zoo Tampa is trying to manage the fallout.
+
+**11:15** · ♪ MOLLY: We've had over 500 manatees come through our doors and over 300 go back to the wild.
+
+**11:22** · ♪ NARRATOR: Manatees are here for a variety of reasons.
+
+**11:27** · Some have been struck by boats or overexposed to cold water.
+
+**11:33** · But increasingly they're being brought in because they're starving.
+
+**11:39** · ♪ MOLLY: All over the state of Florida, we are seeing a die off of natural sea grasses for manatees.
+
+**11:46** · ♪ Manatees on the East Coast, in particular, they're coming in basically starving.
+
+**11:53** · They're emaciated. They are very ill.
+
+**11:56** · ♪ NARRATOR: The zoo tries to save as many patients as possible.
+
+**12:02** · MOLLY: Manatees have a pretty slow gestation, which means they don't give birth that often, about every two to three years.
+
+**12:08** · So if you're losing a lot of adults, that can be really detrimental to the species in the long run.
+
+**12:13** · ♪ This year alone, we took in 17 manatees in two months, which is an incredible number.
+
+**12:22** · I've seen quite a few orphans coming in our doors, and we don't really know what happened to their mother.
+
+**12:26** · But they come in with no wild experience, and so we want to set them up for success.
+
+**12:31** · ♪ They have to gain a lot of weight when they're at the zoo.
+
+**12:35** · They eat about eight hours of their day, and so that is a ton of food.
+
+**12:39** · ♪ We can give them romaine lettuce and things to get their body condition back up, but we need the natural vegetation in order for them to thrive.
+
+**12:48** · ♪ This is natural sea grass that's been collected from the wild, and today I'll be putting it in for our orphan calves.
+
+**12:55** · ♪ Our goal is to feed it every single day, so that way they're used to it.
+
+**13:03** · ♪ (water splashing) They need sea grasses out in the wild for them to survive.
+
+**13:08** · So it's really important that we're out there protecting the sea grasses and helping them to grow so that the manatees will be here for many years to come.
+
+**13:16** · ♪ ♪ NARRATOR: When the manatees from Zoo Tampa are ready to return to the wild, a destination of choice is the restored Crystal River ecosystem.
+
+**13:30** · MOLLY: Crystal River, in particular, has changed and is such a bountiful environment for them that we're releasing those animals to that space.
+
+**13:38** · (group cheering) ♪ NARRATOR: It's also become a model for restoration elsewhere.
+
+**13:45** · LISA: We wanted everybody in the state of Florida who had a problem like this to know what we did, how we did it, how to get others involved, share this information.
+
+**13:54** · NARRATOR: Along the Indian River Lagoon, conservationists are taking notice.
+
+**13:59** · The region has a long road to recovery, but Crystal River has given them a roadmap for success.
+
+**14:05** · ♪ LISA: The Indian River Lagoon is replicating the same kind of process that's being used in Crystal River.
+
+**14:15** · JESSICA: You don't have to be a scientist to be part of the solution.
+
+**14:19** · You can do something as simple as not using fertilizers, pulling weeds by hand.
+
+**14:24** · ♪ You can even be a- a responsible boater by being conscious of here you're anchoring, making sure you're using grass-friendly anchors.
+
+**14:34** · You can help educate the younger generation about the importance of creating a healthy ecosystem.
+
+**14:42** · (water splashing) ♪ ♪ LISA: I think my grandchildren and all the children that are growing up now will inherit from our generation a clean, healthy river teeming with wildlife, both above and below the water.
+
+**15:02** · ♪ This river is the life that runs through this community.
+
+**15:07** · We wanna protect it forever.
+
+**15:11** · ♪ ♪
+
+**15:31** · ♪ ♪ ♪
+
+#### Wild Horses America's Most Beloved Invasive Species
+
+**PBS Terra**, *10 22, 2020*
+
+## Video (8:15)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/HnOajuolHWI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Thank you to Target for supporting PBS. You can learn more at: https://target.com/community
+
+Share your story today: https://to.pbs.org/3izZeXh
+
+Wild horses made their home on the islands of North Carolina centuries ago, supposedly descendants of horses brought by shipwrecked colonizers. Today, they are celebrities on these islands, creating a tourist frenzy and drawing thousands of people every summer to the northern beaches of North Carolina.
+
+But the situation is complicated. The horse population needs to be managed because they can cause serious damage to the ecosystem. How can we respect these horses and keep them wild while protecting the islands?
+
+Subscribe to PBS Terra! - https://bit.ly/3mOfd77
+
+**********************************************
+Hosted by Joe Hanson from It's Okay to be Smart, Overview uses incredible 4k drone footage to reveal the natural phenomena shaping our planet from a 10,000-foot view—literally.
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+## Transcript
+
+### The wild horses debate
+
+
+**0:01** · [Narrator] Thank you to Target for supporting PBS. These are the wild horses of the Outer Banks. Locals call them Banker horses. They've managed to survive here for more than five centuries, but they're not technically supposed to be here. Some view these horses as symbols of the American spirit, others as a beloved landmark of the local community. But many view them as an invasive pest, and one that's damaging a fragile landscape.
+
+### Survival on the coast
+
+**0:33** · So what do we do when an invasive species becomes an Instagram star?
+
+**0:37** · [soft music] [seagulls calling] Ah, living by the ocean sounds pretty nice, but surviving on this thin sliver of sand off the coast of North Carolina isn't easy. Banker horses endure powerful storms and hordes of summer tourists.
+
+**0:59** · But how did they get here?
+
+**1:01** · Horses have a curious origin story. Fossils tell us their ancestors actually originated in North America around 30 million years ago and spread to other continents over the Bering land bridge. But then the ancestors of horses died out in North America. The modern day species only returned to the continent thousands of years later when European colonizers brought them back.
+
+### Origins and ecology
+
+**1:25** · Europeans also brought with them pigs, cattle, and rats, along with a host of dangerous germs, none of which were native to the continent. Over the past five centuries these species have wreaked havoc on the landscapes, ecosystems, and people that were already here. But the way we treat wild horses is very different from the way we treat wild pigs, for example. Okay, you are very cute, but you're also a scourge and a nuisance.
+
+### Famous feral animals
+
+**1:57** · Wild horses and wild pigs are both feral, meaning they were once domesticated animals that broke free to live in the wild. And they can both cause a lot of destruction to landscapes when there's too many of them. On the Outer Banks, wildlife officials shoot feral pigs from helicopters to control their numbers. In contrast, these horses all have names and are famous on Instagram.
+
+**2:22** · They're island celebrities.
+
+**2:24** · And they even have a cool origin story. Supposedly the descendants of horses that swam ashore from Spanish shipwrecks in the 15th century, populating this chain of islands that hugs the North Carolina coast.
+
+**2:37** · So are horses a reintroduced native species, or are they invasive?
+
+**2:43** · Those are questions without clear answers.
+
+**2:46** · [Meg] You sorta have to stop and ask yourself at what point does a species become, maybe not native, but they're not invasive.
+
+### Environmental impact
+
+
+**2:54** · [Narrator] Meg Puckett manages the Corolla herd, one of three large herds that roam the Outer Banks. It's her job to decide what happens to these horses. Horses pose a unique challenge on barrier islands. Barrier islands are the first line of defense against hurricanes, but they're increasingly threatened by sea level rise and human development. Some of these islands are only a mile wide, yet population growth around here is twice the national average.
+
+**3:23** · So human development is pushing from one direction and sea level rise from the other, causing what's called a coastal squeeze. Now take all the pressures these islands already face and add a herd of dune-trampling, plant-eating horses. You see, plants are vital to barrier islands. They clean the water, help anchor the dunes from erosion, and provide habitat for birds and fish.
+
+**3:48** · Too many horses can mean serious damage to the vegetation, and that makes the island more vulnerable to erosion and storms. There's a cautionary tale out West, where a different population of problematic ponies, the beloved wild mustangs, have gotten so numerous that they're gobbling up resources from other species, and costing the federal government more than $80 million to manage every year. Here in the islands, the herds are smaller, but there's another problem. More horses attract more tourists.
+
+### The human-horse conflict
+
+**4:20** · And humans really want to get close to them. It's illegal to approach a wild horse because if a horse feels threatened, well, I don't know if you've ever seen a horse kick, but it's not a fun time. You could get seriously hurt. And humans put the horses in danger too. Almost every summer, a wild horse is either hit by a car, or fed something that makes them seriously ill.
+
+**4:45** · [Meg] I got sent a tech TikTok video yesterday of a girl sitting crouched down in front of a horse with her hands around his head. I really doubt that she meant anything bad by it. I don't think, you know, she didn't realize that she was being harmful, but she was.
+
+### Managing the herd
+
+
+**5:00** · [Narrator] Social media has fueled the public's fascination with wild animals, not just here, but around the world. On one hand, it raises awareness of potentially threatened or endangered species, but it also creates pressure to exploit or sometimes even remove animals from their habitat to serve as props for selfies. This desire to be close to wild animals has led to injury and death for some of these very horses. Meg's challenge is to manage both horses and people.
+
+**5:31** · [Meg] It's one of those things where you just have to find that balance. And we know that if the horses are left to breed uncontrolled, number one, we're gonna have a population that's not sustainable. Number two, you start to see really bad inbreeding. We were starting to see really bad genetic issues and birth defects with the foals.
+
+**5:48** · [Narrator] Part of that management is horse birth control. Meg can keep the herd's numbers down with contraceptive darting. Essentially, she uses a dart gun to shoot fertile mares with birth control. [dart gun snaps] It stings a little, but not more than a fly bite. The humans are a little harder to control.
+
+**6:07** · [Meg] We're seeing so many more people visit the north beaches that have never been here before. And so they don't know the history, they don't really know the rules, and the reasons why we have those rules, and why they're so important. So our education and public outreach efforts have really been stepped up the past couple years.
+
+### Future sustainability
+
+
+**6:25** · [Narrator] Unlike feral pigs or rats, humans have decided it's worth the effort to keep these sort of wild horses around. The solution is essentially to keep them from being too wild.
+
+**6:38** · [Meg] Yeah, your definition of wild might have to change a little, but we still work to do everything we can to let the horses live a natural life.
+
+**6:48** · For now, it's up to the humans and the horses to keep a healthy distance. Not too far and not too close. And find a balance so that we can preserve this place, and make sure that in a hundred or 500 years from now, there are still islands to call home, for us and the horses. We'd like to thank Target for being a proud supporter of PBS.
+
+**7:11** · Since the first Target opened in 1962, their mission has been to help families discover the joy of everyday life. In all 50 states, Target is dedicated to being a good neighbor, and working with their communities and neighbors to make life a little better. There are over 350,000 team members employed by Target to continue their mission every day. To learn more about Target's commitment, you can check out target.com/community, or click the link in the description.
+
+**7:36** · PBS is asking you to share your stories, experiences, and ideas on your life in America today. PBS American Portrait is a nationwide storytelling project, a chance to be seen, heard, and give a glimpse into your own life. Everyone has a story. Share yours at pbs.org/americanportrait. [dynamic music] Hey guys, thanks so much for watching this episode of "Overview". We'd love to know what you thought, so leave us a comment down below.
+
+**8:05** · And if there's something cool in your backyard that we should come film with drones, well, let us know in a comment too. All right, see ya next time.

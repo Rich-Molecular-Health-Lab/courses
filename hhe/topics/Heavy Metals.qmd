@@ -1,6 +1,6 @@
 ---
 title: "Heavy Metals"
-date: "2026-08-29"
+date: "2026-11-03T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,658 @@ listing:
   contents: "Heavy Metals_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-11-03T16:00:00, 2026-11-05T16:00:00
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### 10 Years After Flint, The Fight To Replace Lead Pipes Continues
+
+![10 Years After Flint, The Fight To Replace Lead Pipes Continues](https://i.scdn.co/image/ab67656300005f1f846b3b59c319906b8b229582)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5fBemzah4FHvkn47E3foox)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Ten years ago, Flint, Mich. switched water sources to the Flint River. The lack of corrosion control in the pipes caused lead to leach into the water supply of tens of thousands of residents. Pediatrician Mona Hanna-Attisha recognized a public health crisis in the making and gathered data proving the negative health impact on Flint's young children. In doing so, she and community organizers in Flint sparked a national conversation about lead in the U.S. water system that persists today. Today on the show, host Emily Kwong and science correspondent Pien Huang talk about the state of Flint and other cities with lead pipes. Efforts to replace these pipes hinge on proposed changes to the EPA's Lead and Copper Rule. Have questions or comments for us to consider for a future episode? Email us at shortwave@npr.org — we'd love to hear from you!See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+<iframe src="https://www.npr.org/player/embed/1198909905/1247376748" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+## Transcript
+
+EMILY KWONG, HOST:
+
+You're listening to SHORT WAVE...
+
+(SOUNDBITE OF MUSIC)
+
+KWONG: ...From NPR.
+
+Hey, SHORT WAVErs. Emily Kwong here. So 10 years ago, Dr. Mona Hanna-Attisha was a pediatrician at Hurley Medical Center, living in Flint, Mich. The city was near bankruptcy, and to save money, Flint decided to switch water sources from Lake Huron to the Flint River on April 25, 2014.
+
+MONA HANNA-ATTISHA: We had greenish and brownish water, and it smelled weird, and it was giving people rashes, and they were losing hair.
+
+KWONG: And families in Flint kept telling her, something's not right with the water.
+
+HANNA-ATTISHA: They were asking, was it OK to use this tap water to mix their baby's formula?
+
+KWONG: State and city officials said there was nothing to worry about. And Mona told her patients the same thing.
+
+HANNA-ATTISHA: For a year and a half, I was telling my patients that, of course, everything's OK. Like, how can - how could our drinking water not be OK? Like, this is America. It is the 21st century. All the folks in charge, despite all these concerns, were saying everything was OK.
+
+KWONG: But everything was not OK.
+
+(SOUNDBITE OF MUSIC)
+
+KWONG: Over a glass of wine, one of Mona's high school friends who used to work at the EPA implored her to look into this issue.
+
+HANNA-ATTISHA: And she literally stared me down. She was like, Mona, it doesn't have corrosion control.
+
+KWONG: The Flint water system lacked something important called corrosion control. Corrosion control changes the chemistry of the water to make it less likely to leach lead from the pipes. And without that corrosion control, the lead in Flint's pipes got into the water supply.
+
+HANNA-ATTISHA: And that is the moment that I heard about the possibility of lead being in the water, and that's the moment my life changed.
+
+(SOUNDBITE OF MUSIC)
+
+HANNA-ATTISHA: We need water to survive. It's a medical and public health necessity. And the younger you are, the more our bodies are made up of water.
+
+KWONG: The CDC says that no amount of lead in children is safe. For kids, lead poisoning can have serious consequences. It can damage their brains and nervous systems, causing learning and behavioral problems and issues with hearing and speech down the line. Mona saw a crisis in the making and began looking for any data she could on kids' blood lead levels. And in September 2015, a year and a half after that water switch, she went public with her results...
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+HANNA-ATTISHA: This research is concerning. These results are concerning.
+
+KWONG: ...Showing that the number of children in Flint with elevated levels of lead in their blood had gone up.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+HANNA-ATTISHA: And when our national guiding organizations tell us primary prevention is the most important thing and that lead poisoning is potentially irreversible, then we have to say something.
+
+KWONG: At first, the state dismissed her findings. But Mona Hanna-Attisha was right. It's been 10 years, and the city's water quality has improved. Flint switched back to Lake Huron, and thousands of lead pipes have been replaced.
+
+(SOUNDBITE OF MUSIC)
+
+KWONG: But there is still a lot of work to be done in Flint to replace them all. And the truth of the matter is there are cities and towns all over the country facing their own issues with water quality, aging infrastructure and inadequate laws that don't protect people from lead poisoning. Flint is an example of how speaking up with science can turn a crisis around. So 10 years on, we're bringing in science reporter Pien Huang to focus on those trying to stop another crisis in another city - Chicago. You're listening to SHORT WAVE, the science podcast from NPR.
+
+(SOUNDBITE OF MUSIC)
+
+KWONG: So to help us understand the emerging lead crisis in Chicago, we've got science reporter Pien Huang in the studio. Hi, Pien.
+
+PIEN HUANG, BYLINE: Hey, Emily.
+
+KWONG: Hello.
+
+HUANG: It's great to see you.
+
+KWONG: Good to see you, too.
+
+HUANG: And it's also so cool that you got to talk to Dr. Mona.
+
+KWONG: It was so cool. And Mona is still on the front lines of trying to make life better for kids in Flint, where more than two-thirds of children live in poverty. She's the founding director of the Pediatric Public Health Initiative, which connects families to programs and services to alleviate that poverty. One of them, Rx Kids, gives new moms in Flint a no-strings-attached check of $7,500.
+
+HANNA-ATTISHA: In a city that so many folks know as a city that failed kids is a city that's learning, that's leading with science, that's leading with prevention to promote kind of the health and development of kids by boldly kind of eradicating infant poverty.
+
+KWONG: I asked her what she thought of the situation in Chicago, and she didn't hold back on her thoughts and feelings.
+
+HANNA-ATTISHA: Chicago has a long history of lead advocates, but also a long history of lead misuse. Chicago continued to use lead in their service lines until it was restricted in 1986 and built into the code - if you wanted water from the main, you were mandated to use lead in your plumbing. So Chicago has the most lead lines than any other city in our nation. And, you know, if you respect the science of lead, if you understand that it has no safe level, lead should not be the straw that is delivering our drinking water to so many children and families.
+
+HUANG: And, Emily, that lead is still in the water even now. So there was a recent JAMA Pediatrics study that found that most children under the age of 6 in Chicago are probably drinking leaded water.
+
+KWONG: Most children - wow. OK. And that research was spearheaded by Benjamin Huynh at the Johns Hopkins Bloomberg School of Public Health, right?
+
+HUANG: Yeah, exactly. Yeah. So he is an assistant professor of environmental health and engineering there, and his focus is on data science and environmental justice. In this case in particular, he's got personal ties to the topic.
+
+BENJAMIN HUYNH: So I'm from Chicago. And, you know, those of us in Chicago, we've known for a long time that most of our pipes are made out of lead.
+
+HUANG: Including the house that his parents live in. In Chicago, there are around 400,000 homes that have lead pipes connecting the water main to the house. And Ben wanted to know, what does that actually mean for people drinking water from those taps?
+
+KWONG: So how did Ben figure this out, like, that so many kids were drinking leaded water? What data did he use?
+
+HUANG: Yeah. So it's rooted in the fact that Chicago has a free water testing program. It's for people who want to test their tap water for lead. And so far, this program has run about 38,000 tests. People have voluntarily collected water samples from their home, sent them to the city. And while these tests are free, Ben says not everybody uses them.
+
+HUYNH: We found that the people who took those tests - they're more likely to be in white neighborhoods, like, wealthier neighborhoods, and also neighborhoods that are less likely to have lead in the first place.
+
+KWONG: Oh, so there was a huge sampling bias in this data.
+
+HUANG: Right, exactly. And he had to correct for that. So he took that data, and he combined it with other sources of data, so data on local health, demographics, survey results on how many people use tap versus filtered or bottled water as their main drinking source. And then with the help of machine learning, he and his team figured out an estimate. They figured out that 68% of young children in Chicago are drinking tap water with lead.
+
+HUYNH: On top of that, you know, we're seeing Black and Hispanic neighborhoods are more likely to have lead exposure, but also less likely to be tested for lead.
+
+KWONG: But the federal government does allow for some lead to be in the water. So at what point does the Environmental Protection Agency say, this is too much lead in the water - this is the cutoff?
+
+HUANG: The EPA does have something called the Lead and Copper Rule. And this rule sets an action level for lead at 15 parts per billion.
+
+KWONG: OK.
+
+HUANG: And when water systems find that amount of lead in the water, they're supposed to initiate that corrosion control that we mentioned earlier.
+
+KWONG: So is Chicago in compliance with this 15-parts-per-billion limit?
+
+HUANG: Yeah. I mean, the city says that it is, and they've done everything that they're supposed to be doing.
+
+KWONG: Sure.
+
+HUANG: But there are other places that might not be.
+
+KWONG: OK.
+
+HUANG: I talked to Elizabeth Southerland. She's formally with the EPA. And she says that audits from the agency actually showed that in some 90% of these cases where there are excess levels of lead in the water, those cases never even got reported to the federal government.
+
+ELIZABETH SOUTHERLAND: This was probably the worst reported and enforced regulation in the history of the drinking water program.
+
+HUANG: Yeah. And many researchers and advocates say the rule was weak and inadequate. Now even the EPA itself says that those regulations need to change. So last year, the EPA proposed the Lead and Copper Rule improvements, and those are expected to be finalized by October this fall.
+
+KWONG: OK. I'm pulling up their website now. So let's see what could happen if these proposed changes to the Lead and Copper Rule were to take effect. One proposed rule change is that every water system in the country produce a map of where their lead pipes are. That could be huge.
+
+HUANG: Yeah, totally.
+
+KWONG: Also on this list are calls for improving water sampling and lowering that lead action level from 15 parts per billion to 10 parts per billion. OK.
+
+HUANG: There are some people who think that it should be even less than that, but that would significantly lower the trigger level for lead.
+
+KWONG: OK. And then the last thing - ah, requiring the vast majority of water systems to replace all their lead pipes within the next 10 years.
+
+HUANG: And many people are saying, because the lead protections for the drinking water haven't really been working, this is what we really need to fix the problem. But you said the vast majority, and I want to...
+
+KWONG: Yeah.
+
+HUANG: ...Point that out, because that's a really important point, because in that proposed rule, Chicago gets an exemption because it simply has too many pipes. The regulation, as it's proposed, is really concerned with what's realistic and feasible. And so what the EPA is saying is that it's realistic to expect a city to replace around 10,000 lead service lines a year, and this is based on what other cities have already done. So since most cities have under 100,000 pipes, they should be able to make that deadline. But Chicago, with its 400,000 lead pipes, would get around 40 years or more to switch out their pipes.
+
+KWONG: Wow.
+
+HUANG: And that 40-year timeline has community advocates, like Chakena Perry with the Natural Resources Defense Council, pretty upset.
+
+CHAKENA PERRY: That's decades, that's generations of children and adults, you know, consuming lead-contaminated water. It's incomprehensible to tell a resident that they have to wait that long for safe drinking water.
+
+HUANG: Chakena and others are really pushing for the EPA to close up those exemptions when they issue the final rule in the fall.
+
+KWONG: So to be determined, really, how this rule might impact Chicago in the long run.
+
+HUANG: Yeah. Meanwhile, people have to grapple with the reality of their lead pipes. Remember when I said earlier that Ben's parents have lead pipes? Well, a few weeks ago, Ben's mom got sick with symptoms that were consistent with lead poisoning.
+
+KWONG: Oh, yikes.
+
+HUANG: Yeah. And it turns out that a water main near their home had burst. And the city went out to fix it, but they didn't tell his parents right away that they were doing it. And in the meantime, his mom was drinking the tap water. So Ben helped his parents order a test for lead in their water, and he walked them through the process of collecting multiple bottles of water for the samples.
+
+HUYNH: I know this - right? - 'cause I'm an expert on this, but, like, this is probably happening to, like - all over the city, or I know this is happening all over the city.
+
+HUANG: Ben thinks that the city could be doing a much better job of getting more people to test for lead in their water. Right now, less than 10% of households have gotten tested. And he also says that they could do a much better job of providing lead filters to everyone who's at risk of lead poisoning.
+
+KWONG: Yeah. I mean, all of this just affirms what Dr. Mona Hanna-Attisha was saying earlier about public policy needing to keep up with science, right?
+
+HUANG: Totally.
+
+KWONG: I mean, it's just - I think this is the real legacy of Flint in many respects, this acknowledgment that people everywhere deserve to know what's in their water and deserve to be informed on what to do if the water is compromised.
+
+HUANG: Yeah. Emily, you know, the Safe Drinking Water Act was passed 50 years ago, but there's still a ways to go to make sure that all tap water in the U.S. is safe. If listeners are worried, they can take a couple of simple steps to figure out what their pipes are made out of. They can test their water like Ben did, and if there's lead, they can filter it out.
+
+(SOUNDBITE OF MUSIC)
+
+KWONG: Pien Huang, science reporter, thank you for walking us through where we are at this moment in our country's history when it comes to lead and water and human health. It's been really good to talk to you.
+
+(SOUNDBITE OF MUSIC)
+
+KWONG: This episode was produced by Rachel Carlson and edited by our showrunner, Rebecca Ramirez. It was fact-checked by me and Pien. Patrick Murray was the audio engineer. Beth Donovan is our senior director, and Collin Campbell is our senior vice president of podcasting strategy. I'm Emily Kwong. Thank you for listening to SHORT WAVE from NPR.
+
+(SOUNDBITE OF MUSIC)
+
+\\n\\n
+
+Copyright © 2024 NPR. All rights reserved. Visit our website [terms of use](\"https://www.npr.org/about-npr/179876898/terms-of-use\") and [permissions](\"https://www.npr.org/about-npr/179881519/rights-and-permissions-information\") pages at [www.npr.org](\"https://www.npr.org\") for further information.
+
+\\n\\n
+
+\\n Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.\\n
+
+\\n
+
+"\]
+
+#### Daniel Stone & American Poison
+
+# Special Episode: Daniel Stone & American Poison
+
+![Special Episode: Daniel Stone & American Poison](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3lZXFc11ca7XxCIGh6PhvO)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+The widespread use of leaded gasoline in the 20th century led to one of the world’s biggest public health and environmental disasters, the effects of which are still present today. Since its development in the 1920s, leaded gasoline has been linked to premature death, cognitive impairment, and behavioral issues in millions around the globe. How was such a toxic substance permitted to be sold, despite the tireless efforts of industrial medicine warriors like Alice Hamilton? In American Poison: A Deadly Invention and the Woman Who Battled for Environmental Justice, award-winning author and historian Daniel Stone tells the story of leaded gasoline - its heroes, its villains, and the lessons we can learn. What will emerge as this generation’s leaded gasoline? PFAS? Microplastics? Something else entirely? History doesn’t have to repeat, but it will unless we heed the lessons of the past. Tune in for a fascinating episode! Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAuSee omnystudio.com/listener for privacy information.
+
+:::
+
+#### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
+
+# Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+
+![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Growing a Healthier Climate
+
+![Growing a Healthier Climate](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Humans in Public Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3tyf25x764LPstSdko1fSb)
+
+[Open Series in Spotify](https://open.spotify.com/show/4nQ5bwglf9vygvW1nHf5GC)
+
+In this episode, we sit down with Professor Meredith Niles to explore how climate-friendly agriculture—from methane-reducing rice irrigation to no-till farming—is actually a quiet powerhouse for public health. While traditional environmental messaging has hit a wall, shifting the narrative to human health benefits (like keeping heavy metals out of baby food and clearing our air) might be the key to finally getting farmers, consumers and policymakers on board. It’s time to take off the carbon goggles and look at the health potential of sustainable farming.
+
+:::
+
+#### Kevin Patterson on Indigenous communities’ heavy metal exposure
+
+![Kevin Patterson on Indigenous communities’ heavy metal exposure](https://i.scdn.co/image/ab67656300005f1f4336d2b2998adca316fca858)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Agents of Change in Environmental Justice
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3Km6oFa8iyvXRkW1V2wgHu)
+
+[Open Series in Spotify](https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U)
+
+Kevin Patterson joins the Agents of Change in Environmental Justice podcast to discuss uranium exposure science, and his own family’s personal experience with the toxic metal.
+
+:::
+
+#### Lead Poisoning - Heavy Metal Episode
+
+# Lead Poisoning: Heavy Metal Episode
+
+![Ep 38 Lead Poisoning: Heavy Metal Episode](https://i.scdn.co/image/ab67656300005f1fadae557c8d2d5669ac257463)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2019
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3f8mBjnoI2RiBjKxdaQFaD)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+This episode, our first foray into toxic metals, is heavy in all kinds of ways - metallically, emotionally, informationally, politically. Lead poisoning has been around for about as long humans have been working with lead, but despite its extensive history, it still poses an incredibly huge public health problem today, especially for children. Tune in to hear us chat about the multitude of effects lead exposure can have on your body, the dark and often strange history of lead poisoning (ancient Rome, anyone?), and the alarming extent to which lead exposure affects people around the world today.  See omnystudio.com/listener for privacy information.
+
+:::
+
+#### The Canal (Love Canal)
+
+# S1 Ep4: The Canal (Love Canal)
+
+![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2018
+
+**Series:** Swindled
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3K6AvsboR3d0TeGFlr7r6U)
+
+[Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
+
+Once envisioned as a model community, the neighborhood of Love Canal in Niagara Falls, New York, became the victim of a massive, man-made environmental disaster. Prelude: James Denney, a Missouri farmer, makes a deal for a local chemical company to bury its waste on his property.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  Thanks for listening. :-)
+
+:::
+
+#### The Ghost Town (Times Beach, Missouri)
+
+# S10 Ep140: The Ghost Town (Times Beach, Missouri)
+
+![S10 Ep140: The Ghost Town (Times Beach, Missouri)](https://i.scdn.co/image/ab67656300005f1fd352f167cf2d28d9d9fa1fd9)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Swindled
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0DHeY6fmPJRovMGaTr9H4O)
+
+[Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
+
+A small Missouri town faces a compounded catastrophe as a devastating flood follows the discovery of toxic contamination.Prelude: A mysterious illness attacks the horses and humans at Shenandoah Stables.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Thanks for listening. :-)
+
+:::
+
+#### What Makes Lead So Poisonous?
+
+![What Makes Lead So Poisonous?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2016
+
+**Series:** Stuff You Should Know
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6xBRN4SigYCvFBpYH1GqsP)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx)
+
+The people of Flint, MI were horrified to find their drinking water was poisoned with lead. As we learn more about lead's effects and realize how persistent it is, the more worrying it becomes. What makes lead so toxic?  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
+
+:::
+
+#### What Worsening Floods Mean For Superfund Sites
+
+![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/529FSErk9SjroIvEiJ0NVA)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Superfund sites are some of the most polluted areas in the country, containing highly toxic waste such as asbestos, lead, and dioxin. Cleaning them up, which follows a systematic, science-based process as required by law, can take decades.There are more than 1,300 of these sites across the US, from Florida’s Panhandle to the banks of the Rio Grande in New Mexico. They’re found in nearly every state, often near residential areas. The EPA estimates that 78 million people live within three miles of a Superfund site—nearly 1 in 4 Americans.But these waste dumps face a growing threat: the worsening effects of climate change. The EPA has determined that more than 300 Superfund sites are at risk of flooding. The actual number of flood-prone sites, however, may be more than twice that amount, according to a 2021 Government Accountability Office report. Floodwaters can move toxic waste into neighboring communities, which threatens drinking water, agriculture, and broader ecosystem health.Read more at sciencefriday.comTranscripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### What's a brownfield remediation project?
+
+![What's a brownfield remediation project?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2009
+
+**Series:** Stuff You Should Know
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3AA73Bm4G6graH6hwcLam6)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx)
+
+The EPA defines a brownfield as land that is abandoned because redevelopment is complicated by possible environmental contamination. Tune in as Chuck and Josh examine the process of redeveloping a brownfield in this podcast from HowStuffWorks.com.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
+
+:::
+
+### Video Clips
+
+#### America Made Its Most Toxic Lake. Now We Need What's Inside
+
+**PBS Terra**, *04 16, 2026*
+
+## Video (15:56)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ivoV1rwiYJk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Watch the latest episode of @NinePBS 's What Do I Do with This? here: https://youtu.be/jnBuX8LFTqM?si=YBuv9BOUgkVP4KGj
+
+PBS Earth Month playlist: https://www.youtube.com/playlist?list=PLnNZYWyBGJ1F8ofFm4H9UTrHxqU8zngK4
+
+America’s most toxic lake may also be one of its most overlooked resources. At the Berkeley Pit Superfund Site, scientists are extracting clean energy materials from a century of mining waste.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+## Transcript
+
+### The toxic Berkeley Pit
+
+
+**0:00** · This might be one of the most beautiful lakes in Montana. (bright music) (cannon booming) (birds squawking) So this is one of the propane cannons, that loud noise that birds don't like and scare 'em away.
+
+**0:18** · So why go to so much trouble to keep birds from enjoying it?
+
+**0:23** · Because this is one of the most toxic lakes in America. The water here is acidic enough to dissolve metal and could spell certain death for any bird that lands on it. Well, if I was a bird, I'd be outta here, man. Nature didn't build this place. We did.
+
+**0:44** · For nearly a century, miners dug away a mountain in search of valuable minerals here, but when the mining stopped, the pumps were turned off and this mile-wide scar in the earth filled with water. Today, the Berkeley Pit is filled with nearly 50 billion gallons of toxic, highly acidic water polluted with the remnants of all of that extraction.
+
+**1:10** · So why would scientists want to dive into this?
+
+**1:14** · What could possibly be worth searching for in a place like that?
+
+**1:19** · (bright music) Well, there's treasure in these waters. The Berkeley Pit sits above Butte, Montana, situated near the headwaters of the Clark Fork River. This area has been shaped by more than a century of mining. Diving into a lake this toxic seems like the last thing you want to do.
+
+### Industrial legacy in Butte
+
+
+**1:44** · All right.
+
+**1:45** · [Joe] So why are scientists doing just that?
+
+**1:47** · Let's go see some fun stuff.
+
+**1:49** · [Joe] Because the acidic waters that make this place dangerous are doing something unusual. In the 1860s, Butte was little more than a mining camp. By the early 1900s, Butte had become one of the busiest industrial mining regions on earth. At its peak, 25% of the world's copper came from these mines, helping to electrify America. Telegraphs, telephones, power grids. And then in 1955, the Anaconda Mining Company pivoted to a radical strategy.
+
+**2:23** · Instead of tunneling underground, they began removing the mountain itself. Eventually, the Berkeley mine stretched a mile long and more than 1,700 feet deep. That's deep enough to swallow the Empire State Building. But when you dig a hole this big, rain and groundwater want back in. When mining stopped in 1982, the massive pumps that had kept the pit dry were shut off.
+
+**2:52** · Today this water is about 900 feet deep, but if you're tempted to take a dip, consider that in 2016, thousands of migrating snow geese, forced to land here thanks to a storm, died after drinking from these poisonous waters. Hydrogeologist Jackson Quarles studies what makes this lake so toxic. He has deep ties to Butte.
+
+**3:16** · [Jackson] It is the place to be.
+
+**3:17** · I came out as a kid every summer, and the day that we would leave, I'd always be crying in the backseat, asking to stay. And now here we are. I made it happen.
+
+**3:27** · [Joe] Jackson is sampling this mining waste on the hunt for rare earth elements, valuable and critical minerals that may be hiding in these waters. The rocks here contain sulfide minerals, and when exposed to air and water, they react and form sulfuric acid. That acid dissolves metals trapped in the surrounding rock, a process called acid mine drainage.
+
+### Seeking rare minerals
+
+**3:54** · The Berkeley Pit is now a giant chemical reactor, highly acidic water loaded with dissolved metals, some at concentrations more than 5,000% above drinking water standards. Jackson and other scientists are hoping that those valuable rare earths are lurking here in this chemical soup. Because the Berkeley Pit is so polluted, in 1987, the Environmental Protection Agency designated it as a superfund site.
+
+**4:21** · They were established by law so that, whenever possible, the parties responsible for the mess must help pay for its cleanup, and they must be carefully managed to protect human health and the environment. Jackson and his colleagues have a creative idea for how to clean up part of this environmental disaster.
+
+**4:39** · So we've got the submersible here.
+
+**4:42** · So we've got a 4K camera, got four lights here on the front that allow us to see what we're doing. Vertical rotors here, horizontal propellers here. And then we also have our sediment sampler, kind of just jammer it in. - Controlled collision.
+
+**4:56** · And we'll hopefully get back to the surface with a full one of these.
+
+**5:01** · [Joe] Take this puppy down to the water. Exploring the pit is like a new frontier, one that very few people have ever seen. Each journey down is like traveling through a foreign world.
+
+**5:16** · It's kinda like we're going to Mars.
+
+**5:18** · It's a place that nobody's seen, nobody's been to in, oh, since '82 when they shut down the pumps. (water creaking) And we'll turn on our headlights here so we can see what's going on. And touch down, whoa.
+
+**5:37** · (earth booming) [Joe] What kind of samples are you looking for?
+
+**5:43** · What's it doing down there?
+
+**5:45** · [Jackson] We're trying to find where these critical minerals or rare earths might be.
+
+### Extracting resources
+
+
+**5:49** · [Joe] These rare earth elements include a group of 17 metals that are critical to modern technology. Among them are elements like neodymium and praseodymium, used to make the powerful magnets that spin inside wind turbines and electric vehicle motors. Others, like dysprosium, help those magnets survive extreme heat. Without them, turbines would be heavier, electric cars less efficient. Global demand for these elements is expected to surge as countries build more renewable energy and buy more electric vehicles.
+
+**6:23** · Today, mining these rare earths often means digging new holes. They're usually difficult to extract and mining and refining them often comes with its own environmental cost.
+
+**6:37** · So what if we could find these valuable minerals in places that we've already dug?
+
+**6:44** · Shockingly enough, the Berkeley is home to more than we've really ever found anywhere else. There's a lot of sites, and most places in the US even, they'll be very heavy in one specific rare earth or even just the light rare earth. Whereas what we found in the pit was kind of something we've never seen and it had that full array of, that full distribution of those rare earths.
+
+**7:07** · These elements aren't actually rare.
+
+**7:10** · They're just rarely found in high concentrations. But here, the pit's chemistry has already done part of the work. Acidic water has leached those metals out of the rock, ready to be filtered out. So there might be hotspots here where there's just really rich deposits that you wanna focus your attention on.
+
+**7:29** · Yes, and, you know, kind of now is that hot point because we know the rare earths are still in the water and they haven't precipitated into the sediment yet. And so processing them is immensely easier now. All right, well, let's go see what we can find here.
+
+**7:46** · Hey, we got a lot of sludge out of that pit.
+
+**7:49** · And we got what we were looking for.
+
+**7:51** · [Joe] Extracting them isn't simple.
+
+**7:53** · So, yeah, I don't know what you would call that.
+
+**7:56** · [Joe] That is forbidden gravy.
+
+**7:58** · Forbidden gravy.
+
+### Environmental restoration
+
+**8:01** · All right, well, I got my science helper, Joe.
+
+**8:03** · [Joe] In order to extract rare earth elements from the Berkeley Pit, researchers are testing new chemical techniques that could bind specifically to rare earth elements.
+
+**8:11** · I don't necessarily wanna know, is it in the mud?
+
+**8:14** · I wanna know, is it in the sediment that is making the mud or is it in the water that's making the mud?
+
+**8:20** · And so this will just help narrow that channel down a little bit. So now we got our sludge. (bright music) [Joe] Oh, boy.
+
+**8:31** · And then what we do is we'll seal her up, we'll write on it, we'll let the lab know where it came from, the date we took it, what analysis we're looking for. Rare earths are not truly all that rare, but finding them in mineable quantities, that's when they become very rare. We have to get an idea of where the rarest and critical minerals are coming from before we do a deeper dive into that said mine.
+
+**8:54** · We do the preliminary search, throw darts all over the board, and then whichever one lands on the bullseye, that's where we're gonna go back to and do a lot of darts at that spot and see kind of, yeah, what we can find.
+
+**9:06** · [Joe] You get a little bit of like a warm spot or something.
+
+**9:09** · Exactly. - And then you do a bunch more there and you're like, "Oh, warmer, warmer, warmer."
+
+**9:12** · And you just keep working your way closer and closer and closer until you find what you're looking for.
+
+**9:17** · [Joe] And then you just might find that one pile of magic sediment. And another benefit to this work is that the process of extracting rare earths and other critical minerals actually helps undo the damage caused by mining.
+
+**9:32** · That environmental benefit doesn't just pertain to the pit, but pertains to every other form of waste that we find, and they've already been exhumed. So we're no longer digging a new hole to process new rare earths. We're cleaning up our mess.
+
+**9:46** · [Joe] This idea is still in its infancy and it's too early to say whether it will prove to be viable. But extracting rare earth elements and other minerals from existing waste may let places like the pit inch closer to a more natural state with less long-term contamination.
+
+**10:05** · The Anaconda slag pile, those are an enormous scar on the environment. And for one day that those might just be gone because we've found an economic way to remove it and not just put it in a hole in the ground somewhere else, but to actually reprocess, make money, and get rid of it, I mean, yeah, it's a no brainer.
+
+**10:26** · [Joe] It won't replace mining tomorrow, but it could reduce the need to dig new holes. If the Berkeley Pit represents how badly an environmental disaster can scar the earth, downstream, there's a place that shows us what's possible when it comes to cleaning up nature. Milltown Park, at the meeting of the Clark Fork and Blackfoot Rivers, was once home to a dam that trapped tons of contaminated sediment from mines upstream.
+
+### Lessons from Miltown Park
+
+**10:57** · This is Michael Kustudia, Milltown State Park manager, whose family ties to the area go back generations.
+
+**11:06** · Here at Milltown, they built the Milltown Dam, which was right over there, and that was finished in January in 1908. In June of 1908, we saw the biggest flood in recorded history. It was that 1908 flood that washed in a lot of mine waste from the upper watershed and that kind of kicked off this whole superfund issue. Milltown was the first superfund site in Montana.
+
+**11:29** · [Joe] After years of hard work, the dam, along with over three million tons of contaminated sediment, was removed from this site. Two and a half miles of the river channel had to be re-engineered back to the river's natural flow, and tens of thousands of trees were planted as part of the restoration efforts.
+
+**11:49** · A project like this is enormous and complex. We had, you know, multiple state agencies involved, from the Department of Fish, Wildlife, and Parks and the Montana Natural Resource Damage Program, the Department of Environmental Equality. Confederated Salish &amp; Kootenai Tribes were very much involved. They were a trustee in all of this because of their treaty rights.
+
+**12:09** · We talk about it being a confluence of people almost because a lot of people came together to make this happen over a long, sustained period of time. It did not happen quickly.
+
+**12:21** · [Joe] In 2018, the gates opened to Milltown State Park. If it weren't for a few signs, visitors may not be able to tell that they're fishing, boating, hiking, and viewing wildlife in what was once home to piles of toxic waste. It will never be exactly the same as it was before the dam, but it has returned to a living, breathing ecosystem.
+
+**12:47** · And so we had our grand opening.
+
+**12:48** · It was in June of 2018. Parents were here, which was really exciting, especially having my mom out here 'cause she, you know, grew up here and she had all kinds of stories. It was a very emotional day for some of us. And, yeah, for me, you know, I've been really fortunate. It's a labor of love.
+
+**13:08** · [Joe] So we can't reverse all the damage of the past, but we can transform it into something better. At the Berkeley Pit, scientists focus not on erasing scars, but on asking what the damage can become.
+
+### Looking toward the future
+
+
+**13:25** · Butte has always been home and hopefully always will be. My great-grandfather started here as an underground miner. All my family worked underground all the way up until my grandfather, and to be able to work in the environment that he did is just the family legacy to me. It, yeah, puts a smile on my face. They call it the richest hill on earth, but I think it's my favorite place on earth.
+
+**13:45** · (bright music) For a century, we treated this place as evidence of what we destroyed, but chemistry kept working. The same reactions that made this water toxic are now concentrating elements that the modern world will depend on. Rare earths that help spin wind turbines and power electric vehicles. Right now, extracting those rare earths from mining waste cannot meet global demand. This will not replace mining tomorrow.
+
+**14:17** · But it's an opportunity to look at our relationship with earth's resources in a new way. The Berkeley Pit will never be restored to exactly what it was before mining. The Clark Fork will always bear the marks of what happened there. But maybe the point isn't to erase those scars or ignore them, pretend they don't exist.
+
+**14:40** · It's to take an honest look at them and ask, what could they become next?
+
+**14:45** · We're dreaming for a better Butte.
+
+**14:47** · One day the pit may be clean enough that we don't have to chase the birds off of it. It might be my grandkids that see it happen, but to know that my name was a part of it and, yeah, I'm here to help.
+
+**15:02** · Happy Earth Month.
+
+**15:04** · PBS is celebrating by releasing a ton of great new episodes across all of our channels, diving deep into our amazing planet, like the latest episode of Nine PBS's "What Do I Do with This?", "Disc Junkies." This video explores how we consume media today. A super fun topic after a superfund video. You know, insert rim shot. All right, links to that video and the full Earth Month playlist are down in the description. (gentle music)
+
+### Films
+
+#### Contaminated - The Carpet Industry's Toxic Legacy
+
+# Contaminated: The Carpet Industry's Toxic Legacy
+
+**FRONTLINE**, *2026*
+
+## Documentary Film (53 min)
+
+<iframe title="amazon-player" src=https://www.amazon.com/gp/video/detail/0FVL2RZBBFI1HM5AN57RNNCYUB?autoplay=1&t=0&ref_=atv_dp_atf_3p_hd_mv_wfb_t1B3AAAAAA0wr0 width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+## Description
+
+"
+
+How carpet mills contaminated Southern communities with forever chemicals, known as PFAS. With The Associated Press, The Atlanta Journal-Constitution, The Post and Courier, AL.com, investigating the industry, accountability, and the health impacts. From FRONTLINE.
+
+5/5
+
+IMDb 7.6/10 2026 53min
+
+5/5
+
+IMDb 7.6/10 2026 53min
+
+"
+
+## Transcript

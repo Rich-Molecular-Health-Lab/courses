@@ -14,7 +14,9 @@ categories:
 ![Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health](https://i.scdn.co/image/ab67656300005f1fa9f079a209a1669ed8f19e40)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2026
+
 **Series:** Public Health On Call
 
 ::: {.callout-description collapse="true"}
@@ -27,3 +29,4 @@ About this episode:   Recent research from the Johns Hopkins Bloomberg School 
 
 :::
 
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/42164720/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/fb5600/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

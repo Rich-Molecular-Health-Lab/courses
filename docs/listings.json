@@ -1,48 +1,563 @@
 [
   {
-    "listing": "/hhe/index.html",
+    "listing": "/index.html",
     "items": [
+      "/hhe/podcast/06 - From Redlining to Inclusive Planning.html",
+      "/hhe/film/A New Inferno.html",
+      "/hhe/podcast/A New Test for Lyme Disease, Developed by High Schoolers.html",
+      "/hhe/podcast/A Storm is Brewing - Is it Climate Change?.html",
+      "/hhe/podcast/A Storm is Brewing_ Is it Climate Change?.html",
+      "/hhe/topics/Agricultural Pollution.html",
+      "/hhe/topics/Air Pollution.html",
+      "/hhe/podcast/Animal Diseases and Human Health - The Sloth and Screwworm Episode.html",
+      "/hhe/podcast/Animal Diseases and Human Health_ The Sloth and Screwworm Episode.html",
+      "/hhe/podcast/Are extreme wildfires the new normal?.html",
+      "/hhe/podcast/As the climate changes, is the deadly flooding in Nepal a sign of things to come?.html",
+      "/hhe/topics/Biotoxins & Microbes.html",
+      "/hhe/units/Breaks ENVN4320.html",
+      "/hhe/case_convos/Case Conversation 1 - Disasters.html",
+      "/hhe/case_convos/Case Conversation 2 - Disasters.html",
+      "/hhe/case_convos/Case Conversation 3 - Infrastructure.html",
+      "/hhe/case_convos/Case Conversation 4 - Infrastructure.html",
+      "/hhe/case_convos/Case Conversation 5 - Toxins.html",
+      "/hhe/case_convos/Case Conversation 6 - Toxins.html",
+      "/hhe/case_convos/Case Conversation 7 - Pathogens.html",
+      "/hhe/case_convos/Case Conversation 8 - Pathogens.html",
+      "/hhe/podcast/Catching Fire.html",
+      "/hhe/topics/Cattle.html",
+      "/hhe/podcast/Climate - Fighting Extreme Heat In 2026.html",
+      "/hhe/topics/Climate Change & Extreme Weather.html",
+      "/hhe/podcast/Climate_ Fighting Extreme Heat In 2026.html",
+      "/hhe/topics/Crops.html",
+      "/hhe/podcast/Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health.html",
+      "/hhe/podcast/Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health.html",
       "/syllabi/hhe.html",
+      "/hhe/units/Disasters.html",
+      "/hhe/topics/Drought.html",
+      "/hhe/topics/Endocrine Disrupting Chemicals.html",
+      "/hhe/topics/Environmental Justice.html",
+      "/hhe/topics/Epidemics & Pandemics.html",
+      "/hhe/topics/Epidemiology.html",
+      "/hhe/topics/Exam 1 ENVN4320.html",
+      "/hhe/units/Exams ENVN4320.html",
       "/hhe/video/Extreme Heat Is the New Normal.html",
+      "/hhe/topics/Fall Break.html",
+      "/hhe/topics/Final Exam ENVN4320.html",
+      "/hhe/topics/Final Exam.html",
+      "/hhe/topics/Fires.html",
+      "/hhe/topics/Floods.html",
+      "/hhe/units/Food.html",
+      "/hhe/podcast/From Redlining to Inclusive Planning.html",
+      "/hhe/video/Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods.html",
+      "/hhe/podcast/Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?.html",
+      "/hhe/podcast/Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?.html",
+      "/hhe/topics/Healthy Housing.html",
+      "/hhe/topics/Heat Islands.html",
       "/hhe/video/Heatwave What is the urban heat island effect.html",
+      "/hhe/topics/Heavy Metals.html",
+      "/hhe/video/Housing Segregation and Redlining in America A Short History  Code Switch  NPR.html",
+      "/hhe/podcast/How Housing Discrimination Works.html",
+      "/hhe/podcast/How The Current Heat Dome Can Affect Human Health.html",
       "/hhe/video/How Urban Heat Impacts Communities of Color.html",
+      "/hhe/video/How systemic racism shaped the ecosystems of U.S. cities.html",
+      "/hhe/index.html",
+      "/hhe/podcast/Hurricane Katrina.html",
+      "/hhe/units/Infrastructure.html",
+      "/hhe/units/Introduction.html",
+      "/hhe/podcast/Nsilo Berry on making buildings healthier.html",
+      "/hhe/topics/One Health.html",
+      "/hhe/podcast/Our tick nightmare.html",
+      "/hhe/topics/Overview & Syllabus ENVN4320.html",
+      "/hhe/units/Overview ENVN4320.html",
+      "/hhe/topics/PFAS.html",
+      "/hhe/units/Pathogens.html",
+      "/hhe/podcast/Patient Zero.html",
+      "/hhe/topics/Poster Session.html",
+      "/hhe/podcast/Preventing Future Pandemics.html",
+      "/hhe/topics/Radiation.html",
+      "/hhe/topics/Redlining.html",
+      "/hhe/topics/Review.html",
+      "/hhe/units/Review Days.html",
+      "/hhe/units/Review Days ENVN4320.html",
+      "/hhe/podcast/Should we reengineer the world's deadliest animal?.html",
+      "/hhe/topics/Thanksgiving Break ENVN4320.html",
       "/hhe/video/The Most Dangerous Wildfires All Have ONE THING in Common.html",
+      "/hhe/podcast/Ticks are a growing problem, no matter where you live.html",
+      "/hhe/units/Toxins.html",
+      "/hhe/topics/Vectors.html",
       "/hhe/video/What Does Extreme Heat Do to the Body?.html",
       "/hhe/video/What Does Extreme Heat Do to the Body_.html",
+      "/hhe/podcast/What we lose if the Great Salt Lake dries up.html",
       "/hhe/video/When Will Extreme Heat Become Unlivable_.html",
-      "/hhe/schedule.html"
-    ]
-  },
-  {
-    "listing": "/bio2lab_resources.html",
-    "items": [
-      "/resources/bio2lab/bio2_behavior.pdf"
+      "/hhe/topics/Zoonoses.html",
+      "/hhe/schedule.html",
+      "/conbio/units/Approaches to Conservation.html",
+      "/conbio/video/Are We Living In the Sixth Extinction.html",
+      "/conbio/textbook/Biodiversity.html",
+      "/conbio/topics/Biodiversity Concepts & Measurement.html",
+      "/conbio/other/Biodiversity Concepts and Measurement.html",
+      "/conbio/textbook/Biodiversity Concepts and Measurement.html",
+      "/conbio/units/Breaks BIOL4120.html",
+      "/conbio/case_convos/Case Conversation 1 - Extinction.html",
+      "/conbio/case_convos/Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/case_convos/Case Conversation 3 - Overexploitation.html",
+      "/conbio/case_convos/Case Conversation 4 - Invasive Alien Species.html",
+      "/conbio/case_convos/Case Conversation 5 - Climate Change.html",
+      "/conbio/case_convos/Case Conversation 6 - Species-Level Approaches.html",
+      "/conbio/case_convos/Case Conversation 7 - Community & Ecosystem Approaches.html",
+      "/conbio/case_convos/Case Conversation 8 - Landscape-Scale Approaches.html",
+      "/conbio/textbook/Ch 10 Overexploitation.html",
+      "/conbio/textbook/Ch 11 Invasive Alien Species.html",
+      "/conbio/textbook/Ch 12 Climate Change.html",
+      "/conbio/textbook/Ch 13 Species-Level Conservation.html",
+      "/conbio/textbook/Ch 14 Community and Ecosystem Conservation.html",
+      "/conbio/textbook/Ch 15 Landscape-Scale Conservation.html",
+      "/conbio/textbook/Ch 16 Ex Situ Conservation.html",
+      "/conbio/textbook/Ch 2 The Rise of Conservation Biology.html",
+      "/conbio/textbook/Ch 3 Biodiversity Concepts and Measurement.html",
+      "/conbio/textbook/Ch 8 Extinction.html",
+      "/conbio/textbook/Ch 9 Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/other/Climate Change.html",
+      "/conbio/textbook/Climate Change.html",
+      "/conbio/topics/Climate Change.html",
+      "/conbio/topics/Climate Change & Biodiversity.html",
+      "/conbio/topics/Community & Ecosystem Approaches.html",
+      "/conbio/other/Community and Ecosystem Conservation.html",
+      "/conbio/textbook/Community and Ecosystem Conservation.html",
+      "/conbio/index.html",
+      "/conbio/textbook/Conservation biology - past and present.html",
+      "/conbio/textbook/Conservation biology - past and present 1.html",
+      "/conbio/textbook/Conservation in human‐modified landscapes.html",
+      "/conbio/textbook/Conservation planning and priorities.html",
+      "/syllabi/conbio.html",
+      "/conbio/textbook/Endangered species management - the US experience.html",
+      "/conbio/other/Ex Situ Conservation.html",
+      "/conbio/textbook/Ex Situ Conservation.html",
+      "/conbio/topics/Ex Situ Conservation.html",
+      "/conbio/topics/Exam 1 BIOL4120.html",
+      "/conbio/units/Exams BIOL4120.html",
+      "/conbio/other/Extinction.html",
+      "/conbio/textbook/Extinction.html",
+      "/conbio/topics/Extinction.html",
+      "/conbio/textbook/Extinctions and the practice of preventing them.html",
+      "/conbio/topics/Fall Break BIOL4120.html",
+      "/conbio/topics/Final Exam BIOL4120.html",
+      "/conbio/units/Foundations of Conservation Biology.html",
+      "/conbio/textbook/From conservation theory to practice - crossing the divide.html",
+      "/conbio/other/Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/textbook/Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/textbook/Habitat destruction - death by a thousand cuts.html",
+      "/conbio/textbook/Habitat fragmentation and landscape change.html",
+      "/conbio/video/How poaching is changing the face of African elephants.html",
+      "/conbio/other/Invasive Alien Species.html",
+      "/conbio/textbook/Invasive Alien Species.html",
+      "/conbio/topics/Invasive Alien Species.html",
+      "/conbio/textbook/Invasive Species.html",
+      "/conbio/topics/Labor Day.html",
+      "/conbio/topics/Landscape-Scale Approaches.html",
+      "/conbio/other/Landscape-Scale Conservation.html",
+      "/conbio/textbook/Landscape-Scale Conservation.html",
+      "/conbio/topics/No Class BIOL4120.html",
+      "/conbio/other/Overexploitation.html",
+      "/conbio/textbook/Overexploitation.html",
+      "/conbio/topics/Overexploitation.html",
+      "/conbio/textbook/Overharvesting.html",
+      "/conbio/topics/Overview & Syllabus BIOL4120.html",
+      "/conbio/units/Overview BIOL4120.html",
+      "/conbio/topics/Species-Level Approaches.html",
+      "/conbio/other/Species-Level Conservation.html",
+      "/conbio/textbook/Species-Level Conservation.html",
+      "/conbio/topics/Thanksgiving Break BIOL4120.html",
+      "/conbio/other/The Rise of Conservation Biology.html",
+      "/conbio/textbook/The Rise of Conservation Biology.html",
+      "/conbio/topics/The Rise of Conservation Biology.html",
+      "/conbio/literature/miranda_etal_2023a.html",
+      "/conbio/textbook/The conservation biologist's toolbox – principles for the design and analysis of conservation studies.html",
+      "/conbio/video/This Is Martha, the World's Last-Known Passenger Pigeon.html",
+      "/conbio/units/Threats to Biodiversity.html",
+      "/conbio/film/Vanishing Act.html",
+      "/conbio/schedule.html"
     ]
   },
   {
     "listing": "/conbio/index.html",
     "items": [
+      "/conbio/units/Approaches to Conservation.html",
+      "/conbio/video/Are We Living In the Sixth Extinction.html",
+      "/conbio/textbook/Biodiversity.html",
+      "/conbio/topics/Biodiversity Concepts & Measurement.html",
+      "/conbio/other/Biodiversity Concepts and Measurement.html",
+      "/conbio/textbook/Biodiversity Concepts and Measurement.html",
+      "/conbio/units/Breaks BIOL4120.html",
+      "/conbio/case_convos/Case Conversation 1 - Extinction.html",
+      "/conbio/case_convos/Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/case_convos/Case Conversation 3 - Overexploitation.html",
+      "/conbio/case_convos/Case Conversation 4 - Invasive Alien Species.html",
+      "/conbio/case_convos/Case Conversation 5 - Climate Change.html",
+      "/conbio/case_convos/Case Conversation 6 - Species-Level Approaches.html",
+      "/conbio/case_convos/Case Conversation 7 - Community & Ecosystem Approaches.html",
+      "/conbio/case_convos/Case Conversation 8 - Landscape-Scale Approaches.html",
+      "/conbio/textbook/Ch 10 Overexploitation.html",
+      "/conbio/textbook/Ch 11 Invasive Alien Species.html",
+      "/conbio/textbook/Ch 12 Climate Change.html",
+      "/conbio/textbook/Ch 13 Species-Level Conservation.html",
+      "/conbio/textbook/Ch 14 Community and Ecosystem Conservation.html",
+      "/conbio/textbook/Ch 15 Landscape-Scale Conservation.html",
+      "/conbio/textbook/Ch 16 Ex Situ Conservation.html",
+      "/conbio/textbook/Ch 2 The Rise of Conservation Biology.html",
+      "/conbio/textbook/Ch 3 Biodiversity Concepts and Measurement.html",
+      "/conbio/textbook/Ch 8 Extinction.html",
+      "/conbio/textbook/Ch 9 Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/other/Climate Change.html",
+      "/conbio/textbook/Climate Change.html",
+      "/conbio/topics/Climate Change.html",
+      "/conbio/topics/Climate Change & Biodiversity.html",
+      "/conbio/topics/Community & Ecosystem Approaches.html",
+      "/conbio/other/Community and Ecosystem Conservation.html",
+      "/conbio/textbook/Community and Ecosystem Conservation.html",
+      "/conbio/textbook/Conservation biology - past and present.html",
+      "/conbio/textbook/Conservation biology - past and present 1.html",
+      "/conbio/textbook/Conservation in human‐modified landscapes.html",
+      "/conbio/textbook/Conservation planning and priorities.html",
       "/syllabi/conbio.html",
+      "/conbio/textbook/Endangered species management - the US experience.html",
+      "/conbio/other/Ex Situ Conservation.html",
+      "/conbio/textbook/Ex Situ Conservation.html",
+      "/conbio/topics/Ex Situ Conservation.html",
+      "/conbio/topics/Exam 1 BIOL4120.html",
+      "/conbio/units/Exams BIOL4120.html",
+      "/conbio/other/Extinction.html",
+      "/conbio/textbook/Extinction.html",
+      "/conbio/topics/Extinction.html",
+      "/conbio/textbook/Extinctions and the practice of preventing them.html",
+      "/conbio/topics/Fall Break BIOL4120.html",
+      "/conbio/topics/Final Exam BIOL4120.html",
+      "/conbio/units/Foundations of Conservation Biology.html",
+      "/conbio/textbook/From conservation theory to practice - crossing the divide.html",
+      "/conbio/other/Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/textbook/Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
+      "/conbio/textbook/Habitat destruction - death by a thousand cuts.html",
+      "/conbio/textbook/Habitat fragmentation and landscape change.html",
+      "/conbio/video/How poaching is changing the face of African elephants.html",
+      "/conbio/other/Invasive Alien Species.html",
+      "/conbio/textbook/Invasive Alien Species.html",
+      "/conbio/topics/Invasive Alien Species.html",
+      "/conbio/textbook/Invasive Species.html",
+      "/conbio/topics/Labor Day.html",
+      "/conbio/topics/Landscape-Scale Approaches.html",
+      "/conbio/other/Landscape-Scale Conservation.html",
+      "/conbio/textbook/Landscape-Scale Conservation.html",
+      "/conbio/topics/No Class BIOL4120.html",
+      "/conbio/other/Overexploitation.html",
+      "/conbio/textbook/Overexploitation.html",
+      "/conbio/topics/Overexploitation.html",
+      "/conbio/textbook/Overharvesting.html",
+      "/conbio/topics/Overview & Syllabus BIOL4120.html",
+      "/conbio/units/Overview BIOL4120.html",
+      "/conbio/topics/Species-Level Approaches.html",
+      "/conbio/other/Species-Level Conservation.html",
+      "/conbio/textbook/Species-Level Conservation.html",
+      "/conbio/topics/Thanksgiving Break BIOL4120.html",
+      "/conbio/other/The Rise of Conservation Biology.html",
+      "/conbio/textbook/The Rise of Conservation Biology.html",
+      "/conbio/topics/The Rise of Conservation Biology.html",
+      "/conbio/literature/miranda_etal_2023a.html",
+      "/conbio/textbook/The conservation biologist's toolbox – principles for the design and analysis of conservation studies.html",
+      "/conbio/video/This Is Martha, the World's Last-Known Passenger Pigeon.html",
+      "/conbio/units/Threats to Biodiversity.html",
+      "/conbio/film/Vanishing Act.html",
       "/conbio/schedule.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/hhe/topics/Zoonoses.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Thanksgiving Break ENVN4320.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Redlining.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Poster Session.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Overview & Syllabus ENVN4320.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Heavy Metals.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Healthy Housing.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Fires.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Final Exam ENVN4320.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Exam 1 ENVN4320.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Epidemics & Pandemics.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Endocrine Disrupting Chemicals.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Crops.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Cattle.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Air Pollution.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/The Rise of Conservation Biology.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Species-Level Approaches.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Overexploitation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Landscape-Scale Approaches.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Invasive Alien Species.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Final Exam BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Extinction.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Ex Situ Conservation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Climate Change.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Biodiversity Concepts & Measurement.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Climate Change & Biodiversity.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Community & Ecosystem Approaches.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Exam 1 BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Fall Break BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Labor Day.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/No Class BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Overview & Syllabus BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Thanksgiving Break BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Agricultural Pollution.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Biotoxins & Microbes.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Climate Change & Extreme Weather.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Drought.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Environmental Justice.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Epidemiology.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Fall Break.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Final Exam.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Floods.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Heat Islands.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/One Health.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/PFAS.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Radiation.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Review.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Vectors.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/index.html",
     "items": [
+      "/hhe/podcast/06 - From Redlining to Inclusive Planning.html",
+      "/hhe/film/A New Inferno.html",
+      "/hhe/podcast/A New Test for Lyme Disease, Developed by High Schoolers.html",
+      "/hhe/podcast/A Storm is Brewing - Is it Climate Change?.html",
+      "/hhe/podcast/A Storm is Brewing_ Is it Climate Change?.html",
+      "/hhe/topics/Agricultural Pollution.html",
+      "/hhe/topics/Air Pollution.html",
+      "/hhe/podcast/Animal Diseases and Human Health - The Sloth and Screwworm Episode.html",
+      "/hhe/podcast/Animal Diseases and Human Health_ The Sloth and Screwworm Episode.html",
+      "/hhe/podcast/Are extreme wildfires the new normal?.html",
+      "/hhe/podcast/As the climate changes, is the deadly flooding in Nepal a sign of things to come?.html",
+      "/hhe/topics/Biotoxins & Microbes.html",
+      "/hhe/units/Breaks ENVN4320.html",
+      "/hhe/case_convos/Case Conversation 1 - Disasters.html",
+      "/hhe/case_convos/Case Conversation 2 - Disasters.html",
+      "/hhe/case_convos/Case Conversation 3 - Infrastructure.html",
+      "/hhe/case_convos/Case Conversation 4 - Infrastructure.html",
+      "/hhe/case_convos/Case Conversation 5 - Toxins.html",
+      "/hhe/case_convos/Case Conversation 6 - Toxins.html",
+      "/hhe/case_convos/Case Conversation 7 - Pathogens.html",
+      "/hhe/case_convos/Case Conversation 8 - Pathogens.html",
+      "/hhe/podcast/Catching Fire.html",
+      "/hhe/topics/Cattle.html",
+      "/hhe/podcast/Climate - Fighting Extreme Heat In 2026.html",
+      "/hhe/topics/Climate Change & Extreme Weather.html",
+      "/hhe/podcast/Climate_ Fighting Extreme Heat In 2026.html",
+      "/hhe/topics/Crops.html",
+      "/hhe/podcast/Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health.html",
+      "/hhe/podcast/Curbing Urban Sprawl_ Why Better City Planning Could Mean Better Health.html",
       "/syllabi/hhe.html",
-      "/hhe/index.html",
-      "/hhe/schedule.html",
-      "/resources/conbio/case_convos/case_source_hubs.html",
-      "/conbio/index.html",
-      "/syllabi/conbio.html",
-      "/resources/conbio/fishing/procedure.pdf",
-      "/resources/conbio/fishing/questions.pdf",
-      "/resources/conbio/case_convos/case_study_rubric.docx",
-      "/resources/conbio/case_convos/case_study_peer_feedback_makeup.pdf",
-      "/resources/conbio/case_convos/case_study_peer_feedback.pdf",
-      "/resources/conbio/case_convos/case_study_prep_sheet.docx",
-      "/resources/conbio/case_convos/case_study_prompt.html",
-      "/conbio/schedule.html"
+      "/hhe/units/Disasters.html",
+      "/hhe/topics/Drought.html",
+      "/hhe/topics/Endocrine Disrupting Chemicals.html",
+      "/hhe/topics/Environmental Justice.html",
+      "/hhe/topics/Epidemics & Pandemics.html",
+      "/hhe/topics/Epidemiology.html",
+      "/hhe/topics/Exam 1 ENVN4320.html",
+      "/hhe/units/Exams ENVN4320.html",
+      "/hhe/video/Extreme Heat Is the New Normal.html",
+      "/hhe/topics/Fall Break.html",
+      "/hhe/topics/Final Exam ENVN4320.html",
+      "/hhe/topics/Final Exam.html",
+      "/hhe/topics/Fires.html",
+      "/hhe/topics/Floods.html",
+      "/hhe/units/Food.html",
+      "/hhe/podcast/From Redlining to Inclusive Planning.html",
+      "/hhe/video/Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods.html",
+      "/hhe/podcast/Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?.html",
+      "/hhe/podcast/Health_ The DRC Ebola Outbreak Is Spreading At A Rapid Pace_ Why?.html",
+      "/hhe/topics/Healthy Housing.html",
+      "/hhe/topics/Heat Islands.html",
+      "/hhe/video/Heatwave What is the urban heat island effect.html",
+      "/hhe/topics/Heavy Metals.html",
+      "/hhe/video/Housing Segregation and Redlining in America A Short History  Code Switch  NPR.html",
+      "/hhe/podcast/How Housing Discrimination Works.html",
+      "/hhe/podcast/How The Current Heat Dome Can Affect Human Health.html",
+      "/hhe/video/How Urban Heat Impacts Communities of Color.html",
+      "/hhe/video/How systemic racism shaped the ecosystems of U.S. cities.html",
+      "/hhe/podcast/Hurricane Katrina.html",
+      "/hhe/units/Infrastructure.html",
+      "/hhe/units/Introduction.html",
+      "/hhe/podcast/Nsilo Berry on making buildings healthier.html",
+      "/hhe/topics/One Health.html",
+      "/hhe/podcast/Our tick nightmare.html",
+      "/hhe/topics/Overview & Syllabus ENVN4320.html",
+      "/hhe/units/Overview ENVN4320.html",
+      "/hhe/topics/PFAS.html",
+      "/hhe/units/Pathogens.html",
+      "/hhe/podcast/Patient Zero.html",
+      "/hhe/topics/Poster Session.html",
+      "/hhe/podcast/Preventing Future Pandemics.html",
+      "/hhe/topics/Radiation.html",
+      "/hhe/topics/Redlining.html",
+      "/hhe/topics/Review.html",
+      "/hhe/units/Review Days.html",
+      "/hhe/units/Review Days ENVN4320.html",
+      "/hhe/podcast/Should we reengineer the world's deadliest animal?.html",
+      "/hhe/topics/Thanksgiving Break ENVN4320.html",
+      "/hhe/video/The Most Dangerous Wildfires All Have ONE THING in Common.html",
+      "/hhe/podcast/Ticks are a growing problem, no matter where you live.html",
+      "/hhe/units/Toxins.html",
+      "/hhe/topics/Vectors.html",
+      "/hhe/video/What Does Extreme Heat Do to the Body?.html",
+      "/hhe/video/What Does Extreme Heat Do to the Body_.html",
+      "/hhe/podcast/What we lose if the Great Salt Lake dries up.html",
+      "/hhe/video/When Will Extreme Heat Become Unlivable_.html",
+      "/hhe/topics/Zoonoses.html",
+      "/hhe/schedule.html"
     ]
   }
 ]

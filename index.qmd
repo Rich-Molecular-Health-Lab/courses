@@ -7,15 +7,13 @@ listing:
   - id: hhe-updates
     contents:
       - "*/hhe.qmd"
+      - "hhe/*/*.qmd"
       - "hhe/*.qmd"
   - id: conbio-updates
     contents:
       - "*/conbio.qmd"
+      - "conbio/*/*.qmd"
       - "conbio/*.qmd"
-      - "resources/conbio/*.qmd"
-      - "resources/conbio/*/*.qmd"
-      - "!resources/conbio/*_/**"
-      - "!../resources/conbio/*/_*/**"
 ---
 
 On this site you can find the most up to date syllabi and schedules for any courses I am currently teaching at UNO. Please check back often, as I will update the schedules as needed.[^1]

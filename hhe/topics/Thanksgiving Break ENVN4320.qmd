@@ -1,6 +1,6 @@
 ---
 title: "Thanksgiving Break ENVN4320"
-date: "2026-08-29"
+date: "2026-11-24T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,6 @@ listing:
   contents: "Thanksgiving Break ENVN4320_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-11-24T16:00:00, 2026-11-26T16:00:00

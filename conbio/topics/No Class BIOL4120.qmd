@@ -1,6 +1,6 @@
 ---
 title: "No Class BIOL4120"
-date: "2026-08-29"
+date: "2026-08-24T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,7 +13,6 @@ listing:
   contents: "No Class BIOL4120_resources.yaml"
 ---
 
+## Class Meetings
 
-
-
-
+**Dates:** 2026-08-24T16:00:00, 2026-09-02T16:00:00

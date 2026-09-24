@@ -12,19 +12,27 @@ categories:
 ::: {.callout-note collapse="false" title="Assigned Reading"}
 
 **Chapter:** Habitat destruction: death by a thousand cuts
+
 **Ch No.:** 4 (Threats to Biodiversity)
+
 **Pages:** 73-87 (Habitat Loss, Fragmentation, and Degradation)
+
 **PDF:** [laurance_2010.pdf](../attachments/laurance_2010.pdf)
+
 **Textbook:** Conservation Biology for All *(see details below)*
-**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2
+
+**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2, BIOL4120_W6D1
 
 :::
 
 ::: {.callout-note collapse="true" title="Textbook Details"}
 
 **Text:** Conservation Biology for All by William F. Laurance
+
 **Edition:**  (2010)
+
 **ISBN:** 978-0-19-955423-2
+
 [![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193198326)
 
 :::

@@ -12,14 +12,21 @@ categories:
 :::: {.callout-info collapse="false" title="Citation Information"}
 
 **Journal:** Annual Review of Animal Biosciences  
+
 **Year:** 2023  
+
 **DOI:** 10.1146/annurev-animal-050622-104306  
+
 **URL:** https://www.annualreviews.org/content/journals/10.1146/annurev-animal-050622-104306  
+
 **Citekey:** miranda_etal_2023a  
+
 **Open in Zotero:** [miranda_etal_2023a.pdf](zotero://select/library/items/GBHX5ENT)
+
 ::: {.callout-quote title="AMA-Formatted Citation"}
 
 1.
+
 Miranda R, Escribano N, Casas M, Pino-del-Carpio A, Villarroya A. The Role of Zoos and Aquariums in a Changing World. _Annual Review of Animal Biosciences_. 2023;11:287-306. doi:[10.1146/annurev-animal-050622-104306](https://doi.org/10.1146/annurev-animal-050622-104306)
 
 :::

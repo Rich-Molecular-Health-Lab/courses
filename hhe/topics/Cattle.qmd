@@ -1,6 +1,5 @@
 ---
 title: "Cattle"
-date: "2026-08-29"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +12,132 @@ listing:
   contents: "Cattle_resources.yaml"
 ---
 
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### Are Plant- and Fungus-Based Meats Really Better than the Real Thing?
+
+![Are Plant- and Fungus-Based Meats Really Better than the Real Thing?](https://i.scdn.co/image/ab67656300005f1f64ed6ec2f04894f027196454)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2021
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2BcL2DPcmYXF885UA95eC2)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Move over, beef: there’s a new burger in town. Plant-based meats are sizzling hot right now; in 2020 alone, the alternative meat industry saw a record $3.1 billion in investment, with 112 new plant-based brands launching in supermarkets. These juicy, savory, chewy fake burgers are a far cry from the dry, weird-tasting veggie patties of the past. This episode, we visit the Impossible Foods labs to swig some of the animal-free molecule that makes their meatless meat bleed, try fungal food start-up Meati's prototype "chicken" cutlet, and speak to the scientists and historians who can help us compare these new fake meats to their predecessors—and to real meat! Can a plant-based sausage roll be considered kosher or halal? Are plant-based meats actually better for you and for the environment? And how might a mysterious protein-powerhouse fungus named Rosita help feed the world? Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Is alternative meat the recipe for a healthier planet?
+
+# Is alternative meat the recipe for a healthier planet? | Tao Zhang
+
+![Is alternative meat the recipe for a healthier planet? | Tao Zhang](https://i.scdn.co/image/ab67656300005f1fe1189724b35c0c3b998e195d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** TED Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/64r5TANHOEuBKivWbgWEmB)
+
+[Open Series in Spotify](https://open.spotify.com/show/0TaF88QDTfKwY1IROFB4PM)
+
+A Chinese saying goes, "There's no pleasure in eating without meat." And the data backs that up: every year, China consumes 26 percent of the world's meat and 45 percent of its seafood — numbers that could grow alongside rising incomes. Impact investor Tao Zhang shows why getting Chinese consumers to switch to plant-based alternatives is vital to tackling climate change and explores how it's also a massive business opportunity to bring tasty, affordable new proteins to market. Hosted on Acast. See acast.com/privacy for more information.
+
+:::
+
+#### Parasitic Bugs Are Making Combacks Across The Country
+
+# Science: Parasitic Bugs Are Making Combacks Across The Country
+
+![Science: Parasitic Bugs Are Making Combacks Across The Country](https://i.scdn.co/image/ab67656300005f1fc26403737b5cdf5fba559b7c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** 1A
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0t1KduppfOB2QGqCV6gT5s)
+
+[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
+
+In 1966, the United States declared victory over a destructive flesh-eating parasite that devastated livestock. The New World Screwworm is a fly whose larvae burrow into the living flesh of mammals. It was eradicated after a long campaign that involved releasing millions of sterile flies over infested areas.Last week, that fly came back.The U.S. Department of Agriculture confirmed five cases of larvae contamination in Texas and New Mexico – the first detections in decades. Federal officials say the food supply is safe, but the cattle industry is on high alert. The American cattle supply is already at a 75-year low. Beef prices are high. And a screwworm outbreak could make it worse.Outside farms and ranches, the tick population is growing and spreading in new parts of the country. Emergency room visits for tick bites hit a 10-year seasonal high in April. And a growing number of Americans are discovering they’ve developed an allergy to red meat triggered by tick bites.We sit down with a panel of experts to talk about it.Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Should I Give Up Beef?
+
+![Should I Give Up Beef?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2022
+
+**Series:** How to Save a Planet
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/21IdhPJKgD29bn9OhJmrjh)
+
+[Open Series in Spotify](https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6)
+
+A quarter of global greenhouse gas emissions come from agriculture and land use – and a big portion of those emissions come from producing meat. Adopting a plant-based diet is one of the biggest steps an individual can take to reduce their own carbon footprint. So, should we all stop eating meat? Or is it more complicated than that? This week, we take a tour through the bodily functions of cows, millions of acres of corn, and the hidden policy that shapes the American food system to answer that question once and for all.(This episode first aired March 25, 2021.)Calls to action: Sign up to track the latest U.S. Food & Agriculture bills here, and contact Agriculture Committee members (House and Senate) about supporting a climate-friendly Farm Bill. Contact the places you eat regularly about providing beef-less options – maybe it’s the cafeteria at work or school, or a community gathering space. Meatless Monday has resources for institutions that want to provide more climate-friendly meals. Get involved with a local organization fighting food insecurity, a mutual aid group, a community garden, or a co-op. For more information: Read the World Resources Institute’s report on Creating a Sustainable Food Future. Read this study about regenerative methods in beef production. Read this study about red seaweed reducing methane in beef production. Check out this data visualization on land use in the U.S. Listen to the Science Vs. episode on vegan diets.  Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Where's the Beef? Lab-Grown Meat is Finally on the Menu
+
+![Where's the Beef? Lab-Grown Meat is Finally on the Menu](https://i.scdn.co/image/ab67656300005f1f3be655e8fa8542e90e98af3e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0ji8cDzZ3uhXKpAZ82wjn0)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Can we really have our burger, eat it—and never need to kill a cow? Growing meat outside of animals—in a lab or, these days, in shiny steel bioreactors—promises to deliver a future in which we can enjoy sausages and sushi without guilt, and maybe even without sending our planet up in smoke. For years, it's seemed like science fiction, but it's finally a reality: this month, Americans will get their first chance to buy cultivated meat in a restaurant. But how exactly do you get chicken nuggets, BLTs, and bluefin sashimi from a bunch of cells growing in large metal vats? Does this new cultivated meat taste any good? Can enough be grown to replace industrial meat? And, if so, is this new technology actually an improvement on industrial animal agriculture and fishing? Gastropod is on the case! Join us this episode as we sink our teeth into a whole lot of lab-grown lunches, uncover the science behind the sci-fi, and investigate whether the companies making cultivated meat can actually fulfill the lofty promises they make. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Which is better for you: 'Real' meat or 'fake' meat?
+
+# Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans
+
+![Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans](https://i.scdn.co/image/ab67656300005f1fe1189724b35c0c3b998e195d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** TED Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/34N7Yvgv9VvgsHOqDMiznM)
+
+[Open Series in Spotify](https://open.spotify.com/show/0TaF88QDTfKwY1IROFB4PM)
+
+In 2021, a survey of over 1,000 Americans found that nearly two-thirds had eaten plant-based meat alternatives in the past year. Many cited potential health and environmental benefits as their motivation. But are these alternative meats actually better for us and the planet? Carolyn Beans investigates the differences between farmed meat, plant-based meat, and lab-grown meat. This TED-Ed lesson was directed by Laura Jayne Hodkin, and narrated by Alexandra Panzer and the music is by Carlos Magaña Bru, cAMP Studio. Hosted on Acast. See acast.com/privacy for more information.
+
+:::

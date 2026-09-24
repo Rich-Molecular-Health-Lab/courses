@@ -1,0 +1,225 @@
+---
+title: "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
+profile:
+  - "video"
+  - "hhe"
+categories:
+  - "video"
+  - "ENVN4320"
+---
+
+**NPR**, *04 11, 2018*
+
+## Video (6:36)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/O5FBJyqfoLM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+In 1968, Congress passed the Fair Housing Act that made it illegal to discriminate in housing. Gene Demby of NPR’s Code Switch explains why neighborhoods are still so segregated today. 
+
+• Read "How Segregation Shapes Fatal Police Violence" at https://n.pr/2Ic6A1Q
+
+• Read or listen to: "'The Color Of Law' Details How U.S. Housing Policies Created Segregation" at https://n.pr/2HgqATh
+
+WHAT’S CODE SWITCH?
+
+It's the fearless conversations about race that you've been waiting for! Hosted by journalists of color, our podcast tackles the subject of race head-on. We explore how it impacts every part of society — from politics and pop culture to history, sports and everything in between. This podcast makes ALL OF US part of the conversation — because we're all part of the story. 
+
+LISTEN to more episodes of Code Switch on: 
+
+NPR One - https://rpb3r.app.goo.gl/U3n6
+
+Apple Podcasts - https://apple.co/2KPJ8tL
+
+Spotify - https://spoti.fi/2Sp1wh9
+
+FOLLOW Code Switch:
+
+Twitter - CodeSwitch
+
+Instagram - https://www.instagram.com/nprcodeswitch
+
+Facebook - https://www.facebook.com/NPRCodeSwitch/
+
+FOLLOW Code Switch hosts:
+
+Gene Demby - https://twitter.com/GeeDee215
+
+Shereen Marisol Meraji - https://twitter.com/RadioMirage
+
+------------------------------------------------------
+
+FOLLOW NPR ELSEWHERE
+
+https://www.instagram.com/npr/
+
+https://www.tiktok.com/@npr
+
+https://www.facebook.com/NPR
+
+https://www.npr.org/
+
+## Transcript
+
+**0:00** · Chris Rock: You know what's so sad, man?
+
+**0:00** · You know what's wild?
+
+**0:01** · Martin Luther King stood for nonviolence.
+
+**0:03** · Now what's Martin Luther King?
+
+**0:05** · A street.
+
+**0:07** · And I don't give a f*** where you at in America, If you on Martin Luther King Boulevard there's some violence going down.
+
+**0:13** · Gene: That, of course, is Chris Rock’s famous joke about streets named for Martin Luther King Jr., which tend to be in -- let's say distressed areas.
+
+**0:22** · And he’s not wrong, because if you look at the way housing segregation works in America you can see how things ended up this way.
+
+**0:28** · Once you see it, you won't be able to unsee it.
+
+**0:31** · OK, let’s look at MLK Boulevard in Baltimore.
+
+**0:35** · I want to show you how to see housing segregation in schools, in health, in family wealth, in policing.
+
+**0:41** · But first, an explanatory comma.
+
+**0:45** · It’s the 1930s in the wake of the Great Depression.
+
+**0:47** · FDR is president.
+
+**0:48** · He wants to bring economic relief to millions of Americans through a collection of federal programs and projects called The New Deal.
+
+**0:54** · One part of that "new deal" was The National Housing Act of 1934, which introduced ideas like the 30-year mortgage and low, fixed interest rates.
+
+**1:03** · So now you have all these lower-income people who can afford homes, but how do you make sure they don't default on their new mortgages?
+
+**1:09** · Enter the Home Owners Loan Corp.
+
+**1:12** · The HOLC created residential security maps.
+
+### RESIDENTIAL SECURITY MAPS
+
+**1:15** · And these maps? They're where the term redlining comes from.
+
+**1:20** · Green meant “best area, best people,” aka businessmen; blue meant “good people,” like white-collar families; yellow meant a “declining area,” with working class families; and red meant “detrimental influences, hazardous," like “foreign-born” people, “low-class whites," and -- most significantly -- “Negroes.”
+
+**1:41** · Again and again on these HOLC maps, one of the most consistent criteria for redlined neighborhoods is the presence of black and
+
+brown people.
+
+**1:49** · Let’s be clear.
+
+**1:50** · Studies show that people who lived in redlined areas were not necessarily more likely to default on their mortgages.
+
+**1:57** · But redlining made it difficult — if not impossible — to buy or refinance.
+
+**2:02** · So landlords abandon their properties.
+
+**2:04** · City services become unreliable.
+
+**2:06** · In most places, crime increases.
+
+**2:09** · And property values drop.
+
+**2:11** · All of these conditions fester for 30 years as white people flee to the brand new suburbs popping up all over the country.
+
+**2:18** · Many of those suburbs institute rules, called covenants, that explicitly forbid selling homes to black people.
+
+**2:23** · And all of this was perfectly legal.
+
+**2:27** · Now it’s 1968.
+
+**2:29** · And MLK is assassinated.
+
+**2:31** · News Report: Good evening.
+
+**2:32** · The Rev. Dr. Martin Luther King, 39 years old, The apostle of nonviolence in the civil rights movement has been shot to death in Memphis, Tenn.
+
+**2:39** · Martin Luther King was shot and was killed tonight in Memphis, Tenn.
+
+**2:42** · In the aftermath, Congress passes the Fair Housing Act of 1968.
+
+**2:47** · It's a policy meant to encourage equal housing opportunities regardless of race, or religion or national origin.
+
+**2:52** · And it offers protections for future homeowners and renters, but does little to fix the damage already done.
+
+**2:58** · Over the next 50 years, the Fair Housing Act is rarely enforced.
+
+**3:02** · So you can still see housing segregation and its effects, in Baltimore and often along any MLK Boulevard in any U.S. city.
+
+**3:11** · Like its effects on wealth.
+
+### WEALTH
+
+**3:13** · So homeownership is the major way Americans create wealth, right?
+
+**3:16** · Well, discrimination in housing is the major reason that black families up and down the income scale have a tiny fraction of the family wealth that white families do -- even white families with less education and lower incomes.
+
+**3:28** · For almost 30 years, 98 percent of FHA loans were handed out to white borrowers.
+
+**3:33** · Not only were black neighborhoods redlined, and not only was the Fair Housing Act selectively enforced, if at all, but it is still today much harder for a black person to get a mortgage or home loan than it is for a white person.
+
+**3:46** · John: Families are fearful of speaking up about a basic human right that should be afforded to everyone in the world but definitely in the richest country in the world.
+
+**3:59** · And housing segregation in schools.
+
+**4:02** · The primary way that Americans pay for public schools is by paying property taxes.
+
+**4:07** · People who live in more valuable homes have better-funded local schools, better-paid teachers, better school facilities and more resources.
+
+**4:15** · Here’s a feedback loop: The better the schools in a neighborhood, the more those homes in that neighborhood are worth.
+
+**4:21** · And the higher the property values of those homes, the more money there is for schools.
+
+**4:25** · And so on and so on.
+
+**4:27** · And housing segregation in health.
+
+**4:29** · Because of urban planning that benefited those richer, whiter neighborhoods, people of color are more likely to live near industrial plants that spew toxic fumes; they're more likely to live far away from grocery stores with fresh food, and in places where
+
+the water isn’t drinkable.
+
+### HEALTH
+
+**4:43** · They're more likely to live in neighborhoods with crumbling infrastructure, and in homes with toxic paint.
+
+**4:49** · Karen: When you're living with rats, roaches, and things like that -- that's deplorable.
+
+**4:53** · You cannot have that kind of stuff with children running around in the building.
+
+**4:56** · A building that may be full of lead.
+
+**5:00** · And, not coincidentally, people of color have higher incidences of certain cancers, asthma and heart disease.
+
+**5:08** · And housing segregation in policing.
+
+### POLICING
+
+**5:11** · Housing segregation means we are having vastly different experiences with crime and vastly different experiences with policing.
+
+**5:17** · Because our neighborhoods are so segregated, sometimes racial profiling can be camouflaged as spatial profiling — where living in certain areas can make you more likely to be stopped by the police.
+
+**5:29** · And it means people have a lot of unnecessary contact with the criminal justice system just because of where they live.
+
+**5:38** · Reggie: The problem in our city?
+
+**5:41** · The police and the citizens are fighting.
+
+**5:43** · They keep targeting my brothers and sisters who don't really have nothing.
+
+**5:49** · And that heavy, aggressive kind of policing that you see in black neighborhoods in particular makes people feel like they can’t trust the police.
+
+**5:55** · And when people don’t trust the police, crimes go unsolved and people have to find other ways to keep themselves safe.
+
+**6:03** · But, of course, it’s not just Baltimore.
+
+**6:05** · Because housing segregation and discrimination fundamentally shape the lives of people in nearly every major American city.
+
+**6:14** · It really is in everything.
+
+**6:18** · To hear more about how race shapes American life, visit npr.org/codeswitch.
+
+**6:23** · I'm Gene Demby. Be easy.

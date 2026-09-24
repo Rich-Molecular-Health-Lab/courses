@@ -1,6 +1,5 @@
 ---
 title: "Drought"
-date: "2026-08-29"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +12,1222 @@ listing:
   contents: "Drought_resources.yaml"
 ---
 
+## Assigned Background
+
+### What we lose if the Great Salt Lake dries up
+
+![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Short Wave
+
+<iframe src="https://www.npr.org/player/embed/1164829382/1200392913" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1fd8eq7653xN4mr4D29EWD)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Dotted across the Great Basin of the American West are salty, smelly lakes. The largest of these, by far, is the Great Salt Lake in Utah.But a recent report found that water diversions for farming, climate change and population growth could mean the lake essentially disappears within five years. Less water going in means higher concentrations of salt and minerals, which threatens the crucial ecological role saline lakes play across the West, as well as the health of the people who live nearby. On today's episode, Kirk takes Short Wave co-host Aaron Scott on an audio field trip to the endangered Great Salt Lake, and explains why losing the lake could be devastating for everyone from brine flies to the humans that live next door. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+## Transcript
+
+EMILY KWONG, BYLINE: You're listening to SHORT WAVE from NPR.
+
+AARON SCOTT, HOST:
+
+Hey, SHORT WAVErs. Time to slip on those rubber boots because we're off for a field trip with NPR correspondent Kirk Siegler. Hey, Kirk.
+
+KIRK SIEGLER, BYLINE: Hey, Aaron.
+
+SCOTT: So where are you taking us today?
+
+SIEGLER: Well, we're going to the Great Salt Lake in Utah. I trekked out there earlier this winter with Carly Biedul. She's a biologist with the Great Salt Lake Institute.
+
+CARLY BIEDUL: These might even be my footprints from last week.
+
+SIEGLER: Carly is bundled up in an orange, puffy jacket, gloves and hat. And most importantly, she's wearing thick, sturdy, rubber boots 'cause the mud with the frozen slick layer of ice on top is treacherous.
+
+BIEDUL: Probably not fully, fully fresh, but...
+
+SIEGLER: But the only thing we're not prepared for is the stench.
+
+This is pungent right here.
+
+BIEDUL: Yeah.
+
+SIEGLER: Smells like dead fish, almost.
+
+SCOTT: Oh, yes. I've been on similar salty lakes here in Oregon. Whew. That smell is intense and immense.
+
+SIEGLER: It is. And the stink is actually a good thing because it's a sign of a biologically healthy saline lake.
+
+BIEDUL: People have been saying that they miss the lake stink 'cause it just makes it feel like home, and it's just not here anymore. So you're lucky that it gets to smell so bad.
+
+SCOTT: Oh, so the smell is disappearing?
+
+SIEGLER: It is. Because, Aaron, the Great Salt Lake is drying and dying. Biedul hikes out here weekly. She's trying to collect samples of tiny brine fly larva, which are getting harder and harder to find.
+
+BIEDUL: I'm going to get my jar out.
+
+SIEGLER: So think of it, the brine flies she's looking for are at the bottom of the food chain. They're feed for the migrating birds and so on. And most of the water that's left out there is too salty now.
+
+BIEDUL: The threshold is - we're kind of at the threshold. So if things get any saltier, we're super, super worried.
+
+SIEGLER: And they may have good reason. A recent report says climate change, farming and population growth in Utah may dry up the lake in five years.
+
+SCOTT: So today on the show - the future of the Great Salt Lake and similar lakes across the West. Why are they drying up? And what'll we lose if they do? I'm Aaron Scott, and you're listening to SHORT WAVE, the daily science podcast from NPR.
+
+(SOUNDBITE OF MUSIC)
+
+SCOTT: OK, Kirk. So to begin, I'd love it if you would just paint us a picture of the Great Salt Lake, for those who've never had the pleasure of seeing it. What does it look like, and how did a big, salty lake end up so far from the ocean?
+
+SIEGLER: Well, it - I can't even overstate how large it is. It's huge. And especially in the winter, it's quite eerie. When we were out there, it was foggy and otherworldly and very, very shallow. In fact, we - you know, you heard there, trekking out in the mud where there should have been water because the lake is receding. So to answer your question, these saline lakes occur at the bottom of basins where there's no way for the water to flow out to the sea. So basically, in Utah, when all the snow off the Wasatch Mountains right by Salt Lake City melts, it pools into the rivers, into these lakes in the spring and then they evaporate over the summer, leaving all sorts of particles behind and minerals, including saline.
+
+SCOTT: And as you said, I mean, these saline lakes occur all across the Great Basin in the West. And they - they're actually essential ecosystems, right?
+
+SIEGLER: Exactly. They're very important for migrating birds at the top of the food chain. And so when Carly Biedul is out there looking for larva at the bottom of the food chain, that's an indicator of a potential ecological collapse. And I'm not being dramatic. These lakes occur in the Great Basin from Utah to Nevada, across to eastern California, even in parts of Oregon, as you say. There's this huge geological anomaly. And a lot of these lakes have dried up over time. Some naturally, but a lot due to water diversions. Utah's Wasatch Front, where the majority of the state's population lives along Salt Lake City, is one of the fastest-growing places in the country. So water is in high demand. But also, just like across the West, most of the water being diverted out of the rivers that would be going to the Great Salt Lake are being diverted for farming and, in particular in Northern Utah, alfalfa farming in the high desert.
+
+SCOTT: So water diversions is playing a huge role in why they're disappearing. I'm guessing climate change also plays a role?
+
+SIEGLER: Yes, because we're in the West and - I don't have to tell you - we're in the midst of a 23-year megadrought. So drought and climate change are a big factor.
+
+SCOTT: And so if these lakes are essential stopovers for birds as they migrate from Alaska and Canada down to South America, I mean, just millions of birds kind of stopping here, like this rest stop all-you-can-eat buffet, what's it going to mean for them if these lakes dry up?
+
+SIEGLER: Well, it's another species that we know will be in peril. This is an essential flyover spot for migratory birds, and the effects could be devastating.
+
+SCOTT: And it's not just the birds, of course. I mean, there's a lot of creatures around the lakes that depend on them, including us humans. What's it going to mean for us?
+
+SIEGLER: Well, one of the most immediate impacts may be pollution. This is a dried-up lake bed. And we've seen this in other parts of the West. Dust storms off of a dried-up lake bed that has toxins in it - naturally occurring toxins - blowing into a large population base will have untold impacts on health. And the Salt Lake City area, particularly in the winter, already has some of the dirtiest air in the nation as a result of natural inversions that occur in that basin, but also a lot of cars and a lot of other industries. So that's the most immediate impact. But then there are also trickle-down effects, as well. There's tourism. There's mining that depends on the lake, and Utah's famous ski resorts actually benefit from getting more snow from lake effect storms. So the impacts are countless, to be honest.
+
+SCOTT: I mean, given all of that, Kirk, I'm guessing there's probably a lot of outcry and activism and such going on by people living near the lake, right?
+
+SIEGLER: There is. This is a huge topic that's all over the news these days.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED NEWS ANCHOR #1: Utah still remains in a drought.
+
+UNIDENTIFIED NEWS ANCHOR #2: Now to what some tonight are calling a looming environmental nuclear bomb in Utah. The mighty Great Salt Lake is drying up and...
+
+UNIDENTIFIED NEWS ANCHOR #3: As the Great Salt Lake continues to shrink, a...
+
+SIEGLER: Some of the neighborhoods that are closest to the lake, it's a huge concern. I met Turner Bitton. He's a community activist and neighborhood council leader in Salt Lake City's West Valley.
+
+TURNER BITTON: If the lake bed dries up and we're having winds blowing dust storms into our neighborhood, the heavy metals are going to land right on top of this neighborhood.
+
+SCOTT: Nobody wants giant clouds of toxic dust blanketing their backyard.
+
+SIEGLER: They don't. And he's particularly concerned there because these neighborhoods in the West Valley - they're more working class. They're already hemmed in by two busy freeways. There's a planned freeway expansion. Salt Lake City International Airport is right there and Utah's largest oil refinery.
+
+BITTON: I mean, we're talking about something that could potentially make these neighborhoods - I don't want to say uninhabitable - but for those that are vulnerable, for those that have lung issues, uninhabitable.
+
+SCOTT: Is he being a little dramatic there, Kirk?
+
+SIEGLER: He really isn't. You know, researchers have found higher rates of asthma and cardiovascular disease in neighborhoods like these. And one University of Utah study even showed that students in schools around there scored lower on tests during bad air days. Dr. Brian Moench is president of Utah Physicians for a Healthy Environment. He says the state should have declared an emergency years ago.
+
+BRIAN MOENCH: A lot of people think that dust is pretty benign because it's, quote, \\"natural.\\" Well, that's not the case. And in the case of dust from the Great Salt Lake, it is particularly toxic because we know that it's laced with high concentrations of heavy metals.
+
+SIEGLER: And most of Utah's 3 million or so residents live just east of the lake along the Wasatch Mountains. Now, the lake is about 9 feet lower than normal right now, despite a good winter. And locals are already complaining of these dust storms.
+
+SCOTT: OK, Kirk, so a lot of people upset about this. What's being done about it? Is there any sort of movement in, like, the state legislature?
+
+SIEGLER: There is. And there are a lot of promises so far, but it's been remarkable in this, you know, politically divided time in a Republican-controlled state, how - in particular, how there's bipartisan agreement over trying to fix the lake. There was a lot of pressure on lawmakers to do that. Some ideas floated, I have to say, sounded a bit like sci-fi - cloud seeding, even a pipeline to pump Pacific Ocean water in. Not exactly the same thing...
+
+SCOTT: Wow.
+
+SIEGLER: ...But everything seems to be on the table. Lawmakers this past session debated setting a target elevation for the lake and also a half-billion-dollar package that would do things like pay farmers and cities to use less water. Here's Republican Governor Spencer Cox in his recent State of the State address.
+
+(SOUNDBITE OF SPEECH)
+
+SPENCER COX: Earlier this month, a report predicted that in just five short years, the Great Salt Lake will completely disappear. Let me be absolutely clear - we are not going to let that happen.
+
+SCOTT: Wow. Strong words. So did they pass any of those measures?
+
+SIEGLER: Sort of? You know, they didn't pass any big water use regulations or major targets for the lake. Now, they did include money in the budget for more water conservation, but they took out language from a bill that would have required the conserved water actually make it to the lake. The federal government, though, is also a player here, and they're clearly paying attention. In the final days of last year, you had President Biden signing a bipartisan bill called the Saline Lake Ecosystems in the Great Basin States Program Act. Yeah.
+
+SCOTT: That is a mouthful.
+
+SIEGLER: Right. Well, but what you need to know - it allocates $25 million for the U.S. Geological Survey to work with other agencies - local land managers, scientists and nonprofits - to study and monitor these saline lakes in the Great Basin and come up with a conservation plan. But, you know, there's a real sense of urgency here with the Great Salt Lake if, in fact, it could dry up in five years.
+
+SCOTT: So the idea is we need more information before we can come up with a plan.
+
+SIEGLER: Yeah. But, you know, in large part, I think it's going to come down to the states because they manage the water rights. Last year, the Utah legislature did approve some money to try to buy up water rights. But pointing to the Salt Lake Tribune, they've been reporting that no farmers have actually taken them up on it. And this is a thing across the West right now, although we did get news just this week that one powerful player in Utah who you might have heard of - The Church of Jesus Christ of Latter-day Saints - they're getting involved. They've announced that they will permanently donate 20,000 acre feet of their water rights to the lake. So it's something.
+
+SCOTT: I think I hear those little brine fly larvae rejoicing just a little bit.
+
+SIEGLER: You can. Wow. That's good. So we don't have to end on such a doom and gloom note. And I have to tell you, down at the lake, trekking out there with Carly Biedul, the biologist - she's privy to all these negative headlines, and she goes out there every week. But she is just trying to stay positive herself.
+
+BIEDUL: And that's kind of what we've been trying to do - is find these moments to see the beauty when it's so sad.
+
+SIEGLER: It is beautiful out there. But Biedul says it's sad because there's not much time left to save the Great Salt Lake.
+
+SCOTT: Thank you, as always, for bringing this to us, Kirk.
+
+SIEGLER: You're welcome.
+
+(SOUNDBITE OF MUSIC)
+
+SCOTT: This episode was produced by Margaret Cirino and Liz Metzger, edited by Gabriel Spitzer and fact-checked by Anil Oza. Our audio engineer was Jay Czys. Brendan Crump is our podcast coordinator. Beth Donovan is the senior director of programming. And Anya Grundmann is the senior vice president of programming. I'm Aaron Scott. Thanks for listening to SHORT WAVE from NPR.
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### What we lose if the Great Salt Lake dries up
+
+![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Short Wave
+
+<iframe src="https://www.npr.org/player/embed/1164829382/1200392913" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1fd8eq7653xN4mr4D29EWD)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Dotted across the Great Basin of the American West are salty, smelly lakes. The largest of these, by far, is the Great Salt Lake in Utah.But a recent report found that water diversions for farming, climate change and population growth could mean the lake essentially disappears within five years. Less water going in means higher concentrations of salt and minerals, which threatens the crucial ecological role saline lakes play across the West, as well as the health of the people who live nearby. On today's episode, Kirk takes Short Wave co-host Aaron Scott on an audio field trip to the endangered Great Salt Lake, and explains why losing the lake could be devastating for everyone from brine flies to the humans that live next door. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+## Transcript
+
+EMILY KWONG, BYLINE: You're listening to SHORT WAVE from NPR.
+
+AARON SCOTT, HOST:
+
+Hey, SHORT WAVErs. Time to slip on those rubber boots because we're off for a field trip with NPR correspondent Kirk Siegler. Hey, Kirk.
+
+KIRK SIEGLER, BYLINE: Hey, Aaron.
+
+SCOTT: So where are you taking us today?
+
+SIEGLER: Well, we're going to the Great Salt Lake in Utah. I trekked out there earlier this winter with Carly Biedul. She's a biologist with the Great Salt Lake Institute.
+
+CARLY BIEDUL: These might even be my footprints from last week.
+
+SIEGLER: Carly is bundled up in an orange, puffy jacket, gloves and hat. And most importantly, she's wearing thick, sturdy, rubber boots 'cause the mud with the frozen slick layer of ice on top is treacherous.
+
+BIEDUL: Probably not fully, fully fresh, but...
+
+SIEGLER: But the only thing we're not prepared for is the stench.
+
+This is pungent right here.
+
+BIEDUL: Yeah.
+
+SIEGLER: Smells like dead fish, almost.
+
+SCOTT: Oh, yes. I've been on similar salty lakes here in Oregon. Whew. That smell is intense and immense.
+
+SIEGLER: It is. And the stink is actually a good thing because it's a sign of a biologically healthy saline lake.
+
+BIEDUL: People have been saying that they miss the lake stink 'cause it just makes it feel like home, and it's just not here anymore. So you're lucky that it gets to smell so bad.
+
+SCOTT: Oh, so the smell is disappearing?
+
+SIEGLER: It is. Because, Aaron, the Great Salt Lake is drying and dying. Biedul hikes out here weekly. She's trying to collect samples of tiny brine fly larva, which are getting harder and harder to find.
+
+BIEDUL: I'm going to get my jar out.
+
+SIEGLER: So think of it, the brine flies she's looking for are at the bottom of the food chain. They're feed for the migrating birds and so on. And most of the water that's left out there is too salty now.
+
+BIEDUL: The threshold is - we're kind of at the threshold. So if things get any saltier, we're super, super worried.
+
+SIEGLER: And they may have good reason. A recent report says climate change, farming and population growth in Utah may dry up the lake in five years.
+
+SCOTT: So today on the show - the future of the Great Salt Lake and similar lakes across the West. Why are they drying up? And what'll we lose if they do? I'm Aaron Scott, and you're listening to SHORT WAVE, the daily science podcast from NPR.
+
+(SOUNDBITE OF MUSIC)
+
+SCOTT: OK, Kirk. So to begin, I'd love it if you would just paint us a picture of the Great Salt Lake, for those who've never had the pleasure of seeing it. What does it look like, and how did a big, salty lake end up so far from the ocean?
+
+SIEGLER: Well, it - I can't even overstate how large it is. It's huge. And especially in the winter, it's quite eerie. When we were out there, it was foggy and otherworldly and very, very shallow. In fact, we - you know, you heard there, trekking out in the mud where there should have been water because the lake is receding. So to answer your question, these saline lakes occur at the bottom of basins where there's no way for the water to flow out to the sea. So basically, in Utah, when all the snow off the Wasatch Mountains right by Salt Lake City melts, it pools into the rivers, into these lakes in the spring and then they evaporate over the summer, leaving all sorts of particles behind and minerals, including saline.
+
+SCOTT: And as you said, I mean, these saline lakes occur all across the Great Basin in the West. And they - they're actually essential ecosystems, right?
+
+SIEGLER: Exactly. They're very important for migrating birds at the top of the food chain. And so when Carly Biedul is out there looking for larva at the bottom of the food chain, that's an indicator of a potential ecological collapse. And I'm not being dramatic. These lakes occur in the Great Basin from Utah to Nevada, across to eastern California, even in parts of Oregon, as you say. There's this huge geological anomaly. And a lot of these lakes have dried up over time. Some naturally, but a lot due to water diversions. Utah's Wasatch Front, where the majority of the state's population lives along Salt Lake City, is one of the fastest-growing places in the country. So water is in high demand. But also, just like across the West, most of the water being diverted out of the rivers that would be going to the Great Salt Lake are being diverted for farming and, in particular in Northern Utah, alfalfa farming in the high desert.
+
+SCOTT: So water diversions is playing a huge role in why they're disappearing. I'm guessing climate change also plays a role?
+
+SIEGLER: Yes, because we're in the West and - I don't have to tell you - we're in the midst of a 23-year megadrought. So drought and climate change are a big factor.
+
+SCOTT: And so if these lakes are essential stopovers for birds as they migrate from Alaska and Canada down to South America, I mean, just millions of birds kind of stopping here, like this rest stop all-you-can-eat buffet, what's it going to mean for them if these lakes dry up?
+
+SIEGLER: Well, it's another species that we know will be in peril. This is an essential flyover spot for migratory birds, and the effects could be devastating.
+
+SCOTT: And it's not just the birds, of course. I mean, there's a lot of creatures around the lakes that depend on them, including us humans. What's it going to mean for us?
+
+SIEGLER: Well, one of the most immediate impacts may be pollution. This is a dried-up lake bed. And we've seen this in other parts of the West. Dust storms off of a dried-up lake bed that has toxins in it - naturally occurring toxins - blowing into a large population base will have untold impacts on health. And the Salt Lake City area, particularly in the winter, already has some of the dirtiest air in the nation as a result of natural inversions that occur in that basin, but also a lot of cars and a lot of other industries. So that's the most immediate impact. But then there are also trickle-down effects, as well. There's tourism. There's mining that depends on the lake, and Utah's famous ski resorts actually benefit from getting more snow from lake effect storms. So the impacts are countless, to be honest.
+
+SCOTT: I mean, given all of that, Kirk, I'm guessing there's probably a lot of outcry and activism and such going on by people living near the lake, right?
+
+SIEGLER: There is. This is a huge topic that's all over the news these days.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED NEWS ANCHOR #1: Utah still remains in a drought.
+
+UNIDENTIFIED NEWS ANCHOR #2: Now to what some tonight are calling a looming environmental nuclear bomb in Utah. The mighty Great Salt Lake is drying up and...
+
+UNIDENTIFIED NEWS ANCHOR #3: As the Great Salt Lake continues to shrink, a...
+
+SIEGLER: Some of the neighborhoods that are closest to the lake, it's a huge concern. I met Turner Bitton. He's a community activist and neighborhood council leader in Salt Lake City's West Valley.
+
+TURNER BITTON: If the lake bed dries up and we're having winds blowing dust storms into our neighborhood, the heavy metals are going to land right on top of this neighborhood.
+
+SCOTT: Nobody wants giant clouds of toxic dust blanketing their backyard.
+
+SIEGLER: They don't. And he's particularly concerned there because these neighborhoods in the West Valley - they're more working class. They're already hemmed in by two busy freeways. There's a planned freeway expansion. Salt Lake City International Airport is right there and Utah's largest oil refinery.
+
+BITTON: I mean, we're talking about something that could potentially make these neighborhoods - I don't want to say uninhabitable - but for those that are vulnerable, for those that have lung issues, uninhabitable.
+
+SCOTT: Is he being a little dramatic there, Kirk?
+
+SIEGLER: He really isn't. You know, researchers have found higher rates of asthma and cardiovascular disease in neighborhoods like these. And one University of Utah study even showed that students in schools around there scored lower on tests during bad air days. Dr. Brian Moench is president of Utah Physicians for a Healthy Environment. He says the state should have declared an emergency years ago.
+
+BRIAN MOENCH: A lot of people think that dust is pretty benign because it's, quote, \\"natural.\\" Well, that's not the case. And in the case of dust from the Great Salt Lake, it is particularly toxic because we know that it's laced with high concentrations of heavy metals.
+
+SIEGLER: And most of Utah's 3 million or so residents live just east of the lake along the Wasatch Mountains. Now, the lake is about 9 feet lower than normal right now, despite a good winter. And locals are already complaining of these dust storms.
+
+SCOTT: OK, Kirk, so a lot of people upset about this. What's being done about it? Is there any sort of movement in, like, the state legislature?
+
+SIEGLER: There is. And there are a lot of promises so far, but it's been remarkable in this, you know, politically divided time in a Republican-controlled state, how - in particular, how there's bipartisan agreement over trying to fix the lake. There was a lot of pressure on lawmakers to do that. Some ideas floated, I have to say, sounded a bit like sci-fi - cloud seeding, even a pipeline to pump Pacific Ocean water in. Not exactly the same thing...
+
+SCOTT: Wow.
+
+SIEGLER: ...But everything seems to be on the table. Lawmakers this past session debated setting a target elevation for the lake and also a half-billion-dollar package that would do things like pay farmers and cities to use less water. Here's Republican Governor Spencer Cox in his recent State of the State address.
+
+(SOUNDBITE OF SPEECH)
+
+SPENCER COX: Earlier this month, a report predicted that in just five short years, the Great Salt Lake will completely disappear. Let me be absolutely clear - we are not going to let that happen.
+
+SCOTT: Wow. Strong words. So did they pass any of those measures?
+
+SIEGLER: Sort of? You know, they didn't pass any big water use regulations or major targets for the lake. Now, they did include money in the budget for more water conservation, but they took out language from a bill that would have required the conserved water actually make it to the lake. The federal government, though, is also a player here, and they're clearly paying attention. In the final days of last year, you had President Biden signing a bipartisan bill called the Saline Lake Ecosystems in the Great Basin States Program Act. Yeah.
+
+SCOTT: That is a mouthful.
+
+SIEGLER: Right. Well, but what you need to know - it allocates $25 million for the U.S. Geological Survey to work with other agencies - local land managers, scientists and nonprofits - to study and monitor these saline lakes in the Great Basin and come up with a conservation plan. But, you know, there's a real sense of urgency here with the Great Salt Lake if, in fact, it could dry up in five years.
+
+SCOTT: So the idea is we need more information before we can come up with a plan.
+
+SIEGLER: Yeah. But, you know, in large part, I think it's going to come down to the states because they manage the water rights. Last year, the Utah legislature did approve some money to try to buy up water rights. But pointing to the Salt Lake Tribune, they've been reporting that no farmers have actually taken them up on it. And this is a thing across the West right now, although we did get news just this week that one powerful player in Utah who you might have heard of - The Church of Jesus Christ of Latter-day Saints - they're getting involved. They've announced that they will permanently donate 20,000 acre feet of their water rights to the lake. So it's something.
+
+SCOTT: I think I hear those little brine fly larvae rejoicing just a little bit.
+
+SIEGLER: You can. Wow. That's good. So we don't have to end on such a doom and gloom note. And I have to tell you, down at the lake, trekking out there with Carly Biedul, the biologist - she's privy to all these negative headlines, and she goes out there every week. But she is just trying to stay positive herself.
+
+BIEDUL: And that's kind of what we've been trying to do - is find these moments to see the beauty when it's so sad.
+
+SIEGLER: It is beautiful out there. But Biedul says it's sad because there's not much time left to save the Great Salt Lake.
+
+SCOTT: Thank you, as always, for bringing this to us, Kirk.
+
+SIEGLER: You're welcome.
+
+(SOUNDBITE OF MUSIC)
+
+SCOTT: This episode was produced by Margaret Cirino and Liz Metzger, edited by Gabriel Spitzer and fact-checked by Anil Oza. Our audio engineer was Jay Czys. Brendan Crump is our podcast coordinator. Beth Donovan is the senior director of programming. And Anya Grundmann is the senior vice president of programming. I'm Aaron Scott. Thanks for listening to SHORT WAVE from NPR.
+
+### Video Clips
+
+#### How Do You Share a Shrinking River Fairly
+
+**PBS**, *09 10, 2026*
+
+## Video (8:53)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/g3crFJTKUZc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Watch more of this series: https://to.pbs.org/4wkQIAG
+
+The Colorado River is running out — and the Imperial Valley is ground zero. As policymakers battle over rights to a shrinking river, farmers are grappling with the practical realities of growing food with less water. Miles O’Brien meets two Imperial Valley farmers who are finding ways to feed people and livestock, nearby and abroad, while trying to make good use of every drop of this hard-working river. 
+
+This program is made possible by viewers like you. Support your local PBS station: https://www.pbs.org/donate
+
+Subscribe to the PBS channel for more clips:  https://www.youtube.com/@PBS
+
+Enjoy full episodes of your favorite PBS shows anytime, anywhere with the free PBS app: https://to.pbs.org/2QbtzhR
+
+FOLLOW US:
+
+Facebook: https://www.facebook.com/PBS/
+
+X: https://twitter.com/PBS/
+
+Instagram: https://www.instagram.com/PBS/
+
+TikTok: https://www.tiktok.com/@pbs
+
+Threads: https://www.threads.net/@pbs
+
+Resolve to Solve with Miles O'Brien
+
+Miles O'Brien travels the globe searching for solutions to climate, water, and health crises. From building sea curtains in Antarctica to restoring wildlife in Argentina, the answers are closer than we think thanks to people with a “Resolve to Solve.”
+
+#climatesolutions #coloradoriver #waterrights
+
+## Transcript
+
+### The Imperial Valley oasis
+
+**0:01** · The Imperial Valley sits downstream of two massive reservoirs: Lake Powell and Lake Mead.
+
+**0:08** · Together, they act as a giant savings account, buffering water users from the whims of weather and the uncertainty of the annual snowpack.
+
+**0:18** · The incongruous, almost magical, nature of this lush oasis in the desert really dawned on me during a visit to Gina Dockstader's Citrus Grove.
+
+**0:29** · DOCKSTADER: What do you think, Lalo, you want to pick one off for us?
+
+**0:32** · This one right here? DOCKSTADER: Yeah.
+
+**0:33** · O'BRIEN: There we go.
+
+**0:34** · (voiceover): It was January, early morning, not long after sunrise, when she gave me a fresh-as-it-gets taste test.
+
+**0:43** · We sampled some organic minneolas.
+
+**0:48** · All right, so-- and so, what's the proper way to eat it?
+
+**0:50** · Well, we, we could-- we could've sectioned it, but yeah, just...
+
+**0:53** · the juice is great. O'BRIEN: Oh, my gosh.
+
+**0:54** · Oh, that's delicious.
+
+**0:56** · (voiceover): Citrus isn't the big story here.
+
+**0:59** · Vegetables are.
+
+**1:01** · About two-thirds of the winter produce sold in the U.S. is grown here.
+
+**1:07** · Fine-looking lemons here!
+
+**1:08** · DOCKSTADER: We need some lemonade, huh?
+
+**1:11** · O'BRIEN (voiceover): Gina took me to her family's packing plant.
+
+**1:14** · This is a place that can produce a lot of food in a very relatively small area, right?
+
+**1:21** · Right.
+
+**1:22** · High economic value in a small area.
+
+**1:24** · O'BRIEN (voiceover): After all the lemons were boxed and shipped, Gina unpacked her family story.
+
+### Water use and crop priorities
+
+**1:31** · I am fourth-generation, and my son is fifth-generation.
+
+**1:34** · We are very, very proud of that fact.
+
+**1:36** · O'BRIEN (voiceover): Gina is also a director on the board of the Imperial Irrigation District-- the public agency that holds and manages the single largest entitlement to water from the Colorado River.
+
+**1:48** · Besides citrus, her family grows dates and, like just about everyone here, alfalfa and Bermuda grass, both of which get bundled up into hay bales to be fed to livestock.
+
+**2:02** · You can't put all your eggs in one basket, right?
+
+**2:04** · Otherwise, how do you make it from year to year?
+
+**2:05** · O'BRIEN: No crop demands more Colorado River water than alfalfa.
+
+**2:10** · Farmers across the basin use roughly five to six million acre-feet a year to grow hay for cattle and dairy operations.
+
+**2:19** · The Imperial Valley is one of the world's most productive hay-growing regions.
+
+**2:23** · Thanks to a year-round growing season and easy access to Pacific ports, as much as half of its alfalfa is exported to Asia and the Middle East-- controversial destinations for a crop irrigated by one of America's most stressed rivers.
+
+**2:43** · You're kind of shipping the Colorado River to other countries. DOCKSTADER: Right.
+
+**2:47** · What do farmers say to that?
+
+**2:49** · I will say...
+
+**2:52** · "Do you like your leather belt?
+
+**2:55** · "Do you like your tennis shoes?
+
+**2:58** · "Do you like the modern conveniences "that you have in your life that's coming from these places?"
+
+**3:04** · Because they're feeding their cattle, and that's how you're getting leather products back into the United States.
+
+**3:11** · O'BRIEN: Alfalfa is a thirsty crop, and the fact that a significant share of it ultimately leaves the country doesn't sit well with many people.
+
+**3:21** · But Gina says folks in the Imperial Valley are accustomed to being in the crosshairs.
+
+**3:27** · DOCKSTADER: We've always felt that other people were looking at our water because we have such a significant... priority right.
+
+**3:34** · You think municipalities are gonna come in, you think the cities are gonna come and, and take our water.
+
+### Water management and policy
+
+**3:40** · O'BRIEN: That's exactly what happened in 2003.
+
+**3:43** · As it became clear the Colorado River could no longer meet all the demands placed on it, the federal government required California to live within its legal allocation.
+
+**3:55** · The result was the Quantification Settlement Agreement, or QSA.
+
+**4:00** · It requires the Imperial Irrigation District to transfer water to San Diego.
+
+**4:06** · In return, the San Diego County Water Authority helps fund conservation projects that enable farmers to use less water while keeping much of their land in production.
+
+**4:18** · DOCKSTADER: Now I can pay for a sprinkler pipe.
+
+**4:20** · I can sprinkle, I can use less water to grow the same crop, and that's how the water gets created.
+
+**4:27** · We're getting smarter.
+
+**4:28** · Farmers are resilient.
+
+**4:30** · They, we all know we have to do more with less.
+
+**4:33** · ♪ O'BRIEN (voiceover): That message is resonating in the Imperial Valley.
+
+**4:40** · Not far from Gina's citrus grove, we caught up with farmer Jon Shields.
+
+**4:46** · It was watering day for one of his fields.
+
+**4:50** · This one is wheat.
+
+**4:52** · I got 9.3...
+
+**4:55** · feet going into the field.
+
+**4:57** · O'BRIEN: Farmers around here don't pray for rain, they just order it up, and a zanjero-- or ditch rider-- making the morning rounds opens the floodgate.
+
+**5:09** · It all flows downhill, no pumps required.
+
+**5:14** · (water rushing) SHIELDS: And he delivered it at 6:30, and then here's his measurement what he took, 9.3.
+
+### Modern irrigation strategies
+
+**5:21** · So, how long will this gate be open today?
+
+**5:23** · Uh, well, this gate, um...
+
+**5:26** · it'll probably run till morning to irrigate that whole field.
+
+**5:30** · The next morning. - Yeah, till-- it's probably a 24-hour run.
+
+**5:34** · O'BRIEN (voiceover): The water flows into some canals on his property.
+
+**5:38** · SHIELDS: It goes under this pipe, then it goes into our delivery ditch.
+
+**5:41** · O'BRIEN (voiceover): From the ditch, water flows directly onto the field, already seeded and fertilized.
+
+**5:47** · It is flooded from edge to edge.
+
+**5:51** · How frequently do you have to water?
+
+**5:52** · 30, 40 days we'll be back with another water.
+
+**5:54** · So you're good for a month.
+
+**5:55** · On the, on the-- after the first water, then when the crop starts to mature more, then... the demand will be more, we'll have to irrigate more frequently.
+
+**6:05** · ♪ O'BRIEN: Flood irrigation requires very little energy.
+
+**6:10** · But because it wets the entire soil surface, more water is lost to evaporation in hot, dry climates than with sprinkler or drip irrigation.
+
+**6:21** · To conserve, Jon is not tilling as frequently as he used to-- and a few years ago, he had his field laser-leveled, ensuring a more even and efficient distribution of water.
+
+**6:33** · SHIELDS: Before we started doing leveling, I think we were using significantly more water.
+
+**6:38** · And the minimum tillage also, I think, is...
+
+**6:41** · the ground isn't loosened up, so the water's not penetrating as deep.
+
+**6:46** · And, uh, it's sliding across a little bit faster, so we're using less water.
+
+**6:51** · O'BRIEN: Jon has also tried some other water-saving strategies.
+
+**6:55** · He showed me an alfalfa field that he put in the Imperial Irrigation District's Deficit Irrigation Program, or DIP.
+
+### Adapting to a limited supply
+
+**7:04** · Farmers are paid to cease irrigating some of their crops during the hot summer months when evaporation is at its peak.
+
+**7:13** · SHIELDS: I think we stopped watering here for 45 or 49 days, something like that, and then, um...
+
+**7:19** · O'BRIEN: This is the hottest part of the year.
+
+**7:22** · (voiceover): The hope is that the alfalfa will be stressed but not killed.
+
+**7:27** · Jon had mixed results.
+
+**7:29** · SHIELDS: Maybe 50% of the crowns came back.
+
+**7:32** · There's a crown right there. O'BRIEN: And that's dead?
+
+**7:35** · SHIELDS: Well, I don't know if it's gonna come back or not.
+
+**7:38** · O'BRIEN: And you sort of knew that going in, that that might be a consequence...
+
+**7:42** · I knew that. I had some more optimism that it would come back better than it did, but um, it hasn't.
+
+**7:48** · We had a really hot summer, so...
+
+**7:51** · O'BRIEN (voiceover): Even so, he continues to participate in the program.
+
+**7:55** · The century-old system that created this agricultural oasis is built on the notion of an endless supply of cheap water.
+
+**8:04** · But everything has its limits.
+
+**8:08** · It's hard to do this with less water is what it comes down to. - Exactly, yeah, and we're all on a budget. We're all on a water budget.
+
+**8:15** · We have an apportionment...
+
+**8:19** · So, we have an apportionment and we have to live within that apportionment, and...
+
+**8:25** · that's it, you know, so we have to be careful with our water.
+
+**8:28** · It's not like the old days where we could just water at will.
+
+#### How Singapore solved its looming water crisis
+
+**DW Planet A**, *09 20, 2024*
+
+## Video (12:46)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/GgKi2x9od_0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+In Singapore, water supply impacted wars, the economy and people's health. Now, one of the most water-stressed countries is teaching the world how to handle water when there is hardly any.  
+
+#PlanetA #Singapore #WaterCrisis 
+
+We're destroying our environment at an alarming rate. But it doesn't need to be this way. Our new channel Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means. We look at the big and the small: What we can do and how the system needs to change. Every Friday we'll take a truly global look at how to get us out of this mess.
+
+Follow Planet A on TikTok: https://www.tiktok.com/@dw_planeta?lang=en
+
+Credits:
+
+Reporter: Tim Schauenberg 
+
+Supervising Editor: Michael Trobridge 
+
+Video Editor: David Jacobi 
+
+Fact-Check: Alexander Paquet
+
+Thumbnail: Em Chabridon
+
+Read more:
+
+United Nations Water, report on Singapore's strategy: 
+
+https://www.unwater.org/sites/default/files/2023-11/sdg6-case-study-singapore_eng.pdf 
+
+Isocarp Institute, Singapore's Water History: 
+
+https://www.isocarp-institute.org/wp-content/uploads/2020/08/Review10_Water-and-the-Cities-The-SIngapore-Story.pdf 
+
+International Water Association Fact sheet on Singapore: 
+
+https://iwa-network.org/city/singapore/
+
+Chapters:
+
+00:00 Intro
+
+00:35 The challenge
+
+01:56 History
+
+03:32 Step 1: Imported Water
+
+04:57 Step 2: Desalination
+
+06:09 Step 3: Local Catchment
+
+07:18 Step 4: NEWater
+
+09:22 Policy and Education
+
+10:14 Conclusion
+
+## Transcript
+
+### Intro
+
+**0:01** · No joke, but this place...
+
+**0:02** · has a serious issue with water.
+
+**0:06** · Water here has changed the course of war, started fights with neighboring countries, and dominates the city's political agenda.
+
+**0:14** · And yet, this country is a role model.
+
+**0:18** · "Singapore got it right, as simple as that."
+
+**0:20** · This is how Singapore is transforming itself from one of the most water-stressed countries in the world to self-sufficiency, from water rags – to riches.
+
+### The challenge
+
+**0:36** · Welcome to Singapore!
+
+**0:37** · A vibrant multicultural city-state, right on the equator.
+
+**0:41** · Densely populated, around 6 million people live on this tiny island.
+
+**0:45** · It's an international hub for trade and finance.
+
+**0:48** · It's clean, safe, modern, wealthy, green.
+
+**0:52** · Basically, it has a lot of everything you'd want.
+
+**0:55** · There's just that one thing...
+
+**0:56** · Singapore has no natural freshwater resources.
+
+**1:00** · And the way its economy and population are growing, total water demand could almost double by 2060.
+
+**1:06** · But Singapore is on it.
+
+**1:10** · "None of what they've done is magic."
+
+**1:13** · That's Peter Gleick, he's an award-winning water expert.
+
+**1:16** · He puts Singapore's success down to what he calls the "soft path" approach to their problems.
+
+**1:21** · "So the soft path for water is in contrast to what we have done over the last century and more, more than a century, the hard path.
+
+**1:29** · To build hard infrastructure, to take more and more water out of nature, to ignore the consequences of our water policies for nature, to build narrow institutions.
+
+**1:39** · And the soft path tries to turn that around and say, let's use water efficiently and carefully.
+
+**1:45** · Let's stop wasting water.
+
+**1:47** · Let's look at new sources of supply."
+
+**1:50** · To understand how Singapore can pull this off, you first need to understand where they're coming from.
+
+### History
+
+**1:58** · "The Singapore water story starts with World War 2."
+
+**2:02** · That's Jon Church, the guy for water at the United Nations.
+
+**2:06** · Singaporeans would argue that the story goes back a lot longer, but 1942 is certainly when the issue grabbed the world's attention.
+
+**2:13** · That's when allied troops, namely British, Australian and Indian forces, were battling fascist Japan on Singapore Island, which at the time was a British colony.
+
+**2:24** · The allies depended on imported water which was a bit of a problem when Japanese forces blew up the pipes transporting that water.
+
+**2:30** · "The bridge that connects Malaysia and Singapore was bombed.
+
+**2:35** · The result was lack of water in the city, a terrible episode of water scarcity."
+
+**2:43** · The Allies lost the battle of Singapore, but after Japan's overall surrender, the island remained in British hands.
+
+**2:50** · It took more than 20 years until it became fully independent.
+
+**2:53** · But political liberation didn't free Singapore from its water crisis: water rationing, catastrophic sanitation, and regular floods continued.
+
+**3:01** · With its fate now in its own hands, Singapore began planning for the long-term.
+
+**3:06** · Cecilia Tortajada has spent almost three decades researching water policy and innovations around the world and is fascinated by Singapore's path.
+
+**3:15** · "When Singapore became independent, they started planning to be water independent, as well as food independent, energy independent, but to have systems that can sustain stress.
+
+**3:28** · That was in 1965 for 2060."
+
+### Step 1: Imported Water
+
+**3:32** · Their initial masterplan was fine-tuned over the years into a water strategy which they call their "4 national taps".
+
+**3:40** · First: Water imports Second: Desalination Third: Local Catchment And fourth, something they call "NEWater".
+
+**3:50** · Let's dive into it!
+
+**3:53** · Firstly, Singapore knew there was plenty of water, right here: Two deals to import water from Malaysia in the 60's, got the taps running again.
+
+**4:03** · It's cheap and millions of liters are pumped over the border every day.
+
+**4:07** · But buying half your water from your neighbor isn't sustainable long-term.
+
+**4:12** · On the contrary: From the start, Malaysia made threats to cut off the supply and argued over its price.
+
+**4:18** · The tensions have even led to warnings of a military conflict.
+
+**4:21** · Singapore's leaders know their weak spot, so they want to stop importing water by 2061.
+
+**4:27** · So, it's all the more important that the other three taps become more than a drop in the ocean.
+
+**4:31** · "Water planning is very important because they have so little water, Singapore must make sure, that this water is used wisely.
+
+**4:41** · And the objective of this master plan is to make the most out of every single drop of water."
+
+**4:48** · This means keeping rivers and drains clean, investing billions, starting to collect more water, cleaning it and use what the island state Singapore already has.
+
+### Step 2: Desalination
+
+**4:57** · For example, this: The ocean!
+
+**5:02** · "Desalination, Desalination, Desalination.
+
+**5:05** · You take that undrinkable salt water, you remove the salt and you have an unlimited supply of fresh water."
+
+**5:11** · Do you remember?
+
+**5:12** · We had an entire video about obtaining fresh water through desalination.
+
+**5:16** · It's used in a number of extremely dry places around the world and is a real gamechanger for some.
+
+**5:23** · "Membrane desalination uses pressure.
+
+**5:25** · Salt water, here coloured in red for clarity, is pressed through a membrane that is only partially permeable.
+
+**5:30** · Fresh water can press through.
+
+**5:32** · Here coloured in blue.
+
+**5:33** · But the salt is trapped on the other side."
+
+**5:35** · Singapore really pushed to advance this technology.
+
+**5:38** · This underground facility for example is state-of-the-art.
+
+**5:42** · Normally, it treats used water.
+
+**5:44** · In times of drought, it desalinates sea water.
+
+**5:47** · On top, people use it as a park.
+
+**5:49** · Today, five desalination plants provide up to 25 % of the entire island's water supply.
+
+**5:55** · Singapore plans increase this capacity to meet 30% of its needs in 2060, by which time water use is expected to have doubled.
+
+**6:04** · But that's no way near self-sufficiency.
+
+**6:07** · So, what's next?
+
+### Step 3: Local Catchment
+
+**6:09** · Bingo! Rain!
+
+**6:11** · A lot of it, and Singapore is a master of maxing that out.
+
+**6:15** · Two third of the entire state's surface is used for rainwater catchment.
+
+**6:20** · "Basically, the water falls on the roof and then goes through drains and then you make sure that as little water leaks from the drains and is captured by the drainage system and conveyed to reservoirs where it can be stored.
+
+**6:43** · And treated for further use.
+
+**6:46** · An extensive network of rivers, canals and drains channels the water into 17 reservoirs.
+
+**6:51** · The biggest is Marina Barrage, with an area of 10,000 hectares.
+
+**6:55** · It holds back fresh water from flowing into the ocean.
+
+**6:58** · And helps to control frequent floods.
+
+**7:02** · So does this underground tank that catches floodwater in extreme cases when the drains spill over.
+
+**7:08** · Even this water could potentially be treated and reused.
+
+**7:11** · By 2060, the government wants to use 90% of the land area for rain catchment.
+
+### Step 4: NEWater
+
+**7:18** · Catching rainwater is one thing, but what about the water already in circulation?
+
+**7:25** · "All drainage water is collected, and treated and reused as much as possible.
+
+**7:32** · Most countries, they do not invest, not even a fraction of what Singapore is investing."
+
+**7:38** · The water authorities built a 206 kilometer sewage pipe-highway, costing 10 billion dollars that guides the city's sewage into state-of-the-art reclamation and cleaning facilities.
+
+**7:50** · Ok, Singapore is by some measures the 5th richest country in the world so it can afford to splash out like that.
+
+**7:56** · It's also a lot easier to push through such projects when you have the sort of "controlled democracy", run by the same party, that Singapore has had since independence in 1965.
+
+**8:07** · Anyway, the entire city's underground is basically one big sewer network.
+
+**8:12** · But the pride of Singapore's water strategy is what happens after collecting the water – the treatment.
+
+**8:19** · The authorities call it NEWater.
+
+**8:21** · It's produced by microfiltration, reverse osmosis and UV radiation.
+
+**8:29** · "Some of that water is so high quality, Singapore is using it in their chip manufacturing industry, which requires ultra-pure water, which is an indication of how good a quality of that water is."
+
+**8:42** · Did you know, that around the world, half of our wastewater is released untreated?
+
+**8:46** · And only 11% is actually reused.
+
+**8:49** · In Singapore about 30% percent of the entire drinkable and non-drinkable demand can be met by recycling used water.
+
+**8:57** · And they want to increase that to 55% by 2060.
+
+**9:02** · Most of it is used by industry, only a fraction of it is mixed into the drinking water supply, because we're all so squeamish.
+
+**9:09** · "It's controversial because we're taking wastewater which, you know, goes down our drains, we flush it down our toilets, industry dumps wastewater.
+
+**9:17** · And we typically think of that as a, a liability, as something to get rid of."
+
+### Policy and Education
+
+**9:22** · So how do you get people on board?
+
+**9:25** · "Using the flush saver cistern bag and save with every flush!"
+
+**9:29** · "Make saving water pay!"
+
+**9:30** · "Reduce water consumption!"
+
+**9:32** · "Save up to 10 liters of water per hour!"
+
+**9:35** · Nationwide campaigns encourage people to install water-saving fittings.
+
+**9:38** · And nicely, if you install those fittings, you get discount vouchers for other sustainable products.
+
+**9:44** · Digital water meters track each household's water consumption and detect leaks in pipes.
+
+**9:49** · That's how Singapore comes down to an incredible 5% water loss from leaks.
+
+**9:53** · Which is first class.
+
+**9:55** · Globally, the average is estimated to be 30%.
+
+**9:58** · "What they've done incredibly well, in my opinion, is on the side of water education.
+
+**10:04** · They've educated their community about their water situation, about their water challenges, and about the solutions that they've chosen to push."
+
+### Conclusion
+
+**10:14** · As good as Singapore is doing, it has big advantages over other countries.
+
+**10:18** · Besides being rich and a tightly-controlled society, the city only has a tiny agricultural sector and can focus almost entirely on urban and industrial wastewater.
+
+**10:29** · So, they have one problem less as food production pollutes and consumes enormous amounts of fresh water in many parts of the world.
+
+**10:36** · Despite that, they've shown: a lot is possible.
+
+**10:41** · "Everywhere in the world, when we start, again talking about water - when we see our management, how can it be improved?
+
+**10:50** · Who would be involved?
+
+**10:52** · How can we pay for it?
+
+**10:54** · There is always a "but".
+
+**10:55** · "But" can we do it?
+
+**10:56** · And in Singapore it's not.
+
+**10:58** · In Singapore it's: how is it that we are going to do it?
+
+**11:01** · So, it's a very different perspective, its proactive.
+
+**11:06** · They move very fast.
+
+**11:08** · So once a decision has been taken the things start happening."
+
+**11:14** · So, to sum up: Incentivizing low-cost water-saving fittings could be easy for every government to implement.
+
+**11:20** · Desalination is only an option for coastal regions and it requires a lot of energy, often dirty fossil fuels.
+
+**11:27** · Singapore's catchment, treatment and purification facilities are world class, as the result of a lot of investment in innovation and research.
+
+**11:34** · "But it turns out that a dollar invested in an efficiency improvement is much more productive than a dollar invested in new supply."
+
+**11:45** · Reusing wastewater seems a no-brainer.
+
+**11:47** · It's safe and tested to work and the tech is available.
+
+**11:52** · "This is really important to find the best solutions to every country's problems, but also long-term planning.
+
+**12:01** · Singapore, from all the way from independence has been planning its way through water security.
+
+**12:09** · In Singapore it's extremely high on the political agenda, all the way up to the Prime Minister.
+
+**12:16** · It's something which is mainstreamed in each and every policy adopted and implemented by the country."
+
+**12:25** · Singapore is blazing a trail in tackling some of the world's biggest water challenges in the face of climate change.
+
+**12:30** · It's not just about money, but also about decision-making, policy and long-term planning.
+
+**12:35** · Some of the ingredients with which any region could make it from water rags to riches.
+
+#### The Hidden Reason Glaciers Are Melting Faster Than Expected  Ages of Ice
+
+**PBS**, *09 16, 2026*
+
+## Video (7:36)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/6qRszyLJdUI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Watch more of this series: https://to.pbs.org/3Vig7OG
+
+In the foothills of New Zealand's Mt Aoraki, Dr Ulyana Horodyskyj Peña collects snow samples in search of black carbon; dense particulate matter from human activity which darkens the snow and ice surfaces, leading to more absorbed solar energy and ultimately amplifying melt.
+
+This program is made possible by viewers like you. Support your local PBS station: https://www.pbs.org/donate
+
+Subscribe to the PBS channel for more clips:  https://www.youtube.com/@PBS
+
+Enjoy full episodes of your favorite PBS shows anytime, anywhere with the free PBS app: https://to.pbs.org/2QbtzhR
+
+FOLLOW US:
+
+Facebook: https://www.facebook.com/PBS/
+
+X: https://twitter.com/PBS/
+
+Instagram: https://www.instagram.com/PBS/
+
+TikTok: https://www.tiktok.com/@pbs
+
+Threads: https://www.threads.net/@pbs
+
+#newzealand #glacier #science 
+
+Ages of Ice
+
+A story of scientific daring and discovery, grit, and human endeavor, where unlocking the mysteries of our icy worlds is key to unlocking the forces that drive our planet. The three-part documentary series narrated by acclaimed Scottish actor David Tennant, is a high-stakes journey into the planet's frozen wilderness, revealing the extraordinary wildlife, breathtaking landscapes, and rapidly changing ecosystems of Earth's polar regions.
+
+## Transcript
+
+**0:00** · In the stage, we are in the orbit around our sun.
+
+**0:03** · We should actually be entering a phase of cooling, and it's not.
+
+**0:17** · Narrator: In the foothills of New Zealand's Mount Aoraki, Glaciologist Ulyana Horodskyj Pena has come to study the Tasman Glacier.
+
+**0:30** · Walking the valley floor, she traces where the ice once rested.
+
+**0:36** · Over the last half century, the Tasman Glacier has retreated 3.7 miles instead, with a global pattern of glacier decline.
+
+**0:47** · See just this incredible landscape.
+
+**0:50** · But you also see vulnerability.
+
+**0:52** · And for me, here in New Zealand, it's important to be creating baselines and contributing to this global database.
+
+**1:02** · Narrator: Temperature rise is driving glaciers into retreat.
+
+**1:07** · But Ulyana is searching for a hidden accomplice.
+
+**1:13** · We finally had a weather window open up here, so we're really excited to take off and get on to the ice here shortly.
+
+**1:36** · This is just unbelievable terrain.
+
+**1:38** · You can just really see the structure of the glacier.
+
+**1:41** · It's really steep peaks.
+
+**1:43** · Look at it, how vertical it is.
+
+**1:45** · Just right beside us here.
+
+**1:52** · Oftentimes the terrain is just going to look pristine and reflective and white.
+
+**1:57** · But then when you get down to the level, you know, actually like physically looking at that snow and sampling it, then that's when secrets start to reveal themselves.
+
+**2:13** · We'll call that a win.
+
+**2:14** · Good job, mate.
+
+**2:16** · Just looking out from where we landed.
+
+**2:18** · There's crevasses everywhere.
+
+**2:21** · You have to be super careful around here.
+
+**2:33** · Narrator: From this point forward.
+
+**2:35** · The team must tread carefully.
+
+**2:39** · The glacier is full of trapdoors.
+
+**2:43** · The trick is finding them before they find you.
+
+**2:50** · Were straight across the little crevasse here.
+
+**2:52** · Yeah.
+
+**3:03** · And a big one.
+
+**3:09** · All goes deep.
+
+**3:13** · I can't see the bottom.
+
+**3:19** · The snow and ice is incredibly important for regulating and maintaining that nice temperature range that we enjoy as a species surviving on this planet.
+
+**3:28** · Not just about snow being cold.
+
+**3:30** · It's also about how it reflects that solar radiation back into space.
+
+**3:34** · Right here.
+
+**3:35** · Yep.
+
+**3:52** · The Inuit have so many names for the snow forms, and scientists do as well right, so you have all sorts of different crystal sizes and shapes that all interact with that light differently.
+
+**4:04** · That translates into what kind of pencil melting can that cause?
+
+**4:11** · So this is definitely different from Antarctica.
+
+**4:14** · It's definitely much more metamorphosed meaning it's melting a lot more.
+
+**4:17** · It's not surprising seeing the condition of the glacier now.
+
+**4:20** · And they're much bigger grain sizes and all that's pretty bad for letting solar radiation go through the snowpack more and actually causing more melting.
+
+**4:31** · Narrator: Amongst the snowflakes, there are signs of something new.
+
+**4:35** · Black carbon, the residue of fossil fuels burned far beyond these mountains.
+
+**4:41** · Carried here on the wind.
+
+**4:45** · Black carbon is a really good absorber.
+
+**4:47** · And so when it's on a pristine snowpack, it's going to absorb more of that solar radiation and cause it to heat that snowpack, which is going to cause melting.
+
+**4:58** · Narrator: Even at just a few parts per billion.
+
+**5:01** · Black carbon can dim the snooze, natural brilliance tipping the balance toward warming.
+
+**5:09** · Once you start to add in this black carbon onto that snowpack and you start to drop that reflectivity just a few percentage, then you start to see the effects of that more solar radiation gets absorbed and reflected.
+
+**5:21** · That's going to cause the areas to warm up, cause more melting.
+
+**5:25** · You can almost think of this like a trigger.
+
+**5:28** · Okay, that'll do.
+
+**5:33** · Narrator: Even here in the remote mountains of New Zealand, the atmosphere carries the traces of an industrial world.
+
+**5:44** · Lifted high black carbon rides great rivers of air.
+
+**5:52** · Swept around the globe by jet streams for days, even weeks before falling back to Earth.
+
+**6:01** · It's impacting every corner of the planet.
+
+**6:06** · Even places that are completely remote and untouched by people.
+
+**6:12** · Narrator: As ice loss accelerates, every process that speeds it up matters.
+
+**6:19** · The main drivers of climate change are the carbon dioxide and other greenhouse gases increasing in the atmosphere, as well as the associated temperature rise.
+
+**6:28** · And never in geologic history have we seen such a rise on such a short amount of time.
+
+**6:34** · We've seen higher amounts of carbon dioxide, we've seen it lead to mass extinctions, but we're talking about thousands of years to adapt and change versus what we're doing now on the scale of just a few hundred years.
+
+**6:47** · And that's the difference.
+
+**6:49** · It's that rate of change.
+
+**6:54** · But then you have this component of black carbon that's becoming more and more of a driver of climate change as well.
+
+**7:02** · But there hasn't been a time where humans have lived where it's been ice free.
+
+**7:07** · That's the experiment.
+
+**7:08** · Is that even possible?
+
+#### Why the planet is drying out much faster than before, according to a new study
+
+**PBS NewsHour**, *09-21-2025*
+
+## Video (6:18)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/YD65HBUggg4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+According to a new study, the planet is drying at an unprecedented pace, presenting a critical threat to humanity. Researchers found that “continental drying is having profound global impacts” that “threaten water availability” across the globe. To learn more, Ali Rogin speaks with ProPublica climate investigations editor Abrahm Lustgarten for our series, Tipping Point.
+
+Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV news show.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+
+TikTok: https://www.tiktok.com/@pbsnews
+
+X (formerly Twitter): http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Facebook: http://www.pbs.org/newshour
+
+Subscribe:
+
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+
+Newsletters: https://www.pbs.org/newshour/subscribe
+
+## Transcript
+
+**0:02** · Ali: The planet is drying at an unprecedented pace, presenting a critical threat to humanity.
+
+**0:07** · That's according to a new study publish understand in the journal "Science advances."
+
+**0:12** · Researchers found that continental drying is having profound global impact that threaten water availability across the globe.
+
+**0:19** · For part of our tipping point coverage, I spoke recently with a climate investigations editor at pro publica, and began by asking him why so much of the Earth is drying out.
+
+**0:30** · It's a mixture of climate change and massive overuse of water resources by people that appears to be drying out a continent, according to a new study out of Arizona state university. And it basically found that rising temperatures are leading to less precipitation in certain places and faster evaporation from both the soil and rivers and surface waters. At the same time that overpumping of ground water aquifers is quickly depleting resources held in those underground reservoirs.
+
+**1:02** · Ali: Who's driving this problem?
+
+**1:03** · It's difficult to parse out the difference between climate change as an effect and the human overpumping of ground water, but those are the two factors. Of course, it's the I missions from the burning of fossil fuels that is driving the rising temperatures on the planet, and so that is really contributing to a water loss or a water reportioning across the globe.
+
+**1:25** · And the ground water pumping is driven by individual use, by farmers, by corporations, by cities around the world. It is becoming the fallback kind of bank account, if you will, of water resources that people in groups are turning to as their surface waters are diminished or as droughts deplete the waters for a shorter period of time. People are looking to those underground reservoirs and pumping more, pumping faster, exploring deeper.
+
+**1:51** · Ali: And the study uses nasa satellite images over the course of 20 years to track the evolution of land that's drying out.
+
+**1:59** · Can you walk us through mechanically how that works, how the satellite images were able to capture this change?
+
+**2:05** · It essentially measures changing mass in the spinning Earth, changes in the Earth's rotational orbit. So it can measure how much volume is in the poles and how much water is underground, and changes in that mass. And over the last 20 years, it's allowed researchers to be able to tell the difference between one type of changing mass and another.
+
+**2:28** · So now really for the first time these researchers are using that gray satellite data to get a sense of the Earth's total water supply and then to distinguish between how much of the loss of that water supply is for melting glaciers from climate change, for example, and how much is from something like ground water depletion.
+
+**2:46** · Ali: What are we talking about here in terms of total water loss, and also, how has this accelerated over the past 20 years?
+
+**2:54** · Researchers caution they don't know where the bottom is, so to speak. So we don't have a measure of how much fresh water there is to work with. What we do know is that the accounts that we're working with are quickly being withdrawn. So we can see the rate of drying that they measured has quickly accelerated, just over the last 10 years or so, since 2014. They've been measuring for 23 years.
+
+**3:19** · They've seen that rapid depletion from the very beginning. But it has intensified and accelerated just in the last 10 or 12 years. So that's particularly alarming. It's something that led them to write in the paper that this issue is a critical and emerging threat to humanity.
+
+**3:35** · Ali: What do we know about where this is effecting the globe?
+
+**3:40** · Is it happening more in certain parts of the globe, or is it pretty evenly distributed?
+
+**3:44** · The study found that drying places are getting dryer faster than wedding places are getting wetter, and it found those drying regions are much, much larger than the places that are getting increasingly welt. And those drying regions are spread across every continent. There's substantial drying regions, which researchers now describe as mega regions that constitute much of the southern United States and into Mexico and Central America.
+
+**4:10** · There's a mega drying region that they identified that covered pretty much the whole of Europe and into the Middle East and includes parts of north Africa and again a large swat of south Asia is also part of these mega drying regions. And what those mega regions constitute is the merging of places that already were known to be losing water or suffering from drought, but they used to be finite or distinct places.
+
+**4:34** · We used to think, for example, of the southwestern united States as being particularly dry, which it is, and suffering from climate change, which it is. But until recently, we didn't understand that that drying region was spreading across the whole southern part of the country and is extending down into Mexico and into central America, and that it's becoming one large drought plagued or drying out region.
+
+**4:58** · Ali: How much are we able to connect this phenomenon we're seeing around the world with the impact on the inhabitants who live in these parts of the world?
+
+**5:06** · Are we seeing this play out in real-world implications right now?
+
+**5:11** · Yeah, absolutely.
+
+**5:13** · The water loss that this research identified is mainly occurring in mid latitude regions, which is where most of the population of the planet resides, and the researchers identified water net loss in 101 countries, and those 101 countries happen to be home to about 75% of the planet's population. So about six billion people live in the regions that are on balance losing access to fresh water. Ali: The thank you so much.
+
+**5:45** · Thank you.

@@ -1,6 +1,6 @@
 ---
 title: "Endocrine Disrupting Chemicals"
-date: "2026-08-29"
+date: "2026-10-22T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,154 @@ listing:
   contents: "Endocrine Disrupting Chemicals_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-10-22T16:00:00
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### Forever Chemicals - Hidden Dangers in Everyday Beauty
+
+# Forever Chemicals: Hidden Dangers in Everyday Beauty
+
+![Forever Chemicals: Hidden Dangers in Everyday Beauty](https://i.scdn.co/image/ab67656300005f1fad97754837109e40126bc6ab)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Humans in Public Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/31bRWez4FgvAisOjeroPkq)
+
+[Open Series in Spotify](https://open.spotify.com/show/4nQ5bwglf9vygvW1nHf5GC)
+
+They’re not just in your nail polish. Per- and polyfluoroalkyl chemicals are everywhere—in our homes, clothing, the personal care products we use, and in our bodies. Postdoctoral researcher Amber Hall explains the dangers PFAS pose, especially to developing humans, and helps us learn how to avoid them. The burden of protecting our children’s health from toxic chemicals, she argues in the latest episode of Humans in Public Health, shouldn’t be borne by individuals. Regulation, Hall says, is needed to push through product-level change and protect the public’s health.Sound Effects in this episode from Freesound.org, courtesy of: TRPAtks_IngeosDeVernMentioned in this episode:Tell someone you know!And one last thing! If you enjoyed today’s episode, text a friend and let them know about the show.
+
+:::
+
+#### Is clean beauty for real?
+
+![Is clean beauty for real?](https://i.scdn.co/image/ab67656300005f1feba0adb27f240ef4ffb04e20)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2022
+
+**Series:** Better Off
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/00K6FuT1i5FIhiT2F1yYKe)
+
+[Open Series in Spotify](https://open.spotify.com/show/2TDswhCVfRb4CNBlGEMVfM)
+
+Guests:  Shruthi Mahalingaiah, assistant professor of environmental reproductive and women's health, Harvard T.H. Chan School of Public HealthTamarra James-Todd, Mark and Catherine Winkler associate professor of environmental reproductive epidemiology, Harvard T.H. Chan School of Public HealthVisit our website to learn more about our guests, and to find a full transcript.Credits:Host/producer: Anna Fisher-PinkertThe Better Off team: Kristen Dweck, Elizabeth Gunner, Stephanie Simon, and Ben WallaceAudio engineering and sound design: Kevin O'ConnellAdditional research: Kate Becker
+
+:::
+
+#### Marissa Chan on dangerous hair care products in Boston stores
+
+![Marissa Chan on dangerous hair care products in Boston stores](https://i.scdn.co/image/ab67656300005f1f05a40fb85fe370f868e5a2aa)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Agents of Change in Environmental Justice
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4IumQTmTpiQoMsvvUJqEV8)
+
+[Open Series in Spotify](https://open.spotify.com/show/02FSVREuD6kDaKHsk82E9U)
+
+Marissa Chan joins the Agents of Change in Environmental Justice podcast to discuss her latest research on beauty injustice and toxics lurking on shelves in Boston stores.
+
+:::
+
+#### The Canal (Love Canal)
+
+# S1 Ep4: The Canal (Love Canal)
+
+![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2018
+
+**Series:** Swindled
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3K6AvsboR3d0TeGFlr7r6U)
+
+[Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
+
+Once envisioned as a model community, the neighborhood of Love Canal in Niagara Falls, New York, became the victim of a massive, man-made environmental disaster. Prelude: James Denney, a Missouri farmer, makes a deal for a local chemical company to bury its waste on his property.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  Thanks for listening. :-)
+
+:::
+
+#### The Weed Killer
+
+![The Weed Killer](https://i.scdn.co/image/ab67656300005f1f393bf10c73cdd1f7ce4106e2)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** The Poison Detectives
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0nmuxli2tXjqdFL38r3vaa)
+
+[Open Series in Spotify](https://open.spotify.com/show/1mz3wHvjlOgkE4gXxVDeA3)
+
+For more than thirty years, scientists, regulators, and one of the world’s most powerful chemical companies have been locked in a battle over the active ingredient in Roundup -- a chemical called glyphosate.A battle fought over the soil itself -- and over what we believe keeps us safe.Episode eight tells that story. Hosted on Acast. See acast.com/privacy for more information.
+
+:::
+
+#### What Worsening Floods Mean For Superfund Sites
+
+![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/529FSErk9SjroIvEiJ0NVA)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Superfund sites are some of the most polluted areas in the country, containing highly toxic waste such as asbestos, lead, and dioxin. Cleaning them up, which follows a systematic, science-based process as required by law, can take decades.There are more than 1,300 of these sites across the US, from Florida’s Panhandle to the banks of the Rio Grande in New Mexico. They’re found in nearly every state, often near residential areas. The EPA estimates that 78 million people live within three miles of a Superfund site—nearly 1 in 4 Americans.But these waste dumps face a growing threat: the worsening effects of climate change. The EPA has determined that more than 300 Superfund sites are at risk of flooding. The actual number of flood-prone sites, however, may be more than twice that amount, according to a 2021 Government Accountability Office report. Floodwaters can move toxic waste into neighboring communities, which threatens drinking water, agriculture, and broader ecosystem health.Read more at sciencefriday.comTranscripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### What's a brownfield remediation project?
+
+![What's a brownfield remediation project?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2009
+
+**Series:** Stuff You Should Know
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3AA73Bm4G6graH6hwcLam6)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx)
+
+The EPA defines a brownfield as land that is abandoned because redevelopment is complicated by possible environmental contamination. Tune in as Chuck and Josh examine the process of redeveloping a brownfield in this podcast from HowStuffWorks.com.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
+
+:::

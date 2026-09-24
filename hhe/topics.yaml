@@ -34,6 +34,30 @@
   class_end: "ENVN4320_W12D1"
   date_end: "2026-11-10T16:00:00"
   week_end: 12
+  background_possible:
+    - "Are Plant- and Fungus-Based Meats Really Better than the Real Thing?"
+    - "Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture"
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+    - "Exposing the Monsanto Conspiracy"
+    - "Good Shit - How Humanure Could Save Agriculture—and the Planet"
+    - "Growing a Healthier Climate"
+    - "How Can Iowa’s Agriculture Adapt To Climate Threats?"
+    - "Monsanto or MonSatan? How—and Why—a St_ Louis Startup Became a Hated Herbicide Giant"
+    - "Should I Give Up Beef?"
+    - "Sugar's Dark Shadow"
+    - "The EPA's Approval of Two New Pesticides"
+    - "The Ghost Town (Times Beach, Missouri)"
+    - "The Most Interesting Oil in the World"
+    - "The Weed Killer"
+    - "What we'll eat on a warmer planet"
+    - "Where's the Beef? Lab-Grown Meat is Finally on the Menu"
+    - "Which is better for you \"Real\" meat or \"fake\" meat?"
+  films_possible:
+    []
+  videos_possible:
+    - "Drowning in seaweed How to stop invasive Sargassum"
+    - "How Do You Share a Shrinking River Fairly"
+    - "Mexico’s Caribbean beaches overwhelmed by record sargassum influx I Inside Latin America"
 - title: "Air Pollution"
   unit: "Toxins"
   chapter: 4
@@ -70,6 +94,31 @@
   class_end: "ENVN4320_W7D2"
   date_end: "2026-10-08T16:00:00"
   week_end: 7
+  background_possible:
+    - "A call for redesigning American streets"
+    - "Allergy Reason"
+    - "Are extreme wildfires the new normal?"
+    - "Carlos Gould on wildfire smoke and our health"
+    - "Could air pollution make your memory worse?"
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+    - "Gas Stoves Are Worsening Breathing Issues, According to Canceled Study"
+    - "How Congestion Pricing Can Impact Human Health"
+    - "How Wildfire Smoke Affects Metabolism"
+    - "Is setting your trash on fire a good idea?"
+    - "Smog Cloud Silver Lining"
+    - "The Great Smog of London - “Thick, drab, yellow, disgusting”"
+    - "This Is Canada's Worst Fire Season In Modern History - It's Not New"
+    - "Up in Smoke"
+  films_possible:
+    []
+  videos_possible:
+    - "How Are Wildfires Making Us Sick?"
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "Superblocks How Barcelona is taking city streets back from cars"
+    - "The health risks of wildfire smoke across the Midwest and Mid-Atlantic"
+    - "The Hidden Reason Glaciers Are Melting Faster Than Expected  Ages of Ice"
+    - "There’s Something Living in Wildfire Smoke"
+    - "Why cities should plant more trees"
 - title: "Biotoxins & Microbes"
   unit: "Toxins"
   chapter: 4
@@ -106,6 +155,22 @@
   class_end: "ENVN4320_W12D1"
   date_end: "2026-11-10T16:00:00"
   week_end: 12
+  background_possible:
+    - "10 Years After Flint, The Fight To Replace Lead Pipes Continues"
+    - "Abel Wolman, \"Friend of the Thirsty\" - A Life and Legacy of Water Sanitization"
+    - "All About Legionnaires' Disease"
+    - "Are Humans Hot Enough to Survive a Fungal Apocalypse?"
+    - "Black Gold - The Future of Food We Throw Away"
+    - "Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture"
+    - "Cyclospora - Explosive Diarrhea Everywhere"
+    - "Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby"
+    - "Up in Smoke"
+  films_possible:
+    []
+  videos_possible:
+    - "Drowning in seaweed How to stop invasive Sargassum"
+    - "Mexico’s Caribbean beaches overwhelmed by record sargassum influx I Inside Latin America"
+    - "There’s Something Living in Wildfire Smoke"
 - title: "Cattle"
   skip: true
   unit: "Food"
@@ -141,6 +206,17 @@
   class_end: null
   date_end: null
   week_end: null
+  background_possible:
+    - "Are Plant- and Fungus-Based Meats Really Better than the Real Thing?"
+    - "Is alternative meat the recipe for a healthier planet?"
+    - "Parasitic Bugs Are Making Combacks Across The Country"
+    - "Should I Give Up Beef?"
+    - "Where's the Beef? Lab-Grown Meat is Finally on the Menu"
+    - "Which is better for you \"Real\" meat or \"fake\" meat?"
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Climate Change & Extreme Weather"
   unit: "Disasters"
   chapter: 2
@@ -179,6 +255,75 @@
   class_end: "ENVN4320_W3D1"
   date_end: "2026-09-08T16:00:00"
   week_end: 3
+  background_possible:
+    - "A call for redesigning American streets"
+    - "A Storm is Brewing - Is it Climate Change?"
+    - "An Expert Vegetable Breeder On Innovating Crops For The Future"
+    - "Are extreme wildfires the new normal?"
+    - "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
+    - "Black Gold - The Future of Food We Throw Away"
+    - "Catching Fire"
+    - "Climate - Fighting Extreme Heat In 2026"
+    - "Climate Change and Extreme Heat End of Summer Episode with Dr Kelly Turner and Dr Ladd Keith"
+    - "Designing for climate change"
+    - "Does It Feel Like Mosquitoes Are Getting Worse?"
+    - "Fire And Ice - Linking Intense Wildfire And The Melting Arctic"
+    - "Fire Ecology (WILDFIRES & INDIGENOUS FIRE MANAGEMENT) Mega Encore with Gavin Jones & Amy Christianson"
+    - "Flash floods on Nepal-Tibet border"
+    - "From Hot Take - Yes, We Still Need to Talk About Climate"
+    - "Growing a Healthier Climate"
+    - "Heat is a 'silent killer'"
+    - "How Can Iowa’s Agriculture Adapt To Climate Threats?"
+    - "How The Current Heat Dome Can Affect Human Health"
+    - "Is alternative meat the recipe for a healthier planet?"
+    - "Is Geoengineering A Good Idea?"
+    - "Is it getting windier?"
+    - "Living on the Frontlines of War and Climate Crisis - Abeer Butmeh in Palestine"
+    - "Oropouche Virus - More than a smidge worrisome"
+    - "Should I Give Up Beef?"
+    - "Smog Cloud Silver Lining"
+    - "Sudden Flood in Tibet"
+    - "The History And Legacy Of Hurricane Helene"
+    - "This Is Canada's Worst Fire Season In Modern History - It's Not New"
+    - "Ticks are a growing problem, no matter where you live"
+    - "We’re better off when we stop pandemics before they start"
+    - "What Ever Happened to the Ozone Hole?"
+    - "What we lose if the Great Salt Lake dries up"
+    - "What we'll eat on a warmer planet"
+    - "What Worsening Floods Mean For Superfund Sites"
+    - "Why are scientists planting tiny forests in big cities?"
+    - "Why Heat Waves Become Deadly"
+  films_possible:
+    - "A New Inferno"
+    - "Fire in Paradise"
+    - "Inside the LA Firestorm"
+    - "Waking Up to Wildfires"
+    - "We Gonna Ride It Out Like We Always Do"
+  videos_possible:
+    - "A visual tour of the world's CO2 emissions"
+    - "Climate Change Resilience Cooling an Urban Heat Island"
+    - "Drowning in seaweed How to stop invasive Sargassum"
+    - "Extreme Heat Is the New Normal"
+    - "Heat Wave Cooling Our Cities Without Air Conditioning"
+    - "Heatwave What is the urban heat island effect"
+    - "How America's hottest city is trying to cool down"
+    - "How Are Wildfires Making Us Sick?"
+    - "How China is designing flood-resistant cities"
+    - "How Do You Share a Shrinking River Fairly"
+    - "How Singapore solved its looming water crisis"
+    - "How Singapore Uses Science to Stay Cool"
+    - "How Urban Heat Impacts Communities of Color"
+    - "How urban heat islands make the impacts of excessive heat worse"
+    - "NASA  Urban Heat Islands"
+    - "The health risks of wildfire smoke across the Midwest and Mid-Atlantic"
+    - "The Hidden Reason Glaciers Are Melting Faster Than Expected  Ages of Ice"
+    - "The Most Dangerous Wildfires All Have ONE THING in Common"
+    - "Urbanization and the future of cities - Vance Kite"
+    - "What Does Extreme Heat Do to the Body?"
+    - "When Will Extreme Heat Become Unlivable"
+    - "Why cities should plant more trees"
+    - "Why It’s Usually Hotter In A City  Let's Talk  NPR"
+    - "Why the planet is drying out much faster than before, according to a new study"
 - title: "Crops"
   skip: true
   unit: "Food"
@@ -214,6 +359,26 @@
   class_end: null
   date_end: null
   week_end: null
+  background_possible:
+    - "An Expert Vegetable Breeder On Innovating Crops For The Future"
+    - "Are Plant- and Fungus-Based Meats Really Better than the Real Thing?"
+    - "Black Gold - The Future of Food We Throw Away"
+    - "Cyclospora - Explosive Diarrhea Everywhere"
+    - "Exposing the Monsanto Conspiracy"
+    - "Good Shit - How Humanure Could Save Agriculture—and the Planet"
+    - "Growing a Healthier Climate"
+    - "How Can Iowa’s Agriculture Adapt To Climate Threats?"
+    - "Inside The Race To Save Honeybees From Parasitic Mites"
+    - "Monsanto or MonSatan? How—and Why—a St_ Louis Startup Became a Hated Herbicide Giant"
+    - "More food and money, less disease_ Senegal's surprising eco-experiment"
+    - "Sugar's Dark Shadow"
+    - "The Most Interesting Oil in the World"
+    - "What we'll eat on a warmer planet"
+    - "Why Does Everyone Have Food Allergies These Days?"
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Drought"
   unit: "Disasters"
   chapter: 2
@@ -241,16 +406,25 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-17T16:00:00"
-  class_days:
-    - "ENVN4320_W4D2"
+    []
+  class_days: null
   course_name: "Human Health & the Environment"
-  class_start: "ENVN4320_W4D2"
-  date_start: "2026-09-17T16:00:00"
-  week_start: 4
-  class_end: "ENVN4320_W4D2"
-  date_end: "2026-09-17T16:00:00"
-  week_end: 4
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
+  background_possible:
+    - "What we lose if the Great Salt Lake dries up"
+  films_possible:
+    []
+  videos_possible:
+    - "How Do You Share a Shrinking River Fairly"
+    - "How Singapore solved its looming water crisis"
+    - "The Hidden Reason Glaciers Are Melting Faster Than Expected  Ages of Ice"
+    - "Why the planet is drying out much faster than before, according to a new study"
+  skip: true
 - title: "Endocrine Disrupting Chemicals"
   unit: "Toxins"
   chapter: 4
@@ -287,6 +461,18 @@
   class_end: "ENVN4320_W9D2"
   date_end: "2026-10-22T16:00:00"
   week_end: 9
+  background_possible:
+    - "Forever Chemicals - Hidden Dangers in Everyday Beauty"
+    - "Is clean beauty for real?"
+    - "Marissa Chan on dangerous hair care products in Boston stores"
+    - "The Canal (Love Canal)"
+    - "The Weed Killer"
+    - "What Worsening Floods Mean For Superfund Sites"
+    - "What's a brownfield remediation project?"
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Environmental Justice"
   keywords:
     - "redlining"
@@ -327,6 +513,76 @@
   class_end: "ENVN4320_W2D2"
   date_end: "2026-09-03T16:00:00"
   week_end: 2
+  background_possible:
+    - "10 Years After Flint, The Fight To Replace Lead Pipes Continues"
+    - "A Brief History of How PFAS Poisoned the World"
+    - "Antediluvian"
+    - "Ashley James on protecting children from environmental exposures"
+    - "Can we end chronic homelessness?"
+    - "Climate Change and Extreme Heat End of Summer Episode with Dr Kelly Turner and Dr Ladd Keith"
+    - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
+    - "Daniel Stone & American Poison"
+    - "Diana Hernández on housing and health"
+    - "Environmental Racism 101 Environmental Justice is Racial Justice"
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+    - "Exposing the Monsanto Conspiracy"
+    - "Fire Ecology (WILDFIRES & INDIGENOUS FIRE MANAGEMENT) Mega Encore with Gavin Jones & Amy Christianson"
+    - "From Hot Take - Yes, We Still Need to Talk About Climate"
+    - "From Redlining to Inclusive Planning"
+    - "Hawaiʻi Wildfire Survivors Join Health Study - Wind Turbine Blade Sinks Off Massachusetts Coast"
+    - "How America Traded Its Walkable Cities for Parking Lots"
+    - "How Do Urban Landscapes Shape Our Health?"
+    - "How Housing Discrimination Works"
+    - "How One Company Secretly Poisoned The Planet"
+    - "How to build an equitable and just climate future"
+    - "Hurricane Katrina"
+    - "Is setting your trash on fire a good idea?"
+    - "Kevin Patterson on Indigenous communities’ heavy metal exposure"
+    - "Living on the Frontlines of War and Climate Crisis - Abeer Butmeh in Palestine"
+    - "Marissa Chan on dangerous hair care products in Boston stores"
+    - "Monsanto or MonSatan? How—and Why—a St_ Louis Startup Became a Hated Herbicide Giant"
+    - "Nsilo Berry on making buildings healthier"
+    - "Right-Sizing Traffic Enforcement for Safer Roadways"
+    - "Sabah Usmani on making cities healthy and just"
+    - "Some Chemicals are Forever"
+    - "Sugar's Dark Shadow"
+    - "The Canal (Love Canal)"
+    - "The Ghost Town (Times Beach, Missouri)"
+    - "The History And Legacy Of Hurricane Helene"
+    - "The Most Interesting Oil in the World"
+    - "The Weed Killer"
+    - "We're better off with health equity"
+    - "What we lose if the Great Salt Lake dries up"
+    - "What Worsening Floods Mean For Superfund Sites"
+  films_possible:
+    - "A New Inferno"
+    - "Contaminated - The Carpet Industry's Toxic Legacy"
+    - "Inside the LA Firestorm"
+    - "Waking Up to Wildfires"
+    - "We Gonna Ride It Out Like We Always Do"
+  videos_possible:
+    - "A history of redlining in Omaha"
+    - "America Made Its Most Toxic Lake. Now We Need What's Inside"
+    - "Climate Change Resilience Cooling an Urban Heat Island"
+    - "Extreme Heat Is the New Normal"
+    - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+    - "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
+    - "How America's hottest city is trying to cool down"
+    - "How Do You Share a Shrinking River Fairly"
+    - "How redlining prevented Black and Brown families from becoming home owners"
+    - "How Singapore solved its looming water crisis"
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "How the U.S. Government Segregated Chicago  Inside Chicago, Part 1"
+    - "How to Fix New York City’s $500M Trash Problem  WSJ Pro Perfected"
+    - "How Urban Heat Impacts Communities of Color"
+    - "How urban heat islands make the impacts of excessive heat worse"
+    - "Mexico’s Caribbean beaches overwhelmed by record sargassum influx I Inside Latin America"
+    - "North Omaha Legacies & More"
+    - "Omaha Explained Redlining"
+    - "Redlining and the Hidden History of White-Only Suburbs"
+    - "Superblocks How Barcelona is taking city streets back from cars"
+    - "Why decades-old, toxic PFAS foam is still contaminating northern Michigan waterways"
+    - "Why It’s Usually Hotter In A City  Let's Talk  NPR"
 - title: "Epidemics & Pandemics"
   keywords: null
   unit: "Pathogens"
@@ -368,6 +624,42 @@
   class_end: "ENVN4320_W16D1"
   date_end: "2026-12-08T16:00:00"
   week_end: 16
+  background_possible:
+    - "Adam Kucharski & Proof"
+    - "An Early Start to West Nile Virus Season?"
+    - "An Ebola Outbreak in Central Africa"
+    - "Animal Diseases and Human Health - The Sloth and Screwworm Episode"
+    - "Bird Flu - The Next Pandemic?"
+    - "Carl Zimmer & Airborne"
+    - "Clean Energy Transition Progress - Avian Flu In Cattle And Humans Has Scientists Concerned"
+    - "CRISPR Mosquitoes"
+    - "Cyclospora - Explosive Diarrhea Everywhere"
+    - "Eating the Wild - Bushmeat, Game, and the Fuzzy Line Between Them"
+    - "Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby"
+    - "Epidemiology (DISEASES) with 'This Podcast Will Kill You's' Erins Welsh & Allmann-Updyke"
+    - "Hantavirus - The Real Rat Race"
+    - "Health - Searching For The Source Of Cyclospora"
+    - "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?"
+    - "How Do You Kill a Mosquito?"
+    - "Hurricane Katrina"
+    - "John Green & Everything Is Tuberculosis"
+    - "Oropouche Virus - More than a smidge worrisome"
+    - "Patient Zero"
+    - "Preventing Future Pandemics"
+    - "Rift Valley Fever - Ruminating on ruminants"
+    - "Should we reengineer the world's deadliest animal?"
+    - "The Latest On Bird Flu"
+    - "The Race for a Bundibugyo Ebolavirus Vaccine"
+    - "We’re better off when we stop pandemics before they start"
+    - "We're better off with mRNA vaccines"
+    - "What's Next for a New Lyme Vaccine"
+    - "Where Will The Next Pandemic Come From?"
+    - "Why Pandemic Researchers Are Talking About Raccoon Dogs"
+    - "Why We Should Care About Viruses Jumping From Animals To People"
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Epidemiology"
   unit: "Introduction"
   chapter: 1
@@ -405,6 +697,31 @@
   class_end: "ENVN4320_W2D1"
   date_end: "2026-09-01T16:00:00"
   week_end: 2
+  background_possible:
+    - "A new approach to fighting malaria"
+    - "A New Test for Lyme Disease, Developed by High Schoolers"
+    - "Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei"
+    - "Adam Kucharski & Proof"
+    - "Climate - Fighting Extreme Heat In 2026"
+    - "Daniel Stone & American Poison"
+    - "Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei"
+    - "Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby"
+    - "Epidemiology (DISEASES) with 'This Podcast Will Kill You's' Erins Welsh & Allmann-Updyke"
+    - "Hantavirus - the risks, the science and what you need to know"
+    - "How Do Urban Landscapes Shape Our Health?"
+    - "How PFAS From A Military Base Has Sickened Nearby Residents"
+    - "Messy Data, Real Answers"
+    - "Our tick nightmare"
+    - "Patient Zero"
+    - "Rift Valley Fever - Ruminating on ruminants"
+    - "The Great Smog of London - “Thick, drab, yellow, disgusting”"
+    - "Ticks are a growing problem, no matter where you live"
+    - "We're better off with health equity"
+    - "Why Does Everyone Have Food Allergies These Days?"
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Exam 1 ENVN4320"
   unit: "Exams ENVN4320"
   chapter: 4
@@ -441,6 +758,12 @@
   class_end: "ENVN4320_W8D2"
   date_end: "2026-10-15T16:00:00"
   week_end: 8
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Fall Break"
   unit: "Breaks ENVN4320"
   chapter: 4
@@ -477,6 +800,12 @@
   class_end: "ENVN4320_W9D1"
   date_end: "2026-10-20T16:00:00"
   week_end: 9
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Final Exam"
   unit: "Exams ENVN4320"
   chapter: 8
@@ -512,6 +841,12 @@
   class_end: "ENVN4320_W17D1"
   date_end: "2026-12-15T17:00:00"
   week_end: 17
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Fires"
   keywords:
     - "climate"
@@ -545,15 +880,36 @@
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
     - "2026-09-17T16:00:00"
+    - "2026-09-22T16:00:00"
   class_days:
     - "ENVN4320_W4D2"
+    - "ENVN4320_W5D1"
   course_name: "Human Health & the Environment"
   class_start: "ENVN4320_W4D2"
   date_start: "2026-09-17T16:00:00"
   week_start: 4
-  class_end: "ENVN4320_W4D2"
-  date_end: "2026-09-17T16:00:00"
-  week_end: 4
+  class_end: "ENVN4320_W5D1"
+  date_end: "2026-09-22T16:00:00"
+  week_end: 5
+  background_possible:
+    - "Are extreme wildfires the new normal?"
+    - "Carlos Gould on wildfire smoke and our health"
+    - "Catching Fire"
+    - "Fire And Ice - Linking Intense Wildfire And The Melting Arctic"
+    - "Fire Ecology (WILDFIRES & INDIGENOUS FIRE MANAGEMENT) Mega Encore with Gavin Jones & Amy Christianson"
+    - "Hawaiʻi Wildfire Survivors Join Health Study - Wind Turbine Blade Sinks Off Massachusetts Coast"
+    - "How Wildfire Smoke Affects Metabolism"
+    - "This Is Canada's Worst Fire Season In Modern History - It's Not New"
+    - "Up in Smoke"
+  films_possible:
+    - "Fire in Paradise"
+    - "Inside the LA Firestorm"
+    - "Waking Up to Wildfires"
+  videos_possible:
+    - "How Are Wildfires Making Us Sick?"
+    - "The health risks of wildfire smoke across the Midwest and Mid-Atlantic"
+    - "The Most Dangerous Wildfires All Have ONE THING in Common"
+    - "There’s Something Living in Wildfire Smoke"
 - title: "Floods"
   keywords:
     - "climate"
@@ -600,6 +956,20 @@
   class_end: "ENVN4320_W4D1"
   date_end: "2026-09-15T16:00:00"
   week_end: 4
+  background_possible:
+    - "Antediluvian"
+    - "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
+    - "Flash floods on Nepal-Tibet border"
+    - "Hurricane Katrina"
+    - "Nearly 400 Killed in Nepal Flooding, 1,300+ Missing"
+    - "Sudden Flood in Tibet"
+    - "The Ghost Town (Times Beach, Missouri)"
+    - "The History And Legacy Of Hurricane Helene"
+    - "What Worsening Floods Mean For Superfund Sites"
+  films_possible:
+    - "We Gonna Ride It Out Like We Always Do"
+  videos_possible:
+    - "How China is designing flood-resistant cities"
 - title: "Healthy Housing"
   keywords: null
   unit: "Infrastructure"
@@ -629,20 +999,46 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-29T16:00:00"
     - "2026-10-01T16:00:00"
     - "2026-10-06T16:00:00"
   class_days:
-    - "ENVN4320_W6D1"
     - "ENVN4320_W6D2"
     - "ENVN4320_W7D1"
   course_name: "Human Health & the Environment"
-  class_start: "ENVN4320_W6D1"
-  date_start: "2026-09-29T16:00:00"
+  class_start: "ENVN4320_W6D2"
+  date_start: "2026-10-01T16:00:00"
   week_start: 6
   class_end: "ENVN4320_W7D1"
   date_end: "2026-10-06T16:00:00"
   week_end: 7
+  background_possible:
+    - "A call for redesigning American streets"
+    - "A More Walkable World_ Ideas to get us moving"
+    - "Are Rats Running This Podcast?"
+    - "Ashley James on protecting children from environmental exposures"
+    - "Can we end chronic homelessness?"
+    - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
+    - "Designing for climate change"
+    - "Diana Hernández on housing and health"
+    - "How America Traded Its Walkable Cities for Parking Lots"
+    - "How Congestion Pricing Can Impact Human Health"
+    - "How Do Urban Landscapes Shape Our Health?"
+    - "How to build an equitable and just climate future"
+    - "LED Lights Make You Sick? We Found Out What Causes It"
+    - "Nsilo Berry on making buildings healthier"
+    - "Right-Sizing Traffic Enforcement for Safer Roadways"
+    - "Sabah Usmani on making cities healthy and just"
+    - "What can design do for public health?"
+    - "Why are scientists planting tiny forests in big cities?"
+  films_possible:
+    []
+  videos_possible:
+    - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+    - "How Green Roofs Can Help Cities  NPR"
+    - "How to Fix New York City’s $500M Trash Problem  WSJ Pro Perfected"
+    - "North Omaha Legacies & More"
+    - "Superblocks How Barcelona is taking city streets back from cars"
+    - "Trash containers making a difference in NYC's war on rats"
 - title: "Heat Islands"
   unit: "Infrastructure"
   chapter: 3
@@ -660,7 +1056,6 @@
     - "Heat_Islands-Infrastructure_&_Health"
   videos:
     - "What Does Extreme Heat Do to the Body?"
-    - "Extreme Heat Is the New Normal"
     - "How Urban Heat Impacts Communities of Color"
     - "Heatwave What is the urban heat island effect"
   area: "teaching"
@@ -684,6 +1079,34 @@
   week_end: 5
   lecture_archive:
     - "ENVN4320F24_9-10"
+  background_possible:
+    - "A call for redesigning American streets"
+    - "Climate - Fighting Extreme Heat In 2026"
+    - "Climate Change and Extreme Heat End of Summer Episode with Dr Kelly Turner and Dr Ladd Keith"
+    - "Heat is a 'silent killer'"
+    - "How The Current Heat Dome Can Affect Human Health"
+    - "Why are scientists planting tiny forests in big cities?"
+    - "Why Heat Waves Become Deadly"
+  films_possible:
+    - "A New Inferno"
+  videos_possible:
+    - "Climate Change Resilience Cooling an Urban Heat Island"
+    - "Extreme Heat Is the New Normal"
+    - "Heat Wave Cooling Our Cities Without Air Conditioning"
+    - "Heatwave What is the urban heat island effect"
+    - "How America's hottest city is trying to cool down"
+    - "How Green Roofs Can Help Cities  NPR"
+    - "How Singapore Uses Science to Stay Cool"
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "How Urban Heat Impacts Communities of Color"
+    - "How urban heat islands make the impacts of excessive heat worse"
+    - "NASA  Urban Heat Islands"
+    - "What Does Extreme Heat Do to the Body?"
+    - "When Will Extreme Heat Become Unlivable"
+    - "Why cities should plant more trees"
+    - "Why It’s Usually Hotter In A City  Let's Talk  NPR"
+  films:
+    - "A New Inferno"
 - title: "Heavy Metals"
   unit: "Toxins"
   chapter: 4
@@ -722,6 +1145,22 @@
   class_end: "ENVN4320_W11D2"
   date_end: "2026-11-05T16:00:00"
   week_end: 11
+  background_possible:
+    - "10 Years After Flint, The Fight To Replace Lead Pipes Continues"
+    - "Daniel Stone & American Poison"
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+    - "Growing a Healthier Climate"
+    - "Kevin Patterson on Indigenous communities’ heavy metal exposure"
+    - "Lead Poisoning - Heavy Metal Episode"
+    - "The Canal (Love Canal)"
+    - "The Ghost Town (Times Beach, Missouri)"
+    - "What Makes Lead So Poisonous?"
+    - "What Worsening Floods Mean For Superfund Sites"
+    - "What's a brownfield remediation project?"
+  films_possible:
+    - "Contaminated - The Carpet Industry's Toxic Legacy"
+  videos_possible:
+    - "America Made Its Most Toxic Lake. Now We Need What's Inside"
 - title: "One Health"
   unit: "Introduction"
   chapter: 1
@@ -758,6 +1197,67 @@
   class_end: "ENVN4320_W2D2"
   date_end: "2026-09-03T16:00:00"
   week_end: 2
+  background_possible:
+    - "A Brief History of How PFAS Poisoned the World"
+    - "A new approach to fighting malaria"
+    - "A New Test for Lyme Disease, Developed by High Schoolers"
+    - "Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei"
+    - "An Early Start to West Nile Virus Season?"
+    - "An Ebola Outbreak in Central Africa"
+    - "Animal Diseases and Human Health - The Sloth and Screwworm Episode"
+    - "Can we end chronic homelessness?"
+    - "Clean Energy Transition Progress - Avian Flu In Cattle And Humans Has Scientists Concerned"
+    - "Climate - Fighting Extreme Heat In 2026"
+    - "CRISPR Mosquitoes"
+    - "Cyclospora - Explosive Diarrhea Everywhere"
+    - "Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei"
+    - "Does It Feel Like Mosquitoes Are Getting Worse?"
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+    - "Epidemiology (DISEASES) with 'This Podcast Will Kill You's' Erins Welsh & Allmann-Updyke"
+    - "From Hot Take - Yes, We Still Need to Talk About Climate"
+    - "Hantavirus - The Real Rat Race"
+    - "Hantavirus - the risks, the science and what you need to know"
+    - "Health - Searching For The Source Of Cyclospora"
+    - "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?"
+    - "How Do You Kill a Mosquito?"
+    - "How One Company Secretly Poisoned The Planet"
+    - "How PFAS From A Military Base Has Sickened Nearby Residents"
+    - "Inside The Race To Save Honeybees From Parasitic Mites"
+    - "John Green & Everything Is Tuberculosis"
+    - "Kevin Patterson on Indigenous communities’ heavy metal exposure"
+    - "Land use and zoonoses, California's earthquake risk and the Tuatara genome"
+    - "More food and money, less disease_ Senegal's surprising eco-experiment"
+    - "Nsilo Berry on making buildings healthier"
+    - "Oropouche Virus - More than a smidge worrisome"
+    - "Our tick nightmare"
+    - "Patient Zero"
+    - "Preventing Future Pandemics"
+    - "Redlining's Ripple Effects Go Beyond Humans"
+    - "Return of Alpha Gal"
+    - "Rift Valley Fever - Ruminating on ruminants"
+    - "Should we reengineer the world's deadliest animal?"
+    - "Some Chemicals are Forever"
+    - "The Race for a Bundibugyo Ebolavirus Vaccine"
+    - "The Weed Killer"
+    - "Up in Smoke"
+    - "We’re better off when we stop pandemics before they start"
+    - "We're better off with health equity"
+    - "We're better off with mRNA vaccines"
+    - "What we lose if the Great Salt Lake dries up"
+    - "What's Next for a New Lyme Vaccine"
+    - "Where Will The Next Pandemic Come From?"
+    - "Where's the Beef? Lab-Grown Meat is Finally on the Menu"
+    - "Why Does Everyone Have Food Allergies These Days?"
+    - "Why We Should Care About Viruses Jumping From Animals To People"
+  films_possible:
+    - "A New Inferno"
+  videos_possible:
+    - "America Made Its Most Toxic Lake. Now We Need What's Inside"
+    - "The Most Dangerous Wildfires All Have ONE THING in Common"
+    - "There’s Something Living in Wildfire Smoke"
+    - "Trash containers making a difference in NYC's war on rats"
+    - "What we know about toxic ‘forever chemicals’ and how to reduce our exposure"
+    - "Why decades-old, toxic PFAS foam is still contaminating northern Michigan waterways"
 - title: "Overview & Syllabus ENVN4320"
   unit: "Overview ENVN4320"
   chapter: 0
@@ -794,6 +1294,12 @@
   class_end: "ENVN4320_W1D1"
   date_end: "2026-08-25T16:00:00"
   week_end: 1
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "PFAS"
   unit: "Toxins"
   chapter: 4
@@ -832,6 +1338,33 @@
   class_end: "ENVN4320_W10D2"
   date_end: "2026-10-29T16:00:00"
   week_end: 10
+  background_possible:
+    - "A Brief History of How PFAS Poisoned the World"
+    - "Are PFAS-Free Products Possible?"
+    - "Are there 'forever chemicals' in your drinking water?"
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+    - "European Companies Are Far Ahead"
+    - "Forever Chemicals - Hidden Dangers in Everyday Beauty"
+    - "From Atomic Bombs to Teflon Pans - How the PFAS Controversy Began"
+    - "Have We Ever Needed PFAS in Our Outdoor Gear?"
+    - "How One Company Secretly Poisoned The Planet"
+    - "How PFAS From A Military Base Has Sickened Nearby Residents"
+    - "PFAS as a Cautionary Tale"
+    - "PFAS in the Outdoor Industry - A Performance Chemistry"
+    - "Phasing Out PFAS in US Apparel"
+    - "Some Chemicals are Forever"
+    - "The Canal (Love Canal)"
+    - "The Devil They Knew"
+    - "The EPA's Approval of Two New Pesticides"
+    - "The Path Ahead - Remediation and Clean-Up"
+    - "The Rise and Limitations of PFAS Regulations"
+    - "What Worsening Floods Mean For Superfund Sites"
+    - "What's a brownfield remediation project?"
+  films_possible:
+    - "Contaminated - The Carpet Industry's Toxic Legacy"
+  videos_possible:
+    - "What we know about toxic ‘forever chemicals’ and how to reduce our exposure"
+    - "Why decades-old, toxic PFAS foam is still contaminating northern Michigan waterways"
 - title: "Poster Session"
   skip: false
   class_days:
@@ -865,6 +1398,12 @@
   class_end: "ENVN4320_W16D2"
   date_end: "2026-12-10T16:00:00"
   week_end: 16
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Radiation"
   unit: "Toxins"
   chapter: 4
@@ -901,6 +1440,13 @@
   class_end: "ENVN4320_W8D1"
   date_end: "2026-10-13T16:00:00"
   week_end: 8
+  background_possible:
+    - "The Workplace Hazard of Radiation—For Flight Crews"
+    - "What Ever Happened to the Ozone Hole?"
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Redlining"
   unit: "Infrastructure"
   chapter: 3
@@ -915,13 +1461,13 @@
   background:
     - "How Housing Discrimination Works"
     - "From Redlining to Inclusive Planning"
-  quizzes: null
-  slides: null
-  videos: null
+  slides:
+    - "Redlining & Public Health Legacies"
+  videos:
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+    - "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
   films: null
-  exercises: null
-  handouts: null
-  assignments: null
   area: "teaching"
   tags:
     - "teaching"
@@ -929,16 +1475,37 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-24T16:00:00"
+    - "2026-09-29T16:00:00"
   class_days:
-    - "ENVN4320_W5D2"
+    - "ENVN4320_W6D1"
   course_name: "Human Health & the Environment"
-  class_start: "ENVN4320_W5D2"
-  date_start: "2026-09-24T16:00:00"
-  week_start: 5
-  class_end: "ENVN4320_W5D2"
-  date_end: "2026-09-24T16:00:00"
-  week_end: 5
+  class_start: "ENVN4320_W6D1"
+  date_start: "2026-09-29T16:00:00"
+  week_start: 6
+  class_end: "ENVN4320_W6D1"
+  date_end: "2026-09-29T16:00:00"
+  week_end: 6
+  background_possible:
+    - "From Redlining to Inclusive Planning"
+    - "How Housing Discrimination Works"
+    - "How to build an equitable and just climate future"
+    - "Redlining's Ripple Effects Go Beyond Humans"
+    - "Sabah Usmani on making cities healthy and just"
+  films_possible:
+    []
+  videos_possible:
+    - "A history of redlining in Omaha"
+    - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+    - "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
+    - "How redlining prevented Black and Brown families from becoming home owners"
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "How the U.S. Government Segregated Chicago  Inside Chicago, Part 1"
+    - "How Urban Heat Impacts Communities of Color"
+    - "North Omaha Legacies & More"
+    - "Omaha Explained Redlining"
+    - "Redlining and the Hidden History of White-Only Suburbs"
+  lecture_archive:
+    - "ENVN4320F24_9-10"
 - title: "Review"
   skip: true
   unit: "Review Days ENVN4320"
@@ -974,6 +1541,12 @@
   class_end: null
   date_end: null
   week_end: null
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Thanksgiving Break ENVN4320"
   unit: "Breaks ENVN4320"
   chapter: 5
@@ -1012,6 +1585,12 @@
   class_end: "ENVN4320_W14D2"
   date_end: "2026-11-26T16:00:00"
   week_end: 14
+  background_possible:
+    []
+  films_possible:
+    []
+  videos_possible:
+    []
 - title: "Vectors"
   keywords: null
   unit: "Pathogens"
@@ -1057,6 +1636,30 @@
   class_end: "ENVN4320_W13D2"
   date_end: "2026-11-19T16:00:00"
   week_end: 13
+  background_possible:
+    - "A new approach to fighting malaria"
+    - "A New Test for Lyme Disease, Developed by High Schoolers"
+    - "Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei"
+    - "An Early Start to West Nile Virus Season?"
+    - "Are Rats Running This Podcast?"
+    - "CRISPR Mosquitoes"
+    - "Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei"
+    - "Does It Feel Like Mosquitoes Are Getting Worse?"
+    - "Hantavirus - the risks, the science and what you need to know"
+    - "How Do You Kill a Mosquito?"
+    - "Inside The Race To Save Honeybees From Parasitic Mites"
+    - "Oropouche Virus - More than a smidge worrisome"
+    - "Our tick nightmare"
+    - "Parasitic Bugs Are Making Combacks Across The Country"
+    - "Return of Alpha Gal"
+    - "Rift Valley Fever - Ruminating on ruminants"
+    - "Should we reengineer the world's deadliest animal?"
+    - "Ticks are a growing problem, no matter where you live"
+    - "What's Next for a New Lyme Vaccine"
+  films_possible:
+    []
+  videos_possible:
+    - "Trash containers making a difference in NYC's war on rats"
 - title: "Zoonoses"
   keywords: null
   unit: "Pathogens"
@@ -1096,3 +1699,34 @@
   class_end: "ENVN4320_W15D1"
   date_end: "2026-12-01T16:00:00"
   week_end: 15
+  background_possible:
+    - "Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei"
+    - "An Ebola Outbreak in Central Africa"
+    - "Animal Diseases and Human Health - The Sloth and Screwworm Episode"
+    - "Are Rats Running This Podcast?"
+    - "Bird Flu - The Next Pandemic?"
+    - "Clean Energy Transition Progress - Avian Flu In Cattle And Humans Has Scientists Concerned"
+    - "Eating the Wild - Bushmeat, Game, and the Fuzzy Line Between Them"
+    - "Hantavirus - The Real Rat Race"
+    - "Hantavirus - the risks, the science and what you need to know"
+    - "Health - Searching For The Source Of Cyclospora"
+    - "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?"
+    - "Land use and zoonoses, California's earthquake risk and the Tuatara genome"
+    - "More food and money, less disease_ Senegal's surprising eco-experiment"
+    - "Our tick nightmare"
+    - "Parasitic Bugs Are Making Combacks Across The Country"
+    - "Patient Zero"
+    - "Preventing Future Pandemics"
+    - "Return of Alpha Gal"
+    - "Rift Valley Fever - Ruminating on ruminants"
+    - "The Latest On Bird Flu"
+    - "The Race for a Bundibugyo Ebolavirus Vaccine"
+    - "Ticks are a growing problem, no matter where you live"
+    - "We’re better off when we stop pandemics before they start"
+    - "Where Will The Next Pandemic Come From?"
+    - "Why Pandemic Researchers Are Talking About Raccoon Dogs"
+    - "Why We Should Care About Viruses Jumping From Animals To People"
+  films_possible:
+    []
+  videos_possible:
+    - "Trash containers making a difference in NYC's war on rats"

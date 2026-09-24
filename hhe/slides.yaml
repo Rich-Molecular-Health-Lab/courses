@@ -124,6 +124,47 @@
     - "cre_uscounties.jpg"
     - "heat_vulnerability.png"
     - "greenery_heat_mitigation.png"
+- title: "Redlining & Public Health Legacies"
+  image: null
+  tags:
+    - "teaching"
+    - "slides"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  dates:
+    - "2026-09-29T16:00:00"
+  videos:
+    - "How systemic racism shaped the ecosystems of U.S. cities"
+    - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
+    - "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
+  films:
+    []
+  class_days:
+    - "ENVN4320_W5D2"
+    - "ENVN4320_W6D1"
+  themes:
+    - "Infrastructure"
+  area: "teaching"
+  topics:
+    - "Redlining"
+  date_start: "2026-09-29T16:00:00"
+  class_start: "ENVN4320_W6D1"
+  week_start: 6
+  week_end: 6
+  class_end: "ENVN4320_W6D1"
+  date_end: "2026-09-29T16:00:00"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-default-lecture"
+  course_name: "Human Health & the Environment"
+  profile: "slides"
+  attachments:
+    - "redlining_omaha.jpg"
+    - "redlining_baltimore.jpg"
 - title: "Wildfires"
   topics:
     - "Fires"
@@ -133,6 +174,7 @@
   area: "teaching"
   class_days:
     - "ENVN4320_W4D2"
+    - "ENVN4320_W5D1"
   themes:
     - "Disasters"
   projects:
@@ -148,6 +190,7 @@
   image: "forest_fire.jpeg"
   dates:
     - "2026-09-17T16:00:00"
+    - "2026-09-22T16:00:00"
   videos:
     - "How Are Wildfires Making Us Sick"
     - "The Most Dangerous Wildfires All Have ONE THING in Common"
@@ -155,9 +198,9 @@
   class_start: "ENVN4320_W4D2"
   date_start: "2026-09-17T16:00:00"
   week_start: 4
-  class_end: "ENVN4320_W4D2"
-  date_end: "2026-09-17T16:00:00"
-  week_end: 4
+  class_end: "ENVN4320_W5D1"
+  date_end: "2026-09-22T16:00:00"
+  week_end: 5
   profile: "slides"
   attachments:
     - "forest_fire.jpeg"

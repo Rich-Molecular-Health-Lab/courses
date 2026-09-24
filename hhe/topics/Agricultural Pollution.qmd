@@ -1,6 +1,6 @@
 ---
 title: "Agricultural Pollution"
-date: "2026-08-29"
+date: "2026-11-10T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,906 @@ listing:
   contents: "Agricultural Pollution_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-11-10T16:00:00
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### Are Plant- and Fungus-Based Meats Really Better than the Real Thing?
+
+![Are Plant- and Fungus-Based Meats Really Better than the Real Thing?](https://i.scdn.co/image/ab67656300005f1f64ed6ec2f04894f027196454)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2021
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2BcL2DPcmYXF885UA95eC2)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Move over, beef: there’s a new burger in town. Plant-based meats are sizzling hot right now; in 2020 alone, the alternative meat industry saw a record $3.1 billion in investment, with 112 new plant-based brands launching in supermarkets. These juicy, savory, chewy fake burgers are a far cry from the dry, weird-tasting veggie patties of the past. This episode, we visit the Impossible Foods labs to swig some of the animal-free molecule that makes their meatless meat bleed, try fungal food start-up Meati's prototype "chicken" cutlet, and speak to the scientists and historians who can help us compare these new fake meats to their predecessors—and to real meat! Can a plant-based sausage roll be considered kosher or halal? Are plant-based meats actually better for you and for the environment? And how might a mysterious protein-powerhouse fungus named Rosita help feed the world? Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture
+
+![1033 - Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture](https://i.scdn.co/image/ab67656300005f1fefaffe37a746200f9af25327)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1L7W2QN16bsE8lv4xcq7Y2)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode: Biosolids created by the wastewater treatment process are useful fertilizers in agriculture, but they often contain chemical compounds from the pharmaceutical and personal care products we send down our drains. In this episode: Researcher Carsten Prasse details new findings that suggest that fungi could reduce our risk of exposure to these compounds in our drinking water and food. Guest: Carsten Prasse, PhD, MSc, is an associate professor of Environmental Health and Engineering at the Johns Hopkins Bloomberg School of Public Health, where he studies organic contaminants in the urban water cycle and their impact on environmental and human health. Host:  Stephanie Desmon, MA, is a former journalist, author, and the director of public relations and communications for the Johns Hopkins Center for Communication Programs. Show links and related content:   White-Rot Fungi Show Promise for Reducing Pharmaceutical Residues in Biosolids—Johns Hopkins Bloomberg School of Public Health   Magic Mushrooms? White-Rot Fungal Degradation of Psychoactive Pharmaceuticals in Biosolids—ACS Environmental Au   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+#### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
+
+# Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+
+![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Exposing the Monsanto Conspiracy
+
+![Exposing the Monsanto Conspiracy](https://i.scdn.co/image/ab67656300005f1f67044e15bde04720ff3f8bdd)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Veritasium
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1x1BbOUAJGK7QxxltLyw6X)
+
+[Open Series in Spotify](https://open.spotify.com/show/6EpB14Zj369GeJUKYXZ9e7)
+
+This is the history of Monsanto’s herbicides…▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon.⁠▀▀▀0:00 An Unusual Enemy5:18 Monsanto’s Secret Poison Problem11:17 Vietnam and Agent Orange14:08 Roundup19:31 How Monsanto controls seeds26:06 The Crop Mafia31:10 The Monsanto Papers41:18 How dangerous is Roundup really?
+
+:::
+
+#### Good Shit - How Humanure Could Save Agriculture—and the Planet
+
+# Good Shit: How Humanure Could Save Agriculture—and the Planet
+
+![Good Shit: How Humanure Could Save Agriculture—and the Planet](https://i.scdn.co/image/ab67656300005f1ff45e75d8ccf0c5243333cd98)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/52TfOnwPmdlGv1aocs0zsV)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+For most of us, when we sit on the porcelain throne to drop the deuce, priority number one is flushing and never having to think about it again. But it might be time to rethink our stink: all around the world, people are talking about using human waste for good, applying it as fertilizer to grow our food instead of just washing it down the miles of pipes that undergird urban sewage systems. "Ew" is a common response, along with "yuck!" Is using poop to grow food a good idea—or even safe? We’re getting our shit together to find out! On this episode of Gastropod, how human waste went from being so valuable you could go to jail for stealing it, to causing such a stench it shut down Parliament in Victorian London and led to the invention of the modern sewage system—and why figuring out how to start saving our poop (and pee!) once again could give us cleaner energy, healthier waterways, and lots of delicious food. Listen in now: if you like to eat, it's time to start giving a crap about your crap. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Growing a Healthier Climate
+
+![Growing a Healthier Climate](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Humans in Public Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3tyf25x764LPstSdko1fSb)
+
+[Open Series in Spotify](https://open.spotify.com/show/4nQ5bwglf9vygvW1nHf5GC)
+
+In this episode, we sit down with Professor Meredith Niles to explore how climate-friendly agriculture—from methane-reducing rice irrigation to no-till farming—is actually a quiet powerhouse for public health. While traditional environmental messaging has hit a wall, shifting the narrative to human health benefits (like keeping heavy metals out of baby food and clearing our air) might be the key to finally getting farmers, consumers and policymakers on board. It’s time to take off the carbon goggles and look at the health potential of sustainable farming.
+
+:::
+
+#### How Can Iowa’s Agriculture Adapt To Climate Threats?
+
+![How Can Iowa’s Agriculture Adapt To Climate Threats?](https://i.scdn.co/image/ab67656300005f1f6eaf64c497d1a878ad096461)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0OVGW9cAhw6Ucw9qdoOqLN)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Climate change is having a profound effect on agriculture. Farmers over the past decade have faced intensifying drought and heat stress on crops, leading many to wonder, what will agriculture look like 50 years from now?In May, at SciFri Live at Iowa State University in Ames, Iowa, Ira Flatow discussed the future of agriculture, and potential solutions to these problems, from innovative farming techniques, to ensuring that Iowa’s farmers of color have the resources they need to succeed. He was joined by Todd Western III, a sixth-generation Iowan farmer with Western Family Farms and senior donor advisor at Greater Twin Cities United Way, and Dr. Patrick Schnable, a distinguished professor at Iowa State University and co-founder of Dryland Genetics.Transcripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Monsanto or MonSatan? How—and Why—a St. Louis Startup Became a Hated Herbicide Giant
+
+![Monsanto or MonSatan? How—and Why—a St. Louis Startup Became a Hated Herbicide Giant](https://i.scdn.co/image/ab67656300005f1f7f0d0f3db021efc7ff82bd3c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2022
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/60Ee7eB8owB4xjaWC7pMvf)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+A chemical that kills the plants you don’t want—weeds—and keeps the plants you do—food!—seems kind of like magic. After all, weeds are the bane of farmers' lives, causing tens of billions of dollars in lost yield every year. So why is the world's largest herbicide company, Monsanto, so unpopular that it's been referred to as MonSatan? How harmful are today's herbicides for us humans, and for the environments they're seeping into? And do we need weedkillers to feed the world? In part two of our three-part series on weeds, we take on the big questions around this “bad seed” of the farming world—and the fascinating story behind the scrappy St. Louis startup that hooked the world on herbicides. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Should I Give Up Beef?
+
+![Should I Give Up Beef?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2022
+
+**Series:** How to Save a Planet
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/21IdhPJKgD29bn9OhJmrjh)
+
+[Open Series in Spotify](https://open.spotify.com/show/1KzrasExlM5dgMYwgFHns6)
+
+A quarter of global greenhouse gas emissions come from agriculture and land use – and a big portion of those emissions come from producing meat. Adopting a plant-based diet is one of the biggest steps an individual can take to reduce their own carbon footprint. So, should we all stop eating meat? Or is it more complicated than that? This week, we take a tour through the bodily functions of cows, millions of acres of corn, and the hidden policy that shapes the American food system to answer that question once and for all.(This episode first aired March 25, 2021.)Calls to action: Sign up to track the latest U.S. Food & Agriculture bills here, and contact Agriculture Committee members (House and Senate) about supporting a climate-friendly Farm Bill. Contact the places you eat regularly about providing beef-less options – maybe it’s the cafeteria at work or school, or a community gathering space. Meatless Monday has resources for institutions that want to provide more climate-friendly meals. Get involved with a local organization fighting food insecurity, a mutual aid group, a community garden, or a co-op. For more information: Read the World Resources Institute’s report on Creating a Sustainable Food Future. Read this study about regenerative methods in beef production. Read this study about red seaweed reducing methane in beef production. Check out this data visualization on land use in the U.S. Listen to the Science Vs. episode on vegan diets.  Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Sugar's Dark Shadow
+
+![Sugar's Dark Shadow](https://i.scdn.co/image/ab67656300005f1fa8d3afaebfbac6f1404ebcb8)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7DzONV2oDbp9S4NbzjAAsp)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Your pantry's sweetest ingredient has an extremely bitter history. The sap-producing grass known as sugarcane has been grown and enjoyed by humans for at least 10,000 years, but it was only relatively recently that it went from a luxury to an everyday ingredient—a change that also triggered genocide, slavery, and the invention of modern racism. In this episode, how the Crusades got Europeans addicted to the sweet stuff, and how that appetite deforested southern Europe and kicked off the trade in enslaved Africans, before decimating indigenous populations in the New World and codifying racism into law. It's a dark story that involves Christopher Columbus' mistress, the early human rights advocate whose campaign to save indigenous people encouraged the horrors of the transatlantic slave trade, and a trip to southern Louisiana, where we met Black sugarcane farmers to explore sugar's troubling legacy there. No sugar coating here: join us for the fascinating and horrifying history of this household staple. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### The EPA's Approval of Two New Pesticides
+
+![1027 - The EPA's Approval of Two New Pesticides](https://i.scdn.co/image/ab67656300005f1f125f40494d44de994e779aa6)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/05F47P2wjRYCCRxAKCdEap)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode: In late 2025, the EPA approved two pesticides for agricultural use that opponents argue contain PFAS—"forever chemicals" that pose hazards to human health. In this episode: the debate around what constitutes PFAS and the EPA's role in regulating these harmful chemicals. Guest: Rachel Frazin covers energy and environmental policy for The Hill and is the co-author of the book "Poisoning the Well: How Forever Chemicals Contaminated America". Host:  Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health. Show links and related content:   E.P.A. Moves to Weaken Limits on a Cancer-Causing Gas—New York Times   EPA just approved new 'forever chemical' pesticides for use on food—Washington Post   Trump EPA will defend Biden rule forcing polluters to pay for 'forever chemical' cleanup—The Hill   Uncovering America's Decades-Long PFAS Contamination—Public Health On Call (June 2025)   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+#### The Ghost Town (Times Beach, Missouri)
+
+# S10 Ep140: The Ghost Town (Times Beach, Missouri)
+
+![S10 Ep140: The Ghost Town (Times Beach, Missouri)](https://i.scdn.co/image/ab67656300005f1fd352f167cf2d28d9d9fa1fd9)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Swindled
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0DHeY6fmPJRovMGaTr9H4O)
+
+[Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
+
+A small Missouri town faces a compounded catastrophe as a devastating flood follows the discovery of toxic contamination.Prelude: A mysterious illness attacks the horses and humans at Shenandoah Stables.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Thanks for listening. :-)
+
+:::
+
+#### The Most Interesting Oil in the World
+
+![The Most Interesting Oil in the World](https://i.scdn.co/image/ab67656300005f1f6c0223d97b40be7ba83602c1)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2021
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0m9sv5UynG1iQcvNXR3Ut7)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Here’s a little riddle for you: What’s all around you, but can’t be seen, smelled, or tasted? Hint: It’s in your Oreos, Nutella, instant noodles, dish soap, shampoo, lipstick, potato chips, pizza dough, packaged bread, chocolate bars, ice-cream, and biodiesel. The answer is ... palm oil, the hidden ingredient on just about every aisle of the grocery store. It's the most ubiquitous, most important, most interesting oil that most of us don't really know. But palm oil wasn’t always so big, or so anonymous—in its West African homeland, it’s a fragrant red oil traditionally used in cooking and ceremonies. So how did palm oil go global? What does it have to do with the European colonization of Africa, soap for grimy factory workers, Girl Scout cookies, and Alfred Nobel of Nobel Prize-fame? How has growing demand for all things palm oil driven deforestation and peat fires in Southeast Asia—and what can we do if we want to rethink our destructive palm oil addiction? Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### The Weed Killer
+
+![The Weed Killer](https://i.scdn.co/image/ab67656300005f1f393bf10c73cdd1f7ce4106e2)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** The Poison Detectives
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0nmuxli2tXjqdFL38r3vaa)
+
+[Open Series in Spotify](https://open.spotify.com/show/1mz3wHvjlOgkE4gXxVDeA3)
+
+For more than thirty years, scientists, regulators, and one of the world’s most powerful chemical companies have been locked in a battle over the active ingredient in Roundup -- a chemical called glyphosate.A battle fought over the soil itself -- and over what we believe keeps us safe.Episode eight tells that story. Hosted on Acast. See acast.com/privacy for more information.
+
+:::
+
+#### What we'll eat on a warmer planet
+
+![What we'll eat on a warmer planet](https://i.scdn.co/image/ab67656300005f1fcb3849cd42dc219b2fef1e3e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** TED Radio Hour
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/60Q77NnwBNNLC3F6r9bCCM)
+
+[Open Series in Spotify](https://open.spotify.com/show/1vfOw64nKjQ8LzZDPCfRaO)
+
+From the farm, to the lab, to our tables, what we eat and how it's grown is changing. Agriculture contributes to global warming—and is being transformed by it. Today, a bite into the future of food. Guests include chef and policy advisor Sam Kass, farmers Jim Whitaker and Jessica Whitaker Allen, biotechnologist Isha Datar and artist Sam Van Aken. TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Where's the Beef? Lab-Grown Meat is Finally on the Menu
+
+![Where's the Beef? Lab-Grown Meat is Finally on the Menu](https://i.scdn.co/image/ab67656300005f1f3be655e8fa8542e90e98af3e)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0ji8cDzZ3uhXKpAZ82wjn0)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+Can we really have our burger, eat it—and never need to kill a cow? Growing meat outside of animals—in a lab or, these days, in shiny steel bioreactors—promises to deliver a future in which we can enjoy sausages and sushi without guilt, and maybe even without sending our planet up in smoke. For years, it's seemed like science fiction, but it's finally a reality: this month, Americans will get their first chance to buy cultivated meat in a restaurant. But how exactly do you get chicken nuggets, BLTs, and bluefin sashimi from a bunch of cells growing in large metal vats? Does this new cultivated meat taste any good? Can enough be grown to replace industrial meat? And, if so, is this new technology actually an improvement on industrial animal agriculture and fishing? Gastropod is on the case! Join us this episode as we sink our teeth into a whole lot of lab-grown lunches, uncover the science behind the sci-fi, and investigate whether the companies making cultivated meat can actually fulfill the lofty promises they make. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+#### Which is better for you: 'Real' meat or 'fake' meat?
+
+# Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans
+
+![Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans](https://i.scdn.co/image/ab67656300005f1fe1189724b35c0c3b998e195d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** TED Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/34N7Yvgv9VvgsHOqDMiznM)
+
+[Open Series in Spotify](https://open.spotify.com/show/0TaF88QDTfKwY1IROFB4PM)
+
+In 2021, a survey of over 1,000 Americans found that nearly two-thirds had eaten plant-based meat alternatives in the past year. Many cited potential health and environmental benefits as their motivation. But are these alternative meats actually better for us and the planet? Carolyn Beans investigates the differences between farmed meat, plant-based meat, and lab-grown meat. This TED-Ed lesson was directed by Laura Jayne Hodkin, and narrated by Alexandra Panzer and the music is by Carlos Magaña Bru, cAMP Studio. Hosted on Acast. See acast.com/privacy for more information.
+
+:::
+
+### Video Clips
+
+#### Drowning in seaweed How to stop invasive Sargassum
+
+**nature video**, *01 25, 2023*
+
+## Video (10:31)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/CH7MpiGCdgU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+The story of Sargassum stretches from the Congo to the Amazon, from soybean farming to climate change and from toxic gases to robotic vehicles. In this documentary researchers from around the world explain the vast scope of the Sargassum problem and the solutions that may one day begin to address it.
+
+Additional photographs and footage in this film were provided by Drake Lee-Patterson, Gary Marshall, Joseph Weekes, Driven Visual Media, Kerwin Noel,  Nick Hurley, Akeisha Clark, Sargassum Information Hub, NASA, Chuanmin Hu, Jeff Davis's team, Hazel Oxenford, Caroline Juang, Melvina Walsh, Morgan Lewis, Kerton Jobe, P McConney, Markel Gomez Letona and Nico Frohberg who were mistakenly missed off the film credits.
+
+## Transcript
+
+**0:03** · VOICE OVER: The Great Atlantic Sargassum Belt is the largest seaweed bloom in the world, and it's expanding.
+
+**0:11** · Visible from space, it's a growing problem for coastal communities.
+
+**0:15** · HARSHINI VUMMADI: The beaches, genuinely, if they aren't maintained, you just can't go there.
+
+**0:21** · You'd be up to your knees in sargassum.
+
+**0:24** · VOICE OVER: But as a key sequester of carbon, this invasive species also presents an opportunity.
+
+**0:30** · AJIT SUBRAMANIAM: We want to gather sargassum using robotic vehicles.
+
+**0:34** · You sink it down 2,000 metres, our current model suggests that that particular water body does not come back in contact with the atmosphere for at least 100 years.
+
+**0:42** · VOICE OVER: Can scientists take a global challenge and turn it into an opportunity to buy time in the race against climate change?
+
+**1:00** · VOICE OVER: Sargassum has been in the Atlantic since the time of Christopher Columbus, floating mats of seaweed that gave its name to the Sargasso Sea – a nutrient-poor patch of the Atlantic penned in by ocean currents.
+
+**1:13** · AJIT: You can think of it as a floating rainforest or an upside-down coral reef because each raft of sargassum is a hotspot of biological activity.
+
+**1:22** · VOICE OVER: But in the last couple of decades, a new population has emerged, further south near the coast of Brazil and the Caribbean.
+
+**1:29** · SHELLY-ANN COX: In 2011, we were all taken back by this new phenomenon, where we saw tons of sargassum being brought and beached in the region.
+
+**1:42** · VOICE OVER: Based in Barbados, scientist and entrepreneur Shelly-Ann Cox specialises in fisheries management.
+
+**1:49** · She first noticed the impact of sargassum on the sea urchin divers she was working with.
+
+**1:54** · SHELLY-ANN: Fisher folk had reported sargassum mats as far as their eyes can see.
+
+**2:01** · Some of them can't get to the boat or the boats can't get through the sargassum to get out.
+
+**2:07** · Those near shore, the spear fishers as well, they reported some of their skin being irritated when they're diving and the berries that keep the sargassum floating have gotten into their ears as well.
+
+**2:21** · VOICE OVER: The impact on tourism – the lifeblood of the Caribbean – has been huge.
+
+**2:25** · OFF-SCREEN VOICE: This weed is going right up to the sanitation plant by Barnacle Point.
+
+**2:33** · People, get ready for the smell tomorrow.
+
+**2:39** · VOICE OVER: Around the same time, other scientists working in the Atlantic had also noticed a change.
+
+**2:45** · Oceanographer Ajit Subramaniam has been working in the South Atlantic for more than 25 years.
+
+**2:50** · AJIT: In 2018, it was astounding how much sargassum we ran into, and it was really striking.
+
+**2:55** · It was something that we'd never seen before and then, bam.
+
+**2:58** · We were there, and the ship was often surrounded by sargassum that was hundreds of metres around the ship.
+
+**3:05** · VOICE OVER: Sargassum wasn't thought to be found this far south.
+
+**3:08** · AJIT: We were seeing things that we had not seen before, and I was trying to get context for that.
+
+**3:12** · VOICE OVER: Ajit linked up with colleagues at the University of South Florida, who had been making their own observations.
+
+**3:17** · AJIT: They'd been actually watching this on their satellite data, and they had actually seen this explosion of this new population that is growing much closer to the equator.
+
+**3:26** · VOICE OVER: With the satellite data, scientists were able to hazard an estimate of its size.
+
+**3:31** · SHELLY-ANN: 24.2 million metric tons in June, from the satellite imagery.
+
+**3:38** · VOICE OVER: Dubbed the Great Atlantic Sargassum Belt, this is almost certainly the world's largest macroalgal bloom.
+
+**3:44** · It's thought that intensive agriculture, especially soya plantations, has increased nitrogen concentrations in the Atlantic, causing rapid sargassum growth.
+
+**3:54** · SHELLY-ANN: Sargassum is really known as a symptom of climate change because, due to increasing surface temperatures, nutrients from the Amazon and Congo, Saharan dust which brings in iron, upwelling as well, the change in currents, all of these factors have led to the proliferation of sargassum.
+
+**4:19** · HARSHINI: Outside of the Caribbean, I don't think many people are talking about this.
+
+**4:23** · VOICE OVER: Harshini Vummadi is a biology major undergraduate, who's recently returned from an exploratory trip to the Dominican Republic.
+
+**4:32** · HARSHINI: It affects the Caribbean and I believe West Africa, and a bit of East Asia as well.
+
+**4:40** · VOICE OVER: Harshini is part of an interdisciplinary team from the Georgia Institute of Technology.
+
+**4:44** · They're working with the school of biological sciences to try and explore solutions to the sargassum problem.
+
+**4:49** · RESEARCHER: Yeah, so, I'm just collecting some sargassum samples and there are lots of different plants in here.
+
+**4:57** · HARSHINI: I am the biology major on their team. We have a chemical engineer, a civil engineer, a mechanical engineer.
+
+**5:03** · VOICE OVER: A solution of some sort is definitely needed, and urgently.
+
+**5:07** · HARSHINI: I just didn't realise how much of it there would be, like we watched a clean-up crew work and work, and in 2 hours they like hardly made a dent. The growth just seems to be almost exponential.
+
+**5:18** · VOICE OVER: While there are many creative small-scale craft uses of sargassum, local communities have yet to find a viable solution to disposing of vast quantities of the stuff, or even better, making it useful.
+
+**5:30** · HARSHINI: It uptakes a lot of different heavy metals, particularly arsenic, which makes it like quite dangerous to use as, say, like a fertiliser because, again, now you're introducing arsenic to these land systems where it could potentially leach into groundwater.
+
+**5:47** · So, we try to like branch out from fertiliser. One of our team members focused on an application involving bricks.
+
+**5:55** · Someone else focused on black soldier fly larvae, which could consume the sargassum and then in turn be used as a sort of biofuel in like an anaerobic digester.
+
+**6:08** · I personally have been working on using it as a bioaccumulate. Why not use it in waste water treatment?
+
+**6:16** · It can absorb those heavy metals that we were so concerned about in the first place.
+
+**6:21** · VOICE OVER: Harshini's team are working on ways to make the sargassum financially viable.
+
+**6:26** · Meanwhile, Ajit is thinking more broadly, exploring the bigger checks and balances of the global carbon cycle.
+
+**6:32** · He's come up with a radical plan.
+
+**6:34** · AJIT: So, the way we want to do this is essentially gather nets of sargassum using robotic vehicles, have them ballasted and then sink them down to 2,000 metres.
+
+**6:46** · VOICE OVER: Sargassum sequesters a lot of carbon, but it also releases it when it decays.
+
+**6:52** · This approach would theoretically remove the carbon from the atmosphere, effectively buying the planet time in the race against climate change.
+
+**6:59** · AJIT: Sinking down 2,000 metres, our current model suggests that that particular water body does not come back in contact with the atmosphere for at least 100 years.
+
+**7:08** · VOICE OVER: The idea of sinking the sargassum has been proposed before, but the suggestion is usually to sink it where it grows, in shallower water.
+
+**7:15** · AJIT: Merely capturing it at the surface and getting rid of it just off the beach at 100 metres or something like that will basically have the carbon coming right back up.
+
+**7:26** · It might even actually come back up in a more potent form if you are starting to have it rotting and forming methane.
+
+**7:32** · VOICE OVER: Ajit plans to sink the sargassum in deeper water, but there are a lot of questions still to be answered.
+
+**7:38** · AJIT: We want to make sure that the carbon that we are capturing is actually going down to the sea floor and will stay down there, and so we want to follow it down to the sea floor.
+
+**7:46** · VOICE OVER: In addition, as a biologist, he's keen to understand the impact of this plan on the ecosystem.
+
+**7:51** · AJIT: So, we actually have a fisheries scientist on the team who will be looking at what kind of communities the sargassum rafts harbour, and therefore we'll have a sense of what we might be impacting if we were to do the sinking.
+
+**8:02** · It's not that we're going to decimate the ocean of sargassum.
+
+**8:06** · VOICE OVER: The list of problems attributed to sargassum is growing. From the harmful gases released when it decays to its impact on wildlife.
+
+**8:13** · HARSHINI: Especially when it washes up on beaches where turtles go to lay their eggs, a lot of these baby turtles are actually unable to climb over these sargassum things, and so they're unable to make it into the ocean due to these big patches of sargassum.
+
+**8:28** · SHELLY-ANN: So, every year we're seeing more countries reporting the influx and the catastrophic impacts on tourism, fisheries sectors, maritime and transport and then the health impacts.
+
+**8:43** · So, some of our colleagues recently published a paper on the impacts on pregnant women who were exposed to hydrogen sulfide and ammonia when the sargassum decomposes.
+
+**8:57** · Those pregnant ladies who live near the coast and were exposed were at a higher risk of preeclampsia.
+
+**9:04** · VOICE OVER: Going into the future, it's likely that the challenge presented by sargassum, like many of the challenges of climate change, might be bigger than one scientist or one idea.
+
+**9:14** · HARSHINI: There needs to be some sort of economically driven, or at least be governmentally subsidised, but there needs to be some sort of way to like tackle and solve the problem.
+
+**9:27** · AJIT: I feel that countries like Barbados are the populations that contribute the least to climate change and yet are facing the greatest impact of climate change.
+
+**9:36** · I would like to figure out a financing model where we can actually have credit going to communities in Barbados for the carbon that is sequestered.
+
+**9:46** · SHELLY-ANN: There are lots of bright, brilliant minds out there developing solutions that need this support.
+
+**9:53** · They need the financial support to upscale until governments realise that this problem is really here to stay, then they will be willing then to invest in building up sargassum industries.
+
+**10:07** · HARSHINI: Nothing has like had any concrete potential yet. There's just several isolated research groups.
+
+**10:15** · But I just think that things would move a lot faster if everyone could like work together.
+
+#### How Do You Share a Shrinking River Fairly
+
+**PBS**, *09 10, 2026*
+
+## Video (8:53)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/g3crFJTKUZc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Watch more of this series: https://to.pbs.org/4wkQIAG
+
+The Colorado River is running out — and the Imperial Valley is ground zero. As policymakers battle over rights to a shrinking river, farmers are grappling with the practical realities of growing food with less water. Miles O’Brien meets two Imperial Valley farmers who are finding ways to feed people and livestock, nearby and abroad, while trying to make good use of every drop of this hard-working river. 
+
+This program is made possible by viewers like you. Support your local PBS station: https://www.pbs.org/donate
+
+Subscribe to the PBS channel for more clips:  https://www.youtube.com/@PBS
+
+Enjoy full episodes of your favorite PBS shows anytime, anywhere with the free PBS app: https://to.pbs.org/2QbtzhR
+
+FOLLOW US:
+
+Facebook: https://www.facebook.com/PBS/
+
+X: https://twitter.com/PBS/
+
+Instagram: https://www.instagram.com/PBS/
+
+TikTok: https://www.tiktok.com/@pbs
+
+Threads: https://www.threads.net/@pbs
+
+Resolve to Solve with Miles O'Brien
+
+Miles O'Brien travels the globe searching for solutions to climate, water, and health crises. From building sea curtains in Antarctica to restoring wildlife in Argentina, the answers are closer than we think thanks to people with a “Resolve to Solve.”
+
+#climatesolutions #coloradoriver #waterrights
+
+## Transcript
+
+### The Imperial Valley oasis
+
+**0:01** · The Imperial Valley sits downstream of two massive reservoirs: Lake Powell and Lake Mead.
+
+**0:08** · Together, they act as a giant savings account, buffering water users from the whims of weather and the uncertainty of the annual snowpack.
+
+**0:18** · The incongruous, almost magical, nature of this lush oasis in the desert really dawned on me during a visit to Gina Dockstader's Citrus Grove.
+
+**0:29** · DOCKSTADER: What do you think, Lalo, you want to pick one off for us?
+
+**0:32** · This one right here? DOCKSTADER: Yeah.
+
+**0:33** · O'BRIEN: There we go.
+
+**0:34** · (voiceover): It was January, early morning, not long after sunrise, when she gave me a fresh-as-it-gets taste test.
+
+**0:43** · We sampled some organic minneolas.
+
+**0:48** · All right, so-- and so, what's the proper way to eat it?
+
+**0:50** · Well, we, we could-- we could've sectioned it, but yeah, just...
+
+**0:53** · the juice is great. O'BRIEN: Oh, my gosh.
+
+**0:54** · Oh, that's delicious.
+
+**0:56** · (voiceover): Citrus isn't the big story here.
+
+**0:59** · Vegetables are.
+
+**1:01** · About two-thirds of the winter produce sold in the U.S. is grown here.
+
+**1:07** · Fine-looking lemons here!
+
+**1:08** · DOCKSTADER: We need some lemonade, huh?
+
+**1:11** · O'BRIEN (voiceover): Gina took me to her family's packing plant.
+
+**1:14** · This is a place that can produce a lot of food in a very relatively small area, right?
+
+**1:21** · Right.
+
+**1:22** · High economic value in a small area.
+
+**1:24** · O'BRIEN (voiceover): After all the lemons were boxed and shipped, Gina unpacked her family story.
+
+### Water use and crop priorities
+
+**1:31** · I am fourth-generation, and my son is fifth-generation.
+
+**1:34** · We are very, very proud of that fact.
+
+**1:36** · O'BRIEN (voiceover): Gina is also a director on the board of the Imperial Irrigation District-- the public agency that holds and manages the single largest entitlement to water from the Colorado River.
+
+**1:48** · Besides citrus, her family grows dates and, like just about everyone here, alfalfa and Bermuda grass, both of which get bundled up into hay bales to be fed to livestock.
+
+**2:02** · You can't put all your eggs in one basket, right?
+
+**2:04** · Otherwise, how do you make it from year to year?
+
+**2:05** · O'BRIEN: No crop demands more Colorado River water than alfalfa.
+
+**2:10** · Farmers across the basin use roughly five to six million acre-feet a year to grow hay for cattle and dairy operations.
+
+**2:19** · The Imperial Valley is one of the world's most productive hay-growing regions.
+
+**2:23** · Thanks to a year-round growing season and easy access to Pacific ports, as much as half of its alfalfa is exported to Asia and the Middle East-- controversial destinations for a crop irrigated by one of America's most stressed rivers.
+
+**2:43** · You're kind of shipping the Colorado River to other countries. DOCKSTADER: Right.
+
+**2:47** · What do farmers say to that?
+
+**2:49** · I will say...
+
+**2:52** · "Do you like your leather belt?
+
+**2:55** · "Do you like your tennis shoes?
+
+**2:58** · "Do you like the modern conveniences "that you have in your life that's coming from these places?"
+
+**3:04** · Because they're feeding their cattle, and that's how you're getting leather products back into the United States.
+
+**3:11** · O'BRIEN: Alfalfa is a thirsty crop, and the fact that a significant share of it ultimately leaves the country doesn't sit well with many people.
+
+**3:21** · But Gina says folks in the Imperial Valley are accustomed to being in the crosshairs.
+
+**3:27** · DOCKSTADER: We've always felt that other people were looking at our water because we have such a significant... priority right.
+
+**3:34** · You think municipalities are gonna come in, you think the cities are gonna come and, and take our water.
+
+### Water management and policy
+
+**3:40** · O'BRIEN: That's exactly what happened in 2003.
+
+**3:43** · As it became clear the Colorado River could no longer meet all the demands placed on it, the federal government required California to live within its legal allocation.
+
+**3:55** · The result was the Quantification Settlement Agreement, or QSA.
+
+**4:00** · It requires the Imperial Irrigation District to transfer water to San Diego.
+
+**4:06** · In return, the San Diego County Water Authority helps fund conservation projects that enable farmers to use less water while keeping much of their land in production.
+
+**4:18** · DOCKSTADER: Now I can pay for a sprinkler pipe.
+
+**4:20** · I can sprinkle, I can use less water to grow the same crop, and that's how the water gets created.
+
+**4:27** · We're getting smarter.
+
+**4:28** · Farmers are resilient.
+
+**4:30** · They, we all know we have to do more with less.
+
+**4:33** · ♪ O'BRIEN (voiceover): That message is resonating in the Imperial Valley.
+
+**4:40** · Not far from Gina's citrus grove, we caught up with farmer Jon Shields.
+
+**4:46** · It was watering day for one of his fields.
+
+**4:50** · This one is wheat.
+
+**4:52** · I got 9.3...
+
+**4:55** · feet going into the field.
+
+**4:57** · O'BRIEN: Farmers around here don't pray for rain, they just order it up, and a zanjero-- or ditch rider-- making the morning rounds opens the floodgate.
+
+**5:09** · It all flows downhill, no pumps required.
+
+**5:14** · (water rushing) SHIELDS: And he delivered it at 6:30, and then here's his measurement what he took, 9.3.
+
+### Modern irrigation strategies
+
+**5:21** · So, how long will this gate be open today?
+
+**5:23** · Uh, well, this gate, um...
+
+**5:26** · it'll probably run till morning to irrigate that whole field.
+
+**5:30** · The next morning. - Yeah, till-- it's probably a 24-hour run.
+
+**5:34** · O'BRIEN (voiceover): The water flows into some canals on his property.
+
+**5:38** · SHIELDS: It goes under this pipe, then it goes into our delivery ditch.
+
+**5:41** · O'BRIEN (voiceover): From the ditch, water flows directly onto the field, already seeded and fertilized.
+
+**5:47** · It is flooded from edge to edge.
+
+**5:51** · How frequently do you have to water?
+
+**5:52** · 30, 40 days we'll be back with another water.
+
+**5:54** · So you're good for a month.
+
+**5:55** · On the, on the-- after the first water, then when the crop starts to mature more, then... the demand will be more, we'll have to irrigate more frequently.
+
+**6:05** · ♪ O'BRIEN: Flood irrigation requires very little energy.
+
+**6:10** · But because it wets the entire soil surface, more water is lost to evaporation in hot, dry climates than with sprinkler or drip irrigation.
+
+**6:21** · To conserve, Jon is not tilling as frequently as he used to-- and a few years ago, he had his field laser-leveled, ensuring a more even and efficient distribution of water.
+
+**6:33** · SHIELDS: Before we started doing leveling, I think we were using significantly more water.
+
+**6:38** · And the minimum tillage also, I think, is...
+
+**6:41** · the ground isn't loosened up, so the water's not penetrating as deep.
+
+**6:46** · And, uh, it's sliding across a little bit faster, so we're using less water.
+
+**6:51** · O'BRIEN: Jon has also tried some other water-saving strategies.
+
+**6:55** · He showed me an alfalfa field that he put in the Imperial Irrigation District's Deficit Irrigation Program, or DIP.
+
+### Adapting to a limited supply
+
+**7:04** · Farmers are paid to cease irrigating some of their crops during the hot summer months when evaporation is at its peak.
+
+**7:13** · SHIELDS: I think we stopped watering here for 45 or 49 days, something like that, and then, um...
+
+**7:19** · O'BRIEN: This is the hottest part of the year.
+
+**7:22** · (voiceover): The hope is that the alfalfa will be stressed but not killed.
+
+**7:27** · Jon had mixed results.
+
+**7:29** · SHIELDS: Maybe 50% of the crowns came back.
+
+**7:32** · There's a crown right there. O'BRIEN: And that's dead?
+
+**7:35** · SHIELDS: Well, I don't know if it's gonna come back or not.
+
+**7:38** · O'BRIEN: And you sort of knew that going in, that that might be a consequence...
+
+**7:42** · I knew that. I had some more optimism that it would come back better than it did, but um, it hasn't.
+
+**7:48** · We had a really hot summer, so...
+
+**7:51** · O'BRIEN (voiceover): Even so, he continues to participate in the program.
+
+**7:55** · The century-old system that created this agricultural oasis is built on the notion of an endless supply of cheap water.
+
+**8:04** · But everything has its limits.
+
+**8:08** · It's hard to do this with less water is what it comes down to. - Exactly, yeah, and we're all on a budget. We're all on a water budget.
+
+**8:15** · We have an apportionment...
+
+**8:19** · So, we have an apportionment and we have to live within that apportionment, and...
+
+**8:25** · that's it, you know, so we have to be careful with our water.
+
+**8:28** · It's not like the old days where we could just water at will.
+
+#### Mexico’s Caribbean beaches overwhelmed by record sargassum influx I Inside Latin America
+
+**Al Jazeera English**, *09 05, 2026*
+
+## Video (10:02)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/6PHfReEbjcA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+The Caribbean is facing a growing sargassum seaweed crisis, with huge quantities washing onto beaches across the region and threatening tourism, ecosystems and public health.
+
+Mexico’s Riviera Maya has been particularly affected, with the influx reaching thousands of tonnes of seaweed each day.
+
+As the algae decomposes on beaches, it can release toxic gases, raising health concerns for residents and tourists. Scientists also warn that the accumulation of sargassum can damage seagrass ecosystems and affect beach stability.
+
+The crisis is putting pressure on Mexico’s tourism industry, while the Mexican Navy has stepped up efforts to collect the seaweed before it reaches the shore.
+
+But some businesses are looking at sargassum differently.
+
+Companies including Carbonwave and Sargablock are developing ways to transform the invasive algae into products such as bio-fertilizers, footwear and construction materials.
+
+Could an environmental crisis become a new source of sustainable materials?
+
+Subscribe to our channel: http://bit.ly/AJSubscribe
+
+Follow us on X : https://twitter.com/AJEnglish
+
+Find us on Facebook: https://www.facebook.com/aljazeera
+
+Check our website: http://www.aljazeera.com/
+
+Check out our Instagram page: https://www.instagram.com/aljazeeraenglish/
+
+Download AJE Mobile App: https://aje.news/AJEMobile
+
+## Transcript
+
+**0:04** · [music] Welcome to Inside Latin America and to Mexico's Riviera Maya. For the last decade, growing amounts of algae called sargassum have been washing up on beaches across the Caribbean, transforming once pristine coastlines and threatening the communities that depend on them.
+
+**0:25** · From the beaches of Puerto Rico to the fishing villages of the Dominican Republic, this phenomenon is taking a toll. And 2026 brought record quantities with more than 12 million tons detected across the region. But where is it all coming from and why now?
+
+**0:42** · This is the Sargasso Sea. Scientists say around 2010, changing currents began moving seaweed from here into warmer waters, forming the Great Atlantic Sargasso Belt, a vast band of floating algae stretching from West Africa across the Atlantic. Then, nutrient pollution, including fertilizer runoff carried by rivers, helped fuel its explosive growth.
+
+**1:06** · Experts agree the regional response still doesn't match the scale of the problem. But with so much sargassum arriving, governments are being forced to act while private citizens are looking to upcycle this seaweed in an effort to turn this new reality into an opportunity.
+
+**1:25** · 9,000 tons a day. That's how much sargassum washed up on Mexico's Caribbean coast at the height of this year's season.
+
+**1:34** · With its main tourist beaches under threat, the Mexican government has invested resources in tackling the problem.
+
+**1:41** · It enlisted the Navy in a process that starts with sea monitoring.
+
+**1:45** · Once blooms are located, especially designed vessels collect as much as they can.
+
+**1:51** · Barriers redirect what the ships miss, and divers work daily setting up additional nets and anchoring them beneath the surface.
+
+**2:00** · Every part of this process is extremely labor-intensive. If this ship has to be continuously repositioning itself so it can drag in all that sargassum. Once it's full, it will go back to land and it will have to all be unloaded again before being taken to a processing plant.
+
+**2:17** · The goal is to keep the sargassum from reaching the beaches where growing evidence shows prolonged exposure to the decomposing seaweed can be toxic.
+
+**2:26** · And if you were to like hang around it for a long time, it would probably cause like respiratory distress and some other issues, but um in some places in the Caribbean, like it's it's very strong and it persists for weeks at a time and they are actually seeing adverse human health effects from the hydrogen sulfide.
+
+**2:41** · But removing sargassum is also expensive.
+
+**2:44** · Putting this option out of reach for many island nations in the Caribbean. The result is beaches that look like this. And when beaches become unusable, people whose livelihoods depend on tourism and fishing suffer, too.
+
+**2:59** · People come here, see this, and turn right around and leave.
+
+**3:05** · From Guadeloupe to Puerto Rico, more than 70% of people in the Caribbean live along the coast and depend on it to survive. And experts agree, without a joint international approach to sargassum and soon, the human and economic toll will only grow.
+
+**3:22** · This phenomenon can fundamentally change how people interact with the beach. For more on that, we spoke to Brigitta van Tussenbroek, a biologist with Mexico's National Autonomous University, who's been researching how sargassum is affecting communities along the coasts.
+
+**3:38** · Well, if you just think of the village community, of course, their connection with the sea is getting less because you don't want to go to the beach on the Sunday afternoon with your family when you've got the what the amounts of sargassum there. If it's a fishing community, um it's more difficult for the boats to go out. Of course, for the tourist industry, it's a disaster. And a lot of them, the tourist complex which have money, they can attend it to a certain degree. They can put up barriers.
+
+**4:08** · They can put small boats which collect the sargassum. They can try to replenish the beach which is eroded.
+
+**4:15** · You just mentioned erosion. Can you tell me a little bit about how sargassum is having an effect on what's already a problem?
+
+**4:23** · Sargassum just being there causes erosion. Then sometimes bad practices. So, they remove the sargassum from the beach, but they take a lot of sand with it, which is another problem. And the other problem the major, I think, which I think was one of the major problem because it's my area of research, it kills the sea grasses in the nearshore. And sea grasses are very important to maintain stable beaches.
+
+**4:49** · Do you think of sargassum as a plague?
+
+**4:51** · It's a marvelous seaweed. I I'm still amazed by it. It's a a seaweed which spends its whole life floating in the ocean. It forms these enormous rafts in the open sea. And the open sea is a desert, basically, for a lot of organisms. And then in the middle of the desert, you have this really biodiverse a raft with small critters, with a lot of bacteria, with epibionts which which grow on the sargassum. It's beautiful.
+
+**5:23** · But having these huge masses of biomass decaying, getting on the beach, and then getting into the sea, it it causes a enormous disequilibrium of of whole life here in these systems.
+
+**5:36** · We've spent the last few days looking at all the efforts on various different scales of trying to get rid of the sargassum, take it out of the sea, uh clean it from the beaches. It feels like a titanic effort.
+
+**5:49** · I think at least the people who make the decisions I I think they still don't understand the scale they have to work at. But we should do 100 times more or 1,000 times more. So, it should be so much more and I think this should be a really, uh, coherent strategy of managing the sargassum.
+
+**6:09** · Are you concerned?
+
+**6:10** · Well, I think it's very difficult to be positive in the in the scenario, isn't that?
+
+**6:16** · Because, as I say, most likely, um, this is not going to stop. This ecosystem is already damaged, uh, beyond the level I won't ever see it recovering.
+
+**6:29** · So, I think we we have to be realistic in this this scenario and I think it it's very difficult to be realistic, of course, because it it doesn't look very nice. But, either really scale up a lot and invert a lot and and I really try to diminish the quantity of sargassum getting to the shore or adapt.
+
+**6:50** · But what does adapting look like? For a series of entrepreneurs in this region, the answer lies in turning this sargassum into products that can have life beyond the sea. Today's sargassum harvest in Puerto Morelos, on Mexico's Caribbean coast, ready to be processed and turned into bio-fertilizer. It's a time-sensitive operation. Tons of seaweed must be weighed, cleaned, and pressed before it starts to decompose.
+
+**7:21** · Carbonwave is a company specializing in upcycling sargassum, filtering it in multiple steps to extract nutrients that boost crop yields and reduce the need for chemical fertilizer. After years of development, its creators say they have finally secured export agreements with the US, Colombia, and Ecuador.
+
+**7:40** · We already prove that sargassum can be turned into something that is reliable financially that can create incomes, right? That can create economy along the communities here.
+
+**7:54** · In fact, the process sargassum that Carbonwave doesn't use for agricultural products ends up on people's feet. Sargasso Sandals mixes sargassum powder with EVA foam, the same material Nike and Adidas use in sneakers to make its soles. Each pair is between 10 and 15% sargassum.
+
+**8:14** · This is the fiber that I need.
+
+**8:16** · And not far from Carbonwave's plant, Omar Vasquez is using sargassum to make building blocks.
+
+**8:22** · Sargablock is an artisanal process. Each block contains 40% sargassum. The rest is other organic materials. They can make up to 6,500 blocks per day [music] using some 40 tons of sargassum. Sargablock says they've already donated 21 small homes made of this material to poor families in this community. And they say interest in this product is growing, certainly locally. This truck is going to a local business around here that's just starting a construction project.
+
+**8:54** · But Omar dreams of taking this product far beyond Mexico's coasts.
+
+**8:59** · And I went to Africa, I went to Ghana, and the problem that they have with sargassum it's major. Nobody talks about those countries because they don't have the money that we have in Mexico because tourism they don't go there as here. So, where I see myself bringing Sargablock all over the world and donating houses to all over the people.
+
+**9:17** · In Mexico alone, at least 200 projects are now looking for ways to turn a growing environmental problem into an economic opportunity. And while none of these solutions can single-handedly absorb the millions of tons of sargassum washing ashore each year, they are showing that this unwanted seaweed may have value beyond the beach.
+
+**9:40** · Governments and citizens alike are rushing to adapt the best they can to a phenomenon that is no longer just a seasonal nuisance, but rather an increasingly permanent fixture of coastal communities along the Caribbean. Thanks for watching Inside Latin America. Now back to Doha with more news.
+
+**9:58** · Still ahead on Al Jazeera, from buried underpants. Yes, you heard that

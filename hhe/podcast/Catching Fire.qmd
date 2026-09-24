@@ -12,7 +12,9 @@ categories:
 ![Catching Fire](https://i.scdn.co/image/ab67656300005f1f188f54599e90d89a077379e7)
 
 **Duration:** `= this.duration_string`
+
 **Released:** 2024
+
 **Series:** Big Picture Science
 
 ::: {.callout-description collapse="true"}

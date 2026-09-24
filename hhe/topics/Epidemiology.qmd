@@ -1,6 +1,6 @@
 ---
 title: "Epidemiology"
-date: "2026-08-29"
+date: "2026-08-27T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,2518 @@ listing:
   contents: "Epidemiology_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-08-27T16:00:00, 2026-09-01T16:00:00
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### A new approach to fighting malaria
+
+![May 31, 2019: A new approach to fighting malaria](https://i.scdn.co/image/ab67656300005f1fc76cbaa837eb7407972b777c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2019
+
+**Series:** Better Off
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3jHcEROSL3r8U1MtHJSwzc)
+
+[Open Series in Spotify](https://open.spotify.com/show/2TDswhCVfRb4CNBlGEMVfM)
+
+Each year, more than 200 million people around the world are infected with malaria and more than 400,000 die. For the past two decades, the most successful method of malaria prevention has involved treating bed nets with long-lasting insecticides that kill mosquitoes. But that progress is being threatened as mosquitoes increasingly grow resistant to the most commonly used insecticides. Now, new Harvard T.H. Chan School of Public Health research offers a potential fresh approach to fighting malaria: directly target the parasite responsible for the disease. A recent study showed that mosquitoes that landed on surfaces coated with the antimalarial compound atovaquone were completely blocked from developing Plasmodium falciparum, the parasite that causes malaria. The study was led by Flaminia Catteruccia, professor of immunology and infectious diseases and Doug Paton , a research fellow at the Harvard Chan School. In this week's episode we sit down with Paton to discuss the findings—and how they could be used to make progress in the fight against malaria. Full Transcript: hsph.me/malaria-pod
+
+:::
+
+#### A New Test for Lyme Disease, Developed by High Schoolers
+
+![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5N8msWH12wFtnygV2LaKah)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   A group of students from suburban Atlanta has developed a new method for detecting Lyme disease using the gene-editing tool CRISPR. In this episode: why there's such a desperate need for a new diagnostic, how the students' model works, and why it's so promising for the treatment of Lyme and other diseases.  Guest:  Nicole Baumgarth, PhD, DVM, is Bloomberg Distinguished Professor in Molecular Microbiology and Immunology and the director of the Lyme and Tickborne Disease Research and Education Institute at the Johns Hopkins Bloomberg School of Public Health.   Sankalp Yeleti is a recent graduate of Lambert High School and a rising freshman at New York University, where he plans to study biomolecular science.  Host:   Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health.  Show links and related content:    Teens may have come up with a new way to detect, treat Lyme disease using CRISPR gene editing—CBS News    Lancet—Lambert iGEM 2025   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/41665130/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/fb5600/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+#### Acaropathology (TICKS + LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
+
+# Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
+
+![Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2BLaAYJ1noUkrnLPtuOotq)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+It’s 2-for-1! Ticks AND Lyme: together in one helpful, disgusting, gossipy, empowering episode. This pair of episodes is about tiny, thirsty ticks and the diseases they spit into you is wall to wall wisdom from Dr. Neeta Pardanani Connally of the West Connecticut State University Tick Lab and Dr. Andrea Swei of SFSU’s Swei Lab cover how to remove a tick, if you should spray your yard and with what, how landscaping affects tick exposure, why Lyme Disease is spreading, the Lone Star Tick rolling into town, how to protect your pets and why the CC ruined poppyseed muffins. Also: Powassan virus, meat allergies, paralysis ticks, and twin princesses Borrelia and Babesia. Dr. Neeta Pardanani Connally and  Dr. Andrea Swei will charm their way into your heart like a hypostome under your skin.Dr. Neeta Pardanani Connally’s videos, website, Twitter and InstagramFollow Dr. Andrea Swei and her lab SweiLab on TwitterDonations were made to TickEncounter, Union of Concerned Scientists, and 826 ValenciaMore episode sources and linksOther episodes you may enjoy: Opossumology (O/POSSUMS), Scorpiology (SCORPIONS), Epidemiology (DISEASES), Cervidology (DEER), Forest Entomology (CREEPY CRAWLIES), Planariology (VERY COOL WORMS, I PROMISE, Dipterology (FLIES), Kinetic Salticidology (DANCING SPIDERS), Diplopodology (MILLIPEDES & CENTIPEDES), Myrmecology (ANTS), Sparklebuttology (FIREFLIES), Spheksology (WASPS), Lepidopterology (BUTTERFLIES), Melittology (BEES), Entomology (INSECTS), Urban Rodentology (SEWER RATS)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Steven Ray Morris, Mercedes Maitland of Maitland Audio Productions, and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Adam Kucharski & Proof
+
+![Special Episode: Adam Kucharski & Proof](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4trCxTuisNsBCs35gtUICh)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+Why do we believe what we believe? Is what we believe the truth? How can we convince others of our beliefs? If you’ve ever found yourself pondering these questions, you know that the answers are rarely clear-cut. We need to form beliefs in order to navigate the world, but how skilled are we at evaluating evidence for those beliefs or weighing new data that contradicts them? In this week’s TPWKY book club episode, Adam Kucharski, Professor at the London School of Hygiene and Tropical Medicine joins me to discuss latest book, Proof: The Art and Science of Certainty. With this book, Dr. Kucharski presents a compelling and thoughtful examination of the concept of proof, delving into topics ranging from the justice system (what’s a reasonable doubt?) to infectious disease, clinical design to the founding of this country. And he leaves us with a powerful lesson: what convinced you of something might not convince someone else. Tune in for a fascinating conversation! Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAuSee omnystudio.com/listener for privacy information.
+
+:::
+
+#### Climate - Fighting Extreme Heat In 2026
+
+# Climate: Fighting Extreme Heat In 2026
+
+![Climate: Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** 1A
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5wTsq0Cx1wwAR5l2OvjuDi)
+
+[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
+
+Extreme heat isn’t just an inconvenience. It’s a growing public health threat.More than 40 million people across the U.S. have remained under heat alerts this month. Heat remains the deadliest extreme weather event in the United States. At least 44 people have died as a result of July heatwaves. And in Europe, heatwaves killed more than 10,000 people in June, according to health data published this month.Climate change is making heatwaves hotter and more frequent. And high temps aren’t just being reported in daytime. Nighttime temperatures are higher than ever. And scientists say that’s raising the risk of heat exhaustion and heatstroke – and taking away crucial time for you and the planet to recover.What do you need to know about the effects of heat on your health? And how you can stay safe?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+## Transcript
+
+##### DISCLAIMER
+
+Transcripts of WAMU programs are available for personal use. Transcripts are provided "As Is" without warranties of any kind, either express or implied. WAMU does not warrant that the transcript is error-free. For all WAMU programs, the broadcast audio should be considered the authoritative version. Transcripts are owned by WAMU 88.5 FM American University Radio and are protected by laws in both the United States and international law. You may not sell or modify transcripts or reproduce, display, distribute, or otherwise use the transcript, in whole or in part, in any way for any public or commercial purpose without the express written permission of WAMU. All requests for uses beyond personal and noncommercial use should be referred to [(202) 885-1200](tel:2028851200).
+
+- ##### Speaker: 000:00:07
+    
+    This is one a. I'm Naila Budu in for Jen White. Extreme heat isn't just an inconvenience. It's a growing public health threat. More than forty million people across The US have remained under heat alerts this month. Heat remains the deadliest extreme weather event in The United States. And in Europe, heat waves killed more than ten thousand people in June. That's according to just published health data published from 27 countries. Climate change is making heat waves hotter and more frequent, and high temps aren't just being reported in the daytime. Nighttime temperatures are higher than ever. And scientists say that's raising the risk of heat exhaustion and heat stroke and taking away crucial time for you and the planet to recover. Today, what do you need to know about the effects of heat on your health and how you can stay safe, and what are cities and states doing to fight the heat? We'll get into all of that, but first, let's start in one county that is focusing on fighting extreme heat from the top. Joining us now is mayor Daniella Levine Cava, Democratic mayor of Miami Dade County, home to almost 3,000,000 people. Mayor Levine Cava, welcome to one a.
+    
+- ##### Speaker: 100:01:16
+    
+    Thank you so much, Nyla.
+    
+- ##### Speaker: 000:01:17
+    
+    Let's start with a chief heat officer role that you created a few years ago. How did that position come to be? Why did you see a need for this? It's the first one ever created.
+    
+- ##### Speaker: 100:01:29
+    
+    I have to give credit to Adrienne Arish, who is a philanthropist and very involved in climate change issues, and she actually brought it to our attention. And we said, absolutely, we need to do that because after all, we are the heat capital in so many ways. So we did appoint the first in the world and we have been a national leader and an international leader since then. I co chair the Climate Mayor's Extreme Heat Cohort. We've created an Extreme Heat Action Plan that has made incredible progress and is modeled across the the city and and the the country and the world. And, we are are moving forward and making great progress in reducing heat related related effects.
+    
+- ##### Speaker: 000:02:15
+    
+    So I know that position was launched in 2021. Although it doesn't exist anymore, it was eliminated as part of budget cuts last year. How is that work being done now?
+    
+- ##### Speaker: 100:02:26
+    
+    Yeah. So in actual fact, our chief resilience officer is also our chief chief heat officer. So we haven't eliminated it, but the founder, Jane Gilbert, did retire. She, again, global leader. And we also, have a dedicated staff person who is our coordinator and who is maintaining our focus,
+    
+- ##### Speaker: 000:02:49
+    
+    on this work. What does it mean from a government spending level in Miami Dade County to focus on heat resistance? What does that look like?
+    
+- ##### Speaker: 100:02:58
+    
+    Yeah. So we are doing so many things. We created a heat season. We, have cooling centers 60 around the county, so we leave buildings open, during the heat season. We, give our staff access to not just water and breaks and shade, but those who are exposed, we give them electrolytes, so that they can maintain their body healthy while working outdoors. So all of those things do cost money. We, also, have the staffing, as has been described, and we reduce our energy through all kinds of resilience measures. We've done so much to make our buildings more efficient, and that is is good for the environment, and it's good for the budget as well.
+    
+- ##### Speaker: 000:03:49
+    
+    We're talking to mayor Danielle Lavigne Cava, Democratic mayor of Miami Dade County, Florida. Mayor, I wanted to play this voice mail we got from Alex.
+    
+- ##### Speaker: 200:03:57
+    
+    I believe trees are some of the best ways we can adapt cities to climate change and mitigate the negative effects of heat. My concern is as we try to make more room for trees, we're still competing with cars that seem to dominate our cities and have ample parking. I would like to see cities reduce parking and narrow streets to allow more connected green space while reducing the pervious pavement that hold heat well into the night.
+    
+- ##### Speaker: 000:04:20
+    
+    Mayor Lubinkaba, I wonder how you would respond to Alex's message there. I would say as a native Miami, and I know how much people love cars across the city. Like, how are you thinking about city infrastructure when it comes to fighting heat in Miami Dade?
+    
+- ##### Speaker: 100:04:34
+    
+    Well, first, let's talk about trees because trees absolutely are essential. They can reduce ambient temperature by as much as 10 degrees. So we have been very aggressively planting trees. Last year alone, we gave away 25,000 trees, so we had regular tree giveaways and particularly in the neighborhoods with lower tree canopy. So, that is a critical part of it. We also, of course, are pushing transit. Transit is much more efficient. It has lower emissions, so it's overall helping climate as well as traffic.
+    
+- ##### Speaker: 000:05:11
+    
+    So those are a few of the the ways that we're addressing it. I mentioned nearly 3,000,000 people live across the county. We've all probably heard of the idea of extreme heat islands. Can you explain how in Miami, some neighborhoods are more unequal than others when it comes to how people are experiencing extreme heat?
+    
+- ##### Speaker: 100:05:29
+    
+    Yeah. As I said, you've got lower income communities, sadly, are often those with the lower tree canopy. So we've been targeting our tree giveaway and our tree maintenance in those neighborhoods and actually providing support for how to take care of those trees. Also, removal of large trees is very much discouraged, and we've also started relocating large trees. If infrastructure projects require their removal, we are working hard and have been working with some fantastic vendors to move them so that we do not lose, the overall benefit of that. We also have done a lot to bring more cooling to those neighborhoods. So the cooling centers, I mentioned 60, that are across the county. We also, for example, in our public housing installed 1,700 high efficiency cooling units, through dollars from the infrastructure bill in the previous administration. So we also have shaded now, bus stops. That's critically important. We want people to use transit, but they're exposed to the elements, including heat, so we have launched an aggressive campaign to provide shade for for those who have to, wait in in the elements for their buses.
+    
+- ##### Speaker: 000:06:51
+    
+    Mary, you mentioned the previous administration. Are you getting the support from the federal government, as well as from Tallahassee and state government for, these different implementations that you would like to have across this the county?
+    
+- ##### Speaker: 100:07:06
+    
+    Well, I will say, sadly, the state legislature preempted us from heat standards standards for workers other than our own county employees who we do protect. But fortunately, we've been able to raise awareness with our public education campaigns, and we have hundreds of companies that have come to us for training and education and utilizing our tools, how to protect their workers with shade, water, and rest.
+    
+- ##### Speaker: 000:07:34
+    
+    We got this text message. I work outdoors at parks in Miami Dade County. Some parks have put out big barrels of cool water with cups for the attendees. Other hosts have made sure lots of coolers full of bottles of water were available. In the past few years, I've been at events, and patrons have passed out. EMS has to be called. I passed out once at home. I believe I was experiencing dehydration. I've now made a simple concoction of water, a tablespoon of lemon juice, and orange juice, and salt, and sip on that throughout the event. Mayor Lavinkava, when you think about, the culture, particularly around workers and what employers need to do, you mentioned that you have tried to set a standard with county workers. What else have you, what other conversations do you have with major employers, especially as people are working outside to protect them?
+    
+- ##### Speaker: 100:08:24
+    
+    Yeah. So definitely, we've been very successful with a lot of our employers adopting voluntarily because we're preempted from mandating the kinds of protections that, this this person has mentioned. But as well, we're very aggressive with our hydration stations. So water is life is our theme for our water and sewer department. We go with, dispensers of of water from the tap. Right? We're avoiding water bottles. We don't need those. We want people to to bring their own containers and, of course, if they're using bottles to recycle. But I'll give you an example. World Cup, we just had seven games. And during that time, most of the games were on days of extreme heat. In fact, the first extreme heat day was on the first day of World Cup, June 15. We have been so successful in preventing serious illness from heat, we distributed about enough water in cups to about twenty percent of the game attendees across, the the games, the the whole season, and that, unfortunately, they were not allowed to bring more than a small water bottle, and, of course, it costs money at those stadiums to to purchase. So we were very pleased. We had cooling stations, and people availed themselves of that, and we were able to greatly reduce any injury both at the games and at our fan fest. You know, when you think about South Florida, I think,
+    
+- ##### Speaker: 000:09:50
+    
+    hurricanes are sort of the natural disaster that gets encoded into people's DNA. Tropical storm Bertha is making its way across The Gulf as we speak. How do you think about heat waves as part of your overall natural disaster strategy, and how are you trying to help people recognize this can be a serious problem?
+    
+- ##### Speaker: 100:10:08
+    
+    Yeah. We added heat to our trifecta, hurricanes, floods, and heat. So what used to be our annual hurricane season is now all three. And we use that for public education, awareness, prevention, just as you say. We also worked with the National Weather Service to signal extreme heat at a lower temperature given the extreme humid conditions in our environment. So all of this is designed around increasing awareness. Look, when we started this with the first heat officer, people laughed. They thought it was a joke, but they're not laughing anymore.
+    
+- ##### Speaker: 000:10:47
+    
+    That was Daniella Levine Cava, Democratic mayor of Miami Dade County, Florida. Mayor Levine Cava, thank you for being with us. We appreciate it. Thank you. We got this from another listener in Florida. I plant native trees and bushes here in South Florida, and my property stays about 15 degrees cooler most days. I find it pleasant to garden any time of day. If people did not remove trees and did not let developers remove trees, then the land will take care of itself. You can keep the comments coming by emailing 1a@wamu.org. Coming up, the effects of heat on your health, what do you need to know, and how can you stay safe? I'm Nyla Budu. This is one a from WAMU and NPR. I'm Naila Budu. This is one a. We're talking about extreme heat. Let's turn to the effects of extreme heat on our bodies and what you can do to stay safe. Joining us now is Amrita Nourisarma. She's an environmental epidemiologist studying climate change and health, an and assistant professor at the Harvard T. H. Chan School of Public Health. Amrita, welcome. Thank you for having me. And Jiva Lang is also with us. She's a staff writer at Heatmap News. Jiva, it's nice to have you as well. Hi. Excited to be here. And we wanna hear from you listening. How are you responding to the heat and staying cool this summer? We just heard from Miami Dade County. What are your city officials doing? Share your tips and experiences. You can email us 1a@wamu.org. Jeva, I was just mentioning we just spoke with the mayor of Miami Dade County. I just wondered your thoughts about what she said about cities, climate resilience, the idea of having someone actually at the county level focusing on this.
+    
+- ##### Speaker: 400:12:58
+    
+    Yeah. I think this is really important work, and Miami is such a leader in this area. And, I think there's other cities too that are doing great work in this area as well. The two that come to mind are, Spokane and Portland, have been pursuing, temperature maximums for renters. Renters tend to have the lowest AC, access of, compared to homeowners, and that's been a really exciting, method of pursuit for those cities to protect people from the extreme heat. But I think the the big takeaway here is just that we need to be taking heat more seriously, whether that's protections for people at home or protections, like you were discussing, the heat can or the urban heat effect
+    
+- ##### Speaker: 000:13:50
+    
+    and the tree canopy is, protecting people in that way. And, Risha, do we know yet, as we see cities taking more action, if there's a way to determine if that is leading to fewer heat related emergency room visits?
+    
+- ##### Speaker: 300:14:04
+    
+    Yeah. This is a great question. And I think that it's a little bit challenging because there's obviously some lag between when the heat wave happens and when we get back information. So we might have to wait for a couple of weeks to know whether or not the strategies were effective, but we are starting to get information quicker and quicker, regarding emergency department visits and hospitalizations associated with heat. We're also starting to see signals in some of the more nontraditional health outcomes that are associated with extreme heat. So, you might think of heat stress or heat stroke as some of the more obvious directly related pathways, but we're starting to see things like dehydration illnesses, renal insufficiency. We're seeing some patterns in terms of changes in the ways that people respond for those health outcomes as well. So I think looking beyond just the traditional health outcomes is a good way that we can start to see those signals sooner as well.
+    
+- ##### Speaker: 000:14:59
+    
+    Jeva, it's been a few weeks since the July 4 weekend, which we saw record breaking heat waves throughout the country. More than 20 cities broke heat records this month. We know temperatures are rising year after year as a result of climate change. What factors are behind this summer's extreme heat that we need to know about?
+    
+- ##### Speaker: 400:15:19
+    
+    Yeah. Great question. June 2026 was the second warmest globally, and it was the hottest ever for Western Europe. I think when you look at the headline number for The United States, it's the eighteenth warmest June in the Contiguous United States. It just doesn't sound very extreme. But what we're seeing is these prolonged severe heat domes. So those highs are really, really high. Like you were saying, there were, I think, 1,300 heat records matched or broken over that fourth of July weekend. And that's just, again, because the because of greenhouse gas emissions and also, likely a strong El Nino. We're still figuring out exactly what mechanism is at play for the heat here, but
+    
+- ##### Speaker: 000:15:58
+    
+    the greenhouse gas emissions make the entire atmosphere warmer. That means we're starting at a warmer baseline. So these highs can get really, really high as a as a result of that. Jeva, we should I wonder if you can just help us understand. We've used the term extreme heat a few times now. Can you define that for us precisely in how it's categorized?
+    
+- ##### Speaker: 400:16:16
+    
+    Yeah. It's a it's a hard question to answer because extreme heat, is so contextual. Extreme heat for people in the South is very different than extreme heat for people in, say, the Pacific Northwest or people in Northern Europe, these places that haven't seen extreme temperatures before. So there isn't really, like, a number or a threshold that you have to break in order to be have extreme heat or not. It's really about, how
+    
+- ##### Speaker: 000:16:40
+    
+    how much does this diverge from the historic norms in this area. So, Amrita, you talked about heat related emergency room visits. Around 120,000 were recorded across The US in 2023. That's according to the CDC. At what temperature and under what temperature conditions with the heat index, does the heat become particularly dangerous for our bodies? And I imagine, of course, there are caveats to people who are much more vulnerable than others.
+    
+- ##### Speaker: 300:17:10
+    
+    Yeah. That's a really good question. And I think, going back to one of the things that Jeeva was saying a few minutes ago, it's so contextual because extreme heat, it means something different if you're in the Northern Part of US compared with the Southern Part of US. Some of that is also about adaptation that's already been implemented in different communities. So, you know, homes in the Southern United States might have air conditioning, for example. So the ambient temperatures might have a less of an impact until the temperature gets much more extreme. But generally speaking, once we see a combination of heat and humidity, that's above about the ninety fifth percentile of whatever is normal for that area. That's when we start to see these really sharp increases. And we think of that as a more extreme heat period. And we start to look at comparing increases in some of those severe cases of heat related illness around that threshold. What does the ninety fifth percentile mean? Again, it means something different if you're in the Southern US compared with New York or Boston, for example.
+    
+- ##### Speaker: 000:18:15
+    
+    What are some signs people should look out for that might signal heat exhaustion or heat stroke, and what's the difference between those two, Amrita?
+    
+- ##### Speaker: 300:18:24
+    
+    Yeah. So heat exhaustion is, maybe I could call it a little bit of a less extreme version of heat related illness. It's where people start to feel tired. Your body is no longer able to sweat, which is one of the primary ways that we kind of cool off when it's very hot outside. By comparison, heat stroke looks very similar to a regular stroke. It's dizziness. It's, kind of loss of speech patterns. It's, you know, changes in your ability to speak. It's changes in your ability in your cognitive function. And it is generally something that requires more severe treatment. So, if you have heat exhaustion, you can generally treat that at home with hydration. One of the things that the mayor was mentioning earlier is that water is life. That's very important. If you're having a heat stroke, that should be you know, you should be looking out for some of those more severe symptoms, and that should be a good reason to visit an emergency room or an urgent care facility to get your core body temperature cooled down.
+    
+- ##### Speaker: 000:19:32
+    
+    Jeva, there are as many as twelve thousand recorded heat deaths in The US each year. How does that how do we account for that? How do we know that people have died because of extreme heat?
+    
+- ##### Speaker: 400:19:42
+    
+    It's a complicated question. There's about three different ways you can calculate excess or, heat deaths. One is direct and indirect. These are two different categories of looking at deaths. So direct deaths from heat, there's a diagnostic code. It's x 30. It's a medical classification for a death due to excessive natural heat. This is distinct from excessive unnatural heat, such as a tanning bed death, a little bit of morbid trivia through the morning. But the direct deaths are exactly what we're talking about in terms of heat exhaustion or heat stroke. The the classic what you think of as somebody dying from heat. Then there are excess dust or indirect dust from heat. That's cardiovascular events, stroke, complications from diabetes, respiratory illness, all the other ways that heat can kill you that's maybe a little bit more invisible. So if somebody comes into a hospital with a heart attack, the physicians are treating that heart attack. They're not sitting there being like, is this heart attack from the heat outside right now? So it might not be coded as a direct heat death, but it's still somebody who died from the heat. And there's two different ways you can count these excess heat deaths. So one is to look at how many more people died compared to what you would have expected for that period of time. And then for so for an example of this is, in France, there were, twenty one thousand six hundred all cause deaths between June 17 and July 2. That was their heat wave in Europe. Statistical modeling would have expected about fifteen thousand nine hundred and ten deaths based on the previous year, so that gives us an excess of about seven or, five thousand seven hundred. And then the third way of doing this is basically a predictive model. So saying we know when the temperature rises by x amount, this number of people will die and kind of using that model to fit with, the temperatures that were recorded. So there's a bunch of different ways to record excess deaths, a bunch of different models that need to be peer reviewed. And so this this work is still ongoing for heat events, both in Europe and in North America. But this is why you can see many different numbers for how many people died in a given heat wave.
+    
+- ##### Speaker: 000:21:50
+    
+    That's Jiva Lang, a staff writer at Heatmap News. We're also talking to Amrita Nourasarmi Nuri Sarma. She's a environmental epidemiologist studying climate change and health. We're getting texts and emails from you all. We got this text from one of you. I am medically unable to deal well with heat. Anytime the temps start hitting the upper eighties, I am strictly inside or headed for another air conditioned space. Of course, that means I miss out on all the nice outdoor activities, including the beach. Amrita, can I ask you we also got this text? Is there any data on how COVID is impacting people's heat tolerances or exacerbating heat effects? I've been getting more frequent migraines from the heat. Friends of mine with high blood pressure are reporting suffering. It seems like I'm less able to tolerate it now than I was a couple of years ago.
+    
+- ##### Speaker: 300:22:40
+    
+    Yeah. That's a great question. And I think that there are potentially two things that are happening here. The first one is that, obviously, COVID changed a lot of people's, ability to be in public spaces. And I think for a long time, people were kind of isolating and staying indoors, avoiding close contact with other people. And as a result, I think there have been some long term impacts on, immune systems across the board. And so I think people have definitely suffered from that long lack of exposure to the outdoors and to other people. And I think that has some, immunological implications for the long term. I think the other thing is that people who have experienced COVID illness, and at this point, we've gone through multiple waves of COVID, that might also have an individual level impact, as this person mentioned in their note. So people who have experienced maybe some of the symptoms of long COVID, we do talk about often how one of the most vulnerable groups, to extreme heat is people with preexisting medical conditions. So we do know that people who have underlying, for example, cardiovascular diseases or illnesses, people who have respiratory illnesses, people who have pre existing mental health conditions may be particularly susceptible when it's very hot outside. And I would say the same is likely true for people who are experiencing the symptoms of long COVID. There might be some individual level vulnerability because of the long term medical impacts that you're facing after having a period of COVID infection as well.
+    
+- ##### Speaker: 000:24:16
+    
+    I wanted to, Jeeva, talk to you about wildfire smoke. This year, along with the heat, we've seen wildfire smoke from Canada blanketing the Midwest and East Coast affecting a hundred and fifteen million Americans. What's the relationship between extreme heat and wildfires? What's made this year's wildfire smoke especially bad?
+    
+- ##### Speaker: 400:24:35
+    
+    Yeah. So there's, it's there there's a lot of relationships between wildfire smoke and heat. In particular, this year, the the smoke was directed over the most populated areas of The United States by the heat dome, which was raising all of those temperatures. So the temperatures got really hot in, Northern Minnesota and Ontario. There were lightning fires, and, that smoke then rotated around this heat dome that was making extreme temperatures, and blew the smoke into some of the most populated areas of the country. And this is, when we talk about, like, compounding climate crises, this is kind of the classic example of you wanna run your air conditioning, you wanna have your windows open because it's so hot out, but at the same time, you need to protect yourself from the wildfire smoke. So these two crises really go hand in hand and make a kind of a perfect storm of, like, terrible conditions that you want to avoid.
+    
+- ##### Speaker: 000:25:34
+    
+    Yeah. Emerta, a study published in February by the journal Scientific Advance shows that wildfire smoke inhalation caused twenty four thousand deaths each year from 2006 to 2020. What effect does wildfire smoke have on our bodies?
+    
+- ##### Speaker: 300:25:53
+    
+    Well, we know that there are a lot of impacts from just overall air pollution exposure. There's a pretty direct relationship between how much particulate matter you're inhaling, especially the finer particulate matter that's smaller in size, which can descend deeper into the lungs and cross the blood brain barrier and lead to a whole host of different health outcomes. And we know that that happens even at very low levels. So once we get into particulate matter that's much of much higher in concentration, such as the, PM that we see from wildfires, we can see a lot of different health impacts from that. We see respiratory illnesses. We see cardiovascular illnesses. We see increases in stroke. There are a lot of different health impacts from, exposure to that high level of particulate matter. The other thing that I think is really important is, you know, in addition to people not being used to those very high levels, you know, in The United States, because PM 2.5 has historically since the Clean Air Act, been pretty heavily regulated, we've seen, pretty low concentrations on a regular basis of particulate matter. But when we have a wildfire where trees are burning or maybe urban areas are burning, we'll see these huge spikes in the levels of PM 2.5, and people just aren't used to it. People are experiencing these extreme levels, that that they haven't been experiencing historically at baseline.
+    
+- ##### Speaker: 000:27:18
+    
+    Jeva, in a headline this month, heat map calls wildfire smoke the East Coast's new forever problem. Are there federal guidelines that exist around wildfire smoke the way we've been talking about cities trying to deal with extreme heat? From a policy standpoint, are we doing enough to deal with this persistent problem?
+    
+- ##### Speaker: 400:27:38
+    
+    I don't think so. This is such a new problem in parts of the country that there aren't really standards for dealing with it. I think a really good example of this actually is that heat and air quality alerts are not typically considered together. These are two separate metrics and two separate alert systems. And, really, they should not be triggered independently. They should be considered together. Again, as you were talking about, they go hand in hand. And I think we're just seeing the way that cities are kind of on their back foot with dealing with wildfire smoke when it comes to everything from deciding at what point we should cancel sporting events or outdoor events. There's not really an AQI threshold that people talk about yet. And I think, yeah, it's just an area that there's a lot of opportunity to make decisions now before it gets worse.
+    
+- ##### Speaker: 000:28:30
+    
+    That's Jiva Lang, a staff writer with Heatmap News. We're discussing street extreme heat as well with Amruta Nuri Sarma. She's an assistant professor of environmental health and population sciences at Harvard. Still to come, what are the long term effects of heat exposure on your health, and what responsibility do local and national governments have to protect you? And you can join the conversation. We got this text. I live in Dallas, and the temperature yesterday went up to 111 degrees. I make sure I have lots of water, leave my car windows open when I park, and I park my car in the shade. I'm trying to stay in shaded areas as much as possible. We're gonna be talking about shade coming up. You can keep the questions or comments coming to 1a@wamu.org. I'm Nyla Voodoo. This is one a. Let's get back to our conversation on extreme heat with Amruta Nuri Sarma. She's an assistant professor of environmental health and population sciences at Harvard, and Jeeva Lang, a staff writer at Heatmap News. Jiva, I wanted to go back to Europe for a moment. We've talked about the fifty seven hundred heat related deaths in June that France recorded, thirty six percent more than the average year. That's the most since February heat wave. Jiva, I hear from my family in Europe a lot about how different it is compared to America experiencing heat waves. You were in Europe in June. What was it like?
+    
+- ##### Speaker: 400:30:30
+    
+    Yeah. I was in Europe in June, and I was there specifically with my nine month old baby and my father who both fall into these vulnerable populations, a very young person and older person. And it was really scary. I mean, we were privileged enough to be on vacation. We were staying hotels that had great AC, but I really feel for people who didn't have that ability to get out of the heat very easily. One of our kind of scary experiences was actually in Paris the first day of the heat wave where we were out with our baby in a backpack, and she got way too hot. She was slumped over. We actually were trying to find a place that had AC to get her to cool down. And it was very difficult to find AC. It's just not as widely available as it is in The United States. So I think both culturally, there's not the same, emphasis on putting an AC unit in your building as there is in The United States. And then also just these aren't places that have historically had to deal with extreme heat. And as a result, the buildings, the airflows, all of the infrastructure there is just not set up for,
+    
+- ##### Speaker: 000:31:34
+    
+    these triple digit temperatures that they're seeing now. We got this text from James. I spend most of my day in my living room because it's the only air conditioned room in my 100 year old home. Having just returned from The UK, I appreciate the amount of air conditioning we have in The US. I've also been taking cold showers to cool off. As for others in my area, I know in the past that the city has used the old train Depot as a cooling center as we do have a significant number of unhoused people. Jiva, when we talk about air conditioning, that's 90% of American households who have it. In Europe, that's about 20% to what you're discussing. I wanted to ask you, there's a pilot program in New York City that's giving renters power banks to try to alleviate the strain on the power grid for their, air conditionings from everyone turning on their AC at once. It's just a small program right now, but giving away renter friendly generators. The company that's giving away these renter friendly generators hopes to roll it out in other cities. How important is air conditioning to this conversation, especially as we factor in the electrical grid as well as the fossil fuel consumption that happens as we're using AC?
+    
+- ##### Speaker: 400:32:47
+    
+    Yeah. AC is life giving at this moment in The United States. We really rely on it. And I think that there is a danger in over relying on air conditioning. There are scenarios that have been run specifically looking at what would happen in Phoenix if there was a heat wave, and the numbers up there are pretty scary. I think it's like a third of the city could end up hospitalized if there was a multi day heat wave where there was a blackout at the same time. And so while AC is important and critical and especially access to AC, again, this is also an affordability issue, of course, or people who can't afford to run their AC all summer. We need to be finding other ways to keep our cities cool as well.
+    
+- ##### Speaker: 000:33:31
+    
+    We got this text from Diane. Houston is hot, muggy, and feels like temperatures of a 105 and up. It's best to stay inside and only go outside if necessary. Even dog walking has to be curtailed and shifted off sidewalks and roads to shaded area. My biggest fear is that the electrical grid can't handle the load and power outages result. Dheeva, how have we seen the grid handling things this summer? Pretty well, it seems.
+    
+- ##### Speaker: 400:33:55
+    
+    Yeah. So far, it's been okay. And I think that's a relief. We've also seen these record pulls on the grid, especially in the New York City area, I believe. And so it's holding up okay. But, again, this is always a thing that operators are worried about in the summer is the potential for because the heat doesn't just stress people's bodies. It stresses the infrastructure too, the electrical grid's infrastructure. So, at the same time, our bodies are getting exhausted. The infrastructure is getting exhausted.
+    
+- ##### Speaker: 000:34:27
+    
+    Emerta, do we need to be considering AC as a public health matter, access to air conditioning?
+    
+- ##### Speaker: 300:34:34
+    
+    Absolutely. And it's one of the strategies that I think has been mentioned consistently throughout the last, you know, few minutes of the conversation, you know, opening up cooling centers as a public health intervention, air conditioned spaces for public access. And I think that, you know, we need to, as you said, balance the pros and cons of additional reliance on, air conditioning, especially as we start to see more and more number of days where we're hitting these extreme temperatures and longer and longer periods where we need those types of interventions or some sort of alternative
+    
+- ##### Speaker: 000:35:08
+    
+    for public health. Can I ask you about Diane's text, Ruta, where she says that it's best to stay inside and only go outside? Dog walking even has to be curtailed. What are we seeing with extreme heat? I know it's really affected my exercise routine this summer. As someone who likes to exercise outdoors, how how are we seeing extreme heat affecting people's health in that way?
+    
+- ##### Speaker: 300:35:31
+    
+    Yeah. I think it makes it more challenging to do some of those outdoor activities that you might enjoy. I think that, you know, one of the things we could do is we could ask people to shift the timings when they're going outside for their activities or for their exercise. So instead of, you know, going in the middle of the day, maybe focusing on early morning periods where the temperatures might be slightly cooler, of course, that only works when we don't see the extended periods of extreme heat that lasts into the night. And there might be other options such as, you know, trying to work out in an air conditioned space or in a gym or something along those lines. But I do think it does have impacts for people who usually prefer to exercise outdoors.
+    
+- ##### Speaker: 000:36:10
+    
+    Let's talk about air conditioning, cooling centers. I wanted to play a little bit of New York City mayor Zoran Mondami before the fourth of July holiday earlier this month talking about mitigating the effects of heat exposure.
+    
+- ##### Speaker: 500:36:23
+    
+    These are extremely dangerous conditions, and they will affect every part of our city. To prepare, I have activated the city's heat emergency plan. Since last week, our city agencies have been proactively coordinating to keep New Yorkers and tourists safe. We will also issue targeted alerts through our city's advanced warning system to protect our most vulnerable neighbors, like older New Yorkers and those with chronic illnesses. Beginning tomorrow, the city will open hundreds of cooling centers across the five boroughs.
+    
+- ##### Speaker: 000:36:57
+    
+    Amruta, aside from cooling centers and vans that the New York City mayor announced, what else is important to be, you can do to stay cool in record heat, especially if you're not able to access those facilities?
+    
+- ##### Speaker: 300:37:12
+    
+    Yeah. We've done a lot of work, especially in the Greater Boston area to try and understand what the, factors are that encourage people to use public spaces for cooling activities and also what some of the barriers might be. I think a couple of things that are really important is that people who would use those facilities want active cooling or active opportunities to become cooler in places that they're already going. So I think one of the things that the mayor mentioned earlier was providing drinking water in those high important component, rather than having another place that people have to go to get protection from the heat. Other things are looking for other types of cooling. So public splash pads, public pools, places where people could use water based activities. We know that those are really protective during extreme heat waves as well. And then finally making drinking water widely available, shaded spaces widely available. Maybe those aren't as effective as air conditioned spaces, but in an opportunity to have shade versus direct sunlight, I think the shade will often be preferable,
+    
+- ##### Speaker: 000:38:28
+    
+    to reduce some of those health impacts as well. I do wanna talk about shade, but first, can I just ask you about the water breaks, especially for outdoor workers? We heard Miami Dade mayor Danielle LaVine Cava talk about the fact that they tried to pass legislation in Miami that was overturned, by the governor. The same and the similar things we've seen in Texas in 2023. Republican Texas governor Greg Abbott approved a law eliminating ten minute water breaks for construction workers arguing that it bogs down businesses. As we're seeing some states move to take away these protections from different municipalities, what can people who work outdoors or have to be outdoors for prolonged periods of time do to stay safe?
+    
+- ##### Speaker: 300:39:13
+    
+    It's a good question. And I think, you know, carrying water on their person so that they can continue to take sips of water throughout the day, it's really important to stay hydrated. That's the only way that we're going to see, you know, less of these extreme health outcomes. And one of the things that I would argue from a public health perspective is that, yes, it could be disruptive to have a ten minute water break, but it would also be disruptive to have a worker who experiences heat stress or heat exhaustion or heat stroke and has to have a more severe medical intervention as a result. So I think it's important for businesses to take those different trade offs into consideration. Do I give my workers a ten minute water breaks in order to ensure that I'm not they're not experiencing a larger health event down the line? So, you know, I think I think it's really important to make sure that people can have access to hydration, access to breaks, access to shaded spaces if they're working outdoors.
+    
+- ##### Speaker: 000:40:08
+    
+    As we're talking about shade, last summer during another heat wave in Europe, we spent an hour talking about the value of shade and staying cool and why most cities in The US don't have enough of it. Here's V. Kelly Turner, a professor of planning at UCLA.
+    
+- ##### Speaker: 300:40:23
+    
+    Shade fundamentally changes the equation about how much energy your body needs to expend when it's hot. All else equal, a person standing in the shade can be up to 30 degrees Celsius cooler than someone just a few feet away standing in the sunlight.
+    
+- ##### Speaker: 000:40:40
+    
+    You can find that conversation online at the 1a.org. Emerita, this morning, I will say it was a wonderful, amazing 68 degrees in DC. I was so excited. I had a wonderful few minutes outside before I came into the station. I feel like I've been trapped inside for so long. As someone who's researched the effects of heat on mental health as well, what do we need to know about that?
+    
+- ##### Speaker: 300:41:02
+    
+    Yeah. We know that heat has really severe impacts on people's physical health and what's starting to become more apparent is that people's mental health is really impacted as well. We've seen in some recent work that my team has done looking at emergency department visits associated with all different types of mental health causes, increases in emergency department visits as summertime temperatures increase. So this is for things like substance use disorders, schizophrenia, self harm, mood disorders, anxiety, stress disorders. There are a whole host of different mental illnesses that present and get exacerbated
+    
+- ##### Speaker: 000:41:36
+    
+    during periods of extreme heat. We got this email from Jordan. Amrita, I wonder if you can just answer it quickly. Jordan says, I've heard that those who take SSRI medications for anxiety or depression have a more difficult time regulating body temperature and wind up suffering a bit more in excessive heat. Is there any truth to this?
+    
+- ##### Speaker: 300:41:55
+    
+    Yes. This is actually, a documented pathway. SSRIs can cause heat intolerance because they interfere with the hypothalamus, which is the temperature regulator in the brain. This also, can increase the risk of things like dehydration, heat exhaustion, and heat stroke. I think SSRIs also have been shown to, interfere with sweat production as well. So, you know, taking SSRIs can impair your body's cooling ability. They can also disrupt the thirst mechanism. So they can make it harder to know when your body is actually getting thirsty, which is a signal that starts the pathway of dehydration. So again, all of the same things that we've been talking about previously, just making sure that you're staying hydrated, important for folks who have underlying medical conditions that require treatment with SSRIs.
+    
+- ##### Speaker: 000:42:45
+    
+    Jibo, I just wanna shift the conversation back to the idea of federal policy, federal funding. The Trump administration is proposing a $1,700,000,000 or about 27% cut to NOAA as part of the 2027 fiscal splint spending plan. How will these cuts affect forecasting, if at all?
+    
+- ##### Speaker: 400:43:04
+    
+    Yeah. This is a really important point, and there's a lot of things that worry me about this, but the most relevant to our conversation is that staff cuts would mean things like weather balloon launches and sensor maintenance are no longer happening. Weather balloon launches, happen regularly. They help us measure wind, temperature, humidity, pressure, and make those severe weather forecasts. And the administration has said that they want to pivot to AI, that they think that this is a way forward in forecasting, but artificial intelligence is only as strong as the data that's being input. And if we're not getting that robust data from the field, which takes takes boots on the ground, takes people out there launching the balloons themselves or fixing sensors at sea, then we're just not the quality of our forecast is going to be severely degraded.
+    
+- ##### Speaker: 000:43:51
+    
+    We just have about a minute or two left. I just wanna ask you, Amrutha, if we talk about climate change making it hotter each year and this is our new normal, what should we be thinking about or doing as individuals or at the community level?
+    
+- ##### Speaker: 300:44:04
+    
+    We we have a lot of, individual level protective factors. One of the ones that I like to mention is, social networks, reliance on social networks to help us to stay safe during times of extreme weather, including extreme heat. You know, David mentioned earlier, some of the vulnerable populations, including the elderly, making sure that friends are checking in on friends, neighbors are checking in on neighbors or if you know that your loved one has a medication that they're taking that they might, that might impact their ability to regulate during heat waves, that they have access to the resources that they need. I think there are a lot of other resources that are available, that we've been talking about over the course of the last little bit. And, one of the best ways that we can make sure that especially those folks who are vulnerable know about the resources that are available within your community is also through those social networks as well.
+    
+- ##### Speaker: 000:44:59
+    
+    That was Emerita Nuri Sarma. She's an environmental epidemiologist and assistant professor of environmental health and population sciences at the Harvard T. H. Chan School of Public Health. I wanna thank Jeeva Lang as well for joining us, a staff writer at Heatmap News. Remember, the one a podcast is a great way to catch up on anything you might have missed. It's where you'll find our best guests and stories every day. Today's producers were Arfy Geddie and Thomas Lu. This program comes to you from WAMU, part of American University in Washington, distributed by NPR. I'm Nyla Budou in for Jen White. Jen's out for a few weeks. Join me tomorrow for the Friday news roundup. This is one a.
+
+#### Daniel Stone & American Poison
+
+# Special Episode: Daniel Stone & American Poison
+
+![Special Episode: Daniel Stone & American Poison](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3lZXFc11ca7XxCIGh6PhvO)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+The widespread use of leaded gasoline in the 20th century led to one of the world’s biggest public health and environmental disasters, the effects of which are still present today. Since its development in the 1920s, leaded gasoline has been linked to premature death, cognitive impairment, and behavioral issues in millions around the globe. How was such a toxic substance permitted to be sold, despite the tireless efforts of industrial medicine warriors like Alice Hamilton? In American Poison: A Deadly Invention and the Woman Who Battled for Environmental Justice, award-winning author and historian Daniel Stone tells the story of leaded gasoline - its heroes, its villains, and the lessons we can learn. What will emerge as this generation’s leaded gasoline? PFAS? Microplastics? Something else entirely? History doesn’t have to repeat, but it will unless we heed the lessons of the past. Tune in for a fascinating episode! Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAuSee omnystudio.com/listener for privacy information.
+
+:::
+
+#### Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei
+
+# Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei
+
+![Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei](https://i.scdn.co/image/ab67656300005f1f66221027296ed7a75e118c2f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2019
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/35RVV3c2ybXMK63ylbuSyS)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+Lyme Disease! Powassan virus! That Lonestar tick meat allergy! Paralysis ticks! Acarology taught us all about the eight-legged villains that aim for our crevices, but Disease Ecologist Dr. Andrea Swei offers a deep dive under the skin to learn more about what nasties a tick can give us. We chat a whole bunch about Lyme Disease: its prevalence, testing, treatment, which animals carry it, “chronic Lyme” vs. post-treatment Lyme. We also cover how lizards might harbor a helpful protein, two Ukrainian princesses by the names of Borrelia and Babesia, why you'll want chickens and possums hanging out at your barbecues, Lyme vaccines, pet care, symptoms, prevention and what scares her most. This one's a wonderful episode on its own, but is even better as a follow up to Acarology: the nightmare lesson of how ticks work. Listen to the Acarology (TICKS) episode: alieward.com/ologies/acarologyFollow Dr. Swei on Twitter @Andeswei or @SweiLab Donations went to: Union of Concerned Scientists, and 826 ValenciaSponsor links: “You” podcast by Okta; Kiwico.com/Ologies; HelixSleep.com/Ologies; thegreatcoursesplus.com/ologiesMore links at alieward.com/ologies/diseaseecologyBecome a patron of Ologies for as little as a buck a month: www.Patreon.com/ologiesOlogiesMerch.com has hats, shirts, pins, totes!Follow twitter.com/ologies or instagram.com/ologiesFollow twitter.com/AlieWard or instagram.com/AlieWardSound editing by Jarrett Sleeper of MindJam Media & Steven Ray MorrisTheme song by Nick ThorburnSupport the show: http://Patreon.com/ologies Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby
+
+![Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2022
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/65hcxkx37F5P6Y3YYEiW48)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+Oh boy. This episode may seeeeem crappy but it is certainly not a waste of your time. We’re not kidding, while the episode is of course wonderful, mostly thanks to our wonderful guests, it is also certainly about poopy wastewater and what we can all learn from it. About those terrific guests: we mostly speak with Dr. Amy E. Kirby, Ph.D., MPH of the frickin’ CDC (yes, that CDC) about the National Wastewater Surveillance System or NWSS. Did you know sewer water is not just a feature of teenage mutant ninja turtle habitats? Epidemiologists have been using the contents of our collectively owned chocolate waterfall to track disease since polio, but it was only in response to COVID-19 that the CDC launched the NWSS “to coordinate and build the nation’s capacity to track the presence of SARS-CoV-2.” So we learn a bit about what all that means, as we talk weird waste, medication levels in the water, whether or not “silent but deadly” is flim flam, and more in this absolutely gushing sluicegate of an ep.BUT WAIT. That’s not all. We got two little extra guests! First up, your ol’ Dadward did a prank call on Amy Narimatsu of Shorerivers.org, so she has a fun little cameo, and we conclude with previous virology guest, Dr. Shannon Bennett, of the California Academy of Sciences to discuss what’s happening with COVID these days, and why it’s important to stay safe for those who still need protection.It’s an absolutely bursting septic tank of an episode so… Hang on to your butts.Follow the CDC on TwitterLearn more about the CDC's National Wastewater Surveillance SystemFollow Dr. Bennett on TwitterA donation was made this week to ShoreRiversSponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramSound editing by Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Epidemiology (DISEASES) with 'This Podcast Will Kill You's' Erins Welsh & Allmann-Updyke
+
+![Epidemiology (DISEASES) with 'This Podcast Will Kill You's' Erins Welsh & Allmann-Updyke](https://i.scdn.co/image/ab67656300005f1f23459bd2ed173dece5351431)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2018
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/32behi1ZWZQ4NmOm3VgEe5)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+TWO epidemiologists-named-Erin -- and hosts of the stellar This Podcast Will Kill You -- chat with Alie about historical horror stories, THE plague, cholera cocktails, flu shots, tick bombs, milkmaids, witch trials and more as they share their infectious enthusiasm for disease ecology. How much should you wash your hands? What's the best way to flirt with a stranger on a bus? Why are people scared of vaccines? What conspiracy theory enthralls Alie? So many questions with uncomfy, but fascinating, answers.Listen to This Podcast Will Kill YouFollow TPWKY on TwitterMore episode sources & linksBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, pins, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramSound editing by Steven Ray MorrisTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Hantavirus - the risks, the science and what you need to know
+
+# Hantavirus: the risks, the science and what you need to know
+
+![Hantavirus: the risks, the science and what you need to know](https://i.scdn.co/image/ab67656300005f1f8ea10197d6d32374c68ddb2f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6UQsPw4kXHEI2voes766kh)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+On May 2, the World Health Organization got an alarming report: People aboard a ship in the Atlantic Ocean were falling ill. The culprit is now confirmed as hantavirus, a pathogen that some rodents carry that can infect humans in rare, but often deadly, instances. Multiple passengers have died, and more people are showing symptoms. So, we’re talking to Emily Abdoler, an infectious disease doctor at the University of Michigan, about the news – how common is hantavirus in humans, what are the consequences of getting it, and how can at-risk people protect themselves from it? If you found this episode interesting, listen to our episode on Rocky Mountain spotted fever.Interested in more science in the news? Email us your question at shortwave@npr.org.Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### How Do Urban Landscapes Shape Our Health?
+
+# LIVE RECORDING: How Do Urban Landscapes Shape Our Health?
+
+![LIVE RECORDING: How Do Urban Landscapes Shape Our Health?](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Humans in Public Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/11jOKNYB29mSDE2aVyjj66)
+
+[Open Series in Spotify](https://open.spotify.com/show/4nQ5bwglf9vygvW1nHf5GC)
+
+A special live Commencement & Reunion Weekend episode of Humans in Public Health brings experts from epidemiology together with the director of Urban Studies at Brown for a discussion on cities: How they collect public health problems and the ways they might help us to address those same issues.
+
+:::
+
+#### How PFAS From A Military Base Has Sickened Nearby Residents
+
+![How PFAS From A Military Base Has Sickened Nearby Residents](https://i.scdn.co/image/ab67656300005f1f60aee25b93021ffaa1295d92)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7LDqFCFm5vBE43iizFqPGU)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+For decades, residents of the small city of Newburgh, New York, were unknowingly drinking water contaminated with toxic PFAS—also known as forever chemicals. The source turned out to be firefighting foam used on a nearby air base that had seeped into streams and creeks, and ultimately the city’s main drinking water reservoir.Now, Newburgh is one of 10 sites that are part of a CDC-led study investigating the health effects of PFAS exposure. Early data out of Newburgh links PFAS with high cholesterol, high blood pressure, and heart disease. Host Flora Lichtman discusses the research with environmental epidemiologist Erin Bell and reporter Shantal Riley.Read our full story about what PFAS contamination has meant for Newburgh in English and in Spanish.Guests: Shantal Riley is an award-winning journalist and science writer, focused on environmental health.Dr. Erin Bell is an environmental epidemiologist at the University at Albany in New York.Transcripts for each episode are available within 1-3 days at sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### Messy Data, Real Answers
+
+![Messy Data, Real Answers](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Humans in Public Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7KjnyAINVTwY6ySnpO0Rgh)
+
+[Open Series in Spotify](https://open.spotify.com/show/4nQ5bwglf9vygvW1nHf5GC)
+
+In a world teeming with health data—from smart watch accelerometry to millions of hospital system electronic records—how do researchers find out which medical treatments truly work? Biostatistician Rebecca Hubbard discusses the messiness of real-world data, the limits of randomized control trials and how both of these powerful—but imperfect—methods are essential for building trustworthy evidence in public health.
+
+:::
+
+#### Our tick nightmare
+
+![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Today, Explained
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4vRcV7xGs5aSMJWLKxJrUL)
+
+[Open Series in Spotify](https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A)
+
+Ticks are exponentially expanding their territory, using us for their next blood meal. We must fight back.  This episode was produced by Danielle Hewitt, edited by Amina Al-Sadi, fact-checked by Gabriel Dunatov, engineered by Patrick Boyd, and hosted by Sean Rameswaram.   The common wood tick, which can transmit Borrelia and TBE viruses to humans and animals. Photo by Patrick Pleul/dpa/Getty Images.  Listen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. Transcript at ⁠vox.com/today-explained-podcast.⁠  Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
+## Transcript
+
+**SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
+
+  
+
+<SFX> Mosquito
+
+  
+
+SEAN: We bleed. We scratch. We kill. We complain. But in the end, we laugh it off and we head towards winter.
+
+  
+
+<SFX> Mosquito dies
+
+  
+
+SEAN: But ticks are a much more serious concern.
+
+  
+
+SCORING IN – IMPENDING GLOOM - BMC (lol)
+
+  
+
+SEAN: Lemme just remind you how many tick-bourne diseases there are? 
+
+  
+
+Lyme, you know. Shoutouts Connecticut. Then there’s Alpha-gal syndrome, which can make you allergic to red meat for the rest of your life. Also dairy. 
+
+  
+
+But there’s so much more! Should we go alphabetical? And I apologies in advance for my pronunciation here:  
+  
+<SFX> CASSETTE TAPE  
+  
+SEAN: Anaplasmosis, Babesiosis, Bourbon virus, Colorado tick fever, Ehrlichiosis, hard tick relapsing fever, Heartland virus, Powassan virus, Rickettsia parkeri rickettsiosis, Rocky Mountain spotted fever, Soft tick relapsing fever, STARI, Tularemia, 364D rickettsiosis.
+
+  
+
+<SFX> CASSETTE TAPE
+
+  
+SEAN: Symptoms of all these range from nausea, vomiting and bleeding to seizures, organ failure, facial paralysis, and of course, our old friend, death. 
+
+  
+
+And for those of you who are like NBD – that’s just a Northeast thing. Well, not anymore!  
+  
+Our national tick nightmare, on Today, Explained from Vox.  
+  
+
+[THEME]
+
+  
+
+SEAN: Sean Rameswaram. Today, Explained covered ticks and Lyme disease on the show way back in 2018 when the word on the trail was this was getting much worse. We asked science writer Jonathan Mingle, who recently wrote about ticks for the New York Times newspaper, how much worse this has gotten since then.
+
+  
+
+JONATHAN MINGLE (science journalist): You know some experts I talk to use the word exponential. 
+
+  
+
+SCORING IN - Discretion
+
+  
+
+JONATHAN: So what's happening is that some of these tick species are spreading into areas where people aren't familiar with them, doctors aren't familiar with them. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=Bjj3Ps0dYNQ)> YOUTUBE CBS BOSTON
+
+In the last 15 years, the Lonestar tick has gone from non-existent on the island to fully abundant and everywhere.
+
+<[CLIP](https://www.youtube.com/watch?v=UBFko7DWNRU)> YOUTUBE NBC NEWS 
+
+The tick is present in at least 21 states and is rapidly spreading across the eastern US.
+
+<[CLIP](https://www.youtube.com/watch?v=UwXG_4xycuY)> YOUTUBE CBS MORNINGS
+
+Emergency room visits for bites are the highest in nearly a decade as ticks spread into new parts of the country. 
+
+  
+
+JONATHAN: Thanks to warmer winters, climate change. Ticks are expanding their hunting season. You may have a day that's like 40 degrees in January, ticks are out looking for you, waiting for you to walk by and grab on and grab a meal. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=A-ate5me7PA)> YOUTUBE NBC 10 
+
+A newborn baby is suspected of contracting a rare tick borne virus. It's called Powassan virus.
+
+<[CLIP](https://www.youtube.com/watch?v=5RAlhJC61LA)> YOUTUBE NBC 10 
+
+Lyme's disease has been an ongoing fight on this island. I've had it.
+
+<[CLIP](https://www.youtube.com/watch?v=piokYttuSf8)> YOUTUBE 6 ABC
+
+This morning, a New Jersey man is the first known person to die after a tick bite triggered a severe meat allergy.
+
+  
+
+JONATHAN: So in 2024 a pilot named Brian Weitzel, father of three in northern New Jersey, he had a hamburger, at a barbecue, went home to mow his lawn, and a few hours later was unresponsive on the floor and he died that night. And his family, you know, was left in shock, of course, you know, trying to figure out why he had died. And it turned out that he had likely been bitten by the lone star tick, and had developed an allergy to red meat. And so this is referred to as Alpha-gal syndrome. And Alpha-gal syndrome is just the latest entrant into the files of all the many ways in which tick bites can make us sick. and the most familiar one, of course, is Lyme disease. Each year about half a million people are treated for Lyme disease. It's the fastest growing vector-borne disease in the US. cases have more than doubled over the past decade. And those cases are mostly as a result of getting bitten by the black legged tick or the deer tick. And the thing is both of these ticks and many other ticks that are also marching northward and westward and just, you know, expanding their empires rapidly across North America, they can deliver all kinds of pathogens.
+
+  
+
+SCORING OUT  
+  
+
+JONATHAN: They're claiming more and more of the map and they're claiming more and more of our psychic map right? It's like one of the results of reporting this piece is that I now have phantom tick crawling sensations at all hours of the day. 
+
+  
+
+SEAN: Oh, man. 
+
+  
+
+JONATHAN:I tell people I'm not a tick expert, although I talked to a bunch of them for this story, but I've become a tick expert in the sense that I am very familiar with tick paranoia and how it can keep you from venturing out into the places you love you know, hiking paths or picnic grounds or parks. And so that was part of the story I wanted to write about, too, is: Why are we letting the ticks keep us, if not out of these places that we need and love, why aren't we fighting back?
+
+  
+
+SEAN: And why is it? Are we not fighting back against the ticks?
+
+  
+
+JONATHAN: Not really. I mean, this is one of the surprising takeaways from my reporting is that we're barely even trying. And one way of understanding that, you could think about two numbers. So one number is 90%. 90% of vector-borne disease cases in the US are from ticks, right?
+
+  
+
+SEAN: 90%?
+
+  
+
+JONATHAN: Yeah. And yet despite the fact that 90% of cases of vector-borne illness come from tick bites, if you look at what local city, county health agencies do in terms of vector control, 80% of what they do is mosquito control and about 10 or 11% of these local health agencies around the country do any kind of tick control. So why is that? It's a familiar story in the public health world. It's not enough funding or policy support for trying out, testing, deploying new approaches to controlling ticks.
+
+  
+
+SEAN: Even though people are dying?
+
+  
+
+JONATHAN: We're just kind of taking for granted that, ‘Oh, well, what can you do? You just tuck your pants in and spray some insecticide on your boots and that's all you can do.’ It's like, well, actually we have a long history of going to war <chuckles> with mosquitoes. 
+
+  
+
+SEAN: Mm!
+
+  
+
+JONATHAN: Before there was tick control, there was mosquito control. And the CDC was founded with the sole mandate in 1946 of wiping out malaria and fighting mosquitoes. 
+
+  
+
+<[CLIP](https://www.c-span.org/program/american-history-tv/the-fight-against-the-communicable-diseases/545719)> C-SPAN THE FIGHT AGAINST COMMUNICABLE DISEASES
+
+Scientific information on the subject is discussed and analyzed. Decisions are made and one of these is to design more effective equipment to combat the dreaded mosquito. 
+
+  
+
+SEAN: I did not know that.
+
+  
+
+JONATHAN: Yeah, I didn't know it either.
+
+  
+
+SEAN: It feels like they lost that fight because in my neighborhood …  
+  
+JONATHAN: Yeah.  
+  
+SEAN: … you can't go out between the hours of seven and nine o'clock.
+
+  
+
+JONATHAN: Yeah. The mosquitoes haven't gone away, but malaria did for the most part. You know, in talking to experts today, they told me that, including folks at the CDC, there's a suite of tools we could be using if we wanted to get serious about fighting ticks. As one veteran tick expert at the CDC told me, if you want to make a dent in this problem, you have to get to the deer. So the deer are the engine driving a lot of these tick species spread.  
+  
+SEAN: Mm.  
+  
+JONATHAN: And we just have way more deer than we did decades ago, especially in the Eastern US and suburban parts of America. So how do you get to the deer? I had people in the comments section of my piece saying the clear answer is just we should all be hunting deer.  
+  
+SEAN: Mm-hm.  
+  
+JONATHAN: But in talking to the experts, they'll tell you it's not really a feasible solution. You would have to knock deer populations way down to make a dent in the tick populations. What is more promising is kind of a combined approach of stuff like vaccines. There are people developing vaccines that you could deliver to deer or to rodents, which are another important host for these ticks so that when the tick bites them, they'll die. That I learned from talking to folks who do this kind of research for a living is a more promising avenue for controlling ticks than all of us picking up crossbows and becoming deer hunters.
+
+  
+
+SFX <crossbow>
+
+  
+
+JONATHAN: You know, what I heard from experts is that we're not even funding this research in a serious way. We do this stuff for mosquitoes. People don't realize it, but your local county health agency, they go out and they find where the mosquito breeding grounds are and stagnant pools the water and they treat it. And it takes this sustained quiet effort. It's like we saw the consequences of not doing that recently. This is a bit tangential, but screwworm. You know, screwworm was this flesh eating larval pest that devastates cattle herds. And it was eradicated in the US in 1966 and it was kept at bay by the vigilance of people at USDA and USAID who ran these programs to release millions of sterile screwworm males out of airplanes. And it created this wall that kept it from coming into Southern US and now they're here.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=KESLiqJaXEU)> YOUTUBE CBS LA
+
+But since the beginning of June, at least a dozen animal infections have been confirmed in Texas and New Mexico, putting California and the rest of the nation on alert.
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=QymPQDht3IM)> YOUTUBE MS NOW
+
+His Department of Government Efficiency run by Elon Musk decided to cut the funding that was specifically dedicated to monitoring and containing the screw worm in Central America.  
+  
+<CLIP> ELON MUSK: Chainsaw!
+
+  
+
+JONATHAN: And probably if we stopped doing the mosquito control at a local scale, we'd see more cases of dengue fever, West Nile virus, all these other rare but serious illnesses that climate change is making more of a threat here in the US.
+
+  
+
+SCORING IN  
+  
+SEAN: Jonathan Mingle wrote “We're Living in a Tick Nightmare. It's Time to Go to War.” for the New York Times.
+
+  
+The guy with the power to go to war is named Robert F. Kennedy Jr. And one of the kinda curious things about him is he’s kinda obsessed with Lyme disease. 
+
+  
+
+More on that mmm puzzle? When Today, Explained continues. 
+
+  
+
+[BREAK]
+
+  
+
+<BUMPER> KE$HA: Tik! Tik! Tik! Tik!  
+
+AVISHAY ARTSY (producer): Today, Explained.  
+  
+
+MEG TIRRELL: Hi, I'm Meg Tirrell. I am a medical correspondent at CNN.
+
+  
+
+SEAN: Okay, we just spent half the show talking about Lyme disease and how the government's not doing enough to combat it, but earlier this year, our Health and Human Services Secretary, Robert F. Kennedy the Second…
+
+  
+
+MEG: <chuckles>
+
+  
+
+SEAN: …pledged to fight Lyme disease. What is RFK Junior's relationship to Lyme?
+
+  
+
+MEG: Oh wow, RFK Jr.'s Lyme story goes way back
+
+  
+
+SEAN: Woah!
+
+  
+
+SCORING IN - On a Straight Down Train Car
+
+  
+
+MEG: Well, I mean, it's a really RFK Jr-y kind of disease because he's a falconer. He talks a lot about his work with birds of prey. He goes into the woods a lot, he posts lots of photos of himself in nature. And when you start to pay attention to RFK Jr. And Lyme disease, which I have been doing, he starts to tell the same story a few times.  
+  
+SEAN: Huh.  
+  
+MEG: It involves him in a bathtub in the 1980s…
+
+  
+
+<[CLIP](https://www.instagram.com/reel/DSVS390iazq/)> INSTAGRAM – SECRETARY ROBERT F KENNEDY: I remember one day in 1987 when I stood in my bathtub and picked 29 ticks off myself. 
+
+  
+
+MEG: He says he did at one point get Lyme disease. He got the classic bullseye rash on his forearm. He says he took antibiotics and it was cured, but he also describes most of his children have had Lyme disease, some with pretty severe effects of Lyme disease. So he's very focused on it. It also ticks like some other RFK Junior boxes where there is this community of people who feels like they've been neglected and ignored and in his words gaslit, particularly by the federal government. and those are people who have like chronic Lyme disease or long Lyme disease. So this is Lyme disease that hasn't been cured by antibiotics. And that people have been living with these symptoms for a really long period of time. And so he's trying to address that population of people. He had a round table discussion with a lot of those patients, patient advocates, as well as doctors and people who are trying to work on this space. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE – SECRETARY ROBERT F KENNEDY: It is an invisible illness. For many years,  this agency had a deliberate policy to refuse to engage with the Lyme community.
+
+  
+
+MEG: And so he's really speaking to that group of people, but at the same time, Lyme disease is a growing problem …  
+  
+SEAN: Right!  
+  
+MEG: … for anybody who lives in a tick-infested area, which is so many of us.
+
+  
+
+SCORING OUT
+
+  
+
+SEAN: So it sounds like people who have Lyme disease have an ally …  
+  
+MEG: Mm-hm.  
+  
+SEAN: … in the Secretary of Health and Human Services. And of course RFK Jr. Is known to spin up conspiracy theories, pedal falsehoods … 
+
+  
+
+<[CLIP](https://nypost.com/2023/07/15/rfk-jr-says-covid-was-ethnically-targeted-to-spare-jews/)> NYPOST
+
+SECRETARY ROBERT F KENNEDY JR: COVID-19 is targeted to attack caucasians and Black people 
+
+<[CLIP](https://www.youtube.com/watch?v=p6LJXPOv4SM)> YOUTUBE JOE ROGAN PODCAST
+
+SECRETARY ROBERT F KENNEDY JR: Wi-Fi radiation opens up your blood brain barrier and so all these toxics that are in your body can now go into your brain. 
+
+  
+
+SEAN: …  not a fan of vaccines. Does any of that get into the Lyme disease mix? 
+
+  
+
+MEG: Well, I mean, so he convened this round table and it had doctors, it had lawmakers. And so you had these folks speaking around the table about different things that you could do. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: The Lyme Clinical Trials Network is designed to build evidence for repurposing medicines and other treatments so we can improve the lives of people suffering now
+
+  
+
+MEG: And one of the things that RFK Jr.'s really focused on is improving diagnostics and improving treatment. 
+
+  
+
+<[CLIP](https://www.youtube.com/watch?v=U3ilMz3Y0J4)> YOUTUBE: There's investments we've made  in identifying new antibiotics that potentially could have a longer, better effects, as well as potentially protective monoclonal antibodies  that can be used as a treatment strategy
+
+  
+
+MEG: What you don't hear him talk about is a vaccine for Lyme disease. And he talks about things like we've got to make it safer for kids to go back in the woods. Vaccine could be one way of doing that. And we actually have a vaccine now that is approaching the regulatory approval process from Pfizer. They reported phase three results. They said they were going to take this to regulatory agencies. And so that was earlier this year. I became interested in, okay, well, RFK Jr. Is a big proponent of solutions for Lyme disease. Is he going to be supportive of this vaccine? Will this be the vaccine that RFK Jr. Sort of wins him over? 
+
+  
+
+SEAN: Tell us a bit more about the history of Lyme disease vaccines because they've been trying for some time to my recollection.
+
+  
+
+MEG: So there actually was an approved Lyme disease vaccine. It was called Lymerix. It was brought to market by GSK, the huge British drug maker. This was about 25-ish years ago. And it worked. It was something like 70 or 80% effective at reducing your risk of getting Lyme disease. But it had kind of this tepid endorsement from the federal vaccine agencies. So the FDA kind of gave it a... It wasn't like the most extreme endorsement, I guess you could say, the way people described it to me. They noted it was just for specific age groups. And then the CDC's group of vaccine advisors, they essentially recommended it for people who might have exposure to ticks. You might consider this. So it wasn't like a strong endorsement that everybody should get this vaccine. And so what we saw was that when it hit the market, the sales were really tepid.
+
+And then some people thought that the vaccine was actually giving them arthritis. 
+
+  
+
+SEAN: Ohh. 
+
+  
+
+MEG: And so this is the kind of thing you're trying to prevent you from getting Lyme disease. You're trying to prevent getting arthritis. The FDA looked into this extensively. Researchers looked at this. The signal did not play out from the conversations I've had with experts about it, but there were lawsuits that were filed. Ultimately GSK just decided to pull the vaccine off the market.  
+  
+SEAN: Huh.  
+  
+MEG: So now you have like 20 years later, Pfizer coming back with this vaccine. So this is approaching regulatory agencies. We might get this Lyme disease vaccine and have to see how RFK Jr's HHS would receive that.
+
+  
+
+SEAN: What's the vibe from HHS and RFK Jr? I mean, he cares about Lyme disease. He thinks there's this forgotten population of people with chronic Lyme disease. He's in charge. He's got an incredible amount of power to do something about it. And here's this vaccine that could be the easy solution. Is it like a match made in tick heaven?
+
+  
+
+MEG: Well, tick hell. 
+
+  
+
+SEAN: Tick Hell.
+
+  
+
+MEG: Preventing the ticks from being able to give us Lyme disease. Although I don't think they care if they give us Lyme disease, they just want to drink our blood. But you know, Kennedy was asked during his confirmation hearing by Susan Collins, because Maine of course is very hard hit by Lyme disease, whether he would support a Lyme disease vaccine. And he told her, quote:  
+  
+
+<[CLIP](https://www.youtube.com/watch?v=UVf93vkLZ_w)> YOUTUBE PBS NEWS HOUR – SECRETARY ROBERT KENNEDY: There's nobody who will fight harder to find a vaccine or a treatment for Lyme disease than me.
+
+  
+
+MEG: Now I reached back out to HHS when I wrote this story back in March about Pfizer's Lyme vaccine application. And a spokesperson for HHS told me HHS supports rigorous gold standard science to better understand, prevent, and treat Lyme disease. So I wrote back, "Does that include a vaccine?" And they just didn't respond.
+
+  
+
+SEAN: Why? Why are they being cagey about this vaccine? It feels like a golden opportunity for them.
+
+  
+
+MEG: You would think, and it's interesting. I've reached out to other folks who are sort of in this realm and most of them are very supportive of a vaccine. It's something that they would like to have as part of the toolkit. I will say there is one population that is skeptical of a vaccine and that is certain folks who have this chronic Lyme who live with long Lyme disease, they feel like they were burned by the first vaccine. They still believe that there were safety problems with that vaccine, at least some portion of this group who I spoke with. And so they're nervous about it, but other people really want a vaccine.
+
+  
+
+SEAN: Where does it leave us ultimately, you think? Is this a time to feel hopeful that there are solutions that are, solutions incoming here as these ticks become more and more just like a concern every summer across this country? Or is it a time to feel ultimately fearful?
+
+  
+
+MEG: Well, I mean, it definitely feels like we're in a time with this, like, massive upsurge in ticks. They're all around, they're spreading new, newly discovered pathogens. So it definitely doesn't feel like we're on the downtrend of that by any means. And the government has put out a plan to try to at least address Lyme disease and to an extent alpha gal, but it's not perceived from people I've spoken with to be enough. It's not a moonshot by any means to address these kinds of things.
+
+  
+
+SEAN: What's the plan?
+
+  
+
+MEG: Yeah. So this came out in May. They call it a sweeping plan to combat Lyme disease and advanced treatment. So you might expect huge amounts of money being poured into this big research consortiums working with the industry. The details are less sort of powerful than that from what we see in the release that HHS put out. They say the actions include a multimillion dollar pilot program focused on tick control up to two and a half million dollars in innovation challenges, funding for NIH researchers to combat alpha gal syndrome and a public-private collaboration to help patients connect with experienced providers.
+
+  
+SEAN: Huh.  
+  
+MEG: So I think people are glad that there is focus on this, but yeah, whether it's the moonshot that is needed especially…  
+  
+SEAN: Mm.  
+  
+MEG: …with the backdrop of broader cuts to science funding. I think experts in this space think it leaves something to be desired. 
+
+  
+
+SCORING IN - Hot Plate  
+  
+
+SEAN: Bummer! But in the meantime, what do you do if you’re going camping this weekend? Jonathan? 
+
+  
+
+JONATHAN: Doing tick checks. And we do it in my household pretty much daily when you come home, do a thorough tick check, throw your clothes in the dryer. Ticks hate heat. And some people like to use permethrin, spray this insecticide that's designed to kill ticks on your boots or your pants when you go out for a hike. So there are things that, I mean, for decades, researchers have known these things are really effective if you keep doing them, if you stay vigilant. Right? And all it takes is that one time, that one time you go out for a hike and you come back and you forget to do the tick check. So we need those kinds of personal measures of vigilance and protection, but we still need to kind of push for a bigger public health response to this…. 
+
+  
+
+SCORING BUMP
+
+  
+
+JONATHAN: Because the ticks are going to keep, they're going to keep spreading into the calendar too in the sense that as winters get warmer, more and more days of the year when you're outdoors, you're going to encounter ticks who are hungry and they're looking for you. 
+
+  
+
+SCORING BUMP
+
+  
+
+SEAN: Thanks, Jonathan! And thanks Meg! And thanks Danielle Hewitt, for producing the show today. Amina Al-Sadi for editing. Gabriel Dunatov for fact checking. And Patrick Boyd for flying solo. 
+
+  
+
+Be careful out there, friends!**
+
+#### Patient Zero
+
+![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2011
+
+**Series:** Radiolab
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1kLUeg9jURyuJTJ6qctukc)
+
+[Open Series in Spotify](https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL)
+
+The greatest mysteries have a shadowy figure at the center—someone who sets things in motion and holds the key to how the story unfolds. In epidemiology, this central character is known as Patient Zero—the case at the heart of an outbreak. This hour, Radiolab hunts for Patient Zeroes from all over the map. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+<iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/1541748/&share=1"></iframe>
+
+## Transcript
+
+Patient Zero
+
+**SOREN WHEELER:** Hey, this is Radiolab. I'm Soren Wheeler, and I have a show for you today that I want to play for a couple reasons. First of all, it's one of my favorites of all time. And secondly, despite the fact that we produced his story back in 2011, it is weirdly—and unfortunately—perennially relevant. Like, every year. Like, if you're in the US right now, that would be because of the Cyclospora situation, which is the explosive diarrhea outbreak. But thinking back to COVID or monkeypox or even the most recent Ebola outbreak, anytime one of these diseases makes its way into us humans, the first question is always: How did it start? Like, where did this come from? Or sometimes, like, who did it come from? And that is what this show that I'm gonna play for you today is all about. We produced this one back in 2011. It's got mysterious, shadowy figures, it's got a very high-stakes story of a man hunting a chimp in Cameroon, and a probably futile attempt to get to the bottom—or rather the beginning—of the most famous celebratory gesture in human history. So here it is.
+
+\[RADIOLAB INTRO\]
+
+***LYNN LEVY:*** *So have we said where we are on tape yet?*
+
+**JAD ABUMRAD:** Starting us off today are our producers Lynn Levy and Sean Cole.
+
+***SEAN COLE:*** *Very pretty day to be on an abandoned island where victims of contagious disease were quarantined. And one in particular who lived here, died here, never believing that she was, in fact, sick and dangerous.*
+
+**ROBERT KRULWICH:** So this is a story that begins when?
+
+**SEAN:** It—well actually, it starts in 1906. And it doesn't start on the island, it starts in Oyster Bay.
+
+**ROBERT:** Oh, nice neighborhood!
+
+**SEAN:** Very nice. And there was this one rich family on vacation there.
+
+***JUDY LEVITT:*** *And their daughter gets sick. She gets sick first.*
+
+**SEAN:** This is Judy Levitt.
+
+***JUDY LEVITT:*** *I am a professor emerita at the University of Wisconsin.*
+
+**SEAN:** And she wrote a book about this story. So basically, the girl, the daughter, has a fever. Then her sister comes down with it, and then her mom, and a maid.
+
+***JUDY LEVITT:*** *About six out of eleven in the family gets sick.*
+
+**SEAN:** And with this disease, the fever's just the first part of it.
+
+***JUDY LEVITT:*** *Both diarrhea or constipation are reported. So it can go either way, I guess.*
+
+**JAD:** What is it?
+
+**SEAN:** Typhoid.
+
+**ROBERT:** Hmm.
+
+***JUDY LEVITT:*** *And they couldn't figure out what had caused the disease, so they called in this sanitary engineer named George Soper.*
+
+**SEAN:** With the Public Health Department. He was the go-to guy for outbreaks like this. Back then, the Department of Public Health was thinking, you know, you'd get sick because of something dirty near you.
+
+**ROBERT:** In the well or in the pipes.
+
+**SEAN:** Yeah. So he looks into all of that.
+
+***JUDY LEVITT:*** *Did a whole test on the house and the water and everything. Couldn't find anything, and so...*
+
+**SEAN:** He starts talking to the family.
+
+***JUDY LEVITT:*** *And he started quizzing them all, and they...*
+
+**SEAN:** Eventually, he builds up this whole picture of several outbreaks going back years.
+
+*\[****ARCHIVE CLIP:*** *1900\. Mamaroneck. A New York family had a house for the summer...\]*
+
+*\[****ARCHIVE CLIP:*** *1902\. Dark Harbor, Maine.\]*
+
+*\[****ARCHIVE CLIP:*** *1904\. Seven cases.\]*
+
+*\[****ARCHIVE CLIP:*** *Sands Point, New York.\]*
+
+*\[****ARCHIVE CLIP:*** *Autumn, 1906.\]*
+
+*\[****ARCHIVE CLIP:*** *Winter, 1907. New York City\]*
+
+**SEAN:** All these cases. And they all had one thing in common.
+
+**ROBERT:** What?
+
+**SEAN:** Each of these families had employed the same cook.
+
+**JAD:** Really?
+
+**ROBERT:** Really?
+
+**SEAN:** Which is funny, because when you cook food you kill the bacteria in the food.
+
+**JAD:** Yeah!
+
+**ROBERT:** So it couldn't be the cook then.
+
+**SEAN:** But this cook...
+
+***JUDY LEVITT:*** *Her most famous dish was Peach Melba, which is ice cream and fresh peaches.*
+
+**SEAN:** Fresh peaches. Raw fruit.
+
+***JUDY LEVITT:*** *It was a perfect medium.*
+
+**SEAN:** And the cook's name was Mary Mallon.
+
+**JAD:** Mary Mallon. Wait a second, Sean Cole.
+
+**ROBERT:** Typhoid...
+
+**JAD:** Typhoid Mary is who we're talking about.
+
+**ROBERT:** Oh, so we know this story.
+
+**SEAN:** No, you don't know this story.
+
+**ROBERT:** What do you mean?
+
+**SEAN:** Everybody thinks they know this story. I thought I knew this story. And then when I looked into it, I realized I didn't know the first thing about it. And when you look into the details, they tell us some very difficult things about who we were and who we still are in a lot of ways. It's all in the details, all of the juice and problem.
+
+**JAD:** Like the peach juice.
+
+**ROBERT:** The peach juice.
+
+**SEAN:** Just like the peach juice. Still dealing with...
+
+**ROBERT:** Wait! I'm Robert Krulwich.
+
+**JAD:** \[laughs\]
+
+**ROBERT:** Go ahead. Go ahead, do your part!
+
+**JAD:** I'm Jad Abumrad.
+
+**ROBERT:** This is Radiolab. And in this hour...
+
+**JAD:** A series of stories that all hew to that delicious story archetype we call...
+
+**ROBERT:** Patient Zero. The first cause.
+
+**JAD:** We'll try to trace ideas and trends and massive social traumas like pandemics back to that one person.
+
+**ROBERT:** Or one critter. Or the other way you could call it is called the "but for." If you didn't have this thing, but for this thing, you wouldn't have the rest of the story.
+
+**JAD:** I like the but for.
+
+**ROBERT:** The but for.
+
+**JAD:** But meanwhile...
+
+**ROBERT:** Back to the peaches.
+
+**SEAN:** So George Soper's like, "I've got to find this woman." And when he finds her...
+
+***JUDY LEVITT:*** *She's in New York City working for another family.*
+
+*\[****ARCHIVE*** ***CLIP:*** *The laundress had recently been taken to the Presbyterian Hospital with typhoid fever.\]*
+
+**SEAN:** This is from an article Soper wrote called The Curious Case of Typhoid Mary.
+
+*\[****ARCHIVE*** ***CLIP:*** *And the only child of a family, a lovely daughter was dying of it.\]*
+
+**SEAN:** So he goes to the house, walks into the kitchen. Sees this woman, 5'6", blond hair, blue eyes.
+
+*\[****ARCHIVE*** ***CLIP:*** *Had a good figure, and might have been called athletic had she not been a little too heavy.\]*
+
+**SEAN:** Irish immigrant, 36 years old.
+
+*\[****ARCHIVE*** ***CLIP:*** *Not particularly clean.\]*
+
+***JUDY LEVITT:*** *And he says, "Mary Mallon, I think you are causing disease in people and I want samples of your urine, feces and blood." \[laughs\]*
+
+***SEAN:*** *\[laughs\] Good afternoon!*
+
+**SEAN:** And she says...
+
+***DAVID ROSNER:*** *What are you accusing me of being sick?*
+
+**SEAN:** Playing the role of Mary is Columbia Public Health Professor David Rosner.
+
+***DAVID ROSNER:*** *How dare you? I'm not a sick person.*
+
+***JAD:*** *What does she do?*
+
+***DAVID ROSNER:*** *She chases him out of the building.*
+
+***JUDY LEVITT:*** *With a fork in her hand.*
+
+***SEAN:*** *A serving fork.*
+
+***JAD:*** *A serving fork?*
+
+***SEAN:*** *Yeah.*
+
+*\[****ARCHIVE*** ***CLIP:*** *I felt rather lucky to escape.\]*
+
+**JAD:** But did she have typhoid? I mean, did she outwardly have typhoid?
+
+**SEAN:** Well, that's the thing.
+
+***DAVID ROSNER:*** *She never had any symptoms. She felt perfectly healthy.*
+
+**SEAN:** She was actually the first documented case in North America of a healthy carrier, which is to say someone who has the disease and is contagious, but never actually feels...
+
+**ROBERT:** The symptoms?
+
+**SEAN:** The symptoms. So in one weird way, Soper's thrilled. Like, he's only read about this. And then here she is in front of him. But think of how all of this must have sounded to Mary. I mean, some guy from outer space comes into your kitchen and says, "You're diseased and you're hurting people." She must have thought...
+
+***DAVID ROSNER:*** *What? I feel fine. I'm living a moral life. I'm not a vagrant. I'm employed. I'm a good, solid citizen. You know, you would be crazed too, wouldn't you? Even today.*
+
+***JAD:*** *You'd—you'd probably grab your knife, yeah.*
+
+***DAVID ROSNER:*** *Yeah, you'd grab your knife.*
+
+**ROBERT:** Well, does he have any evidence though, that she is spreading the disease?
+
+**SEAN:** Not yet. That's why he needs her poop.
+
+**ROBERT:** Ah.
+
+**SEAN:** So he goes back, finds her at a rooming house. She kicks him out, swears at him.
+
+***JUDY LEVITT:*** *She apparently had quite a temper.*
+
+**SEAN:** And then the health department sends in this female doctor...
+
+***JUDY LEVITT:*** *By the name of S. Josephine Baker. Maybe she could ask for blood, feces and urine a little more gently than...*
+
+***SEAN:*** *I just don't know how you ask for that gently.*
+
+**SEAN:** But she tries. And when it doesn't work, she comes back a little bit later with cops.
+
+***JUDY LEVITT:*** *And they come to the house and Mary Mallon, when she realizes what's happening disappears.*
+
+***SEAN:*** *What do you mean, disappears? She just vanishes?*
+
+***JUDY LEVITT:*** *Just completely vanishes. They end up searching the entire place, and they can't find her. Finally, I think they're about to leave when one of them spots...*
+
+***DAVID ROSNER:*** *... her skirt coming outside of a door.*
+
+***JUDY LEVITT:*** *It's a little piece of calico kind of stuck in a doorway.*
+
+***DAVID ROSNER:*** *They open the door and there she is.*
+
+***JUDY LEVITT:*** *And so they drag her out and she comes out kicking and screaming and...*
+
+***DAVID ROSNER:*** *... screaming and kicking.*
+
+***JUDY LEVITT:*** *It takes all of them to drag her out.*
+
+***DAVID ROSNER:*** *Protesting.*
+
+***JUDY LEVITT:*** *They get her in the ambulance and Josephine Baker sits on her. According to her, sits on her.*
+
+**SEAN:** And Baker later said...
+
+***JUDY LEVITT:*** *Something like it was like being in a cage with an angry lion.*
+
+**SEAN:** So they take her down to the hospital.
+
+***JUDY LEVITT:*** *They tested her feces and urine, and they found that yes, she was in fact a carrier of live typhoid bacilli.*
+
+***MAN:*** *It's a weird island. I spent a while on here.*
+
+***JUDY LEVITT:*** *So they isolate her, and they ultimately move her from Manhattan to North Brother Island.*
+
+***DAVID ROSNER:*** *And there she is.*
+
+**SEAN:** We went there to just to try to get our heads around what she must have thought.
+
+**JAD:** What was the island like?
+
+***SEAN:*** *Man, everything is completely overgrown.*
+
+**SEAN:** It was really creepy.
+
+**ROBERT:** Creepy because it was in such dissolution?
+
+**SEAN:** Yeah. Yeah.
+
+***SEAN:*** *Just be careful where you step.*
+
+**SEAN:** On one end, there are all of these medical—former medical buildings, including a giant hospital where they isolated tuberculosis patients. So big, brick, stately building. And then on the other side of the island, there's smaller wooden buildings that are crushed.
+
+***SEAN:*** *This may be where her cottage is.*
+
+**SEAN:** Where her cottage would be if it was still standing, but it's not standing anymore.
+
+***JUDY LEVITT:*** *Well, it was one room. One room. It had a kitchen. It had a, I guess a sleeping area and a sitting area. It probably wasn't so bad if you didn't have to stay there. You know, any place is—that you're not free to leave becomes like a prison.*
+
+**SEAN:** So we're marching around and then Lynn says to me, "Hey, look at the view." And...
+
+***SEAN:*** *Holy moly! It's right there.*
+
+**SEAN:** That's when it really hit me.
+
+***SEAN:*** *If this is where her cabin was, then one window of it looked exactly onto Manhattan.*
+
+***LYNN:*** *She could have seen where she used to live.*
+
+***SEAN:*** *You can see the traffic on the streets.*
+
+**SEAN:** This was like the most horrible seaside vacation.
+
+***JUDY LEVITT:*** *Almost the whole time they had her incarcerated, they took feces three times a week, which is* — *you know, it's not pleasant to have to do that. And sometimes she was negative and sometimes she was positive.*
+
+**JAD:** Wait, what?
+
+**SEAN:** So that's—that's another thing that they were figuring out at the time. So she was probably an intermittent carrier.
+
+**JAD:** What does that mean?
+
+**SEAN:** The disease is always in her, but sometimes she excretes it and sometimes she doesn't.
+
+**JAD:** Oh, that must have been confusing for her.
+
+***LYNN:*** *"When I first came here, I was so nervous and almost prostrated with grief and trouble. My eyes began to twitch."*
+
+**SEAN:** This is from a letter that Mary wrote from the island.
+
+***LYNN:*** *"I have, in fact, been a peep show for everybody."*
+
+**SEAN:** But if you keep reading it, and in fact, it's addressed to a lawyer, it's clear that she was fighting this. And she had been sending her own feces samples herself to a private lab in Manhattan. And each one of those was negative.
+
+**JAD:** Really?
+
+***LYNN:*** *"The tuberculosis man would say, 'There she is, the kidnapped woman.'"*
+
+***SEAN:*** *Yeah, that is poison ivy.*
+
+**SEAN:** She sues the city and loses. Still, there are all of these questions as to whether any of this is legal. I mean, even George Soper, the guy who hunted her down said it was contrary to the Constitution of the United States to hold her under the circumstance.
+
+**JAD:** And how long was she on this island for?
+
+**SEAN:** Three years.
+
+**JAD:** Wow!
+
+**SEAN:** And then what changed was a new health commissioner took over.
+
+***JUDY LEVITT:*** *And so he says it's just not right that we keep a healthy woman locked up like this. She was not dangerous to anybody if she didn't cook.*
+
+**SEAN:** He lets her go.
+
+**ROBERT:** He lets her go?
+
+**SEAN:** Yeah, back to Manhattan. But he makes her promise.
+
+***JUDY LEVITT:*** *She did promise. She signed an affidavit...*
+
+**SEAN:** Saying she'll never cook again. And she was released. They gave—they set her up with a job as a laundress and they went, "Here you go, Mary." And then, you know, they kept track of her for a while.
+
+**JAD:** Hmm.
+
+**SEAN:** And then at a certain point they kind of stopped keeping track of her.
+
+**JAD:** \[laughs\]
+
+**SEAN:** \[laughs\]
+
+**ROBERT:** Dun dun dun dun! So how many years will go by?
+
+**SEAN:** Five.
+
+**ROBERT:** Five.
+
+**JAD:** What happens next?
+
+**SEAN:** There's an outbreak of typhoid.
+
+**ROBERT:** Oh, boy.
+
+**JAD:** Where?
+
+**ROBERT:** Where?
+
+**SEAN:** At a maternity hospital.
+
+**ROBERT:** Oh, you're kidding!
+
+**JAD:** Oh, wow!
+
+**SEAN:** Josephine Baker who sat on her in the ambulance before, she says that she goes and pays a visit and walks into the kitchen. And she says the first person that she encountered was Typhoid Mary Mallon. George Soper did some legwork on where Mary had been, and it turned out she had worked at a restaurant, two hotels, an inn and a sanatorium, as well as the hospital. And at least according to his account, two of the people that she made sick during those couple years were children.
+
+*\[****ARCHIVE CLIP:*** *She was now a woman who could not claim innocence. She was known willfully and deliberately to have taken desperate chances with human life. She had abused her privilege. She had broken her parole.\]*
+
+***JUDY LEVITT:*** *So then they put her back on North Brother Island, back in her bungalow. And there she sits.*
+
+*\[****ARCHIVE CLIP:*** *She was a dangerous character and must be treated accordingly.\]*
+
+**ROBERT:** Absolutely. She's broke—broke her promise.
+
+**JAD:** Yeah, I totally agree.
+
+**ROBERT:** She made a deal and she didn't keep the deal.
+
+**SEAN:** But the thing is is that at the time she was sent back to the island, there were hundreds of other healthy carriers identified all over New York, and some of them were cooks.
+
+**JAD:** What?
+
+**ROBERT:** Really?
+
+**SEAN:** Mostly men, by the way. And...
+
+**JAD:** And they were cooking?
+
+**SEAN:** Well, they were barred from cooking, but not all of them always listened. And yet Mary was the only one who they isolated in this way.
+
+**JAD:** Why? Why only her?
+
+**SEAN:** I think it was more about making people feel safe than actually making them safe.
+
+***SEAN:*** *Oh look out for this stair. It's all crumbled.*
+
+**SEAN:** She was what we needed at the time.
+
+***SEAN:*** *We're in the hospital where the tuberculosis patients were quarantined.*
+
+**SEAN:** This was towards the end of Lynn and my visit to the island.
+
+***SEAN:*** *Yeah, these must be the wards.*
+
+***LYNN:*** *Definitely.*
+
+***SEAN:*** *Yeah.*
+
+***LYNN:*** *So when was she here?*
+
+***SEAN:*** *This is where they brought her after she had a stroke. And this is where she was for the last six years of her life.*
+
+***LYNN:*** *Did she die in here?*
+
+***SEAN:*** *Yeah. Yeah.*
+
+**JAD:** Hey, I'm Jad Abumrad.
+
+**ROBERT:** I'm Robert. Krulwich.
+
+**JAD:** This is Radiolab. And today...
+
+**ROBERT:** It's patient zero. That's our subject.
+
+**JAD:** Yeah, and this next story, whew!
+
+**ROBERT:** It's so huge.
+
+**JAD:** It's the ultimate patient zero story, really.
+
+**ROBERT:** Many of us have lived through this. It was—it's as recent an event—it's such a recent event that it still hurts and it still bleeds.
+
+**JAD:** Yeah.
+
+**ROBERT:** And in it somewhere is a—literally, the—the patient that is called Zero. So this is...
+
+**JAD:** Yeah. A lot of people are gonna help us tell the story, but starting us off is science writer, Radiolab regular Carl Zimmer.
+
+***CARL ZIMMER:*** *So in 1981, doctors for the first time described...*
+
+*\[****NEWS CLIP:*** *A mysterious newly-discovered disease...\]*
+
+***CARL ZIMMER:*** *A syndrome.*
+
+*\[****NEWS CLIP:*** *... which affects mostly homosexual men.\]*
+
+***CARL ZIMMER:*** *The young men in Los Angeles...*
+
+**JAD:** Were dying.
+
+*\[****NEWS CLIP:*** *The number of cases has been growing faster and faster.\]*
+
+*\[****NEWS CLIP:*** *So far, more than 80 Americans have died.\]*
+
+*\[****NEWS CLIP:*** *258 people have died.\]*
+
+*\[****NEWS CLIP:*** *625 people have died.\]*
+
+**JAD:** Of course, this is the part we all know. How, from those first few cases in LA, AIDS became one of the deadliest pandemics the world has ever seen.
+
+*\[****NEWS CLIP:*** *More dangerous than the plague of the Middle Ages.\]*
+
+**JAD:** But back at the beginning, there was a story that I've not been able to shake for the last 30 years. And it's a story that I want to re-imagine right now.
+
+***DAVID QUAMMEN:*** *Right after news of this syndrome started to break...*
+
+**JAD:** That's science writer David Quammen, who along with Carl will be one of our guides.
+
+***CARL ZIMMER:*** *Epidemiologists were trying to figure out where...*
+
+*\[****NEWS CLIP:*** *Where did it come from?\]*
+
+***CARL ZIMMER:*** *And they were thinking, like, "Well, maybe it's a sexually-transmitted disease."*
+
+**JAD:** So the CDC launches a study.
+
+***DAVID QUAMMEN:*** *Of a group of about 30 patients.*
+
+**JAD:** Gay men.
+
+***DAVID QUAMMEN:*** *In New York, Los Angeles and San Francisco, to see who had had sexual contact with whom.*
+
+***JAD:*** *How do you—is that just a series of interviews with people?*
+
+***CARL ZIMMER:*** *Yeah. Please name all the people that you—that you've slept with.*
+
+**JAD:** The CDC eventually releases the results of this survey in the form of a diagram.
+
+***DAVID QUAMMEN:*** *Like a network drawing with circles representing patients, and then lines representing sexual contact.*
+
+**JAD:** And each patient, each little circle was numbered.
+
+***DAVID QUAMMEN:*** *New York, seven. Los Angeles, twelve.*
+
+**JAD:** So you didn't know who was who, but you could tell immediately when you look at this thing, that of all the 30 or so circles, there was one circle that was special. It had lines coming out in every direction.
+
+***DAVID QUAMMEN:*** *Seven or eight emanating from him.*
+
+**JAD:** Like the hub of a wheel, except all the spokes on this wheel connected to other wheels which then shot out and connected to other wheels, fanning outward. And at the center of it all was that one little circle, numbered...
+
+***DAVID QUAMMEN:*** *Zero. Number zero.*
+
+**JAD:** As far as we know, that was the first time that you ever get the term 'patient zero.'
+
+*\[****60 MINUTES CLIP:*** *Patient zero was a man, the central victim and victimizer.\]*
+
+**JAD:** This is from a 60 Minutes special in 1988. That year a reporter named Randy Shilts had written a book called And The Band Played On that for the first time revealed the identity of patient zero.
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *He was a French-Canadian.\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *A very handsome airline steward.\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *Named Gaëtan Dugas.\]*
+
+***DAVID QUAMMEN:*** *Gaëtan Dugas.*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *Patient zero.\]*
+
+**JAD:** A few minutes later in the report, Shilts comes on to describe a guy...
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *A guy who has got unlimited sexual stamina.\]*
+
+**JAD:** This sexual athlete who would fly from one hot spot to the next because of his job, having sex with literally thousands of men.
+
+***DAVID QUAMMEN:*** *And as he knew he was dying, at least according to Randy Shilts, he became somewhat sinister and malicious. He would sleep with a male partner at a bathhouse in San Francisco or somewhere else. And then when the light came up, according to Randy Shilts, he would say, "I've got gay cancer."*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *"Now you're gonna get it too."\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *You talked to him?\]*
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *I talked to him, yeah.\]*
+
+**JAD:** This is Dr. Selma Dritz. She was part of that CDC study.
+
+*\[****ARCHIVE CLIP, 60 Minutes:*** *I told him that he was getting other people sick with it. And he said, "It's my right to do whatever I want. My civil rights. I do as I please. I've got it, why shouldn't they have it?" I said, "You can kill yourself if you want but you got no right to take somebody else along with you." And he said, "Screw you," and walked out.\]*
+
+***DAVID QUAMMEN:*** *Really, a chilling moment.*
+
+**JAD:** And pretty much from that moment on, Gaëtan Dugas...
+
+***CARL ZIMMER:*** *He just took on this—this aura as single-handedly causing an epidemic in the United States.*
+
+**JAD:** Now I don't know about you, but I first bumped into this story in the movie version of And The Band Played On.
+
+*\[****ARCHIVE CLIP, And the Band Played On:*** *My friend, we're talking about thousands of men whose faces I cannot even remember and you want names.\]*
+
+**JAD:** That's an actor playing Gaëtan Dugas in the movie. Now when I first saw that, AIDS had already infected two and a half million people. And to think that it could all go back to this one guy just seemed unreal.
+
+***CARL ZIMMER:*** *It was a—it was a very potent story. There's no doubt. And—and he gave HIV to a lot of people, there's no question about that. But what we do know is that he was not patient zero.*
+
+***JAD:*** *He was not patient zero.*
+
+***CARL ZIMMER:*** *No.*
+
+***DAVID QUAMMEN:*** *He was not the beginning point.*
+
+***CARL ZIMMER:*** *He wasn't.*
+
+**JAD:** Not even close.
+
+**ROBERT:** Huh.
+
+**JAD:** So here's the question that got me started on this story. Okay, so the gay steward, that was the movie stuck in my head. But what's the real movie? What movie can we make about the beginning of the AIDS epidemic? Because when you've got something so vast that, according to some estimates, will have killed 60 million people by the end of the decade, you need a beginning. You need some way of explaining how this disaster happened—and how it might happen again.
+
+**ROBERT:** And how exactly do we know that Gaëtan Dugas wasn't patient zero?
+
+***CARL ZIMMER:*** *Well, there are a couple reasons we know it. So—so one thing that people started to do...*
+
+**JAD:** Scientists.
+
+***CARL ZIMMER:*** *... was to—they went, started going back and looking at people who had died.*
+
+***DAVID QUAMMEN:*** *People who died mysteriously...*
+
+***CARL ZIMMER:*** *... of AIDS-like things.*
+
+**JAD:** In the past.
+
+***DAVID QUAMMEN:*** *Might some of them have been early cases?*
+
+***CARL ZIMMER:*** *And they started finding a lot.*
+
+*\[****NEWS CLIP:*** *Robert Rayford had AIDS 12 years before it was recognized in this country in 1981.\]*
+
+*\[****NEWS CLIP:*** *In 1959, a sailor in Britain died of pneumocystis pneumonia.\]*
+
+**JAD:** And so for a while, you had all these new patient zeros.
+
+*\[****NEWS CLIP:*** *In 1961, a nurse in Chicago died of Kaposi's sarcoma.\]*
+
+***CARL ZIMMER:*** *But the real definitive blow to this whole patient zero nonsense came by actually looking at the virus itself.*
+
+**JAD:** In 1984, same year that Gaëtan Dugas died, scientists isolate the virus.
+
+***CARL ZIMMER:*** *HIV.*
+
+**JAD:** Which is really just a little string of genetic code that gets into your body and into your cells and uses your cells to make copies of itself. But here's the thing.
+
+***DAVID QUAMMEN:*** *When it replicates within a single patient, it copies itself imprecisely. It mutates quickly. It changes a lot.*
+
+**JAD:** As the virus duplicates itself inside a person, the dupes often have little copying errors in them, little mutations. And it turns out, those errors? They happen at a predictable rate. You can kind of almost predict how many you're gonna see in a year or five years. And so the amount of changes that you see out there, the diversity, really, of the viruses in the AIDS population, well that becomes really good information. And so a group of scientists began to look at...
+
+***DAVID QUAMMEN:*** *The amount of diversity among HIV patients in the US.*
+
+***CARL ZIMMER:*** *And other parts of the world.*
+
+***ROBERT:*** *And the more diversity, the longer the virus has been around.*
+
+***DAVID QUAMMEN:*** *Right. Right.*
+
+***CARL ZIMMER:*** *And they could use that kind of like a clock. If you have a virus here and a virus there...*
+
+**JAD:** You could measure how different they are, and you would know that it would take a certain amount of time for them to get that different. And to make a long story short...
+
+***CARL ZIMMER:*** *The picture they get is...*
+
+**JAD:** That AIDS entered the United States...
+
+***CARL ZIMMER:*** *Around 1966.*
+
+***DAVID QUAMMEN:*** *At a time when Gaëtan Dugas was still a virginal adolescent.*
+
+**JAD:** From there, scientists were able to trace the virus back to Haiti and from Haiti back to Africa.
+
+***CARL ZIMMER:*** *It's been there the longest. It's had the longest time to become diverse, to mutate, to evolve. So if you want to really—if you want to get to the real patient zero as it were, the most interesting stuff come—actually comes from Africa. So one way to try to figure out its origins there is to go looking for the virus.*
+
+***DAVID QUAMMEN:*** *Yep. And that takes us back to ZR 59 and DRC 60. Can we talk about them?*
+
+***ROBERT:*** *Sure.*
+
+***JAD:*** *What?*
+
+***DAVID QUAMMEN:*** *These are the two earliest known HIV-positive human specimens.*
+
+**JAD:** And this is where for me at least, the story gets way bigger than I imagined. Now, the first sample...
+
+***DAVID QUAMMEN:*** *ZR 59.*
+
+**JAD:** Came to light in the late-'90s. Somehow, scientists unearthed a very old tube of blood from a hospital in Kinshasa in the Democratic Republic of Congo. And when they tested it...
+
+***DAVID QUAMMEN:*** *It had HIV. This had been taken from a Bantu man in 1959.*
+
+***ROBERT:*** *1959!*
+
+***DAVID QUAMMEN:*** *Yeah. Nobody knows his name. Nobody even knows, I think, what he died of. And that was the only one for a number of years.*
+
+***MICHAEL WOROBEY:*** *That was our one glimpse into the kind of deep history of HIV.*
+
+**JAD:** But then along comes that guy, Michael Worobey. He's an evolutionary biologist at the University of Arizona. And a few years ago, Michael went back to Kinshasa and found a second HIV sample. He actually found the virus lurking in a tiny bit of human tissue that was preserved in paraffin wax.
+
+***MICHAEL WOROBEY:*** *It's kind of like Han Solo in the Star Wars movie when he's kind of frozen in that carbonite or whatever that stuff is.*
+
+**JAD:** In this new sample, it was from the same town, Kinshasa, as the first. And also more importantly, from the same time.
+
+***MICHAEL WOROBEY:*** *1960\. And with the two of them, then you can kind of go back in time.*
+
+**JAD:** Like we described before, you can measure the differences between the samples, calculate how long it would take for those samples to get that different. And in the end, you can use these two samples to wind the clock all the way back to the virus that started it all. And it turned out...
+
+***DAVID QUAMMEN:*** *The most recent common ancestor of those two specimens...*
+
+**JAD:** Goes back to...
+
+***DAVID QUAMMEN:*** *... to about 1908.*
+
+**JAD:** 1908. That is when it started in human beings.
+
+**ROBERT:** What? 1908? Is that what he said?
+
+**JAD:** Well, roughly.
+
+***DAVID QUAMMEN:*** *Give or take a margin of error.*
+
+***CARL ZIMMER:*** *Early 1900s.*
+
+***JAD:*** *So around 1908, give or take, something happened.*
+
+***DAVID QUAMMEN:*** *That's right. That moment is the spillover.*
+
+***ROBERT:*** *Spillover.*
+
+***DAVID QUAMMEN:*** *Spillover's the term that scientists use to describe the moment when a virus in one species passes into another species.*
+
+***CARL ZIMMER:*** *You know, new diseases in humans tend to pop up from animals. So people said, "Okay, flu comes from birds. Where does HIV come from?" To get at that answer, you have to look beyond human beings. You have to look at other viruses that are like HIV.*
+
+***DAVID QUAMMEN:*** *So the search was on.*
+
+*\[****NEWS CLIP:*** *The inability to find a similar disease in research animals.\]*
+
+**JAD:** Turns out, right about the time that the HIV virus was discovered...
+
+*\[****NEWS CLIP:*** *Scientists at the New England Primate Research Center...\]*
+
+**JAD:** Some researchers found a virus like it in macaque monkeys.
+
+*\[****NEWS CLIP:*** *Macaque monkey.\]*
+
+**JAD:** In fact, it was so similar that they called it...
+
+***CARL ZIMMER:*** *SIV.*
+
+***DAVID QUAMMEN:*** *Simian immunodeficiency virus.*
+
+***BEATRICE HAHN:*** *Yes, and that's where the origin quest started.*
+
+**JAD:** This is Beatrice Hahn.
+
+***BEATRICE HAHN:*** *I'm a professor of medicine and microbiology at the University of Pennsylvania.*
+
+***JAD:*** *And so after they found it in macaques, what happened?*
+
+***BEATRICE HAHN:*** *It took a couple of years...*
+
+**JAD:** But eventually, she says, they found SIV...
+
+***BEATRICE HAHN:*** *In still another primate species, the sooty mangabey.*
+
+**JAD:** And then in a few more.
+
+***BEATRICE HAHN:*** *The African green monkeys, mandrills.*
+
+**JAD:** Pretty soon, it was all over the place.
+
+***BEATRICE HAHN:*** *There are now I think 40 different species of African monkeys known to have their own version of SIV.*
+
+**JAD:** So then the question was, which one of these monkeys or primates passed it to us?
+
+***BEATRICE HAHN:*** *Then, unexpectedly...*
+
+**JAD:** A researcher named Martine...
+
+***BEATRICE HAHN:*** *Martine Peters.*
+
+***DAVID QUAMMEN:*** *At the center in Gabon.*
+
+**JAD:** Decided to test her chimps.
+
+***BEATRICE HAHN:*** *Two orphan chimpanzees.*
+
+***DAVID QUAMMEN:*** *And bingo. She found a very, very close match.*
+
+***BEATRICE HAHN:*** *A virus that was the closest relative of HIV-1.*
+
+**JAD:** So...
+
+***BEATRICE HAHN:*** *Everybody said, "Well, you know..."*
+
+***DAVID QUAMMEN:*** *It was a chimp.*
+
+***ROBERT:*** *It was a chimp. Okay.*
+
+***DAVID QUAMMEN:*** *Yeah, it came from a chimp.*
+
+***BEATRICE HAHN:*** *Yes.*
+
+**JAD:** But then the question was well, which chimps, or rather where?
+
+***DAVID QUAMMEN:*** *Where, exactly?*
+
+**JAD:** So...
+
+***DAVID QUAMMEN:*** *Beatrice Hahn and her colleagues started looking at chimps that came from different parts of Western Central Africa.*
+
+**JAD:** Now getting blood samples from chimps in the wild is pretty much...
+
+***BEATRICE HAHN:*** *It just isn't feasible.*
+
+**JAD:** You know, because in the wild they hide the moment they see us.
+
+***BEATRICE HAHN:*** *So you get stuck with fecal samples.*
+
+***CARL ZIMMER:*** *Poop.*
+
+***BEATRICE HAHN:*** *Yes, poop.*
+
+***CARL ZIMMER:*** *There's lots of DNA in there.*
+
+**JAD:** And viruses.
+
+***CARL ZIMMER:*** *So they would just go to where the chimpanzees would sleep at night, and they would just, you know, collect some poop.*
+
+**JAD:** Bring it back to the lab, and Beatrice would analyze all the viruses.
+
+***BEATRICE HAHN:*** *Over 90 different wild communities.*
+
+**JAD:** From every part of central Africa.
+
+***BEATRICE HAHN:*** *Over 7,000 different fecal samples.*
+
+**JAD:** And slowly, they were able to piece together...
+
+***BEATRICE HAHN:*** *Which communities were infected and which ones had the closest to HIV-1. That's when it hit us for the first time.*
+
+***JAD:*** *What exactly hit you?*
+
+***BEATRICE HAHN:*** *The geographic origin of these chimps.*
+
+**JAD:** In 2006, her and her colleagues published that the human AIDS virus comes from a group of chimps, a very specific group that live in a very specific place.
+
+***DAVID QUAMMEN:*** *This little corner of southeastern Cameroon.*
+
+***BEATRICE HAHN:*** *Between the Boumba River, the Ngoko River and the Sangha River.*
+
+**JAD:** These chimps were essentially penned in between these three rivers.
+
+***DAVID QUAMMEN:*** *It's an area probably only of a hundred square miles. Not much more than that.*
+
+***ROBERT:*** *So when we're looking at what humans have and we're looking at what all of those chimps in Africa have, the most perfect match is this little territory up there in Cameroon?*
+
+***DAVID QUAMMEN:*** *Yeah.*
+
+***BEATRICE HAHN:*** *There is no other virus that is any closer. So that's that.*
+
+***JAD:*** *So can you reconstruct the spillover and the who that it spilled over into, as best—you know, as best as we understand it?*
+
+***DAVID QUAMMEN:*** *You can hypothesize. And the best hypothesis is the cut hunter hypothesis.*
+
+***JAD:*** *The cut hunter?*
+
+***ROBERT:*** *The C-U-T hunter?*
+
+***DAVID QUAMMEN:*** *That's right. A hunter who gets cut.*
+
+***JAD:*** *And what can we say about this guy? I mean, is he—what do we know about him?*
+
+***DAVID QUAMMEN:*** *If we had to guess? If we had to guess, that human was probably a Bantu man living very near the forest or in the forest in southeastern Cameroon. He was hunting. Maybe he had a bow and arrow, maybe he had a spear, and he kills a chimpanzee. Bingo, here's a big pile of meat. And he starts to butcher it. He's cutting open the chest cavity. He's pulling out organs and he cuts himself. And he gets blood-to-blood contact. Chimpanzee blood against his blood. What happens is that the virus in the chimpanzee blood found itself in an environment that was unexpected, that was alien to it, but was not too much different from the biochemical environment it had been in, chimpanzee blood. It could function. And that's the moment. That's the moment it begins. That human is patient zero.*
+
+***JAD:*** *But why then? Why 1908? I mean presumably, people have been hunting chimps for a really long time. Why wouldn't this guy be patient seven million?*
+
+***DAVID QUAMMEN:*** *That's another of the big questions. People certainly in central Africa have been eating monkeys for thousands of years.*
+
+**JAD:** I mean, David says there's really no way to know, but this could have just been the right virus.
+
+***DAVID QUAMMEN:*** *Maybe this particular virus evolved in a way that made it more transmissible in humans.*
+
+**JAD:** Or maybe it just got lucky to come along at precisely the right time.
+
+***CARL ZIMMER:*** *What you're looking at...*
+
+**JAD:** This is Carl again.
+
+***CARL ZIMMER:*** *... is a time when this part of Africa was being heavily colonized. The French and the Belgians were building train systems. And populations were on the move. Kinshasa, which was then Leopoldville, it was exploding. It was huge.*
+
+***DAVID QUAMMEN:*** *The cities were attracting people from the boonies in those days...*
+
+**JAD:** So by 1908, all the virus has to do is get from that tiny village where the cut hunter lived to one of the new cities.
+
+***DAVID QUAMMEN:*** *That happens almost certainly by river. I was stirred by the work of Beatrice Hahn and Mike Worobey to see what this scenario looked like on the ground. So I went to southeastern Cameroon and I chartered a little boat, about a 30-foot wooden boat with an outboard motor.*
+
+**JAD:** And he traced the path of the virus.
+
+***DAVID QUAMMEN:*** *We went down the Ngoko River, and we stopped at a few villages. There are a couple little villages there, one of which has a market where you can buy monkey meat and crocodile meat.*
+
+**JAD:** And he says it wasn't hard to imagine how it all might have went down. Perhaps the cut hunter gave the virus to a woman who then passed it on to a fisherman.
+
+***DAVID QUAMMEN:*** *Fellow that I called the voyager.*
+
+**JAD:** Who then got in the boat as David did and carried it down the river.
+
+***DAVID QUAMMEN:*** *The Sangha River, which is—the Ngoko is a tributary of the Sangha. The Sangha becomes a bigger river 200 meters wide, which then flows to the Congo River, the big river.*
+
+**JAD:** And into the city.
+
+***DAVID QUAMMEN:*** *And I imagined him sliding into Brazzaville around 1920. The first HIV-positive man to arrive in an urban center, where there's a much greater density of humans, where there are prostitutes, a greater fluidity of social and sexual interactions. And that seems to have been the place from which the disease went global.*
+
+**ROBERT:** So that's how it happened?
+
+***DAVID QUAMMEN:*** *Let me add another parentheses. There are essentially 12 major groups of the HIV virus.*
+
+**JAD:** What David means is that 12 different kinds of HIV viruses have spilled over 12 different times.
+
+***DAVID QUAMMEN:*** *Eight of them came from monkeys, three of them came from chimps and one came from gorillas.*
+
+***JAD:*** *Wow.*
+
+***DAVID QUAMMEN:*** *And of those 12, only one of them is responsible for the global pandemic.*
+
+***JAD:*** *There are 12 kinds!*
+
+***DAVID QUAMMEN:*** *Twelve kinds that we know about. It's probably happened dozens and dozens more times that we don't know about. So the spillover is not a highly improbable event. In most cases, those spillovers have not resulted in extended chains of disease in humans, let alone global pandemic. In a few cases they've resulted in localized disease. And in one case, the sweepstakes-winning strain, HIV-1 group M, has infected 60 million humans around the world and killed 30 million.*
+
+***JAD:*** *A lot of people to thank for this segment. Thanks to David Quammen, who's got a book called Spillover, which is all about diseases crossing over from animals to us.*
+
+**ROBERT:** Also, thank you to Carl Zimmer, whose book on viruses is called A Planet of Viruses. And thank you also to him and to Michael Worobey. Their interview was recorded on a podcast from Meet the Scientists. And also to Beatrice Hahn at the University of Pennsylvania.
+
+**JAD:** And to Katie Slocum from the University of York for letting us use her recordings of chimpanzees.
+
+**JAD:** Hey, you want to know about my—one of my proudest moments of being a dad?
+
+**ROBERT:** Yeah.
+
+**JAD:** Happened this morning.
+
+**ROBERT:** Yeah?
+
+**JAD:** So you know how Emil's a little bit of an introvert, right?
+
+**ROBERT:** Mm-hmm.
+
+**JAD:** And we're sort of worried whether he socializes enough. Well, we were taking him to daycare and we're—he's taking his shoes off, and there's this little boy who's only there two days a week and he's not adjusting well. And every time his mother drops him off, she has to literally pry him off her and he's wailing and you know? So Emil sits down on this little seat to take his shoes off. The mother of this kid puts this little boy next to Emil and he is just crying. Wah! He's distraught. So then what happens is Emil turns to this little boy, looks at him, sticks out his hand and says, "High-five."
+
+**ROBERT:** \[laughs\]
+
+**JAD:** "High-five." Out of nowhere.
+
+**JON MOOALLEM:** That is amazing. Yeah, because it's like, they're out in their own society, you know?
+
+**JAD:** Okay, so let's do the introductions. I'm Jad.
+
+**ROBERT:** I'm Robert.
+
+**JAD:** This is Radiolab. We're calling this show...
+
+**ROBERT:** Patient Zero.
+
+**JAD:** Yeah. And for this next segment, no more patients.
+
+**ROBERT:** No more diseases.
+
+**JAD:** Exactly.
+
+**ROBERT:** Let's focus instead on invention. On the people who bring new ideas into the world.
+
+**JAD:** Yeah, the zeros behind the ideas. That doesn't quite sound right. You know what I mean.
+
+**ROBERT:** Yeah.
+
+**JAD:** And that guy you just heard?
+
+***JON MOOALLEM:*** *Hi. My name is Jon Mooallem. I'm a contributing writer at the New York Times Magazine.*
+
+**JAD:** He's got his own high-five story to tell, though it's not about his daughter.
+
+***JON MOOALLEM:*** *We have—I think we have kids around the same age.*
+
+**JAD:** Or her first high-five. It's actually about the first high-five ever.
+
+***JON MOOALLEM:*** *Yeah.*
+
+***JAD:*** *Ever?*
+
+***JON MOOALLEM:*** *Yeah.*
+
+**JAD:** See, one morning a few years ago...
+
+***JON MOOALLEM:*** *2007 or 2008.*
+
+**JAD:** Jon turned on his computer, opened up his email and found...
+
+***JON MOOALLEM:*** *A press release about the—the true undisputed inventor of the high-five coming, you know, out finally.*
+
+***JAD:*** *Who was the press release from?*
+
+***JON MOOALLEM:*** *National High-Five Day, which is a kind of a joke holiday that was invented by a group of high school friends, I think.*
+
+***ROBERT:*** *And they told the story?*
+
+***JON MOOALLEM:*** *They told the story of Lamont Sleets. College basketball player at Murray State in Kentucky.*
+
+**ROBERT:** And the story in the press release went something like this. Sleets's father fought in...
+
+***JON MOOALLEM:*** *Vietnam. as part of the 1st Battalion 5th Infantry, which was nicknamed The Five. And they used to greet each other by holding up their hand and saying, "Five" as a kind of prideful thing. And when Lamont was younger, they would all sort of hang out at the house in Kentucky, and he couldn't keep all their names straight. So when they'd walk in the door and they'd go "Five," he would just sort of smack their hand and he'd go, "Hi, Five."*
+
+***JAD:*** *Oh, like "Hi" like, "Hello, five."*
+
+***JON MOOALLEM:*** *Hello, Five. Yeah. Hi comma Five. You know, he has small hands, he liked to put them up against the big hands of the Five guys. And it was years later that he started playing college basketball at Murray State and started high-fiving all his teammates. He really never stopped high-fiving, it was just something he did. But when he went around playing away games, other teams picked it up and it sort of spread out. So he was sort of both the inventor of the high-five and the kind of Johnny Appleseed of the high-five at the same time.*
+
+**JAD:** And within a few weeks of Jon getting this press release...
+
+**ROBERT:** The story was everywhere.
+
+**JAD:** Went kind of viral.
+
+***JON MOOALLEM:*** *It wound up sort of all over the internet. There were some local newspapers who, you know, picked it up. You know, Murray State suddenly became very proud of the fact that they were the home of the high-five. It became sort of part of the institutional lore in the athletic department there.*
+
+***JAD:*** *And then you read this and you thought what?*
+
+***JON MOOALLEM:*** *I thought, how sad.*
+
+***JAD:*** *How sad? Why how sad?*
+
+***JON MOOALLEM:*** *Because I knew the story of Glenn Burke.*
+
+**JAD:** Turns out Jon had already been poking around into this question of who invented the high-five, and he had stumbled on this photograph.
+
+***JON MOOALLEM:*** *You know, maybe I don't have it.*
+
+**JAD:** Black and white picture.
+
+***JON MOOALLEM:*** *Oh, yeah. Here we go.*
+
+**JAD:** Two baseball players facing each other. Afros, huge smiles, and their hands are in the air right about to connect.
+
+***JAD:*** *Which one of these is Glenn Burke?*
+
+***JON MOOALLEM:*** *So Burke's—Burke's the guy in the warm-up jacket. I think he's even got his hat on backwards.*
+
+**JAD:** Glenn Burke was a center fielder for the LA Dodgers in the '70s. Big guy.
+
+***JON MOOALLEM:*** *He says he had 17-inch biceps. So I'll take his—I'll take his word for that.*
+
+**JAD:** The other guy in the picture is Dusty Baker. He's an outfielder. But you can tell in the picture just from the way that Glenn is sort of throwing his whole body forward that he's the one initiating the gesture.
+
+***JON MOOALLEM:*** *I mean, this is a guy who was, you know, the soul of the Dodgers clubhouse.*
+
+***LUTHA BURKE DAVIS:*** *He just had that type of charisma.*
+
+**ROBERT:** This is Lutha Burke Davis, Glenn's sister.
+
+***LUTHA BURKE DAVIS:*** *With Glenn it was like he would always be on the stage. I often said he should have been a comedian.*
+
+***JON MOOALLEM:*** *He was always dancing around in the—in the clubhouse. He used to do Richard Pryor stand-up routines just from memory.*
+
+***LUTHA BURKE DAVIS:*** *He just genuinely loved people.*
+
+**ROBERT:** So much so she says, that in the year that picture was taken, the Dodgers made him their sort of public face of the team.
+
+***LUTHA BURKE DAVIS:*** *He was their Ambassador of Goodwill.*
+
+**ROBERT:** He's the guy they'd send out to all the press events.
+
+***LUTHA BURKE DAVIS:*** *You know, like meet the youngsters, or...*
+
+**ROBERT:** That sort of thing.
+
+***JON MOOALLEM:*** *Here's the story about this picture.*
+
+***JAD:*** *What was the date?*
+
+***JON MOOALLEM:*** *October 5, poetically enough, 1977.*
+
+**JAD:** It's the playoffs. Dodgers versus the Phillies. Game four. Bases are loaded.
+
+***JON MOOALLEM:*** *Dusty Baker...*
+
+**ROBERT:** Steps to the plate...
+
+***JON MOOALLEM:*** *And grand slam.*
+
+**JAD:** Crowd goes nuts.
+
+**ROBERT:** Baker does his victory lap.
+
+**JAD:** And just as he's...
+
+***JON MOOALLEM:*** *You know, rounding third, coming to the plate.*
+
+**ROBERT:** Burke comes racing out of the dugout...
+
+***JON MOOALLEM:*** *And he's got his arm really high up, and Baker...*
+
+**JAD:** Sees him, instinctively raises his arm, and before you know it...
+
+***JON MOOALLEM:*** *Burke and Baker smack hands.*
+
+**JAD:** Bam! There it was.
+
+***LUTHA BURKE DAVIS:*** *The sportscasters that were, you know, announcing the game, said they had never seen that done in sports before.*
+
+***JON MOOALLEM:*** *And from there on, the Dodgers started high-fiving and everyone else started high-fiving.*
+
+***LUTHA BURKE DAVIS:*** *The high-five...*
+
+***JAD:*** *Became a thing.*
+
+***LUTHA BURKE DAVIS:*** *Mm-hmm.*
+
+**JAD:** And it all began with that one moment.
+
+***JON MOOALLEM:*** *The platonic high-five right there.*
+
+**ROBERT:** Unfortunately, that moment...
+
+***JON MOOALLEM:*** *That was actually both the beginning and also almost the end of Burke's career.*
+
+**JAD:** It's not that he wasn't good. He was actually really good, even in his rookie season.
+
+***JON MOOALLEM:*** *He was being talked about as the next Willie Mays by the Dodgers organization.*
+
+**ROBERT:** But...
+
+***JON MOOALLEM:*** *He was gay. And he tried to keep that a secret while he was playing. Dusty Baker actually had kept trying to set him up with his wife's cousins, and Burke never want—never liked any of them. And Baker's completely confused because he knew, you know, these were these were really good-looking women, apparently. So there were rumors circulating, and the rumors reached the front office of the LA Dodgers. And—and one day, Burke was called in by management and they offered him $75,000 to get married.*
+
+***JAD:*** *What?*
+
+***ROBERT:*** *$75,000.*
+
+***JAD:*** *To get married?*
+
+***ROBERT:*** *Huh.*
+
+***JAD:*** *What is this, like the mob or something?*
+
+***JON MOOALLEM:*** *Well, exactly. I mean, they didn't regularly offer their players money to get—to get married. And Burke's response apparently was—he said, "I suppose you mean to a woman."*
+
+***ROBERT:*** *\[laughs\]*
+
+***JON MOOALLEM:*** *Shortly after that, the Dodgers traded him to the Oakland A's for a player who everyone acknowledged was completely inferior.*
+
+***LUTHA BURKE DAVIS:*** *That was confusing for us, and I know it had to be confusing for him.*
+
+***JON MOOALLEM:*** *It was shocking to everyone. No one understood why he was traded.*
+
+***JAD:*** *And you think it was because he was gay?*
+
+***JON MOOALLEM:*** *Yeah. Yeah.*
+
+***LUTHA BURKE DAVIS:*** *You know, baseball is the all-American sport.*
+
+***JAD:*** *Yeah.*
+
+***LUTHA BURKE DAVIS:*** *But, you know, at least he was still gonna be able to play ball. Or at least he thought.*
+
+***JON MOOALLEM:*** *He ends up in Oakland. Doesn't get very much playing time.*
+
+**ROBERT:** And when he did get on the field, it wasn't very pleasant.
+
+***LUTHA BURKE DAVIS:*** *He used to get heckled a lot, you know, from people in the bleachers and...*
+
+**ROBERT:** And even worse, according to a couple of different people his coach...
+
+***LUTHA BURKE DAVIS:*** *Billy Martin.*
+
+**ROBERT:** Would often introduce Glenn Burke this way.
+
+***LUTHA BURKE DAVIS:*** *This is Glenn Burke, the faggot.*
+
+***JAD:*** *Really?*
+
+***LUTHA BURKE DAVIS:*** *Yeah.*
+
+***JON MOOALLEM:*** *And so Glenn Burke retires.*
+
+***JAD:*** *Wow, and he was only, like, 26 or something, right?*
+
+***LUTHA BURKE DAVIS:*** *Yes. He was young.*
+
+***JON MOOALLEM:*** *Within a year of his rookie season. Just walks away.*
+
+***JAD:*** *God, that's like a aborted career.*
+
+***JON MOOALLEM:*** *Exactly. From there, he ends up in the Castro District in San Francisco, which is the big gay neighborhood.*
+
+**JAD:** And things go okay for a while.
+
+**ROBERT:** But then one day when he's crossing the street...
+
+***LUTHA BURKE DAVIS:*** *Three teenaged girls in their mother's car...*
+
+**JAD:** Come barreling down the road.
+
+***LUTHA BURKE DAVIS:*** *And they hit him and broke his leg in three places.*
+
+***JAD:*** *Oh, man.*
+
+***LUTHA BURKE DAVIS:*** *And that kind of ended everything when that happened.*
+
+**ROBERT:** He starts taking painkillers. One thing leads to another.
+
+***JON MOOALLEM:*** *He gets hooked on crack. Can't hold a job. He goes broke.*
+
+**JAD:** Ends up living...
+
+***LUTHA BURKE DAVIS:*** *On the street.*
+
+***JON MOOALLEM:*** *And in 1994, Burke is diagnosed with—with HIV or AIDS. I guess AIDS at that point.*
+
+***LUTHA BURKE DAVIS:*** *He ended up coming to live with me. A lot of times he didn't sleep well at night, and we would sit up and talk. Put on music. And I danced, and he'd move his arms around because he was in the bed. He was bedridden.*
+
+***JAD:*** *And so you took care of him 'til he died?*
+
+***LUTHA BURKE DAVIS:*** *Yeah.*
+
+**JAD:** And Glenn Burke died in 1995.
+
+**ROBERT:** But what he's left with at this point is he's left with the original high-five, right? That's his claim.
+
+**JON MOOALLEM:** Yes. Yes. That defined him, to some people at least at the end. And he—and he believed it. A reporter had asked him, you know, if it was true about the high-five and he said, "Yeah, think about the feeling you get when you give someone the high-five. I had that feeling before everybody else did."
+
+**JAD:** Huh. So what did you do when you got this press release?
+
+**JON MOOALLEM:** So I called National High-Five Day, because I wanted to talk to Lamont Sleets. Even though I was sad, it seemed like okay, here's another person's prideful accomplishment. Let's get his story.
+
+***GREG HARRELL-EDGE:*** *Hello? Hello?*
+
+**JAD:** Eventually...
+
+***GREG HARRELL-EDGE:*** *Hey, there we go.*
+
+**JAD:** He gets this guy on the phone.
+
+***GREG HARRELL-EDGE:*** *My name is Greg Harrell-Edge.*
+
+**JAD:** Greg is one of the founders, and he and Jon gets talking. And Jon asks him the sensible first question.
+
+***JON MOOALLEM:*** *Is the Lamont Sleets story true?*
+
+**ROBERT:** He figured it was, but he thought he should at least ask. He's a reporter.
+
+***JON MOOALLEM:*** *And there was a pause, and he said, "No."*
+
+***GREG HARRELL-EDGE:*** *Frankly, we've been waiting for someone to ask. We thought no one would ever ask.*
+
+***JON MOOALLEM:*** *It's not true.*
+
+***GREG HARRELL-EDGE:*** *This is something that we had made up. We wanted to see if the media would—would run with it.*
+
+***ROBERT:*** *They made the whole thing up.*
+
+***JON MOOALLEM:*** *They made the whole thing up, and then they just went to go cast their protagonist.*
+
+***GREG HARRELL-EDGE:*** *So we sat down. We picked Murray State. That's just kind of a great-sounding school. It pops up in the NCAA tournament every few years.*
+
+***JON MOOALLEM:*** *And they came across this guy Lamont Sleets.*
+
+***JAD:*** *Why him?*
+
+***GREG HARRELL-EDGE:*** *Well, it was pretty close to random.*
+
+***JON MOOALLEM:*** *They then told me they had received an email from Lamont Sleets's wife.*
+
+***GREG HARRELL-EDGE:*** *Absolutely. His wife emailed us and said some of the details that you have are flat out wrong.*
+
+***JAD:*** *That implies that some of the things you've said are right, though.*
+
+***JON MOOALLEM:*** *But Lamont thinks he probably did invent the high-five.*
+
+***JAD:*** *Wait, wait, wait, wait, wait. What about Glenn?*
+
+***LUTHA BURKE DAVIS:*** *I was kind of like, hmm, kind of a bit blown away, you know?*
+
+***JON MOOALLEM:*** *Yeah, you know, here was this guy who is proud of this, and these guys just kind of stripped it away from him?*
+
+***JAD:*** *Do you feel a little guilty? That I mean like, okay, it's a high-five. It's kind of a silly thing. On the other hand, this guy's life, the way he died. Do you feel like you robbed him?*
+
+***GREG HARRELL-EDGE:*** *We do feel—we do feel—we wish that we had done things slightly differently in—in putting together this sort of collegiate prank. But we didn't really know of Glenn Burke at that time.*
+
+**JAD:** Greg says they hadn't heard of the Glenn Burke story when they pulled this prank, and now that they know it, they really feel bad. In fact, they're now organizing a charity event they're calling...
+
+***GREG HARRELL-EDGE:*** *The National High-Five-Athon.*
+
+**JAD:** Which will raise money for charity, including one chosen by Glenn Burke's sister Lutha.
+
+***LUTHA BURKE DAVIS:*** *I'm very proud. Any time I see somebody do a high-five, it just really makes me happy.*
+
+**JAD:** And that seemed like a good end to the story.
+
+***JON MOOALLEM:*** *But...*
+
+**ROBERT:** No. Because then Jon told us that...
+
+**JAD:** If you really honestly want to get to the bottom of who invented the high-five? I mean, we didn't think we wanted to but now there were in it, what the hell. Well, you've got to go beyond Glenn Burke's story.
+
+***JON MOOALLEM:*** *I've wanted you to believe that he was a hero at this point, right? So maybe I should tell you a little bit about Derek Smith, right?*
+
+**ROBERT:** Even though Glenn Burke died believing that the high-five was his legacy, at more or less the same moment that he invented it, a guy named Derek Smith, a basketball player for the Louisville Cardinals was at practice...
+
+***JON MOOALLEM:*** *And a guy named Wiley Brown went up to Derek Smith and was going to give him just a ordinary low-five, and Derek Smith looked him in the eye. This is what Wiley Brown told me. Derek Smith looked him in the eye and said, "No. Up high." That year's Louisville team, they were—they were known as the Doctors of Dunk. You know, they're a high-flying team. They played above the rim.*
+
+**JAD:** And Jon says when Louisville played in the 1980 NCAA finals...
+
+***JON MOOALLEM:*** *I haven't seen it, but apparently the broadcaster referred actually to the high-five handshake.*
+
+*\[****ARCHIVE CLIP:*** *Giving the high-five handshake. High-fives!\]*
+
+***JON MOOALLEM:*** *He felt compelled to explain it to America.*
+
+***JAD:*** *Wow, and did—at the moment that Derek Smith did it—did an asteroid fall on his head or something?*
+
+***JON MOOALLEM:*** *Well in 1996, I believe. In the '90s, he had an undiagnosed heart condition and he just died all of a sudden on a cruise ship.*
+
+***JAD:*** *What?*
+
+***JON MOOALLEM:*** *Yes, and he said explicitly to Wiley Brown, "This is something I'm gonna be remembered for. You know, our kids and our grandkids are gonna talk about this." And in fact, their kids and grandkids do talk about it.*
+
+**JAD:** And they're probably very proud. But...
+
+***KATHY GREGORY:*** *Hello, it's Kathy.*
+
+**ROBERT:** Then we ran into this woman.
+
+***KATHY GREGORY:*** *Fire away.*
+
+**JAD:** This is Kathy Gregory. She coached women's volleyball in the 1960s, years before Glenn Burke and Derek Smith. And she says with her girls...
+
+***KATHY GREGORY:*** *Everyone did it. All the time. So I do believe that it was volleyball that first started it.*
+
+**JAD:** And interestingly, she says they would high-five more when a player screwed up.
+
+***KATHY GREGORY:*** *Yes. No, no, it isn't just about celebration.*
+
+**JAD:** Because really, when do you need a high-five?
+
+***KATHY GREGORY:*** *Of course, it's more when you're down.*
+
+***JON MOOALLEM:*** *Yeah, it makes people so happy.*
+
+**JAD:** So women's volleyball. There you go.
+
+***\[ARCHIVE CLIP, Breathless:*** *Non, ce n'est pas fini.\]*
+
+**ROBERT:** Non, ce n'est pas fini! Because then our producer Lynn Levy also discovered that in the movie Breathless in 1955, at exactly one hour, 18 minutes into the film, you will see two Frenchmen do a very distinct haute cinq.
+
+*\[****ARCHIVE CLIP, Breathless:*** *Amigo!\]*
+
+**ROBERT:** Right there!
+
+***JAD:*** *\[laughs\]* *Isn't this all, like, an indication to you that it—it's maybe—it's one of those things that probably was there at the dawn of man?*
+
+***JON MOOALLEM:*** *Because it, like, gives pleasure?*
+
+***JAD:*** *Yeah, it's just like a...*
+
+***JON MOOALLEM:*** *Like, from an evolutionary point of view?*
+
+***ROBERT:*** *No, I don't think so. I think—I think this has the feeling of something that was born. I mean, who in this room wants Glenn Burke to be the original guy?*
+
+***JAD:*** *Just raise your hand. Me.*
+
+***JON MOOALLEM:*** *Me.*
+
+***ROBERT:*** *Me.*
+
+***JAD:*** *It's a better story!*
+
+***ROBERT:*** *So look at what's happening here. Every time we look for the original of anything, be it a disease, a contagion, a gesture, we find more than one. So what do you do in this situation?*
+
+***JAD:*** *I think, you know what you do is you just choose. You say which one is the better story. Let's just go with the best high-five. Forget the first. The best.*
+
+***ROBERT:*** *And I think we can do that. Lets just call it Glenn Burke.*
+
+***JAD:*** *Glenn Burke invented the high-five.*
+
+***ROBERT:*** *Done.*
+
+***JAD:*** *All right. High-five. Hive-five.*
+
+*\[high-five slap\]*
+
+***ROBERT:*** *\[laughs\]*
+
+*\[****LISTENER:*** *Hi, I'm Josh, and I'm from Plainfield, New Jersey, and here are the staff credits. Radiolab is hosted by Lulu Miller and Latif Nasser. Soren Wheeler is our executive editor. Sarah Sandbach is our executive director. Our managing editor is Pat Walters. Dylan Keefe is our director of sound design. Our staff includes: Jeremy Bloom, W. Harry Fortuna, David Gebel, Maria Paz Gutiérrez, Sindhu Gnanasambandan, Matt Kielty, Mona Madgavkar, Annie McEwen, Alex Neason, Sarah Qari, Natalia Ramirez, Joanna Strogatz, Anisa Vietze, Arianne Wack, Molly Webster and Jessica Yung, with help from Gabby Santas and Maia Appleby Melamed. Our fact-checkers are Nora Belblidia, Hilary Elkins, Rachel Gross, Diane Kelly, Emily Krieger, Natalie Middleton and Sophie Samiee.\]*
+
+*\[****LISTENER:*** *Hi. I'm Maddie and I'm from Frederick, Maryland. Leadership support for Radiolab's science programming is provided by the Simons Foundation and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation.\]*
+
+**\-30-**
+
+*Copyright © 2026 New York Public Radio. All rights reserved. Visit our website* [*terms of use*](https://www.wnyc.org/terms/) *at* [*www.wnyc.org*](http://www.wnyc.org/) *for further information.*
+
+*New York Public Radio transcripts are created on a rush deadline, often by contractors. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of programming is the audio record.*
+
+#### Rift Valley Fever - Ruminating on ruminants
+
+# Ep 164 Rift Valley Fever: Ruminating on ruminants
+
+![Ep 164 Rift Valley Fever: Ruminating on ruminants](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/40Oqk2CCeakS4MRJXxYxcY)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+Hemorrhagic virus? Check. Deadly disease? Check. Mosquito-borne? Check. Affected by animal movement, human activity, and environmental change? Check. Rift Valley Fever has all the markings of a classic TPWKY episode. This week, we’re doing a deep dive on this deadly virus, taking a One Health approach to explore the intricate relationships between animals, humans, and the environment to understand how this virus moves across the landscape. We trace the various paths this virus takes: through the organisms it infects, across the globe as it spreads, and over time as it appears to be evolving to be deadlier. Tune in to learn more about Rift Valley fever and what we might see with this pathogen in the years to come.Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAu See omnystudio.com/listener for privacy information.
+
+:::
+
+#### The Great Smog of London - “Thick, drab, yellow, disgusting”
+
+# Ep 185 The Great Smog of London: “Thick, drab, yellow, disgusting”
+
+![Ep 185 The Great Smog of London: “Thick, drab, yellow, disgusting”](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/40X2YCZSivRvQMSMSb0652)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+Some things just go together: peanut butter and jelly, bacon and eggs, milk and cereal, London and smog. Or at least, that’s the way things used to be until the Great Smog of 1952. (Don’t worry, the first three pairings are safe). If you’ve watched The Crown, you may remember an early episode in which a thick, noxious smog surrounded the entire city of London for days on end. People coughing, hacking, collapsing. Traffic ground to a standstill. Authorities in denial. What was actually going on in December 1952 to lead to such conditions? What was in the smog to make it so toxic? And how did this severe pollution event lead to massive changes in air quality regulations around the world? Tune in to find out all this and more (including what The Crown got wrong). Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAuSee omnystudio.com/listener for privacy information.
+
+:::
+
+#### Ticks are a growing problem, no matter where you live
+
+![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5m5WghWyi9qJIZcvJej9cs)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+In the grand scheme of things, Lyme disease is a fairly new scientific discovery. It was first traced back to ticks in the late 70s and early 80s. The tick-borne illness can cause a rash, fever, pain, neurological complications, and even facial paralysis. It’s spread by only two of the nearly 50 species of ticks in the United States. Historically, most Lyme cases were limited to a small region, including the Great Lakes area and northeastern US. But thanks to changing temperatures, animal migration and shifts in land use, scientists say tick territory is expanding. So what does that mean for Lyme disease risk? And do you have to be worried about it in your own backyard?Interested in more episodes about pests and parasites? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. It includes perks like bonus episodes, early access, archive access, curated playlists and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### We're better off with health equity
+
+![We're better off with health equity](https://i.scdn.co/image/ab67656300005f1ff042bb95667b202b68270f75)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2021
+
+**Series:** Better Off
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3OZgqcV9eRgDzusvO0dgvt)
+
+[Open Series in Spotify](https://open.spotify.com/show/2TDswhCVfRb4CNBlGEMVfM)
+
+This spring, public health officials have been laser-focused on getting more Americans vaccinated against COVID-19. So why do racial disparities persist around vaccination? And once more Americans are vaccinated, how do we ensure that Black and Latino families aren’t left vulnerable to future public health crises? In the latest episode of Better Off, Mary Bassett talks about the historical roots of health inequities, and the big changes needed to close those gaps.Guest: Mary T. Bassett, director of the François Xavier Bagnoud Center for Health and Human Rights at Harvard University.For a full transcript of this episode, visit our website. Subscribe to get new episodes of Better Off in your podcast feed every other Wednesday.Read more about Mary Bassett's work, as well as the latest news from Harvard T.H. Chan School of Public Health at hsph.harvard.edu/news. Music in this episode:Ketsa – SabreBlue Dot Sessions – LupiBlue Dot Sessions – The Caspian SeaBlue Dot Session – An Oddly Formal DanceKetsa – Onwards Upwards
+
+:::
+
+#### Why Does Everyone Have Food Allergies These Days?
+
+![Why Does Everyone Have Food Allergies These Days?](https://i.scdn.co/image/ab67656300005f1f42ebd2bae4f5c04510b849bb)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/0N5e0iYYjljEDWnT4CLY0r)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+It's not your imagination, food allergies are really on the rise. One recent study found that severe allergic reactions to food have increased by more than 300 percent over the past decade. And they don't just affect Americans or kids—they're on the rise in adults around the world. Even pets are getting food allergies. So what's going on? Why would your body decide that food—something that's actually essential to keeping you alive—needs to be attacked like a dangerous invader? And why would we evolve a defense mechanism that can end up killing us? This episode, we've got the history and the latest scientist on food allergies: what they are, what causes them, how they're different from food intolerance and sensitivity, and what we can do about them. Join us on a wild journey from ancient Pharoahs to the future of medicine, via jellyfish, Calvin Coolidge, and "rose fever," as we figure this all out. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::

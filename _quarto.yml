@@ -8,9 +8,15 @@ project:
     - "conbio/attachments/"
     - "hhe/attachments/"
   render:
-    - "resources/**"
-    - "!resources/*/_*/**"
-    - "*_resources.qmd"
+    - "*/other/*.qmd"
+    - "*/case_convos/*.qmd"
+    - "*/literature/*.qmd"
+    - "*/textbook/*.qmd"
+    - "*/podcast/*.qmd"
+    - "*/video/*.qmd"
+    - "*/film/*.qmd"
+    - "*/topics/*.qmd"
+    - "*/units/*.qmd"
     - "*/schedule.qmd"
     - "syllabi/*.qmd"
     - "!syllabi/_*.qmd"
@@ -19,7 +25,6 @@ project:
     - "!_archive/**"
     - "*/_*/**"
     - "*/*/_*/**"
-    - "*/video/*.qmd"
 execute:
   freeze: auto
 
@@ -64,5 +69,5 @@ website:
 
 profile:
   group:
-    - [basic, schedule, syllabus, resource, listings]
+    - [basic, schedule, syllabus, listings, topics, podcast, video, film]
   default: basic

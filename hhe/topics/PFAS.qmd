@@ -1,6 +1,6 @@
 ---
 title: "PFAS"
-date: "2026-08-29"
+date: "2026-10-27T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,3 +13,794 @@ listing:
   contents: "PFAS_resources.yaml"
 ---
 
+## Class Meetings
+
+**Dates:** 2026-10-27T16:00:00, 2026-10-29T16:00:00
+
+## Optional Material (Dive Deeper)
+
+### Podcasts
+
+#### A Brief History of How PFAS Poisoned the World
+
+![2. A Brief History of How PFAS Poisoned the World](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4w8mCY3dHpYUJ0ISgTiUIT)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+PFAS are a large class of chemicals that have been used since the late 1930s. What makes them particularly hazardous is that they are persistent and difficult to break down. That means all the PFAS that have even been created still exist today. In the first episode of this ten-part series, we learned the history of how PFAS was created.  In episode two, we get a better understanding of just how dangerous PFAS chemicals are and how a series of lawsuits brought these health hazards to light. Guests featured in this episode: - Arlene Blum, ⁠⁠Green Science Policy Institute ⁠⁠ - Mike Schade, ⁠⁠Toxic Free Future⁠⁠ - Stefan Posner, ⁠⁠textile and polymer chemist⁠⁠ - Scott Wilson, ⁠⁠Regenesis Environmental Remediation⁠⁠ - James Pollock, ⁠⁠Marten Law LLP⁠ - Philippe Grandjean, ⁠environmental epidemiologist⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠Toxicfreefuture.org⁠⁠  ⁠⁠Foodandwaterwatch.org ⁠⁠ Or  ⁠⁠Pfascentral.org ⁠⁠ INSTAGRAM: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠https://gofund.me/77aac225 ⁠----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to ⁠⁠snaplincconsulting.com⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ------------------------- Sources Belisle, John. 1978. Central Analytical Laboratory Report 6867. Contributed by Sharon Lerner (The Intercept). Retrieved from ⁠⁠https://www.documentcloud.org/documents/4575547-1978-PFOS-monkey-study⁠⁠ Environmental Working Group. (n.d.). For Decades, Polluters Knew PFAS Chemicals Were Dangerous But Hid Risks From Public. Retrieved from ⁠⁠https://www.ewg.org/research/decades-polluters-knew-pfas-chemicals-were-dangerous-hid-risks-public⁠⁠ Minnesota Pollution Control Agency. (n.d.). Industrial wastewater treatment technology. Retrieved from ⁠⁠https://www.pca.state.mn.us/sites/default/files/gp3-06.pdf⁠⁠ The Intercept. (2015, August 11). The Teflon Toxin: DuPont and the Chemistry of Deception. Retrieved from ⁠https://theintercept.com/2015/08/11/dupont-chemistry-deception/⁠ Toxic-Free Future. (n.d.). Breast Milk Study. Retrieved from ⁠https://toxicfreefuture.org/research/breast-milk-study/
+
+:::
+
+#### Are PFAS-Free Products Possible?
+
+![8. Are PFAS-Free Products Possible?](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3Uc6vkjo5rh7JVGvtapDSL)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+It seems that many brands are moving in the right direction in terms of phasing PFAS out of their products, but one of the many aspects complicating this process is the potential for contamination.  In this episode, we hear directly from leading outdoor industry brands like Keen, Outdoor Research, Fjallraven, and Houdini Sportswear alongside scientists and environmental epidemiologists about how and why PFAS spreads and contaminates products so easily.  Guests featured in this episode: - Stefan Posner,⁠⁠ ⁠textile and polymer chemist⁠⁠⁠ - Alex Lauver, ⁠Outdoor Research - Kirsten Blackburn, ⁠⁠Keen Footwear⁠⁠ - Ammi Borenstein, ⁠Snaplinc Consulting - Kevin Myette, ⁠⁠⁠⁠Bluesign⁠⁠⁠⁠  - Eva Karlsson, ⁠Houdini Sportswear⁠ - Mike Schade,⁠⁠ ⁠Toxic Free Future⁠⁠⁠ - James Pollock,⁠⁠ ⁠Marten Law LLP⁠⁠ - Arlene Blum,⁠⁠ ⁠Green Science Policy Institute ⁠⁠⁠ - Philippe Grandjean,⁠⁠ ⁠environmental epidemiologist⁠⁠ - Donna Bruns, ⁠Fjallraven⁠ - Martin Axelhed, ⁠Fjallraven⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠⁠⁠⁠Toxicfreefuture.org⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠⁠⁠⁠ Or  ⁠⁠⁠⁠⁠⁠Pfascentral.org ⁠⁠⁠⁠⁠⁠ INSTAGRAM:⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠⁠⁠https://gofund.me/77aac225⁠⁠⁠⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠⁠⁠⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ----------------------- Sources Outdoor Footwear: The PFAS Challenge. Retrieved from: https://www.keenfootwear.com/blogs/keen-blog/outdoor-footwear-pfas-challenge SixClasses. Retrieved from: https://www.sixclasses.org/
+
+:::
+
+#### Are there 'forever chemicals' in your drinking water?
+
+![Are there 'forever chemicals' in your drinking water?](https://i.scdn.co/image/ab67656300005f1f559765834382131d6c6d5a4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Life Kit
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3GacuidNphLNnCt5oYKgVc)
+
+[Open Series in Spotify](https://open.spotify.com/show/5J0xAfsLX7bEYzGxOin4Sd)
+
+According to the CDC, virtually all Americans have PFAS, or "forever chemicals," in our bodies. These manmade substances have been linked to cancer, high cholesterol, thyroid disease and more. This episode, take steps to reduce the buildup of these chemicals in your body with tips from reporter and host of the podcast Safe to Drink Mara Hoplamazian -- like getting special water filters and checking other items in your home that may contain PFAS, like nonstick pans.Follow us on Instagram: @nprlifekitSign up for our newsletter here.Have an episode idea or feedback you want to share? Email us at lifekit@npr.orgSupport the show and listen to it sponsor-free by signing up for Life Kit+ at plus.npr.org/lifekitA previous version of this episode description incorrectly said that virtually all drinking water contained PFAS. The U.S. Geological Survey has estimated that at least 45% of the nation's tap water contains one or more of 30-plus types of PFAS chemicals.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
+
+# Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+
+![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2023
+
+**Series:** Ologies with Alie Ward
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr)
+
+[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+
+Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### European Companies Are Far Ahead
+
+![6. European Companies Are Far Ahead](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/55GGrbQdk3TSreS08GHuBw)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+The goal of this series is to provide useful information for consumers regarding PFAS, specifically within the outdoor industry, but also for those of us working in the industry. I learned from every single person that I interviewed and talked to about the topic of PFAS, and one of the patterns I noticed during production was that most of the European brands like Jack Wolfskin, Fjallraven, and Houdini Sportswear were early adopters of phasing PFAS out of their products.  As early as 2009, some of these brands had already begun or, at the very least, made the decision to remove harmful chemicals from their product line.  This begs the question, what took the rest of the industry so long to catch up when there were several examples of success just across the ocean? Guests featured in this episode: - Eva Karlsson, Houdini Sportswear - Kevin Myette, ⁠⁠Bluesign⁠⁠  - Regina Goller, Jack Wolfskin - Donna Bruns, Fjallraven - Martin Axelhed, Fjallraven - Arlene Blum, Green Science Policy Institute  - Kirsten Blackburn, Keen Footwear If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠⁠⁠Toxicfreefuture.org⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠⁠⁠ Or  ⁠⁠⁠⁠⁠Pfascentral.org ⁠⁠⁠⁠⁠ INSTAGRAM:⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠⁠https://gofund.me/77aac225⁠⁠⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠⁠⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ----------------------- Sources Greenpeace Romania. (n.d.). Chemistry for any weather (Wayback Machine Archive No. 9650). Retrieved from https://wayback.archive-it.org/9650/20200429191052/http://p3-raw.greenpeace.org/romania/Global/romania/detox/Chemistry%20for%20any%20weather.pdf Stockholm Resilience Centre. (n.d.). Planetary boundaries. Retrieved from https://www.stockholmresilience.org/research/planetary-boundaries.html
+
+:::
+
+#### Forever Chemicals - Hidden Dangers in Everyday Beauty
+
+# Forever Chemicals: Hidden Dangers in Everyday Beauty
+
+![Forever Chemicals: Hidden Dangers in Everyday Beauty](https://i.scdn.co/image/ab67656300005f1fad97754837109e40126bc6ab)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Humans in Public Health
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/31bRWez4FgvAisOjeroPkq)
+
+[Open Series in Spotify](https://open.spotify.com/show/4nQ5bwglf9vygvW1nHf5GC)
+
+They’re not just in your nail polish. Per- and polyfluoroalkyl chemicals are everywhere—in our homes, clothing, the personal care products we use, and in our bodies. Postdoctoral researcher Amber Hall explains the dangers PFAS pose, especially to developing humans, and helps us learn how to avoid them. The burden of protecting our children’s health from toxic chemicals, she argues in the latest episode of Humans in Public Health, shouldn’t be borne by individuals. Regulation, Hall says, is needed to push through product-level change and protect the public’s health.Sound Effects in this episode from Freesound.org, courtesy of: TRPAtks_IngeosDeVernMentioned in this episode:Tell someone you know!And one last thing! If you enjoyed today’s episode, text a friend and let them know about the show.
+
+:::
+
+#### From Atomic Bombs to Teflon Pans - How the PFAS Controversy Began
+
+# From Atomic Bombs to Teflon Pans: How the PFAS Controversy Began
+
+![1. From Atomic Bombs to Teflon Pans: How the PFAS Controversy Began](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4LTrdNPbk2iVlD4nLk99YS)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+In the first episode of this ten-part series, we explore where PFAS came from and how it became a prevalent part of our consumer products. While the innovation of this class of chemicals has been astoundingly effective in applications like firefighting foams, waterproof rain jackets, and Teflon pans, our appetite for convenience created a toxic chemistry we may have to live with forever.  In the next episode of Forever Chemicals, we dive deeper into how the controversy surrounding PFAS grew into a global health crisis and how it has persisted in manufacturing to this day. Guests featured in this episode: - Arlene Blum, ⁠Green Science Policy Institute ⁠ - Mike Schade, ⁠Toxic Free Future⁠ - Stefan Posner, ⁠textile and polymer chemist⁠ - Scott Wilson, ⁠Regenesis Environmental Remediation⁠ - James Pollock, ⁠Marten Law LLP⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts, visit  ⁠Toxicfreefuture.org⁠  ⁠Foodandwaterwatch.org ⁠ Or  ⁠Pfascentral.org ⁠ INSTAGRAM: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠https://gofund.me/77aac225⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to ⁠snaplincconsulting.com⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ------------------------- Sources 1. Manufacturing Dive. (n.d.). The history behind 'forever chemicals': PFAS. Retrieved from ⁠https://www.manufacturingdive.com/news/the-history-behind-forever-chemicals-pfas-3m-dupont-pfte-pfoa-pfos/698254/⁠ 2. Plunkett, R.J. (1986). ⁠⁠The History of Polytetrafluoroethylene: Discovery and Development.⁠⁠ In: Seymour, R.B., Kirshenbaum, G.S. (eds) High Performance Polymers: Their Origin and Development. Springer, Dordrecht. https://doi.org/10.1007/978-94-011-7073-4_25 3. Teflon II commercials: Historical Reel 2, 1960-70, FILM_1995300_FC43, FC 43, DuPont Company films and commercials (Accession 1995.300), Audiovisual Collections and Digital Initiatives Department, Hagley Museum and Library, Wilmington, DE 19807 ⁠http://findingaids.hagley.org/xtf/view?docId=ead/1995_300.xml⁠ 4. W. L. Gore & Associates, Inc. (n.d.). The Gore Story. Retrieved from ⁠https://www.gore.com/about/the-gore-story#section2
+
+:::
+
+#### Have We Ever Needed PFAS in Our Outdoor Gear?
+
+![5. Have We Ever Needed PFAS in Our Outdoor Gear?](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4kb6tieYMJDR8KtuCcs90L)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+As more regulations come into play, many outdoor brands have moved the needle and promised to phase PFAS out of their products and apparel by 2025.  While this is great news, what’s curious as a consumer is that alternative chemistry has existed for quite some time. Brands like Nikwax never needed to use harmful chemicals to achieve waterproof capabilities, and now Nikwax is one brand leading the charge with industry-wide innovations with cleaner chemistry.   In later episodes, we will explore how both European and US brands have moved to phase out PFAS in their product lines, but before we get to that, it is worth noting that there have always been alternatives.  Guests featured in this episode: - Kevin Myette, ⁠Bluesign⁠  - Brian Davidson, Nikwax - Alex Lauver,⁠ ⁠Outdoor Research⁠ - Kris Cody, PAKA Apparel - Mike Schade,⁠⁠⁠⁠ ⁠⁠Toxic Free Future⁠⁠⁠⁠⁠⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠⁠Toxicfreefuture.org⁠⁠⁠⁠  ⁠⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠⁠ Or  ⁠⁠⁠⁠Pfascentral.org ⁠⁠⁠⁠ INSTAGRAM:⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠https://gofund.me/77aac225⁠⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks.
+
+:::
+
+#### How One Company Secretly Poisoned The Planet
+
+![How One Company Secretly Poisoned The Planet](https://i.scdn.co/image/ab67656300005f1f2fb02078276c7e8ec03f8e89)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Veritasium
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/204aHC3qWedCvq6cf4Xz3A)
+
+[Open Series in Spotify](https://open.spotify.com/show/6EpB14Zj369GeJUKYXZ9e7)
+
+The history of Teflon and exposing the biggest chemical cover up in history - that has polluted the entire global water system and led to potentially dangerous forever chemicals being found in the entire US population. ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠⁠▀▀▀0:00 Killed by Fridges5:27 Teflon and The Manhattan Project7:59 Teflon is Tricky11:37 The Teflon Revolution13:27 Earl Tennant's Farm17:34 Inside DuPont20:28 Fluoride In Drinking Water 25:00 It's bigger than that29:23 What is PFAS?35:56 What is in Derek’s blood?37:56 How forever chemicals get into your blood46:18 Removing PFAS from water49:30 Can you lower your PFAS levels?
+
+:::
+
+#### How PFAS From A Military Base Has Sickened Nearby Residents
+
+![How PFAS From A Military Base Has Sickened Nearby Residents](https://i.scdn.co/image/ab67656300005f1f60aee25b93021ffaa1295d92)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7LDqFCFm5vBE43iizFqPGU)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+For decades, residents of the small city of Newburgh, New York, were unknowingly drinking water contaminated with toxic PFAS—also known as forever chemicals. The source turned out to be firefighting foam used on a nearby air base that had seeped into streams and creeks, and ultimately the city’s main drinking water reservoir.Now, Newburgh is one of 10 sites that are part of a CDC-led study investigating the health effects of PFAS exposure. Early data out of Newburgh links PFAS with high cholesterol, high blood pressure, and heart disease. Host Flora Lichtman discusses the research with environmental epidemiologist Erin Bell and reporter Shantal Riley.Read our full story about what PFAS contamination has meant for Newburgh in English and in Spanish.Guests: Shantal Riley is an award-winning journalist and science writer, focused on environmental health.Dr. Erin Bell is an environmental epidemiologist at the University at Albany in New York.Transcripts for each episode are available within 1-3 days at sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### PFAS as a Cautionary Tale
+
+![9. PFAS as a Cautionary Tale](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5DNavCc3uVtc66Hyh2T2Ti)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+Throughout this series, we’ve learned not only about how harmful PFAS is as a class of chemicals but also what the outdoor industry is doing to address the issue. While we may have started too late, we are on the right track now, but the work is far from over.  Guests featured in this episode: - Alex Lauver, ⁠⁠⁠Outdoor Research⁠⁠ - James Pollock,⁠⁠⁠⁠ ⁠Marten Law LLP⁠⁠⁠⁠ - Mike Schade,⁠⁠⁠⁠ ⁠Toxic Free Future⁠⁠⁠⁠⁠ - Ammi Borenstein, ⁠⁠⁠Snaplinc Consulting⁠⁠ - Eva Karlsson, ⁠⁠⁠Houdini Sportswear⁠⁠⁠ - Regina Goller, ⁠Jack Wolfskin - Donna Bruns, ⁠⁠⁠Fjallraven⁠⁠⁠ - Martin Axelhed, ⁠⁠⁠Fjallraven⁠⁠ - Kevin Myette, ⁠⁠⁠⁠⁠⁠Bluesign⁠⁠⁠⁠⁠⁠  - Gabriella Whittaker, PolyCore Solutions  - Kirsten Blackburn, ⁠⁠⁠Keen Footwear⁠⁠⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠⁠⁠⁠Toxicfreefuture.org⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠⁠⁠⁠ Or  ⁠⁠⁠⁠⁠⁠Pfascentral.org ⁠⁠⁠⁠⁠⁠ INSTAGRAM:⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠⁠⁠https://gofund.me/77aac225⁠⁠⁠⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠⁠⁠⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ----------------------- Sources Toxic Free Future. PFAS in Stain & Water-Resistant Products Study: Toxic Convenience. Retrieved from https://toxicfreefuture.org/research/pfas-in-stain-water-resistant-products-study/toxic-convenience/#:~:text=Our%20testing%20found%20not%20just,water%20resistance%20are%20in%20use Resources Mentioned https://greenthemetech.com/ https://www.chemforward.org/
+
+:::
+
+#### PFAS in the Outdoor Industry - A Performance Chemistry
+
+# PFAS in the Outdoor Industry: A Performance Chemistry
+
+![3. PFAS in the Outdoor Industry: A Performance Chemistry](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5OVo4gKVr0ZmsTMy1gLJyd)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+In episode three of the Forever Chemicals ten-part podcast series, we give an overview of how PFAS is used in modern-day production, and get an inside look at why it became a performance chemistry in the outdoor industry. Guests featured in this episode: - Mike Schade,⁠ ⁠⁠Toxic Free Future⁠⁠⁠ - Ammi Borenstein, Snaplinc Consulting - Arlene Blum,⁠ ⁠⁠Green Science Policy Institute ⁠⁠⁠ - Stefan Posner, ⁠⁠textile and polymer chemist⁠⁠ - Alex Lauver, Outdoor Research - James Pollock, ⁠⁠Marten Law LLP⁠ - Philippe Grandjean, ⁠environmental epidemiologist⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠Toxicfreefuture.org⁠⁠  ⁠⁠Foodandwaterwatch.org ⁠⁠ Or  ⁠⁠Pfascentral.org ⁠⁠ INSTAGRAM: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠https://gofund.me/77aac225⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to ⁠⁠snaplincconsulting.com⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ------------------------- Sources Bloomberg Originals. (Nov 16, 2023). Why 'Forever Chemicals' Are Still Spreading [Video]. YouTube. ⁠https://youtu.be/a-Hu4HQvA_U?si=LEfQeRCczWvAsgr3⁠  Henry, B. J., Carlin, J. P., Hammerschmidt, J. A., Buck, R. C., Buxton, L. W., Fiedler, H., Seed, J., & Hernandez, O. (2018). A critical review of the application of polymer of low concern and regulatory criteria to fluoropolymers. Integrated Environmental Assessment and Management, 14(3), 301-306.⁠ https://doi.org/10.1002/ieam.4035⁠ Interstate Technology & Regulatory Council (ITRC). (2020, August). Per- and Polyfluoroalkyl Substances (PFAS): History and Use [PDF]. Retrieved from ⁠https://pfas-1.itrcweb.org/wp-content/uploads/2020/10/history_and_use_508_2020Aug_Final.pdf⁠ Natural Resources Defense Council. (n.d.). PFAS Scorecard. Retrieved from ⁠https://www.nrdc.org/sites/default/files/pfas_scorecard_r_22-04-b_03_locked.pdf⁠
+
+:::
+
+#### Phasing Out PFAS in US Apparel
+
+![7. Phasing Out PFAS in US Apparel](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5f2F5yRGF6sAjiH4uWzLMx)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+As we learned in earlier episodes, phase-out and regulatory efforts for PFAS were not swift, and they certainly are not complete.  However, because of the recent regulatory changes on consumer goods, specifically in California, many US-based outdoor brands and chemical companies have finally committed to removing PFAS from their products.  Guests featured in this episode:  - Greg Brietmier, Mystery Ranch - Mike Schade,⁠⁠ ⁠⁠Toxic Free Future⁠⁠⁠ - Ammi Borenstein, ⁠Snaplinc Consulting - Alex Lauver, ⁠Outdoor Research - Kevin Myette, ⁠⁠⁠Bluesign⁠⁠⁠  - Theresa Mckenney, Nemo Equipment - Kirsten Blackburn, ⁠Keen Footwear - Matthew Eshed, Research Fellow If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠Toxicfreefuture.org⁠⁠⁠  ⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠ Or  ⁠⁠⁠Pfascentral.org ⁠⁠⁠ INSTAGRAM:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠https://gofund.me/77aac225⁠⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ------------------------- Sources "Balancing Fabric Performance and Sustainability" by Black-Footed Ferret Productions, Outdoor Minimalist, [July 24, 2023], https://podcasts.apple.com/us/podcast/96-balancing-fabric-performance-and-sustainability/id1586174667?i=1000622162915 Bergen, Sujatha. "Columbia Sportswear Eliminate PFAS Campaign Launched Today," NRDC, available at: https://www.nrdc.org/bio/sujatha-bergen/columbia-sportswear-eliminate-pfas-campaign-launched-today Bergen, Sujatha. "North Face and Timberland Recognize PFAS Threat in Apparel," NRDC, available at: https://www.nrdc.org/bio/sujatha-bergen/north-face-and-timberland-recognize-pfas-threat-apparel Patagonia. "Say Goodbye to Forever Chemicals," Patagonia, available at: https://www.patagonia.com/stories/say-goodbye-to-forever-chemicals/story-133800.html
+
+:::
+
+#### Some Chemicals are Forever
+
+![Some Chemicals are Forever](https://i.scdn.co/image/ab67656300005f1fb2ca3eae69e1d487faa9fac0)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2025
+
+**Series:** Big Picture Science
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6GDIh3QhfvoK6mnnt9UPhK)
+
+[Open Series in Spotify](https://open.spotify.com/show/0a34nXB83YYHdfDrSSpSkL)
+
+As their name suggests, “forever chemicals” have extraordinary staying power. When these nearly indestructible compounds find their way into our soil and water, they don’t break down for hundreds or thousands of years. PFAS – the name for these synthetic chemicals – isn’t just in our natural environment. Scientists have found it everywhere, including in the blood of nearly every living being.   In this episode, we talk to the reporter who broke open the story about a decades-long corporate coverup regarding forever chemicals, look at what we know about their health effects, and consider how a kneecapping of the EPA’s regulatory power may weaken the best tool we have for protecting ourselves from PFAS contamination.   Guests:  Nathaniel Rich – Author of “Second Nature: Scenes from a World Remade,” and the New York Times Magazine article, “The Lawyer Who Became Dupont’s Worst Nightmare”  Rachel Frazin – Energy and Environment Policy reporter for The Hill, co-author of “Poisoning the Well: How Forever Chemicals Contaminated America”  Janet McCabe – visiting professor at the Robert McKinney School of Law at Indiana University, former deputy administrator of the United States Environmental Protection Agency  Featuring music by Dewey Dellay and Jun Miyake  You can get early access to ad-free versions of every episode by joining us on Patreon. Thanks for your support!  Big Picture Science is part of the Airwave Media podcast network. Please contact advertising@airwavemedia.com to inquire about advertising on Big Picture Science.     Learn more about your ad choices. Visit megaphone.fm/adchoices
+
+:::
+
+#### The Canal (Love Canal)
+
+# S1 Ep4: The Canal (Love Canal)
+
+![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2018
+
+**Series:** Swindled
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3K6AvsboR3d0TeGFlr7r6U)
+
+[Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
+
+Once envisioned as a model community, the neighborhood of Love Canal in Niagara Falls, New York, became the victim of a massive, man-made environmental disaster. Prelude: James Denney, a Missouri farmer, makes a deal for a local chemical company to bury its waste on his property.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  Thanks for listening. :-)
+
+:::
+
+#### The Devil They Knew
+
+![The Devil They Knew](https://i.scdn.co/image/ab67656300005f1fb7ecd80346c0d9ee233f1648)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** The Poison Detectives
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/10zhQs0qgBsh9Boe94cRxA)
+
+[Open Series in Spotify](https://open.spotify.com/show/1mz3wHvjlOgkE4gXxVDeA3)
+
+We learn about the contamination of military bases in the U.S. and Canada from PFAS chemicals in firefighting foam. And how the foam residue has poisoned drinking water sources in both countries. We hear about one community in Quebec that was faced with a big problem finding a new source of drinking water.And a group of firefighters who decided to create a safe alternative to the foam. But because it is a gel instead of a foam, they ran into roadblocks getting it certified for firefighters to use.The issue was a big one for a congressional committee looking into PFAS. It called the military, the Environmental Protection Agency and the companies making the PFAS chemicals to testify and explain their actions. The members of Congress were looking for clear answers and weren’t happy when they didn’t get them. Hosted on Acast. See acast.com/privacy for more information.
+
+:::
+
+#### The EPA's Approval of Two New Pesticides
+
+![1027 - The EPA's Approval of Two New Pesticides](https://i.scdn.co/image/ab67656300005f1f125f40494d44de994e779aa6)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/05F47P2wjRYCCRxAKCdEap)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode: In late 2025, the EPA approved two pesticides for agricultural use that opponents argue contain PFAS—"forever chemicals" that pose hazards to human health. In this episode: the debate around what constitutes PFAS and the EPA's role in regulating these harmful chemicals. Guest: Rachel Frazin covers energy and environmental policy for The Hill and is the co-author of the book "Poisoning the Well: How Forever Chemicals Contaminated America". Host:  Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health. Show links and related content:   E.P.A. Moves to Weaken Limits on a Cancer-Causing Gas—New York Times   EPA just approved new 'forever chemical' pesticides for use on food—Washington Post   Trump EPA will defend Biden rule forcing polluters to pay for 'forever chemical' cleanup—The Hill   Uncovering America's Decades-Long PFAS Contamination—Public Health On Call (June 2025)   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+#### The Path Ahead - Remediation and Clean-Up
+
+# The Path Ahead: Remediation and Clean-Up
+
+![10. The Path Ahead: Remediation and Clean-Up](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/10zP6Gyyd8g4Ils79B8kwH)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+Throughout this ten-part series, scientists, lawyers, advocates, and product producers all weighed in on our worldwide PFAS problem. While, yes, we have come a long way in understanding the scope of the issue and began moving away from PFAS, at least in the outdoor industry, many questions still remain.  One of the primary questions is, what should we do with all the old PFAS already in the environment?  Guests featured in this episode: - Scott Wilson, Regenesis  - Philippe Grandjean, Environmental Epidemiologist  - Matthew Eshed, Research Fellow  - Stefan Posner, Polymer and Textile Chemist  - Kevin Myette, ⁠⁠⁠⁠⁠⁠⁠⁠Bluesign⁠⁠⁠⁠⁠⁠⁠⁠  - Greg Breitmaier, Mystery Ranch  - Alex Lauver, ⁠⁠⁠⁠Outdoor Research⁠⁠⁠ - Regina Goller, ⁠⁠⁠Jack Wolfskin⁠⁠ - Ammi Borenstein, ⁠⁠⁠⁠⁠Snaplinc Consulting⁠⁠⁠⁠ - Mike Schade,⁠⁠⁠⁠⁠ ⁠Toxic Free Future⁠⁠⁠⁠⁠⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠⁠⁠⁠⁠Toxicfreefuture.org⁠⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠⁠⁠⁠⁠ Or  ⁠⁠⁠⁠⁠⁠⁠Pfascentral.org ⁠⁠⁠⁠⁠⁠⁠ INSTAGRAM:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠⁠⁠⁠https://gofund.me/77aac225⁠⁠⁠⁠⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠⁠⁠⁠⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠⁠⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ----------------------- Episode Resources Safer States: https://www.saferstates.org/priorities/pfas/ EPA Drinking Water Standards: https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas CERCLA: https://www.epa.gov/system/files/documents/2024-04/pfas-enforcement-discretion-settlement-policy-cercla.pdf
+
+:::
+
+#### The Rise and Limitations of PFAS Regulations
+
+![4. The Rise and Limitations of PFAS Regulations ](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Forever Chemicals
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/6X69IOnFQacxT5EJhzqXfB)
+
+[Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
+
+Regulatory efforts across the globe have been pushing for removing certain types of PFAS in specific product categories. Still, there are many limitations, and regulators often receive pushback from chemical companies.  In episode four of the Forever Chemicals ten-part podcast series, we break down the increase of PFAS regulation in the US and the EU, along with the limitations we face in the pursuit of cleaner chemistry.  Guests featured in this episode: - James Pollock,⁠⁠ ⁠⁠Marten Law LLP⁠⁠⁠ - Arlene Blum,⁠⁠⁠ ⁠⁠Green Science Policy Institute ⁠⁠⁠⁠⁠ - Kevin Myette, Bluesign  - Kyla Bennett, Public Employees for Environmental Responsibility - Natalie Balbuena, Food and Water Watch - Mike Schade,⁠⁠ ⁠⁠Toxic Free Future⁠⁠⁠⁠ - Stefan Posner,⁠ ⁠⁠textile and polymer chemist⁠⁠⁠ - Alex Lauver, ⁠Outdoor Research⁠ - Philippe Grandjean,⁠ ⁠environmental epidemiologist⁠⁠ - Eva Karlsson, Houdini Sportswear - Scott Wilson, ⁠⁠Regenesis Environmental Remediation⁠⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠Toxicfreefuture.org⁠⁠⁠  ⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠ Or  ⁠⁠⁠Pfascentral.org ⁠⁠⁠ INSTAGRAM:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠https://gofund.me/77aac225⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ------------------------- Sources Food and Water Watch. (Nov 15, 2023). PFAS: The “Forever Chemicals” Contaminating Our Water [Livable Future LIVE] [Video]. YouTube. https://youtu.be/27k7Tki5xsU?si=WqEA0W9b1E-0iyQ1 Greenpeace. (2012). Chemistry for Any Weather [PDF]. Greenpeace. Retrieved from https://wayback.archive-it.org/9650/20200429191052/http://p3-raw.greenpeace.org/romania/Global/romania/detox/Chemistry%20for%20any%20weather.pdf Lerner, Sharon. The Intercept. (n.d.). The Teflon Toxin. Retrieved from ⁠https://theintercept.com/series/the-teflon-toxin/⁠
+
+:::
+
+#### What Worsening Floods Mean For Superfund Sites
+
+![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/529FSErk9SjroIvEiJ0NVA)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+Superfund sites are some of the most polluted areas in the country, containing highly toxic waste such as asbestos, lead, and dioxin. Cleaning them up, which follows a systematic, science-based process as required by law, can take decades.There are more than 1,300 of these sites across the US, from Florida’s Panhandle to the banks of the Rio Grande in New Mexico. They’re found in nearly every state, often near residential areas. The EPA estimates that 78 million people live within three miles of a Superfund site—nearly 1 in 4 Americans.But these waste dumps face a growing threat: the worsening effects of climate change. The EPA has determined that more than 300 Superfund sites are at risk of flooding. The actual number of flood-prone sites, however, may be more than twice that amount, according to a 2021 Government Accountability Office report. Floodwaters can move toxic waste into neighboring communities, which threatens drinking water, agriculture, and broader ecosystem health.Read more at sciencefriday.comTranscripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
+#### What's a brownfield remediation project?
+
+![What's a brownfield remediation project?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
+
+**Duration:** `= this.duration_string`
+
+**Released:** 2009
+
+**Series:** Stuff You Should Know
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3AA73Bm4G6graH6hwcLam6)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx)
+
+The EPA defines a brownfield as land that is abandoned because redevelopment is complicated by possible environmental contamination. Tune in as Chuck and Josh examine the process of redeveloping a brownfield in this podcast from HowStuffWorks.com.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
+
+:::
+
+### Video Clips
+
+#### What we know about toxic ‘forever chemicals’ and how to reduce our exposure
+
+**PBS NewsHour**, *03 26, 2023*
+
+## Video (6:21)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Jd2gBcwOWkE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+A class of toxic chemicals known as PFAS has made its way into food, soil, water and even most people’s blood in America. In March, the EPA proposed the first regulatory standard limiting the quantity of PFAS in drinking water. Erin Bell, an environmental epidemiologist at the State University of New York at Albany, joins Ali Rogin to discuss these “forever chemicals” and our exposure to them.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+
+Facebook: http://www.pbs.org/newshour
+
+Twitter: http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Subscribe:
+
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+
+Newsletters: https://www.pbs.org/newshour/subscribe
+
+## Transcript
+
+### Intro
+
+**0:01** · home of the pbs newshour, weeknights on pbs.
+
+**0:04** · John: There's a class of toxic chemicals so pervasive that they are found in food, soil, water, and in the blood of most people in America.
+
+**0:13** · Earlier this month, the EPA proposed the first-ever regulatory standard to limit the quantity allowed in drinking water.
+
+### What are Forever Chemicals
+
+**0:20** · Ali rogin looks at the growing health concerns about these chemicals.
+
+**0:27** · Ali: Pfas, sometimes called forever chemicals, repel fire, water, oil and stains and have been used since the 1940s in a wide variety of everyday products.
+
+**0:35** · You can find them in nonstick cookware, fast food wrappers, clothes, and cosmetics.
+
+**0:42** · But these man made chemicals don't break down easily, and a number of them have been linked to serious health problems.
+
+**0:47** · For more on their impact, we turn to Erin bell.
+
+**0:49** · She's an environmental epidemiologist at the state university of New York at Albany who studies human exposure to these toxins.
+
+**0:55** · Erin, thank you so much for joining us.
+
+**0:57** · Just how widespread are these chemicals?
+
+**1:03** · Erin: These chemicals have been detected in the drinking water and soil in every state of the United States, and it is also being detected in many countries across the world.
+
+**1:13** · A number of health concerns are related to exposure to these chemicals.
+
+**1:18** · They include impact on the immune system.
+
+**1:21** · Folks with higher exposures are more likely to have thyroid changes, changes in kidney function, as well as higher cholesterol.
+
+**1:30** · We're also concerned about impacts on children with regards to low birth weight and neurodevelopment in those children.
+
+**1:39** · And there are a number of other health outcomes where the literature is more mixed.
+
+**1:42** · We sometimes see an association, other times we see less of an association and we have more work to do.
+
+**1:49** · These would include infertility factors around ulcerative colitis and other autoimmune diseases.
+
+**1:55** · Ali: And are these things that people can determine by taking a blood test?
+
+**2:00** · I mean, how how does one test to see where their levels are?
+
+**2:05** · Erin: That's correct.
+
+**2:07** · So for each individual, we measure concentrations in their blood, and that is the best way to determine the individual level of exposure for people who have lived in communities or for people in occupations that have these higher exposures.
+
+**2:17** · Unfortunately, there's no consistent guidance or coverage from insurance companies for testing for pfas in your blood.
+
+**2:26** · If you contact your local health department, they will let you know if there are programs at the state level sponsored through state health departments, if they have opportunities for you to get tested.
+
+**2:37** · But this is a situation that we're still working on in terms of making sure there's coverage for people to get tested if they wish to know what their levels are.
+
+### EPA Proposal
+
+**2:48** · Ali: Now, the EPA, as we mentioned in the introduction, is proposing a new regulation pertaining to pfas in water.
+
+**2:54** · Can you explain what exactly this proposal would do?
+
+**3:01** · Erin: There are 12,000 chemicals in the family of pfas.
+
+**3:03** · The EPA has suggested that for six of these chemicals, there should be a standard federal rule that would require that water utilities test for these six chemicals.
+
+**3:16** · And if they were above a certain level, that those levels be monitored for and companies be required to reduce their exposure in the water utility.
+
+### Are we missing something
+
+**3:29** · Ali: Now six out of 12,000 doesn't sound like a lot.
+
+**3:32** · Are we missing something here?
+
+**3:34** · Are these very significant versions of these chemicals?
+
+**3:37** · Erin: So that's an excellent question.
+
+**3:38** · And this is one of the challenges we have in the field.
+
+**3:40** · Out of the 12,000, we've obviously studied very few of them.
+
+**3:45** · So these six are particularly of concern because we know the most about them.
+
+**3:51** · We also have detected them in higher levels in drinking water across the country.
+
+**3:56** · However, it is quite literally a drop in the bucket.
+
+**4:02** · It is just a very small number.
+
+**4:03** · There is concern in the scientific community that we will never catch up in terms of understanding what the health effects are for the much larger group of pfas's.
+
+### How is it that these companies are able to continue
+
+**4:16** · Ali: How is it that these companies are able to continue to manufacture products with these dangerous chemicals in them?
+
+**4:25** · Erin: So historically, when we talk about environmental exposures and removing them from production, we focus on their persistence.
+
+**4:34** · They stay in the environment and in our bodies for a very long time.
+
+**4:38** · The newer versions are not as long lasting in the environment, however, because they are structurally designed to in essence do the same thing that made them good for production and for our consumer products.
+
+**4:49** · They're still related to some of these adverse health outcomes.
+
+**4:51** · So they're still being used because we have not regulated them and we still require them in the manufacturing process.
+
+### Reducing our exposure
+
+**4:56** · And until those rules and laws change, then that will be allowed to happen.
+
+**4:59** · Ali: So my understanding is that this EPA rule, if it is approved, is still going to take a few years before it's fully operational.
+
+**5:05** · So what kind of things can people do if they want to begin reducing their exposure now?
+
+**5:08** · Erin: There are a number of things that people can do and communities can do.
+
+**5:17** · The first is awareness.
+
+**5:19** · Please be sure and keep mindful of what might be going on in your community, especially in the drinking water.
+
+**5:22** · If you are not sure what the levels of pfas are in your drinking water, you can contact your local water utility, your state health department, as well as any university or college researchers that are in the area.
+
+**5:39** · In terms of reduction, we can use filters on our water systems and in our homes.
+
+**5:42** · You also want to be mindful of what you use on an individual basis.
+
+**5:47** · Again, minimizing fast food wrappers, the wrappers are lined with these materials as well as microwave popcorn is another example.
+
+**5:53** · Pots and pans have these linings .
+
+**5:55** · As they become scratched the pfas can leach into the food and cause us more exposure.
+
+**6:04** · So again, be mindful of that.
+
+**6:07** · And as you replace them with things that are nonstick with that don't have the nonstick chemicals or have the other types of coatings on them that would potentially have these chemicals.
+
+**6:14** · Ali: Erin bell with suny Albany, thank you so much for your time.
+
+#### Why decades-old, toxic PFAS foam is still contaminating northern Michigan waterways
+
+**PBS NewsHour**, *11 23, 2024*
+
+## Video (8:20)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/f98I9W6H060 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+The Defense Department missed a deadline this fall to stop using a toxic firefighting foam that has caused widespread contamination across the country. In the small town of Oscoda, Michigan, a group of citizens has been fighting to hold the Air Force accountable for polluting their waterways. Special correspondent Megan Thompson reports in the first of a two-part series.
+
+Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV news show.
+ 
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+ 
+Follow us:
+
+TikTok: https://www.tiktok.com/@pbsnews
+
+X (formerly Twitter): http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Facebook: http://www.pbs.org/newshour
+ 
+Subscribe:
+
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+
+Newsletters: https://www.pbs.org/newshour/subscribe
+
+## Transcript
+
+### Intro
+
+**0:00** · home of the pbs news hour weeknights on pbs.
+
+**0:07** · Earlier this fall, the defense department missed a deadline to stop using a firefighting foam that caused widespread contamination across the country. While the military continues its transition away from the toxic foam, it is also beginning a massive cleanup which will take decades and billions of dollars. In the small town of Estrada, Michigan a group of citizens has been fighting to hold the air force accountable for contaminating their waterways.
+
+**0:34** · In the first of a two part series, special correspondent Megan Thompson brings us their story.
+
+**0:39** · Tony and his family have been coming to their vacation home on a van in lake for decades, a relaxing getaway in northern Michigan but in 2016 he received a troubling letter from the estate.
+
+**1:02** · From the department of health and human services saying, don't drink your water.
+
+**1:04** · One year later they began to notice something strange on the lake.
+
+**1:06** · It was December and my wife woke up and said I think it snowed last night. There was foam piled up all along the shoreline. You could see it for miles.
+
+**1:18** · He learned his tapwater, the lake, and the bright, white foam were all contaminated with toxic man-made chemicals.
+
+**1:30** · It is sensitive to a different place.
+
+**1:32** · It's shocking.
+
+**1:34** · The base is across the lake. You can see the buildings.
+
+**1:36** · It turned out the chemicals were coming from the old air force base.
+
+**1:41** · It was a training area.
+
+**1:44** · Mark Henry is a retired environmental engineer for the state of Michigan that worked at the base after it closed in 1993.
+
+**1:50** · There used to be a big concree ball out here with simulated aircraft on it and they would bring the fire trucks in and let people practice.
+
+### What is PFAS
+
+
+**2:03** · Practice putting out jet fuel fire is dowsing the burning planes with a special military foam used in the military since the 1970's made from a chemical called p-fas. Courtney Carrigan is an environmental epidemiologist at Michigan state university who studies human exposure to chemicals.
+
+**2:22** · Characterized by a chain of carbons with fluorine bond and a functional group. One and likes water and the other does not, it repels it.
+
+**2:31** · The useful properties mean they are contained in all kinds of common products like nonstick pans, stain resistant carpet, and food packaging. There are about 15,000 types of p-fas and increasing the research shows they can cause health problems from liver damage to heart disease and cancer.
+
+**2:49** · They are often called forever chemicals because they are so persistent in the environment. They do not break down naturally. They move easily into water and groundwater and end up in fish and drinking water.
+
+### The scale of the problem
+
+
+**3:04** · Today about 50% of the nation's drinking water supply has p-fas in it and nearly every American has some level of p-fas in their blood. The military is one of the biggest p-fas polluters in the U.S. But the problem is only now becoming known. In 2000 a colleague of mark Henry's made the discovery and it sounded the alarm. Today the Pentagon confirms or suspects pfas concomitant -- contamination at almost 700 other sites.
+
+**3:40** · There is almost no place you can dig a hole on the base and not find pfas in the groundwater even to this day 50 years after the release.
+
+**3:51** · The groundwater does not stay on the base.
+
+**3:55** · These plumes are flowing from the former base.
+
+**3:57** · Seeping for years into nearby streams, Lakes, and the tapwater of some homeowners like Tony.
+
+**4:03** · Right there.
+
+**4:04** · A politically connected attorney, he was so alarmed he teamed up to launch "Need our water" and call attention to the environmental Carla -- calamity. They gave pbs a tour of the areas most affected by the pfas.
+
+### The plume
+
+
+**4:30** · This is a ymca camp owned by Detroit.
+
+**4:33** · The water is coming off the base from the storm sewers flowing uninterrupted into the saddle river.
+
+**4:39** · Tests found pfas levels more than 50 times higher than allowed by Michigan law. Today we visited dozens were swimming and boating nearby. About one mile away is a wildlife area called Clarks marsh where birds have been found with some of the highest levels of pfas contamination ever documented. There are five health advisory for the area warning to not eat any fish you catch or animals you hunt.
+
+**5:08** · This lake is highly contaminated on the surface. When the wind agitates the surface of the water the foam can build up.
+
+**5:18** · Tests by the state foundpfas levels in the phone as -- in the foam as high as 200,000 parts per trillion. The EPA standards for drinking water allow for four parts per trillion. This lake and the other contaminated streams drain into lake Huron, a source of drinking water for 10 million people in the U.S. And Canada. Contaminated foam has been found on its shores too.
+
+**5:45** · We can't afford to allow this land, this natural resource to be poisonous for years and years and years to come. It has to stop.
+
+**5:58** · They spent the last seven years lobbying congress and the Pentagon to clean up the mess. > They can stop the flow of all the plumes of the property now.
+
+### Air Force delays
+
+
+**6:12** · Fort Smith is one of the first places and in a country where that pfas of the pollution is treated. At air force recently announced delays in cleaning the rest. Some systems won't be operating for another four or five years.
+
+**6:32** · It is a slow motion.
+
+**6:35** · It's molasses on a cold winter day.
+
+**6:38** · A citizens advisory board meets with the air force every three months to provide input. The meetings have become increasingly contentious.
+
+**6:47** · We feel abandoned.
+
+**6:48** · It is like you are >> Cooking the books. At a meeting in August board members invented frustration about the delays and said the cleanup was mismanaged accusing the military of not conducting enough testing before it started building the latest treatment system this summer.
+
+**7:05** · The air force did an extremely minimal amount of work to demonstrate the wells that were planning on putting in are actually in the right place.
+
+**7:16** · They are only treating 25% of the known problem. They have no idea, really, what exists beyond.
+
+**7:23** · Under pressure, the air force released the results of an independent review at the latest community meeting this week confirming concerns about the new system saying more testing is needed to make sure that all pfas will be captured. Air force official pressure announced a shakeup in the management of the clean up and said new leadership will do better.
+
+**7:46** · Argument we will increase transparency.
+
+**7:48** · -- I commit we will increase transparency and work hard accelerating the timeline.
+
+**7:55** · Tony appreciates the new direction but does not plan to let up the pressure. He says Fort Smith needs to set the example for the rest of the nation.
+
+**8:06** · Is our government doesn't do it right what does that say to other communities impacted?
+
+**8:13** · It is a critical battle we are fighting here.
+
+**8:16** · For pbs news weekend.
+
+### Films
+
+#### Contaminated - The Carpet Industry's Toxic Legacy
+
+# Contaminated: The Carpet Industry's Toxic Legacy
+
+**FRONTLINE**, *2026*
+
+## Documentary Film (53 min)
+
+<iframe title="amazon-player" src=https://www.amazon.com/gp/video/detail/0FVL2RZBBFI1HM5AN57RNNCYUB?autoplay=1&t=0&ref_=atv_dp_atf_3p_hd_mv_wfb_t1B3AAAAAA0wr0 width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+
+## Description
+
+"
+
+How carpet mills contaminated Southern communities with forever chemicals, known as PFAS. With The Associated Press, The Atlanta Journal-Constitution, The Post and Courier, AL.com, investigating the industry, accountability, and the health impacts. From FRONTLINE.
+
+5/5
+
+IMDb 7.6/10 2026 53min
+
+5/5
+
+IMDb 7.6/10 2026 53min
+
+"
+
+## Transcript
