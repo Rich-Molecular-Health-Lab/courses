@@ -102,7 +102,7 @@ populate_schedule <- function(course = str_remove(params$course, "_.+$")) {
     ) %>%
     map_depth(
       2,
-      \(x) modify_at(x, "cases", \(y) map(y, content_cases))
+      \(x) modify_at(x, "case_convo", \(y) map(y, content_case_convo))
     ) %>%
     map_depth(
       2,
@@ -114,21 +114,38 @@ populate_schedule <- function(course = str_remove(params$course, "_.+$")) {
         x,
         background = flatten_background(x),
         topics     = flatten_content(x, "topics"),
-        slides     = flatten_content(x, "slides")
+        slides     = flatten_content(x, "slides"),
+        cases      = flatten_content(x, "case_convo")
       )
     ) %>%
     map_depth(2, blank_rows)
   return(schedule)
 }
 
-content_cases <- function(x) {
-  if (is.null(x) || length(x) < 1) return(NA_character_)
-  number <- pluck(x, "number")
-  topic  <- pluck(x, "topic")
-  leaders <- if ("leaders" %in% names(x)) pluck(x, "leaders") else NULL
+content_case_convo <- function(case) {
+  if (is.null(case) || length(case) < 1) return(NA_character_)
+  number <- pluck(case, "number")
+  topic  <- pluck(case, "topic")
+  leaders <- if ("leaders" %in% names(case)) pluck(case, "leaders") else NULL
   leaders_flat <- if (is.null(leaders) || length(leaders) < 1) "" else str_flatten_comma(leaders, na.rm = TRUE)
   return(str_glue("<li class='list-group-item list-group-item-success d-flex justify-content-between align-items-center'><span class='badge bg-success me-1 float-start'>Case</span><div class='d-flex flex-column justify-content-around'><div class='text-success-emphasis'>Conversation {number}</div><em class='text-muted'>{topic}</em></div><small class='text-muted'>{leaders_flat}</small><span class='float-end'><i class='fa-solid fa-comments'></i></span></li>"))
 }
+
+content_cases <- function(cases) {
+  if (is.null(cases) || length(cases) < 1) return(NA_character_)
+  if (length(cases) == 1) {
+    return(content_case_convo(list_flatten(cases, name_spec = "{inner}")))
+  } else {
+    return(str_flatten(unique(unlist(map(cases, content_case_convo)))))
+  }
+}
+
+
+
+topic_pages <- function(topics) {
+  str_glue_data(topics, "<a href='{path}' class='card-link'>{title}</a>")
+}
+
 
 content_slides <- function(slides) {
   if (is.null(slides) || length(slides) < 1) return(NA_character_)
@@ -174,10 +191,6 @@ content_background <- function(x) {
   badge <- str_glue("<span class='badge bg-primary me-1 float-start'>{action}</span>")
   content <- str_glue("<li class='list-group-item list-group-item-primary d-flex justify-content-between align-items-center'>{badge}<div class='d-flex flex-column justify-content-around'><div class='text-primary-emphasis'>{title_main}</div><small class='text-muted'>{title_second}</small></div>{link_direct}{link_second}</li>")
   return(content)
-}
-
-topic_pages <- function(topics) {
-  str_glue_data(topics, "<a href='{path}' class='card-link'>{title}</a>")
 }
 
 day_card <- function(x) {
