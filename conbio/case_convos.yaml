@@ -7,7 +7,6 @@
   days_needed: 1
   suggested: null
   leaders: null
-  background: null
   exams:
     - "Exam 1 BIOL4120"
   projects:
@@ -40,10 +39,7 @@
   topics: "Habitat Loss, Fragmentation, and Degradation"
   chapter: 1
   section: 9
-  days_needed: 1
-  suggested: null
   leaders: null
-  background: null
   exams:
     - "Exam 1 BIOL4120"
   projects:
@@ -69,6 +65,8 @@
   class_end: "BIOL4120_W6D2"
   date_end: "2026-09-30T16:00:00"
   week_end: 6
+  assignment_intro:
+    - "Guided Case Conversations"
   title: "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
 - number: 3
   unit:

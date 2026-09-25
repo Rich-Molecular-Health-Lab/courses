@@ -9,11 +9,9 @@ categories:
   - "ENVN4320"
 ---
 
-# Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
-
 ![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:54
 
 **Released:** 2026
 

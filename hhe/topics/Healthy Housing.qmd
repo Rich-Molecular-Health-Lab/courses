@@ -21,11 +21,9 @@ listing:
 
 ### Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health
 
-# Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health
-
 ![Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health](https://i.scdn.co/image/ab67656300005f1fa9f079a209a1669ed8f19e40)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:16
 
 **Released:** 2026
 
@@ -47,7 +45,7 @@ About this episode:   Recent research from the Johns Hopkins Bloomberg School 
 
 ![Nsilo Berry on making buildings healthier](https://i.scdn.co/image/ab67656300005f1f19347b0fba1311f9771a41a2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:57
 
 **Released:** 2023
 
@@ -65,7 +63,7 @@ Nsilo Berry joins the Agents of Change in Environmental Justice podcast to discu
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1511087425&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/agents-of-change-justice" title="Agents of Change in Environmental Justice" target="_blank" style="color: #cccccc; text-decoration: none;">Agents of Change in Environmental Justice</a> · <a href="https://soundcloud.com/agents-of-change-justice/nsilo-berry-on-making-buildings-healthier" title="Nsilo Berry on making buildings healthier" target="_blank" style="color: #cccccc; text-decoration: none;">Nsilo Berry on making buildings healthier</a></div>
 
-## Transcript
+#### Transcript
 
 **Brian Bienkowski**
 
@@ -233,11 +231,9 @@ Awesome. Well, thank you so much. It's been really great to hear more about your
 
 #### A call for redesigning American streets
 
-# September 6, 2018: A call for redesigning American streets
-
 ![September 6, 2018: A call for redesigning American streets](https://i.scdn.co/image/ab67656300005f1f66c44134aeaf736a7005e3c5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:09
 
 **Released:** 2018
 
@@ -257,7 +253,7 @@ In this week’s podcast we’ll explore how America’s streets can be redesign
 
 ![A More Walkable World: Ideas to get us moving](https://i.scdn.co/image/ab67656300005f1f5ecbec78644499e69d4db434)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:50:34
 
 **Released:** 2024
 
@@ -277,7 +273,7 @@ We know walking is good for our bodies, our communities, and our planet. But our
 
 ![Are Rats Running This Podcast?](https://i.scdn.co/image/ab67656300005f1f922709e10fb65904f84860e2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:05
 
 **Released:** 2023
 
@@ -297,7 +293,7 @@ This week, New York City crowned Kathleen Corradi its first rat czar. The new po
 
 ![Ashley James on protecting children from environmental exposures](https://i.scdn.co/image/ab67656300005f1f9b2b19716a2b1daf6e3dae87)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:35:37
 
 **Released:** 2022
 
@@ -317,7 +313,7 @@ Ashley James joins the Agents of Change in Environmental Justice podcast to disc
 
 ![Can we end chronic homelessness?](https://i.scdn.co/image/ab67656300005f1fa8d1ac7960e354a3d6303116)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:19:07
 
 **Released:** 2023
 
@@ -335,11 +331,9 @@ It’s estimated that half a million Americans are experiencing homelessness. Ev
 
 #### Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health
 
-# Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health
-
 ![Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health](https://i.scdn.co/image/ab67656300005f1fa9f079a209a1669ed8f19e40)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:16
 
 **Released:** 2026
 
@@ -359,11 +353,9 @@ About this episode:   Recent research from the Johns Hopkins Bloomberg School 
 
 #### Designing for climate change
 
-# August 10, 2018: Designing for climate change
-
 ![August 10, 2018: Designing for climate change](https://i.scdn.co/image/ab67656300005f1fcd07673e5c5b84f1635010ac)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:24:30
 
 **Released:** 2018
 
@@ -383,7 +375,7 @@ A new study from Harvard T.H. Chan School of Public Health found that students w
 
 ![Diana Hernández on housing and health](https://i.scdn.co/image/ab67656300005f1fa7eb5f1b3c8406a31e0d2973)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:00:39
 
 **Released:** 2022
 
@@ -401,11 +393,11 @@ Dr. Diana Hernández joins the Agents of Change in Environmental Justice podcast
 
 #### How America Traded Its Walkable Cities for Parking Lots
 
-# How America Traded Its Walkable Cities for Parking Lots | Boring History for Sleep
+##### How America Traded Its Walkable Cities for Parking Lots | Boring History for Sleep
 
 ![How America Traded Its Walkable Cities for Parking Lots | Boring History for Sleep](https://i.scdn.co/image/ab67656300005f1f695508bdc7eb9fb7c455e7f8)
 
-**Duration:** `= this.duration_string`
+**Duration:** 02:21:20
 
 **Released:** 2026
 
@@ -425,7 +417,7 @@ American cities were once built around people on foot. Downtown streets were pac
 
 ![How Congestion Pricing Can Impact Human Health](https://i.scdn.co/image/ab67656300005f1fb592b5cfd7631d9aa38b898d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:50
 
 **Released:** 2024
 
@@ -443,11 +435,9 @@ In early June, New York Governor Kathy Hochul blocked a congestion pricing plan 
 
 #### How Do Urban Landscapes Shape Our Health?
 
-# LIVE RECORDING: How Do Urban Landscapes Shape Our Health?
-
 ![LIVE RECORDING: How Do Urban Landscapes Shape Our Health?](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:37:04
 
 **Released:** 2025
 
@@ -465,11 +455,11 @@ A special live Commencement & Reunion Weekend episode of Humans in Public Health
 
 #### How to build an equitable and just climate future
 
-# TED Climate: How to build an equitable and just climate future | Peggy Shepard
+##### TED Climate: How to build an equitable and just climate future | Peggy Shepard
 
 ![TED Climate: How to build an equitable and just climate future | Peggy Shepard](https://i.scdn.co/image/ab67656300005f1f1a24a475eee8709f1ec2b8fb)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:40
 
 **Released:** 2024
 
@@ -489,7 +479,7 @@ Everyone has the right to a clean environment — but major disparities exist wh
 
 ![LED Lights Make You Sick? We Found Out What Causes It](https://i.scdn.co/image/ab67656300005f1f1102a1a28f1248387413eeba)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:47
 
 **Released:** 2023
 
@@ -509,7 +499,7 @@ LED light bulbs are the future. They're better for the environment and the pocke
 
 ![Nsilo Berry on making buildings healthier](https://i.scdn.co/image/ab67656300005f1f19347b0fba1311f9771a41a2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:57
 
 **Released:** 2023
 
@@ -527,7 +517,7 @@ Nsilo Berry joins the Agents of Change in Environmental Justice podcast to discu
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1511087425&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/agents-of-change-justice" title="Agents of Change in Environmental Justice" target="_blank" style="color: #cccccc; text-decoration: none;">Agents of Change in Environmental Justice</a> · <a href="https://soundcloud.com/agents-of-change-justice/nsilo-berry-on-making-buildings-healthier" title="Nsilo Berry on making buildings healthier" target="_blank" style="color: #cccccc; text-decoration: none;">Nsilo Berry on making buildings healthier</a></div>
 
-## Transcript
+##### Transcript
 
 **Brian Bienkowski**
 
@@ -693,7 +683,7 @@ Awesome. Well, thank you so much. It's been really great to hear more about your
 
 ![Right-Sizing Traffic Enforcement for Safer Roadways](https://i.scdn.co/image/ab67656300005f1f7f09c0e2cc84b65c6ee457e3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:19:07
 
 **Released:** 2026
 
@@ -713,7 +703,7 @@ About this episode:   The U.S. stands out among peer countries for having the 
 
 ![Sabah Usmani on making cities healthy and just](https://i.scdn.co/image/ab67656300005f1f828fa3b75d143d2c23714836)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:44
 
 **Released:** 2023
 
@@ -731,11 +721,9 @@ Sabah Usmani joins the Agents of Change in Environmental Justice podcast to disc
 
 #### What can design do for public health?
 
-# March 22, 2019: What can design do for public health?
-
 ![March 22, 2019: What can design do for public health?](https://i.scdn.co/image/ab67656300005f1f5ca9d415bf1c9327cc50295b)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:36
 
 **Released:** 2019
 
@@ -755,7 +743,7 @@ When many people think of design they’re probably picturing a product, like a 
 
 ![Why are scientists planting tiny forests in big cities?](https://i.scdn.co/image/ab67656300005f1f644d6e6a158e6aa90066442e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:12
 
 **Released:** 2026
 
@@ -777,11 +765,11 @@ Healthy forests help combat climate change, provide humans with drinking water a
 
 **The Omaha News**, *03 12, 2025*
 
-## Video (1:32)
+##### Video (1:32)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/hkibb2WLq3Q title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The Omaha News streams live every Wednesday at 4 p.m. on YouTube, Facebook and The Knowledge Network (TKN) during the academic year. The half-hour newscast also airs state-wide on NET reaching all of Nebraska’s 1.9 million residents. 
 
@@ -797,7 +785,7 @@ Facebook- https://www.facebook.com/UNOTheOmahaNews
 
 Instagram- https://www.instagram.com/unomahanews/
 
-## Transcript
+##### Transcript
 
 **0:02** · front porch Investments green lining fund is helping homeowners in historically Redline areas invest in their properties and enhance the community redlining is the practice of denying loans and services to minority neighborhoods which led to long-term disinvestment and though outlawed in 1968 its effects still linger Yolanda
 
@@ -811,11 +799,11 @@ Instagram- https://www.instagram.com/unomahanews/
 
 **NPR**, *07 12, 2017*
 
-## Video (3:49)
+##### Video (3:49)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/FlJoBhLnqko title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 We took a field trip to the largest green roof in New York City. Then we imagined what the city could be like if all of its roof space was green. 
 
@@ -841,9 +829,9 @@ ABOUT NPR
 
 NPR connects to audiences on the air, on demand, online, and in person. More than 26 million radio listeners tune in to NPR stations each week and more than 36 million unique visitors access NPR.org each month making NPR one of the most trusted sources of news and insights on life and the arts. NPR is also the leading publisher of podcasts, with 36 original shows and an average of 4 million listeners per week. NPR shares compelling stories, audio and photos with millions of social media users on Facebook, Twitter, Instagram, Pinterest, YouTube and Snapchat; NPR News and NPR One apps, online streaming, podcasts, iTunes radio and connected car dashboards help meet audiences where they are. NPR's live events bring to the stage two-way conversations between NPR hosts and the audience in collaboration with the public radio Member Station community. This robust access to public service journalism makes NPR an indispensable resource in the media landscape.
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:01** · This is the largest green roof in New York City.
 
@@ -873,7 +861,7 @@ into a saving of about 3 million dollars.
 
 **0:55** · That is impressive.
 
-### Green Roofs
+###### Green Roofs
 
 **0:58** · How does one green roof get so much done?
 
@@ -895,7 +883,7 @@ lot.
 
 **1:31** · And these surfaces create a lot of problems for cities That green roofs can actually help solve.
 
-### stormwater runoff
+###### stormwater runoff
 
 **1:38** · Let's take a look at three of these issues. The first is
 
@@ -919,7 +907,7 @@ drain and polluting the environment, ends up just evaporating the atmosphere
 
 through the leaves of these plants.
 
-### heat island effect
+###### heat island effect
 
 **2:13** · And then, there's what scientists call the "heat island effect," which basically means that cities are significantly warmer than the surrounding areas.
 
@@ -929,7 +917,7 @@ through the leaves of these plants.
 
 **2:30** · Green roofs, by comparison are close to air temperatures.
 
-### habitat loss
+###### habitat loss
 
 **2:34** · Another problem green roofs can help solve is habitat loss.
 
@@ -943,7 +931,7 @@ animals to survive.
 
 **2:59** · And these are just three of the problems that green roofs can help solve.
 
-### conclusion
+###### conclusion
 
 **3:03** · But to really put a dent in any of these issues cities would have to implement green roofs at a large scale.
 
@@ -961,11 +949,11 @@ gallons of stormwater each year.
 
 **The Wall Street Journal**, *08 14, 2026*
 
-## Video (6:52)
+##### Video (6:52)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/LDCvtZ4L_GM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 New York City handles nearly 3 million tons of trash a year. And much of it ends up on the curb in loose plastic bags — before getting shipped to landfills outside of the city altogether, on barges and then trains. This system costs the city around $500 million a year. So, can the largest city in the United States modernize its waste management?
 
@@ -991,9 +979,9 @@ Experts in engineering and design break down a ubiquitous problem, examining how
 
 #NYC #Trash #WSJ
 
-## Transcript
+##### Transcript
 
-### NYC’s trash problem
+###### NYC’s trash problem
 
 
 **0:00** · Every year, New York City handles nearly three million tons of trash. For decades, mountains of garbage bags have lined the streets, feeding rats and blocking sidewalks.
@@ -1006,14 +994,14 @@ Experts in engineering and design break down a ubiquitous problem, examining how
 
 **0:29** · We asked people who know the system best. Steven Cohen is the Director of the Sustainability Management Program at Columbia University, and he says one of New York's biggest solutions is surprisingly simple, changing how the city stores and collects its garbage. Instead of leaving flimsy trash bags on the sidewalk, the city's sanitation department is now moving towards sealed containers emptied by mechanized trucks.
 
-### Possible solutions
+###### Possible solutions
 
 
 **0:55** · The motto of the Sanitation Department is New York's strongest. And now I think we're going to call them New York's smartest because they figured out a way to get the machine to do the work.
 
 **1:04** · But changing how New York handles its garbage means undoing a system that's been in place for more than half a century.
 
-### Why the issue exists
+###### Why the issue exists
 
 
 **1:10** · We used to have metal cans that everybody had to put their garbage in that you would have to wash out after use. People in apartment buildings, superintendents didn't like doing that so much.
@@ -1024,7 +1012,7 @@ Experts in engineering and design break down a ubiquitous problem, examining how
 
 **1:43** · More than 50 years later, trash bags are just as common as the vermin they attract, and the city's layout makes the problem even harder. Unlike other major American cities, Manhattan was built largely without alleys, leaving garbage with only one place to wait for pickup, the curb. The city is now trying to take those bags off the sidewalk altogether, replacing them with permanent containers like these.
 
-### What the sanitation department does now
+###### What the sanitation department does now
 
 
 **2:05** · The model that's used everywhere in the United States, either dumpsters in alleys, or 96 gallon sort of wheeled containers, wasn't feasible in New York City, because of our density and because of the way that our city's been built. So we looked to the model used in Europe, the stationary on-street containers, as the solution for a large number of our buildings.
@@ -1041,7 +1029,7 @@ Experts in engineering and design break down a ubiquitous problem, examining how
 
 **3:19** · This is a way to collect the garbage in a more efficient and frankly humane way, protecting the occupational health and safety of the workers. And I think this is really how robotics are changing all sorts of manual labor.
 
-### The bigger problem
+###### The bigger problem
 
 
 **3:34** · In Cohen's vision for waste in the city, robotics would also play a larger role, sorting through the trash for recyclables to divert waste from landfills.
@@ -1074,7 +1062,7 @@ Experts in engineering and design break down a ubiquitous problem, examining how
 
 **5:48** · Materials processing facilities use automated systems to sort recyclables, but Cohen's proposal is more ambitious, applying that technology to New York's entire waste stream. Some tech companies are already experimenting with robots that can sort waste autonomously, separating out materials of all categories to be repurposed. In New York, Cohen says the technology would be economically transformative, using trash as a product to be sold rather than disposed of.
 
-### The bigger solution
+###### The bigger solution
 
 **6:13** · The question is how a city as large as New York can implement this technology in the long term. The Sanitation Department has multiple programs in place for recycling and composting, but the technology is still developing. So as New York's trash disposal gets more expensive, recovering what's inside could become increasingly valuable. But making that vision a reality requires a lot more than just rethinking the city's trash collection.
 
@@ -1082,19 +1070,19 @@ Experts in engineering and design break down a ubiquitous problem, examining how
 
 #### North Omaha Legacies & More
 
-# North Omaha Legacies  North Omaha Legacies & More  Nebraska Stories Nebraska Public Media
+##### North Omaha Legacies  North Omaha Legacies & More  Nebraska Stories Nebraska Public Media
 
 **Nebraska Public Media**, *04 11, 2023*
 
-## Video (8:03)
+###### Video (8:03)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/olrvJG9mTjc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+###### Description
 
 Launched in January of 2022, Preston Love, Jr. guides us on a tour of his beloved North Omaha that celebrates the past and embraces the future. Come along and learn about this historic neighborhood, including a visit to “The Street of Dreams.”
 
-## Transcript
+###### Transcript
 
 **0:00** · (light jazz music) (light jazz music) (light jazz music) (light jazz music) [Preston] Well, the truth of
 
@@ -1414,11 +1402,11 @@ develop new relationship.
 
 **Vox**, *09 27, 2016*
 
-## Video (5:30)
+##### Video (5:30)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/ZORzsubQA_M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Modern cities are designed for cars. But the city of Barcelona is testing out an urban design trick that can give cities back to pedestrians.
 
@@ -1438,7 +1426,7 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+##### Transcript
 
 **0:01** · If you imagine a typical American city street, and you take away the space that’s dedicated to cars, you aren’t left with very much.
 
@@ -1550,17 +1538,17 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **CBS New York**, *08 06, 2026*
 
-## Video (1:56)
+##### Video (1:56)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 There have been fewer complaints about rats to 311, which appears to show trash container efforts are working. CBS News New York's Dave Carlin reports. 
 
 For video licensing inquiries, contact: licensing@veritone.com
 
-## Transcript
+##### Transcript
 
 **0:04** · CALL IT A TRASHY TRIUMPH FOR CITY LEADERS IN THEIR WAR AGAINST RATS. AS DAVE CARLIN REPORTS, FEWER COMPLAINTS ABOUT RATS TO 311 APPEAR TO SHOW THOSE CONTAINER EFFORTS ARE WORKING.
 

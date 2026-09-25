@@ -25,7 +25,7 @@ listing:
 
 ![Are Plant- and Fungus-Based Meats Really Better than the Real Thing?](https://i.scdn.co/image/ab67656300005f1f64ed6ec2f04894f027196454)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:39
 
 **Released:** 2021
 
@@ -45,7 +45,7 @@ Move over, beef: there’s a new burger in town. Plant-based meats are sizzling 
 
 ![1033 - Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture](https://i.scdn.co/image/ab67656300005f1fefaffe37a746200f9af25327)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:39
 
 **Released:** 2026
 
@@ -63,11 +63,11 @@ About this episode: Biosolids created by the wastewater treatment process are us
 
 #### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
 
-# Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+##### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
 
 ![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:19:15
 
 **Released:** 2023
 
@@ -87,7 +87,7 @@ Chemical spills, historical disasters, water quality, airborne toxic events, cle
 
 ![Exposing the Monsanto Conspiracy](https://i.scdn.co/image/ab67656300005f1f67044e15bde04720ff3f8bdd)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:17
 
 **Released:** 2025
 
@@ -105,11 +105,9 @@ This is the history of Monsanto’s herbicides…▀▀▀You'll find our full b
 
 #### Good Shit - How Humanure Could Save Agriculture—and the Planet
 
-# Good Shit: How Humanure Could Save Agriculture—and the Planet
-
 ![Good Shit: How Humanure Could Save Agriculture—and the Planet](https://i.scdn.co/image/ab67656300005f1ff45e75d8ccf0c5243333cd98)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:51:07
 
 **Released:** 2023
 
@@ -129,7 +127,7 @@ For most of us, when we sit on the porcelain throne to drop the deuce, priority 
 
 ![Growing a Healthier Climate](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:23
 
 **Released:** 2026
 
@@ -149,7 +147,7 @@ In this episode, we sit down with Professor Meredith Niles to explore how climat
 
 ![How Can Iowa’s Agriculture Adapt To Climate Threats?](https://i.scdn.co/image/ab67656300005f1f6eaf64c497d1a878ad096461)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:50
 
 **Released:** 2024
 
@@ -169,7 +167,7 @@ Climate change is having a profound effect on agriculture. Farmers over the past
 
 ![Monsanto or MonSatan? How—and Why—a St. Louis Startup Became a Hated Herbicide Giant](https://i.scdn.co/image/ab67656300005f1f7f0d0f3db021efc7ff82bd3c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:50:59
 
 **Released:** 2022
 
@@ -189,7 +187,7 @@ A chemical that kills the plants you don’t want—weeds—and keeps the plants
 
 ![Should I Give Up Beef?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:41:56
 
 **Released:** 2022
 
@@ -209,7 +207,7 @@ A quarter of global greenhouse gas emissions come from agriculture and land use 
 
 ![Sugar's Dark Shadow](https://i.scdn.co/image/ab67656300005f1fa8d3afaebfbac6f1404ebcb8)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:52:33
 
 **Released:** 2024
 
@@ -229,7 +227,7 @@ Your pantry's sweetest ingredient has an extremely bitter history. The sap-produ
 
 ![1027 - The EPA's Approval of Two New Pesticides](https://i.scdn.co/image/ab67656300005f1f125f40494d44de994e779aa6)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:38
 
 **Released:** 2026
 
@@ -247,11 +245,9 @@ About this episode: In late 2025, the EPA approved two pesticides for agricultur
 
 #### The Ghost Town (Times Beach, Missouri)
 
-# S10 Ep140: The Ghost Town (Times Beach, Missouri)
-
 ![S10 Ep140: The Ghost Town (Times Beach, Missouri)](https://i.scdn.co/image/ab67656300005f1fd352f167cf2d28d9d9fa1fd9)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:07:19
 
 **Released:** 2026
 
@@ -271,7 +267,7 @@ A small Missouri town faces a compounded catastrophe as a devastating flood foll
 
 ![The Most Interesting Oil in the World](https://i.scdn.co/image/ab67656300005f1f6c0223d97b40be7ba83602c1)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:50:54
 
 **Released:** 2021
 
@@ -291,7 +287,7 @@ Here’s a little riddle for you: What’s all around you, but can’t be seen, 
 
 ![The Weed Killer](https://i.scdn.co/image/ab67656300005f1f393bf10c73cdd1f7ce4106e2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:33:38
 
 **Released:** 2025
 
@@ -311,7 +307,7 @@ For more than thirty years, scientists, regulators, and one of the world’s mos
 
 ![What we'll eat on a warmer planet](https://i.scdn.co/image/ab67656300005f1fcb3849cd42dc219b2fef1e3e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:50:28
 
 **Released:** 2024
 
@@ -331,7 +327,7 @@ From the farm, to the lab, to our tables, what we eat and how it's grown is chan
 
 ![Where's the Beef? Lab-Grown Meat is Finally on the Menu](https://i.scdn.co/image/ab67656300005f1f3be655e8fa8542e90e98af3e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:56:05
 
 **Released:** 2023
 
@@ -349,11 +345,11 @@ Can we really have our burger, eat it—and never need to kill a cow? Growing me
 
 #### Which is better for you: 'Real' meat or 'fake' meat?
 
-# Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans
+##### Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans
 
 ![Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans](https://i.scdn.co/image/ab67656300005f1fe1189724b35c0c3b998e195d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:07:23
 
 **Released:** 2024
 
@@ -375,17 +371,17 @@ In 2021, a survey of over 1,000 Americans found that nearly two-thirds had eaten
 
 **nature video**, *01 25, 2023*
 
-## Video (10:31)
+##### Video (10:31)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/CH7MpiGCdgU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The story of Sargassum stretches from the Congo to the Amazon, from soybean farming to climate change and from toxic gases to robotic vehicles. In this documentary researchers from around the world explain the vast scope of the Sargassum problem and the solutions that may one day begin to address it.
 
 Additional photographs and footage in this film were provided by Drake Lee-Patterson, Gary Marshall, Joseph Weekes, Driven Visual Media, Kerwin Noel,  Nick Hurley, Akeisha Clark, Sargassum Information Hub, NASA, Chuanmin Hu, Jeff Davis's team, Hazel Oxenford, Caroline Juang, Melvina Walsh, Morgan Lewis, Kerton Jobe, P McConney, Markel Gomez Letona and Nico Frohberg who were mistakenly missed off the film credits.
 
-## Transcript
+##### Transcript
 
 **0:03** · VOICE OVER: The Great Atlantic Sargassum Belt is the largest seaweed bloom in the world, and it's expanding.
 
@@ -545,11 +541,11 @@ Additional photographs and footage in this film were provided by Drake Lee-Patte
 
 **PBS**, *09 10, 2026*
 
-## Video (8:53)
+##### Video (8:53)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/g3crFJTKUZc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/4wkQIAG
 
@@ -579,9 +575,9 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 #climatesolutions #coloradoriver #waterrights
 
-## Transcript
+##### Transcript
 
-### The Imperial Valley oasis
+###### The Imperial Valley oasis
 
 **0:01** · The Imperial Valley sits downstream of two massive reservoirs: Lake Powell and Lake Mead.
 
@@ -627,7 +623,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **1:24** · O'BRIEN (voiceover): After all the lemons were boxed and shipped, Gina unpacked her family story.
 
-### Water use and crop priorities
+###### Water use and crop priorities
 
 **1:31** · I am fourth-generation, and my son is fifth-generation.
 
@@ -671,7 +667,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **3:34** · You think municipalities are gonna come in, you think the cities are gonna come and, and take our water.
 
-### Water management and policy
+###### Water management and policy
 
 **3:40** · O'BRIEN: That's exactly what happened in 2003.
 
@@ -711,7 +707,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **5:14** · (water rushing) SHIELDS: And he delivered it at 6:30, and then here's his measurement what he took, 9.3.
 
-### Modern irrigation strategies
+###### Modern irrigation strategies
 
 **5:21** · So, how long will this gate be open today?
 
@@ -755,7 +751,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **6:55** · He showed me an alfalfa field that he put in the Imperial Irrigation District's Deficit Irrigation Program, or DIP.
 
-### Adapting to a limited supply
+###### Adapting to a limited supply
 
 **7:04** · Farmers are paid to cease irrigating some of their crops during the hot summer months when evaporation is at its peak.
 
@@ -799,11 +795,11 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **Al Jazeera English**, *09 05, 2026*
 
-## Video (10:02)
+##### Video (10:02)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/6PHfReEbjcA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The Caribbean is facing a growing sargassum seaweed crisis, with huge quantities washing onto beaches across the region and threatening tourism, ecosystems and public health.
 
@@ -831,7 +827,7 @@ Check out our Instagram page: https://www.instagram.com/aljazeeraenglish/
 
 Download AJE Mobile App: https://aje.news/AJEMobile
 
-## Transcript
+##### Transcript
 
 **0:04** · [music] Welcome to Inside Latin America and to Mexico's Riviera Maya. For the last decade, growing amounts of algae called sargassum have been washing up on beaches across the Caribbean, transforming once pristine coastlines and threatening the communities that depend on them.
 

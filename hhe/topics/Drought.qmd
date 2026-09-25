@@ -18,7 +18,7 @@ listing:
 
 ![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:31
 
 **Released:** 2023
 
@@ -36,7 +36,7 @@ Dotted across the Great Basin of the American West are salty, smelly lakes. The 
 
 :::
 
-## Transcript
+#### Transcript
 
 EMILY KWONG, BYLINE: You're listening to SHORT WAVE from NPR.
 
@@ -184,7 +184,7 @@ SCOTT: This episode was produced by Margaret Cirino and Liz Metzger, edited by G
 
 ![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:31
 
 **Released:** 2023
 
@@ -202,7 +202,7 @@ Dotted across the Great Basin of the American West are salty, smelly lakes. The 
 
 :::
 
-## Transcript
+##### Transcript
 
 EMILY KWONG, BYLINE: You're listening to SHORT WAVE from NPR.
 
@@ -348,11 +348,11 @@ SCOTT: This episode was produced by Margaret Cirino and Liz Metzger, edited by G
 
 **PBS**, *09 10, 2026*
 
-## Video (8:53)
+##### Video (8:53)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/g3crFJTKUZc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/4wkQIAG
 
@@ -382,9 +382,9 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 #climatesolutions #coloradoriver #waterrights
 
-## Transcript
+##### Transcript
 
-### The Imperial Valley oasis
+###### The Imperial Valley oasis
 
 **0:01** · The Imperial Valley sits downstream of two massive reservoirs: Lake Powell and Lake Mead.
 
@@ -430,7 +430,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **1:24** · O'BRIEN (voiceover): After all the lemons were boxed and shipped, Gina unpacked her family story.
 
-### Water use and crop priorities
+###### Water use and crop priorities
 
 **1:31** · I am fourth-generation, and my son is fifth-generation.
 
@@ -474,7 +474,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **3:34** · You think municipalities are gonna come in, you think the cities are gonna come and, and take our water.
 
-### Water management and policy
+###### Water management and policy
 
 **3:40** · O'BRIEN: That's exactly what happened in 2003.
 
@@ -514,7 +514,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **5:14** · (water rushing) SHIELDS: And he delivered it at 6:30, and then here's his measurement what he took, 9.3.
 
-### Modern irrigation strategies
+###### Modern irrigation strategies
 
 **5:21** · So, how long will this gate be open today?
 
@@ -558,7 +558,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **6:55** · He showed me an alfalfa field that he put in the Imperial Irrigation District's Deficit Irrigation Program, or DIP.
 
-### Adapting to a limited supply
+###### Adapting to a limited supply
 
 **7:04** · Farmers are paid to cease irrigating some of their crops during the hot summer months when evaporation is at its peak.
 
@@ -602,11 +602,11 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **DW Planet A**, *09 20, 2024*
 
-## Video (12:46)
+##### Video (12:46)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/GgKi2x9od_0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 In Singapore, water supply impacted wars, the economy and people's health. Now, one of the most water-stressed countries is teaching the world how to handle water when there is hardly any.  
 
@@ -662,9 +662,9 @@ Chapters:
 
 10:14 Conclusion
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:01** · No joke, but this place...
 
@@ -678,7 +678,7 @@ Chapters:
 
 **0:20** · This is how Singapore is transforming itself from one of the most water-stressed countries in the world to self-sufficiency, from water rags – to riches.
 
-### The challenge
+###### The challenge
 
 **0:36** · Welcome to Singapore!
 
@@ -718,7 +718,7 @@ Chapters:
 
 **1:50** · To understand how Singapore can pull this off, you first need to understand where they're coming from.
 
-### History
+###### History
 
 **1:58** · "The Singapore water story starts with World War 2."
 
@@ -748,7 +748,7 @@ Chapters:
 
 **3:28** · That was in 1965 for 2060."
 
-### Step 1: Imported Water
+###### Step 1: Imported Water
 
 **3:32** · Their initial masterplan was fine-tuned over the years into a water strategy which they call their "4 national taps".
 
@@ -776,7 +776,7 @@ Chapters:
 
 **4:48** · This means keeping rivers and drains clean, investing billions, starting to collect more water, cleaning it and use what the island state Singapore already has.
 
-### Step 2: Desalination
+###### Step 2: Desalination
 
 **4:57** · For example, this: The ocean!
 
@@ -818,7 +818,7 @@ Chapters:
 
 **6:07** · So, what's next?
 
-### Step 3: Local Catchment
+###### Step 3: Local Catchment
 
 **6:09** · Bingo! Rain!
 
@@ -844,7 +844,7 @@ Chapters:
 
 **7:11** · By 2060, the government wants to use 90% of the land area for rain catchment.
 
-### Step 4: NEWater
+###### Step 4: NEWater
 
 **7:18** · Catching rainwater is one thing, but what about the water already in circulation?
 
@@ -882,7 +882,7 @@ Chapters:
 
 **9:17** · And we typically think of that as a, a liability, as something to get rid of."
 
-### Policy and Education
+###### Policy and Education
 
 **9:22** · So how do you get people on board?
 
@@ -910,7 +910,7 @@ Chapters:
 
 **10:04** · They've educated their community about their water situation, about their water challenges, and about the solutions that they've chosen to push."
 
-### Conclusion
+###### Conclusion
 
 **10:14** · As good as Singapore is doing, it has big advantages over other countries.
 
@@ -970,11 +970,11 @@ Chapters:
 
 **PBS**, *09 16, 2026*
 
-## Video (7:36)
+##### Video (7:36)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/6qRszyLJdUI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/3Vig7OG
 
@@ -1004,7 +1004,7 @@ Ages of Ice
 
 A story of scientific daring and discovery, grit, and human endeavor, where unlocking the mysteries of our icy worlds is key to unlocking the forces that drive our planet. The three-part documentary series narrated by acclaimed Scottish actor David Tennant, is a high-stakes journey into the planet's frozen wilderness, revealing the extraordinary wildlife, breathtaking landscapes, and rapidly changing ecosystems of Earth's polar regions.
 
-## Transcript
+##### Transcript
 
 **0:00** · In the stage, we are in the orbit around our sun.
 
@@ -1148,11 +1148,11 @@ A story of scientific daring and discovery, grit, and human endeavor, where unlo
 
 **PBS NewsHour**, *09-21-2025*
 
-## Video (6:18)
+##### Video (6:18)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/YD65HBUggg4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 According to a new study, the planet is drying at an unprecedented pace, presenting a critical threat to humanity. Researchers found that “continental drying is having profound global impacts” that “threaten water availability” across the globe. To learn more, Ali Rogin speaks with ProPublica climate investigations editor Abrahm Lustgarten for our series, Tipping Point.
 
@@ -1180,7 +1180,7 @@ PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
 
 Newsletters: https://www.pbs.org/newshour/subscribe
 
-## Transcript
+##### Transcript
 
 **0:02** · Ali: The planet is drying at an unprecedented pace, presenting a critical threat to humanity.
 

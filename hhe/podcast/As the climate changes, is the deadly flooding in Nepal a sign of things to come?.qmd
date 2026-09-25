@@ -11,7 +11,7 @@ categories:
 
 ![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:06:01
 
 **Released:** 2026
 

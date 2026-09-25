@@ -11,7 +11,7 @@ categories:
 
 ![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:50
 
 **Released:** 2026
 

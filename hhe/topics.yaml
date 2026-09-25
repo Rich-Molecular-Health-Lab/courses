@@ -971,7 +971,6 @@
   videos_possible:
     - "How China is designing flood-resistant cities"
 - title: "Healthy Housing"
-  keywords: null
   unit: "Infrastructure"
   chapter: 3
   section: 3
@@ -985,13 +984,9 @@
   background:
     - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
     - "Nsilo Berry on making buildings healthier"
-  quizzes: null
   slides: null
   videos: null
   films: null
-  exercises: null
-  handouts: null
-  assignments: null
   area: "teaching"
   tags:
     - "teaching"
@@ -1039,6 +1034,11 @@
     - "North Omaha Legacies & More"
     - "Superblocks How Barcelona is taking city streets back from cars"
     - "Trash containers making a difference in NYC's war on rats"
+  lecture_archive:
+    - "ENVN4320F24_10-8"
+    - "ENVN4320F24_10-3"
+    - "ENVN4320F24_10-1"
+    - "HHE_F25_6_built_environments"
 - title: "Heat Islands"
   unit: "Infrastructure"
   chapter: 3

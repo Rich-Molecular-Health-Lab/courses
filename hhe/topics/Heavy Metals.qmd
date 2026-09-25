@@ -25,7 +25,7 @@ listing:
 
 ![10 Years After Flint, The Fight To Replace Lead Pipes Continues](https://i.scdn.co/image/ab67656300005f1f846b3b59c319906b8b229582)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:12
 
 **Released:** 2024
 
@@ -43,7 +43,7 @@ Ten years ago, Flint, Mich. switched water sources to the Flint River. The lack 
 
 <iframe src="https://www.npr.org/player/embed/1198909905/1247376748" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 EMILY KWONG, HOST:
 
@@ -235,11 +235,11 @@ Copyright © 2024 NPR. All rights reserved. Visit our website [terms of use](\"h
 
 #### Daniel Stone & American Poison
 
-# Special Episode: Daniel Stone & American Poison
+##### Special Episode: Daniel Stone & American Poison
 
 ![Special Episode: Daniel Stone & American Poison](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:57:31
 
 **Released:** 2026
 
@@ -257,11 +257,11 @@ The widespread use of leaded gasoline in the 20th century led to one of the worl
 
 #### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
 
-# Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+##### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
 
 ![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:19:15
 
 **Released:** 2023
 
@@ -281,7 +281,7 @@ Chemical spills, historical disasters, water quality, airborne toxic events, cle
 
 ![Growing a Healthier Climate](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:23
 
 **Released:** 2026
 
@@ -301,7 +301,7 @@ In this episode, we sit down with Professor Meredith Niles to explore how climat
 
 ![Kevin Patterson on Indigenous communities’ heavy metal exposure](https://i.scdn.co/image/ab67656300005f1f4336d2b2998adca316fca858)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:54
 
 **Released:** 2023
 
@@ -319,11 +319,9 @@ Kevin Patterson joins the Agents of Change in Environmental Justice podcast to d
 
 #### Lead Poisoning - Heavy Metal Episode
 
-# Lead Poisoning: Heavy Metal Episode
-
 ![Ep 38 Lead Poisoning: Heavy Metal Episode](https://i.scdn.co/image/ab67656300005f1fadae557c8d2d5669ac257463)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:11:59
 
 **Released:** 2019
 
@@ -341,11 +339,9 @@ This episode, our first foray into toxic metals, is heavy in all kinds of ways -
 
 #### The Canal (Love Canal)
 
-# S1 Ep4: The Canal (Love Canal)
-
 ![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:40
 
 **Released:** 2018
 
@@ -363,11 +359,9 @@ Once envisioned as a model community, the neighborhood of Love Canal in Niagara 
 
 #### The Ghost Town (Times Beach, Missouri)
 
-# S10 Ep140: The Ghost Town (Times Beach, Missouri)
-
 ![S10 Ep140: The Ghost Town (Times Beach, Missouri)](https://i.scdn.co/image/ab67656300005f1fd352f167cf2d28d9d9fa1fd9)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:07:19
 
 **Released:** 2026
 
@@ -387,7 +381,7 @@ A small Missouri town faces a compounded catastrophe as a devastating flood foll
 
 ![What Makes Lead So Poisonous?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:49:17
 
 **Released:** 2016
 
@@ -407,7 +401,7 @@ The people of Flint, MI were horrified to find their drinking water was poisoned
 
 ![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:52
 
 **Released:** 2024
 
@@ -427,7 +421,7 @@ Superfund sites are some of the most polluted areas in the country, containing h
 
 ![What's a brownfield remediation project?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:18:16
 
 **Released:** 2009
 
@@ -449,11 +443,11 @@ The EPA defines a brownfield as land that is abandoned because redevelopment is 
 
 **PBS Terra**, *04 16, 2026*
 
-## Video (15:56)
+##### Video (15:56)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/ivoV1rwiYJk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch the latest episode of @NinePBS 's What Do I Do with This? here: https://youtu.be/jnBuX8LFTqM?si=YBuv9BOUgkVP4KGj
 
@@ -475,9 +469,9 @@ Tiktok: https://www.tiktok.com/@pbsterra
 
 Instagram:  https://instagram.com/pbsterra
 
-## Transcript
+##### Transcript
 
-### The toxic Berkeley Pit
+###### The toxic Berkeley Pit
 
 
 **0:00** · This might be one of the most beautiful lakes in Montana. (bright music) (cannon booming) (birds squawking) So this is one of the propane cannons, that loud noise that birds don't like and scare 'em away.
@@ -494,7 +488,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **1:19** · (bright music) Well, there's treasure in these waters. The Berkeley Pit sits above Butte, Montana, situated near the headwaters of the Clark Fork River. This area has been shaped by more than a century of mining. Diving into a lake this toxic seems like the last thing you want to do.
 
-### Industrial legacy in Butte
+###### Industrial legacy in Butte
 
 
 **1:44** · All right.
@@ -515,7 +509,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **3:27** · [Joe] Jackson is sampling this mining waste on the hunt for rare earth elements, valuable and critical minerals that may be hiding in these waters. The rocks here contain sulfide minerals, and when exposed to air and water, they react and form sulfuric acid. That acid dissolves metals trapped in the surrounding rock, a process called acid mine drainage.
 
-### Seeking rare minerals
+###### Seeking rare minerals
 
 **3:54** · The Berkeley Pit is now a giant chemical reactor, highly acidic water loaded with dissolved metals, some at concentrations more than 5,000% above drinking water standards. Jackson and other scientists are hoping that those valuable rare earths are lurking here in this chemical soup. Because the Berkeley Pit is so polluted, in 1987, the Environmental Protection Agency designated it as a superfund site.
 
@@ -539,7 +533,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **5:45** · [Jackson] We're trying to find where these critical minerals or rare earths might be.
 
-### Extracting resources
+###### Extracting resources
 
 
 **5:49** · [Joe] These rare earth elements include a group of 17 metals that are critical to modern technology. Among them are elements like neodymium and praseodymium, used to make the powerful magnets that spin inside wind turbines and electric vehicle motors. Others, like dysprosium, help those magnets survive extreme heat. Without them, turbines would be heavier, electric cars less efficient. Global demand for these elements is expected to surge as countries build more renewable energy and buy more electric vehicles.
@@ -568,7 +562,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **7:58** · Forbidden gravy.
 
-### Environmental restoration
+###### Environmental restoration
 
 **8:01** · All right, well, I got my science helper, Joe.
 
@@ -600,7 +594,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **10:26** · [Joe] It won't replace mining tomorrow, but it could reduce the need to dig new holes. If the Berkeley Pit represents how badly an environmental disaster can scar the earth, downstream, there's a place that shows us what's possible when it comes to cleaning up nature. Milltown Park, at the meeting of the Clark Fork and Blackfoot Rivers, was once home to a dam that trapped tons of contaminated sediment from mines upstream.
 
-### Lessons from Miltown Park
+###### Lessons from Miltown Park
 
 **10:57** · This is Michael Kustudia, Milltown State Park manager, whose family ties to the area go back generations.
 
@@ -620,7 +614,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **13:08** · [Joe] So we can't reverse all the damage of the past, but we can transform it into something better. At the Berkeley Pit, scientists focus not on erasing scars, but on asking what the damage can become.
 
-### Looking toward the future
+###### Looking toward the future
 
 
 **13:25** · Butte has always been home and hopefully always will be. My great-grandfather started here as an underground miner. All my family worked underground all the way up until my grandfather, and to be able to work in the environment that he did is just the family legacy to me. It, yeah, puts a smile on my face. They call it the richest hill on earth, but I think it's my favorite place on earth.
@@ -643,15 +637,13 @@ Instagram:  https://instagram.com/pbsterra
 
 #### Contaminated - The Carpet Industry's Toxic Legacy
 
-# Contaminated: The Carpet Industry's Toxic Legacy
-
 **FRONTLINE**, *2026*
 
-## Documentary Film (53 min)
+##### Documentary Film (53 min)
 
 <iframe title="amazon-player" src=https://www.amazon.com/gp/video/detail/0FVL2RZBBFI1HM5AN57RNNCYUB?autoplay=1&t=0&ref_=atv_dp_atf_3p_hd_mv_wfb_t1B3AAAAAA0wr0 width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-## Description
+##### Description
 
 "
 
@@ -667,4 +659,4 @@ IMDb 7.6/10 2026 53min
 
 "
 
-## Transcript
+##### Transcript

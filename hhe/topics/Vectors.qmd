@@ -23,7 +23,7 @@ listing:
 
 ![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:42
 
 **Released:** 2026
 
@@ -39,7 +39,7 @@ Ticks are exponentially expanding their territory, using us for their next blood
 
 :::
 
-## Transcript
+#### Transcript
 
 **SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
 
@@ -491,7 +491,7 @@ Be careful out there, friends!**
 
 ![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:14
 
 **Released:** 2026
 
@@ -511,7 +511,7 @@ In the grand scheme of things, Lyme disease is a fairly new scientific discovery
 
 ![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:59
 
 **Released:** 2026
 
@@ -530,7 +530,7 @@ The most ferocious predator for us humans is actually quite small: the mosquito.
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5806598/nx-s1-mx-5806598-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+#### Transcript
 
 SPEAKER: You're listening to Short Wave from NPR.
 
@@ -694,7 +694,7 @@ KWONG: Check out the show. It's really good. You can find it all the places you 
 
 ![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:50
 
 **Released:** 2026
 
@@ -720,7 +720,7 @@ About this episode:   A group of students from suburban Atlanta has developed 
 
 ![May 31, 2019: A new approach to fighting malaria](https://i.scdn.co/image/ab67656300005f1fc76cbaa837eb7407972b777c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:25:28
 
 **Released:** 2019
 
@@ -740,7 +740,7 @@ Each year, more than 200 million people around the world are infected with malar
 
 ![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:50
 
 **Released:** 2026
 
@@ -760,11 +760,11 @@ About this episode:   A group of students from suburban Atlanta has developed 
 
 #### Acaropathology (TICKS + LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
 
-# Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
+##### Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
 
 ![Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 02:32:48
 
 **Released:** 2023
 
@@ -784,7 +784,7 @@ It’s 2-for-1! Ticks AND Lyme: together in one helpful, disgusting, gossipy, em
 
 ![An Early Start to West Nile Virus Season?](https://i.scdn.co/image/ab67656300005f1f1be97b9c332e24455a879896)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:37
 
 **Released:** 2026
 
@@ -804,7 +804,7 @@ About this episode:   West Nile virus is the most common mosquito-borne illnes
 
 ![Are Rats Running This Podcast?](https://i.scdn.co/image/ab67656300005f1f922709e10fb65904f84860e2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:05
 
 **Released:** 2023
 
@@ -824,7 +824,7 @@ This week, New York City crowned Kathleen Corradi its first rat czar. The new po
 
 ![CRISPR Mosquitoes](https://i.scdn.co/image/ab67656300005f1f3f7ea69d81852f00c6bbf64c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:21
 
 **Released:** 2026
 
@@ -842,11 +842,11 @@ The powerful gene editing tool CRISPR is already being tested on animal and plan
 
 #### Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei
 
-# Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei
+##### Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei
 
 ![Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei](https://i.scdn.co/image/ab67656300005f1f66221027296ed7a75e118c2f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:12:54
 
 **Released:** 2019
 
@@ -866,7 +866,7 @@ Lyme Disease! Powassan virus! That Lonestar tick meat allergy! Paralysis ticks! 
 
 ![Does It Feel Like Mosquitoes Are Getting Worse?](https://i.scdn.co/image/ab67656300005f1f3282450f01d1e10beed29b66)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:19
 
 **Released:** 2025
 
@@ -884,11 +884,9 @@ Mosquitoes are the deadliest animal on the planet, and some of them may be on th
 
 #### Hantavirus - the risks, the science and what you need to know
 
-# Hantavirus: the risks, the science and what you need to know
-
 ![Hantavirus: the risks, the science and what you need to know](https://i.scdn.co/image/ab67656300005f1f8ea10197d6d32374c68ddb2f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:57
 
 **Released:** 2026
 
@@ -908,7 +906,7 @@ On May 2, the World Health Organization got an alarming report: People aboard a 
 
 ![How Do You Kill a Mosquito?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:36:25
 
 **Released:** 2026
 
@@ -928,7 +926,7 @@ Mosquitoes are little jerks. They suck your blood to make more mosquitoes, sprea
 
 ![Inside The Race To Save Honeybees From Parasitic Mites](https://i.scdn.co/image/ab67656300005f1f18e48f25526772ae356d2c5e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:18:09
 
 **Released:** 2024
 
@@ -946,11 +944,9 @@ Last year, almost half of the honeybee colonies in the U.S. died, making it the 
 
 #### Oropouche Virus - More than a smidge worrisome
 
-# Ep 206 Oropouche Virus: More than a smidge worrisome
-
 ![Ep 206 Oropouche Virus: More than a smidge worrisome](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:12:38
 
 **Released:** 2026
 
@@ -970,7 +966,7 @@ Though discovered relatively recently, Oropouche virus has been making headlines
 
 ![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:42
 
 **Released:** 2026
 
@@ -986,7 +982,7 @@ Ticks are exponentially expanding their territory, using us for their next blood
 
 :::
 
-## Transcript
+##### Transcript
 
 **SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
 
@@ -1436,11 +1432,9 @@ Be careful out there, friends!**
 
 #### Parasitic Bugs Are Making Combacks Across The Country
 
-# Science: Parasitic Bugs Are Making Combacks Across The Country
-
 ![Science: Parasitic Bugs Are Making Combacks Across The Country](https://i.scdn.co/image/ab67656300005f1fc26403737b5cdf5fba559b7c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:44:51
 
 **Released:** 2026
 
@@ -1460,7 +1454,7 @@ In 1966, the United States declared victory over a destructive flesh-eating para
 
 ![Return of Alpha Gal](https://i.scdn.co/image/ab67656300005f1fc89d7cd6fe57023593e6c87a)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:00:00
 
 **Released:** 2021
 
@@ -1478,11 +1472,9 @@ Tuck your napkin under your chin.  We’re about to serve up a tale of love, lo
 
 #### Rift Valley Fever - Ruminating on ruminants
 
-# Ep 164 Rift Valley Fever: Ruminating on ruminants
-
 ![Ep 164 Rift Valley Fever: Ruminating on ruminants](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:15:26
 
 **Released:** 2025
 
@@ -1502,7 +1494,7 @@ Hemorrhagic virus? Check. Deadly disease? Check. Mosquito-borne? Check. Affected
 
 ![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:59
 
 **Released:** 2026
 
@@ -1521,7 +1513,7 @@ The most ferocious predator for us humans is actually quite small: the mosquito.
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5806598/nx-s1-mx-5806598-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 SPEAKER: You're listening to Short Wave from NPR.
 
@@ -1685,7 +1677,7 @@ KWONG: Check out the show. It's really good. You can find it all the places you 
 
 ![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:14
 
 **Released:** 2026
 
@@ -1705,7 +1697,7 @@ In the grand scheme of things, Lyme disease is a fairly new scientific discovery
 
 ![1045 - What's Next for a New Lyme Vaccine](https://i.scdn.co/image/ab67656300005f1f6acea551cf6af001e255a691)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:55
 
 **Released:** 2026
 
@@ -1727,17 +1719,17 @@ About this episode: A new vaccine shows 70% efficacy in preventing Lyme disease,
 
 **CBS New York**, *08 06, 2026*
 
-## Video (1:56)
+##### Video (1:56)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 There have been fewer complaints about rats to 311, which appears to show trash container efforts are working. CBS News New York's Dave Carlin reports. 
 
 For video licensing inquiries, contact: licensing@veritone.com
 
-## Transcript
+##### Transcript
 
 **0:04** · CALL IT A TRASHY TRIUMPH FOR CITY LEADERS IN THEIR WAR AGAINST RATS. AS DAVE CARLIN REPORTS, FEWER COMPLAINTS ABOUT RATS TO 311 APPEAR TO SHOW THOSE CONTAINER EFFORTS ARE WORKING.
 

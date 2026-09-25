@@ -127,11 +127,11 @@ listing:
 
 **Be Smart**, *11 17, 2014*
 
-## Video (9:11)
+##### Video (9:11)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/z9gHuAwxwAs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 This time, we're the asteroid.
 
@@ -200,9 +200,9 @@ Facebook
 
 https://www.facebook.com/itsokaytobesmartpbs/
 
-## Transcript
+##### Transcript
 
-### The history of extinction
+###### The history of extinction
 
 **0:02** · [MUSIC] The California Golden Bear The Great Auk The Passenger pigeon The Tasmanian tiger The Pinta Island tortoise The Golden toad All dead. And the killer is right there in the room with you.
 
@@ -212,7 +212,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **1:05** · Even kids are used to the idea that sometimes groups of living things just… don’t exist anymore. Okay, mostly don’t exist.
 
-### Discovering mass events
+###### Discovering mass events
 
 **1:13** · But extinction, as a thing, is a surprisingly new concept. In the 1790’s, by studying various fossils, naturalist Georges Cuvier was the first to show that they were not from living, yet undiscovered creatures, as many thought, but from what he called “lost species”.
 
@@ -222,7 +222,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **2:36** · Everything alive today is a descendent of a survivor of that terrible, horrible, no good, very bad day, the so-called Cretaceous-Paleogene mass extinction event, the most recent of the Big 5.
 
-### The big five extinctions
+###### The big five extinctions
 
 **2:50** · You should feel pretty lucky. When we look at all of Earth’s fossil record together, 98% of the species that have ever lived are extinct,. Only they haven’t always disappeared at a constant rate.
 
@@ -232,7 +232,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **3:34** · We’ve learned about all these just in time to get some bad news: We are in the 6th mass extinction, and this time, we are the asteroid.
 
-### The sixth mass extinction
+###### The sixth mass extinction
 
 **3:46** · The hard facts of life mean that even when things are going pretty well on Earth, there’s a background rate of extinction. Among mammals, for instance, we’d expect to see one species go extinct every 700 years, or maybe one amphibian every thousand years.
 
@@ -250,7 +250,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **5:05** · With the exception of maybe the first bacteria to breathe oxygen into the air, no living thing has ever altered life on Earth to the degree that we have, which is why scientists now refer to current epoch as the Anthropocene.
 
-### Drivers of species loss
+###### Drivers of species loss
 
 **5:18** · "We are the ultimate problem. There are 7 billion people on the planet, we tend to destroy critical habitats where species live, we tend to be warming the planet, we tend to be very careless about moving species around the planet."
 
@@ -264,7 +264,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **7:17** · Dirzo gives this loss of animal life a rather harmless sounding name: Defaunation. But there is nothing cute about it. There is not a group of living things on Earth today that is not threatened by the current and coming extinction. That includes us.
 
-### Why saving species matters
+###### Why saving species matters
 
 **7:34** · Extinction is about more than gorillas, tigers, polar bears, and rhinos, and the dozens of other “famous” or “charismatic” species out there. Those are all important and worth saving, but we need to care just as much about the humble beetles, the ugly little worms, and the slimy frogs.
 
@@ -286,11 +286,11 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **Vox**, *11 13, 2025*
 
-## Video (7:55)
+##### Video (7:55)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/14pAZJMgnZw?start=228 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Earth’s population is growing. We’re expected to have 2 billion more mouths to feed by 2050. But how can we feed all those people in a way that is still sustainable and ethical? Many have argued that aquaculture (or fish farming) is one of the most sustainable ways we can consume animal protein, since it requires less land use. It’s currently the quickest-growing form of food production in the world. But how exactly does it work? And is it really the best path forward? 
 
@@ -330,7 +330,7 @@ Or Twitter: http://goo.gl/XFrZ5H
 
 This video has been updated to remove fish research footage.
 
-## Transcript
+##### Transcript
 
 **0:00** · I eat meat.
 
@@ -517,6 +517,6 @@ This video has been updated to remove fish research footage.
 
 <iframe width="560" height="315" title="Hulu Video" allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://www.hulu.com/watch/1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7></iframe>
 
-## Description
+##### Description
 
 The world’s leading natural historian draws on a lifetime of knowledge to reveal how Earth’s vast,  ,interconnected waterways can be restored.…SEE MORE

@@ -25,7 +25,7 @@ listing:
 
 ![May 31, 2019: A new approach to fighting malaria](https://i.scdn.co/image/ab67656300005f1fc76cbaa837eb7407972b777c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:25:28
 
 **Released:** 2019
 
@@ -45,7 +45,7 @@ Each year, more than 200 million people around the world are infected with malar
 
 ![A New Test for Lyme Disease, Developed by High Schoolers](https://i.scdn.co/image/ab67656300005f1fc1c64c85fdbadf1d805af5c4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:50
 
 **Released:** 2026
 
@@ -65,11 +65,11 @@ About this episode:   A group of students from suburban Atlanta has developed 
 
 #### Acaropathology (TICKS + LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
 
-# Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
+##### Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
 
 ![Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 02:32:48
 
 **Released:** 2023
 
@@ -89,7 +89,7 @@ It’s 2-for-1! Ticks AND Lyme: together in one helpful, disgusting, gossipy, em
 
 ![Special Episode: Adam Kucharski & Proof](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:50:05
 
 **Released:** 2026
 
@@ -107,11 +107,9 @@ Why do we believe what we believe? Is what we believe the truth? How can we conv
 
 #### Climate - Fighting Extreme Heat In 2026
 
-# Climate: Fighting Extreme Heat In 2026
-
 ![Climate: Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:17
 
 **Released:** 2026
 
@@ -127,9 +125,9 @@ Extreme heat isn’t just an inconvenience. It’s a growing public health threa
 
 :::
 
-## Transcript
+##### Transcript
 
-##### DISCLAIMER
+###### DISCLAIMER
 
 Transcripts of WAMU programs are available for personal use. Transcripts are provided "As Is" without warranties of any kind, either express or implied. WAMU does not warrant that the transcript is error-free. For all WAMU programs, the broadcast audio should be considered the authoritative version. Transcripts are owned by WAMU 88.5 FM American University Radio and are protected by laws in both the United States and international law. You may not sell or modify transcripts or reproduce, display, distribute, or otherwise use the transcript, in whole or in part, in any way for any public or commercial purpose without the express written permission of WAMU. All requests for uses beyond personal and noncommercial use should be referred to [(202) 885-1200](tel:2028851200).
 
@@ -411,11 +409,11 @@ Transcripts of WAMU programs are available for personal use. Transcripts are pro
 
 #### Daniel Stone & American Poison
 
-# Special Episode: Daniel Stone & American Poison
+##### Special Episode: Daniel Stone & American Poison
 
 ![Special Episode: Daniel Stone & American Poison](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:57:31
 
 **Released:** 2026
 
@@ -433,11 +431,11 @@ The widespread use of leaded gasoline in the 20th century led to one of the worl
 
 #### Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei
 
-# Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei
+##### Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei
 
 ![Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei](https://i.scdn.co/image/ab67656300005f1f66221027296ed7a75e118c2f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:12:54
 
 **Released:** 2019
 
@@ -457,7 +455,7 @@ Lyme Disease! Powassan virus! That Lonestar tick meat allergy! Paralysis ticks! 
 
 ![Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:03:51
 
 **Released:** 2022
 
@@ -477,7 +475,7 @@ Oh boy. This episode may seeeeem crappy but it is certainly not a waste of your 
 
 ![Epidemiology (DISEASES) with 'This Podcast Will Kill You's' Erins Welsh & Allmann-Updyke](https://i.scdn.co/image/ab67656300005f1f23459bd2ed173dece5351431)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:30:28
 
 **Released:** 2018
 
@@ -495,11 +493,9 @@ TWO epidemiologists-named-Erin -- and hosts of the stellar This Podcast Will Kil
 
 #### Hantavirus - the risks, the science and what you need to know
 
-# Hantavirus: the risks, the science and what you need to know
-
 ![Hantavirus: the risks, the science and what you need to know](https://i.scdn.co/image/ab67656300005f1f8ea10197d6d32374c68ddb2f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:57
 
 **Released:** 2026
 
@@ -517,11 +513,9 @@ On May 2, the World Health Organization got an alarming report: People aboard a 
 
 #### How Do Urban Landscapes Shape Our Health?
 
-# LIVE RECORDING: How Do Urban Landscapes Shape Our Health?
-
 ![LIVE RECORDING: How Do Urban Landscapes Shape Our Health?](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:37:04
 
 **Released:** 2025
 
@@ -541,7 +535,7 @@ A special live Commencement & Reunion Weekend episode of Humans in Public Health
 
 ![How PFAS From A Military Base Has Sickened Nearby Residents](https://i.scdn.co/image/ab67656300005f1f60aee25b93021ffaa1295d92)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:44
 
 **Released:** 2025
 
@@ -561,7 +555,7 @@ For decades, residents of the small city of Newburgh, New York, were unknowingly
 
 ![Messy Data, Real Answers](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:18:42
 
 **Released:** 2025
 
@@ -581,7 +575,7 @@ In a world teeming with health data—from smart watch accelerometry to millions
 
 ![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:42
 
 **Released:** 2026
 
@@ -597,7 +591,7 @@ Ticks are exponentially expanding their territory, using us for their next blood
 
 :::
 
-## Transcript
+##### Transcript
 
 **SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
 
@@ -1049,7 +1043,7 @@ Be careful out there, friends!**
 
 ![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:16:29
 
 **Released:** 2011
 
@@ -1067,7 +1061,7 @@ The greatest mysteries have a shadowy figure at the center—someone who sets th
 
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/1541748/&share=1"></iframe>
 
-## Transcript
+##### Transcript
 
 Patient Zero
 
@@ -2427,11 +2421,9 @@ Patient Zero
 
 #### Rift Valley Fever - Ruminating on ruminants
 
-# Ep 164 Rift Valley Fever: Ruminating on ruminants
-
 ![Ep 164 Rift Valley Fever: Ruminating on ruminants](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:15:26
 
 **Released:** 2025
 
@@ -2449,11 +2441,9 @@ Hemorrhagic virus? Check. Deadly disease? Check. Mosquito-borne? Check. Affected
 
 #### The Great Smog of London - “Thick, drab, yellow, disgusting”
 
-# Ep 185 The Great Smog of London: “Thick, drab, yellow, disgusting”
-
 ![Ep 185 The Great Smog of London: “Thick, drab, yellow, disgusting”](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:14:17
 
 **Released:** 2025
 
@@ -2473,7 +2463,7 @@ Some things just go together: peanut butter and jelly, bacon and eggs, milk and 
 
 ![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:14
 
 **Released:** 2026
 
@@ -2493,7 +2483,7 @@ In the grand scheme of things, Lyme disease is a fairly new scientific discovery
 
 ![We're better off with health equity](https://i.scdn.co/image/ab67656300005f1ff042bb95667b202b68270f75)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:46
 
 **Released:** 2021
 
@@ -2513,7 +2503,7 @@ This spring, public health officials have been laser-focused on getting more Ame
 
 ![Why Does Everyone Have Food Allergies These Days?](https://i.scdn.co/image/ab67656300005f1f42ebd2bae4f5c04510b849bb)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:53:45
 
 **Released:** 2024
 

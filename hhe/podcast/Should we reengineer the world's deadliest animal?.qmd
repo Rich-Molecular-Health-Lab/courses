@@ -11,7 +11,7 @@ categories:
 
 ![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:59
 
 **Released:** 2026
 

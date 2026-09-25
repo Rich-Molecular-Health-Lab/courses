@@ -25,11 +25,11 @@ listing:
 
 **PBS**, *09 03, 2026*
 
-## Video (9:59)
+#### Video (9:59)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/wXoqEJlsKu0?start=2 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 Watch more of this series: https://to.pbs.org/4wkQIAG
 
@@ -61,7 +61,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 #heat #heatwave #extremeweather #climatesolutions
 
-## Transcript
+#### Transcript
 
 **0:01** · MILES O'BRIEN: At the iconic Sydney Opera House, I met a scientist looking for an answer.
 
@@ -285,11 +285,11 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **Did You See This?**, *07 21, 2021*
 
-## Video (7:14)
+#### Video (7:14)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/E6WI_RWNrCU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 The urban heat island effect is a phenomenon affecting more than 100 cities across the U.S. — here’s how it works and why it disproportionately impacts communities of color.
 
@@ -321,17 +321,17 @@ http://www.youtube.com/nowthisearth
 
 @NowThisEarth
 
-## Transcript
+#### Transcript
 
 ### Heatwave What is the urban heat island effect
 
 **Sky News**, *07 15, 2022*
 
-## Video (2:40)
+#### Video (2:40)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/YX3C3eq2MJY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 Extreme heat is going to be felt across the country, but it's our cities that will be worst hit, as a phenomenon called the urban heat island effect drives temperatures even higher. 
 
@@ -363,7 +363,7 @@ Sky News videos are also available in German here/Hier können Sie außerdem Sky
 
 To enquire about licensing Sky News content, you can find more information here:  https://news.sky.com/info/library-sales
 
-## Transcript
+#### Transcript
 
 **0:00** · our towns and cities just weren't built to be this hot baked by the sun with little shade urban living can be stifling at mossborne parkside academy in east london the children are well drilled the school is victorian and keeping the classrooms cool is a challenge
 
@@ -383,25 +383,23 @@ To enquire about licensing Sky News content, you can find more information here:
 
 **Jonathan Pickett**, *09-13-2026*
 
-## Documentary Film (00:15:42)
+#### Documentary Film (00:15:42)
 
 <iframe title="vimeo-player" src=https://player.vimeo.com/video/1226433979?h=016606b872 width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-## Description
+#### Description
 
 Filmed during the hottest days of Phoenix, Arizona’s summer heatwave, A NEW INFERNO follows paramedics as they race to save the lives of heatstroke victims using a radical new treatment: ice immersion therapy.  As featured on the NY Times Op Docs — We Are Living in a New Inferno  World Premiere SXSW Film Festival, 2026  Featuring Jason Smith, Jake West, Roy Lewis, & Colter Fosdick Directed & Produced by Nita Blum-Reddick & Jonathan Pickett Executive Producers Sam Osborn, Alejandra Vasquez, & Jesse Ray Sheps Cinematographer Ryan Dent  Editor Jonathan Pickett  Composer Jack Gillette Production Sound Mixer Daniel Reddick  Grips Stephane Strande & Brian Osback Sound Design & Mix Hansdale Hsu Colorist Keyhan Bayegan Production Assistant Camden Smith Title & Poster Designer Jason Cryer Weather Consultant Jorge Torres Advisors Dr. Charles Finch, Medical Director, Phoenix Fire Department & Maki Lloyd, Deputy Chief, Phoenix Fire Department  For The New York Times Op-Docs: Associate Producers Ingrid Homquist & Rebecca Shaid Producer Yvonne Ashley Kouadjo Senior Producer Andrew Blackwell Executive Producer Alexandra Garcia  Please consider supporting the ongoing work of Circle the City: www.circlethecity.org  Festivals: • Tribeca x NYT Op-Docs • Mountainfilm • Rooftop Films • Palm Springs International ShortFest • Indy Shorts Film Festival • HollyShorts Film Festival • Nashville Film Festival • Bend Film Festival • Mill Valley Film Festival • Sidewalk Film Festival • deadCenter Film Festival • Ouray International Film Festival • Cinema Columbus • AfterImage Film Festival • Coast Film Festival
 
-## Transcript
+#### Transcript
 
 ## Assigned Background
 
 ### Climate - Fighting Extreme Heat In 2026
 
-# Climate: Fighting Extreme Heat In 2026
-
 ![Climate: Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:17
 
 **Released:** 2026
 
@@ -417,9 +415,9 @@ Extreme heat isn’t just an inconvenience. It’s a growing public health threa
 
 :::
 
-## Transcript
+#### Transcript
 
-##### DISCLAIMER
+###### DISCLAIMER
 
 Transcripts of WAMU programs are available for personal use. Transcripts are provided "As Is" without warranties of any kind, either express or implied. WAMU does not warrant that the transcript is error-free. For all WAMU programs, the broadcast audio should be considered the authoritative version. Transcripts are owned by WAMU 88.5 FM American University Radio and are protected by laws in both the United States and international law. You may not sell or modify transcripts or reproduce, display, distribute, or otherwise use the transcript, in whole or in part, in any way for any public or commercial purpose without the express written permission of WAMU. All requests for uses beyond personal and noncommercial use should be referred to [(202) 885-1200](tel:2028851200).
 
@@ -703,7 +701,7 @@ Transcripts of WAMU programs are available for personal use. Transcripts are pro
 
 ![How The Current Heat Dome Can Affect Human Health](https://i.scdn.co/image/ab67656300005f1f63009efb8eab6ce32b692dbe)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:10:58
 
 **Released:** 2024
 
@@ -727,11 +725,9 @@ Right now, there's a "heat dome" lingering over the southwestern U.S. – a high
 
 #### A call for redesigning American streets
 
-# September 6, 2018: A call for redesigning American streets
-
 ![September 6, 2018: A call for redesigning American streets](https://i.scdn.co/image/ab67656300005f1f66c44134aeaf736a7005e3c5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:09
 
 **Released:** 2018
 
@@ -749,11 +745,9 @@ In this week’s podcast we’ll explore how America’s streets can be redesign
 
 #### Climate - Fighting Extreme Heat In 2026
 
-# Climate: Fighting Extreme Heat In 2026
-
 ![Climate: Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:17
 
 **Released:** 2026
 
@@ -769,9 +763,9 @@ Extreme heat isn’t just an inconvenience. It’s a growing public health threa
 
 :::
 
-## Transcript
+##### Transcript
 
-##### DISCLAIMER
+###### DISCLAIMER
 
 Transcripts of WAMU programs are available for personal use. Transcripts are provided "As Is" without warranties of any kind, either express or implied. WAMU does not warrant that the transcript is error-free. For all WAMU programs, the broadcast audio should be considered the authoritative version. Transcripts are owned by WAMU 88.5 FM American University Radio and are protected by laws in both the United States and international law. You may not sell or modify transcripts or reproduce, display, distribute, or otherwise use the transcript, in whole or in part, in any way for any public or commercial purpose without the express written permission of WAMU. All requests for uses beyond personal and noncommercial use should be referred to [(202) 885-1200](tel:2028851200).
 
@@ -1055,7 +1049,7 @@ Transcripts of WAMU programs are available for personal use. Transcripts are pro
 
 ![Climate Change and Extreme Heat End of Summer Episode with Dr. Kelly Turner and Dr. Ladd Keith](https://i.scdn.co/image/ab67656300005f1fe59f9a339398e497c814e46f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:53:01
 
 **Released:** 2023
 
@@ -1073,11 +1067,9 @@ In episode  192 of America Adapts, Doug Parsons hosts Dr. Kelly Turner and Dr. L
 
 #### Heat is a 'silent killer'
 
-# January 24, 2019: Heat is a 'silent killer'
-
 ![January 24, 2019: Heat is a 'silent killer'](https://i.scdn.co/image/ab67656300005f1f1d0a94cdd6f44776319888fe)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:32:54
 
 **Released:** 2019
 
@@ -1097,7 +1089,7 @@ Climate change will mean more extreme weather, including heat waves. And it’s 
 
 ![How The Current Heat Dome Can Affect Human Health](https://i.scdn.co/image/ab67656300005f1f63009efb8eab6ce32b692dbe)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:10:58
 
 **Released:** 2024
 
@@ -1119,7 +1111,7 @@ Right now, there's a "heat dome" lingering over the southwestern U.S. – a high
 
 ![Why are scientists planting tiny forests in big cities?](https://i.scdn.co/image/ab67656300005f1f644d6e6a158e6aa90066442e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:12
 
 **Released:** 2026
 
@@ -1137,11 +1129,11 @@ Healthy forests help combat climate change, provide humans with drinking water a
 
 #### Why Heat Waves Become Deadly
 
-# Presenting: The Carbon Copy – Why Heat Waves Become Deadly
+##### Presenting: The Carbon Copy – Why Heat Waves Become Deadly
 
 ![Presenting: The Carbon Copy – Why Heat Waves Become Deadly](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:23
 
 **Released:** 2022
 
@@ -1163,11 +1155,11 @@ Today we’re sharing an episode of The Carbon Copy, a climate change podcast pr
 
 **American Museum of Natural History**, *08 11, 2018*
 
-## Video (1:42)
+##### Video (1:42)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/xri0kqT-HUM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Cities tend to be much warmer than their surrounding areas, and global warming is exacerbating this heat island effect. Painting roofs white helps cool buildings and lower energy demand. In New York City, installing these reflective rooftops supports the City's goal to reduce carbon emissions by 80 percent by 2050.
 
@@ -1196,7 +1188,7 @@ This video and all media incorporated herein (including text, images, and audio)
 
 © American Museum of Natural History, New York, NY
 
-## Transcript
+##### Transcript
 
 **0:02** · COMMISSIONER GREGG BISHOP: The "urban heat island" effect affects a lot of cities like New York. Because a tremendous amount of buildings, a lot of concrete, and little vegetation increases the overall temperature of the city. And when the city is really, really, really hot, it affects the health of our citizens, individuals who may suffer from asthma, or may be susceptible to heat waves, our elderly population. So, heat actually affects life and safety.
 
@@ -1222,15 +1214,13 @@ This video and all media incorporated herein (including text, images, and audio)
 
 #### Extreme Heat Is the New Normal
 
-# Extreme Heat Is the New Normal  Op-Docs
-
 **New York Times Opinion**, *08 28, 2026*
 
-## Video (15:42)
+##### Video (15:42)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/QcHuAtK_H_8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 We filmed “A New Inferno,” the short documentary above, in Phoenix, one of the hottest cities in America, through some of the city’s hottest days of 2025, during one of the hottest years on record globally. On one of our production days, temperatures reached 118 while we were filming outside.
 
@@ -1258,9 +1248,9 @@ Subscribe: http://bit.ly/U8Ys7n
 
 14:40 Facing a warming world
 
-## Transcript
+##### Transcript
 
-### Phoenix is only getting hotter
+###### Phoenix is only getting hotter
 
 **0:00** · [SIREN]
 
@@ -1318,7 +1308,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **2:04** · Go check his temp.
 
-### ‘The feedback loop of nightmares’
+###### ‘The feedback loop of nightmares’
 
 **2:08** · He’s overheated.
 
@@ -1372,7 +1362,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **3:50** · Arriving.
 
-### Ice bag immersion training simulation
+###### Ice bag immersion training simulation
 
 **3:56** · It’s going to be a 40s male, altered level of consciousness.
 
@@ -1514,7 +1504,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **7:36** · What’s the address?
 
-### How firefighters respond to heat-related emergencies
+###### How firefighters respond to heat-related emergencies
 
 **7:40** · OK. And is she awake right now?
 
@@ -1642,7 +1632,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **12:50** · Like, he was at that threshold to where it’s a few more minutes.
 
-### ‘He was really close. He was at that threshold.’
+###### ‘He was really close. He was at that threshold.’
 
 **12:58** · Like, if somebody didn’t find him at that particular moment.
 
@@ -1686,11 +1676,11 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **Bloomberg Originals**, *03 08, 2023*
 
-## Video (12:22)
+##### Video (12:22)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/XCAVWXHHnqg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Humans are increasingly reliant on air conditioning, but its use contributes to global warming. As the world warms and demand rises, how can we make A/C sustainable? In Spain and India, Kal Penn explores two innovative solutions. 
 
@@ -1720,9 +1710,9 @@ Subscribe for business news, but not as you've known it: exclusive interviews, f
 
 Visit our partner channel Bloomberg Quicktake for global news and insight in an instant.
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:04** · Cooling, whether that's air conditioning or refrigerators is probably one of the biggest challenges we face with respect to climate change.
 
@@ -1742,7 +1732,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **1:01** · Turns out some of the solutions already existed centuries ago.
 
-### Cool roofs
+###### Cool roofs
 
 **1:10** · Dr. Denia Kolokotsa has been studying energy efficiency in buildings for the last three decades.
 
@@ -1770,7 +1760,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **2:16** · Passive cooling in Egypt is to have smaller openings and smaller windows in order not to allow the sun to come in.
 
-### Madrids fish market
+###### Madrids fish market
 
 **2:27** · Madrid is notoriously hot in the summer.
 
@@ -1800,7 +1790,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **4:58** · So cool roofs are helping this market, but in order to make a dent in the global demand for cooling we need multiple solutions working at once.
 
-### Skycool
+###### Skycool
 
 **5:11** · In California, a company has come up with a new cooling technology that is also inspired by ancient wisdom.
 
@@ -1832,7 +1822,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **7:17** · They say their clients save cooling energy by 15-20% but Skycool is also keen to introduce their technology to emerging economies like India, where demand for cooling is expected to skyrocket.
 
-### India
+###### India
 
 **7:35** · Recently, they've partnered with industrial equipment maker Trane to help Indian street vendors who have little access to refrigerators.
 
@@ -1914,11 +1904,11 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **Sky News**, *07 15, 2022*
 
-## Video (2:40)
+##### Video (2:40)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/YX3C3eq2MJY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Extreme heat is going to be felt across the country, but it's our cities that will be worst hit, as a phenomenon called the urban heat island effect drives temperatures even higher. 
 
@@ -1950,7 +1940,7 @@ Sky News videos are also available in German here/Hier können Sie außerdem Sky
 
 To enquire about licensing Sky News content, you can find more information here:  https://news.sky.com/info/library-sales
 
-## Transcript
+##### Transcript
 
 **0:00** · our towns and cities just weren't built to be this hot baked by the sun with little shade urban living can be stifling at mossborne parkside academy in east london the children are well drilled the school is victorian and keeping the classrooms cool is a challenge
 
@@ -1970,11 +1960,11 @@ To enquire about licensing Sky News content, you can find more information here:
 
 **Vox**, *09 20, 2021*
 
-## Video (6:48)
+##### Video (6:48)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/ZQ6fSHr5TJg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Can trees help save Phoenix from extreme heat?
 
@@ -2025,7 +2015,7 @@ Follow Vox on Facebook: http://goo.gl/U2g06o
 
 Or Twitter: http://goo.gl/XFrZ5H
 
-## Transcript
+##### Transcript
 
 **0:02** · I’m looking at a map of surface temperatures in the Phoenix metro area.
 
@@ -2231,11 +2221,11 @@ Or Twitter: http://goo.gl/XFrZ5H
 
 **NPR**, *07 12, 2017*
 
-## Video (3:49)
+##### Video (3:49)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/FlJoBhLnqko title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 We took a field trip to the largest green roof in New York City. Then we imagined what the city could be like if all of its roof space was green. 
 
@@ -2261,9 +2251,9 @@ ABOUT NPR
 
 NPR connects to audiences on the air, on demand, online, and in person. More than 26 million radio listeners tune in to NPR stations each week and more than 36 million unique visitors access NPR.org each month making NPR one of the most trusted sources of news and insights on life and the arts. NPR is also the leading publisher of podcasts, with 36 original shows and an average of 4 million listeners per week. NPR shares compelling stories, audio and photos with millions of social media users on Facebook, Twitter, Instagram, Pinterest, YouTube and Snapchat; NPR News and NPR One apps, online streaming, podcasts, iTunes radio and connected car dashboards help meet audiences where they are. NPR's live events bring to the stage two-way conversations between NPR hosts and the audience in collaboration with the public radio Member Station community. This robust access to public service journalism makes NPR an indispensable resource in the media landscape.
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:01** · This is the largest green roof in New York City.
 
@@ -2293,7 +2283,7 @@ into a saving of about 3 million dollars.
 
 **0:55** · That is impressive.
 
-### Green Roofs
+###### Green Roofs
 
 **0:58** · How does one green roof get so much done?
 
@@ -2315,7 +2305,7 @@ lot.
 
 **1:31** · And these surfaces create a lot of problems for cities That green roofs can actually help solve.
 
-### stormwater runoff
+###### stormwater runoff
 
 **1:38** · Let's take a look at three of these issues. The first is
 
@@ -2339,7 +2329,7 @@ drain and polluting the environment, ends up just evaporating the atmosphere
 
 through the leaves of these plants.
 
-### heat island effect
+###### heat island effect
 
 **2:13** · And then, there's what scientists call the "heat island effect," which basically means that cities are significantly warmer than the surrounding areas.
 
@@ -2349,7 +2339,7 @@ through the leaves of these plants.
 
 **2:30** · Green roofs, by comparison are close to air temperatures.
 
-### habitat loss
+###### habitat loss
 
 **2:34** · Another problem green roofs can help solve is habitat loss.
 
@@ -2363,7 +2353,7 @@ animals to survive.
 
 **2:59** · And these are just three of the problems that green roofs can help solve.
 
-### conclusion
+###### conclusion
 
 **3:03** · But to really put a dent in any of these issues cities would have to implement green roofs at a large scale.
 
@@ -2381,11 +2371,11 @@ gallons of stormwater each year.
 
 **Bloomberg Originals**, *03 17, 2021*
 
-## Video (9:49)
+##### Video (9:49)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/PM101DvvG4Q?start=96 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Heat waves kill more people than any other extreme weather event: more than tornados, hurricanes, and even floods. That’s why scientists are coming up with novel, new designs to help keep temperatures down in Singapore.
 
@@ -2401,9 +2391,9 @@ Subscribe for business news, but not as you've known it: exclusive interviews, f
 
 Visit our partner channel QuickTake News for breaking global news and insight in an instant.
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:01** · If you look at a thermal image of a city and then compare that to a map of vegetation, you'll find that where there's greenery, the temperature is lower.
 
@@ -2419,7 +2409,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **0:54** · The government-backed project called Cooling Singapore is now in the process of combining everything they've learned to create a digital tool that can help cities all over the world, starting with Singapore.
 
-### Cooling Singapore
+###### Cooling Singapore
 
 **1:10** · In Singapore, close to the equator, temperatures regularly rise above 32 degrees Celsius or 90 degrees Fahrenheit.
 
@@ -2453,7 +2443,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **3:18** · It's a vicious circle.
 
-### Vegetation
+###### Vegetation
 
 **3:20** · And so since 2017, researchers at Cooling Singapore have been identifying design solutions that reduce our need for so much cool air in the first place.
 
@@ -2471,7 +2461,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **4:05** · But vegetation can also go up the facades of buildings and it can go to the roof of the buildings.
 
-### Garden City Feel
+###### Garden City Feel
 
 **4:14** · Luckily, Singapore has been striving for the Garden City feel for quite some time.
 
@@ -2497,7 +2487,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **5:39** · But it's not enough.
 
-### Heat Mitigation
+###### Heat Mitigation
 
 **5:41** · The city-state has still been warming twice as quickly as the world average over the past six decades.
 
@@ -2529,7 +2519,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **7:10** · If all the roofs and the areas in the buildings, on the buildings, on the facades would be used to do that.
 
-### Urban Climate Twin
+###### Urban Climate Twin
 
 **7:20** · With so many different ideas, Cooling Singapore is also designing a virtual model of the city to test them out.
 
@@ -2543,7 +2533,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **8:09** · And if they test very well and we are sure that they will function, then we can start to build them and put them into reality.
 
-### Conclusion
+###### Conclusion
 
 **8:23** · Singapore will be using this new tool to figure out which actions it should take next.
 
@@ -2561,11 +2551,11 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **Science Magazine**, *10 09, 2020*
 
-## Video (4:08)
+##### Video (4:08)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/_KfklILeNZg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Historically Black and immigrant communities are more vulnerable to environmental stressors
 
@@ -2649,7 +2639,7 @@ music
 
 "Vultures" by Chris Burns
 
-## Transcript
+##### Transcript
 
 **0:01** · The urban environment is a feat of human decision-making— from where to develop street grids lined with large glass office buildings, to which green spaces to preserve for outdoor recreation.
 
@@ -2705,11 +2695,11 @@ music
 
 **Did You See This?**, *07 21, 2021*
 
-## Video (7:14)
+##### Video (7:14)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/E6WI_RWNrCU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The urban heat island effect is a phenomenon affecting more than 100 cities across the U.S. — here’s how it works and why it disproportionately impacts communities of color.
 
@@ -2741,17 +2731,17 @@ http://www.youtube.com/nowthisearth
 
 @NowThisEarth
 
-## Transcript
+##### Transcript
 
 #### How urban heat islands make the impacts of excessive heat worse
 
 **PBS NewsHour**, *07 27, 2023*
 
-## Video (6:11)
+##### Video (6:11)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/WAqNDArb70M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Living in certain parts of a city can make the impacts of extreme heat worse. That’s because of a phenomenon called the urban heat island effect. A recent report by the research group Climate Central showed that more than 40 million Americans live in these hot spots. William Brangham discussed what this means for those residents with Michael Mendez of the University of California, Irvine.
 
@@ -2777,9 +2767,9 @@ PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
 
 Newsletters: https://www.pbs.org/newshour/subscribe
 
-## Transcript
+##### Transcript
 
-### What is an urban heat island
+###### What is an urban heat island
 
 **0:00** · WILLIAM BRANGHAM: So, in addition to the dangers faced by where someone works, sometimes, where you live can also make the impacts of extreme heat worse, like living in certain parts of a city.
 
@@ -2809,7 +2799,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **2:29** · WILLIAM BRANGHAM: I cited this study that says that millions of Americans are living in -- under these types of conditions that you're describing.
 
-### Can you explain why certain people are more vulnerable
+###### Can you explain why certain people are more vulnerable
 
 **2:36** · But I also understand that it is not equally spread across demographics, that certain people are more vulnerable than others. Can you explain?
 
@@ -2819,7 +2809,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **3:16** · So it's no surprise, when a heat wave or other type of extreme weather event strikes these communities, they're the least prepared and often suffered the most impacts, because they don't have -- they have crumbling infrastructure, and they don't have the amenities that will protect them and make them more resilient from our changing and extreme climate.
 
-### What are the possible solutions
+###### What are the possible solutions
 
 **3:36** · WILLIAM BRANGHAM: You have been describing or hinting at a few of what seem like the possible solutions here.
 
@@ -2833,7 +2823,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **4:38** · They can clean our water, recharge our groundwater, but also provide green space and recreational spaces. So, we need to look for multibenefit policies and projects that attack multiple problems that climate change is causing our urban areas and throughout our nation.
 
-### What communities are doing
+###### What communities are doing
 
 **4:56** · WILLIAM BRANGHAM: I mean, some of these things you're talking about seem quite quick. I mean, you can paint a roof a different color quite quickly. Trees, we know, take longer to grow.
 
@@ -2853,11 +2843,11 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **NASA Goddard**, *12 10, 2010*
 
-## Video (2:23)
+##### Video (2:23)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/lnBO4vX82Fs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 At the 2010 American Geophysical Union (AGU) conference in San Francisco, Dr. Ping Zhang will present her findings on the Urban Heat Island effect.  The data collected spans from 1995 to 2005 and will give scientists an idea of why cities are warmer than their surrounding areas, as well as what effect this will have on the planet.
 
@@ -2875,23 +2865,23 @@ Or find us on Twitter:
 
 ‪http://twitter.com/NASAGoddard‬
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:08** · Urban heat islands affect human health and it affects energy consumption. Those two things alone are enough to drive worldwide interest. (Zhang) When we build an urban area, we're replacing the vegetated surface and also the soil surface with this imperious surface like the paving material and the building material. By doing this, we're basically warming the urban areas, and this will generate a temperature difference.
 
-### What is Urban Heat Island
+###### What is Urban Heat Island
 
 **0:36** · And that's what we can the urban heat island. We find out that the urban heat island affected by several factors.
 
-### Factors affecting Urban Heat Island
+###### Factors affecting Urban Heat Island
 
 **0:44** · The first factor will be the surrounding ecological context.
 
 **0:48** · And then will be the size of the city. When talking about size, we can we mean both the area of the city and also the population size of the city. And then will be the shape of the city and also the development patterns of the city.
 
-### Urban Heat Island
+###### Urban Heat Island
 
 **1:04** · (Imhoff) We used a variety of satellite data, both land surface data from MODIS and also impervious surface data from the Landsat satellite. Inpervious surface data essentially tells us how much building material is on the land surface in order to study the urban heat island. The urban heat island is much larger if you convert a forested area into an urban. And this is because the urban heat island is a relative measure. So, urban areas in forests are much warmer than the surrounding landscape than they are in deserts for example, because the surrounding landscape is already warm.
 
@@ -2903,11 +2893,11 @@ Or find us on Twitter:
 
 **PBS**, *09 03, 2026*
 
-## Video (9:59)
+##### Video (9:59)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/wXoqEJlsKu0?start=2 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/4wkQIAG
 
@@ -2939,7 +2929,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 #heat #heatwave #extremeweather #climatesolutions
 
-## Transcript
+##### Transcript
 
 **0:01** · MILES O'BRIEN: At the iconic Sydney Opera House, I met a scientist looking for an answer.
 
@@ -3163,11 +3153,11 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **PBS Terra**, *06 18, 2025*
 
-## Video (11:45)
+##### Video (11:45)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/7hBMbQ9de1g title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
 
@@ -3192,9 +3182,9 @@ Tiktok: https://www.tiktok.com/@pbsterra
 
 Instagram:  https://instagram.com/pbsterra
 
-## Transcript
+##### Transcript
 
-### The new era of extreme heat
+###### The new era of extreme heat
 
 
 **0:00** · Most of the deadliest heat waves to date have been dry heat waves. But as our climate warms a possibly even deadlier heat is on the rise.
@@ -3213,7 +3203,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **1:00** · Stick around as we break down why these temperatures are so deadly and how we can prepare for a world that's so warm, our bodies literally can't handle it. Let's start by talking about dry versus humid heat. Dry heat waves are usually driven by large high pressure systems that trap hot air near the surface. These systems push air downward, and as the air compresses, it heats up in a process called adiabatic heating.
 
-### Dry vs. humid heat waves
+###### Dry vs. humid heat waves
 
 **1:33** · If the high stays stuck in place, the heat builds day after day with no clouds or wind to carry it away. And that's exactly what happened during the 2003 European heat wave and the 2021 Pacific Northwest heat dome. Now let's take a look at humid heat.
 
@@ -3223,7 +3213,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **2:26** · Humans primarily cool down by sweating, but when the air is humid, sweat can't evaporate as easily, so we don't cool off as well. This is where wet-bulb comes into play. wet-bulb temperature combines heat and humidity into a single number, which helps us understand when conditions become dangerous or even lethal.
 
-### Understanding wet bulb
+###### Understanding wet bulb
 
 
 **2:46** · You can imagine taking a normal thermometer. If you take that thermometer and you cover the bulb in a little sock that is then placed into a container of water, so it's constantly wetted. Evaporation's going to take place off of that little sock and it's gonna have a net cooling effect.
@@ -3234,7 +3224,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **3:31** · Which is why humid heat feels so muggy and uncomfortable for us and why it can be so dangerous. There have been a number of attempts to better understand how humid heat affects the human body, in particular where our physical limits are, but it's not easy to identify dangerous wet-bulb thresholds because well, they're dangerous.
 
-### Physiological limits of heat
+###### Physiological limits of heat
 
 
 **3:53** · So obviously you can't put someone in a heat chamber and truly cook them. That would be unethical. But what you can do is increase temperature and humidity and measure someone's core temperature and see what's the point at which their core temperature starts to increase. And that's the limit of compensability.
@@ -3251,7 +3241,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **5:31** · So according to their study, where on earth are we likely to cross these thresholds?
 
-### Future global heat impact
+###### Future global heat impact
 
 **5:37** · Well, at two degrees Celsius of global warming, which could come in as little as two decades for older adults. It's about a third of Earth's land area, but that only tells part of the story.
 
@@ -3259,7 +3249,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **6:01** · And if we let global warming get really out of hand or if climate sensitivity is just on the higher end of our projections at four degrees Celsius above pre-industrial levels, over 60% of Earth's landmass could see these dangerous wet-bulb temperatures. Heat is the deadliest weather disaster in the U.S. in many parts of the world, and it's projected to get a lot deadlier.
 
-### The necessity of cooling
+###### The necessity of cooling
 
 **6:26** · During the 2003 European heatwave, up to 3,400 people died in Paris alone. At two degrees Celsius, which is again only a couple decades away, scientists found that Paris will see deadly heat waves like this once every few years rather than once a century. And though this heat wave in 2003 was among the deadliest in recent history, it didn't get close to the dangerous wet-bulb thresholds we've been discussing in this episode.
 
@@ -3269,7 +3259,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **7:33** · It doesn't matter how breezy it is, it doesn't matter how much shade you're under, it doesn't matter how much water you're drinking. The only way you can protect yourself from these conditions is by cooling your environment. And so that is why air conditioning is really the major adaptation measure and protection measure that we have.
 
-### Risks of relying on AC
+###### Risks of relying on AC
 
 
 **7:51** · And although AC is one of the most important tools for surviving extreme heat, it's far from perfect. First of all, it's expensive. AC is energy intensive, and as our climate gets warmer, many people won't be able to afford to stay cool. And due to its financial inaccessibility, many people in places most vulnerable to deadly heat don't have access to AC. Second, air conditioning doesn't eliminate heat, it just moves it.
@@ -3280,7 +3270,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **9:07** · And these compounding hazards like a heat wave after a hurricane are a growing concern as we head towards unprecedented levels of warming for humans. And as weather across the board just gets more extreme, but there's one more catch. The more we rely on ac, the more we could be fueling the base problem of global warming.
 
-### Sustainable cooling solutions
+###### Sustainable cooling solutions
 
 
 **9:29** · If you tried to just build out air conditioning to deal with heat risk, how much would that contribute to carbon emissions across the world?
@@ -3297,7 +3287,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **10:30** · We can also build more cooling centers, upgrade our electrical grids to be more resilient and prioritize protecting the most vulnerable during heat waves. The truth is that we are headed into uncharted territory, but it's also true that we still have time to choose how bad it gets.
 
-### Conclusion and resources
+###### Conclusion and resources
 
 **10:48** · So do you live in an area that's already experiencing dangerously hot and humid conditions?
 
@@ -3311,11 +3301,11 @@ Instagram:  https://instagram.com/pbsterra
 
 **Vox**, *12 22, 2016*
 
-## Video (3:10)
+##### Video (3:10)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/aKyvGHycngM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Over 3 million people die annually from air pollution. Planting trees can help lower that number.
 
@@ -3337,9 +3327,9 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:00** · Search Google Earth for China and you’ll see this.
 
@@ -3355,7 +3345,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **0:25** · As officials explore options for fighting air pollution, there is one tool that is often overlooked: trees.
 
-### Air pollution
+###### Air pollution
 
 **0:35** · Cities are centers of industry, but the resulting pollution is filling our lungs and making us sick.
 
@@ -3369,7 +3359,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **1:10** · and in the Netherlands, designers have created a giant air purifier they call "The Smog Free Tower", which is cool, but there is another, simpler solution… A new report from The Nature Conservancy shows that planting trees can be a cost-effective way to improve public health, which they do in two ways: First, a tree removes particulate matter when polluted air blows through its branches.
 
-### Planting trees
+###### Planting trees
 
 **1:31** · The particulate matter settles on the leaves and when it rains the dust is washed down the gutter so we don’t inhale it.
 
@@ -3401,11 +3391,11 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **NPR**, *08 14, 2018*
 
-## Video (2:29)
+##### Video (2:29)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/Y-bVwPRy_no title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The way cities are designed and inhabited can make actually make them hotter. So what's the solution? We explore a few ideas for beating the urban heat. 
 
@@ -3435,7 +3425,7 @@ ABOUT NPR
 
 NPR connects to audiences on the air, on demand, online, and in person. More than 26 million radio listeners tune in to NPR stations each week and more than 36 million unique visitors access NPR.org each month making NPR one of the most trusted sources of news and insights on life and the arts. NPR is also the leading publisher of podcasts, with 36 original shows and an average of 4 million listeners per week. NPR shares compelling stories, audio and photos with millions of social media users on Facebook, Twitter, Instagram, Pinterest, YouTube and Snapchat; NPR News and NPR One apps, online streaming, podcasts, iTunes radio and connected car dashboards help meet audiences where they are. NPR's live events bring to the stage two-way conversations between NPR hosts and the audience in collaboration with the public radio Member Station community. This robust access to public service journalism makes NPR an indispensable resource in the media landscape.
 
-## Transcript
+##### Transcript
 
 **0:04** · There’s a reason that summers in the city are so hot, and it’s probably easiest to explain why with thermal vision.
 
@@ -3443,7 +3433,7 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **0:16** · Cities are often hotter than their suburbs due to a phenomenon known as “the heat island effect.”
 
-### The Heat Island Effect
+###### The Heat Island Effect
 
 **0:24** · All of that asphalt, concrete, dark rooftops and tall buildings— they absorb and store heat.
 
@@ -3467,7 +3457,7 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **1:25** · Another solution is color.
 
-### Color Light
+###### Color Light
 
 **1:27** · Light colors reflect sunlight back into the atmosphere instead of storing it as heat.
 
@@ -3475,7 +3465,7 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **1:39** · And one long-game way to combat the heat island effect is to avoid using air conditioning when you don’t need it.
 
-### Avoid Using Air Conditioning
+###### Avoid Using Air Conditioning
 
 **1:45** · AC uses a ton of electricity and creates a feedback loop.
 
@@ -3501,12 +3491,12 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **Jonathan Pickett**, *09-13-2026*
 
-## Documentary Film (00:15:42)
+##### Documentary Film (00:15:42)
 
 <iframe title="vimeo-player" src=https://player.vimeo.com/video/1226433979?h=016606b872 width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Filmed during the hottest days of Phoenix, Arizona’s summer heatwave, A NEW INFERNO follows paramedics as they race to save the lives of heatstroke victims using a radical new treatment: ice immersion therapy.  As featured on the NY Times Op Docs — We Are Living in a New Inferno  World Premiere SXSW Film Festival, 2026  Featuring Jason Smith, Jake West, Roy Lewis, & Colter Fosdick Directed & Produced by Nita Blum-Reddick & Jonathan Pickett Executive Producers Sam Osborn, Alejandra Vasquez, & Jesse Ray Sheps Cinematographer Ryan Dent  Editor Jonathan Pickett  Composer Jack Gillette Production Sound Mixer Daniel Reddick  Grips Stephane Strande & Brian Osback Sound Design & Mix Hansdale Hsu Colorist Keyhan Bayegan Production Assistant Camden Smith Title & Poster Designer Jason Cryer Weather Consultant Jorge Torres Advisors Dr. Charles Finch, Medical Director, Phoenix Fire Department & Maki Lloyd, Deputy Chief, Phoenix Fire Department  For The New York Times Op-Docs: Associate Producers Ingrid Homquist & Rebecca Shaid Producer Yvonne Ashley Kouadjo Senior Producer Andrew Blackwell Executive Producer Alexandra Garcia  Please consider supporting the ongoing work of Circle the City: www.circlethecity.org  Festivals: • Tribeca x NYT Op-Docs • Mountainfilm • Rooftop Films • Palm Springs International ShortFest • Indy Shorts Film Festival • HollyShorts Film Festival • Nashville Film Festival • Bend Film Festival • Mill Valley Film Festival • Sidewalk Film Festival • deadCenter Film Festival • Ouray International Film Festival • Cinema Columbus • AfterImage Film Festival • Coast Film Festival
 
-## Transcript
+##### Transcript

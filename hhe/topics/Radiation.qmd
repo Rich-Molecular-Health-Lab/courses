@@ -25,7 +25,7 @@ listing:
 
 ![The Workplace Hazard of Radiation—For Flight Crews](https://i.scdn.co/image/ab67656300005f1f98fda0a540c5374b96cf3bd4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:18:07
 
 **Released:** 2026
 
@@ -45,7 +45,7 @@ About this episode:   Long flights at high altitudes can expose pilots and fli
 
 ![What Ever Happened to the Ozone Hole?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:21
 
 **Released:** 2026
 

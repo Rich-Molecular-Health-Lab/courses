@@ -21,11 +21,9 @@ listing:
 
 ### Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
 
-# Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
-
 ![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:54
 
 **Released:** 2026
 
@@ -45,7 +43,7 @@ The current Ebola outbreak in the Democratic Republic of the Congo is the deadli
 
 ![Preventing Future Pandemics](https://i.scdn.co/image/ab67656300005f1f9ef19db5e40020cbb9f1c79d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:59:55
 
 **Released:** 2026
 
@@ -69,7 +67,7 @@ We may not want to think about another pandemic, but, as epidemiologists say, it
 
 ![Special Episode: Adam Kucharski & Proof](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:50:05
 
 **Released:** 2026
 
@@ -89,7 +87,7 @@ Why do we believe what we believe? Is what we believe the truth? How can we conv
 
 ![An Early Start to West Nile Virus Season?](https://i.scdn.co/image/ab67656300005f1f1be97b9c332e24455a879896)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:37
 
 **Released:** 2026
 
@@ -109,7 +107,7 @@ About this episode:   West Nile virus is the most common mosquito-borne illnes
 
 ![1056 - An Ebola Outbreak in Central Africa](https://i.scdn.co/image/ab67656300005f1f19ec955e351275099e4633d3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:49
 
 **Released:** 2026
 
@@ -127,11 +125,9 @@ About this episode: A deadly Ebola outbreak in the Democratic Republic of the Co
 
 #### Animal Diseases and Human Health - The Sloth and Screwworm Episode
 
-# Animal Diseases and Human Health: The Sloth and Screwworm Episode
-
 ![Animal Diseases and Human Health: The Sloth and Screwworm Episode](https://i.scdn.co/image/ab67656300005f1fd8b6654d91c58c4a205b08fd)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:48
 
 **Released:** 2026
 
@@ -152,11 +148,9 @@ About this episode:   Headlines about sick sloths in Florida and the reemergen
 
 #### Bird Flu - The Next Pandemic?
 
-# Bird Flu: The Next Pandemic?
-
 ![Bird Flu: The Next Pandemic?](https://i.scdn.co/image/ab67656300005f1fab4a0a1241885bc663c01796)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:58
 
 **Released:** 2025
 
@@ -174,11 +168,11 @@ Bird flu has been in the headlines for ages, with scientists warning that we cou
 
 #### Carl Zimmer & Airborne
 
-# Special Episode: Carl Zimmer & Airborne
+##### Special Episode: Carl Zimmer & Airborne
 
 ![Special Episode: Carl Zimmer & Airborne](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:49:04
 
 **Released:** 2025
 
@@ -196,11 +190,11 @@ In the first years of the COVID pandemic, a debate raged: was the virus transmit
 
 #### Clean Energy Transition Progress - Avian Flu In Cattle And Humans Has Scientists Concerned
 
-# Clean Energy Transition Progress | Avian Flu In Cattle And Humans Has Scientists Concerned
+##### Clean Energy Transition Progress | Avian Flu In Cattle And Humans Has Scientists Concerned
 
 ![Clean Energy Transition Progress | Avian Flu In Cattle And Humans Has Scientists Concerned](https://i.scdn.co/image/ab67656300005f1ffcb47ca448a6aa8a53592e8e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:25:12
 
 **Released:** 2024
 
@@ -220,7 +214,7 @@ Global temperature increases are slowing, electric vehicle sales are growing, an
 
 ![CRISPR Mosquitoes](https://i.scdn.co/image/ab67656300005f1f3f7ea69d81852f00c6bbf64c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:21
 
 **Released:** 2026
 
@@ -238,11 +232,9 @@ The powerful gene editing tool CRISPR is already being tested on animal and plan
 
 #### Cyclospora - Explosive Diarrhea Everywhere
 
-# Ep 216 Cyclospora: Explosive Diarrhea Everywhere
-
 ![Ep 216 Cyclospora: Explosive Diarrhea Everywhere](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:38
 
 **Released:** 2026
 
@@ -260,11 +252,9 @@ You’ve seen the headlines: a food-borne parasite is infecting people across th
 
 #### Eating the Wild - Bushmeat, Game, and the Fuzzy Line Between Them
 
-# Eating the Wild: Bushmeat, Game, and the Fuzzy Line Between Them
-
 ![Eating the Wild: Bushmeat, Game, and the Fuzzy Line Between Them](https://i.scdn.co/image/ab67656300005f1f1d4fb215c2567468d645a004)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:06
 
 **Released:** 2020
 
@@ -284,7 +274,7 @@ It's a safe bet that your recent media diet has included the words "wet market,"
 
 ![Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:03:51
 
 **Released:** 2022
 
@@ -304,7 +294,7 @@ Oh boy. This episode may seeeeem crappy but it is certainly not a waste of your 
 
 ![Epidemiology (DISEASES) with 'This Podcast Will Kill You's' Erins Welsh & Allmann-Updyke](https://i.scdn.co/image/ab67656300005f1f23459bd2ed173dece5351431)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:30:28
 
 **Released:** 2018
 
@@ -322,11 +312,9 @@ TWO epidemiologists-named-Erin -- and hosts of the stellar This Podcast Will Kil
 
 #### Hantavirus - The Real Rat Race
 
-# Hantavirus: The Real Rat Race
-
 ![Ep 18 Hantavirus: The Real Rat Race](https://i.scdn.co/image/ab67656300005f1f08651534ce12173c3f0f0d99)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:03:54
 
 **Released:** 2019
 
@@ -344,11 +332,9 @@ What do Korea, Slovenia, Finland, and the southwestern US all have in common? If
 
 #### Health - Searching For The Source Of Cyclospora
 
-# Health: Searching For The Source Of Cyclospora
-
 ![Health: Searching For The Source Of Cyclospora](https://i.scdn.co/image/ab67656300005f1fc6be451cb776a3eebfebc9e5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:30
 
 **Released:** 2026
 
@@ -366,11 +352,9 @@ You may have heard of a parasite that’s causing some gastrointestinal distress
 
 #### Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
 
-# Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
-
 ![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:54
 
 **Released:** 2026
 
@@ -390,7 +374,7 @@ The current Ebola outbreak in the Democratic Republic of the Congo is the deadli
 
 ![How Do You Kill a Mosquito?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:36:25
 
 **Released:** 2026
 
@@ -410,7 +394,7 @@ Mosquitoes are little jerks. They suck your blood to make more mosquitoes, sprea
 
 ![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:47:42
 
 **Released:** 2026
 
@@ -428,11 +412,9 @@ In August 2005, one of the most powerful storms ever recorded in the Gulf of Mex
 
 #### John Green & Everything Is Tuberculosis
 
-# Special Episode: John Green & Everything Is Tuberculosis
-
 ![Special Episode: John Green & Everything Is Tuberculosis](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:56:46
 
 **Released:** 2025
 
@@ -450,11 +432,9 @@ Tuberculosis, or consumption as it was once known, might conjure up images of hu
 
 #### Oropouche Virus - More than a smidge worrisome
 
-# Ep 206 Oropouche Virus: More than a smidge worrisome
-
 ![Ep 206 Oropouche Virus: More than a smidge worrisome](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:12:38
 
 **Released:** 2026
 
@@ -474,7 +454,7 @@ Though discovered relatively recently, Oropouche virus has been making headlines
 
 ![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:16:29
 
 **Released:** 2011
 
@@ -492,7 +472,7 @@ The greatest mysteries have a shadowy figure at the center—someone who sets th
 
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/1541748/&share=1"></iframe>
 
-## Transcript
+##### Transcript
 
 Patient Zero
 
@@ -1854,7 +1834,7 @@ Patient Zero
 
 ![Preventing Future Pandemics](https://i.scdn.co/image/ab67656300005f1f9ef19db5e40020cbb9f1c79d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:59:55
 
 **Released:** 2026
 
@@ -1872,11 +1852,9 @@ We may not want to think about another pandemic, but, as epidemiologists say, it
 
 #### Rift Valley Fever - Ruminating on ruminants
 
-# Ep 164 Rift Valley Fever: Ruminating on ruminants
-
 ![Ep 164 Rift Valley Fever: Ruminating on ruminants](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:15:26
 
 **Released:** 2025
 
@@ -1896,7 +1874,7 @@ Hemorrhagic virus? Check. Deadly disease? Check. Mosquito-borne? Check. Affected
 
 ![Should we reengineer the world's deadliest animal?](https://i.scdn.co/image/ab67656300005f1fb9b1eafae6e5dae98339f3cc)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:59
 
 **Released:** 2026
 
@@ -1915,7 +1893,7 @@ The most ferocious predator for us humans is actually quite small: the mosquito.
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5806598/nx-s1-mx-5806598-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 SPEAKER: You're listening to Short Wave from NPR.
 
@@ -2079,7 +2057,7 @@ KWONG: Check out the show. It's really good. You can find it all the places you 
 
 ![The Latest On Bird Flu](https://i.scdn.co/image/ab67656300005f1f15bb6ed10b5cd7ff9cdac7d9)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:18
 
 **Released:** 2025
 
@@ -2099,7 +2077,7 @@ Bird flu, or avian influenza, is spreading among livestock and other mammals in 
 
 ![The Race for a Bundibugyo Ebolavirus Vaccine](https://i.scdn.co/image/ab67656300005f1f3ac46a1ee0162bb536a9a6df)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:16:02
 
 **Released:** 2026
 
@@ -2119,7 +2097,7 @@ About this episode:   Vaccines for the Zaire ebolavirus have been licensed sin
 
 ![We’re better off when we stop pandemics before they start](https://i.scdn.co/image/ab67656300005f1f2a6e1a34b510618b188cb546)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:20:43
 
 **Released:** 2021
 
@@ -2139,7 +2117,7 @@ When Aaron (Ari) Bernstein met his first pediatric patient infected with COVID-1
 
 ![We're better off with mRNA vaccines](https://i.scdn.co/image/ab67656300005f1f666237f6744e2400dcd7bcc0)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:47
 
 **Released:** 2021
 
@@ -2159,7 +2137,7 @@ The technology that is helping us combat COVID-19 is also poised to help us tack
 
 ![1045 - What's Next for a New Lyme Vaccine](https://i.scdn.co/image/ab67656300005f1f6acea551cf6af001e255a691)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:55
 
 **Released:** 2026
 
@@ -2179,7 +2157,7 @@ About this episode: A new vaccine shows 70% efficacy in preventing Lyme disease,
 
 ![Where Will The Next Pandemic Come From?](https://i.scdn.co/image/ab67656300005f1f9731c79e5c9769f48860cf66)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:02:23
 
 **Released:** 2025
 
@@ -2199,7 +2177,7 @@ To learn more about this topic, start your googling with these keywords:    Zoon
 
 ![Why Pandemic Researchers Are Talking About Raccoon Dogs](https://i.scdn.co/image/ab67656300005f1fc23387f2bd474e694683bd0c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:17
 
 **Released:** 2023
 
@@ -2219,7 +2197,7 @@ A few weeks ago, raw data gathered in Janaury 2020 from Huanan Seafood Wholesale
 
 ![Why We Should Care About Viruses Jumping From Animals To People](https://i.scdn.co/image/ab67656300005f1f61e4354358d2237ba893cfad)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:24
 
 **Released:** 2023
 

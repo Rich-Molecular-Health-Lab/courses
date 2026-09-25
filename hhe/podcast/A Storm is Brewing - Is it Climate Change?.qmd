@@ -13,7 +13,7 @@ categories:
 
 ![A Storm is Brewing. Is it Climate Change?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:32:29
 
 **Released:** 2022
 

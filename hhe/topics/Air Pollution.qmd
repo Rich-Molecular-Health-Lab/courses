@@ -23,11 +23,9 @@ listing:
 
 #### A call for redesigning American streets
 
-# September 6, 2018: A call for redesigning American streets
-
 ![September 6, 2018: A call for redesigning American streets](https://i.scdn.co/image/ab67656300005f1f66c44134aeaf736a7005e3c5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:09
 
 **Released:** 2018
 
@@ -47,7 +45,7 @@ In this week’s podcast we’ll explore how America’s streets can be redesign
 
 ![Allergy Reason](https://i.scdn.co/image/ab67656300005f1ff2bac53021e378030755ea9b)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:53:33
 
 **Released:** 2026
 
@@ -67,7 +65,7 @@ Runny nose. Itchy, watery eyes. Sneezing. If you don’t have allergies, you pro
 
 ![Are extreme wildfires the new normal?](https://i.scdn.co/image/ab67656300005f1f3b5da52b76c4eb91bb3c111c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:21
 
 **Released:** 2026
 
@@ -85,7 +83,7 @@ With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you m
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5909367/nx-s1-mx-5909367-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 REGINA BARBER: Hey, Short Wavers. It's Gina here with a request-- follow us on whichever app you're listening from. We love sharing cool and important science stories with you. And following us means you'll always know when our next episode is ready, just for you. And guess what. The next episode is ready.
 
@@ -339,7 +337,7 @@ BARBER: And I'm Regina Barber. Thank you so much for listening to Short Wave fro
 
 ![Carlos Gould on wildfire smoke and our health](https://i.scdn.co/image/ab67656300005f1fe444c1a2a309addf091b84dc)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:27:41
 
 **Released:** 2023
 
@@ -359,7 +357,7 @@ Dr. Carlos Gould joins the Agents of Change in Environmental Justice podcast to 
 
 ![Could air pollution make your memory worse?](https://i.scdn.co/image/ab67656300005f1f3c2c430944458f7f211ba374)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:10:21
 
 **Released:** 2026
 
@@ -377,11 +375,11 @@ Summer is here, your windows are open and the smell of…car exhaust and the lat
 
 #### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
 
-# Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+##### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
 
 ![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:19:15
 
 **Released:** 2023
 
@@ -401,7 +399,7 @@ Chemical spills, historical disasters, water quality, airborne toxic events, cle
 
 ![Gas Stoves Are Worsening Breathing Issues, According to Canceled Study](https://i.scdn.co/image/ab67656300005f1fae092311473477c6fb5b76ea)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:49
 
 **Released:** 2026
 
@@ -421,7 +419,7 @@ About this episode:   Accumulating research has linked nitrogen dioxide emissi
 
 ![How Congestion Pricing Can Impact Human Health](https://i.scdn.co/image/ab67656300005f1fb592b5cfd7631d9aa38b898d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:50
 
 **Released:** 2024
 
@@ -441,7 +439,7 @@ In early June, New York Governor Kathy Hochul blocked a congestion pricing plan 
 
 ![How Wildfire Smoke Affects Metabolism](https://i.scdn.co/image/ab67656300005f1fb890d14e9ee0830986ad4cd2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:38:57
 
 **Released:** 2026
 
@@ -461,7 +459,7 @@ Is wildfire smoke affecting more than just your lungs?Poor air quality affects n
 
 ![Is setting your trash on fire a good idea?](https://i.scdn.co/image/ab67656300005f1f59ded9d593c4d006e1ee8c0c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:01
 
 **Released:** 2026
 
@@ -481,7 +479,7 @@ The U.S. generates 292 million tons of trash each year – and that trash has to
 
 ![Smog Cloud Silver Lining](https://i.scdn.co/image/ab67656300005f1f9b8e70445903be860a6bdead)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:34:28
 
 **Released:** 2023
 
@@ -499,11 +497,9 @@ Summer 2023 was a pretty scary one for the planet. Global temperatures in June a
 
 #### The Great Smog of London - “Thick, drab, yellow, disgusting”
 
-# Ep 185 The Great Smog of London: “Thick, drab, yellow, disgusting”
-
 ![Ep 185 The Great Smog of London: “Thick, drab, yellow, disgusting”](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:14:17
 
 **Released:** 2025
 
@@ -521,11 +517,11 @@ Some things just go together: peanut butter and jelly, bacon and eggs, milk and 
 
 #### This Is Canada's Worst Fire Season In Modern History - It's Not New
 
-# This Is Canada's Worst Fire Season In Modern History. It's Not New
+##### This Is Canada's Worst Fire Season In Modern History. It's Not New
 
 ![This Is Canada's Worst Fire Season In Modern History. It's Not New](https://i.scdn.co/image/ab67656300005f1f4c79fff34b50e2b2ff6b4b1e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:26
 
 **Released:** 2023
 
@@ -545,7 +541,7 @@ Canada is having its worst fire season in modern history. The fires have burnt m
 
 ![Up in Smoke](https://i.scdn.co/image/ab67656300005f1fd835bc33162bda04bd2b77e9)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:29:57
 
 **Released:** 2024
 
@@ -567,11 +563,11 @@ Two scenes. In the first, a doctor gets a call — the hospital she works at is 
 
 **PBS Vitals**, *09 05, 2023*
 
-## Video (12:41)
+##### Video (12:41)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/8mQllQnJrhg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Check out our collaboration with PBS Weathered (Terra) about the new disease risks that climate change is bringing with it!  https://www.youtube.com/watch?v=wofEVzObZdU
 
@@ -672,9 +668,9 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 10:24 Personal protection
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:00** · out here in Northern California.
 
@@ -706,7 +702,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **1:18** · That smoke is what really does the damage like burning eyes, a sore throat, a cough.
 
-### lung and cardiac impact of smoke
+###### lung and cardiac impact of smoke
 
 **1:25** · But there are certain vulnerable populations that may have much more health impacts.
 
@@ -724,7 +720,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **2:17** · It seems that fire season is getting longer and the fires are getting worse.
 
-### Maiya May talks about long-term trends
+###### Maiya May talks about long-term trends
 
 **2:22** · But I worry, will this trend continue forever?
 
@@ -766,7 +762,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **4:22** · So what exactly is in smoke that makes it so harmful?
 
-### What is in wildfire smoke?
+###### What is in wildfire smoke?
 
 **4:25** · Well, obviously, it depends on what's burning, but combustion always produces pollutants.
 
@@ -804,7 +800,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **6:01** · one big concern is the effect of repeated exposures year after year.
 
-### Effects of repeated exposure
+###### Effects of repeated exposure
 
 **6:06** · Or breathing in smoke for days and days on end.
 
@@ -816,7 +812,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **6:27** · The studies haven't been done, but we can learn something by looking at the people who are exposed to smoke routinely as part of their job.
 
-### Studies on firefighters
+###### Studies on firefighters
 
 **6:35** · I'm talking about firefighters.
 
@@ -840,7 +836,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **7:37** · some of the connections are surprising.
 
-### Surprising but less-studied health impacts
+###### Surprising but less-studied health impacts
 
 **7:39** · For example, some studies have found that smoke exposure increases risk of developing dementia.
 
@@ -858,7 +854,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **8:08** · wildfires can cause personal and environmental devastation.
 
-### impact on pregant women and babies
+###### impact on pregant women and babies
 
 **8:12** · And few places know this as well as Northern California.
 
@@ -888,7 +884,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **9:10** · Very familiar with the air quality index.
 
-### Breaking down the Air Quality Index (AQI)
+###### Breaking down the Air Quality Index (AQI)
 
 **9:13** · This tool that was developed by the U.S.
 
@@ -922,7 +918,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **10:21** · You go online, you put in your zip code, and there you go.
 
-### Personal protection
+###### Personal protection
 
 **10:24** · So, for example, the AQI is high.
 
@@ -982,11 +978,11 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **Science Magazine**, *10 09, 2020*
 
-## Video (4:08)
+##### Video (4:08)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/_KfklILeNZg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Historically Black and immigrant communities are more vulnerable to environmental stressors
 
@@ -1070,7 +1066,7 @@ music
 
 "Vultures" by Chris Burns
 
-## Transcript
+##### Transcript
 
 **0:01** · The urban environment is a feat of human decision-making— from where to develop street grids lined with large glass office buildings, to which green spaces to preserve for outdoor recreation.
 
@@ -1126,11 +1122,11 @@ music
 
 **Vox**, *09 27, 2016*
 
-## Video (5:30)
+##### Video (5:30)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/ZORzsubQA_M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Modern cities are designed for cars. But the city of Barcelona is testing out an urban design trick that can give cities back to pedestrians.
 
@@ -1150,7 +1146,7 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+##### Transcript
 
 **0:01** · If you imagine a typical American city street, and you take away the space that’s dedicated to cars, you aren’t left with very much.
 
@@ -1262,11 +1258,11 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **PBS NewsHour**, *07 16, 2026*
 
-## Video (5:15)
+##### Video (5:15)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/UloYfl0ssgw?start=5 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 More than 115 million people may be exposed to dangerous smoke and unhealthy air quality levels. That's because wildfire smoke is spreading and triggering health advisories in at least 17 states from the Midwest to the Mid-Atlantic. It's led to flight delays, the closure of pools and beaches, and the cancellation of many other outdoor activities. Stephanie Sy reports. 
 
@@ -1294,7 +1290,7 @@ Instagram: http://www.instagram.com/newshour
 
 Facebook: http://www.pbs.org/newshour
 
-## Transcript
+##### Transcript
 
 **0:00** · Between now and Saturday, more than 115 million people may be exposed to dangerous smoke and unhealthy air quality levels. That's because wildfire smoke is spreading and triggering health advisories in at least 17 states from the Midwest to the Mid-Atlantic. Thousands have evacuated northern Minnesota and other states, it's led to flight delays, the closure of pools and beaches and the cancellation of many other outdoor activities. Stephanie Tsai has our report.
 
@@ -1326,11 +1322,11 @@ Facebook: http://www.pbs.org/newshour
 
 **PBS**, *09 16, 2026*
 
-## Video (7:36)
+##### Video (7:36)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/6qRszyLJdUI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/3Vig7OG
 
@@ -1360,7 +1356,7 @@ Ages of Ice
 
 A story of scientific daring and discovery, grit, and human endeavor, where unlocking the mysteries of our icy worlds is key to unlocking the forces that drive our planet. The three-part documentary series narrated by acclaimed Scottish actor David Tennant, is a high-stakes journey into the planet's frozen wilderness, revealing the extraordinary wildlife, breathtaking landscapes, and rapidly changing ecosystems of Earth's polar regions.
 
-## Transcript
+##### Transcript
 
 **0:00** · In the stage, we are in the orbit around our sun.
 
@@ -1502,15 +1498,13 @@ A story of scientific daring and discovery, grit, and human endeavor, where unlo
 
 #### There’s Something Living in Wildfire Smoke
 
-# There’s Something Living in Wildfire Smoke  NOVA  PBS
-
 **NOVA PBS Official**, *01 13, 2025*
 
-## Video (1:58)
+##### Video (1:58)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/Vtl-M08Ju88 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Wildfire smoke can carry thousands of living microorganisms, like bacteria and fungi, across long distances. Some of them could potentially infect humans. With wildfires on the rise, experts are studying the risk this poses to our health.
 
@@ -1526,7 +1520,7 @@ Instagram: https://www.instagram.com/novapbs
 
 TikTok: https://www.tiktok.com/@novapbs
 
-## Transcript
+##### Transcript
 
 **0:01** · [Narrator] Wildfire smoke is loaded with harmful particles like charred plant matter, incinerated materials, and noxious gases. But it's also carrying stuff that's alive, thousands of teeny-tiny microorganisms like bacteria and fungi.
 
@@ -1550,11 +1544,11 @@ TikTok: https://www.tiktok.com/@novapbs
 
 **Vox**, *12 22, 2016*
 
-## Video (3:10)
+##### Video (3:10)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/aKyvGHycngM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Over 3 million people die annually from air pollution. Planting trees can help lower that number.
 
@@ -1576,9 +1570,9 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:00** · Search Google Earth for China and you’ll see this.
 
@@ -1594,7 +1588,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **0:25** · As officials explore options for fighting air pollution, there is one tool that is often overlooked: trees.
 
-### Air pollution
+###### Air pollution
 
 **0:35** · Cities are centers of industry, but the resulting pollution is filling our lungs and making us sick.
 
@@ -1608,7 +1602,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **1:10** · and in the Netherlands, designers have created a giant air purifier they call "The Smog Free Tower", which is cool, but there is another, simpler solution… A new report from The Nature Conservancy shows that planting trees can be a cost-effective way to improve public health, which they do in two ways: First, a tree removes particulate matter when polluted air blows through its branches.
 
-### Planting trees
+###### Planting trees
 
 **1:31** · The particulate matter settles on the leaves and when it rains the dust is washed down the gutter so we don’t inhale it.
 

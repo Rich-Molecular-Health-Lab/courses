@@ -11,7 +11,7 @@ categories:
 
 ![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:16:29
 
 **Released:** 2011
 

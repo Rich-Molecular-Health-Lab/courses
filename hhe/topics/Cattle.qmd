@@ -20,7 +20,7 @@ listing:
 
 ![Are Plant- and Fungus-Based Meats Really Better than the Real Thing?](https://i.scdn.co/image/ab67656300005f1f64ed6ec2f04894f027196454)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:39
 
 **Released:** 2021
 
@@ -38,11 +38,9 @@ Move over, beef: there’s a new burger in town. Plant-based meats are sizzling 
 
 #### Is alternative meat the recipe for a healthier planet?
 
-# Is alternative meat the recipe for a healthier planet? | Tao Zhang
-
 ![Is alternative meat the recipe for a healthier planet? | Tao Zhang](https://i.scdn.co/image/ab67656300005f1fe1189724b35c0c3b998e195d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:48
 
 **Released:** 2024
 
@@ -60,11 +58,9 @@ A Chinese saying goes, "There's no pleasure in eating without meat." And the dat
 
 #### Parasitic Bugs Are Making Combacks Across The Country
 
-# Science: Parasitic Bugs Are Making Combacks Across The Country
-
 ![Science: Parasitic Bugs Are Making Combacks Across The Country](https://i.scdn.co/image/ab67656300005f1fc26403737b5cdf5fba559b7c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:44:51
 
 **Released:** 2026
 
@@ -84,7 +80,7 @@ In 1966, the United States declared victory over a destructive flesh-eating para
 
 ![Should I Give Up Beef?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:41:56
 
 **Released:** 2022
 
@@ -104,7 +100,7 @@ A quarter of global greenhouse gas emissions come from agriculture and land use 
 
 ![Where's the Beef? Lab-Grown Meat is Finally on the Menu](https://i.scdn.co/image/ab67656300005f1f3be655e8fa8542e90e98af3e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:56:05
 
 **Released:** 2023
 
@@ -122,11 +118,11 @@ Can we really have our burger, eat it—and never need to kill a cow? Growing me
 
 #### Which is better for you: 'Real' meat or 'fake' meat?
 
-# Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans
+##### Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans
 
 ![Which is better for you: "Real" meat or "fake" meat? | Carolyn Beans](https://i.scdn.co/image/ab67656300005f1fe1189724b35c0c3b998e195d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:07:23
 
 **Released:** 2024
 

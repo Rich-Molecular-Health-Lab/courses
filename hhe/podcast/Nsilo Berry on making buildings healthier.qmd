@@ -11,7 +11,7 @@ categories:
 
 ![Nsilo Berry on making buildings healthier](https://i.scdn.co/image/ab67656300005f1f19347b0fba1311f9771a41a2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:57
 
 **Released:** 2023
 

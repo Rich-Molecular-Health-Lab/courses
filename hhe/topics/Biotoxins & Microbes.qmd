@@ -25,7 +25,7 @@ listing:
 
 ![10 Years After Flint, The Fight To Replace Lead Pipes Continues](https://i.scdn.co/image/ab67656300005f1f846b3b59c319906b8b229582)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:12
 
 **Released:** 2024
 
@@ -43,7 +43,7 @@ Ten years ago, Flint, Mich. switched water sources to the Flint River. The lack 
 
 <iframe src="https://www.npr.org/player/embed/1198909905/1247376748" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 EMILY KWONG, HOST:
 
@@ -235,11 +235,11 @@ Copyright © 2024 NPR. All rights reserved. Visit our website [terms of use](\"h
 
 #### Abel Wolman, 'Friend of the Thirsty' - A Life and Legacy of Water Sanitization
 
-# Abel Wolman, "Friend of the Thirsty": A Life and Legacy of Water Sanitization
+##### Abel Wolman, "Friend of the Thirsty": A Life and Legacy of Water Sanitization
 
 ![Abel Wolman, "Friend of the Thirsty": A Life and Legacy of Water Sanitization](https://i.scdn.co/image/ab67656300005f1f914496de3226c5c4ada4bf8f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:23:30
 
 **Released:** 2026
 
@@ -259,7 +259,7 @@ About this episode:   At the turn of the 20th century, waterborne diseases lik
 
 ![All About Legionnaires' Disease](https://i.scdn.co/image/ab67656300005f1f7ef027aba112b83f18179e16)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:09
 
 **Released:** 2026
 
@@ -279,7 +279,7 @@ About this episode:   Cooling towers rife with Legionella bacteria are fueling
 
 ![Are Humans Hot Enough to Survive a Fungal Apocalypse?](https://i.scdn.co/image/ab67656300005f1fa2cb686d7dd7747fbf00ecc4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:03
 
 **Released:** 2026
 
@@ -297,11 +297,11 @@ About this episode:   New research has identified massive fungal blooms in Nor
 
 #### Black Gold - The Future of Food We Throw Away
 
-# Black Gold: The Future of Food...We Throw Away
+##### Black Gold: The Future of Food...We Throw Away
 
 ![Black Gold: The Future of Food...We Throw Away](https://i.scdn.co/image/ab67656300005f1f7e49a04c77574123e5e6fbf5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:51:11
 
 **Released:** 2022
 
@@ -321,7 +321,7 @@ For a few weeks in 1987, trash was temporarily headline news: a barge filled wit
 
 ![1033 - Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture](https://i.scdn.co/image/ab67656300005f1fefaffe37a746200f9af25327)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:39
 
 **Released:** 2026
 
@@ -339,11 +339,9 @@ About this episode: Biosolids created by the wastewater treatment process are us
 
 #### Cyclospora - Explosive Diarrhea Everywhere
 
-# Ep 216 Cyclospora: Explosive Diarrhea Everywhere
-
 ![Ep 216 Cyclospora: Explosive Diarrhea Everywhere](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:38
 
 **Released:** 2026
 
@@ -363,7 +361,7 @@ You’ve seen the headlines: a food-borne parasite is infecting people across th
 
 ![Environmental Microbiology (TESTING WASTEWATER FOR DISEASES) with Amy Kirby](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:03:51
 
 **Released:** 2022
 
@@ -383,7 +381,7 @@ Oh boy. This episode may seeeeem crappy but it is certainly not a waste of your 
 
 ![Up in Smoke](https://i.scdn.co/image/ab67656300005f1fd835bc33162bda04bd2b77e9)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:29:57
 
 **Released:** 2024
 
@@ -405,17 +403,17 @@ Two scenes. In the first, a doctor gets a call — the hospital she works at is 
 
 **nature video**, *01 25, 2023*
 
-## Video (10:31)
+##### Video (10:31)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/CH7MpiGCdgU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The story of Sargassum stretches from the Congo to the Amazon, from soybean farming to climate change and from toxic gases to robotic vehicles. In this documentary researchers from around the world explain the vast scope of the Sargassum problem and the solutions that may one day begin to address it.
 
 Additional photographs and footage in this film were provided by Drake Lee-Patterson, Gary Marshall, Joseph Weekes, Driven Visual Media, Kerwin Noel,  Nick Hurley, Akeisha Clark, Sargassum Information Hub, NASA, Chuanmin Hu, Jeff Davis's team, Hazel Oxenford, Caroline Juang, Melvina Walsh, Morgan Lewis, Kerton Jobe, P McConney, Markel Gomez Letona and Nico Frohberg who were mistakenly missed off the film credits.
 
-## Transcript
+##### Transcript
 
 **0:03** · VOICE OVER: The Great Atlantic Sargassum Belt is the largest seaweed bloom in the world, and it's expanding.
 
@@ -575,11 +573,11 @@ Additional photographs and footage in this film were provided by Drake Lee-Patte
 
 **Al Jazeera English**, *09 05, 2026*
 
-## Video (10:02)
+##### Video (10:02)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/6PHfReEbjcA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The Caribbean is facing a growing sargassum seaweed crisis, with huge quantities washing onto beaches across the region and threatening tourism, ecosystems and public health.
 
@@ -607,7 +605,7 @@ Check out our Instagram page: https://www.instagram.com/aljazeeraenglish/
 
 Download AJE Mobile App: https://aje.news/AJEMobile
 
-## Transcript
+##### Transcript
 
 **0:04** · [music] Welcome to Inside Latin America and to Mexico's Riviera Maya. For the last decade, growing amounts of algae called sargassum have been washing up on beaches across the Caribbean, transforming once pristine coastlines and threatening the communities that depend on them.
 
@@ -695,15 +693,13 @@ Download AJE Mobile App: https://aje.news/AJEMobile
 
 #### There’s Something Living in Wildfire Smoke
 
-# There’s Something Living in Wildfire Smoke  NOVA  PBS
-
 **NOVA PBS Official**, *01 13, 2025*
 
-## Video (1:58)
+##### Video (1:58)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/Vtl-M08Ju88 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Wildfire smoke can carry thousands of living microorganisms, like bacteria and fungi, across long distances. Some of them could potentially infect humans. With wildfires on the rise, experts are studying the risk this poses to our health.
 
@@ -719,7 +715,7 @@ Instagram: https://www.instagram.com/novapbs
 
 TikTok: https://www.tiktok.com/@novapbs
 
-## Transcript
+##### Transcript
 
 **0:01** · [Narrator] Wildfire smoke is loaded with harmful particles like charred plant matter, incinerated materials, and noxious gases. But it's also carrying stuff that's alive, thousands of teeny-tiny microorganisms like bacteria and fungi.
 

@@ -23,11 +23,11 @@ listing:
 
 ### A Storm is Brewing - Is it Climate Change?
 
-# A Storm is Brewing. Is it Climate Change?
+#### A Storm is Brewing. Is it Climate Change?
 
 ![A Storm is Brewing. Is it Climate Change?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:32:29
 
 **Released:** 2022
 
@@ -49,11 +49,9 @@ For years, we were told it wasn’t possible to link specific weather events to 
 
 #### A call for redesigning American streets
 
-# September 6, 2018: A call for redesigning American streets
-
 ![September 6, 2018: A call for redesigning American streets](https://i.scdn.co/image/ab67656300005f1f66c44134aeaf736a7005e3c5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:09
 
 **Released:** 2018
 
@@ -71,11 +69,11 @@ In this week’s podcast we’ll explore how America’s streets can be redesign
 
 #### A Storm is Brewing - Is it Climate Change?
 
-# A Storm is Brewing. Is it Climate Change?
+##### A Storm is Brewing. Is it Climate Change?
 
 ![A Storm is Brewing. Is it Climate Change?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:32:29
 
 **Released:** 2022
 
@@ -95,7 +93,7 @@ For years, we were told it wasn’t possible to link specific weather events to 
 
 ![An Expert Vegetable Breeder On Innovating Crops For The Future](https://i.scdn.co/image/ab67656300005f1f85344bc437feeb218f3b7551)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:33
 
 **Released:** 2024
 
@@ -115,7 +113,7 @@ It’s become clear to farmers and home gardeners alike that climate change is a
 
 ![Are extreme wildfires the new normal?](https://i.scdn.co/image/ab67656300005f1f3b5da52b76c4eb91bb3c111c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:21
 
 **Released:** 2026
 
@@ -133,7 +131,7 @@ With parts of the U.S, Canada, Spain and France all ablaze with wildfires, you m
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5909367/nx-s1-mx-5909367-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 REGINA BARBER: Hey, Short Wavers. It's Gina here with a request-- follow us on whichever app you're listening from. We love sharing cool and important science stories with you. And following us means you'll always know when our next episode is ready, just for you. And guess what. The next episode is ready.
 
@@ -387,7 +385,7 @@ BARBER: And I'm Regina Barber. Thank you so much for listening to Short Wave fro
 
 ![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:06:01
 
 **Released:** 2026
 
@@ -405,7 +403,7 @@ The flooding in Nepal has left hundreds dead and many more missing. Many scient
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5946819/nx-s1-mx-5946819-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 AILSA CHANG, HOST:
 
@@ -489,11 +487,11 @@ CHANG: It's CONSIDER THIS FROM NPR. I'm Ailsa Chang.
 
 #### Black Gold - The Future of Food We Throw Away
 
-# Black Gold: The Future of Food...We Throw Away
+##### Black Gold: The Future of Food...We Throw Away
 
 ![Black Gold: The Future of Food...We Throw Away](https://i.scdn.co/image/ab67656300005f1f7e49a04c77574123e5e6fbf5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:51:11
 
 **Released:** 2022
 
@@ -513,7 +511,7 @@ For a few weeks in 1987, trash was temporarily headline news: a barge filled wit
 
 ![Catching Fire](https://i.scdn.co/image/ab67656300005f1f188f54599e90d89a077379e7)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:43
 
 **Released:** 2024
 
@@ -531,11 +529,9 @@ We have too much “bad fire.” Not only destructive wildfires, but the combust
 
 #### Climate - Fighting Extreme Heat In 2026
 
-# Climate: Fighting Extreme Heat In 2026
-
 ![Climate: Fighting Extreme Heat In 2026](https://i.scdn.co/image/ab67656300005f1f9accb6cf4a3dd48afb065849)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:17
 
 **Released:** 2026
 
@@ -551,9 +547,9 @@ Extreme heat isn’t just an inconvenience. It’s a growing public health threa
 
 :::
 
-## Transcript
+##### Transcript
 
-##### DISCLAIMER
+###### DISCLAIMER
 
 Transcripts of WAMU programs are available for personal use. Transcripts are provided "As Is" without warranties of any kind, either express or implied. WAMU does not warrant that the transcript is error-free. For all WAMU programs, the broadcast audio should be considered the authoritative version. Transcripts are owned by WAMU 88.5 FM American University Radio and are protected by laws in both the United States and international law. You may not sell or modify transcripts or reproduce, display, distribute, or otherwise use the transcript, in whole or in part, in any way for any public or commercial purpose without the express written permission of WAMU. All requests for uses beyond personal and noncommercial use should be referred to [(202) 885-1200](tel:2028851200).
 
@@ -837,7 +833,7 @@ Transcripts of WAMU programs are available for personal use. Transcripts are pro
 
 ![Climate Change and Extreme Heat End of Summer Episode with Dr. Kelly Turner and Dr. Ladd Keith](https://i.scdn.co/image/ab67656300005f1fe59f9a339398e497c814e46f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:53:01
 
 **Released:** 2023
 
@@ -855,11 +851,9 @@ In episode  192 of America Adapts, Doug Parsons hosts Dr. Kelly Turner and Dr. L
 
 #### Designing for climate change
 
-# August 10, 2018: Designing for climate change
-
 ![August 10, 2018: Designing for climate change](https://i.scdn.co/image/ab67656300005f1fcd07673e5c5b84f1635010ac)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:24:30
 
 **Released:** 2018
 
@@ -879,7 +873,7 @@ A new study from Harvard T.H. Chan School of Public Health found that students w
 
 ![Does It Feel Like Mosquitoes Are Getting Worse?](https://i.scdn.co/image/ab67656300005f1f3282450f01d1e10beed29b66)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:19
 
 **Released:** 2025
 
@@ -897,11 +891,9 @@ Mosquitoes are the deadliest animal on the planet, and some of them may be on th
 
 #### Fire And Ice - Linking Intense Wildfire And The Melting Arctic
 
-# Fire And Ice: Linking Intense Wildfire And The Melting Arctic
-
 ![Fire And Ice: Linking Intense Wildfire And The Melting Arctic](https://i.scdn.co/image/ab67656300005f1f55f499ba8ac490032a45bb54)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:13
 
 **Released:** 2023
 
@@ -921,7 +913,7 @@ In the Arctic Ocean, sea ice is shrinking as the climate heats up. In the Wester
 
 ![Fire Ecology (WILDFIRES & INDIGENOUS FIRE MANAGEMENT) Mega Encore with Gavin Jones & Amy Christianson](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 02:22:53
 
 **Released:** 2023
 
@@ -941,7 +933,7 @@ Once again: the world is on fire. As wildfires burn across Canada and their smok
 
 ![Flash floods on Nepal-Tibet border](https://i.scdn.co/image/ab67656300005f1f4c7cc8c8d2e6710f01d0d412)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:08:32
 
 **Released:** 2026
 
@@ -963,7 +955,7 @@ Flash floods triggered by an ice avalanche have left hundreds of people missing 
 
 ![From Hot Take: Yes, We Still Need to Talk About Climate](https://i.scdn.co/image/ab67656300005f1f5e0f4973639032726e0ab7f7)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:19
 
 **Released:** 2020
 
@@ -983,7 +975,7 @@ Amid nationwide Black Lives Matter protests, some climate activists have been sa
 
 ![Growing a Healthier Climate](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:23
 
 **Released:** 2026
 
@@ -1001,11 +993,9 @@ In this episode, we sit down with Professor Meredith Niles to explore how climat
 
 #### Heat is a 'silent killer'
 
-# January 24, 2019: Heat is a 'silent killer'
-
 ![January 24, 2019: Heat is a 'silent killer'](https://i.scdn.co/image/ab67656300005f1f1d0a94cdd6f44776319888fe)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:32:54
 
 **Released:** 2019
 
@@ -1025,7 +1015,7 @@ Climate change will mean more extreme weather, including heat waves. And it’s 
 
 ![How Can Iowa’s Agriculture Adapt To Climate Threats?](https://i.scdn.co/image/ab67656300005f1f6eaf64c497d1a878ad096461)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:50
 
 **Released:** 2024
 
@@ -1045,7 +1035,7 @@ Climate change is having a profound effect on agriculture. Farmers over the past
 
 ![How The Current Heat Dome Can Affect Human Health](https://i.scdn.co/image/ab67656300005f1f63009efb8eab6ce32b692dbe)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:10:58
 
 **Released:** 2024
 
@@ -1065,11 +1055,9 @@ Right now, there's a "heat dome" lingering over the southwestern U.S. – a high
 
 #### Is alternative meat the recipe for a healthier planet?
 
-# Is alternative meat the recipe for a healthier planet? | Tao Zhang
-
 ![Is alternative meat the recipe for a healthier planet? | Tao Zhang](https://i.scdn.co/image/ab67656300005f1fe1189724b35c0c3b998e195d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:48
 
 **Released:** 2024
 
@@ -1089,7 +1077,7 @@ A Chinese saying goes, "There's no pleasure in eating without meat." And the dat
 
 ![Is Geoengineering A Good Idea?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:41:08
 
 **Released:** 2026
 
@@ -1109,7 +1097,7 @@ The planet is heating up, every plan to stop it has fallen short, and growing gr
 
 ![Is it getting windier?](https://i.scdn.co/image/ab67656300005f1fadeb8296d575823b184ee469)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:11:52
 
 **Released:** 2026
 
@@ -1127,11 +1115,9 @@ Is it getting windier? Long-time listener Barry Zalph thinks it is, at least in 
 
 #### Living on the Frontlines of War and Climate Crisis - Abeer Butmeh in Palestine
 
-# Living on the Frontlines of War and Climate Crisis: Abeer Butmeh in Palestine
-
 ![Living on the Frontlines of War and Climate Crisis: Abeer Butmeh in Palestine](https://i.scdn.co/image/ab67656300005f1f847ff16564e48b2dfdbf91a0)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:34:42
 
 **Released:** 2023
 
@@ -1149,11 +1135,9 @@ Abeer Butmeh, coordinator of the Palestinian NGOs Network, one of the most impor
 
 #### Oropouche Virus - More than a smidge worrisome
 
-# Ep 206 Oropouche Virus: More than a smidge worrisome
-
 ![Ep 206 Oropouche Virus: More than a smidge worrisome](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:12:38
 
 **Released:** 2026
 
@@ -1173,7 +1157,7 @@ Though discovered relatively recently, Oropouche virus has been making headlines
 
 ![Should I Give Up Beef?](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:41:56
 
 **Released:** 2022
 
@@ -1193,7 +1177,7 @@ A quarter of global greenhouse gas emissions come from agriculture and land use 
 
 ![Smog Cloud Silver Lining](https://i.scdn.co/image/ab67656300005f1f9b8e70445903be860a6bdead)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:34:28
 
 **Released:** 2023
 
@@ -1211,11 +1195,9 @@ Summer 2023 was a pretty scary one for the planet. Global temperatures in June a
 
 #### Sudden Flood in Tibet - The 340th Evolutionary Lens with Bret Weinstein and Heather Heying
 
-# Sudden Flood in Tibet: The 340th Evolutionary Lens with Bret Weinstein and Heather Heying
-
 ![Sudden Flood in Tibet: The 340th Evolutionary Lens with Bret Weinstein and Heather Heying](https://i.scdn.co/image/ab67656300005f1f7adbd7b8499210f438c2e61e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:38:17
 
 **Released:** 2026
 
@@ -1235,7 +1217,7 @@ On this, our 340th Evolutionary Lens livestream, we discuss the recent flash flo
 
 ![The History And Legacy Of Hurricane Helene](https://i.scdn.co/image/ab67656300005f1f66149791638977b8dc4d841a)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:18
 
 **Released:** 2026
 
@@ -1253,11 +1235,11 @@ On the night of Sept. 27, 2024, Hurricane Helene dropped a historic wall of rain
 
 #### This Is Canada's Worst Fire Season In Modern History - It's Not New
 
-# This Is Canada's Worst Fire Season In Modern History. It's Not New
+##### This Is Canada's Worst Fire Season In Modern History. It's Not New
 
 ![This Is Canada's Worst Fire Season In Modern History. It's Not New](https://i.scdn.co/image/ab67656300005f1f4c79fff34b50e2b2ff6b4b1e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:26
 
 **Released:** 2023
 
@@ -1277,7 +1259,7 @@ Canada is having its worst fire season in modern history. The fires have burnt m
 
 ![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:14
 
 **Released:** 2026
 
@@ -1297,7 +1279,7 @@ In the grand scheme of things, Lyme disease is a fairly new scientific discovery
 
 ![We’re better off when we stop pandemics before they start](https://i.scdn.co/image/ab67656300005f1f2a6e1a34b510618b188cb546)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:20:43
 
 **Released:** 2021
 
@@ -1317,7 +1299,7 @@ When Aaron (Ari) Bernstein met his first pediatric patient infected with COVID-1
 
 ![What Ever Happened to the Ozone Hole?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:21
 
 **Released:** 2026
 
@@ -1337,7 +1319,7 @@ A dark blue wound across the bottom of the world — that’s what NASA images s
 
 ![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:31
 
 **Released:** 2023
 
@@ -1355,7 +1337,7 @@ Dotted across the Great Basin of the American West are salty, smelly lakes. The 
 
 :::
 
-## Transcript
+##### Transcript
 
 EMILY KWONG, BYLINE: You're listening to SHORT WAVE from NPR.
 
@@ -1499,7 +1481,7 @@ SCOTT: This episode was produced by Margaret Cirino and Liz Metzger, edited by G
 
 ![What we'll eat on a warmer planet](https://i.scdn.co/image/ab67656300005f1fcb3849cd42dc219b2fef1e3e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:50:28
 
 **Released:** 2024
 
@@ -1519,7 +1501,7 @@ From the farm, to the lab, to our tables, what we eat and how it's grown is chan
 
 ![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:52
 
 **Released:** 2024
 
@@ -1539,7 +1521,7 @@ Superfund sites are some of the most polluted areas in the country, containing h
 
 ![Why are scientists planting tiny forests in big cities?](https://i.scdn.co/image/ab67656300005f1f644d6e6a158e6aa90066442e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:12
 
 **Released:** 2026
 
@@ -1557,11 +1539,11 @@ Healthy forests help combat climate change, provide humans with drinking water a
 
 #### Why Heat Waves Become Deadly
 
-# Presenting: The Carbon Copy – Why Heat Waves Become Deadly
+##### Presenting: The Carbon Copy – Why Heat Waves Become Deadly
 
 ![Presenting: The Carbon Copy – Why Heat Waves Become Deadly](https://i.scdn.co/image/ab67656300005f1fd88e9fa2e08b696116873d43)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:23
 
 **Released:** 2022
 
@@ -1583,11 +1565,11 @@ Today we’re sharing an episode of The Carbon Copy, a climate change podcast pr
 
 **Vox**, *12 22, 2014*
 
-## Video (2:33)
+##### Video (2:33)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/fJ0o2E4d8Ts title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 A new high-resolution computer model created by NASA shows CO2, the greenhouse gas driving global warming, as you've never seen it before. 
 
@@ -1601,7 +1583,7 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+##### Transcript
 
 **0:00** · Cyka Blyat (Male Reporter) 2014 is shaping up to be the warmest year.
 
@@ -1611,11 +1593,11 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **American Museum of Natural History**, *08 11, 2018*
 
-## Video (1:42)
+##### Video (1:42)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/xri0kqT-HUM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Cities tend to be much warmer than their surrounding areas, and global warming is exacerbating this heat island effect. Painting roofs white helps cool buildings and lower energy demand. In New York City, installing these reflective rooftops supports the City's goal to reduce carbon emissions by 80 percent by 2050.
 
@@ -1644,7 +1626,7 @@ This video and all media incorporated herein (including text, images, and audio)
 
 © American Museum of Natural History, New York, NY
 
-## Transcript
+##### Transcript
 
 **0:02** · COMMISSIONER GREGG BISHOP: The "urban heat island" effect affects a lot of cities like New York. Because a tremendous amount of buildings, a lot of concrete, and little vegetation increases the overall temperature of the city. And when the city is really, really, really hot, it affects the health of our citizens, individuals who may suffer from asthma, or may be susceptible to heat waves, our elderly population. So, heat actually affects life and safety.
 
@@ -1672,17 +1654,17 @@ This video and all media incorporated herein (including text, images, and audio)
 
 **nature video**, *01 25, 2023*
 
-## Video (10:31)
+##### Video (10:31)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/CH7MpiGCdgU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The story of Sargassum stretches from the Congo to the Amazon, from soybean farming to climate change and from toxic gases to robotic vehicles. In this documentary researchers from around the world explain the vast scope of the Sargassum problem and the solutions that may one day begin to address it.
 
 Additional photographs and footage in this film were provided by Drake Lee-Patterson, Gary Marshall, Joseph Weekes, Driven Visual Media, Kerwin Noel,  Nick Hurley, Akeisha Clark, Sargassum Information Hub, NASA, Chuanmin Hu, Jeff Davis's team, Hazel Oxenford, Caroline Juang, Melvina Walsh, Morgan Lewis, Kerton Jobe, P McConney, Markel Gomez Letona and Nico Frohberg who were mistakenly missed off the film credits.
 
-## Transcript
+##### Transcript
 
 **0:03** · VOICE OVER: The Great Atlantic Sargassum Belt is the largest seaweed bloom in the world, and it's expanding.
 
@@ -1840,15 +1822,13 @@ Additional photographs and footage in this film were provided by Drake Lee-Patte
 
 #### Extreme Heat Is the New Normal
 
-# Extreme Heat Is the New Normal  Op-Docs
-
 **New York Times Opinion**, *08 28, 2026*
 
-## Video (15:42)
+##### Video (15:42)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/QcHuAtK_H_8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 We filmed “A New Inferno,” the short documentary above, in Phoenix, one of the hottest cities in America, through some of the city’s hottest days of 2025, during one of the hottest years on record globally. On one of our production days, temperatures reached 118 while we were filming outside.
 
@@ -1876,9 +1856,9 @@ Subscribe: http://bit.ly/U8Ys7n
 
 14:40 Facing a warming world
 
-## Transcript
+##### Transcript
 
-### Phoenix is only getting hotter
+###### Phoenix is only getting hotter
 
 **0:00** · [SIREN]
 
@@ -1936,7 +1916,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **2:04** · Go check his temp.
 
-### ‘The feedback loop of nightmares’
+###### ‘The feedback loop of nightmares’
 
 **2:08** · He’s overheated.
 
@@ -1990,7 +1970,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **3:50** · Arriving.
 
-### Ice bag immersion training simulation
+###### Ice bag immersion training simulation
 
 **3:56** · It’s going to be a 40s male, altered level of consciousness.
 
@@ -2132,7 +2112,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **7:36** · What’s the address?
 
-### How firefighters respond to heat-related emergencies
+###### How firefighters respond to heat-related emergencies
 
 **7:40** · OK. And is she awake right now?
 
@@ -2260,7 +2240,7 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **12:50** · Like, he was at that threshold to where it’s a few more minutes.
 
-### ‘He was really close. He was at that threshold.’
+###### ‘He was really close. He was at that threshold.’
 
 **12:58** · Like, if somebody didn’t find him at that particular moment.
 
@@ -2304,11 +2284,11 @@ Subscribe: http://bit.ly/U8Ys7n
 
 **Bloomberg Originals**, *03 08, 2023*
 
-## Video (12:22)
+##### Video (12:22)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/XCAVWXHHnqg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Humans are increasingly reliant on air conditioning, but its use contributes to global warming. As the world warms and demand rises, how can we make A/C sustainable? In Spain and India, Kal Penn explores two innovative solutions. 
 
@@ -2338,9 +2318,9 @@ Subscribe for business news, but not as you've known it: exclusive interviews, f
 
 Visit our partner channel Bloomberg Quicktake for global news and insight in an instant.
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:04** · Cooling, whether that's air conditioning or refrigerators is probably one of the biggest challenges we face with respect to climate change.
 
@@ -2360,7 +2340,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **1:01** · Turns out some of the solutions already existed centuries ago.
 
-### Cool roofs
+###### Cool roofs
 
 **1:10** · Dr. Denia Kolokotsa has been studying energy efficiency in buildings for the last three decades.
 
@@ -2388,7 +2368,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **2:16** · Passive cooling in Egypt is to have smaller openings and smaller windows in order not to allow the sun to come in.
 
-### Madrids fish market
+###### Madrids fish market
 
 **2:27** · Madrid is notoriously hot in the summer.
 
@@ -2418,7 +2398,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **4:58** · So cool roofs are helping this market, but in order to make a dent in the global demand for cooling we need multiple solutions working at once.
 
-### Skycool
+###### Skycool
 
 **5:11** · In California, a company has come up with a new cooling technology that is also inspired by ancient wisdom.
 
@@ -2450,7 +2430,7 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **7:17** · They say their clients save cooling energy by 15-20% but Skycool is also keen to introduce their technology to emerging economies like India, where demand for cooling is expected to skyrocket.
 
-### India
+###### India
 
 **7:35** · Recently, they've partnered with industrial equipment maker Trane to help Indian street vendors who have little access to refrigerators.
 
@@ -2532,11 +2512,11 @@ Visit our partner channel Bloomberg Quicktake for global news and insight in an 
 
 **Sky News**, *07 15, 2022*
 
-## Video (2:40)
+##### Video (2:40)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/YX3C3eq2MJY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Extreme heat is going to be felt across the country, but it's our cities that will be worst hit, as a phenomenon called the urban heat island effect drives temperatures even higher. 
 
@@ -2568,7 +2548,7 @@ Sky News videos are also available in German here/Hier können Sie außerdem Sky
 
 To enquire about licensing Sky News content, you can find more information here:  https://news.sky.com/info/library-sales
 
-## Transcript
+##### Transcript
 
 **0:00** · our towns and cities just weren't built to be this hot baked by the sun with little shade urban living can be stifling at mossborne parkside academy in east london the children are well drilled the school is victorian and keeping the classrooms cool is a challenge
 
@@ -2588,11 +2568,11 @@ To enquire about licensing Sky News content, you can find more information here:
 
 **Vox**, *09 20, 2021*
 
-## Video (6:48)
+##### Video (6:48)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/ZQ6fSHr5TJg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Can trees help save Phoenix from extreme heat?
 
@@ -2643,7 +2623,7 @@ Follow Vox on Facebook: http://goo.gl/U2g06o
 
 Or Twitter: http://goo.gl/XFrZ5H
 
-## Transcript
+##### Transcript
 
 **0:02** · I’m looking at a map of surface temperatures in the Phoenix metro area.
 
@@ -2849,11 +2829,11 @@ Or Twitter: http://goo.gl/XFrZ5H
 
 **PBS Vitals**, *09 05, 2023*
 
-## Video (12:41)
+##### Video (12:41)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/8mQllQnJrhg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Check out our collaboration with PBS Weathered (Terra) about the new disease risks that climate change is bringing with it!  https://www.youtube.com/watch?v=wofEVzObZdU
 
@@ -2954,9 +2934,9 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 10:24 Personal protection
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:00** · out here in Northern California.
 
@@ -2988,7 +2968,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **1:18** · That smoke is what really does the damage like burning eyes, a sore throat, a cough.
 
-### lung and cardiac impact of smoke
+###### lung and cardiac impact of smoke
 
 **1:25** · But there are certain vulnerable populations that may have much more health impacts.
 
@@ -3006,7 +2986,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **2:17** · It seems that fire season is getting longer and the fires are getting worse.
 
-### Maiya May talks about long-term trends
+###### Maiya May talks about long-term trends
 
 **2:22** · But I worry, will this trend continue forever?
 
@@ -3048,7 +3028,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **4:22** · So what exactly is in smoke that makes it so harmful?
 
-### What is in wildfire smoke?
+###### What is in wildfire smoke?
 
 **4:25** · Well, obviously, it depends on what's burning, but combustion always produces pollutants.
 
@@ -3086,7 +3066,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **6:01** · one big concern is the effect of repeated exposures year after year.
 
-### Effects of repeated exposure
+###### Effects of repeated exposure
 
 **6:06** · Or breathing in smoke for days and days on end.
 
@@ -3098,7 +3078,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **6:27** · The studies haven't been done, but we can learn something by looking at the people who are exposed to smoke routinely as part of their job.
 
-### Studies on firefighters
+###### Studies on firefighters
 
 **6:35** · I'm talking about firefighters.
 
@@ -3122,7 +3102,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **7:37** · some of the connections are surprising.
 
-### Surprising but less-studied health impacts
+###### Surprising but less-studied health impacts
 
 **7:39** · For example, some studies have found that smoke exposure increases risk of developing dementia.
 
@@ -3140,7 +3120,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **8:08** · wildfires can cause personal and environmental devastation.
 
-### impact on pregant women and babies
+###### impact on pregant women and babies
 
 **8:12** · And few places know this as well as Northern California.
 
@@ -3170,7 +3150,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **9:10** · Very familiar with the air quality index.
 
-### Breaking down the Air Quality Index (AQI)
+###### Breaking down the Air Quality Index (AQI)
 
 **9:13** · This tool that was developed by the U.S.
 
@@ -3204,7 +3184,7 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **10:21** · You go online, you put in your zip code, and there you go.
 
-### Personal protection
+###### Personal protection
 
 **10:24** · So, for example, the AQI is high.
 
@@ -3264,11 +3244,11 @@ https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home#:~:
 
 **Vox**, *10 26, 2023*
 
-## Video (6:49)
+##### Video (6:49)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/nf-Yy3EuZi0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 These "sponge city" designs resist floods and increase biodiversity to help us adapt to a changing climate.
 
@@ -3304,7 +3284,7 @@ Check out our articles: https://www.vox.com/
 
 Listen to our podcasts: https://www.vox.com/podcasts
 
-## Transcript
+##### Transcript
 
 **0:02** · This isn't a forest.
 
@@ -3460,11 +3440,11 @@ Listen to our podcasts: https://www.vox.com/podcasts
 
 **PBS**, *09 10, 2026*
 
-## Video (8:53)
+##### Video (8:53)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/g3crFJTKUZc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/4wkQIAG
 
@@ -3494,9 +3474,9 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 #climatesolutions #coloradoriver #waterrights
 
-## Transcript
+##### Transcript
 
-### The Imperial Valley oasis
+###### The Imperial Valley oasis
 
 **0:01** · The Imperial Valley sits downstream of two massive reservoirs: Lake Powell and Lake Mead.
 
@@ -3542,7 +3522,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **1:24** · O'BRIEN (voiceover): After all the lemons were boxed and shipped, Gina unpacked her family story.
 
-### Water use and crop priorities
+###### Water use and crop priorities
 
 **1:31** · I am fourth-generation, and my son is fifth-generation.
 
@@ -3586,7 +3566,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **3:34** · You think municipalities are gonna come in, you think the cities are gonna come and, and take our water.
 
-### Water management and policy
+###### Water management and policy
 
 **3:40** · O'BRIEN: That's exactly what happened in 2003.
 
@@ -3626,7 +3606,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **5:14** · (water rushing) SHIELDS: And he delivered it at 6:30, and then here's his measurement what he took, 9.3.
 
-### Modern irrigation strategies
+###### Modern irrigation strategies
 
 **5:21** · So, how long will this gate be open today?
 
@@ -3670,7 +3650,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **6:55** · He showed me an alfalfa field that he put in the Imperial Irrigation District's Deficit Irrigation Program, or DIP.
 
-### Adapting to a limited supply
+###### Adapting to a limited supply
 
 **7:04** · Farmers are paid to cease irrigating some of their crops during the hot summer months when evaporation is at its peak.
 
@@ -3714,11 +3694,11 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **DW Planet A**, *09 20, 2024*
 
-## Video (12:46)
+##### Video (12:46)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/GgKi2x9od_0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 In Singapore, water supply impacted wars, the economy and people's health. Now, one of the most water-stressed countries is teaching the world how to handle water when there is hardly any.  
 
@@ -3774,9 +3754,9 @@ Chapters:
 
 10:14 Conclusion
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:01** · No joke, but this place...
 
@@ -3790,7 +3770,7 @@ Chapters:
 
 **0:20** · This is how Singapore is transforming itself from one of the most water-stressed countries in the world to self-sufficiency, from water rags – to riches.
 
-### The challenge
+###### The challenge
 
 **0:36** · Welcome to Singapore!
 
@@ -3830,7 +3810,7 @@ Chapters:
 
 **1:50** · To understand how Singapore can pull this off, you first need to understand where they're coming from.
 
-### History
+###### History
 
 **1:58** · "The Singapore water story starts with World War 2."
 
@@ -3860,7 +3840,7 @@ Chapters:
 
 **3:28** · That was in 1965 for 2060."
 
-### Step 1: Imported Water
+###### Step 1: Imported Water
 
 **3:32** · Their initial masterplan was fine-tuned over the years into a water strategy which they call their "4 national taps".
 
@@ -3888,7 +3868,7 @@ Chapters:
 
 **4:48** · This means keeping rivers and drains clean, investing billions, starting to collect more water, cleaning it and use what the island state Singapore already has.
 
-### Step 2: Desalination
+###### Step 2: Desalination
 
 **4:57** · For example, this: The ocean!
 
@@ -3930,7 +3910,7 @@ Chapters:
 
 **6:07** · So, what's next?
 
-### Step 3: Local Catchment
+###### Step 3: Local Catchment
 
 **6:09** · Bingo! Rain!
 
@@ -3956,7 +3936,7 @@ Chapters:
 
 **7:11** · By 2060, the government wants to use 90% of the land area for rain catchment.
 
-### Step 4: NEWater
+###### Step 4: NEWater
 
 **7:18** · Catching rainwater is one thing, but what about the water already in circulation?
 
@@ -3994,7 +3974,7 @@ Chapters:
 
 **9:17** · And we typically think of that as a, a liability, as something to get rid of."
 
-### Policy and Education
+###### Policy and Education
 
 **9:22** · So how do you get people on board?
 
@@ -4022,7 +4002,7 @@ Chapters:
 
 **10:04** · They've educated their community about their water situation, about their water challenges, and about the solutions that they've chosen to push."
 
-### Conclusion
+###### Conclusion
 
 **10:14** · As good as Singapore is doing, it has big advantages over other countries.
 
@@ -4082,11 +4062,11 @@ Chapters:
 
 **Bloomberg Originals**, *03 17, 2021*
 
-## Video (9:49)
+##### Video (9:49)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/PM101DvvG4Q?start=96 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Heat waves kill more people than any other extreme weather event: more than tornados, hurricanes, and even floods. That’s why scientists are coming up with novel, new designs to help keep temperatures down in Singapore.
 
@@ -4102,9 +4082,9 @@ Subscribe for business news, but not as you've known it: exclusive interviews, f
 
 Visit our partner channel QuickTake News for breaking global news and insight in an instant.
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:01** · If you look at a thermal image of a city and then compare that to a map of vegetation, you'll find that where there's greenery, the temperature is lower.
 
@@ -4120,7 +4100,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **0:54** · The government-backed project called Cooling Singapore is now in the process of combining everything they've learned to create a digital tool that can help cities all over the world, starting with Singapore.
 
-### Cooling Singapore
+###### Cooling Singapore
 
 **1:10** · In Singapore, close to the equator, temperatures regularly rise above 32 degrees Celsius or 90 degrees Fahrenheit.
 
@@ -4154,7 +4134,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **3:18** · It's a vicious circle.
 
-### Vegetation
+###### Vegetation
 
 **3:20** · And so since 2017, researchers at Cooling Singapore have been identifying design solutions that reduce our need for so much cool air in the first place.
 
@@ -4172,7 +4152,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **4:05** · But vegetation can also go up the facades of buildings and it can go to the roof of the buildings.
 
-### Garden City Feel
+###### Garden City Feel
 
 **4:14** · Luckily, Singapore has been striving for the Garden City feel for quite some time.
 
@@ -4198,7 +4178,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **5:39** · But it's not enough.
 
-### Heat Mitigation
+###### Heat Mitigation
 
 **5:41** · The city-state has still been warming twice as quickly as the world average over the past six decades.
 
@@ -4230,7 +4210,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **7:10** · If all the roofs and the areas in the buildings, on the buildings, on the facades would be used to do that.
 
-### Urban Climate Twin
+###### Urban Climate Twin
 
 **7:20** · With so many different ideas, Cooling Singapore is also designing a virtual model of the city to test them out.
 
@@ -4244,7 +4224,7 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **8:09** · And if they test very well and we are sure that they will function, then we can start to build them and put them into reality.
 
-### Conclusion
+###### Conclusion
 
 **8:23** · Singapore will be using this new tool to figure out which actions it should take next.
 
@@ -4262,11 +4242,11 @@ Visit our partner channel QuickTake News for breaking global news and insight in
 
 **Did You See This?**, *07 21, 2021*
 
-## Video (7:14)
+##### Video (7:14)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/E6WI_RWNrCU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The urban heat island effect is a phenomenon affecting more than 100 cities across the U.S. — here’s how it works and why it disproportionately impacts communities of color.
 
@@ -4298,17 +4278,17 @@ http://www.youtube.com/nowthisearth
 
 @NowThisEarth
 
-## Transcript
+##### Transcript
 
 #### How urban heat islands make the impacts of excessive heat worse
 
 **PBS NewsHour**, *07 27, 2023*
 
-## Video (6:11)
+##### Video (6:11)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/WAqNDArb70M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Living in certain parts of a city can make the impacts of extreme heat worse. That’s because of a phenomenon called the urban heat island effect. A recent report by the research group Climate Central showed that more than 40 million Americans live in these hot spots. William Brangham discussed what this means for those residents with Michael Mendez of the University of California, Irvine.
 
@@ -4334,9 +4314,9 @@ PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
 
 Newsletters: https://www.pbs.org/newshour/subscribe
 
-## Transcript
+##### Transcript
 
-### What is an urban heat island
+###### What is an urban heat island
 
 **0:00** · WILLIAM BRANGHAM: So, in addition to the dangers faced by where someone works, sometimes, where you live can also make the impacts of extreme heat worse, like living in certain parts of a city.
 
@@ -4366,7 +4346,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **2:29** · WILLIAM BRANGHAM: I cited this study that says that millions of Americans are living in -- under these types of conditions that you're describing.
 
-### Can you explain why certain people are more vulnerable
+###### Can you explain why certain people are more vulnerable
 
 **2:36** · But I also understand that it is not equally spread across demographics, that certain people are more vulnerable than others. Can you explain?
 
@@ -4376,7 +4356,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **3:16** · So it's no surprise, when a heat wave or other type of extreme weather event strikes these communities, they're the least prepared and often suffered the most impacts, because they don't have -- they have crumbling infrastructure, and they don't have the amenities that will protect them and make them more resilient from our changing and extreme climate.
 
-### What are the possible solutions
+###### What are the possible solutions
 
 **3:36** · WILLIAM BRANGHAM: You have been describing or hinting at a few of what seem like the possible solutions here.
 
@@ -4390,7 +4370,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **4:38** · They can clean our water, recharge our groundwater, but also provide green space and recreational spaces. So, we need to look for multibenefit policies and projects that attack multiple problems that climate change is causing our urban areas and throughout our nation.
 
-### What communities are doing
+###### What communities are doing
 
 **4:56** · WILLIAM BRANGHAM: I mean, some of these things you're talking about seem quite quick. I mean, you can paint a roof a different color quite quickly. Trees, we know, take longer to grow.
 
@@ -4410,11 +4390,11 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **NASA Goddard**, *12 10, 2010*
 
-## Video (2:23)
+##### Video (2:23)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/lnBO4vX82Fs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 At the 2010 American Geophysical Union (AGU) conference in San Francisco, Dr. Ping Zhang will present her findings on the Urban Heat Island effect.  The data collected spans from 1995 to 2005 and will give scientists an idea of why cities are warmer than their surrounding areas, as well as what effect this will have on the planet.
 
@@ -4432,23 +4412,23 @@ Or find us on Twitter:
 
 ‪http://twitter.com/NASAGoddard‬
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:08** · Urban heat islands affect human health and it affects energy consumption. Those two things alone are enough to drive worldwide interest. (Zhang) When we build an urban area, we're replacing the vegetated surface and also the soil surface with this imperious surface like the paving material and the building material. By doing this, we're basically warming the urban areas, and this will generate a temperature difference.
 
-### What is Urban Heat Island
+###### What is Urban Heat Island
 
 **0:36** · And that's what we can the urban heat island. We find out that the urban heat island affected by several factors.
 
-### Factors affecting Urban Heat Island
+###### Factors affecting Urban Heat Island
 
 **0:44** · The first factor will be the surrounding ecological context.
 
 **0:48** · And then will be the size of the city. When talking about size, we can we mean both the area of the city and also the population size of the city. And then will be the shape of the city and also the development patterns of the city.
 
-### Urban Heat Island
+###### Urban Heat Island
 
 **1:04** · (Imhoff) We used a variety of satellite data, both land surface data from MODIS and also impervious surface data from the Landsat satellite. Inpervious surface data essentially tells us how much building material is on the land surface in order to study the urban heat island. The urban heat island is much larger if you convert a forested area into an urban. And this is because the urban heat island is a relative measure. So, urban areas in forests are much warmer than the surrounding landscape than they are in deserts for example, because the surrounding landscape is already warm.
 
@@ -4460,11 +4440,11 @@ Or find us on Twitter:
 
 **PBS NewsHour**, *07 16, 2026*
 
-## Video (5:15)
+##### Video (5:15)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/UloYfl0ssgw?start=5 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 More than 115 million people may be exposed to dangerous smoke and unhealthy air quality levels. That's because wildfire smoke is spreading and triggering health advisories in at least 17 states from the Midwest to the Mid-Atlantic. It's led to flight delays, the closure of pools and beaches, and the cancellation of many other outdoor activities. Stephanie Sy reports. 
 
@@ -4492,7 +4472,7 @@ Instagram: http://www.instagram.com/newshour
 
 Facebook: http://www.pbs.org/newshour
 
-## Transcript
+##### Transcript
 
 **0:00** · Between now and Saturday, more than 115 million people may be exposed to dangerous smoke and unhealthy air quality levels. That's because wildfire smoke is spreading and triggering health advisories in at least 17 states from the Midwest to the Mid-Atlantic. Thousands have evacuated northern Minnesota and other states, it's led to flight delays, the closure of pools and beaches and the cancellation of many other outdoor activities. Stephanie Tsai has our report.
 
@@ -4524,11 +4504,11 @@ Facebook: http://www.pbs.org/newshour
 
 **PBS**, *09 16, 2026*
 
-## Video (7:36)
+##### Video (7:36)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/6qRszyLJdUI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/3Vig7OG
 
@@ -4558,7 +4538,7 @@ Ages of Ice
 
 A story of scientific daring and discovery, grit, and human endeavor, where unlocking the mysteries of our icy worlds is key to unlocking the forces that drive our planet. The three-part documentary series narrated by acclaimed Scottish actor David Tennant, is a high-stakes journey into the planet's frozen wilderness, revealing the extraordinary wildlife, breathtaking landscapes, and rapidly changing ecosystems of Earth's polar regions.
 
-## Transcript
+##### Transcript
 
 **0:00** · In the stage, we are in the orbit around our sun.
 
@@ -4702,11 +4682,11 @@ A story of scientific daring and discovery, grit, and human endeavor, where unlo
 
 **PBS Terra**, *10 30, 2024*
 
-## Video (12:08)
+##### Video (12:08)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/_uVdeK2nrrg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
 
@@ -4744,9 +4724,9 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 #californiawildfires #palisadesfire
 
-## Transcript
+##### Transcript
 
-### The new wildfire reality
+###### The new wildfire reality
 
 
 **0:00** · 80% of wildfire destruction is caused by one type of fire that until recently was rare. Scientists just figured out what these destructive fires have in common, and it's not what you might guess to understand what's going on. We talked to Battalion Chief, Mike McClintock, who fought this type of fire during the summer of 2024.
@@ -4755,7 +4735,7 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **0:43** · The number of homes burned each year is going up. The Rim fire in California was massive at over 257,000 acres, but it only destroyed 11 homes and no one died. When you compare that to the Lahaina fire in Maui, which was a hundred times smaller, burned 2200 homes and buildings and was the deadliest fire in modern U.S. history, it's obvious that we're missing something.
 
-### Revisiting fire research
+###### Revisiting fire research
 
 **1:09** · In this episode, we're going to look at new research that could fundamentally change how we think about wildfire risk, what to expect in the future and what we can do to prevent losses. With entire towns being wiped off the map like Paradise, California, Jennifer and her team wanted to understand why.
 
@@ -4775,7 +4755,7 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **2:26** · This is a new discovery that we have made by putting together all of these different data sources and looking at fire from space.
 
-### Speed dictates destruction
+###### Speed dictates destruction
 
 
 **2:33** · Today, so many science discoveries don't happen in the field, but in simulations powered by enormous supercomputers that perform quadrillions of calculations each second to model our climate. I got to visit one of these supercomputers in my new show, Weathered: Earth's Extremes, where I traveled the world to find out where we are and where we're going in this moment of climate change. You can watch right now on the PBS app, but back to fire.
@@ -4788,7 +4768,7 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **3:28** · And fast fires themselves changed in a worrying way during the study window. We'll get to that in a bit, but first, why are fast fires so destructive?
 
-### Firefighting in fast fires
+###### Firefighting in fast fires
 
 **3:37** · And why are they so destructive in a place like Southern California with some of the most experienced firefighters in the world, backed by impressive air support?
 
@@ -4814,7 +4794,7 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **5:04** · So they fought from house to house and help residents evacuate. By the end of September 10th, the Bridge Fire had exploded from 4,000 acres to over 34,000. This fire is part of a growing trend. During Jennifer's 20 year study period, fires got 249% faster across the West and 400% faster in California.
 
-### Drivers of rapid spread
+###### Drivers of rapid spread
 
 **5:26** · But what's making them faster?
 
@@ -4832,7 +4812,7 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **6:46** · So what does that mean for the future of fast fires?
 
-### Climate change and risk
+###### Climate change and risk
 
 
 **6:50** · With increasing temperatures, we know that we're essentially pulling more moisture out of fuels, we're making them drier. And that's the big impact of climate change on fire is making fuels more available and more available throughout the year.
@@ -4841,7 +4821,7 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **7:13** · Models predict that the number of extreme fire spread events will more than double with two degrees Celsius of global warming, plus a doubling of acres burned. And that's not far from our current level of warming. We can't have a fast fire without strong wind. But the type of wind that causes many destructive fires has a special characteristic that makes it particularly dangerous.
 
-### The danger of wind events
+###### The danger of wind events
 
 **7:35** · We worked with NASA to create scientifically accurate animations of the wind and fire progressions during a handful of fast, destructive fires to illustrate what's going on.
 
@@ -4857,7 +4837,7 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **9:13** · During the Labor Day fires, river canyons turned into wind tunnels with speeds reaching 100 miles per hour. Wind blew over power lines and ignited fires in and around small communities, fanning existing fires to create one of the most destructive fire seasons in state history. These aren't just regular wildfires, they're wind events with fire in them.
 
-### Preparing for future fires
+###### Preparing for future fires
 
 
 **9:36** · In those situations where you have an extreme wind event, basically the fire becomes uncontrollable. You know, fire suppression efforts are extremely ineffective in that situation. 'cause basically, for safety reasons, the firefighters just have to get out of the way. And so there's, there's really no stopping it.
@@ -4898,11 +4878,11 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
 **TED-Ed**, *09 12, 2013*
 
-## Video (4:08)
+##### Video (4:08)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/fKnAJCSGSdk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 View full lesson: http://ed.ted.com/lessons/urbanization-and-the-future-of-cities-vance-kite
 
@@ -4910,7 +4890,7 @@ About 10,000 years ago, hunter-gatherers, aided by rudimentary agriculture, move
 
 Lesson by Vance Kite, animation by ATMG Studio.
 
-## Transcript
+##### Transcript
 
 **0:06** · Today ,more than half of all people in the world live in an urban area.
 
@@ -4950,10 +4930,10 @@ Lesson by Vance Kite, animation by ATMG Studio.
 
 **2:20** · The Roman Empire was able to develop infrastructure to overcome these limitations, but other than that, modern cities as we know them, didn't really get their start until the Industrial Revolution, when new technology deployed on a mass scale allowed cities to expand and integrate further, establishing police, fire, and sanitation departments, as well as road networks, and later electricity distribution.
 
-### Industrial Revolution
+###### Industrial Revolution
 
 
-### What Is the Future of Cities
+###### What Is the Future of Cities
 
 **2:43** · So, what is the future of cities?
 
@@ -4973,7 +4953,7 @@ Lesson by Vance Kite, animation by ATMG Studio.
 
 **3:33** · We may see buildings that contain everything that people need for their daily life, as well as a smaller, self-sufficient cities focused on local and sustainable production.
 
-### The Future of Cities
+###### The Future of Cities
 
 **3:42** · The future of cities is diverse, malleable, and creative, no longer built around a single industry, but reflecting an increasingly connected and global world.
 
@@ -4981,11 +4961,11 @@ Lesson by Vance Kite, animation by ATMG Studio.
 
 **PBS**, *09 03, 2026*
 
-## Video (9:59)
+##### Video (9:59)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/wXoqEJlsKu0?start=2 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch more of this series: https://to.pbs.org/4wkQIAG
 
@@ -5017,7 +4997,7 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 #heat #heatwave #extremeweather #climatesolutions
 
-## Transcript
+##### Transcript
 
 **0:01** · MILES O'BRIEN: At the iconic Sydney Opera House, I met a scientist looking for an answer.
 
@@ -5241,11 +5221,11 @@ Miles O'Brien travels the globe searching for solutions to climate, water, and h
 
 **PBS Terra**, *06 18, 2025*
 
-## Video (11:45)
+##### Video (11:45)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/7hBMbQ9de1g title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
 
@@ -5270,9 +5250,9 @@ Tiktok: https://www.tiktok.com/@pbsterra
 
 Instagram:  https://instagram.com/pbsterra
 
-## Transcript
+##### Transcript
 
-### The new era of extreme heat
+###### The new era of extreme heat
 
 
 **0:00** · Most of the deadliest heat waves to date have been dry heat waves. But as our climate warms a possibly even deadlier heat is on the rise.
@@ -5291,7 +5271,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **1:00** · Stick around as we break down why these temperatures are so deadly and how we can prepare for a world that's so warm, our bodies literally can't handle it. Let's start by talking about dry versus humid heat. Dry heat waves are usually driven by large high pressure systems that trap hot air near the surface. These systems push air downward, and as the air compresses, it heats up in a process called adiabatic heating.
 
-### Dry vs. humid heat waves
+###### Dry vs. humid heat waves
 
 **1:33** · If the high stays stuck in place, the heat builds day after day with no clouds or wind to carry it away. And that's exactly what happened during the 2003 European heat wave and the 2021 Pacific Northwest heat dome. Now let's take a look at humid heat.
 
@@ -5301,7 +5281,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **2:26** · Humans primarily cool down by sweating, but when the air is humid, sweat can't evaporate as easily, so we don't cool off as well. This is where wet-bulb comes into play. wet-bulb temperature combines heat and humidity into a single number, which helps us understand when conditions become dangerous or even lethal.
 
-### Understanding wet bulb
+###### Understanding wet bulb
 
 
 **2:46** · You can imagine taking a normal thermometer. If you take that thermometer and you cover the bulb in a little sock that is then placed into a container of water, so it's constantly wetted. Evaporation's going to take place off of that little sock and it's gonna have a net cooling effect.
@@ -5312,7 +5292,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **3:31** · Which is why humid heat feels so muggy and uncomfortable for us and why it can be so dangerous. There have been a number of attempts to better understand how humid heat affects the human body, in particular where our physical limits are, but it's not easy to identify dangerous wet-bulb thresholds because well, they're dangerous.
 
-### Physiological limits of heat
+###### Physiological limits of heat
 
 
 **3:53** · So obviously you can't put someone in a heat chamber and truly cook them. That would be unethical. But what you can do is increase temperature and humidity and measure someone's core temperature and see what's the point at which their core temperature starts to increase. And that's the limit of compensability.
@@ -5329,7 +5309,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **5:31** · So according to their study, where on earth are we likely to cross these thresholds?
 
-### Future global heat impact
+###### Future global heat impact
 
 **5:37** · Well, at two degrees Celsius of global warming, which could come in as little as two decades for older adults. It's about a third of Earth's land area, but that only tells part of the story.
 
@@ -5337,7 +5317,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **6:01** · And if we let global warming get really out of hand or if climate sensitivity is just on the higher end of our projections at four degrees Celsius above pre-industrial levels, over 60% of Earth's landmass could see these dangerous wet-bulb temperatures. Heat is the deadliest weather disaster in the U.S. in many parts of the world, and it's projected to get a lot deadlier.
 
-### The necessity of cooling
+###### The necessity of cooling
 
 **6:26** · During the 2003 European heatwave, up to 3,400 people died in Paris alone. At two degrees Celsius, which is again only a couple decades away, scientists found that Paris will see deadly heat waves like this once every few years rather than once a century. And though this heat wave in 2003 was among the deadliest in recent history, it didn't get close to the dangerous wet-bulb thresholds we've been discussing in this episode.
 
@@ -5347,7 +5327,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **7:33** · It doesn't matter how breezy it is, it doesn't matter how much shade you're under, it doesn't matter how much water you're drinking. The only way you can protect yourself from these conditions is by cooling your environment. And so that is why air conditioning is really the major adaptation measure and protection measure that we have.
 
-### Risks of relying on AC
+###### Risks of relying on AC
 
 
 **7:51** · And although AC is one of the most important tools for surviving extreme heat, it's far from perfect. First of all, it's expensive. AC is energy intensive, and as our climate gets warmer, many people won't be able to afford to stay cool. And due to its financial inaccessibility, many people in places most vulnerable to deadly heat don't have access to AC. Second, air conditioning doesn't eliminate heat, it just moves it.
@@ -5358,7 +5338,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **9:07** · And these compounding hazards like a heat wave after a hurricane are a growing concern as we head towards unprecedented levels of warming for humans. And as weather across the board just gets more extreme, but there's one more catch. The more we rely on ac, the more we could be fueling the base problem of global warming.
 
-### Sustainable cooling solutions
+###### Sustainable cooling solutions
 
 
 **9:29** · If you tried to just build out air conditioning to deal with heat risk, how much would that contribute to carbon emissions across the world?
@@ -5375,7 +5355,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **10:30** · We can also build more cooling centers, upgrade our electrical grids to be more resilient and prioritize protecting the most vulnerable during heat waves. The truth is that we are headed into uncharted territory, but it's also true that we still have time to choose how bad it gets.
 
-### Conclusion and resources
+###### Conclusion and resources
 
 **10:48** · So do you live in an area that's already experiencing dangerously hot and humid conditions?
 
@@ -5389,11 +5369,11 @@ Instagram:  https://instagram.com/pbsterra
 
 **Vox**, *12 22, 2016*
 
-## Video (3:10)
+##### Video (3:10)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/aKyvGHycngM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Over 3 million people die annually from air pollution. Planting trees can help lower that number.
 
@@ -5415,9 +5395,9 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:00** · Search Google Earth for China and you’ll see this.
 
@@ -5433,7 +5413,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **0:25** · As officials explore options for fighting air pollution, there is one tool that is often overlooked: trees.
 
-### Air pollution
+###### Air pollution
 
 **0:35** · Cities are centers of industry, but the resulting pollution is filling our lungs and making us sick.
 
@@ -5447,7 +5427,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **1:10** · and in the Netherlands, designers have created a giant air purifier they call "The Smog Free Tower", which is cool, but there is another, simpler solution… A new report from The Nature Conservancy shows that planting trees can be a cost-effective way to improve public health, which they do in two ways: First, a tree removes particulate matter when polluted air blows through its branches.
 
-### Planting trees
+###### Planting trees
 
 **1:31** · The particulate matter settles on the leaves and when it rains the dust is washed down the gutter so we don’t inhale it.
 
@@ -5479,11 +5459,11 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **NPR**, *08 14, 2018*
 
-## Video (2:29)
+##### Video (2:29)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/Y-bVwPRy_no title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The way cities are designed and inhabited can make actually make them hotter. So what's the solution? We explore a few ideas for beating the urban heat. 
 
@@ -5513,7 +5493,7 @@ ABOUT NPR
 
 NPR connects to audiences on the air, on demand, online, and in person. More than 26 million radio listeners tune in to NPR stations each week and more than 36 million unique visitors access NPR.org each month making NPR one of the most trusted sources of news and insights on life and the arts. NPR is also the leading publisher of podcasts, with 36 original shows and an average of 4 million listeners per week. NPR shares compelling stories, audio and photos with millions of social media users on Facebook, Twitter, Instagram, Pinterest, YouTube and Snapchat; NPR News and NPR One apps, online streaming, podcasts, iTunes radio and connected car dashboards help meet audiences where they are. NPR's live events bring to the stage two-way conversations between NPR hosts and the audience in collaboration with the public radio Member Station community. This robust access to public service journalism makes NPR an indispensable resource in the media landscape.
 
-## Transcript
+##### Transcript
 
 **0:04** · There’s a reason that summers in the city are so hot, and it’s probably easiest to explain why with thermal vision.
 
@@ -5521,7 +5501,7 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **0:16** · Cities are often hotter than their suburbs due to a phenomenon known as “the heat island effect.”
 
-### The Heat Island Effect
+###### The Heat Island Effect
 
 **0:24** · All of that asphalt, concrete, dark rooftops and tall buildings— they absorb and store heat.
 
@@ -5545,7 +5525,7 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **1:25** · Another solution is color.
 
-### Color Light
+###### Color Light
 
 **1:27** · Light colors reflect sunlight back into the atmosphere instead of storing it as heat.
 
@@ -5553,7 +5533,7 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **1:39** · And one long-game way to combat the heat island effect is to avoid using air conditioning when you don’t need it.
 
-### Avoid Using Air Conditioning
+###### Avoid Using Air Conditioning
 
 **1:45** · AC uses a ton of electricity and creates a feedback loop.
 
@@ -5577,11 +5557,11 @@ NPR connects to audiences on the air, on demand, online, and in person. More tha
 
 **PBS NewsHour**, *09-21-2025*
 
-## Video (6:18)
+##### Video (6:18)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/YD65HBUggg4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 According to a new study, the planet is drying at an unprecedented pace, presenting a critical threat to humanity. Researchers found that “continental drying is having profound global impacts” that “threaten water availability” across the globe. To learn more, Ali Rogin speaks with ProPublica climate investigations editor Abrahm Lustgarten for our series, Tipping Point.
 
@@ -5609,7 +5589,7 @@ PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
 
 Newsletters: https://www.pbs.org/newshour/subscribe
 
-## Transcript
+##### Transcript
 
 **0:02** · Ali: The planet is drying at an unprecedented pace, presenting a critical threat to humanity.
 
@@ -5667,15 +5647,15 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **Jonathan Pickett**, *09-13-2026*
 
-## Documentary Film (00:15:42)
+##### Documentary Film (00:15:42)
 
 <iframe title="vimeo-player" src=https://player.vimeo.com/video/1226433979?h=016606b872 width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Filmed during the hottest days of Phoenix, Arizona’s summer heatwave, A NEW INFERNO follows paramedics as they race to save the lives of heatstroke victims using a radical new treatment: ice immersion therapy.  As featured on the NY Times Op Docs — We Are Living in a New Inferno  World Premiere SXSW Film Festival, 2026  Featuring Jason Smith, Jake West, Roy Lewis, & Colter Fosdick Directed & Produced by Nita Blum-Reddick & Jonathan Pickett Executive Producers Sam Osborn, Alejandra Vasquez, & Jesse Ray Sheps Cinematographer Ryan Dent  Editor Jonathan Pickett  Composer Jack Gillette Production Sound Mixer Daniel Reddick  Grips Stephane Strande & Brian Osback Sound Design & Mix Hansdale Hsu Colorist Keyhan Bayegan Production Assistant Camden Smith Title & Poster Designer Jason Cryer Weather Consultant Jorge Torres Advisors Dr. Charles Finch, Medical Director, Phoenix Fire Department & Maki Lloyd, Deputy Chief, Phoenix Fire Department  For The New York Times Op-Docs: Associate Producers Ingrid Homquist & Rebecca Shaid Producer Yvonne Ashley Kouadjo Senior Producer Andrew Blackwell Executive Producer Alexandra Garcia  Please consider supporting the ongoing work of Circle the City: www.circlethecity.org  Festivals: • Tribeca x NYT Op-Docs • Mountainfilm • Rooftop Films • Palm Springs International ShortFest • Indy Shorts Film Festival • HollyShorts Film Festival • Nashville Film Festival • Bend Film Festival • Mill Valley Film Festival • Sidewalk Film Festival • deadCenter Film Festival • Ouray International Film Festival • Cinema Columbus • AfterImage Film Festival • Coast Film Festival
 
-## Transcript
+##### Transcript
 
 #### Fire in Paradise
 
@@ -5688,11 +5668,11 @@ Filmed during the hottest days of Phoenix, Arizona’s summer heatwave, A NEW IN
 
 **PBS Terra**, *03-19-2025*
 
-## Documentary Film (52:17)
+##### Documentary Film (52:17)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/PiX9t_wovEY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Check out our Patreon: https://www.patreon.com/cw/PBSWeathered?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink 
 
@@ -5714,9 +5694,9 @@ Tiktok: https://www.tiktok.com/@pbsterra
 
 Instagram:  https://instagram.com/pbsterra
 
-## Transcript
+##### Transcript
 
-### The new era of wildfires
+###### The new era of wildfires
 
 
 **0:11** · Beginning on January 7th, 2025, the world learned what far too many survivors already knew. Wildfires are changing, but the LA firestorm is just the latest in a string of fires causing unprecedented destruction in the modern era. These fires are suddenly unstoppable. And there's one simple variable that explains the change - speed.
@@ -5737,7 +5717,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **1:40** · The Palisades and the Eaton Fire have been a turning point. We're experiencing things that we never experienced before and as a public official, I have to tell the truth even when the truth is difficult To unpack that truth, we're going inside the LA firestorm. Here's what we know about the lead up to the fires. After two unusually wet years, Los Angeles, California entered an extreme eight month dry spell with no rain accompanied by record breaking heat.
 
-### Fire triggers and triggers
+###### Fire triggers and triggers
 
 **2:33** · In these conditions, all you need is wind and an ignition to see extreme fire. And looking at urban fire disasters over the last century, we see a clear uptick in the last decade. With this surge in destructive fires, relying only on professional firefighters for protection is no longer enough.
 
@@ -5765,7 +5745,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **4:43** · In the past, I would've asked that they leave during the evacuation order. Now I'm asking that they stay because they're gonna be able to help us.
 
-### The palisades fire strikes
+###### The palisades fire strikes
 
 
 **5:10** · I noticed smoke in the background over the hills about 10:30.
@@ -5814,7 +5794,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **7:48** · Incident from operation.
 
-### The eaten fire catastrophe
+###### The eaten fire catastrophe
 
 **7:50** · Our mission right now is life safety, evac is our concern.
 
@@ -5854,7 +5834,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **10:48** · Look at these The smoke was so thick and black, it was horrible.
 
-### Assessing the devastation
+###### Assessing the devastation
 
 
 **10:53** · The fires burned through the next day and into the night, incinerating thousands of acres and entire neighborhoods.
@@ -5885,7 +5865,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **14:13** · By the end of January, the Palisades fire and Eaton fire had together destroyed over 16,000 structures and killed 29 people and people are upset. Early analysis of what went wrong quickly uncovered fire department funding cuts, low water pressure in fire hydrants and lack of fire engines.
 
-### Limits of fire suppression
+###### Limits of fire suppression
 
 
 **14:39** · There have been a a, a quite a bit of comments over social media about the local water supply.
@@ -5930,7 +5910,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **16:07** · Well, let's take a look at how firefighting works. First, we'll look at how a wildfire is fought before it reaches a community. While it's still in the wildlands.
 
-### How wildfires are fought
+###### How wildfires are fought
 
 
 **16:25** · Primary tactic is to corral fires by creating an unburnable line around them. You encircle the whole fire perimeter with a trail built to mineral soil, nothing burnable there. And then you start burning inside that line to kind of rob the, the, the wildfire of any fuel to burn. So you use hand tools, shovels and pulaski or rakes. You could use heavy equipment like bulldozers or plows.
@@ -5965,7 +5945,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **20:17** · But with traditional wildland firefighting tactics losing their effect, have we reached a tipping point for wildfire or is there still a way to change course?
 
-### The urban configration
+###### The urban configration
 
 **20:32** · To answer that question, we have to understand another factor that makes these fires so destructive.
 
@@ -6011,7 +5991,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **25:05** · I'm a fire chief and I'm not a scientist, but when I look back over my career, I cannot deny that fire season is now longer. I cannot deny that fires are harder to extinguish. I'm not gonna argue what's causing the climate to change. I'm here to tell you that I have a front row seat to the results of this changing climate.
 
-### Climate change impact
+###### Climate change impact
 
 
 **25:52** · To understand the changes we're seeing today, we need to understand the past. In the early 1900s, a new organization called the Forest Service was formed and its mandate was to put out all fires as quickly as possible. The early 1900s were hot and dry and that didn't just cause the dust bowl. There was also a lot of fire. In fact, many researchers believe that there was more fire then than there is now.
@@ -6032,7 +6012,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **28:32** · First, when that moisture is released, it leads to more extreme precipitation. But when conditions are dry, a thirstier atmosphere does the opposite. It pulls moisture from the land, sucking water from plants and soil, creating the perfect conditions for fire to spread faster and burn hotter. This dramatic shift between extremes is what some scientists call weather whiplash. And that whiplash had a big role in the LA firestorm.
 
-### The perfect storm of variables
+###### The perfect storm of variables
 
 **29:04** · All right, so we've been hearing a lot about climate change and how it may have influenced these fires. So we're actually gonna meet up with someone who can explain it to us. So let's go. Oh wow. I'm back in school. How you doing? I'm Maiya.
 
@@ -6066,7 +6046,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **31:32** · At this point, Parks research shows that only one of these factors has definitively changed due to global warming. Temperature. Record breaking heat removes moisture faster, priming vegetation, fences, hedges, and homes. And that explains why fires are moving so much faster. So we're in Altadena today and we are gonna meet up with survivors of the Eaton fire and just driving through the, the impact of this fire feels different.
 
-### Survivors and rebuilding
+###### Survivors and rebuilding
 
 **32:16** · The whole community is gone and it's really been difficult for me to take everything in. But I'm very interested to hear from survivors and hear where their head space is.
 
@@ -6130,7 +6110,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **35:52** · We can't control where wildfires ignite or the weather that makes them so fast and so destructive. But we can control how we rebuild and how prepared we are for future fires. So you've been through quite the transformation since the Woolsey fire.
 
-### The science of home hardening
+###### The science of home hardening
 
 **36:09** · Can you tell me a little bit more about that?
 
@@ -6156,7 +6136,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **38:48** · So we had to do experiments where we could generate a blizzard of burning embers on a full scale house and then begin to experiment with where the ignitions occur and see if a specific design was vulnerable to ignition from burning embers.
 
-### Effective mitigation tactics
+###### Effective mitigation tactics
 
 
 **39:18** · And a few years ago I visited the Insurance Institute for Business and Home Safety to see one of these ember experiments in person.
@@ -6217,7 +6197,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **44:04** · When a wildfire becomes an urban conflagration, our houses, our businesses, our belongings become the fuel and those fuels are supercharged. But even in these conditions, the experts we've talked to all say that home hardening is still our number one defense because it limits the number of homes that will catch on fire and buys us time to deal with the ones that do.
 
-### Long-term community strategy
+###### Long-term community strategy
 
 
 **44:29** · So it takes longer for the fire to make its way through the, the labyrinth of treatments we've imposed. Well then firefighters don't have as much fire to fight and that fire that they do have to fight will be moving more slowly.
@@ -6266,7 +6246,7 @@ Instagram:  https://instagram.com/pbsterra
 
 **48:38** · So what that is gonna mean is that, you know, if you fast forward 10 or 15 years are gonna be regions of the country where you can't get a mortgage, there won't be ATMs, there won't, you know, the banks won't have branches and things like that.
 
-### Lessons from history
+###### Lessons from history
 
 
 **48:57** · It feels like we're facing an unprecedented crisis. But actually we faced and solved the problem of urban firestorms before. For centuries, massive fires devastated cities around the world. In 1666, the great fire of London destroyed over 13,000 homes and left almost 85% of the city homeless. And in some ways it wasn't so different from today's wildfire driven disasters. The fire started during a period of drought and spread rapidly through tightly packed wooden buildings and narrow streets.
@@ -6287,15 +6267,15 @@ Instagram:  https://instagram.com/pbsterra
 
 #### Waking Up to Wildfires
 
-# Waking Up to Wildfires (Emmy-Nominated documentary, KVIE, PBS)
+##### Waking Up to Wildfires (Emmy-Nominated documentary, KVIE, PBS)
 
 **Paige Bierma**, *02-21-2021*
 
-## Documentary Film (26:48)
+###### Documentary Film (26:48)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/-xqiTB0ANlU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+###### Description
 
 In Waking Up to Wildfires, Emmy-winning filmmaker Paige Bierma uses her camera to tell the stories of people most affected by the 2017 North Bay wildfires. We hear from survivors, firefighters, public health officials, community groups and scientists trying to make sense of it all while people struggle to recover and new fires erupt.
 
@@ -6303,9 +6283,9 @@ The UC Davis Environmental Health Sciences Center produced Waking Up to Wildfire
 
 You're watching a condensed version (26 minutes long) that's currently airing on PBS stations across the country. To find out more or get a copy, visit our website at environmentalhealth.ucdavis.edu.
 
-## Transcript
+###### Transcript
 
-### The Tubbs fire outbreak
+###### The Tubbs fire outbreak
 
 **0:00** · [Music] it was the most apocalyptic thing i've ever seen never before in sonoma county had we experienced a wind-driven fire that burned 11 miles in five hours one of our neighbors came banging on the door the field next to our house was on fire i'm going okay
 
@@ -6313,7 +6293,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **1:16** · [Music] i'm irva hertz pichoto i'm the director of the uc davis environmental health sciences center and as i was watching the images of the wildfires in october of 2017
 
-### Climate change and wildfires
+###### Climate change and wildfires
 
 **1:35** · it just stunned me and dawn on me that our center could actually conduct some research and learn about these wildfires and contribute to understanding what the consequences of climate change are [Music] so in california we have a perfect storm of conditions which is making fire more widespread and more intense those conditions are human suppression
 
@@ -6327,7 +6307,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **3:13** · the changing climate is absolutely having an impact on how fires are burning how they're spreading california historically has experienced large devastating fires what's really changing is the intensity of the fires the duration of the fires and certainly the frequency the tubs fire when it reached santa rosa literally crossed the six lane 101 freeway this tells us that we have to be looking at threats that we didn't necessarily consider before
 
-### Survival and rescue stories
+###### Survival and rescue stories
 
 **3:42** · i was the first battalion chief to arrive at the tubbs fire when i arrived the fire was already very well established we had no chance of putting it out i got a phone call from one of my friends it was probably around 10 o'clock at night and she said you know i think there's a fire and it's coming towards you and i'm worried so we started packing up once the power went out that's when we left we ended up getting gridlock i thought maybe there was a roadblock or something we turned back and i was just
 
@@ -6347,7 +6327,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **7:05** · [Music] we decided to launch an online survey to collect a lot of information about people's experiences and also we collected some ash samples we collected air samples and we also initiated a study to look at women who were pregnant during the wildfires or shortly thereafter with the data that we collected we're hoping to provide information that can be useful for non-profits and local and county
 
-### Researching urban fires
+###### Researching urban fires
 
 **7:39** · health agencies other agencies to be better able to meet needs in the future and really to continue to provide services for people who are still going through recovery
 
@@ -6357,7 +6337,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **9:00** · strikingly different than your typical wildfire in an isolated wilderness area they're different chemically and there are things in the emissions that we don't even know what they are yet we still have a lot to learn about what the risks are from suburban and urban wildfires but i think we can expect there to be some very toxic and reactive chemicals that we will be breathing um as a result of those fires
 
-### Health impacts on residents
+###### Health impacts on residents
 
 **9:31** · tammy scott is a patient i've known for about five to ten years she was outstanding roller derby player i remember and she had to stop roller derby because of her asthma which was getting worse in the sacramento area she had a lot of environmental triggers to her asthma we recommended that she look to move elsewhere and she made a decision to move to the bay area specifically because she knew that she was breathing better there and i know she moved on to a houseboat and was doing terrific
 
@@ -6371,7 +6351,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **11:28** · i moved here to breathe and this has been my sanctuary and suddenly my sanctuary was gone after the terrible wildfires in santa rosa we really wanted to figure out be able to measure the air pollution from these kind of terrible disasters but there was no power out there because you know when there's a big wildfire going on in the city you don't you turn you turn the electric grid off so we had no way of
 
-### Developing rapid response
+###### Developing rapid response
 
 **12:00** · running our sampling equipment out there to measure the air pollution and we weren't ready and we didn't want to have that happen again that we weren't ready we were uh thinking it would be really nice to get out there immediately and start sampling and get an idea of what these emissions look like chemically while the fire's going on so keith and i
 
@@ -6389,7 +6369,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **14:50** · [Music] when we got to the tubbs fire it was clear right away that this fire wasn't going to be contained quickly it was like a raging monster
 
-### Firefighter trauma and rescue
+###### Firefighter trauma and rescue
 
 **15:10** · we pulled into this neighborhood a lot of chaos there were cars fleeing i see this woman standing outside her car with her phone to her ear in a panic i tell her you know ma'am it's time to go you got to go and she says my mom and dad my mom and dad i said okay um you know what's the address she told me the address and i said i'll go up there and take a look and um i said but you you really gotta go
 
@@ -6405,7 +6385,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **17:42** · i remember when he said i have to live i thought i was thinking just yep you know you have to live your right but he had to live he had to live because he needed to see his daughter his granddaughter that's why he had to live
 
-### Mental health and recovery
+###### Mental health and recovery
 
 **18:27** · there is a culture that needs to change in the fire service i grew up in a culture that uh said suck it up son you'll be all right it's very important with what we're seeing and what we're dealing with to reach out and to um
 
@@ -6427,7 +6407,7 @@ You're watching a condensed version (26 minutes long) that's currently airing on
 
 **22:27** · stay together and work together those kinds of interventions will really be predictive of long-term mental health [Music] [Music]
 
-### Inequality in fire recovery
+###### Inequality in fire recovery
 
 **23:20** · a
 

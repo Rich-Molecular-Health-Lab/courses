@@ -123,15 +123,61 @@ listing:
 
 ### Video Clips
 
+#### Camera Trapping at American Prairie Reserve
+
+**Smithsonian's National Zoo**, *06 26, 2019*
+
+##### Video (1:42)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/sYIFEPzC6A8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Camera traps are motion-sensitive cameras that snap a picture whenever they detect movement, giving researchers extra eyes in the wild. Smithsonian ecologists set up camera traps around the American Prairie Reserve in Montana. The cameras are deployed 24/7, allowing researchers to gather data without disturbing animals and to collect data even when they are not in the field. The photos they collect will help build a clearer picture of the ecosystem — what animals are present and when, how species interact, which habitats they prefer and whether their land use changes with the seasons.
+
+##### Transcript
+
+**0:03** · Bison, yea.
+
+**0:05** · Oh, wow! Look at him!
+
+**0:07** · That's nice.
+
+**0:09** · I'm Hila Shamoon. I'm a Smithsonian ecologist conducting research at the American Prairie Reserve in Montana.
+
+**0:17** · This place is a hotspot for biodiversity.
+
+**0:21** · Right now we're just trying to collect as much data as we can in a unified way across the landscape So we have a good idea of where the animals are, their distributions, and what are their activity patterns in each area.
+
+**0:34** · Putting this up, we're just getting their natural movements across this landscape.
+
+**0:39** · This is just a tiny camera and has just a few batteries, it can last a month in the field.
+
+**0:44** · and the camera only triggers when something's walking in front of it, so we know their exact activity times.
+
+**0:51** · Are they active at night or day?
+
+**0:54** · Where do they prefer to move across?
+
+**0:57** · And we're not disturbing the wildlife. So that's a huge thing.
+
+**1:03** · We're placing them in hundreds of places across the landscape.
+
+**1:07** · We want to know how and when the animals use these corridors.
+
+**1:14** · Putting something in the field for weeks that records everything that walks in front of it, it really helps us to see this place in a whole new way So I think we have it pretty good now.
+
+**1:25** · The more time I spend out here, I kind of get the feeling of how complex it is and it's much more exciting that way.
+
 #### We’re creating the world’s biggest wildlife corridor
 
 **Planet Wild**, *02 15, 2026*
 
-## Video (12:18)
+##### Video (12:18)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/UM2sDTMrkVE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 We're contributing to one of the biggest wildlife corridors in the world, a huge network of wildlife crossings, tunnels and fencing systems in North America.
 
@@ -196,9 +242,9 @@ Find all sources here:
 
 https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1980559c97e4e717f0b682?source=copy_link
 
-## Transcript
+##### Transcript
 
-### Reconnecting Yellowstone to Yukon
+###### Reconnecting Yellowstone to Yukon
 
 
 **0:00** · This is not a normal highway bridge.
@@ -211,7 +257,7 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **1:02** · We are Planet Wild. Welcome to Mission 36. (tense inspirational music) The Rocky Mountains, the largest mountain range in North America, a vast, largely untouched expanse. I just have to take a second to fully appreciate where I am, because I'm surrounded by forest and by mountain peaks like I've never seen before in my entire life.
 
-### Welcome to the Rocky Mountains
+###### Welcome to the Rocky Mountains
 
 **1:28** · And it's incredible.
 
@@ -225,7 +271,7 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **1:54** · (Clayton laughs) Thanks, Clayton. We'll come back to you later. Grizzlies used to be found all the way from the Arctic Circle in the north to down in Mexico. And just 200 years ago, (projector whirring) this landscape was completely uninterrupted, which is the blink of an eye in evolutionary terms. But now the range of the grizzlies has shrunk to just this corner of North America. And this is why.
 
-### How habitats were fragmented
+###### How habitats were fragmented
 
 **2:18** · (train horn blaring) (track rattling) (truck horn blaring) This is the Canada Pacific Railway built in 1881, and during the colonisation of North America, this connected the east and the west coast of Canada. But it cut straight through this valley. And now imagine if you are a grizzly bear and you have to travel from this side of the valley to this side.
 
@@ -241,7 +287,7 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **3:42** · So it's a very complex landscape.
 
-### Meet our partner
+###### Meet our partner
 
 
 **3:45** · [Cameron] This is Bill Hunt from the Yellowstone to Yukon initiative, or Y2Y. Bill has spent his life working in Canada's wilderness, first as a park warden and then a conservation manager, always with the goal of protecting wildlife. Today with Y2Y, he's trying to create the biggest corridor for wildlife in North America and possibly the world.
@@ -256,7 +302,7 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **5:04** · Okay, we obviously can't do that, but we can build new infrastructure for wildlife. So this behind me is a wildlife crossing, and it's specially designed to get animals over the highway safely. This bridge is basically built to carry a small forest. Thousands of tonnes of soil are piled on top, and then native bushes and trees are planted, so it blends perfectly into the landscape. And you might be thinking, that looks really expensive.
 
-### The solution: Wildlife crossings
+###### The solution: Wildlife crossings
 
 **5:30** · Who's gonna pay for it?
 
@@ -280,11 +326,11 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **8:01** · (contemplative music) This is Highway 3. Its location makes it really strategically important. It's currently blocking the movement of wildlife, both from north to south and east to west. In fact, this highway is separating two populations of grizzly bears, which is bad news because with a smaller gene pool, these populations become way more vulnerable to environmental changes and disease.
 
-### The challenge of Highway 3
+###### The challenge of Highway 3
 
 **8:27** · In a case like this, Y2Y brings all the necessary people together to identify where the crossings are needed and to build them. (soft electronic music) So the vision is to instal 27 new crossings, including three new overpass bridges that would connect these two grizzly populations and allow all kinds of wildlife to roam freely through here. Creating big infrastructure projects like this takes a huge amount of bureaucracy and massive amounts of government funding.
 
-### Our support
+###### Our support
 
 **8:59** · So Y2Y needs lots of hard data to get the ball rolling. And that is where these come in. Camera traps lay the groundwork. They allow us to show how effective certain crossings are for different species, and they show us where animals are already trying to cross the roads.
 
@@ -300,7 +346,7 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **10:13** · (wind blowing) (feet thudding) Future Cam here. So Y2Y just sent me over some of the footage from the wildlife cameras, and I'm sitting here watching it, and I'm just thinking like, it's just... Okay, you know what, we're just gonna have to roll it. (bright enthralling music) Research has proven more than 150,000 animal crossings through these new structures, and it really hits you when you just take a second to watch the footage from these cameras.
 
-### Wildlife camera footage
+###### Wildlife camera footage
 
 **10:50** · (bright enthralling music continues) If they can find a safe spot, like an underpass or an overpass, they memorise that, they learn that, and they'll come back to that spot time and time again. (bright enthralling music continues) (bright enthralling music continues) This footage is gonna push forward at the Highway 3 project. But it's not just about one highway, this is about reimagining how entire landscapes can work.
 
@@ -314,11 +360,11 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **PBS Terra**, *09 12, 2024*
 
-## Video (9:34)
+##### Video (9:34)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/EDpCLIgfHXo?start=114 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Check out In the Margins on @pbsorigins : https://youtu.be/Y1cJCowMz9M?feature=shared
 
@@ -342,7 +388,7 @@ Tiktok: https://www.tiktok.com/@pbsterra
 
 Instagram:  https://instagram.com/pbsterra
 
-## Transcript
+##### Transcript
 
 **0:05** · (light music) Hidden along the equator lies a rainforest like no other.
 
@@ -446,11 +492,11 @@ Instagram:  https://instagram.com/pbsterra
 
 **Rocky Mountain PBS**, *09-17-2026*
 
-## Documentary Film (26:40)
+##### Documentary Film (26:40)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/B67o_quLHi4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 #moose #coloradowildlife #animals 
 
@@ -470,7 +516,7 @@ Follow Rocky Mountain PBS on our other platforms, too.
 
 • LinkedIn: https://www.linkedin.com/company/rocky-mountain-pbs
 
-## Transcript
+##### Transcript
 
 **0:00** · (MUSIC PLAYING) I LOVE MOOSE.
 

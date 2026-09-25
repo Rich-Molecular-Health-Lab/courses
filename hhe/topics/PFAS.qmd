@@ -25,7 +25,7 @@ listing:
 
 ![2. A Brief History of How PFAS Poisoned the World](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:33:46
 
 **Released:** 2024
 
@@ -45,7 +45,7 @@ PFAS are a large class of chemicals that have been used since the late 1930s. Wh
 
 ![8. Are PFAS-Free Products Possible?](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:33:02
 
 **Released:** 2024
 
@@ -65,7 +65,7 @@ It seems that many brands are moving in the right direction in terms of phasing 
 
 ![Are there 'forever chemicals' in your drinking water?](https://i.scdn.co/image/ab67656300005f1f559765834382131d6c6d5a4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:19:34
 
 **Released:** 2026
 
@@ -83,11 +83,11 @@ According to the CDC, virtually all Americans have PFAS, or "forever chemicals,"
 
 #### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
 
-# Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+##### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
 
 ![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:19:15
 
 **Released:** 2023
 
@@ -107,7 +107,7 @@ Chemical spills, historical disasters, water quality, airborne toxic events, cle
 
 ![6. European Companies Are Far Ahead](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:27
 
 **Released:** 2024
 
@@ -125,11 +125,9 @@ The goal of this series is to provide useful information for consumers regarding
 
 #### Forever Chemicals - Hidden Dangers in Everyday Beauty
 
-# Forever Chemicals: Hidden Dangers in Everyday Beauty
-
 ![Forever Chemicals: Hidden Dangers in Everyday Beauty](https://i.scdn.co/image/ab67656300005f1fad97754837109e40126bc6ab)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:36
 
 **Released:** 2025
 
@@ -147,11 +145,9 @@ They’re not just in your nail polish. Per- and polyfluoroalkyl chemicals are e
 
 #### From Atomic Bombs to Teflon Pans - How the PFAS Controversy Began
 
-# From Atomic Bombs to Teflon Pans: How the PFAS Controversy Began
-
 ![1. From Atomic Bombs to Teflon Pans: How the PFAS Controversy Began](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:24:43
 
 **Released:** 2024
 
@@ -171,7 +167,7 @@ In the first episode of this ten-part series, we explore where PFAS came from an
 
 ![5. Have We Ever Needed PFAS in Our Outdoor Gear?](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:26:27
 
 **Released:** 2024
 
@@ -191,7 +187,7 @@ As more regulations come into play, many outdoor brands have moved the needle an
 
 ![How One Company Secretly Poisoned The Planet](https://i.scdn.co/image/ab67656300005f1f2fb02078276c7e8ec03f8e89)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:52:13
 
 **Released:** 2025
 
@@ -211,7 +207,7 @@ The history of Teflon and exposing the biggest chemical cover up in history - th
 
 ![How PFAS From A Military Base Has Sickened Nearby Residents](https://i.scdn.co/image/ab67656300005f1f60aee25b93021ffaa1295d92)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:44
 
 **Released:** 2025
 
@@ -231,7 +227,7 @@ For decades, residents of the small city of Newburgh, New York, were unknowingly
 
 ![9. PFAS as a Cautionary Tale](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:30:34
 
 **Released:** 2024
 
@@ -249,11 +245,9 @@ Throughout this series, we’ve learned not only about how harmful PFAS is as a 
 
 #### PFAS in the Outdoor Industry - A Performance Chemistry
 
-# PFAS in the Outdoor Industry: A Performance Chemistry
-
 ![3. PFAS in the Outdoor Industry: A Performance Chemistry](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:31:53
 
 **Released:** 2024
 
@@ -273,7 +267,7 @@ In episode three of the Forever Chemicals ten-part podcast series, we give an ov
 
 ![7. Phasing Out PFAS in US Apparel](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:35:51
 
 **Released:** 2024
 
@@ -293,7 +287,7 @@ As we learned in earlier episodes, phase-out and regulatory efforts for PFAS wer
 
 ![Some Chemicals are Forever](https://i.scdn.co/image/ab67656300005f1fb2ca3eae69e1d487faa9fac0)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:58:05
 
 **Released:** 2025
 
@@ -311,11 +305,9 @@ As their name suggests, “forever chemicals” have extraordinary staying power
 
 #### The Canal (Love Canal)
 
-# S1 Ep4: The Canal (Love Canal)
-
 ![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:40
 
 **Released:** 2018
 
@@ -335,7 +327,7 @@ Once envisioned as a model community, the neighborhood of Love Canal in Niagara 
 
 ![The Devil They Knew](https://i.scdn.co/image/ab67656300005f1fb7ecd80346c0d9ee233f1648)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:48:58
 
 **Released:** 2024
 
@@ -355,7 +347,7 @@ We learn about the contamination of military bases in the U.S. and Canada from P
 
 ![1027 - The EPA's Approval of Two New Pesticides](https://i.scdn.co/image/ab67656300005f1f125f40494d44de994e779aa6)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:38
 
 **Released:** 2026
 
@@ -373,11 +365,9 @@ About this episode: In late 2025, the EPA approved two pesticides for agricultur
 
 #### The Path Ahead - Remediation and Clean-Up
 
-# The Path Ahead: Remediation and Clean-Up
-
 ![10. The Path Ahead: Remediation and Clean-Up](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:35:17
 
 **Released:** 2024
 
@@ -397,7 +387,7 @@ Throughout this ten-part series, scientists, lawyers, advocates, and product pro
 
 ![4. The Rise and Limitations of PFAS Regulations ](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:44:05
 
 **Released:** 2024
 
@@ -417,7 +407,7 @@ Regulatory efforts across the globe have been pushing for removing certain types
 
 ![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:52
 
 **Released:** 2024
 
@@ -437,7 +427,7 @@ Superfund sites are some of the most polluted areas in the country, containing h
 
 ![What's a brownfield remediation project?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:18:16
 
 **Released:** 2009
 
@@ -459,11 +449,11 @@ The EPA defines a brownfield as land that is abandoned because redevelopment is 
 
 **PBS NewsHour**, *03 26, 2023*
 
-## Video (6:21)
+##### Video (6:21)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/Jd2gBcwOWkE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 A class of toxic chemicals known as PFAS has made its way into food, soil, water and even most people’s blood in America. In March, the EPA proposed the first regulatory standard limiting the quantity of PFAS in drinking water. Erin Bell, an environmental epidemiologist at the State University of New York at Albany, joins Ali Rogin to discuss these “forever chemicals” and our exposure to them.
 
@@ -487,9 +477,9 @@ PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
 
 Newsletters: https://www.pbs.org/newshour/subscribe
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:01** · home of the pbs newshour, weeknights on pbs.
 
@@ -497,7 +487,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **0:13** · Earlier this month, the EPA proposed the first-ever regulatory standard to limit the quantity allowed in drinking water.
 
-### What are Forever Chemicals
+###### What are Forever Chemicals
 
 **0:20** · Ali rogin looks at the growing health concerns about these chemicals.
 
@@ -545,7 +535,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **2:37** · But this is a situation that we're still working on in terms of making sure there's coverage for people to get tested if they wish to know what their levels are.
 
-### EPA Proposal
+###### EPA Proposal
 
 **2:48** · Ali: Now, the EPA, as we mentioned in the introduction, is proposing a new regulation pertaining to pfas in water.
 
@@ -557,7 +547,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **3:16** · And if they were above a certain level, that those levels be monitored for and companies be required to reduce their exposure in the water utility.
 
-### Are we missing something
+###### Are we missing something
 
 **3:29** · Ali: Now six out of 12,000 doesn't sound like a lot.
 
@@ -581,7 +571,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **4:03** · There is concern in the scientific community that we will never catch up in terms of understanding what the health effects are for the much larger group of pfas's.
 
-### How is it that these companies are able to continue
+###### How is it that these companies are able to continue
 
 **4:16** · Ali: How is it that these companies are able to continue to manufacture products with these dangerous chemicals in them?
 
@@ -595,7 +585,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **4:51** · So they're still being used because we have not regulated them and we still require them in the manufacturing process.
 
-### Reducing our exposure
+###### Reducing our exposure
 
 **4:56** · And until those rules and laws change, then that will be allowed to happen.
 
@@ -631,11 +621,11 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **PBS NewsHour**, *11 23, 2024*
 
-## Video (8:20)
+##### Video (8:20)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/f98I9W6H060 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The Defense Department missed a deadline this fall to stop using a toxic firefighting foam that has caused widespread contamination across the country. In the small town of Oscoda, Michigan, a group of citizens has been fighting to hold the Air Force accountable for polluting their waterways. Special correspondent Megan Thompson reports in the first of a two-part series.
 
@@ -663,9 +653,9 @@ PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
 
 Newsletters: https://www.pbs.org/newshour/subscribe
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:00** · home of the pbs news hour weeknights on pbs.
 
@@ -697,7 +687,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **1:50** · There used to be a big concree ball out here with simulated aircraft on it and they would bring the fire trucks in and let people practice.
 
-### What is PFAS
+###### What is PFAS
 
 
 **2:03** · Practice putting out jet fuel fire is dowsing the burning planes with a special military foam used in the military since the 1970's made from a chemical called p-fas. Courtney Carrigan is an environmental epidemiologist at Michigan state university who studies human exposure to chemicals.
@@ -708,7 +698,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **2:49** · They are often called forever chemicals because they are so persistent in the environment. They do not break down naturally. They move easily into water and groundwater and end up in fish and drinking water.
 
-### The scale of the problem
+###### The scale of the problem
 
 
 **3:04** · Today about 50% of the nation's drinking water supply has p-fas in it and nearly every American has some level of p-fas in their blood. The military is one of the biggest p-fas polluters in the U.S. But the problem is only now becoming known. In 2000 a colleague of mark Henry's made the discovery and it sounded the alarm. Today the Pentagon confirms or suspects pfas concomitant -- contamination at almost 700 other sites.
@@ -725,7 +715,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **4:04** · A politically connected attorney, he was so alarmed he teamed up to launch "Need our water" and call attention to the environmental Carla -- calamity. They gave pbs a tour of the areas most affected by the pfas.
 
-### The plume
+###### The plume
 
 
 **4:30** · This is a ymca camp owned by Detroit.
@@ -742,7 +732,7 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **5:58** · They spent the last seven years lobbying congress and the Pentagon to clean up the mess. > They can stop the flow of all the plumes of the property now.
 
-### Air Force delays
+###### Air Force delays
 
 
 **6:12** · Fort Smith is one of the first places and in a country where that pfas of the pollution is treated. At air force recently announced delays in cleaning the rest. Some systems won't be operating for another four or five years.
@@ -779,15 +769,13 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 #### Contaminated - The Carpet Industry's Toxic Legacy
 
-# Contaminated: The Carpet Industry's Toxic Legacy
-
 **FRONTLINE**, *2026*
 
-## Documentary Film (53 min)
+##### Documentary Film (53 min)
 
 <iframe title="amazon-player" src=https://www.amazon.com/gp/video/detail/0FVL2RZBBFI1HM5AN57RNNCYUB?autoplay=1&t=0&ref_=atv_dp_atf_3p_hd_mv_wfb_t1B3AAAAAA0wr0 width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
-## Description
+##### Description
 
 "
 
@@ -803,4 +791,4 @@ IMDb 7.6/10 2026 53min
 
 "
 
-## Transcript
+##### Transcript

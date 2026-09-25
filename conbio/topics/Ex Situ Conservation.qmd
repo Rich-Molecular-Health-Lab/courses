@@ -56,7 +56,7 @@ Zoos and aquariums have evolved significantly. From their origins as enclosures 
 
 ---
 
-## PDF Copy
+#### PDF Copy
 
 
 ![miranda_etal_2023a.pdf](../attachments/miranda_etal_2023a.pdf)
@@ -128,10 +128,52 @@ Zoos and aquariums have evolved significantly. From their origins as enclosures 
 
 ---
 
-## PDF Copy
+##### PDF Copy
 
 
 ![miranda_etal_2023a.pdf](../attachments/miranda_etal_2023a.pdf)
+
+#### Ex situ breeding programs benefit from science-based cooperative management
+
+:::: {.callout-info collapse="false" title="Citation Information"}
+
+**Journal:** Zoo Biology  
+
+**Year:** 2023  
+
+**DOI:** 10.1002/zoo.21700  
+
+**URL:** https://onlinelibrary.wiley.com/doi/abs/10.1002/zoo.21700  
+
+**Citekey:** putnam_etal_2023  
+
+**Open in Zotero:** [putnam_etal_2023.pdf](zotero://select/library/items/2WYJJ8ZT)
+
+::: {.callout-quote title="AMA-Formatted Citation"}
+
+1.
+
+Putnam AS, Ferrie GM, Ivy JA. Ex situ breeding programs benefit from science-based cooperative management. _Zoo Biology_. 2023;42(1):5-16. doi:[10.1002/zoo.21700](https://doi.org/10.1002/zoo.21700)
+
+:::
+
+::::
+
+
+::: {.callout-abstract collapse="true"}
+
+Science-based management confers a variety of benefits to wildlife populations that are cooperatively managed by zoos and aquariums, including those managed through the Association of Zoos and Aquariums. Briefly, when management strategies are successful, they result in reproductively robust populations that better retain genetic diversity and limit inbreeding than unmanaged populations. Although the benefits of demographic and genetic management have been well documented throughout both the scientific and popular literature, it has also been established that the majority of managed populations in zoos and aquariums are not meeting the minimum criteria believed to convey long-term biological viability. For most of these populations, an inability to meet viability criteria is not an inherent failure of how cooperative management is implemented. Furthermore, in recent years, we have perceived that the need to meet specific viability goals sometimes has obscured the benefits that these populations receive from rigorous, science-based management. To better clarify the conversation surrounding population viability in zoos and aquariums, we seek to decouple viability measures and how they predict population persistence from the benefits conferred to populations through science-based management. A primary goal of population management is to facilitate the persistence of priority species for longer than would be expected if no such management were implemented. Although current viability measures and future projections of viability are important tools for assessing the likelihood of population persistence, they are not indicators of which populations may most benefit from science-based management. Here, we review the history and purpose of applying science-based management to zoo and aquarium populations, describe measures of population viability and caution against confusing those measures of viability with population management goals or long-term population sustainability, and clearly articulate the benefits conferred to zoo and aquarium populations by science-based management.
+
+:::
+
+
+
+---
+
+##### PDF Copy
+
+
+![putnam_etal_2023.pdf](../attachments/putnam_etal_2023.pdf)
 
 ### Video Clips
 
@@ -139,11 +181,11 @@ Zoos and aquariums have evolved significantly. From their origins as enclosures 
 
 **BBC Ideas**, *10 27, 2022*
 
-## Video (6:28)
+##### Video (6:28)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/aQDYxTCIVRE?start=4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Are zoos a great way to teach people about nature and save species from extinction? Or a cruel way of using animals for entertainment?
 
@@ -167,9 +209,9 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 #bbcideas #zoo #animals
 
-## Transcript
+##### Transcript
 
-### History of zoos
+###### History of zoos
 
 **0:00** · Zoos have changed out of all recognition.
 
@@ -195,7 +237,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **0:52** · To be able to suddenly see a giraffe for the first time, probably it was absolutely bonkers.
 
-### Animal welfare evolution
+###### Animal welfare evolution
 
 **1:01** · There wasn't really an appreciation of animals needing certain things to have a good life.
 
@@ -217,7 +259,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **1:50** · The schoolchildren that come here to the wildlife park, all of them go away learning the messages that we know for sure are going to make a true difference to the animals back out into the wild.
 
-### Conservation and education
+###### Conservation and education
 
 **2:03** · The biggest threat to wildlife comes from people, and most people live in cities.
 
@@ -235,7 +277,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **2:59** · Zoo populations of animals are insurance populations.
 
-### Limitations and ethics
+###### Limitations and ethics
 
 **3:03** · Certain species, due to what's going on on the planet at the moment, the only way that we can stop them from going extinct will be to bring them into captivity.
 
@@ -257,7 +299,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **3:57** · The complexity of providing a good life for some of these animals, it's actually really, really difficult.
 
-### The future of wildlife
+###### The future of wildlife
 
 **4:09** · There is some evidence that people will know more facts about a particular animal, for example, but follow up studies to see if they've actually changed their behaviour to benefit conservation, there's not much evidence to suggest that is happening.
 
@@ -299,13 +341,370 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **6:02** · How can we create a world where we don't need zoos?
 
-### Conclusion and call to action
+###### Conclusion and call to action
 
 **6:04** · What I'm hoping is that we can design super sustainable cities so that you don't need to go to a place to see animals.
 
 **6:13** · They're all around you.
 
+#### We Let Beavers Transform an Old Farm
+
+**Planet Wild**, *07 15, 2026*
+
+##### Video (13:58)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/4-qYZiBSK7g title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+We’re turning an abandoned fish farm into a beaver paradise
+
+🌱 Join us to rewild the planet: https://planetwild.com/join/m41
+
+Beavers are nature’s ultimate engineers. By building dams, digging canals and keeping water in the landscape, they can turn dry land into thriving wetlands full of biodiversity.
+
+They were nearly wiped out but against all odds, they’ve made an incredible comeback.
+
+Our partner Rewilding Oder Delta is helping secure that return. That's why we teamed up with them for our 41st mission, and purchased a 20-hectare abandoned fish farm in Poland to turn into a natural beaver paradise.
+
+People in the video:
+
+Markus Gilles co-founded Planet Wild in 2023 and is leading the organization as Co-CEO.
+
+Frauke Bennett is on the board of Rewilding Oder Delta e.V. and heads the department “Nature for the People”.
+
+Make sure to follow Rewilding Oder Delta:
+
+IG: https://www.instagram.com/rewildingoderdelta/
+
+Website: https://rewilding-oder-delta.com/
+
+Make sure to follow Rewilding Oder Delta's Polish partner Fundacja dla Klimatu i Bioróżnorodności: 
+
+Website: https://www.fdkib.com/
+
+Youtube: https://www.youtube.com/@fdkib
+
+Facebook: https://www.facebook.com/FDKIB/about
+
+#beavers #natureengineers #wetlands 
+
+Chapters
+
+0:00 The Great Beaver Comeback
+
+1:14 How beavers transform ecosystems
+
+2:20 Meet our partner
+
+3:01 Our new land for beavers
+
+3:50 The history of beavers 
+
+6:45 Our support: Part 1 
+
+7:07 How beaver engineering works 
+
+11:11 How beavers cause conflict 
+
+11:48 Our support: Part 2 
+
+13:04 A new relationship with beavers
+
+_______________________
+What is Planet Wild?
+
+We’re a global community of people who care deeply about nature and want to help our planet bounce back – one mission at a time.
+
+EVERY MONTH, we work with wildlife pioneers worldwide to
+
+🦁 bring back endangered species
+
+🌊 support oceans and aquatic life
+
+🌳 revive forests and rewild landscapes
+
+EVERY MEMBER can decide how their money is spent, connect with us on our Discord, and collect unique badges for each mission they support.
+
+EVERY MISSION is documented in videos like this. 100% transparency.
+
+EVERYONE can join. The bigger the community grows, the bigger these missions will get!
+
+👉 Become a Planet Wild member: https://planetwild.com/join/m41
+
+👉 Follow us on Instagram: https://www.instagram.com/planetwild.official/
+
+👉 Follow on LinkedIn: https://www.linkedin.com/company/planetwild-official/
+
+Find all sources here:
+
+https://planetwild.notion.site/M41-Beavers-Sources-39769e032b1980a593ecc70fdec76a30?source=copy_link
+
+##### Transcript
+
+###### The Great Beaver Comeback
+
+
+**0:00** · What if there was a surprisingly simple way to more than double biodiversity, boost water quality, and prevent catastrophic floods and droughts?
+
+**0:09** · Right now, a movement is taking shape to bring back long-lost ecosystems in record time using the power of beavers. And we thought, "Well, that looks like fun. Let's try it ourselves." This place we're standing at, it used to be a giant fish farm until very recently. And now it's abandoned and doing absolutely nothing for nature.
+
+**0:29** · But that's going to change big time because the Planet Wild community is buying this entire dried-out piece of land and turning it into a massive beaver playground. A beaver population has already been spotted nearby, and if everything goes to plan, they will transform this barren wasteland into a thriving ecosystem much, much faster than any human construction crew ever could.
+
+**0:55** · Join me on a fascinating journey to learn all about nature's number one ecosystem engineers, the crazy comeback story they've had after near extinction, and how they will turn all of this into this. We are Planet Wild. Welcome to Mission 41. (charming music) Everything you see here around me was created by one creature.
+
+###### How beavers transform ecosystems
+
+**1:20** · (upbeat music) Introducing even a single beaver into a landscape creates an explosion of biodiversity far more than what we see with any other living thing. (upbeat music) And that's simply because they bring water into the landscape, turning dry land into a mosaic of deep ponds, complex canals, and shallow wetlands. These are perfect breeding grounds for fish and amphibians. The wooden dams and the still water attract millions of insects, providing a feast for all kinds of birds.
+
+**1:58** · The abundance of water and diverse vegetation also attracts larger mammals like elk, deer, martens, and even wolves. All of this makes beaver wetlands pretty much impossible to replicate artificially.
+
+**2:11** · What beavers do can help restore our landscape much better than we can do with our engineering.
+
+**2:19** · This is Frauke.
+
+###### Meet our partner
+
+**2:21** · She's worked alongside beavers for the last 17 years, and she's part of our friends at Rewilding Oder Delta who are doing pioneering work to bring back Europe's most iconic wildlife species, including lynx, sea eagles, elk, and even the European bison. But now it's the beavers' time. Three years ago, together with their Polish partner, they purchased a piece of land to turn it into a nature reserve and restore its lost wetland.
+
+**2:48** · The plan: create a protected area and then simply step back and let the local beavers take the reins. And as I got to see firsthand on my exploration with Frauke, the plan actually worked. But now we have our eyes on a new piece of land just a few miles away that desperately needs a makeover. A long time ago, this was a natural marshland.
+
+###### Our new land for beavers
+
+**3:11** · Then, like with so many wetlands, it was completely drained to be used for agriculture. Years later, the opposite happened. This concrete lock was installed, damming up the drainage water to create a gigantic artificial pond with millions of farmed fish where chemicals, growth hormones, and fish food polluted the water. After all of this, the land is in a pretty bad state, but that's going to change soon.
+
+**3:37** · The beavers are already taking a curious look at this area. I am very sure they already made some plans, what they can do there.
+
+###### The history of beavers
+
+
+**3:50** · The fact that we even have beavers living here is an absolute miracle. Just 70 years ago, beavers were considered functionally extinct in the wild here in Poland. Today, the population here has grown to over 100,000 individuals, making it one of the largest beaver populations in all of Europe. But this is still a tiny number compared to the hundreds of millions. Yes, hundreds of millions of beavers that used to cover almost the entire northern hemisphere.
+
+**4:21** · Just imagine that world for a second. It looked something like this. In fact, studies have shown that the presence of beavers in an area can triple the biodiversity there. And yet we came this close at wiping them out completely. And it was all because of this. In the 1600s, it became super fashionable across Europe to wear hats and coats made from beaver fur. Which style you chose actually said a lot about your status in society.
+
+**4:49** · What's even weirder, beavers produce a vanilla-smelling scent from a gland right next to their butt that people turned into perfume and ice cream. I promise I'm not making this up. And sadly, for these reasons, demand for beavers absolutely skyrocketed. Once the European beaver population was depleted, the fur industry expanded to North America. And over the course of around 200 years, 99.9% of the world's beavers were hunted and killed.
+
+**5:21** · And at the turn of the last century, only 1,200 individuals remained in Europe. The impact on nature was catastrophic. Without beavers and their dams, that complex biodiverse landscape was drained away and with it all the life that depended on it. But there is hope, because in recent decades, beavers have made a remarkable comeback, and it's largely thanks to some unconventional projects.
+
+**5:50** · In 1948, conservationists in Idaho packed 76 beavers into wooden crates, strapped them into World War II parachutes, and literally air-dropped them into the wilderness to restore the wetlands. And the crazy plan actually worked. In Scotland, beavers were completely extinct until a few of them mysteriously appeared in the wild. Nobody's entirely sure if these beavers were illegally released or if they escaped from captivity, but today, nearly all Scottish beavers are descendants from this guerrilla population.
+
+**6:23** · All over Europe, beavers have bounced back in one way or the other from those 1,200 individuals to over 1.5 million. And yet wetlands are still disappearing way faster than beavers can rebuild them. So every piece of land that we can give back to them is a win for nature as a whole. (lively music) That's why the Planet Wild community is helping to purchase 20 hectares of degraded land and turning it into a gigantic beaver playground.
+
+###### Our support: Part 1
+
+**6:55** · And the best part, we don't actually have to do anything because the beavers know much better than us how to do it.
+
+**7:02** · But how are they actually doing it?
+
+**7:05** · Let's take a look. (playful music) It all starts with the surrounding trees. Beavers love to eat the inner bark of tree branches, but instead of learning to climb up, beavers decided to bring the trees down to them. Using their self-sharpening iron-enforced teeth, they can fell a tree in a single night, strategically cutting the trunk so the tree falls into the water where it can easily be cut up and transported.
+
+###### How beaver engineering works
+
+**7:33** · And because beavers only eat a small portion of the tree, there's a lot of building material left to create this: dams. And they are really good at them. In Canada, they've built a dam twice the length of the Hoover Dam. Just chew on that for a moment. I mean, look at this dam right here. It's fairly new, and its construction is absolutely remarkable. Like with any good construction site, beavers follow a clear plan.
+
+**8:01** · First, they search for a perfect location to maximise the dam's impact, choosing narrow streams in flat valleys so that even a small dam will flood a large area. Then they start digging big logs into the riverbed and anchor them with rocks to build a foundation. This then gets layered with branches, mud, and leaves to create a sturdy wall. Beavers actually monitor the sound of the water as an indicator of how well the dam stops water flow.
+
+**8:31** · If they still hear running water, they must keep building until it's done. All of this is absolutely fascinating, but one question remains.
+
+**8:40** · Why?
+
+**8:42** · Why go through all of that work just to flood a valley?
+
+**8:46** · Well, take a look at this mediaeval castle. It's not just protected by strong walls, but by moats of water. Beaver dams create exactly such moats to protect them from wolves and other predators. And right in the middle of it sits the beaver's lodge like a castle.
+
+**9:04** · In German, we actually call them beaver castle, Biberburg, and there is one right over there. (peppy music) The German name really is on point as this thing is built with a multi-room layout and mud-plastered walls that are impenetrable to predators. Beavers enter through a secret tunnel that opens into a lower wet chamber for shedding water. In my anthropomorphizing mind, that's where they take off their rubber boots and hang their raincoats.
+
+**9:35** · From here, they retreat to a dry upper living area where the family sleeps and stays warm, including, wait for it, a built-in ventilation shaft that acts like a chimney. In winter, you can even see steam rising out from the top because their body temperature and the decomposition of the organic walls act like a central heating system while the water below is used as an in-house fridge to keep the food fresh during winter.
+
+**10:01** · If they see something that they really like, they dig it up and they transport it closer to their mound, sometimes even in front of the mound, and they stick it into the soil there. So they have their little garden around their beaver mounds.
+
+**10:19** · By the way, if you ever encounter a beaver or a beaver lodge in the wild, absolutely don't approach it. These are wild animals that should be left alone. The only reason why we could get so close was because we were on location with an expert, making sure we would not disturb them. Okay, back to the video. (playful music) We're back at the fish farm, and we are already seeing the first signs of beaver activity.
+
+**10:45** · You can see right here that they have started damming up the old lock again.
+
+**10:49** · What did I say?
+
+**10:50** · No human construction crew needed. It's incredible to see how quickly things are happening already. Just a few weeks ago, all of this was just brown. With the beavers coming back and raising the water levels, it's already turning green again.
+
+**11:05** · Seeing how effectively beavers are restoring landscapes, we were asking ourselves, why isn't this being done much more?
+
+###### How beavers cause conflict
+
+**11:13** · Well, it turns out beavers are a bit too good at claiming land.
+
+**11:18** · Beavers are causing problems.
+
+**11:20** · Beavers. - Beavers.
+
+**11:21** · Beaver...
+
+**11:22** · Is causing quite a few problems.
+
+**11:24** · As beaver populations expand, they can clash with local communities, blocking drainage ditches, flooding agricultural fields, and chewing down trees that we prefer kept standing. Often this doesn't go down too well. So if we want beavers to survive, we have to actively help humans to live alongside them. Luckily, Frauke has a plan for that too. We're going to broker a peace between beavers and humans by planting 9,000 willow trees.
+
+###### Our support: Part 2
+
+**11:53** · Willows are a preferred snack of beavers, distracting them from old-growth trees. They never fully eat them, instead leaving small stumps that quickly sprout again, providing an ongoing food source. In fact, the number of willows will naturally grow over time. On top of that, we're helping locals to protect their property by providing them with non-toxic anti-bite glue, low voltage electric fencing, and these wire cages to protect valuable trees.
+
+**12:21** · In the long run, our 20 hectares of land will positively impact about 400 hectares of surrounding land by hydrating the forest ecosystem, preventing wildfires, filtering the water, and creating a vital stepping stone habitat from the smallest to the biggest species.
+
+**12:39** · For me, personal, it's always joy.
+
+**12:45** · It fills me immediately with joy when I see beavers being there, doing what beavers do, and I can fully trust them that they do everything for a good reason. (inspiring music) For centuries, our relationship with beavers was defined by hunting and conflict. But looking at this project, you can see what happens when we finally decide to become their allies. By allowing beavers to return, we aren't just saving a species. We are letting them save our landscapes.
+
+###### A new relationship with beavers
+
+**13:24** · And if you want to become part of projects like this, join Planet Wild as a backer. Every month we go on a mission to bring back endangered species, clean up our oceans, and rewild entire landscapes. And it's all community funded. As a backer, you're directly supporting people at the front lines of nature protection. And you can see your own impact here on our channel. There's a QR code over here and a link down in the description.
+
+**13:50** · See you all again next month, over and out. (chiming music)
+
+#### Why This Unusual Pattern May Save the Rainforests
+
+**PBS Terra**, *09 12, 2024*
+
+##### Video (9:34)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/EDpCLIgfHXo?start=114 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Check out In the Margins on @pbsorigins : https://youtu.be/Y1cJCowMz9M?feature=shared
+
+Check out Roots of Resistance on @pbsorigins : https://youtu.be/rUCrmh58GrU?si=b6HPENjsnEKYPrzK
+
+The Choco region in northwest Ecuador is hosting a groundbreaking experiment to try and help it’s rainforests recover from rampant deforestation. A multinational team is planting small “tree islands" to attract natural seed dispersers. It’s an innovative approach that we’ll take a close look at, from above and within. 
+
+Hosted by Joe Hanson from Be Smart, Overview uses stunning 4k drone footage to reveal the natural and human made marvels shaping our planet--from a 10,000-foot view--literally.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+##### Transcript
+
+**0:05** · (light music) Hidden along the equator lies a rainforest like no other.
+
+**0:13** · The Choco is a kaleidoscope of life.
+
+**0:17** · An enchanting home to an astonishing array of species many found nowhere else on Earth.
+
+**0:24** · But like most of Earth's tropical rainforests, The Choco is under threat.
+
+**0:29** · Widespread deforestation for agriculture, logging, and human settlements has pushed this incredible ecosystem to the brink of disappearing.
+
+**0:37** · But, there is hope, thanks to these.
+
+**0:41** · These are tree islands, small patches of trees replanted within larger deforested areas.
+
+**0:47** · Scientists think this groundbreaking idea could change the world's forest recovery efforts by allowing the forest to regrow itself thanks to one surprising ingredient, animal poop.
+
+**1:06** · (gentle music) Here in Ecuador, the Choco Rainforest covers approximately 7,000 square kilometers, nearly one and a half times the size of Grand Canyon National Park.
+
+**1:18** · Separated from the Amazon by the towering Andes, The Choco is a world unto itself.
+
+**1:25** · It's also one of the wettest places on Earth.
+
+**1:29** · Some spots receiving upwards of 400 inches of rain per year.
+
+**1:35** · It's also one of the world's most biologically diverse places.
+
+**1:39** · A home for over 800 species of birds, 140 species of mammals, and 9,000 species of plants.
+
+**1:50** · Here, inside a 100-meter square, you can find nearly as many tree species as in all of Europe.
+
+**1:58** · Rainforests like The Choco are critical for preserving Earth's biodiversity.
+
+**2:10** · These are some of the determined researchers on a mission to save this remarkable ecosystem.
+
+**2:20** · (Leighton speaking in foreign language) - They contain more than half of all of the species in the world, even though they occupy a relatively small proportion of the Earth's land surface.
+
+**2:29** · There's new species being discovered in tropical rainforests every year, including here in Northwestern Ecuador.
+
+**2:35** · Every year, an area of tropical forest gets cut down that's about the size of Lake Michigan.
+
+**2:43** · (orchestral music) - The Choco is considered one of the most threatened ecoregions in the world.
+
+**2:48** · In Ecuador, only about 2% of the original forest cover remains.
+
+**2:54** · As more and more of it is converted to palm oil plantations, countless species of plants and animals are at risk of extinction.
+
+**3:09** · (Fernando speaking in foreign language) Fernando is now fighting to restore his native lands.
+
+**3:29** · (Fernando speaking in foreign language) But saving a rainforest is not an easy task.
+
+**3:34** · Although scientists know what a healthy tropical forest looks like, they still know very little about how to regrow them.
+
+**3:54** · (Fernando speaking in foreign language) (light music) At this point, maybe you're thinking, why not just plant trees?
+
+**3:58** · One new tree to replace every old one?
+
+**4:01** · Well, the cost, for starters.
+
+**4:03** · Additionally, many traditional replanting efforts have focused on replanting only a small number of tree species.
+
+**4:10** · But this allows only a few fast growing species to dominate the regrown forest, and it really fails to recreate the complex diversity of species in natural rainforests, which can contain upwards of 400 tree species in an area the size of a Manhattan city block.
+
+**4:29** · Regrowing a forest by only replanting a few species is like trying to paint a Picasso with only primary colors.
+
+**4:39** · But here, scientists are trying something new, an idea that harnesses the power of nature itself.
+
+**4:47** · Instead of planting rows of seedlings in a large scale plantation, the researchers are creating small, strategic patches filled with a diverse mix of native trees.
+
+**4:58** · They hope that over time these empty spaces will be filled by the same natural processes that keep healthy rainforests lush and diverse.
+
+**5:08** · [Leighton] The idea is that these small patches of trees will kickstart a natural regeneration process.
+
+**5:13** · [Joe] And here's where things get interesting, because the team's secret weapon is poop. (bright music) The trees planted in these islands produce fruit. In a healthy rainforest, animals act as nature's gardeners. As creatures like howler monkeys and toucans feast on that fruit, their droppings disperse seeds far and wide, planting new forest with every trip to the bathroom. Up to 80% of tree species rely on birds and mammals to spread their seeds in this way.
+
+**5:46** · When a patch of rainforest falls, it's these animal gardeners that hold the key to bringing it back to life. Eating fruits, carrying the seeds far and wide, and ultimately, planting the forest of tomorrow.
+
+**6:00** · One of the big questions is, what are the best kinds of trees to plant?
+
+**6:05** · How many of them do you need to plant and what kinds of spatial configurations?
+
+**6:09** · [Joe] The scientists are betting that by planting trees with mouthwatering fruits, they'll attract a bunch of hungry critters like monkeys, birds, and bats to help this forest regrow itself. Who knew that the key to saving the rainforest could be as simple as a well-stocked fruit buffet. To test the idea, researchers pack half of their plots with trees that produce a bounty of animal attracting fruit, while the other half offer fewer delicious treats.
+
+**6:42** · At the same time, we're also monitoring animal populations to identify what bird species are coming and visiting plots. (Fernando speaking in foreign language) [Leighton] We'd like to be able to connect the dots between what animals are present and what seeds they're bringing into the restoration plots.
+
+**7:12** · [Joe] The project has captured the imagination of the local community.
+
+**7:17** · [Leighton] A lot of the success that FCAT has enjoyed is due to the tight bonds that they have with the local communities that are here. (Fernando speaking in foreign language) [Joe] The experiment is still young, but the team is already seeing promising signs. (Fernando speaking in foreign language) (light music) If it works, this approach could revolutionize reforestation efforts not just in The Choco, but in threatened rainforests worldwide.
+
+**8:08** · Ecological restoration is not a silver bullet.
+
+**8:12** · It's not the solution to all of our environmental problems. In order to prevent mass extinction, we have to stop destroying intact habitats. And restoration can't do that. But restoration is part of the solution as well. Ecological restoration allows us to build back some of the habitat that's been lost.
+
+**8:29** · [Joe] Only time will tell if their tree islands will take root. But in the battle to save our rainforests, every seed of hope matters, and in The Choco, those seeds are starting to sprout. Hey guys, we’re out here working on the next episode of Overview. But before you go, if you’re a fan of history, we want to tell you about two new series over on PBS Origins.
+
+**8:55** · Roots of Resistance is a series which shows how history is often made through defiance. And In the Margins explores the kind of lesser-known stories that they maybe don’t teach you in school. We're gonna put a link to their latest episodes down below. We hope you consider subscribing too. It helps all of us over at PBS.
+
 ### Films
+
+#### Rebuilding The Herd Rewilding The Future
+
+>Episode 8/13/2026 of Conservation Works (Season 2026)
+>- *Released: 2026-08-13*
+>- *Duration: 00:27:27*
+
+[***More details on pbs.org***](https://www.pbs.org/video/rebuild-the-herd-rewilding-the-future-ohn9c9/)
+
+<iframe width="560" height="315" title=Rebuilding The Herd Rewilding The Future allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/rebuild-the-herd-rewilding-the-future-ohn9c9/?uid=62a74a65-f6a1-4a7c-8907-df1f2b1854e1&amp;userPassportStatus=no&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true\></iframe>
+
+##### Description
+
+Explore Nebraska's bighorn sheep comeback, Zoo Schools' Earth Day event, the beauty of Scotts Bluff.
+
+##### Transcript
 
 #### Vanishing Act
 
@@ -317,11 +716,11 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 <iframe width="560" height="315" title=Human Footprint  Vanishing Act  Season 2 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/vanishing-act-4bp9fu/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;unsafeDisableContinuousPlay=true\></iframe>
 
-## Description
+##### Description
 
 Shane meets species on the brink of oblivion, and the people who won’t let them slip away.
 
-## Transcript
+##### Transcript
 
 
 ("Ready or Not" by Fugees plays) (Shane) The story of our planet is a tale of equal and opposite forces: Life... (female singer) Ready or not, here I come (Shane) ...and death.

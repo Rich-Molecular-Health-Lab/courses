@@ -1,6 +1,6 @@
 ---
 title: "Invasive Alien Species"
-date: "2026-10-21T16:00:00"
+date: "2026-10-26T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -15,7 +15,7 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-10-21T16:00:00, 2026-10-26T16:00:00
+**Dates:** 2026-10-26T16:00:00, 2026-10-28T16:00:00
 
 ## Assigned Background
 
@@ -33,7 +33,7 @@ listing:
 
 **Textbook:** Conservation biology for all *(see details below)*
 
-**Days Covered:** BIOL4120_W9D2
+**Days Covered:** BIOL4120_W9D2, BIOL4120_W10D1
 
 :::
 
@@ -99,7 +99,7 @@ listing:
 
 **Textbook:** Conservation biology for all *(see details below)*
 
-**Days Covered:** BIOL4120_W9D2
+**Days Covered:** BIOL4120_W9D2, BIOL4120_W10D1
 
 :::
 
@@ -127,17 +127,17 @@ listing:
 
 **nature video**, *01 25, 2023*
 
-## Video (10:31)
+##### Video (10:31)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/CH7MpiGCdgU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The story of Sargassum stretches from the Congo to the Amazon, from soybean farming to climate change and from toxic gases to robotic vehicles. In this documentary researchers from around the world explain the vast scope of the Sargassum problem and the solutions that may one day begin to address it.
 
 Additional photographs and footage in this film were provided by Drake Lee-Patterson, Gary Marshall, Joseph Weekes, Driven Visual Media, Kerwin Noel,  Nick Hurley, Akeisha Clark, Sargassum Information Hub, NASA, Chuanmin Hu, Jeff Davis's team, Hazel Oxenford, Caroline Juang, Melvina Walsh, Morgan Lewis, Kerton Jobe, P McConney, Markel Gomez Letona and Nico Frohberg who were mistakenly missed off the film credits.
 
-## Transcript
+##### Transcript
 
 **0:03** · VOICE OVER: The Great Atlantic Sargassum Belt is the largest seaweed bloom in the world, and it's expanding.
 
@@ -297,11 +297,11 @@ Additional photographs and footage in this film were provided by Drake Lee-Patte
 
 **PBS Terra**, *08 08, 2023*
 
-## Video (13:31)
+##### Video (13:31)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/kweD8y5LqsA?start=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch the full first episode of Human Footprint here: https://youtu.be/m36E3n7y3mY
 
@@ -313,7 +313,7 @@ Human Footprint is a show that delves into the impact of humans on the planet. J
 PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
 *****
 
-## Transcript
+##### Transcript
 
 **0:07** · Another monster gone!
 
@@ -707,11 +707,11 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 
 **VICE News**, *06 03, 2021*
 
-## Video (4:59)
+##### Video (4:59)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/1ybg6hd-TUA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 It might be time to cull the world’s largest invasive species: Pablo Escobar’s cocaine hippos. The rapidly reproducing 80 hippos have taken over Colombia’s waterways, poisoning wildlife with their toxic urine and feces, scientists say. But not everyone can agree on what to do with them.
 
@@ -733,17 +733,17 @@ More videos from the VICE network: https://www.fb.com/vicevideo
 
 #VICENews #News
 
-## Transcript
+##### Transcript
 
 #### The Florida River Becoming a Refuge for Manatees  WILD HOPE
 
 **Nature on PBS**, *01 08, 2024*
 
-## Video (15:34)
+##### Video (15:34)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/1sVU9RocV7M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Crystal River has long been a safe haven for the Florida manatee, but when an invasive algae wiped out the eelgrass that manatees need for food, the community rallied to restore the river and save the animals that call it home.
 
@@ -761,7 +761,7 @@ Get our newsletter: http://eepurl.com/irGMng
 
 Share this with a friend!
 
-## Transcript
+##### Transcript
 
 **0:01** · LISA: Crystal River was perfect for the manatees.
 
@@ -1029,11 +1029,11 @@ Share this with a friend!
 
 **PBS Terra**, *10 22, 2020*
 
-## Video (8:15)
+##### Video (8:15)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/HnOajuolHWI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Thank you to Target for supporting PBS. You can learn more at: https://target.com/community
 
@@ -1051,14 +1051,14 @@ Hosted by Joe Hanson from It's Okay to be Smart, Overview uses incredible 4k dro
 PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
 *****
 
-## Transcript
+##### Transcript
 
-### The wild horses debate
+###### The wild horses debate
 
 
 **0:01** · [Narrator] Thank you to Target for supporting PBS. These are the wild horses of the Outer Banks. Locals call them Banker horses. They've managed to survive here for more than five centuries, but they're not technically supposed to be here. Some view these horses as symbols of the American spirit, others as a beloved landmark of the local community. But many view them as an invasive pest, and one that's damaging a fragile landscape.
 
-### Survival on the coast
+###### Survival on the coast
 
 **0:33** · So what do we do when an invasive species becomes an Instagram star?
 
@@ -1068,11 +1068,11 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 
 **1:01** · Horses have a curious origin story. Fossils tell us their ancestors actually originated in North America around 30 million years ago and spread to other continents over the Bering land bridge. But then the ancestors of horses died out in North America. The modern day species only returned to the continent thousands of years later when European colonizers brought them back.
 
-### Origins and ecology
+###### Origins and ecology
 
 **1:25** · Europeans also brought with them pigs, cattle, and rats, along with a host of dangerous germs, none of which were native to the continent. Over the past five centuries these species have wreaked havoc on the landscapes, ecosystems, and people that were already here. But the way we treat wild horses is very different from the way we treat wild pigs, for example. Okay, you are very cute, but you're also a scourge and a nuisance.
 
-### Famous feral animals
+###### Famous feral animals
 
 **1:57** · Wild horses and wild pigs are both feral, meaning they were once domesticated animals that broke free to live in the wild. And they can both cause a lot of destruction to landscapes when there's too many of them. On the Outer Banks, wildlife officials shoot feral pigs from helicopters to control their numbers. In contrast, these horses all have names and are famous on Instagram.
 
@@ -1086,7 +1086,7 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 
 **2:46** · [Meg] You sorta have to stop and ask yourself at what point does a species become, maybe not native, but they're not invasive.
 
-### Environmental impact
+###### Environmental impact
 
 
 **2:54** · [Narrator] Meg Puckett manages the Corolla herd, one of three large herds that roam the Outer Banks. It's her job to decide what happens to these horses. Horses pose a unique challenge on barrier islands. Barrier islands are the first line of defense against hurricanes, but they're increasingly threatened by sea level rise and human development. Some of these islands are only a mile wide, yet population growth around here is twice the national average.
@@ -1095,13 +1095,13 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 
 **3:48** · Too many horses can mean serious damage to the vegetation, and that makes the island more vulnerable to erosion and storms. There's a cautionary tale out West, where a different population of problematic ponies, the beloved wild mustangs, have gotten so numerous that they're gobbling up resources from other species, and costing the federal government more than $80 million to manage every year. Here in the islands, the herds are smaller, but there's another problem. More horses attract more tourists.
 
-### The human-horse conflict
+###### The human-horse conflict
 
 **4:20** · And humans really want to get close to them. It's illegal to approach a wild horse because if a horse feels threatened, well, I don't know if you've ever seen a horse kick, but it's not a fun time. You could get seriously hurt. And humans put the horses in danger too. Almost every summer, a wild horse is either hit by a car, or fed something that makes them seriously ill.
 
 **4:45** · [Meg] I got sent a tech TikTok video yesterday of a girl sitting crouched down in front of a horse with her hands around his head. I really doubt that she meant anything bad by it. I don't think, you know, she didn't realize that she was being harmful, but she was.
 
-### Managing the herd
+###### Managing the herd
 
 
 **5:00** · [Narrator] Social media has fueled the public's fascination with wild animals, not just here, but around the world. On one hand, it raises awareness of potentially threatened or endangered species, but it also creates pressure to exploit or sometimes even remove animals from their habitat to serve as props for selfies. This desire to be close to wild animals has led to injury and death for some of these very horses. Meg's challenge is to manage both horses and people.
@@ -1112,7 +1112,7 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 
 **6:07** · [Meg] We're seeing so many more people visit the north beaches that have never been here before. And so they don't know the history, they don't really know the rules, and the reasons why we have those rules, and why they're so important. So our education and public outreach efforts have really been stepped up the past couple years.
 
-### Future sustainability
+###### Future sustainability
 
 
 **6:25** · [Narrator] Unlike feral pigs or rats, humans have decided it's worth the effort to keep these sort of wild horses around. The solution is essentially to keep them from being too wild.

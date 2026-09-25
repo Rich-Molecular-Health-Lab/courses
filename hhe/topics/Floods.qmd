@@ -25,7 +25,7 @@ listing:
 
 ![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:06:01
 
 **Released:** 2026
 
@@ -43,7 +43,7 @@ The flooding in Nepal has left hundreds dead and many more missing. Many scient
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5946819/nx-s1-mx-5946819-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+#### Transcript
 
 AILSA CHANG, HOST:
 
@@ -129,7 +129,7 @@ CHANG: It's CONSIDER THIS FROM NPR. I'm Ailsa Chang.
 
 ![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:47:42
 
 **Released:** 2026
 
@@ -153,7 +153,7 @@ In August 2005, one of the most powerful storms ever recorded in the Gulf of Mex
 
 ![Antediluvian](https://i.scdn.co/image/ab67656300005f1f4295008e1fb9a81c2166656e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:31:34
 
 **Released:** 2020
 
@@ -173,7 +173,7 @@ Part I: It all started long before a hurricane named Katrina. Learn more about y
 
 ![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:06:01
 
 **Released:** 2026
 
@@ -191,7 +191,7 @@ The flooding in Nepal has left hundreds dead and many more missing. Many scient
 
 <iframe src="https://www.npr.org/player/embed/nx-s1-5946819/nx-s1-mx-5946819-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
-## Transcript
+##### Transcript
 
 AILSA CHANG, HOST:
 
@@ -277,7 +277,7 @@ CHANG: It's CONSIDER THIS FROM NPR. I'm Ailsa Chang.
 
 ![Flash floods on Nepal-Tibet border](https://i.scdn.co/image/ab67656300005f1f4c7cc8c8d2e6710f01d0d412)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:08:32
 
 **Released:** 2026
 
@@ -297,7 +297,7 @@ Flash floods triggered by an ice avalanche have left hundreds of people missing 
 
 ![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:47:42
 
 **Released:** 2026
 
@@ -317,7 +317,7 @@ In August 2005, one of the most powerful storms ever recorded in the Gulf of Mex
 
 ![Nearly 400 Killed in Nepal Flooding, 1,300+ Missing](https://i.scdn.co/image/ab67656300005f1fd0c546919545395b52d4b7cd)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:47:38
 
 **Released:** 2026
 
@@ -335,11 +335,9 @@ A frantic search is underway for more than 1,300 people missing after catastroph
 
 #### Sudden Flood in Tibet - The 340th Evolutionary Lens with Bret Weinstein and Heather Heying
 
-# Sudden Flood in Tibet: The 340th Evolutionary Lens with Bret Weinstein and Heather Heying
-
 ![Sudden Flood in Tibet: The 340th Evolutionary Lens with Bret Weinstein and Heather Heying](https://i.scdn.co/image/ab67656300005f1f7adbd7b8499210f438c2e61e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:38:17
 
 **Released:** 2026
 
@@ -357,11 +355,9 @@ On this, our 340th Evolutionary Lens livestream, we discuss the recent flash flo
 
 #### The Ghost Town (Times Beach, Missouri)
 
-# S10 Ep140: The Ghost Town (Times Beach, Missouri)
-
 ![S10 Ep140: The Ghost Town (Times Beach, Missouri)](https://i.scdn.co/image/ab67656300005f1fd352f167cf2d28d9d9fa1fd9)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:07:19
 
 **Released:** 2026
 
@@ -381,7 +377,7 @@ A small Missouri town faces a compounded catastrophe as a devastating flood foll
 
 ![The History And Legacy Of Hurricane Helene](https://i.scdn.co/image/ab67656300005f1f66149791638977b8dc4d841a)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:18
 
 **Released:** 2026
 
@@ -401,7 +397,7 @@ On the night of Sept. 27, 2024, Hurricane Helene dropped a historic wall of rain
 
 ![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:52
 
 **Released:** 2024
 
@@ -423,11 +419,11 @@ Superfund sites are some of the most polluted areas in the country, containing h
 
 **Vox**, *10 26, 2023*
 
-## Video (6:49)
+##### Video (6:49)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/nf-Yy3EuZi0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 These "sponge city" designs resist floods and increase biodiversity to help us adapt to a changing climate.
 
@@ -463,7 +459,7 @@ Check out our articles: https://www.vox.com/
 
 Listen to our podcasts: https://www.vox.com/podcasts
 
-## Transcript
+##### Transcript
 
 **0:02** · This isn't a forest.
 

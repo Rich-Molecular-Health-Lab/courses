@@ -9,11 +9,9 @@ categories:
   - "ENVN4320"
 ---
 
-# Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health
-
 ![Curbing Urban Sprawl: Why Better City Planning Could Mean Better Health](https://i.scdn.co/image/ab67656300005f1fa9f079a209a1669ed8f19e40)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:15:16
 
 **Released:** 2026
 

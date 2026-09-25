@@ -25,11 +25,11 @@ listing:
 
 **Vox**, *03 15, 2017*
 
-## Video (5:21)
+#### Video (5:21)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/K8EVQdIUWBE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 It's "natural" selection.
 
@@ -72,7 +72,7 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+#### Transcript
 
 **0:00** · Elephants are one of the most iconic creatures on this planet.
 
@@ -92,10 +92,10 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **1:03** · In the 1970s and 80s, elephant poaching reached crisis-levels, so in 1989, an international agreement banned the global ivory trade.
 
-### CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)
+##### CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)
 
 
-### 1989 1990 Ban goes into effect
+##### 1989 1990 Ban goes into effect
 
 **1:13** · But in the past several years, poaching has returned to high levels. This chart shows the percentage of african elephant deaths caused by poaching since 2003.
 
@@ -121,10 +121,10 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **2:49** · Let’s use Gorongosa National Park as an example.
 
-### Gorongosa National Park
+##### Gorongosa National Park
 
 
-### The Mozambican Civil War
+##### The Mozambican Civil War
 
 **2:57** · Of the older female elephants who survived the war, over half were tuskless.
 
@@ -144,7 +144,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **4:27** · And China has announced that by the end of 2017, they will end domestic sales and processing of ivory.
 
-### BBC China announces ban on ivory trade by end of 2017
+##### BBC China announces ban on ivory trade by end of 2017
 
 **4:34** · Those steps, along with stronger incentives to protect elephant habitats and support local anti-poaching programs, might give elephants the leg or tusk up they need to secure their future on this planet.
 
@@ -160,11 +160,11 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **Smithsonian Channel**, *05 27, 2016*
 
-## Video (2:48)
+#### Video (2:48)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/wx-cGnvKsvo title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 Smithsonian's National Museum of Natural History houses one of largest bird collections in the world. One of their most prized birds, Martha, was the last passenger pigeon to ever fly.
 
@@ -172,7 +172,7 @@ From: SERIOUSLY AMAZING OBJECTS: Trailblazers
 
 http://bit.ly/1XCulD1
 
-## Transcript
+#### Transcript
 
 **0:00** · Hi. Hi. I'm Chris. Lucia. Nice to meet you.
 
@@ -184,7 +184,7 @@ http://bit.ly/1XCulD1
 
 **0:26** · What are you going to see today? Oh my god. You're kidding me. That's Martha.
 
-### Where is Martha the passenger pigeon?
+##### Where is Martha the passenger pigeon?
 
 **0:28** · This is Martha. For a pigeon fan like Lucia, this is like seeing a movie star, the very last passenger pigeon. She died in the Cincinnati Zoo at 100 p.m. on the 1st of September, 1914. She was literally alone for about 4 years before she died. And and we knew at that time that there were no other ones in the wild. So this is one of the rare cases when you can actually place an exact time and date on an extinction.
 
@@ -208,11 +208,11 @@ http://bit.ly/1XCulD1
 
 **Be Smart**, *11 17, 2014*
 
-## Video (9:11)
+#### Video (9:11)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/z9gHuAwxwAs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 This time, we're the asteroid.
 
@@ -281,9 +281,9 @@ Facebook
 
 https://www.facebook.com/itsokaytobesmartpbs/
 
-## Transcript
+#### Transcript
 
-### The history of extinction
+##### The history of extinction
 
 **0:02** · [MUSIC] The California Golden Bear The Great Auk The Passenger pigeon The Tasmanian tiger The Pinta Island tortoise The Golden toad All dead. And the killer is right there in the room with you.
 
@@ -293,7 +293,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **1:05** · Even kids are used to the idea that sometimes groups of living things just… don’t exist anymore. Okay, mostly don’t exist.
 
-### Discovering mass events
+##### Discovering mass events
 
 **1:13** · But extinction, as a thing, is a surprisingly new concept. In the 1790’s, by studying various fossils, naturalist Georges Cuvier was the first to show that they were not from living, yet undiscovered creatures, as many thought, but from what he called “lost species”.
 
@@ -303,7 +303,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **2:36** · Everything alive today is a descendent of a survivor of that terrible, horrible, no good, very bad day, the so-called Cretaceous-Paleogene mass extinction event, the most recent of the Big 5.
 
-### The big five extinctions
+##### The big five extinctions
 
 **2:50** · You should feel pretty lucky. When we look at all of Earth’s fossil record together, 98% of the species that have ever lived are extinct,. Only they haven’t always disappeared at a constant rate.
 
@@ -313,7 +313,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **3:34** · We’ve learned about all these just in time to get some bad news: We are in the 6th mass extinction, and this time, we are the asteroid.
 
-### The sixth mass extinction
+##### The sixth mass extinction
 
 **3:46** · The hard facts of life mean that even when things are going pretty well on Earth, there’s a background rate of extinction. Among mammals, for instance, we’d expect to see one species go extinct every 700 years, or maybe one amphibian every thousand years.
 
@@ -331,7 +331,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **5:05** · With the exception of maybe the first bacteria to breathe oxygen into the air, no living thing has ever altered life on Earth to the degree that we have, which is why scientists now refer to current epoch as the Anthropocene.
 
-### Drivers of species loss
+##### Drivers of species loss
 
 **5:18** · "We are the ultimate problem. There are 7 billion people on the planet, we tend to destroy critical habitats where species live, we tend to be warming the planet, we tend to be very careless about moving species around the planet."
 
@@ -345,7 +345,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **7:17** · Dirzo gives this loss of animal life a rather harmless sounding name: Defaunation. But there is nothing cute about it. There is not a group of living things on Earth today that is not threatened by the current and coming extinction. That includes us.
 
-### Why saving species matters
+##### Why saving species matters
 
 **7:34** · Extinction is about more than gorillas, tigers, polar bears, and rhinos, and the dozens of other “famous” or “charismatic” species out there. Those are all important and worth saving, but we need to care just as much about the humble beetles, the ugly little worms, and the slimy frogs.
 
@@ -373,11 +373,11 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 <iframe width="560" height="315" title=Human Footprint  Vanishing Act  Season 2 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/vanishing-act-4bp9fu/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;unsafeDisableContinuousPlay=true\></iframe>
 
-## Description
+#### Description
 
 Shane meets species on the brink of oblivion, and the people who won’t let them slip away.
 
-## Transcript
+#### Transcript
 
 
 ("Ready or Not" by Fugees plays) (Shane) The story of our planet is a tale of equal and opposite forces: Life... (female singer) Ready or not, here I come (Shane) ...and death.
@@ -1558,11 +1558,11 @@ If we act thoughtfully, empathetically, and urgently, maybe our species will red
 
 **Be Smart**, *11 17, 2014*
 
-## Video (9:11)
+##### Video (9:11)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/z9gHuAwxwAs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 This time, we're the asteroid.
 
@@ -1631,9 +1631,9 @@ Facebook
 
 https://www.facebook.com/itsokaytobesmartpbs/
 
-## Transcript
+##### Transcript
 
-### The history of extinction
+###### The history of extinction
 
 **0:02** · [MUSIC] The California Golden Bear The Great Auk The Passenger pigeon The Tasmanian tiger The Pinta Island tortoise The Golden toad All dead. And the killer is right there in the room with you.
 
@@ -1643,7 +1643,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **1:05** · Even kids are used to the idea that sometimes groups of living things just… don’t exist anymore. Okay, mostly don’t exist.
 
-### Discovering mass events
+###### Discovering mass events
 
 **1:13** · But extinction, as a thing, is a surprisingly new concept. In the 1790’s, by studying various fossils, naturalist Georges Cuvier was the first to show that they were not from living, yet undiscovered creatures, as many thought, but from what he called “lost species”.
 
@@ -1653,7 +1653,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **2:36** · Everything alive today is a descendent of a survivor of that terrible, horrible, no good, very bad day, the so-called Cretaceous-Paleogene mass extinction event, the most recent of the Big 5.
 
-### The big five extinctions
+###### The big five extinctions
 
 **2:50** · You should feel pretty lucky. When we look at all of Earth’s fossil record together, 98% of the species that have ever lived are extinct,. Only they haven’t always disappeared at a constant rate.
 
@@ -1663,7 +1663,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **3:34** · We’ve learned about all these just in time to get some bad news: We are in the 6th mass extinction, and this time, we are the asteroid.
 
-### The sixth mass extinction
+###### The sixth mass extinction
 
 **3:46** · The hard facts of life mean that even when things are going pretty well on Earth, there’s a background rate of extinction. Among mammals, for instance, we’d expect to see one species go extinct every 700 years, or maybe one amphibian every thousand years.
 
@@ -1681,7 +1681,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **5:05** · With the exception of maybe the first bacteria to breathe oxygen into the air, no living thing has ever altered life on Earth to the degree that we have, which is why scientists now refer to current epoch as the Anthropocene.
 
-### Drivers of species loss
+###### Drivers of species loss
 
 **5:18** · "We are the ultimate problem. There are 7 billion people on the planet, we tend to destroy critical habitats where species live, we tend to be warming the planet, we tend to be very careless about moving species around the planet."
 
@@ -1695,7 +1695,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **7:17** · Dirzo gives this loss of animal life a rather harmless sounding name: Defaunation. But there is nothing cute about it. There is not a group of living things on Earth today that is not threatened by the current and coming extinction. That includes us.
 
-### Why saving species matters
+###### Why saving species matters
 
 **7:34** · Extinction is about more than gorillas, tigers, polar bears, and rhinos, and the dozens of other “famous” or “charismatic” species out there. Those are all important and worth saving, but we need to care just as much about the humble beetles, the ugly little worms, and the slimy frogs.
 
@@ -1717,11 +1717,11 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **PBS Terra**, *08 08, 2023*
 
-## Video (13:31)
+##### Video (13:31)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/kweD8y5LqsA?start=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Watch the full first episode of Human Footprint here: https://youtu.be/m36E3n7y3mY
 
@@ -1733,7 +1733,7 @@ Human Footprint is a show that delves into the impact of humans on the planet. J
 PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
 *****
 
-## Transcript
+##### Transcript
 
 **0:07** · Another monster gone!
 
@@ -2127,11 +2127,11 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 
 **PBS Terra**, *08 15, 2024*
 
-## Video (10:06)
+##### Video (10:06)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/2Rchqd400W0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Hidden beneath the surface of our coastal seas are towering forests - of kelp. These underwater ecosystems are as crucial to our environment as their land-based counterparts. We’ll explore them alongside conservationists who are working to restore these threatened habitats. We'll also meet some adorable sea otters and learn about the role they play in maintaining the balance in this sensitive environment.
 
@@ -2151,7 +2151,7 @@ Tiktok: https://www.tiktok.com/@pbsterra
 
 Instagram:  https://instagram.com/pbsterra
 
-## Transcript
+##### Transcript
 
 **0:00** · (birds squawking) (light music) (water moving) This is one of the most important forest ecosystems on earth.
 
@@ -2279,11 +2279,11 @@ Instagram:  https://instagram.com/pbsterra
 
 **Vox**, *03 15, 2017*
 
-## Video (5:21)
+##### Video (5:21)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/K8EVQdIUWBE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 It's "natural" selection.
 
@@ -2326,7 +2326,7 @@ Follow Vox on Twitter: http://goo.gl/XFrZ5H
 
 Or on Facebook: http://goo.gl/U2g06o
 
-## Transcript
+##### Transcript
 
 **0:00** · Elephants are one of the most iconic creatures on this planet.
 
@@ -2346,10 +2346,10 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **1:03** · In the 1970s and 80s, elephant poaching reached crisis-levels, so in 1989, an international agreement banned the global ivory trade.
 
-### CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)
+###### CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)
 
 
-### 1989 1990 Ban goes into effect
+###### 1989 1990 Ban goes into effect
 
 **1:13** · But in the past several years, poaching has returned to high levels. This chart shows the percentage of african elephant deaths caused by poaching since 2003.
 
@@ -2375,10 +2375,10 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **2:49** · Let’s use Gorongosa National Park as an example.
 
-### Gorongosa National Park
+###### Gorongosa National Park
 
 
-### The Mozambican Civil War
+###### The Mozambican Civil War
 
 **2:57** · Of the older female elephants who survived the war, over half were tuskless.
 
@@ -2398,7 +2398,7 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **4:27** · And China has announced that by the end of 2017, they will end domestic sales and processing of ivory.
 
-### BBC China announces ban on ivory trade by end of 2017
+###### BBC China announces ban on ivory trade by end of 2017
 
 **4:34** · Those steps, along with stronger incentives to protect elephant habitats and support local anti-poaching programs, might give elephants the leg or tusk up they need to secure their future on this planet.
 
@@ -2414,11 +2414,11 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **VICE News**, *06 03, 2021*
 
-## Video (4:59)
+##### Video (4:59)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/1ybg6hd-TUA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 It might be time to cull the world’s largest invasive species: Pablo Escobar’s cocaine hippos. The rapidly reproducing 80 hippos have taken over Colombia’s waterways, poisoning wildlife with their toxic urine and feces, scientists say. But not everyone can agree on what to do with them.
 
@@ -2440,31 +2440,31 @@ More videos from the VICE network: https://www.fb.com/vicevideo
 
 #VICENews #News
 
-## Transcript
+##### Transcript
 
 #### Project aims to count Africa's shrinking elephant population
 
 **PBS NewsHour**, *01 17, 2015*
 
-## Video (8:10)
+##### Video (8:10)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/maxRa-_bmEw title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The Great Elephant census, an ambitious two-year initiative funded by an American philanthropist, aims to count all of the elephants in Africa to save the species. But as numbers continue dwindle, due in large part to poaching, researchers -- already faced with a herculean task and countries resistant to join the census -- must first establish how many they are trying to save.
 
-## Transcript
+##### Transcript
 
 #### Selection for Tuskless Elephants  HHMI BioInteractive Video
 
 **biointeractive**, *09 23, 2016*
 
-## Video (6:39)
+##### Video (6:39)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/IxJDUrDH9v4?start=119 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Working in Gorongosa National Park, Mozambique, Dr. Joyce Poole and colleagues make a striking observation: many female elephants lack tusks. 
  
@@ -2473,7 +2473,7 @@ Most African elephants have tusks, but some–about 2 to 6% of females and even 
 
 For more short films and resources on elephants, visit http://www.hhmi.org/biointeractive/elephants
 
-## Transcript
+##### Transcript
 
 **0:11** · DOMINIQUE DEMILLE: Oh, they is coming.
 
@@ -2571,11 +2571,11 @@ For more short films and resources on elephants, visit http://www.hhmi.org/bioin
 
 **BBC Ideas**, *10 27, 2022*
 
-## Video (6:28)
+##### Video (6:28)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/aQDYxTCIVRE?start=4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Are zoos a great way to teach people about nature and save species from extinction? Or a cruel way of using animals for entertainment?
 
@@ -2599,9 +2599,9 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 #bbcideas #zoo #animals
 
-## Transcript
+##### Transcript
 
-### History of zoos
+###### History of zoos
 
 **0:00** · Zoos have changed out of all recognition.
 
@@ -2627,7 +2627,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **0:52** · To be able to suddenly see a giraffe for the first time, probably it was absolutely bonkers.
 
-### Animal welfare evolution
+###### Animal welfare evolution
 
 **1:01** · There wasn't really an appreciation of animals needing certain things to have a good life.
 
@@ -2649,7 +2649,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **1:50** · The schoolchildren that come here to the wildlife park, all of them go away learning the messages that we know for sure are going to make a true difference to the animals back out into the wild.
 
-### Conservation and education
+###### Conservation and education
 
 **2:03** · The biggest threat to wildlife comes from people, and most people live in cities.
 
@@ -2667,7 +2667,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **2:59** · Zoo populations of animals are insurance populations.
 
-### Limitations and ethics
+###### Limitations and ethics
 
 **3:03** · Certain species, due to what's going on on the planet at the moment, the only way that we can stop them from going extinct will be to bring them into captivity.
 
@@ -2689,7 +2689,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **3:57** · The complexity of providing a good life for some of these animals, it's actually really, really difficult.
 
-### The future of wildlife
+###### The future of wildlife
 
 **4:09** · There is some evidence that people will know more facts about a particular animal, for example, but follow up studies to see if they've actually changed their behaviour to benefit conservation, there's not much evidence to suggest that is happening.
 
@@ -2731,7 +2731,7 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **6:02** · How can we create a world where we don't need zoos?
 
-### Conclusion and call to action
+###### Conclusion and call to action
 
 **6:04** · What I'm hoping is that we can design super sustainable cities so that you don't need to go to a place to see animals.
 
@@ -2741,11 +2741,11 @@ And follow BBC Ideas on Twitter: https://twitter.com/bbcideas
 
 **Vox**, *11 13, 2025*
 
-## Video (7:55)
+##### Video (7:55)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/14pAZJMgnZw?start=228 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Earth’s population is growing. We’re expected to have 2 billion more mouths to feed by 2050. But how can we feed all those people in a way that is still sustainable and ethical? Many have argued that aquaculture (or fish farming) is one of the most sustainable ways we can consume animal protein, since it requires less land use. It’s currently the quickest-growing form of food production in the world. But how exactly does it work? And is it really the best path forward? 
 
@@ -2785,7 +2785,7 @@ Or Twitter: http://goo.gl/XFrZ5H
 
 This video has been updated to remove fish research footage.
 
-## Transcript
+##### Transcript
 
 **0:00** · I eat meat.
 
@@ -2967,11 +2967,11 @@ This video has been updated to remove fish research footage.
 
 **Smithsonian Channel**, *05 27, 2016*
 
-## Video (2:48)
+##### Video (2:48)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/wx-cGnvKsvo title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Smithsonian's National Museum of Natural History houses one of largest bird collections in the world. One of their most prized birds, Martha, was the last passenger pigeon to ever fly.
 
@@ -2979,7 +2979,7 @@ From: SERIOUSLY AMAZING OBJECTS: Trailblazers
 
 http://bit.ly/1XCulD1
 
-## Transcript
+##### Transcript
 
 **0:00** · Hi. Hi. I'm Chris. Lucia. Nice to meet you.
 
@@ -2991,7 +2991,7 @@ http://bit.ly/1XCulD1
 
 **0:26** · What are you going to see today? Oh my god. You're kidding me. That's Martha.
 
-### Where is Martha the passenger pigeon?
+###### Where is Martha the passenger pigeon?
 
 **0:28** · This is Martha. For a pigeon fan like Lucia, this is like seeing a movie star, the very last passenger pigeon. She died in the Cincinnati Zoo at 100 p.m. on the 1st of September, 1914. She was literally alone for about 4 years before she died. And and we knew at that time that there were no other ones in the wild. So this is one of the rare cases when you can actually place an exact time and date on an extinction.
 
@@ -3017,11 +3017,11 @@ http://bit.ly/1XCulD1
 
 **Rocky Mountain PBS**, *09-17-2026*
 
-## Documentary Film (26:40)
+##### Documentary Film (26:40)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/B67o_quLHi4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 #moose #coloradowildlife #animals 
 
@@ -3041,7 +3041,7 @@ Follow Rocky Mountain PBS on our other platforms, too.
 
 • LinkedIn: https://www.linkedin.com/company/rocky-mountain-pbs
 
-## Transcript
+##### Transcript
 
 **0:00** · (MUSIC PLAYING) I LOVE MOOSE.
 
@@ -3281,17 +3281,17 @@ Follow Rocky Mountain PBS on our other platforms, too.
 
 **biointeractive**, *05 03, 2016*
 
-## Video (19:28)
+##### Video (19:28)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/hRGg5it5FMI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The short film opens with two questions: “So what determines how many species live in a given place? Or how many individuals of the species can live somewhere?” 
 
 The research that provided answers to these questions was set in motion by key experiments by ecologists Robert Paine and James Estes. Robert Paine’s starfish exclusion experiments on the coast of Washington state showed that removing starfish from this marine ecosystem has a big impact on the population sizes of other species, establishing the starfish as a keystone species. James Estes and colleague John Palmisano discovered that the kelp forest ecosystems of the North Pacific are regulated by the presence or absence of sea otters, which feed on sea urchins that consume kelp. These direct and indirect effects of sea otters on other species describe a trophic cascade. These early studies were the inspiration for hundreds of investigations on other keystone species and trophic cascades, as well as ongoing studies into the regulation of population sizes and species numbers.
 
-## Transcript
+##### Transcript
 
 **0:09** · [MUSIC PLAYING] SEAN CARROLL: From jungle to desert, from forest to PLANE from mountaintops to the seashore, the Earth is home to many habitats.
 
@@ -3699,11 +3699,11 @@ The research that provided answers to these questions was set in motion by key e
 
 <iframe width="560" height="315" title=Human Footprint  Vanishing Act  Season 2 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/vanishing-act-4bp9fu/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;unsafeDisableContinuousPlay=true\></iframe>
 
-## Description
+##### Description
 
 Shane meets species on the brink of oblivion, and the people who won’t let them slip away.
 
-## Transcript
+##### Transcript
 
 
 ("Ready or Not" by Fugees plays) (Shane) The story of our planet is a tale of equal and opposite forces: Life... (female singer) Ready or not, here I come (Shane) ...and death.

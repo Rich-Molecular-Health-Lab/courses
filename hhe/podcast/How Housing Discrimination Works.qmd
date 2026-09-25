@@ -11,7 +11,7 @@ categories:
 
 ![How Housing Discrimination Works](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:14
 
 **Released:** 2021
 

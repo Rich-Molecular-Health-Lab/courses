@@ -22,7 +22,6 @@ W2:
       - "slides/Contemporary_Conservation_Biology/index.html"
     background:
       - title: "Conservation biology - past and present"
-        type: "textbook"
         path_pdf: "attachments/meine_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 1
@@ -53,13 +52,11 @@ W3:
       - "slides/Contemporary_Conservation_Biology/index.html"
     background:
       - title: "Biodiversity"
-        type: "textbook"
         path_pdf: "attachments/gaston_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 2
         duration_string: "17 pages"
       - title: "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
-        type: "textbook"
         path_pdf: "attachments/bradshaw_brook_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 16
@@ -88,7 +85,6 @@ W5:
         path: "topics/Quantifying Biodiversity.qmd"
     background:
       - title: "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
-        type: "textbook"
         path_pdf: "attachments/bradshaw_brook_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 16
@@ -103,7 +99,6 @@ W5:
       - "slides/Patterns & Risk of Extinction/index.html"
     background:
       - title: "Extinctions and the practice of preventing them"
-        type: "textbook"
         path_pdf: "attachments/pimm_jenkins_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 10
@@ -115,29 +110,25 @@ W6:
     topics:
       - title: "Extinction"
         path: "topics/Extinction.qmd"
-      - title: "Habitat Loss, Fragmentation, and Degradation"
-        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
     slides:
       - "slides/Patterns & Risk of Extinction/index.html"
-    background:
-      - title: "Habitat fragmentation and landscape change"
-        type: "textbook"
-        path_pdf: "attachments/bennett_saunders_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 5
-        duration_string: "18 pages"
-      - title: "Habitat destruction: death by a thousand cuts"
-        type: "textbook"
-        path_pdf: "attachments/laurance_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 4
-        duration_string: "14 pages"
   D2:
     date: "2026-09-30"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Habitat Loss, Fragmentation, and Degradation"
         path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
+    background:
+      - title: "Habitat fragmentation and landscape change"
+        path_pdf: "attachments/bennett_saunders_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 5
+        duration_string: "18 pages"
+      - title: "Habitat destruction: death by a thousand cuts"
+        path_pdf: "attachments/laurance_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 4
+        duration_string: "14 pages"
     case_convo:
       - number: 2
         topic: "Habitat Loss, Fragmentation, and Degradation"
@@ -146,21 +137,14 @@ W7:
     date: "2026-10-05"
     themes: "Threats to Biodiversity"
     topics:
-      - title: "Overexploitation"
-        path: "topics/Overexploitation.qmd"
-    background:
-      - title: "Overharvesting"
-        type: "textbook"
-        path_pdf: "attachments/peres_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 6
-        duration_string: "23 pages"
+      - title: "Habitat Loss, Fragmentation, and Degradation"
+        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
   D2:
     date: "2026-10-07"
     themes: "Threats to Biodiversity"
     topics:
-      - title: "Overexploitation"
-        path: "topics/Overexploitation.qmd"
+      - title: "Habitat Loss, Fragmentation, and Degradation"
+        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
 W8:
   D1:
     date: "2026-10-12"
@@ -185,15 +169,14 @@ W9:
     date: "2026-10-21"
     themes: "Threats to Biodiversity"
     topics:
-      - title: "Invasive Alien Species"
-        path: "topics/Invasive Alien Species.qmd"
+      - title: "Overexploitation"
+        path: "topics/Overexploitation.qmd"
     background:
-      - title: "Invasive Species"
-        type: "textbook"
-        path_pdf: "attachments/simberloff_2010.pdf"
+      - title: "Overharvesting"
+        path_pdf: "attachments/peres_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 7
-        duration_string: "21 pages"
+        chapter: 6
+        duration_string: "23 pages"
 W10:
   D1:
     date: "2026-10-26"
@@ -201,9 +184,20 @@ W10:
     topics:
       - title: "Invasive Alien Species"
         path: "topics/Invasive Alien Species.qmd"
+      - title: "Overexploitation"
+        path: "topics/Overexploitation.qmd"
+    background:
+      - title: "Invasive Species"
+        path_pdf: "attachments/simberloff_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 7
+        duration_string: "21 pages"
   D2:
     date: "2026-10-28"
     themes: "Threats to Biodiversity"
+    topics:
+      - title: "Invasive Alien Species"
+        path: "topics/Invasive Alien Species.qmd"
     case_convo:
       - number: 4
         topic: "Invasive Alien Species"
@@ -216,7 +210,6 @@ W11:
         path: "topics/Climate Change & Biodiversity.qmd"
     background:
       - title: "Climate Change"
-        type: "textbook"
         path_pdf: "attachments/lovejoy_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 8
@@ -242,7 +235,6 @@ W12:
         path: "topics/Ex Situ Conservation.qmd"
     background:
       - title: "The Role of Zoos and Aquariums in a Changing World"
-        type: "literature"
         path_pdf: "attachments/miranda_etal_2023a.pdf"
         path_external: "https://www.annualreviews.org/content/journals/10.1146/annurev-animal-050622-104306"
         author_display: "Mirandaet al."
@@ -262,7 +254,6 @@ W13:
         path: "topics/Species-Level Approaches.qmd"
     background:
       - title: "Endangered species management: the US experience"
-        type: "textbook"
         path_pdf: "attachments/wilcove_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 12
@@ -289,13 +280,11 @@ W15:
         path: "topics/Community & Ecosystem Approaches.qmd"
     background:
       - title: "Conservation planning and priorities"
-        type: "textbook"
         path_pdf: "attachments/brooks_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 11
         duration_string: "20 pages"
       - title: "From conservation theory to practice: crossing the divide"
-        type: "textbook"
         path_pdf: "attachments/rao_ginsberg_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 15
@@ -315,7 +304,6 @@ W16:
         path: "topics/Landscape-Scale Approaches.qmd"
     background:
       - title: "Conservation in human‐modified landscapes"
-        type: "textbook"
         path_pdf: "attachments/koh_gardner_2010.pdf"
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 13

@@ -23,11 +23,9 @@ listing:
 
 #### Forever Chemicals - Hidden Dangers in Everyday Beauty
 
-# Forever Chemicals: Hidden Dangers in Everyday Beauty
-
 ![Forever Chemicals: Hidden Dangers in Everyday Beauty](https://i.scdn.co/image/ab67656300005f1fad97754837109e40126bc6ab)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:36
 
 **Released:** 2025
 
@@ -47,7 +45,7 @@ They’re not just in your nail polish. Per- and polyfluoroalkyl chemicals are e
 
 ![Is clean beauty for real?](https://i.scdn.co/image/ab67656300005f1feba0adb27f240ef4ffb04e20)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:18:16
 
 **Released:** 2022
 
@@ -67,7 +65,7 @@ Guests:  Shruthi Mahalingaiah, assistant professor of environmental reproductiv
 
 ![Marissa Chan on dangerous hair care products in Boston stores](https://i.scdn.co/image/ab67656300005f1f05a40fb85fe370f868e5a2aa)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:11
 
 **Released:** 2024
 
@@ -85,11 +83,9 @@ Marissa Chan joins the Agents of Change in Environmental Justice podcast to disc
 
 #### The Canal (Love Canal)
 
-# S1 Ep4: The Canal (Love Canal)
-
 ![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:40
 
 **Released:** 2018
 
@@ -109,7 +105,7 @@ Once envisioned as a model community, the neighborhood of Love Canal in Niagara 
 
 ![The Weed Killer](https://i.scdn.co/image/ab67656300005f1f393bf10c73cdd1f7ce4106e2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:33:38
 
 **Released:** 2025
 
@@ -129,7 +125,7 @@ For more than thirty years, scientists, regulators, and one of the world’s mos
 
 ![What Worsening Floods Mean For Superfund Sites](https://i.scdn.co/image/ab67656300005f1f90d89c0fe8a494a3a4d55c49)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:17:52
 
 **Released:** 2024
 
@@ -149,7 +145,7 @@ Superfund sites are some of the most polluted areas in the country, containing h
 
 ![What's a brownfield remediation project?](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:18:16
 
 **Released:** 2009
 

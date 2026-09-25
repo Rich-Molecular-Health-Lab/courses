@@ -11,7 +11,7 @@ categories:
 
 ![What we lose if the Great Salt Lake dries up](https://i.scdn.co/image/ab67656300005f1fe30d347bbe3d0462f72b1c86)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:31
 
 **Released:** 2023
 

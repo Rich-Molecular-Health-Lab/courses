@@ -201,11 +201,11 @@ listing:
 
 **New Scientist**, *04 05, 2022*
 
-## Video (3:17)
+##### Video (3:17)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/2AZqjEVQWE8?start=55 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 AI-powered camera traps give Gabon wildlife rangers a new tool in the fight against poaching and biodiversity loss. 
 
@@ -237,9 +237,9 @@ https://www.newscientist.com/
 
 #biodiversity #gabon #forestelephants #ai #artificalintelligence
 
-## Transcript
+##### Transcript
 
-### Intro
+###### Intro
 
 **0:02** · Forest covers over 80% of Gabon in Central Africa.
 
@@ -247,7 +247,7 @@ https://www.newscientist.com/
 
 **0:18** · Biodiversity as a unit however you choose to measure it is important because it is part of the functioning of the earth's global ecosystem.
 
-### Gabons wildlife
+###### Gabons wildlife
 
 **0:27** · So I've been working in Gabon since 2018.
 
@@ -257,21 +257,21 @@ https://www.newscientist.com/
 
 **0:48** · And it's just incredible. You walk around and there's just signs of wildlife everywhere.
 
-### Camera traps
+###### Camera traps
 
 **0:55** · These cameras that we use are called camera traps and you you essentially you strap them to a tree. We deploy the camera in the forest for up to 3 to 6 months and every time an animal walks by triggers the camera and we get a picture and we can collect hundreds of thousands or even millions of images. You know the only way to extract meaningful information from that data is to either look at all of the images and say okay this image has got an elephant this image has got a leopard but that's extremely slow.
 
 **1:22** · So we have AI tools that we've been developing that actually can analyze those images and detect species in the images automatically.
 
-### AI tools
+###### AI tools
 
 **1:33** · These cameras detect the animal we get a picture of the animal and then instantly run the AI algorithm in the field and then send via satellite the the species identification in the camera. So we can have our 200 cameras out in the field in the forest and literally looking at our phone at WhatsApp or a map online we can have real-time data telling us where elephants are where buffaloes are you name it.
 
-### Traditional model
+###### Traditional model
 
 **1:58** · You know, the traditional model in ecology is that you deploy cameras or you deploy a sensor, you collect the data, you gather it back after some months, you analyze it over a period of 6 months, and then at the end of all that you come up with a report and you say this is where your animals were. But by the time you do that report, you could be a year, 2 years, 5 years out of date.
 
-### Detecting poachers
+###### Detecting poachers
 
 **2:19** · Gabon is home to the critically endangered forest elephant.
 
@@ -285,11 +285,11 @@ https://www.newscientist.com/
 
 **Be Smart**, *11 17, 2014*
 
-## Video (9:11)
+##### Video (9:11)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/z9gHuAwxwAs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 This time, we're the asteroid.
 
@@ -358,9 +358,9 @@ Facebook
 
 https://www.facebook.com/itsokaytobesmartpbs/
 
-## Transcript
+##### Transcript
 
-### The history of extinction
+###### The history of extinction
 
 **0:02** · [MUSIC] The California Golden Bear The Great Auk The Passenger pigeon The Tasmanian tiger The Pinta Island tortoise The Golden toad All dead. And the killer is right there in the room with you.
 
@@ -370,7 +370,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **1:05** · Even kids are used to the idea that sometimes groups of living things just… don’t exist anymore. Okay, mostly don’t exist.
 
-### Discovering mass events
+###### Discovering mass events
 
 **1:13** · But extinction, as a thing, is a surprisingly new concept. In the 1790’s, by studying various fossils, naturalist Georges Cuvier was the first to show that they were not from living, yet undiscovered creatures, as many thought, but from what he called “lost species”.
 
@@ -380,7 +380,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **2:36** · Everything alive today is a descendent of a survivor of that terrible, horrible, no good, very bad day, the so-called Cretaceous-Paleogene mass extinction event, the most recent of the Big 5.
 
-### The big five extinctions
+###### The big five extinctions
 
 **2:50** · You should feel pretty lucky. When we look at all of Earth’s fossil record together, 98% of the species that have ever lived are extinct,. Only they haven’t always disappeared at a constant rate.
 
@@ -390,7 +390,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **3:34** · We’ve learned about all these just in time to get some bad news: We are in the 6th mass extinction, and this time, we are the asteroid.
 
-### The sixth mass extinction
+###### The sixth mass extinction
 
 **3:46** · The hard facts of life mean that even when things are going pretty well on Earth, there’s a background rate of extinction. Among mammals, for instance, we’d expect to see one species go extinct every 700 years, or maybe one amphibian every thousand years.
 
@@ -408,7 +408,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **5:05** · With the exception of maybe the first bacteria to breathe oxygen into the air, no living thing has ever altered life on Earth to the degree that we have, which is why scientists now refer to current epoch as the Anthropocene.
 
-### Drivers of species loss
+###### Drivers of species loss
 
 **5:18** · "We are the ultimate problem. There are 7 billion people on the planet, we tend to destroy critical habitats where species live, we tend to be warming the planet, we tend to be very careless about moving species around the planet."
 
@@ -422,7 +422,7 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **7:17** · Dirzo gives this loss of animal life a rather harmless sounding name: Defaunation. But there is nothing cute about it. There is not a group of living things on Earth today that is not threatened by the current and coming extinction. That includes us.
 
-### Why saving species matters
+###### Why saving species matters
 
 **7:34** · Extinction is about more than gorillas, tigers, polar bears, and rhinos, and the dozens of other “famous” or “charismatic” species out there. Those are all important and worth saving, but we need to care just as much about the humble beetles, the ugly little worms, and the slimy frogs.
 
@@ -444,15 +444,15 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **Smithsonian's National Zoo**, *06 26, 2019*
 
-## Video (1:42)
+##### Video (1:42)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/sYIFEPzC6A8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Camera traps are motion-sensitive cameras that snap a picture whenever they detect movement, giving researchers extra eyes in the wild. Smithsonian ecologists set up camera traps around the American Prairie Reserve in Montana. The cameras are deployed 24/7, allowing researchers to gather data without disturbing animals and to collect data even when they are not in the field. The photos they collect will help build a clearer picture of the ecosystem — what animals are present and when, how species interact, which habitats they prefer and whether their land use changes with the seasons.
 
-## Transcript
+##### Transcript
 
 **0:03** · Bison, yea.
 
@@ -490,11 +490,11 @@ Camera traps are motion-sensitive cameras that snap a picture whenever they dete
 
 **UNESCO**, *08 27, 2026*
 
-## Video (3:44)
+##### Video (3:44)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/ME3wR5-Y3zQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 At the 2026 edition of the Environmental DNA (eDNA) Training for Africa and the Adjacent Island States, 30 ocean experts from 14 Eastern and Southern Africa countries, including Early Ocean Career Professionals (#ECOPs), gathered at Pwani University in Kenya for an intensive hands-on training to gain experience in the entire eDNA process. 
 
@@ -510,7 +510,7 @@ This training is organized by the Intergovernmental Oceanographic Commission (IO
 
 🔗 Learn more about the Ocean Decade Capacity Development Facility here: https://ow.ly/5e1a50ZvHs0
 
-## Transcript
+##### Transcript
 
 **0:03** · A substantial amount of African biodiversity remains [music] undocumented.
 
@@ -540,11 +540,11 @@ This training is organized by the Intergovernmental Oceanographic Commission (IO
 
 **PBS Terra**, *08 15, 2024*
 
-## Video (10:06)
+##### Video (10:06)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/2Rchqd400W0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Hidden beneath the surface of our coastal seas are towering forests - of kelp. These underwater ecosystems are as crucial to our environment as their land-based counterparts. We’ll explore them alongside conservationists who are working to restore these threatened habitats. We'll also meet some adorable sea otters and learn about the role they play in maintaining the balance in this sensitive environment.
 
@@ -564,7 +564,7 @@ Tiktok: https://www.tiktok.com/@pbsterra
 
 Instagram:  https://instagram.com/pbsterra
 
-## Transcript
+##### Transcript
 
 **0:00** · (birds squawking) (light music) (water moving) This is one of the most important forest ecosystems on earth.
 
@@ -692,11 +692,11 @@ Instagram:  https://instagram.com/pbsterra
 
 **Nature on PBS**, *04 13, 2026*
 
-## Video (5:28)
+##### Video (5:28)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/WG_ryk_0zM8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 What if you could discover every animal in an ecosystem…without ever seeing them? Environmental DNA (or eDNA) does exactly that. By collecting tiny samples of soil, water, or even air, researchers can identify dozens (or even hundreds) of species from the genetic traces they leave behind. 
 
@@ -711,7 +711,7 @@ Get our newsletter: http://eepurl.com/irGMng
 
 Share this with a friend!
 
-## Transcript
+##### Transcript
 
 **0:00** · SPEAKER 1: To protect wildlife, conservationists need to first answer what might seem like a simple question.
 
@@ -801,11 +801,11 @@ Share this with a friend!
 
 **DW News**, *03 12, 2014*
 
-## Video (3:24)
+##### Video (3:24)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/4xcx-4z3TvE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 In the south of Brazil, scientists are developing a new monitoring programme, and are hoping to add the most important ingredient soon: ordinary people who will contribute with their own biodiversity observations.
 
@@ -813,7 +813,7 @@ A film by Michael Wetzel
 
 More information: www.ideasforacoolerworld.org
 
-## Transcript
+##### Transcript
 
 **0:00** · [Music] [Music] think they say the trunk of this tree has a circumference of 86 cm it's the
 
@@ -837,11 +837,11 @@ More information: www.ideasforacoolerworld.org
 
 **VICE News**, *06 03, 2021*
 
-## Video (4:59)
+##### Video (4:59)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/1ybg6hd-TUA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 It might be time to cull the world’s largest invasive species: Pablo Escobar’s cocaine hippos. The rapidly reproducing 80 hippos have taken over Colombia’s waterways, poisoning wildlife with their toxic urine and feces, scientists say. But not everyone can agree on what to do with them.
 
@@ -863,7 +863,7 @@ More videos from the VICE network: https://www.fb.com/vicevideo
 
 #VICENews #News
 
-## Transcript
+##### Transcript
 
 ### Films
 
@@ -874,7 +874,7 @@ More videos from the VICE network: https://www.fb.com/vicevideo
 
 <iframe width="560" height="315" title="Hulu Video" allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://www.hulu.com/watch/1d8f1a4a-72dc-4532-a0e0-d35daa00d3a7></iframe>
 
-## Description
+##### Description
 
 The world’s leading natural historian draws on a lifetime of knowledge to reveal how Earth’s vast,  ,interconnected waterways can be restored.…SEE MORE
 
@@ -888,27 +888,27 @@ The world’s leading natural historian draws on a lifetime of knowledge to reve
 
 <iframe width="560" height="315" title=Rebuilding The Herd Rewilding The Future allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/rebuild-the-herd-rewilding-the-future-ohn9c9/?uid=62a74a65-f6a1-4a7c-8907-df1f2b1854e1&amp;userPassportStatus=no&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true\></iframe>
 
-## Description
+##### Description
 
 Explore Nebraska's bighorn sheep comeback, Zoo Schools' Earth Day event, the beauty of Scotts Bluff.
 
-## Transcript
+##### Transcript
 
 #### Some Animals Are More Equal than Others Keystone Species and Trophic Cascades
 
 **biointeractive**, *05 03, 2016*
 
-## Video (19:28)
+##### Video (19:28)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/hRGg5it5FMI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The short film opens with two questions: “So what determines how many species live in a given place? Or how many individuals of the species can live somewhere?” 
 
 The research that provided answers to these questions was set in motion by key experiments by ecologists Robert Paine and James Estes. Robert Paine’s starfish exclusion experiments on the coast of Washington state showed that removing starfish from this marine ecosystem has a big impact on the population sizes of other species, establishing the starfish as a keystone species. James Estes and colleague John Palmisano discovered that the kelp forest ecosystems of the North Pacific are regulated by the presence or absence of sea otters, which feed on sea urchins that consume kelp. These direct and indirect effects of sea otters on other species describe a trophic cascade. These early studies were the inspiration for hundreds of investigations on other keystone species and trophic cascades, as well as ongoing studies into the regulation of population sizes and species numbers.
 
-## Transcript
+##### Transcript
 
 **0:09** · [MUSIC PLAYING] SEAN CARROLL: From jungle to desert, from forest to PLANE from mountaintops to the seashore, the Earth is home to many habitats.
 
@@ -1316,11 +1316,11 @@ The research that provided answers to these questions was set in motion by key e
 
 <iframe width="560" height="315" title=Human Footprint  Vanishing Act  Season 2 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/vanishing-act-4bp9fu/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;unsafeDisableContinuousPlay=true\></iframe>
 
-## Description
+##### Description
 
 Shane meets species on the brink of oblivion, and the people who won’t let them slip away.
 
-## Transcript
+##### Transcript
 
 
 ("Ready or Not" by Fugees plays) (Shane) The story of our planet is a tale of equal and opposite forces: Life... (female singer) Ready or not, here I come (Shane) ...and death.

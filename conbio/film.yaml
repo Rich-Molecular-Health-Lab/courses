@@ -32,7 +32,7 @@
   type: "film"
   image: "![Vanishing Act](https://image.pbs.org/video-assets/c6hJI4x-asset-mezzanine-16x9-5pQoWz0.jpg)"
   duration_string: "00:55:39"
-  assigned: false
+  assigned: true
   themes_possible:
     - "Threats to Biodiversity"
     - "Foundations of Conservation Biology"
@@ -58,6 +58,9 @@
   released: "2025-07-30"
   year: 2025
   course_name: "Conservation Biology"
+  author_first: "Campbell-Staton"
+  author_last: "Campbell-Staton"
+  author_display: "Shane Campbell-Staton"
   profile: "film"
   attachments:
     []

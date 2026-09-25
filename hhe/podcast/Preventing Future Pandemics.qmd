@@ -11,7 +11,7 @@ categories:
 
 ![Preventing Future Pandemics](https://i.scdn.co/image/ab67656300005f1f9ef19db5e40020cbb9f1c79d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:59:55
 
 **Released:** 2026
 

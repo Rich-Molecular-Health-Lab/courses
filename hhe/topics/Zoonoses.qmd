@@ -21,11 +21,9 @@ listing:
 
 ### Animal Diseases and Human Health - The Sloth and Screwworm Episode
 
-# Animal Diseases and Human Health: The Sloth and Screwworm Episode
-
 ![Animal Diseases and Human Health: The Sloth and Screwworm Episode](https://i.scdn.co/image/ab67656300005f1fd8b6654d91c58c4a205b08fd)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:48
 
 **Released:** 2026
 
@@ -48,7 +46,7 @@ About this episode:   Headlines about sick sloths in Florida and the reemergen
 
 ![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:16:29
 
 **Released:** 2011
 
@@ -66,7 +64,7 @@ The greatest mysteries have a shadowy figure at the center—someone who sets th
 
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/1541748/&share=1"></iframe>
 
-## Transcript
+#### Transcript
 
 Patient Zero
 
@@ -1430,11 +1428,11 @@ Patient Zero
 
 #### Acaropathology (TICKS + LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
 
-# Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
+##### Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
 
 ![Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 02:32:48
 
 **Released:** 2023
 
@@ -1454,7 +1452,7 @@ It’s 2-for-1! Ticks AND Lyme: together in one helpful, disgusting, gossipy, em
 
 ![1056 - An Ebola Outbreak in Central Africa](https://i.scdn.co/image/ab67656300005f1f19ec955e351275099e4633d3)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:49
 
 **Released:** 2026
 
@@ -1472,11 +1470,9 @@ About this episode: A deadly Ebola outbreak in the Democratic Republic of the Co
 
 #### Animal Diseases and Human Health - The Sloth and Screwworm Episode
 
-# Animal Diseases and Human Health: The Sloth and Screwworm Episode
-
 ![Animal Diseases and Human Health: The Sloth and Screwworm Episode](https://i.scdn.co/image/ab67656300005f1fd8b6654d91c58c4a205b08fd)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:21:48
 
 **Released:** 2026
 
@@ -1499,7 +1495,7 @@ About this episode:   Headlines about sick sloths in Florida and the reemergen
 
 ![Are Rats Running This Podcast?](https://i.scdn.co/image/ab67656300005f1f922709e10fb65904f84860e2)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:05
 
 **Released:** 2023
 
@@ -1517,11 +1513,9 @@ This week, New York City crowned Kathleen Corradi its first rat czar. The new po
 
 #### Bird Flu - The Next Pandemic?
 
-# Bird Flu: The Next Pandemic?
-
 ![Bird Flu: The Next Pandemic?](https://i.scdn.co/image/ab67656300005f1fab4a0a1241885bc663c01796)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:58
 
 **Released:** 2025
 
@@ -1539,11 +1533,11 @@ Bird flu has been in the headlines for ages, with scientists warning that we cou
 
 #### Clean Energy Transition Progress - Avian Flu In Cattle And Humans Has Scientists Concerned
 
-# Clean Energy Transition Progress | Avian Flu In Cattle And Humans Has Scientists Concerned
+##### Clean Energy Transition Progress | Avian Flu In Cattle And Humans Has Scientists Concerned
 
 ![Clean Energy Transition Progress | Avian Flu In Cattle And Humans Has Scientists Concerned](https://i.scdn.co/image/ab67656300005f1ffcb47ca448a6aa8a53592e8e)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:25:12
 
 **Released:** 2024
 
@@ -1561,11 +1555,9 @@ Global temperature increases are slowing, electric vehicle sales are growing, an
 
 #### Eating the Wild - Bushmeat, Game, and the Fuzzy Line Between Them
 
-# Eating the Wild: Bushmeat, Game, and the Fuzzy Line Between Them
-
 ![Eating the Wild: Bushmeat, Game, and the Fuzzy Line Between Them](https://i.scdn.co/image/ab67656300005f1f1d4fb215c2567468d645a004)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:06
 
 **Released:** 2020
 
@@ -1583,11 +1575,9 @@ It's a safe bet that your recent media diet has included the words "wet market,"
 
 #### Hantavirus - The Real Rat Race
 
-# Hantavirus: The Real Rat Race
-
 ![Ep 18 Hantavirus: The Real Rat Race](https://i.scdn.co/image/ab67656300005f1f08651534ce12173c3f0f0d99)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:03:54
 
 **Released:** 2019
 
@@ -1605,11 +1595,9 @@ What do Korea, Slovenia, Finland, and the southwestern US all have in common? If
 
 #### Hantavirus - the risks, the science and what you need to know
 
-# Hantavirus: the risks, the science and what you need to know
-
 ![Hantavirus: the risks, the science and what you need to know](https://i.scdn.co/image/ab67656300005f1f8ea10197d6d32374c68ddb2f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:12:57
 
 **Released:** 2026
 
@@ -1627,11 +1615,9 @@ On May 2, the World Health Organization got an alarming report: People aboard a 
 
 #### Health - Searching For The Source Of Cyclospora
 
-# Health: Searching For The Source Of Cyclospora
-
 ![Health: Searching For The Source Of Cyclospora](https://i.scdn.co/image/ab67656300005f1fc6be451cb776a3eebfebc9e5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:43:30
 
 **Released:** 2026
 
@@ -1649,11 +1635,9 @@ You may have heard of a parasite that’s causing some gastrointestinal distress
 
 #### Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
 
-# Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
-
 ![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:45:54
 
 **Released:** 2026
 
@@ -1673,7 +1657,7 @@ The current Ebola outbreak in the Democratic Republic of the Congo is the deadli
 
 ![Land use and zoonoses, California's earthquake risk and the Tuatara genome](https://i.scdn.co/image/ab67656300005f1f37b29d7732d05dfed2146e07)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:27:59
 
 **Released:** 2020
 
@@ -1693,7 +1677,7 @@ COVID19 is a chilling reminder of how pathogens from animals can jump into human
 
 ![More food and money, less disease: Senegal's surprising eco-experiment](https://i.scdn.co/image/ab67656300005f1fa1b25b2b69cf0cb28aa62e2c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:30
 
 **Released:** 2026
 
@@ -1713,7 +1697,7 @@ In Senegal, rice farmers are trying to kill three birds with one stone – er, f
 
 ![Our tick nightmare](https://i.scdn.co/image/ab67656300005f1f913b4275ac37a178115b4d9c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:28:42
 
 **Released:** 2026
 
@@ -1729,7 +1713,7 @@ Ticks are exponentially expanding their territory, using us for their next blood
 
 :::
 
-## Transcript
+##### Transcript
 
 **SEAN RAMESWARAM (host): Every summer we accept that we’re gonna get bit by mosquitoes. 
 
@@ -2179,11 +2163,9 @@ Be careful out there, friends!**
 
 #### Parasitic Bugs Are Making Combacks Across The Country
 
-# Science: Parasitic Bugs Are Making Combacks Across The Country
-
 ![Science: Parasitic Bugs Are Making Combacks Across The Country](https://i.scdn.co/image/ab67656300005f1fc26403737b5cdf5fba559b7c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:44:51
 
 **Released:** 2026
 
@@ -2203,7 +2185,7 @@ In 1966, the United States declared victory over a destructive flesh-eating para
 
 ![Patient Zero](https://i.scdn.co/image/ab67656300005f1ff1b1f82410984c39826c27e4)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:16:29
 
 **Released:** 2011
 
@@ -2221,7 +2203,7 @@ The greatest mysteries have a shadowy figure at the center—someone who sets th
 
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/1541748/&share=1"></iframe>
 
-## Transcript
+##### Transcript
 
 Patient Zero
 
@@ -3583,7 +3565,7 @@ Patient Zero
 
 ![Preventing Future Pandemics](https://i.scdn.co/image/ab67656300005f1f9ef19db5e40020cbb9f1c79d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:59:55
 
 **Released:** 2026
 
@@ -3603,7 +3585,7 @@ We may not want to think about another pandemic, but, as epidemiologists say, it
 
 ![Return of Alpha Gal](https://i.scdn.co/image/ab67656300005f1fc89d7cd6fe57023593e6c87a)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:00:00
 
 **Released:** 2021
 
@@ -3621,11 +3603,9 @@ Tuck your napkin under your chin.  We’re about to serve up a tale of love, lo
 
 #### Rift Valley Fever - Ruminating on ruminants
 
-# Ep 164 Rift Valley Fever: Ruminating on ruminants
-
 ![Ep 164 Rift Valley Fever: Ruminating on ruminants](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
 
-**Duration:** `= this.duration_string`
+**Duration:** 01:15:26
 
 **Released:** 2025
 
@@ -3645,7 +3625,7 @@ Hemorrhagic virus? Check. Deadly disease? Check. Mosquito-borne? Check. Affected
 
 ![The Latest On Bird Flu](https://i.scdn.co/image/ab67656300005f1f15bb6ed10b5cd7ff9cdac7d9)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:18
 
 **Released:** 2025
 
@@ -3665,7 +3645,7 @@ Bird flu, or avian influenza, is spreading among livestock and other mammals in 
 
 ![The Race for a Bundibugyo Ebolavirus Vaccine](https://i.scdn.co/image/ab67656300005f1f3ac46a1ee0162bb536a9a6df)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:16:02
 
 **Released:** 2026
 
@@ -3685,7 +3665,7 @@ About this episode:   Vaccines for the Zaire ebolavirus have been licensed sin
 
 ![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:14
 
 **Released:** 2026
 
@@ -3705,7 +3685,7 @@ In the grand scheme of things, Lyme disease is a fairly new scientific discovery
 
 ![We’re better off when we stop pandemics before they start](https://i.scdn.co/image/ab67656300005f1f2a6e1a34b510618b188cb546)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:20:43
 
 **Released:** 2021
 
@@ -3725,7 +3705,7 @@ When Aaron (Ari) Bernstein met his first pediatric patient infected with COVID-1
 
 ![Where Will The Next Pandemic Come From?](https://i.scdn.co/image/ab67656300005f1f9731c79e5c9769f48860cf66)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:02:23
 
 **Released:** 2025
 
@@ -3745,7 +3725,7 @@ To learn more about this topic, start your googling with these keywords:    Zoon
 
 ![Why Pandemic Researchers Are Talking About Raccoon Dogs](https://i.scdn.co/image/ab67656300005f1fc23387f2bd474e694683bd0c)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:17
 
 **Released:** 2023
 
@@ -3765,7 +3745,7 @@ A few weeks ago, raw data gathered in Janaury 2020 from Huanan Seafood Wholesale
 
 ![Why We Should Care About Viruses Jumping From Animals To People](https://i.scdn.co/image/ab67656300005f1f61e4354358d2237ba893cfad)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:14:24
 
 **Released:** 2023
 
@@ -3787,17 +3767,17 @@ The phenomenon of zoonotic spillover — of viruses jumping from animals to peop
 
 **CBS New York**, *08 06, 2026*
 
-## Video (1:56)
+##### Video (1:56)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 There have been fewer complaints about rats to 311, which appears to show trash container efforts are working. CBS News New York's Dave Carlin reports. 
 
 For video licensing inquiries, contact: licensing@veritone.com
 
-## Transcript
+##### Transcript
 
 **0:04** · CALL IT A TRASHY TRIUMPH FOR CITY LEADERS IN THEIR WAR AGAINST RATS. AS DAVE CARLIN REPORTS, FEWER COMPLAINTS ABOUT RATS TO 311 APPEAR TO SHOW THOSE CONTAINER EFFORTS ARE WORKING.
 

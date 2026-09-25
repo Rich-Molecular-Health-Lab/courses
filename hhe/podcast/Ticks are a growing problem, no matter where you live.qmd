@@ -11,7 +11,7 @@ categories:
 
 ![Ticks are a growing problem, no matter where you live](https://i.scdn.co/image/ab67656300005f1fd6dfd33952fcc32f38efadc1)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:14
 
 **Released:** 2026
 

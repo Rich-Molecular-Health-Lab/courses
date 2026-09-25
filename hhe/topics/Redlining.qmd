@@ -25,11 +25,11 @@ listing:
 
 **Science Magazine**, *10 09, 2020*
 
-## Video (4:08)
+#### Video (4:08)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/_KfklILeNZg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 Historically Black and immigrant communities are more vulnerable to environmental stressors
 
@@ -113,7 +113,7 @@ music
 
 "Vultures" by Chris Burns
 
-## Transcript
+#### Transcript
 
 **0:01** · The urban environment is a feat of human decision-making— from where to develop street grids lined with large glass office buildings, to which green spaces to preserve for outdoor recreation.
 
@@ -169,11 +169,11 @@ music
 
 **The Omaha News**, *03 12, 2025*
 
-## Video (1:32)
+#### Video (1:32)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/hkibb2WLq3Q title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 The Omaha News streams live every Wednesday at 4 p.m. on YouTube, Facebook and The Knowledge Network (TKN) during the academic year. The half-hour newscast also airs state-wide on NET reaching all of Nebraska’s 1.9 million residents. 
 
@@ -189,7 +189,7 @@ Facebook- https://www.facebook.com/UNOTheOmahaNews
 
 Instagram- https://www.instagram.com/unomahanews/
 
-## Transcript
+#### Transcript
 
 **0:02** · front porch Investments green lining fund is helping homeowners in historically Redline areas invest in their properties and enhance the community redlining is the practice of denying loans and services to minority neighborhoods which led to long-term disinvestment and though outlawed in 1968 its effects still linger Yolanda
 
@@ -203,11 +203,11 @@ Instagram- https://www.instagram.com/unomahanews/
 
 **NPR**, *04 11, 2018*
 
-## Video (6:36)
+#### Video (6:36)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/O5FBJyqfoLM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+#### Description
 
 In 1968, Congress passed the Fair Housing Act that made it illegal to discriminate in housing. Gene Demby of NPR’s Code Switch explains why neighborhoods are still so segregated today. 
 
@@ -253,7 +253,7 @@ https://www.facebook.com/NPR
 
 https://www.npr.org/
 
-## Transcript
+#### Transcript
 
 **0:00** · Chris Rock: You know what's so sad, man?
 
@@ -293,7 +293,7 @@ https://www.npr.org/
 
 **1:12** · The HOLC created residential security maps.
 
-### RESIDENTIAL SECURITY MAPS
+##### RESIDENTIAL SECURITY MAPS
 
 **1:15** · And these maps? They're where the term redlining comes from.
 
@@ -345,7 +345,7 @@ brown people.
 
 **3:11** · Like its effects on wealth.
 
-### WEALTH
+##### WEALTH
 
 **3:13** · So homeownership is the major way Americans create wealth, right?
 
@@ -375,7 +375,7 @@ brown people.
 
 the water isn’t drinkable.
 
-### HEALTH
+##### HEALTH
 
 **4:43** · They're more likely to live in neighborhoods with crumbling infrastructure, and in homes with toxic paint.
 
@@ -389,7 +389,7 @@ the water isn’t drinkable.
 
 **5:08** · And housing segregation in policing.
 
-### POLICING
+##### POLICING
 
 **5:11** · Housing segregation means we are having vastly different experiences with crime and vastly different experiences with policing.
 
@@ -423,7 +423,7 @@ the water isn’t drinkable.
 
 ![How Housing Discrimination Works](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:14
 
 **Released:** 2021
 
@@ -439,7 +439,7 @@ Owning a home in the US is a way to pass wealth down from one generation to the 
 
 :::
 
-## Transcript
+#### Transcript
 
 Speaker 1 (00:01):  
 
@@ -2605,9 +2605,9 @@ for my heart Radio, visit the iHeart Radio app, Apple Podcasts,
 
 or wherever you listen to your favorite shows. H
 
-#### Older Episo
+###### Older Episo
 
-## Transcript
+#### Transcript
 
 Available transcripts are automatically generated. Complete accuracy is not guaranteed.
 
@@ -4775,7 +4775,7 @@ for my heart Radio, visit the iHeart Radio app, Apple Podcasts,
 
 or wherever you listen to your favorite shows. H
 
-#### Older Episodes
+###### Older Episodes
 
 [Short Stuff: How California Got Its Name](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/short-stuff-how-california-got-its-name-77450421)
 
@@ -4811,7 +4811,7 @@ Despite tons of people using cotton swabs each day to clean the earwax from thei
 
 ![06 - From Redlining to Inclusive Planning](https://i.scdn.co/image/ab67656300005f1f6840f2e6656d0656a2294160)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:08:29
 
 **Released:** 2024
 
@@ -4835,7 +4835,7 @@ The Planning Accreditation Board (PAB) and AICP Code of Ethics highlight the imp
 
 ![06 - From Redlining to Inclusive Planning](https://i.scdn.co/image/ab67656300005f1f6840f2e6656d0656a2294160)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:08:29
 
 **Released:** 2024
 
@@ -4855,7 +4855,7 @@ The Planning Accreditation Board (PAB) and AICP Code of Ethics highlight the imp
 
 ![How Housing Discrimination Works](https://i.scdn.co/image/ab67656300005f1fe8e4f69c2594c76b57b841f5)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:54:14
 
 **Released:** 2021
 
@@ -4871,7 +4871,7 @@ Owning a home in the US is a way to pass wealth down from one generation to the 
 
 :::
 
-## Transcript
+##### Transcript
 
 Speaker 1 (00:01):  
 
@@ -7037,9 +7037,9 @@ for my heart Radio, visit the iHeart Radio app, Apple Podcasts,
 
 or wherever you listen to your favorite shows. H
 
-#### Older Episo
+###### Older Episo
 
-## Transcript
+##### Transcript
 
 Available transcripts are automatically generated. Complete accuracy is not guaranteed.
 
@@ -9207,7 +9207,7 @@ for my heart Radio, visit the iHeart Radio app, Apple Podcasts,
 
 or wherever you listen to your favorite shows. H
 
-#### Older Episodes
+###### Older Episodes
 
 [Short Stuff: How California Got Its Name](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/short-stuff-how-california-got-its-name-77450421)
 
@@ -9241,11 +9241,11 @@ Despite tons of people using cotton swabs each day to clean the earwax from thei
 
 #### How to build an equitable and just climate future
 
-# TED Climate: How to build an equitable and just climate future | Peggy Shepard
+##### TED Climate: How to build an equitable and just climate future | Peggy Shepard
 
 ![TED Climate: How to build an equitable and just climate future | Peggy Shepard](https://i.scdn.co/image/ab67656300005f1f1a24a475eee8709f1ec2b8fb)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:40
 
 **Released:** 2024
 
@@ -9265,7 +9265,7 @@ Everyone has the right to a clean environment — but major disparities exist wh
 
 ![Redlining's Ripple Effects Go Beyond Humans](https://i.scdn.co/image/ab67656300005f1f375d666b42196b185f36901d)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:13:58
 
 **Released:** 2023
 
@@ -9285,7 +9285,7 @@ When Dr. Chloé Schmidt was a PhD student in Winnepeg, Canada, she was studying 
 
 ![Sabah Usmani on making cities healthy and just](https://i.scdn.co/image/ab67656300005f1f828fa3b75d143d2c23714836)
 
-**Duration:** `= this.duration_string`
+**Duration:** 00:39:44
 
 **Released:** 2023
 
@@ -9307,15 +9307,15 @@ Sabah Usmani joins the Agents of Change in Environmental Justice podcast to disc
 
 **KMTV 3 News Now**, *09 14, 2021*
 
-## Video (2:20)
+##### Video (2:20)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/DQFuNa2uJxM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 3 News Now reporter Danielle Davis visited the Union for Contemporary Arts where a display outlines the history of redlining with a call.
 
-## Transcript
+##### Transcript
 
 **0:01** · a top Nixon adviser was r Nixon White House had two left and black people. We make it illegal to be eit or black, but by getting the hippies with marijuan heroin and then criminali we could disrupt those co a reading from one of the un designed.
 
@@ -9333,11 +9333,11 @@ Sabah Usmani joins the Agents of Change in Environmental Justice podcast to disc
 
 **The Omaha News**, *03 12, 2025*
 
-## Video (1:32)
+##### Video (1:32)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/hkibb2WLq3Q title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The Omaha News streams live every Wednesday at 4 p.m. on YouTube, Facebook and The Knowledge Network (TKN) during the academic year. The half-hour newscast also airs state-wide on NET reaching all of Nebraska’s 1.9 million residents. 
 
@@ -9353,7 +9353,7 @@ Facebook- https://www.facebook.com/UNOTheOmahaNews
 
 Instagram- https://www.instagram.com/unomahanews/
 
-## Transcript
+##### Transcript
 
 **0:02** · front porch Investments green lining fund is helping homeowners in historically Redline areas invest in their properties and enhance the community redlining is the practice of denying loans and services to minority neighborhoods which led to long-term disinvestment and though outlawed in 1968 its effects still linger Yolanda
 
@@ -9367,11 +9367,11 @@ Instagram- https://www.instagram.com/unomahanews/
 
 **NPR**, *04 11, 2018*
 
-## Video (6:36)
+##### Video (6:36)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/O5FBJyqfoLM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 In 1968, Congress passed the Fair Housing Act that made it illegal to discriminate in housing. Gene Demby of NPR’s Code Switch explains why neighborhoods are still so segregated today. 
 
@@ -9417,7 +9417,7 @@ https://www.facebook.com/NPR
 
 https://www.npr.org/
 
-## Transcript
+##### Transcript
 
 **0:00** · Chris Rock: You know what's so sad, man?
 
@@ -9457,7 +9457,7 @@ https://www.npr.org/
 
 **1:12** · The HOLC created residential security maps.
 
-### RESIDENTIAL SECURITY MAPS
+###### RESIDENTIAL SECURITY MAPS
 
 **1:15** · And these maps? They're where the term redlining comes from.
 
@@ -9509,7 +9509,7 @@ brown people.
 
 **3:11** · Like its effects on wealth.
 
-### WEALTH
+###### WEALTH
 
 **3:13** · So homeownership is the major way Americans create wealth, right?
 
@@ -9539,7 +9539,7 @@ brown people.
 
 the water isn’t drinkable.
 
-### HEALTH
+###### HEALTH
 
 **4:43** · They're more likely to live in neighborhoods with crumbling infrastructure, and in homes with toxic paint.
 
@@ -9553,7 +9553,7 @@ the water isn’t drinkable.
 
 **5:08** · And housing segregation in policing.
 
-### POLICING
+###### POLICING
 
 **5:11** · Housing segregation means we are having vastly different experiences with crime and vastly different experiences with policing.
 
@@ -9585,11 +9585,11 @@ the water isn’t drinkable.
 
 **Harvard Kennedy School**, *09 19, 2023*
 
-## Video (4:28)
+##### Video (4:28)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/cUl3l4w5CYw?start=5 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The term "redlining" refers to the practice by banks of excluding Black and Brown Americans from receiving loans to buy homes and make improvements to their communities. Redlining arose during the Great Depression, when the federal government sought to boost homeownership by encouraging banks to lend to more Americans. Many neighborhoods, specifically those with majority Black and Brown residents, were deemed undeserving of these loans. Though redlining was made illegal by the Fair Housing Act, the effects of this practice still reverberate to this day. 
 
@@ -9602,7 +9602,7 @@ The John F. Kennedy School of Government at Harvard University is a graduate and
 
 Our mission is to improve public policy and public leadership across the United States and around the world so that people can lead safer, freer, and more prosperous lives. Harvard Kennedy School teaches current and future leaders the skills they need to effectively advance the public purpose in the public, nonprofit, and private sectors. Our renowned faculty and trailblazing research centers pioneer bold new ideas. And as the most international school at Harvard, we convene global leaders in the Forum, host visiting experts in the classroom, and attract a diverse community of faculty, students, and staff.
 
-## Transcript
+##### Transcript
 
 **0:00** · In every way imaginable, the consequences of redlining to many black and brown communities across America meant that those communities had the least and the last of everything.
 
@@ -9648,11 +9648,11 @@ Our mission is to improve public policy and public leadership across the United 
 
 **Science Magazine**, *10 09, 2020*
 
-## Video (4:08)
+##### Video (4:08)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/_KfklILeNZg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Historically Black and immigrant communities are more vulnerable to environmental stressors
 
@@ -9736,7 +9736,7 @@ music
 
 "Vultures" by Chris Burns
 
-## Transcript
+##### Transcript
 
 **0:01** · The urban environment is a feat of human decision-making— from where to develop street grids lined with large glass office buildings, to which green spaces to preserve for outdoor recreation.
 
@@ -9792,11 +9792,11 @@ music
 
 **AJ+**, *05 25, 2017*
 
-## Video (8:24)
+##### Video (8:24)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/LN_8KIpmZXs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Chicago has a long history of racist housing policies that have led to a racially divided city – a major factor behind the city's reputation of violence. 
 
@@ -9822,7 +9822,7 @@ Download the AJ+ app at http://www.ajplus.net/
 
 Follow us on Twitter: https://twitter.com/ajplus
 
-## Transcript
+##### Transcript
 
 **0:00** · there are two faces to the city of Chicago first you see its spectacular downtown next to Lake Michigan with its famous theaters and incredible architecture top that off with some of the most passionate sports fans in the country you get the picture but the other face of Chicago is known for its violence and the thousands of lives lost in recent years one child is killed in Chicago every week and this is the face of Chicago that seems to dominate the headlines and the national conversations surrounding the city you walk down the street you get shot in Chicago they've
 
@@ -9872,11 +9872,11 @@ Follow us on Twitter: https://twitter.com/ajplus
 
 **Did You See This?**, *07 21, 2021*
 
-## Video (7:14)
+##### Video (7:14)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/E6WI_RWNrCU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 The urban heat island effect is a phenomenon affecting more than 100 cities across the U.S. — here’s how it works and why it disproportionately impacts communities of color.
 
@@ -9908,23 +9908,23 @@ http://www.youtube.com/nowthisearth
 
 @NowThisEarth
 
-## Transcript
+##### Transcript
 
 #### North Omaha Legacies & More
 
-# North Omaha Legacies  North Omaha Legacies & More  Nebraska Stories Nebraska Public Media
+##### North Omaha Legacies  North Omaha Legacies & More  Nebraska Stories Nebraska Public Media
 
 **Nebraska Public Media**, *04 11, 2023*
 
-## Video (8:03)
+###### Video (8:03)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/olrvJG9mTjc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+###### Description
 
 Launched in January of 2022, Preston Love, Jr. guides us on a tour of his beloved North Omaha that celebrates the past and embraces the future. Come along and learn about this historic neighborhood, including a visit to “The Street of Dreams.”
 
-## Transcript
+###### Transcript
 
 **0:00** · (light jazz music) (light jazz music) (light jazz music) (light jazz music) [Preston] Well, the truth of
 
@@ -10244,11 +10244,11 @@ develop new relationship.
 
 **Cameron Logsdon**, *10 09, 2020*
 
-## Video (11:00)
+##### Video (11:00)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/3NgnfZE_KMA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 This (long-ass) video explores the history of redlining in Omaha, NE, the effects of which have lead to Omaha being one of the most segregated cities in the United States. The long-lasting impact of racist redlining practices in Omaha parallel many cities across the country. Learn about your city's history, find out if there are people trying to improve your community, and donate or get active. Find out more about Omaha in the links below.
 
@@ -10280,17 +10280,17 @@ https://www.southsideomaha.org
 
 https://www.vote.org
 
-## Transcript
+##### Transcript
 
 #### Redlining and the Hidden History of White-Only Suburbs
 
 **TIME**, *11 03, 2022*
 
-## Video (10:31)
+##### Video (10:31)
 
 <iframe width="560" height="315" src=https://www.youtube.com/embed/geD6kYpGlmw title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Description
+##### Description
 
 Race-based federal lending rules from New Deal programs in the 1930s kept Black families locked out of suburban neighborhoods, a policy that continues to  slow economic mobility. Video by TIME & Retro Report
 
@@ -10332,9 +10332,9 @@ Instagram: https://ti.me/3P7bMpA
 
 #history #ushistory
 
-## Transcript
+##### Transcript
 
-### Racist Housing Covenants in California Suburbs
+###### Racist Housing Covenants in California Suburbs
 
 **0:13** · thank you when Sanu sadani is Rani bought a house in this neighborhood in California's Silicon Valley she found something disturbing in the fine print of her home deed the language that I read basically said the only people allowed to live in this community in these homes are white
 
@@ -10342,7 +10342,7 @@ Instagram: https://ti.me/3P7bMpA
 
 **1:05** · offended me I thought well this has to be offending everyone who buys property here [Music]
 
-### How New Deal Housing Policies Fueled Segregation
+###### How New Deal Housing Policies Fueled Segregation
 
 **1:23** · some of ladera's residents set out to understand how this happened and it turned out these relics of segregation grew out of a historical moment more often remembered for progressivism and inclusion to a new deal for the American people
 
@@ -10350,11 +10350,11 @@ Instagram: https://ti.me/3P7bMpA
 
 **1:56** · way that provided economic rights for people the right to Capital the right to a job the right to Health Care the right to old age pension what was problematic is that that right was not inclusive one of the clearest examples of this came when New Deal agencies began ensuring affordable home loans before backing the loans agencies mapped communities across the country dividing them into zones judged to be higher or lower risk for banks records show a key
 
-### Redlining and the Federal Government’s Role
+###### Redlining and the Federal Government’s Role
 
 **2:27** · factor Federal map makers used to determine this perceived risk was race this practice called redlining largely cut people of color off from affordable borrowing it's not a case that you just had these bigoted bankers and these bigoted homeowners the federal government was culpable black people by Design were excluded from this benefit
 
-### How Ladera Became a White-Only Community
+###### How Ladera Became a White-Only Community
 
 **2:51** · it's exactly what happened in Ladera in the late 1940s a mixed race group of about a hundred families banded together to build cheap homes near Stanford University workers teachers and professors including the novelist Wallace stegner formed a Cooperative to buy and transform attractive hilly Ranch Land into an affordable suburb named Ladera but the project soon stalled no bank would give them the loan to build these
 
@@ -10362,7 +10362,7 @@ Instagram: https://ti.me/3P7bMpA
 
 **3:52** · responsible for much of the racial inequality we have in this country today unable to find financing the Ladera Cooperative disbanded and sold the land to a private developer who built Ladera as a whites only community by the 1950s this mix of federal policy
 
-### Hidden Housing Discrimination in Silicon Valley
+###### Hidden Housing Discrimination in Silicon Valley
 
 **4:11** · and private discrimination left few options for black Americans seeking homes in this part of California my dad got involved with the palette of Stanford branch of the NAACP they were proving that there was housing discrimination and it was Notorious here very subtle but it was Notorious my dad could easily
 
@@ -10370,7 +10370,7 @@ Instagram: https://ti.me/3P7bMpA
 
 **5:02** · don't have to worry about our kids getting lynched there's not open racism but they didn't factor in that there was a slew of hidden racism about nine miles from Ladera Elwyn raynor's family opened up this service station in one of the only areas open to Black American Property buyers now known as East Palo Alto the African-Americans were guided to this area any houses on
 
-### East Palo Alto and the “Wrong Side of the Freeway”
+###### East Palo Alto and the “Wrong Side of the Freeway”
 
 **5:31** · the other side of the freeway were considered to be out of their price range or the interest rate alone would kill that dream of them owning a house because they couldn't afford it it's like they say you're on the wrong side of the tracks for us it was the wrong side of the freeway for decades East
 
@@ -10378,13 +10378,13 @@ Instagram: https://ti.me/3P7bMpA
 
 **6:07** · that were that were you know badly paved we had many many a neighborhood that did not have sidewalks we had a school district that was grossly underfunded you know we were walking in the middle of the street instead of walking on sidewalks we were had bad lighting we had bad water we didn't even have a city we didn't have a place where we could go and complain even today East Palo Alto is 70 black and
 
-### The Lasting Economic Divide Between Suburbs
+###### The Lasting Economic Divide Between Suburbs
 
 **6:32** · Latino the median family income is eighty three thousand dollars half the households rent and more than 10 percent of families live in poverty compare this to Ladera 75 percent white the median family income stands just below 200 000 the poverty rate is one percent and nobody rents and it doesn't
 
 **6:54** · take a rocket scientist to figure that one out you know what that's really all about what's it all about that well it's about race what is critical to note is that a white asset-based middle class didn't simply emerge it was structured and was structured largely through home ownership it was structured largely through policy that facilitated white people to acquire homes that appreciated over their lifetime that could be passed down to Future Generations as well
 
-### Homeownership and America’s Racial Wealth Gap
+###### Homeownership and America’s Racial Wealth Gap
 
 **7:25** · the considerable Gap in education and income between America's black families and white families has slowly narrowed since the Civil Rights era but the Gap in wealth what families own has been a different story throughout American history the racial wealth Gap has been dramatic for every dollar held by a typical white family at the median the typical black family has had about a dime so this asset-based wealth-based white middle class that was generated from New Deal and post-war policies was
 
@@ -10394,10 +10394,10 @@ Instagram: https://ti.me/3P7bMpA
 
 **8:54** · that zip code it's a huge amount of privilege to have grown up in this neighborhood there's no quick fix for the inequality that's grown out of residential segregation but researchers say it's worth considering what history can teach us [Music] the problems that exist today what it's important to note they're not insurmountable the New Deal was about jobs it was about income it was about pension it was about health there are certain enabling goods and services that
 
-### Can the Legacy of Housing Segregation Be Reversed?
+###### Can the Legacy of Housing Segregation Be Reversed?
 
 **9:24** · people need in order to thrive that's a reality and just like government facilitated it in the past they can facilitate it today only this time they can do it in a way that is inclusive in the meantime a group of Volunteers in Ladera gathered enough signatures to formally strike the whites only language from all 534 deeds in the subdivision we
 
-### Removing White-Only Language From Ladera’s Deeds
+###### Removing White-Only Language From Ladera’s Deeds
 
 **9:49** · didn't have a statue of Robert E Lee in our neighborhood but we did have this and we had the power to get rid of it and I would say that if the pendulum had to go from you are not allowed to taking them down we now need to say you are welcome
