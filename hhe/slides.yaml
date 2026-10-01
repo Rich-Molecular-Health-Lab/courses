@@ -125,7 +125,7 @@
     - "heat_vulnerability.png"
     - "greenery_heat_mitigation.png"
 - title: "Redlining & Public Health Legacies"
-  image: null
+  image: "redlining_families.jpeg"
   tags:
     - "teaching"
     - "slides"
@@ -159,12 +159,18 @@
   maxScale: 4
   css:
     - "slides-teaching.css"
-  defaultTemplate: "tpl-default-lecture"
+  defaultTemplate: "tpl-fig-boxright"
   course_name: "Human Health & the Environment"
   profile: "slides"
   attachments:
+    - "redlining_families.jpeg"
+    - "omaha_black_belt_1919.png"
     - "redlining_omaha.jpg"
+    - "HOLC-GR-ColorChart.jpg"
+    - "wealth_gap.png"
+    - "tree_cover_redlining.png"
     - "redlining_baltimore.jpg"
+    - "PlanNYC_illustration.png"
 - title: "Wildfires"
   topics:
     - "Fires"

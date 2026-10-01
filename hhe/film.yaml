@@ -60,3 +60,63 @@
   profile: "film"
   attachments:
     []
+- title: "The Urban Jungle"
+  video: "https://www.pbs.org/video/the-urban-jungle-7grk9d/"
+  description: "Shane explores three thriving urban species and envisions a wilder future for our cities."
+  duration: "3281"
+  creator: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
+  published_at: "2023-08-02"
+  cover: "https://image.pbs.org/video-assets/yCxFMAY-asset-mezzanine-16x9-cH3VGo0.jpg"
+  embed: "https://player.pbs.org/portalplayer/the-urban-jungle-7grk9d/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\""
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Healthy Housing"
+    - "Vectors"
+  genre: null
+  source: "pbs.org"
+  tags:
+    - "teaching"
+    - "resource"
+    - "film"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "7grk9d20261001"
+  type: "film"
+  series: "Human Footprint"
+  episode_season: "1"
+  episode_number: "5"
+  duration_string: "00:54:41"
+  image: "![The Urban Jungle](https://image.pbs.org/video-assets/yCxFMAY-asset-mezzanine-16x9-cH3VGo0.jpg)"
+  authors: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
+  assigned: false
+  themes_possible:
+    - "Infrastructure"
+    - "Pathogens"
+  author_first: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
+  author_last: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
+  author_display: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
+  published: "2023-08-02T00:00:00.000Z"
+  released: "2023-08-02"
+  year: 2023
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+  topics:
+    - "Healthy Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-01T16:00:00"
+    - "2026-10-06T16:00:00"
+  class_start: "ENVN4320_W6D2"
+  date_start: "2026-10-01T16:00:00"
+  week_start: 6
+  class_end: "ENVN4320_W7D1"
+  date_end: "2026-10-06T16:00:00"
+  week_end: 7
+  profile: "film"
+  attachments:
+    []

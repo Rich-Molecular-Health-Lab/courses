@@ -1,0 +1,1292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Redlining & Public Health Legacies</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+
+    <link rel="stylesheet" href="css/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Redlining
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/redlining_families.jpeg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="presentation-subtitle" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Infrastructure
+
+</div>
+
+
+
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 48%; top: 80%; height: 5%; width: 50%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+September 29, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Omaha's Black Belt as a Racial Covenant
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/omaha_black_belt_1919.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Racial covenants are legally binding clauses included in property deeds that prevented sale to or occupancy by a person of color.<!-- .element: class="feature" -->
+
+ - In 1919, a race riot of ~20,000 white people attacked the Near North Side neighborhood.
+ - The Army commanded black citizens to stay within a specific area where they could protect them.
+
+>This protective isolation quickly became a type of martial law where African Americans were restricted to the Near North Side neighborhood. This became Omaha's "Black Belt."
+
+- Despite being isolated, Omaha's Black community began to flourish in North Omaha.
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>However, they were met by heavy machine <a href="http://www.nebraskastudies.org/0700/frameset_reset.html?http://www.nebraskastudies.org/0700/stories/0701_0135.html">guns and troops</a> from North Omaha’s Fort Omaha, and failed to cause any significant physical damage. However, this was the beginning of official segregation in Omaha’s housing: the Army commanding blacks to stay within a specific area where they could protect them, and that area become red lined.</p>
+<blockquote>
+<p>This protective isolation was enacted only for temporary safety reasons; however, it quickly became a type of martial law where African Americans were restricted to the Near North Side neighborhood. This became Omaha&#39;s &quot;Black Belt.&quot;</p>
+</blockquote>
+<p>However, despite being isolated – or because of it – Blacks began to flourish in North Omaha. <a href="https://northomahahistory.com/2019/12/28/a-history-of-businesses-owned-by-african-americans-in-omaha/">They opened businesses</a> in rented storefronts from Jewish building owners along North 24th, built churches and <a href="https://northomahahistory.com/2015/09/08/a-history-of-north-omahas-social-clubs-and-social-halls/">social halls</a>, created their own institutions and soon began to flourish around Lake Street. By 1920, the Near North Omaha neighborhood was home to an <a href="https://northomahahistory.com/2016/12/30/colored-old-folks-home/">Old Colored Folks Home</a> and the <a href="https://northomahahistory.com/2019/01/31/negro-womens-christian-association-of-omaha/">Colored YWCA</a> sponsored a group of Black Red Cross nurses. African American families shopped in Black-owned businesses, attended Black churches, <a href="https://northomahahistory.com/2018/02/06/a-history-of-segregated-schools-in-omaha-nebraska/">sent students to Black schools</a>, and sent the dead to Black caretakers.</p>
+<p>They also did business with whites and Jewish people, rented homes from white landlords, and were sometimes allowed to interact with white people in downtown Omaha, despite many businesses having signs in their windows reading “No Negroes Allowed.”</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+Redlining & Public Health Legacies 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+redlining_families.jpeg<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<% right %>
+
+</div>
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The Origins of Redlining & the HOLC
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/redlining_omaha.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+- **1933**: HOLC established by FDR as part of the New Deal
+- **1934**: National Housing Act codified lending criteria
+
+The federal government used the National Housing Act to systematically deny loans and services to non-White neighborhoods, labeled as "undesirable" for real estate investment.<!-- .element: class="feature" -->
+
+- This disincentivized investment & growth in Omaha's **"Black Belt"**.
+- **1968**: Fair Housing Act passed (rarely enforced)
+- **Today**: Effects still visible in neighborhood demographics, property values, and environmental conditions
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Historical Context
+</div>
+
+ 
+</div> 
+
+<div class="video-container" style="position: absolute; left: 5%; top: 0%; height: 100%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/O5FBJyqfoLM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The HOLC Grading System
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/HOLC-GR-ColorChart.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+**Grade A** — "Best" areas
+- Wealthy businessmen, homogeneous (white)
+- Green on maps
+
+**Grade B** — "Good" areas  
+- White-collar families, still desirable
+- Blue on maps
+
+**Grade C** — "Declining" areas
+- Working-class families, "infiltration" of lower-grade populations
+- Yellow on maps
+
+**Grade D** — "Hazardous" areas
+- "Foreign-born" people, "low-class whites," and **people of color**
+- Red on maps (origin of term "redlining")
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The presence of Black and Brown people was one of the most consistent criteria for redlining, regardless of actual loan default risk. Studies show residents in redlined areas were not more likely to default—the discrimination was purely racial.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Once a neighborhood was redlined:
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/redlining_omaha.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+- Lenders refused mortgages and refinancing loans
+- Landlords abandoned properties (no investment incentive)
+- City services became unreliable (garbage pickup, maintenance, utilities)
+- Property values dropped
+- Crime increased
+- Conditions festered for 30+ years while white residents fled to new suburbs (white flight)
+- Suburban covenants explicitly forbade selling to Black families—and this was legal
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+For nearly 30 years, 98% of FHA loans went to white borrowers
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/wealth_gap.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Homeownership is the primary way Americans build intergenerational wealth. Redlining blocked Black families from this pathway for decades.<!-- .element: class="feature" -->
+
+- Median net worth of white family: ~$171,000
+- Median net worth of Black family: &#126;$17,150
+- Ratio: approximately 1 to 10
+- Black families making $200,000 per year were more likely to receive subprime mortgages than white families making less than $30,000 per year
+- Black-owned homes were undervalued by ~$48,000 on average (controlling for quality, amenities, location)
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The "Luxury Effect" and Environmental Injustice
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/tree_cover_redlining.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+More affluent neighborhoods have greater tree canopy cover, larger mature trees, and higher bird diversity. Low-income areas have more asphalt, concrete, and fewer green spaces.<!-- .element: class="feature" -->
+
+This is not random—it reflects decades of disinvestment from redlined areas.
+
+- **Canopy cover**: Redlined neighborhoods have ~50% less tree cover than historically white neighborhoods
+- **Urban heat islands**: Lack of shade + more asphalt = hotter neighborhoods
+- **Air pollution**: Redlined areas more likely near highways, industrial plants
+- **Biodiversity loss**: Fragmented habitats reduce breeding and gene flow in animal populations
+- **Pest increase**: Mosquitoes and rats thrive in degraded ecosystems, spreading disease
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+How Systemic Racism Shaped Urban Ecosystems
+
+</div>
+
+ 
+</div> 
+
+<div class="video-container" style="position: absolute; left: 5%; top: 0%; height: 100%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_KfklILeNZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Science Magazine (2020) — 4:08. Shows how redlining created measurable differences in tree canopy, heat absorption, and biodiversity between historically redlined and non-redlined neighborhoods.</p>
+<p>Play this video to show students the concrete environmental consequences: redlined neighborhoods have roughly half the tree canopy of historically white neighborhoods, leading to urban heat islands, increased pest populations, and higher disease risk.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Heat Islands & Redlining: Baltimore Case Study
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/redlining_baltimore.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+**Class D (Redlined) neighborhoods in Baltimore:**
+- 53.79% African American population
+- 29.06% poverty rate
+- 13.09% disability status
+- Higher population density
+
+**Class A neighborhoods:**
+- 53.71% African American population
+- 14.36% poverty rate
+- 9.19% disability status
+- Lower population density
+
+Redlined areas today have higher poverty, more vulnerable populations, and denser development—all factors that worsen heat island effects.<!-- .element: class="feature" -->
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Project: Mapping Inequality
+</div>
+
+  
+</div> 
+
+<div class="" style="position: absolute; left: 0%; top: 5%; height: 90%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe src="https://dsl.richmond.edu/panorama/redlining/map/NE/Omaha/context#loc=12/41.2665/-95.9599" allowfullscreen height="500" width="900"></iframe>
+</div>
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Greenlining: Investing in Redlined Communities
+
+</div>
+
+ 
+</div> 
+
+<div class="video-container" style="position: absolute; left: 5%; top: 0%; height: 100%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkibb2WLq3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+
+<div class="block">
+
+The Omaha News (2025) — 1:32. Local example: Greenlining Fund provides 0% interest loans up to $5,000 for critical home repairs in historically redlined North and South Omaha neighborhoods.
+
+</div>
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+From Redlining to Inclusive Planning
+
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 1%; top: 10%; height: 75%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/redlining/PlanNYC_illustration.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+<div class="right-box" style="position: absolute; left: 61%; top: 15%; height: 65%; width: 35%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+The Planning Accreditation Board (PAB) and AICP Code of Ethics now require planners to promote justice, equity, diversity, and inclusion (DEI).
+
+This is a direct response to redlining's legacy.
+
+**Modern equitable planning tools:**
+- Environmental justice mandates (Executive Order 12898)
+- Equitable taxation policies
+- Participatory budgeting
+- Stakeholder engagement with conflict resolution
+- Policy and fiscal impact analyses
+- Targeted investment in historically disadvantaged communities
+
+**The goal**: Reverse the effects of redlining through intentional, data-driven reinvestment.
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>
