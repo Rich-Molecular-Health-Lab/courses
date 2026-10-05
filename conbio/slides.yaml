@@ -84,6 +84,7 @@
   dates:
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
+    - "2026-10-05T16:00:00"
   videos:
     - "How poaching is changing the face of African elephants"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
@@ -93,6 +94,8 @@
   class_days:
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
+    - "BIOL4120_W6D2"
+    - "BIOL4120_W7D1"
   themes:
     - "Threats to Biodiversity"
   area: "teaching"
@@ -101,18 +104,43 @@
   date_start: "2026-09-23T16:00:00"
   class_start: "BIOL4120_W5D2"
   week_start: 5
-  week_end: 6
-  class_end: "BIOL4120_W6D1"
-  date_end: "2026-09-28T16:00:00"
+  week_end: 7
+  class_end: "BIOL4120_W7D1"
+  date_end: "2026-10-05T16:00:00"
   margin: 0
   maxScale: 4
   css:
     - "slides-teaching.css"
-  defaultTemplate: "tpl-default-lecture"
+    - "custom-snippets.css"
+    - "callouts.css"
+  defaultTemplate: "tpl-fig-boxflow"
   course_name: "Conservation Biology"
+  enableOverview: "true"
+  theme: "consult"
   profile: "slides"
   attachments:
     - "c08fig002.jpg"
     - "extinction_scale.jpg"
     - "c08boxfig01.jpg"
     - "band-tailed-pigeon-passenger-pigeon-two-column.jpg.thumb.768.768.png"
+    - "21.png"
+    - "22.png"
+    - "c08fig004.jpg"
+    - "c08boxfig02a.jpg"
+    - "c08fig008A.jpg"
+    - "c08fig008B.jpg"
+    - "19.png"
+    - "20.png"
+    - "italy_europe_ecoregions.jpg"
+    - "Beetle-Coleoptera.jpg"
+    - "beetle_table1.png"
+    - "beetle_paper_fig2.png"
+    - "beetle_paper_fig3.png"
+    - "beetle_paper_fig4.png"
+    - "24.png"
+    - "25.png"
+    - "26.png"
+    - "27.png"
+    - "28.png"
+    - "29.png"
+    - "30.png"

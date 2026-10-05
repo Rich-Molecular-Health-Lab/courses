@@ -15,7 +15,7 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-09-23T16:00:00, 2026-09-28T16:00:00
+**Dates:** 2026-09-23T16:00:00, 2026-09-28T16:00:00, 2026-10-05T16:00:00
 
 <a class='btn btn-outline-primary p-3 m-2' href='slides/Patterns & Risk of Extinction/index.html'>Patterns & Risk of Extinction <i class='fa-solid fa-link'></i></a>
 

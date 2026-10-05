@@ -44,6 +44,8 @@
   class_days:
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
+    - "BIOL4120_W6D2"
+    - "BIOL4120_W7D1"
   topics:
     - "Extinction"
   themes:
@@ -51,6 +53,7 @@
   dates:
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
+    - "2026-10-05T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:
@@ -99,6 +102,8 @@
   class_days:
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
+    - "BIOL4120_W6D2"
+    - "BIOL4120_W7D1"
   topics:
     - "Extinction"
   themes:
@@ -106,6 +111,7 @@
   dates:
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
+    - "2026-10-05T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:
@@ -154,6 +160,8 @@
   class_days:
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
+    - "BIOL4120_W6D2"
+    - "BIOL4120_W7D1"
   topics:
     - "Extinction"
   themes:
@@ -161,6 +169,7 @@
   dates:
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
+    - "2026-10-05T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:

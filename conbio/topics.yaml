@@ -265,6 +265,7 @@
   class_days:
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
+    - "BIOL4120_W7D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -284,13 +285,14 @@
   dates:
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
+    - "2026-10-05T16:00:00"
   course_name: "Conservation Biology"
   class_start: "BIOL4120_W5D2"
   date_start: "2026-09-23T16:00:00"
   week_start: 5
-  class_end: "BIOL4120_W6D1"
-  date_end: "2026-09-28T16:00:00"
-  week_end: 6
+  class_end: "BIOL4120_W7D1"
+  date_end: "2026-10-05T16:00:00"
+  week_end: 7
   background_possible:
     - "Ch 8 Extinction"
     - "Extinctions and the practice of preventing them"
@@ -410,8 +412,6 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W6D2"
-    - "BIOL4120_W7D1"
     - "BIOL4120_W7D2"
   projects:
     - "Conservation Biology Fall 2026"
@@ -432,13 +432,11 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-09-30T16:00:00"
-    - "2026-10-05T16:00:00"
     - "2026-10-07T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W6D2"
-  date_start: "2026-09-30T16:00:00"
-  week_start: 6
+  class_start: "BIOL4120_W7D2"
+  date_start: "2026-10-07T16:00:00"
+  week_start: 7
   class_end: "BIOL4120_W7D2"
   date_end: "2026-10-07T16:00:00"
   week_end: 7

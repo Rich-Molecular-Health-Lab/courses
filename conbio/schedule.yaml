@@ -120,6 +120,21 @@ W6:
   D2:
     date: "2026-09-30"
     themes: "Threats to Biodiversity"
+    case_convo:
+      - number: 2
+        topic: "Habitat Loss, Fragmentation, and Degradation"
+W7:
+  D1:
+    date: "2026-10-05"
+    themes: "Threats to Biodiversity"
+    topics:
+      - title: "Extinction"
+        path: "topics/Extinction.qmd"
+    slides:
+      - "slides/Patterns & Risk of Extinction/index.html"
+  D2:
+    date: "2026-10-07"
+    themes: "Threats to Biodiversity"
     topics:
       - title: "Habitat Loss, Fragmentation, and Degradation"
         path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
@@ -136,22 +151,6 @@ W6:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 4
         duration_string: "14 pages"
-    case_convo:
-      - number: 2
-        topic: "Habitat Loss, Fragmentation, and Degradation"
-W7:
-  D1:
-    date: "2026-10-05"
-    themes: "Threats to Biodiversity"
-    topics:
-      - title: "Habitat Loss, Fragmentation, and Degradation"
-        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
-  D2:
-    date: "2026-10-07"
-    themes: "Threats to Biodiversity"
-    topics:
-      - title: "Habitat Loss, Fragmentation, and Degradation"
-        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
 W8:
   D1:
     date: "2026-10-12"

@@ -1,0 +1,2062 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Patterns & Risk of Extinction</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+    <link rel="stylesheet" href="plugin/reveal-pointer/pointer.css" />
+
+    <link rel="stylesheet" href="css/slides-teaching.css" />
+    <link rel="stylesheet" href="custom-snippets.css" />
+    <link rel="stylesheet" href="callouts.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Extinction
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/BIOL4120/attachments/c08fig002.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="presentation-subtitle" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Threats to Biodiversity
+
+</div>
+
+
+
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 48%; top: 80%; height: 5%; width: 50%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+September 23, 2026, September 28, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conservation Biology (BIOL 4120)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Categories of Extinction
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Extinction exists on a spectrum. A species may be lost from one place but survive elsewhere, or persist only in human care.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/BIOL4120/attachments/extinction_scale.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**Globally Extinct**: No individuals alive anywhere
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**Extinct in the Wild**: Survives only in zoos, botanical gardens, or captivity
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**Extirpated**: Lost from a local area, but populations exist elsewhere
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->**Functionally Extinct**: So few individuals remain that the species no longer affects its ecosystem
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Figure source: Pacifici, M., Foden, W., Visconti, P. et al. Assessing species vulnerability to climate change. Nature Clim Change 5, 215–224 (2015).
+
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Use the Alagoas curassow (Mitu mitu) as an example—extinct in the wild since 1977, now only in captivity.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The IUCN Red List Categories
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+The IUCN Red List provides standardized, science-based assessments of extinction risk for over 96,000 species globally.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/BIOL4120/attachments/c08boxfig01.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Emphasize that expert biologists evaluate population status and trends; assessments are most complete for mammals, birds, and amphibians, but invertebrates remain underrepresented.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Historical Perspective: From Passenger Pigeon to Martha
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+**Passenger pigeons** were once a quarter of all birds in North America. Flocks a mile wide took days to pass overhead.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/BIOL4120/attachments/band-tailed-pigeon-passenger-pigeon-two-column.jpg.thumb.768.768.png" alt=".thumb.768.768.png" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Market hunting made them easy targets (billions in large flocks)
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Shipped by the millions to eastern cities
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Their biology worked against them: low egg-laying rates, dependence on large flocks for protection and reproduction
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->**Result**: Complete extinction in just a few decades
+
+
+Martha, the last passenger pigeon, died in the Cincinnati Zoo on September 1, 1914—one of the rare extinctions we can date precisely.<!-- .element: class="feature fragment" -->
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This is a powerful historical example. Show the Smithsonian video (2:48) to make it memorable. Emphasize that the passenger pigeon&#39;s extinction prompted the first legal protections for migratory birds—a conservation response.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Martha: The Last Passenger Pigeon
+
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="background-color: #ffffffBF; padding: 20px; box-sizing: border-box; position: absolute; left: 1%; top: 7%; height: 80%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: space-around" align="center">
+ 
+<div class="block">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wx-cGnvKsvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+<!-- .element: class="fit-image" -->
+c08fig002.jpg<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+ 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Play this early in the lecture to anchor the concept of extinction in a concrete, emotional example. Pause to discuss why passenger pigeons were so vulnerable despite their former abundance.</p>
+<p>Smithsonian Channel (2:48). Martha&#39;s death in 1914 marks one of the few extinctions we can date precisely and prompted the first legal protections for migratory birds.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+How Poaching Is Changing African Elephants
+
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="background-color: #ffffffBF; padding: 20px; box-sizing: border-box; position: absolute; left: 1%; top: 7%; height: 80%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: space-around" align="center">
+ 
+<div class="block">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K8EVQdIUWBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+<!-- .element: class="fit-image" -->
+c08fig002.jpg<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+ 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This video is excellent for showing the matriarch&#39;s role in elephant society and why losing older females is devastating beyond just population numbers. Pause to discuss the loss of cultural knowledge in elephant herds.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/21.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/22.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Extinction Rates: Then and Now
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch08/c08fig004.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Background Extinction Rate<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Among mammals: ~1 species per 700 years  
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Among amphibians: ~1 species per 1,000 years
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Current Extinction Rate<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->We are **~1,000 times faster** than background rates.
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->For amphibians specifically: **45,000 times faster** than background.
+</div>
+
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+What we know<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->338 vertebrate species have gone extinct since 1500
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Including extinct-in-the-wild: ~617 extinctions
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Predicted global extinction in the near future: **1.5% of described species**
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->These numbers are likely **underestimates** (many species unknown or uncharacterized)
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Emphasize the acceleration. The rate of change is what makes this a crisis, not just the absolute number.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Are We Living in the Sixth Extinction?
+
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="background-color: #ffffffBF; padding: 20px; box-sizing: border-box; position: absolute; left: 1%; top: 7%; height: 80%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: space-around" align="center">
+ 
+<div class="block">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9gHuAwxwAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+
+
+<!-- .element: class="fit-image" -->
+c08fig002.jpg<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+ 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This video covers habitat loss, climate change, invasive species, and ocean acidification. Use it as a capstone to tie together multiple drivers of extinction. The phrase &quot;we are the asteroid&quot; appears here too.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The Sixth Mass Extinction
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Earth has experienced five major mass extinction events in its history. The most recent was 66 million years ago (the asteroid that killed the dinosaurs).
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch08/c08boxfig02a.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+The Big Five extinctions:<!-- .element: class="divider" -->
+- Ordovician-Silurian
+- Late Devonian
+- End Permian (worst: ~96% of species)
+- Triassic-Jurassic
+- Cretaceous-Paleogene (dinosaurs)
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Current drivers of the sixth extinction:<!-- .element: class="divider" -->
+- Habitat destruction
+- Climate change
+- Invasive species
+- Overexploitation
+- Ocean acidification
+</div>
+
+
+</div>
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The phrase &quot;we are the asteroid&quot; is memorable and captures the scale of human impact. Contrast with the slow, gradual extinction rates that scientists once thought were inevitable.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Measuring Extinction Risk: Key Metrics
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch08/c08fig004.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Extinctions/Million Species Years<!-- .element: class="divider" -->
+- A standardized way to compare extinction rates across time and taxa:
+$$\\text{E/MSY} = \\frac{\\text{Number of extinctions}}{\\text{Total species} \\times \\text{Observation years}} \\times 1,000,000$$
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Species-Area Relationships
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+The number of species in a habitat declines predictably as habitat area shrinks.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch08/c08fig008A.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+$$S = cA^z$$<!-- .element: class="divider" -->
+- **S** = species richness
+- **A** = habitat area
+- **c** = a constant
+- **z** = a scaling factor (typically 0.2–0.35)
+
+A 1% loss of habitat area can reduce species richness by 0.2–0.35%, depending on the ecosystem.<!-- .element: class="feature" -->
+</div>
+
+
+
+</div>
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>These are the quantitative tools conservationists use. The species-area relationship is particularly important for predicting extinction risk from habitat fragmentation.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Species-Area Relationships
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+The number of species in a habitat declines predictably as habitat area shrinks.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/Ch08/c08fig008B.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-rows" -->
+Linear Version<!-- .element: class="divider" -->
+- $$log(S) = log(c) + z&#42;log(A)$$
+- $$S = zA + c $$
+- $$y = mx + b $$
+- **S** = species richness
+- **A** = habitat area
+- **c** = a constant **(3.13)**
+- **z** = a scaling factor **(0.28)**
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+A 1% loss of habitat area reduces freshwater fish species richness by 0.28%.<!-- .element: class="feature" -->
+</div>
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>These are the quantitative tools conservationists use. The species-area relationship is particularly important for predicting extinction risk from habitat fragmentation.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-1_extinction_patterns/19.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-1_extinction_patterns/20.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+SAR: Application Case Study
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/extinction/italy_europe_ecoregions.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+The Italian peninsula<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Located in the center of the Mediterranean Basin, one of the world’s hotspots of biodiversity
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Exceptionally high levels of diversity for a variety of plant and animal taxa
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->~900 protected areas occupying ~11% of the country's terrestrial surface.
+	- The number and size of PAs is under continuous change
+
+Biodiversity knowledge for most of the Italian protected areas is extremely poor, especially for invertebrates.<!-- .element: class="feature fragment" -->
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: Fattorini, S. (2020) [Beetle Species–Area Relationships and Extinction Rates in Protected Areas.](https://doi.org/10.3390/insects11090646) Insects, 11(9), 646.
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The Italian peninsula is located in the center of the Mediterranean Basin, one of the world’s hotspots of biodiversity, showing exceptionally high levels of diversity for a variety of plant and animal taxa. At the same time, due to the profound, millenary impacts on the wilderness of this area, the Mediterranean biodiversity has been strongly influenced by the human presence, and it is currently under many threats.</p>
+<p>According to the last official report, in Italy there are some 900 protected areas, occupying a terrestrial surface of about three million hectares (about 11% of the country), plus about other 400 areas that benefit from some form of protection, for a further 430,000 hectares. The number and size of protected areas is, however, under continuous change.</p>
+<p>Biodiversity knowledge for most of the Italian protected areas is extremely poor, especially for invertebrates.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+SAR: Application Case Study
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Beetles are among the few invertebrates for which it is possible to gather reliable values of species richness for sets of Italian reserves.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/extinction/Beetle-Coleoptera.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Beetles<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Beetles are the most diversified group of living organisms, constituting about 40% of all described insect species and 25% of all known life-forms.
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Beetles occur in most terrestrial and freshwater habitats and are ecologically extremely diversified, which makes these insects very useful in comparative analyses.
+</div>
+
+
+
+Fattorini used data on beetle groups characterized by very different ecology (terrestrial predators, aquatic predators, dung feeders, herbivores, and terrestrial detritivores) from Italian reserves to investigate how extinction rates based on the use of the SAR vary according to the beetle’s ecology.<!-- .element: class="feature fragment" -->
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: Fattorini, S. (2020) [Beetle Species–Area Relationships and Extinction Rates in Protected Areas.](https://doi.org/10.3390/insects11090646) Insects, 11(9), 646.
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>However, for at least some groups, there is information about the number of species present in some reserves. In particular, thanks to the interest of professional and amateur entomologists, some beetle groups are among the few invertebrates for which it is possible to gather reliable values of species richness for sets of Italian reserves. Beetles are the most diversified group of living organisms, constituting about 40% of all described insect species and 25% of all known life-forms. Beetles occur in most terrestrial and freshwater habitats and are ecologically extremely diversified, which makes these insects very useful in comparative analyses: for example, with reference to their trophic habits, dispersal capabilities, and ecological preferences.</p>
+<p>In this paper, I used data on beetle groups characterized by very different ecology (terrestrial predators, aquatic predators, dung feeders, herbivores, and terrestrial detritivores) from Italian reserves to investigate how extinction rates based on the use of the SAR vary according to the beetle’s ecology.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+SAR: Application Case Study
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/extinction/beetle_table1.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-rows" -->
+Applied the SAR:<!-- .element: class="divider" -->
+- $$S = cA^z$$
+- $$log(S) = log(c) + z&#42;log(A)$$
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**c** = expected number of species per area unit
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**z** = slope of the function
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**S** = number of beetle species
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->**A** = area of protected habitat
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: Fattorini, S. (2020) [Beetle Species–Area Relationships and Extinction Rates in Protected Areas.](https://doi.org/10.3390/insects11090646) Insects, 11(9), 646.
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Correlation between Species Richness and Habitat Area
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Used SAR to predict extinction rates in isolated blocks of fragmented habitats, including protected areas, following area loss.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/extinction/beetle_paper_fig2.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-rows" -->
+Predictive Version<!-- .element: class="divider" -->
+- $$S1 = S0 (A1/A0)z$$
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**A0** = current size of protected area
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**A1** = size of protected area following habitat loss
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**S0** = number of beetle species before habitat loss
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->**S1** = number of beetle species after habitat loss
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->*If the original area A0 is reduced to A1, the original number of species S0 is expected to decline to S1.*
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Result<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->z-values did not vary significantly between groups
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->overall significant difference between c-values (F = 18.72, P << 0.001). 
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->C-values decreased in the following order:
+	+ (a) Carabidae (48 species) < (b) Hydradephaga (20) < (d) phytophagous Scarabaeoidea (8) ~ (f) Tenebrionidae (7) ~ (c) coprophagous Scarabaeoidea (5).
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: Fattorini, S. (2020) [Beetle Species–Area Relationships and Extinction Rates in Protected Areas.](https://doi.org/10.3390/insects11090646) Insects, 11(9), 646.
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Species–area relationships (SARs) for various beetle groups in Italian reserves: (a) Carabidae, (b) Hydradephaga, (c) coprophagous Scarabaeoidea, (d) phytophagous Scarabaeoidea, (e) total Scarabaeoidea, (f) Tenebrionidae. Decimal logarithms are used.</p>
+<p>SARs were first modelled using the linearized version of the power function (Equation (2)) with log10. Values of c and z for the SAR of the various groups were compared using Analysis of Covariance (ANCOVA). z-values of SARs were used to calculate the expected number of species lost with increasing area loss using Equation (3).</p>
+<p>The power function modelled SARs of the various groups with very similar goodness of fit. z-values, which indicate the rate at which species accumulate with area, did not vary significantly between groups (ANCOVA: F = 1.536, P = 0.200). By contrast, ANCOVA indicated an overall significance difference between c-values (F = 18.72, P &lt;&lt; 0.001). c-values, which represent the expected number of species per area unit, decreased in the following order (~indicates that differences in c-values were not significant in pairwise ANCOVAs): Carabidae (48 species) &lt; Hydradephaga (20) &lt; phytophagous Scarabaeoidea (8) ~ Tenebrionidae (7) ~ coprophagous Scarabaeoidea (5).</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+% Extinct Species Predicted
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+**Below:** Solid lines = expected rates from the species–area relationship;
+Dashed lines = expected rates from multiple regression models.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/extinction/beetle_paper_fig3.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Result<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Similar patterns among groups, with small proportions of extinct species until the fraction of lost area was very large.
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Sensitivity to extinction by area reduction increased in the order: 
+	+ (**c**) coprophagous Scarabaeoidea < (**f**) Tenebrionidae < (**a**) Carabidae < (**d**) phytophagous Scarabaeoidea < (**b**) Hydradephaga.
+
+
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: Fattorini, S. (2020) [Beetle Species–Area Relationships and Extinction Rates in Protected Areas.](https://doi.org/10.3390/insects11090646) Insects, 11(9), 646.
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Figure 3.</strong> Extinction rates (% of extinct species) expected on the basis of area loss (% of area lost) for various beetle groups in Italian reserves: (<strong>a</strong>) Carabidae, (<strong>b</strong>) Hydradephaga, (<strong>c</strong>) coprophagous Scarabaeoidea, (<strong>d</strong>) phytophagous Scarabaeoidea, (<strong>e</strong>) total Scarabaeoidea, (<strong>f</strong>) Tenebrionidae. Solid lines: expected rates from the species–area relationship. Dashed lines: expected rates from multiple regression models.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The Big Picture
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+**Below:** Number of extinct species expected on the basis of area loss (% of area lost) for the Carabidae of Italian reserves for areas hypothetically hosting 10, 20, 40, 60, 80, and 100 species.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/extinction/beetle_paper_fig4.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-rows" -->
+Linear Version<!-- .element: class="divider" -->
+- $$log(S) = log(c) + z&#42;log(A)$$
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**z** = slope of the function (*0.212 from previous*)
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**c** = expected number of species per unit area
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**S** = number of beetle species
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->**A** = area of protected habitat
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->*Note the log-scale for the y-axis.*
+</div>
+
+
+
+Reserve area was recovered as an important predictor of species richness in all cases.<!-- .element: class="feature fragment" -->
+
+Extinction rates by area loss are always relatively low. Thus, in reserves with few species, many local extinctions might be unnoticed.<!-- .element: class="feature fragment" -->
+
+
+</div>
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Figure 3.</strong> Extinction rates (% of extinct species) expected on the basis of area loss (% of area lost) for various beetle groups in Italian reserves: (<strong>a</strong>) Carabidae, (<strong>b</strong>) Hydradephaga, (<strong>c</strong>) coprophagous Scarabaeoidea, (<strong>d</strong>) phytophagous Scarabaeoidea, (<strong>e</strong>) total Scarabaeoidea, (<strong>f</strong>) Tenebrionidae. Solid lines: expected rates from the species–area relationship. Dashed lines: expected rates from multiple regression models.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/24.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/25.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/26.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/27.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/28.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/29.png" alt="" style="object-fit: scale-down">
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" template="tpl-canva-slide]" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/canva_slides/8-3_extinction_risk/30.png" alt="" style="object-fit: scale-down">
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/reveal-pointer/pointer.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealPointer,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>
