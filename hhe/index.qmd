@@ -9,6 +9,9 @@ listing:
     contents:
       - "../*/hhe.qmd"
       - "*.qmd"
+      - "topics/*.qmd"
+      - "video/*.qmd"
+      - "film/*.qmd"
       - "slides/*/index.html"
 ---
 

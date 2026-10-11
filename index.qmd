@@ -7,12 +7,18 @@ listing:
   - id: hhe-updates
     contents:
       - "*/hhe.qmd"
-      - "hhe/*/*.qmd"
+      - "hhe/topics/*.qmd"
+      - "hhe/film/*.qmd"
+      - "hhe/video/*.qmd"
+      - "hhe/case_convos/*.qmd"
       - "hhe/*.qmd"
   - id: conbio-updates
     contents:
       - "*/conbio.qmd"
-      - "conbio/*/*.qmd"
+      - "conbio/topics/*.qmd"
+      - "conbio/film/*.qmd"
+      - "conbio/video/*.qmd"
+      - "conbio/case_convos/*.qmd"
       - "conbio/*.qmd"
 ---
 

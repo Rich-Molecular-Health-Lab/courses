@@ -9,6 +9,10 @@ listing:
     contents:
       - "../*/conbio.qmd"
       - "*.qmd"
+      - "topics/*.qmd"
+      - "video/*.qmd"
+      - "film/*.qmd"
+      - "slides/*/index.html"
       - "slides/*/index.html"
 ---
 
