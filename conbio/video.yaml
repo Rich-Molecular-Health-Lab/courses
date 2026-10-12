@@ -58,6 +58,111 @@
   profile: "video"
   attachments:
     []
+- title: "Earth Day 1970"
+  video: "https://www.youtube.com/watch?v=pCcxIQYdH24"
+  description: "Uploaded on Apr 11, 2010http://earthweek1970.org - Original broadcast of CBS News Special Report with Walter Cronkite about the first Earth Day, 1970. Also known as Earth Week 1970.This video is us"
+  duration_string: "2:39"
+  creator: "Pacific Education Institute"
+  author: "Pacific Education Institute"
+  published_at: "2016-10-26"
+  released: "2016-10-26"
+  cover: "https://i.ytimg.com/vi/pCcxIQYdH24/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGB4gUih_MA8=&rs=AOn4CLBwG9qaZwptMoQiOdophyqGjiEzkw"
+  embed: "https://www.youtube.com/embed/pCcxIQYdH24"
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "The Rise of Conservation Biology"
+  genre: "Education"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "pCcxIQYdH2487741124305"
+  duration: "160"
+  type: "video"
+  image: "![Earth Day 1970](https://i.ytimg.com/vi/pCcxIQYdH24/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGB4gUih_MA8=&rs=AOn4CLBwG9qaZwptMoQiOdophyqGjiEzkw)"
+  authors: "Pacific Education Institute"
+  series: "Pacific Education Institute"
+  author_first: "Institute"
+  author_last: "Institute"
+  author_display: "Pacific Education Institute"
+  published: "2016-10-26T00:00:00.000Z"
+  year: 2016
+  assigned: false
+  themes_possible:
+    - "Foundations of Conservation Biology"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+  topics:
+    - "The Rise of Conservation Biology"
+  themes:
+    - "Foundations of Conservation Biology"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
+  course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
+- title: "How one scientist took on the chemical industry"
+  video: "https://www.youtube.com/watch?v=ezVEzCmiXM4"
+  description: "Discover the groundbreaking environmental work of Rachel Carson, whose book “Silent Spring” explores how human actions threaten the balance of nature. --In 1958, after receiving a letter describin"
+  duration_string: "5:22"
+  creator: "TED-Ed"
+  author: "TED-Ed"
+  published_at: "2020-03-17"
+  released: "2020-03-17"
+  cover: "https://i.ytimg.com/vi/ezVEzCmiXM4/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/ezVEzCmiXM4"
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "The Rise of Conservation Biology"
+    - "Habitat Degradation"
+  genre: "Education"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "ezVEzCmiXM487741124305"
+  duration: "323"
+  type: "video"
+  image: "![How one scientist took on the chemical industry](https://i.ytimg.com/vi/ezVEzCmiXM4/maxresdefault.jpg)"
+  authors: "TED-Ed"
+  series: "TED-Ed"
+  author_first: "TED-Ed"
+  author_last: "TED-Ed"
+  author_display: "TED-Ed"
+  published: "2020-03-17T00:00:00.000Z"
+  year: 2020
+  assigned: false
+  themes_possible:
+    - "Foundations of Conservation Biology"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+  topics:
+    - "The Rise of Conservation Biology"
+  themes:
+    - "Foundations of Conservation Biology"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
+  course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
 - title: "How poaching is changing the face of African elephants"
   video: "https://www.youtube.com/watch?v=K8EVQdIUWBE"
   description: "It's \"natural\" selection.Subscribe to our channel! http://goo.gl/0bsAjOMany thanks to Dr. Joyce H. Poole, Dr. Tammie Matson, Andrew Parker, and African Parks. To learn more about their ongoing wor"
@@ -112,6 +217,111 @@
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
+  course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
+- title: "How Wolves Change Rivers"
+  video: "https://www.youtube.com/watch?v=W88Sact1kws"
+  description: "Embark on a journey to Yellowstone, where a few wolves did not just roam, but rewrote the rules of an entire ecosystem. Discover how these majestic predators triggered a cascade of life, transforming"
+  duration_string: "4:11"
+  creator: "Sustainable Human"
+  author: "Sustainable Human"
+  published_at: "2022-02-04"
+  released: "2022-02-04"
+  cover: "https://i.ytimg.com/vi/W88Sact1kws/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/W88Sact1kws"
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Landscape-Scale Approaches"
+    - "Community & Ecosystem Approaches"
+    - "Biodiversity Concepts & Measurement"
+  genre: "Nonprofits & Activism"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "W88Sact1kws87741124305"
+  duration: "252"
+  type: "video"
+  image: "![How Wolves Change Rivers](https://i.ytimg.com/vi/W88Sact1kws/maxresdefault.jpg)"
+  authors: "Sustainable Human"
+  series: "Sustainable Human"
+  published: "2022-02-04T00:00:00.000Z"
+  year: 2022
+  assigned: false
+  themes_possible:
+    - "Approaches to Conservation"
+    - "Foundations of Conservation Biology"
+  class_days:
+    - "BIOL4120_W3D2"
+    - "BIOL4120_W4D1"
+  topics:
+    - "Biodiversity Concepts & Measurement"
+  themes:
+    - "Foundations of Conservation Biology"
+  dates:
+    - "2026-09-09T16:00:00"
+    - "2026-09-14T16:00:00"
+  course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
+- title: "The Cuyahoga River Fire Don't Fall in the River"
+  video: "https://www.youtube.com/watch?v=nlHiaZFvcXA"
+  description: "Tim Donovan recalls working on the Cuyahoga River the day that it caught fire in 1969.To learn more about the Cuyahoga River fire, visit:http://clevelandhistorical.org/items/show/63To downlo"
+  duration_string: "1:23"
+  creator: "CSU Digital Humanities"
+  author: "CSU Digital Humanities"
+  published_at: "2010-08-06"
+  released: "2010-08-06"
+  cover: "https://i.ytimg.com/vi/nlHiaZFvcXA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLAaDZ8hiJTl8wpwnE5vbeuxFqCMDg"
+  embed: "https://www.youtube.com/embed/nlHiaZFvcXA"
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "The Rise of Conservation Biology"
+    - "Habitat Degradation"
+  genre: "Education"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "nlHiaZFvcXA87741124305"
+  duration: "84"
+  type: "video"
+  image: "![The Cuyahoga River Fire Don't Fall in the River](https://i.ytimg.com/vi/nlHiaZFvcXA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF0gXShdMA8=&rs=AOn4CLAaDZ8hiJTl8wpwnE5vbeuxFqCMDg)"
+  authors: "CSU Digital Humanities"
+  series: "CSU Digital Humanities"
+  author_first: "Humanities"
+  author_last: "Humanities"
+  author_display: "CSU Digital Humanities"
+  published: "2010-08-06T00:00:00.000Z"
+  year: 2010
+  assigned: false
+  themes_possible:
+    - "Foundations of Conservation Biology"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+  topics:
+    - "The Rise of Conservation Biology"
+  themes:
+    - "Foundations of Conservation Biology"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:
@@ -171,6 +381,59 @@
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
   course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
+- title: "World Weather Attribution — understanding climate change and extreme weather"
+  video: "https://www.youtube.com/watch?v=AeZbbEaLj4c"
+  description: "When an extreme weather event occurs, people often ask: is climate change to blame?For decades, climate scientists have answered that question in general terms – that as the planet warms, we can exp"
+  duration_string: "5:59"
+  creator: "World Weather Attribution"
+  author: "World Weather Attribution"
+  published_at: "2023-11-13"
+  released: "2023-11-13"
+  cover: "https://i.ytimg.com/vi/AeZbbEaLj4c/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/AeZbbEaLj4c"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+  genre: "People & Blogs"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "AeZbbEaLj4c87741124305"
+  duration: "360"
+  type: "video"
+  image: "![World Weather Attribution — understanding climate change and extreme weather](https://i.ytimg.com/vi/AeZbbEaLj4c/maxresdefault.jpg)"
+  authors: "World Weather Attribution"
+  series: "World Weather Attribution"
+  author_first: "Attribution"
+  author_last: "Attribution"
+  author_display: "World Weather Attribution"
+  published: "2023-11-13T00:00:00.000Z"
+  year: 2023
+  assigned: false
+  themes_possible:
+    - "Disasters"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+  topics:
+    - "The Rise of Conservation Biology"
+  themes:
+    - "Foundations of Conservation Biology"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
+  course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
     []

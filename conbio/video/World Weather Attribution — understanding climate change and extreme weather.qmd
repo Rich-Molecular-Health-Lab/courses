@@ -1,0 +1,75 @@
+---
+title: "World Weather Attribution — understanding climate change and extreme weather"
+profile:
+  - "video"
+  - "conbio"
+categories:
+  - "video"
+  - "BIOL4120"
+---
+
+**World Weather Attribution**, *11 13, 2023*
+
+## Video (5:59)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/AeZbbEaLj4c title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+When an extreme weather event occurs, people often ask: is climate change to blame?
+
+For decades, climate scientists have answered that question in general terms – that as the planet warms, we can expect many of these weather events to become more frequent and extreme.
+
+But in recent years, advances in attribution science have allowed researchers to answer the question in much greater detail.  
+
+Founded in 2015 by Dr. Friederike Otto and Dr. Geert Jan van Oldenborgh, World Weather Attribution scientists quantify how climate change influences the intensity and likelihood of an extreme weather event. They often do this using weather data and computer modelling, and often immediately in the aftermath of the extreme event. 
+
+To encourage actions that will make communities and countries more resilient to future extreme weather events, World Weather Attribution studies also evaluate how existing vulnerability worsened the impacts of the extreme weather event.
+
+To learn more about World Weather Attribution or to view our studies, go to https://www.worldweatherattribution.org/
+
+Follow us on Twitter: https://twitter.com/WWAttribution
+
+Film produced by Geoff Marsh.
+
+## Transcript
+
+### Introduction to attribution
+
+**0:03** · [Music] in the immediate aftermath of an extreme weather event occurring people always ask the question is climate change to blame we found it World weather attribution to answer that question based on scientific evidence this one does not include the EV weather attribution is a relatively
+
+**0:26** · new field of science that basically brings together weather obervation and meteorology and climate science and really answers the question what is the cause of an event happening I'm Dr Freddy Oto I'm a senior lecturer at the Grandam Institute at Imperial College London and I am co-founder of the world weather attribution initiative which I'm also leading our burning of fossil fuels for
+
+### Climate change impacts
+
+**0:56** · um the last decades and Century has led to the world over all getting warmer and that had a profound effect on weather around the world so every heat wave that is happening today has been made more likely more intense and longer because
+
+**1:12** · of climate change but we also see changes in other weather events heavy rainfall has become more intense in many parts of the world we see more intense droughts or at least the impacts of droughts on agriculture are worse as they would have been without climate change because of the increase in temperature and of course that doesn't affect just the weather but our societies are only adapted to a very
+
+**1:39** · small range of possible weather and we are outside this range now and therefore the impacts that these changes have are that people lose their lives their livelihoods across the world not just in the global South but everywhere in the
+
+**1:58** · world so the kind of extreme weather events that we would want to St study with World weather attribution are very frequent so um we meet every Monday with our team and look at the events that have happened and there are many more events happening than we can study and we are aiming to look at about 20 uh per
+
+### Case studies and examples
+
+**2:22** · year so the kind of thing we are looking at are events like for example the Pacific Northwest Heatwave that hit the US in Canada in 2021 where we found this event would have basically been impossible without climate change another event that has not been talked about much in the global media was extreme flooding in Nigeria and around the Nija Delta more widely that happened in 2022 where we also found that climate
+
+**2:48** · change made this event 80 times more likely which is a huge change for a rainfall event so with our core team we decide whether we can do a study based Bas on whether we have enough manpower available whether we have data and
+
+### The research process
+
+**3:05** · climate models at least in principle that are able to simulate the type of event whether we have the ability to make contact with people in the region and also we try um to look at is it a kind of event in a region where we have already done many many studies if yes we might give that a lower priority but if it's in a region where not many Studies have been done we will definitely try to do it so once we have made contact with the
+
+**3:34** · people in country we decide on how to define the event and then based on how complex the weather event is that led to the impacts we then decide on the timeline so if it's a heat wve that is relatively straightforward or a heavy rainfall event we try and finish the study within a week if it's something more complex like a drought um or
+
+**4:00** · maybe a a less straightforward rainfall event than it might take us a few weeks but we we really aim to be as fast as possible so that our evidence can still feed into the public discussion that is happening about the event so what we are aiming to do with each of these studies is to provide on
+
+### Reporting and implications
+
+**4:24** · the one hand an answer of what's the role of climate change so something like this event has been made 80 times more likely because of climate change and on the other hand information on who has been most affected and why so who is hit
+
+**4:41** · by this weather event and why and how are they affected and also what can be done to prevent these people being affected next time so once we finish a study we obviously can't send it to peer review and wait for 2 years until the review process is over before publicizing the events we publicize them straight away so we publish a scientific report that has all the information that a scientific paper has on our website we write a summary we write a press release
+
+**5:12** · and we do a press briefing and in many cases we then send the scientific report a few weeks after to peerreview um so that it will become a peer-reviewed paper down the line it's important to have attribution studies because these studies show us how climate change manifests in our daily lives in our
+
+**5:35** · daily experiences not just climate scientists but everyone and also because we have an assessment on the vulnerability we can learn from these studies how to better prevent impacts to be not as dramatic for future [Music] events

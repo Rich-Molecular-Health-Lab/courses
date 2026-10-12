@@ -15,15 +15,10 @@
     - "Conservation Biology Fall 2026"
   background:
     - "Biodiversity"
-    - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
-  quizzes: null
   slides:
     - "Biodiversity_Concepts_&_Measurement"
-  videos: null
-  films: null
-  exercises: null
-  handouts: null
-  assignments: null
+  videos:
+    - "How Wolves Change Rivers"
   area: "teaching"
   tags:
     - "teaching"
@@ -40,7 +35,6 @@
   class_end: "BIOL4120_W4D1"
   date_end: "2026-09-14T16:00:00"
   week_end: 4
-  lecture_archive: null
   background_possible:
     - "Biodiversity"
     - "Ch 3 Biodiversity Concepts and Measurement"
@@ -57,12 +51,14 @@
     - "Camera Trapping at American Prairie Reserve"
     - "How eDNA helps strengthen marine biodiversity monitoring across Africa"
     - "How Otters Are Saving Earth’s Underwater Forests"
+    - "How Wolves Change Rivers"
     - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
     - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains 1"
     - "Measuring biodiversity made easy  short version"
     - "Ocean Habitat Loss"
     - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
     - "They recorded a rainforest in Indonesia before it changed forever"
+  keyword: "biodiversity"
 - title: "Climate Change & Biodiversity"
   unit:
     - "Threats to Biodiversity"
@@ -170,6 +166,7 @@
     - "Climate change can money stop deforestation"
     - "Four years ago we flooded a forest - the results are insane"
     - "How Otters Are Saving Earth’s Underwater Forests"
+    - "How Wolves Change Rivers"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
     - "The story of Knepp A rewilding success  Field Studies"
     - "The Surprising Species That Everything Else Depends On  IN OUR NATURE"
@@ -342,6 +339,7 @@
     - "8-3_extinction_risk"
   films:
     - "Vanishing Act"
+  keyword: "extinction"
 - title: "Fall Break BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -650,6 +648,7 @@
     - "Climate change can money stop deforestation"
     - "Climate change the trouble with trees"
     - "Four years ago we flooded a forest - the results are insane"
+    - "How Wolves Change Rivers"
     - "New Trees Won’t Solve Global Warming"
     - "The Everyday Ingredient Destroying the Planet"
     - "The story of Knepp A rewilding success  Field Studies"
@@ -933,14 +932,8 @@
     - "Conservation Biology Fall 2026"
   background:
     - "Conservation biology - past and present"
-  quizzes: null
   slides:
     - "Contemporary_Conservation_Biology"
-  videos: null
-  films: null
-  exercises: null
-  handouts: null
-  assignments: null
   area: "teaching"
   tags:
     - "teaching"
@@ -963,4 +956,14 @@
   films_possible:
     - "Rebuilding The Herd Rewilding The Future"
   videos_possible:
+    - "Earth Day 1970"
+    - "How one scientist took on the chemical industry"
+    - "The Cuyahoga River Fire Don't Fall in the River"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
+  videos:
+    - "The Canal (Love Canal)"
+    - "How one scientist took on the chemical industry"
+    - "The Cuyahoga River Fire Don't Fall in the River"
+    - "Earth Day 1970"
+    - "World Weather Attribution — understanding climate change and extreme weather"
+  keyword: "foundation"

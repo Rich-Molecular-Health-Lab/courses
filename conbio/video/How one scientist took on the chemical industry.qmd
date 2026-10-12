@@ -1,0 +1,133 @@
+---
+title: "How one scientist took on the chemical industry"
+profile:
+  - "video"
+  - "conbio"
+categories:
+  - "video"
+  - "BIOL4120"
+---
+
+**TED-Ed**, *03 17, 2020*
+
+## Video (5:22)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ezVEzCmiXM4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Discover the groundbreaking environmental work of Rachel Carson, whose book “Silent Spring” explores how human actions threaten the balance of nature. 
+
+--
+
+In 1958, after receiving a letter describing the deaths of songbirds due to the pesticide known as DDT, Rachel Carson began an investigation into the misuse of chemicals and their toll on nature. In 1962, she published her findings in “Silent Spring,” which immediately drew both applause and impassioned dissent. How did this biologist and writer ignite such controversy? Mark Lytle investigates.
+
+Lesson by Mark Lytle, directed by Héloïse Dorsan Rachet.
+
+Animator's website: https://www.heloisedr.com/ and https://www.instagram.com/helo.dr/?hl=fr
+
+Sign up for our newsletter: http://bit.ly/TEDEdNewsletter
+
+Support us on Patreon: http://bit.ly/TEDEdPatreon
+
+Follow us on Facebook: http://bit.ly/TEDEdFacebook
+
+Find us on Twitter: http://bit.ly/TEDEdTwitter
+
+Peep us on Instagram: http://bit.ly/TEDEdInstagram
+
+View full lesson: https://ed.ted.com/lessons/how-one-scientist-took-on-the-chemical-industry-mark-lytle
+
+Thank you so much to our patrons for your support! Without you this video would not be possible! Angelo Urzua-Milla, Tommy Lewis, leorene, Mahina Bachiller, Marcus Andre Nery, Bruce Vieira Lopes, Chef, Charmaine Hanson, Michael Goldberg, Lydia Pflieger, Paul Aldred-Bann, Manav parmar, Susan Wang, Utkarsh Dubey, Thawsitt, Xuebicoco, Jezabel, Maeve, Kim Humphrey, Kristen Damas, JackKeyton, Matthew D. Vigil, Amin Shahril, Adriano Fontes, Xiao Yu, Fatima Kried, Aravind Battaje, Melissa Suarez, Jason Duncan, Brian A. Dunn, Francisco Amaya, Daisuke Goto, Matt Switzler, Chhunheng Veng, Leonardo Monrroy, Sumedh Ghaisas, Guhten, Amer Harb, Dowey Baothman, Norbert Orgován, Shafeeq Ansari, Gabriel Balsa, Maryam Sultan, Bethany Connor, Jeremy Shimanek, Adam Foreman, Sebastiaan Vleugels, Lâm Nguyễn, Mark Byers and Bradley Heinold.
+
+## Transcript
+
+### Intro
+
+**0:06** · In 1958, Rachel Carson received a letter describing songbirds suddenly dropping from tree branches.
+
+**0:13** · The writer blamed their deaths on a pesticide called DDT that exterminators had sprayed on a nearby marsh.
+
+**0:19** · The letter was the push Carson needed to investigate DDT.
+
+**0:23** · She had already heard from scientists and conservationists who were worried that rampant use of the pesticide posed a threat to fish, birds, and possibly humans.
+
+**0:33** · She began to make inquiries through government contacts from her years working in the United States Bureau of Fisheries.
+
+**0:40** · She asked: “what has already silenced the voices of spring?”
+
+### Silent Spring
+
+**0:45** · In 1962, Carson published her findings in "Silent Spring."
+
+**0:50** · Her book documented the misuse of chemicals and their toll on nature and human health.
+
+**0:56** · "Silent Spring" immediately drew both applause and impassioned dissent— along with vicious personal attacks on the author.
+
+**1:04** · How did this mild-mannered biologist and writer ignite such controversy?
+
+**1:10** · Carson began her career as a hardworking graduate student, balancing her studies in biology at John Hopkins University with part time jobs.
+
+**1:18** · Still, she had to leave school before completing her doctorate to provide for her ailing father and sister.
+
+**1:25** · Carson found part time work with the Bureau of Fisheries writing for a radio program on marine biology.
+
+**1:31** · Her ability to write materials that could hold the general public’s attention impressed her superiors, and in 1936, she became the second woman to be hired at the Bureau full time.
+
+**1:43** · In 1941, she published the first of three books on the ocean, combining science with lyrical meditations on underwater worlds.
+
+**1:52** · These explorations resonated with a wide audience.
+
+**1:56** · In "Silent Spring," Carson turned her attention to the ways human actions threaten the balance of nature.
+
+**2:03** · DDT was originally used during World War II to shield crops from insects and protect soldiers from insect-borne diseases.
+
+**2:12** · After the war, it was routinely sprayed in wide swaths to fight pests, often with unforeseen results.
+
+**2:19** · One attempt to eradicate fire ants in the southern U.S.
+
+**2:22** · killed wildlife indiscriminately, but did little to eliminate the ants.
+
+### DDT
+
+**2:29** · In spite of this and other mishaps, the US Department of Agriculture and chemical companies extolled the benefits of DDT.
+
+**2:37** · There was little regulation or public awareness about its potential harm.
+
+**2:41** · But Carson showed how the overuse of chemicals led to the evolution of resistant species— which, in turn, encouraged the development of deadlier chemicals.
+
+**2:51** · Since DDT does not dissolve in water, she asserted that over time it would accumulate in the environment, the bodies of insects, the tissues of animals who consume those insects, and eventually humans.
+
+**3:04** · She suggested that exposure to DDT might alter the structure of genes, with unknown consequences for future generations.
+
+**3:13** · The response to "Silent Spring" was explosive.
+
+**3:17** · For many people the book was a call to regulate substances capable of catastrophic harm.
+
+**3:22** · Others objected that Carson hadn’t mentioned DDT’s role controlling the threat insects posed to human health.
+
+**3:30** · Former Secretary of Agriculture Ezra Taft Benson demanded to know “why a spinster with no children was so concerned about genetics?”
+
+**3:40** · and dismissed Carson as “probably a Communist.”
+
+**3:44** · A lawyer for a pesticide manufacturer alluded to Carson and her supporters as “sinister influences” aiming to paint businesses as “immoral.”
+
+**3:55** · In reality, Carson had focused on the dangers of chemicals because they weren’t widely understood, while the merits were well publicized.
+
+**4:03** · She rejected the prevailing belief that humans should and could control nature.
+
+**4:08** · Instead, she challenged people to cultivate “maturity and mastery, not of nature, but of ourselves.”
+
+### Environmentalists
+
+**4:16** · Carson died of cancer in 1964, only two years after the publication of "Silent Spring."
+
+**4:23** · Her work galvanized a generation of environmental activists.
+
+**4:28** · In 1969, under pressure from environmentalists, Congress passed the National Environmental Policy Act that required federal agencies to evaluate environmental impacts of their actions.
+
+**4:41** · To enforce the act, President Richard Nixon created the Environmental Protection Agency.
+
+**4:47** · And in 1972, the EPA issued a partial ban on the use of DDT.
+
+**4:53** · Long after her death, Rachel Carson continued to advocate for nature through the lingering impact of her writing.

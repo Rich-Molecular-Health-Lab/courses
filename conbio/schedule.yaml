@@ -58,12 +58,6 @@ W3:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 2
         duration_string: "17 pages"
-      - title: "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
-        type: "textbook"
-        path_pdf: "attachments/bradshaw_brook_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 16
-        duration_string: "27 pages"
 W4:
   D1:
     date: "2026-09-14"

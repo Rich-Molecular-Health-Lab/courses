@@ -195,10 +195,16 @@
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
     - "Contemporary_Conservation_Biology"
+    - "The Canal (Love Canal)"
+    - "How one scientist took on the chemical industry"
+    - "The Cuyahoga River Fire Don't Fall in the River"
+    - "Earth Day 1970"
+    - "World Weather Attribution — understanding climate change and extreme weather"
     - "Quantifying Biodiversity Slides"
     - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
     - "Camera Trapping at American Prairie Reserve"
     - "Biodiversity_Concepts_&_Measurement"
+    - "How Wolves Change Rivers"
   background:
     - "Conservation biology - past and present"
     - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
@@ -209,8 +215,14 @@
     - "Biodiversity_Concepts_&_Measurement"
   course_name: "Conservation Biology"
   videos:
+    - "The Canal (Love Canal)"
+    - "How one scientist took on the chemical industry"
+    - "The Cuyahoga River Fire Don't Fall in the River"
+    - "Earth Day 1970"
+    - "World Weather Attribution — understanding climate change and extreme weather"
     - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
     - "Camera Trapping at American Prairie Reserve"
+    - "How Wolves Change Rivers"
   class_start: "BIOL4120_W2D1"
   date_start: "2026-08-31T16:00:00"
   week_start: 2

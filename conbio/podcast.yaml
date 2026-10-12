@@ -1,0 +1,64 @@
+- topics:
+    - "Endocrine Disrupting Chemicals"
+    - "PFAS"
+    - "The Rise of Conservation Biology"
+  themes:
+    - "Toxins"
+    - "Foundations of Conservation Biology"
+  deadline: null
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+    - "Conservation Biology Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "podcast"
+  created: "2026-08-29"
+  title: "The Canal (Love Canal)"
+  url_spotify: "https://open.spotify.com/episode/3K6AvsboR3d0TeGFlr7r6U"
+  description: " Once envisioned as a model community, the neighborhood of Love Canal in Niagara Falls, New York, became the victim of a massive, man-made environmental disaster. Prelude: James Denney, a Missouri farmer, makes a deal for a local chemical company to bury its waste on his property.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  Thanks for listening. :-)"
+  released: "2018-01-21"
+  image: "![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)"
+  series: "Swindled"
+  series_description: "A narrative true-crime podcast that uses immersive storytelling, archival audio, and cinematic sound design to explore the world of white-collar crime, con artists, and corporate evil. From Ponzi schemes and financial fraud to environmental disasters and political scandals, each story reveals how greed, deception, and the pursuit of power have shaped our world—often with devastating consequences. Become a ValuedListener™ at ValuedListener.com "
+  series_spotify: "https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq"
+  duration: 2380
+  duration_string: "00:39:40"
+  topics_possible:
+    - "Endocrine Disrupting Chemicals"
+    - "PFAS"
+    - "Environmental Justice"
+    - "Heavy Metals"
+  themes_possible:
+    - "Toxins"
+    - "Introduction"
+  type: "podcast"
+  duration_ms: "2380774"
+  course_name: "Human Health & the Environment"
+  episode_number: "4"
+  episode_season: "1"
+  published_at: "2018-01-21"
+  published: "2018-01-21"
+  year: "2018"
+  cover: "https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56"
+  assigned: false
+  authors: "Swindled"
+  creator: "Swindled"
+  author_first: "Swindled"
+  author_last: "Swindled"
+  author_display: "Swindled"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-09T16:00:00"
+  profile: "podcast"
+  attachments:
+    []
