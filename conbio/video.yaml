@@ -93,7 +93,7 @@
   author_display: "Pacific Education Institute"
   published: "2016-10-26T00:00:00.000Z"
   year: 2016
-  assigned: false
+  assigned: true
   themes_possible:
     - "Foundations of Conservation Biology"
   class_days:
@@ -146,7 +146,7 @@
   author_display: "TED-Ed"
   published: "2020-03-17T00:00:00.000Z"
   year: 2020
-  assigned: false
+  assigned: true
   themes_possible:
     - "Foundations of Conservation Biology"
   class_days:
@@ -255,7 +255,7 @@
   series: "Sustainable Human"
   published: "2022-02-04T00:00:00.000Z"
   year: 2022
-  assigned: false
+  assigned: true
   themes_possible:
     - "Approaches to Conservation"
     - "Foundations of Conservation Biology"
@@ -270,6 +270,9 @@
     - "2026-09-09T16:00:00"
     - "2026-09-14T16:00:00"
   course_name: "Conservation Biology"
+  author_first: "Human"
+  author_last: "Human"
+  author_display: "Sustainable Human"
   profile: "video"
   attachments:
     []
@@ -309,7 +312,7 @@
   author_display: "CSU Digital Humanities"
   published: "2010-08-06T00:00:00.000Z"
   year: 2010
-  assigned: false
+  assigned: true
   themes_possible:
     - "Foundations of Conservation Biology"
   class_days:
@@ -401,6 +404,7 @@
     - "Conservation Biology Fall 2026"
   topics_possible:
     - "Climate Change & Extreme Weather"
+    - "The Rise of Conservation Biology"
   genre: "People & Blogs"
   source: "YouTube"
   tags:
@@ -420,9 +424,10 @@
   author_display: "World Weather Attribution"
   published: "2023-11-13T00:00:00.000Z"
   year: 2023
-  assigned: false
+  assigned: true
   themes_possible:
     - "Disasters"
+    - "Foundations of Conservation Biology"
   class_days:
     - "BIOL4120_W2D1"
     - "BIOL4120_W3D2"
