@@ -1,6 +1,6 @@
 ---
 title: "Case Conversation 1 - Extinction"
-date: "2026-08-29"
+date: "2026-09-16T16:00:00"
 date-modified: "2026-08-29T12:19:17"
 profile:
   - "case_convo"
@@ -10,5 +10,24 @@ categories:
   - "BIOL4120"
 ---
 
+## Class Meeting
 
+**Date:** Wednesday, September 16, 2026
 
+<a class='btn btn-outline-primary p-3 m-2' href='../topics/Extinction.html'>Extinction <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../units/Threats to Biodiversity.html'>Threats to Biodiversity <i class='fa-solid fa-link'></i></a>
+
+## Case Project: Colossal Biosciences Dire Wolf De-Extinction Project
+
+<a class='btn btn-outline-primary p-3 m-2' href='https://colossal.com/colossal-biosciences-dire-wolf-de-extinction' target='_blank' rel='noopener'>colossal.com <i class='fa-solid fa-arrow-up-right-from-square'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='https://pmc.ncbi.nlm.nih.gov/articles/PMC12248547' target='_blank' rel='noopener'>pmc.ncbi.nlm.nih.gov <i class='fa-solid fa-arrow-up-right-from-square'></i></a>
+
+## Discussion Leaders
+
+- Sasha M.
+- Macey V.
+- Emily M.
+
+## Assignment
+
+**Guided Case Conversation**

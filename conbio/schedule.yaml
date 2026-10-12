@@ -79,6 +79,11 @@ W4:
     case_convo:
       - number: 1
         topic: "Extinction"
+        leaders:
+          - "Sasha M."
+          - "Macey V."
+          - "Emily M."
+        path: "case_convos/Case Conversation 1 - Extinction.qmd"
 W5:
   D1:
     date: "2026-09-21"
@@ -123,6 +128,11 @@ W6:
     case_convo:
       - number: 2
         topic: "Habitat Loss, Fragmentation, and Degradation"
+        leaders:
+          - "Kier L."
+          - "Jay C."
+          - "Alexander M."
+        path: "case_convos/Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation.qmd"
 W7:
   D1:
     date: "2026-10-05"
@@ -138,6 +148,8 @@ W7:
     topics:
       - title: "Habitat Loss, Fragmentation, and Degradation"
         path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
+    slides:
+      - "slides/Habitat Loss & Fragmentation/index.html"
     background:
       - title: "Habitat fragmentation and landscape change"
         type: "textbook"
@@ -158,6 +170,7 @@ W8:
     case_convo:
       - number: 3
         topic: "Overexploitation"
+        path: "case_convos/Case Conversation 3 - Overexploitation.qmd"
   D2:
     date: "2026-10-14"
     themes: "Exams BIOL4120"
@@ -175,8 +188,21 @@ W9:
     date: "2026-10-21"
     themes: "Threats to Biodiversity"
     topics:
+      - title: "Habitat Loss, Fragmentation, and Degradation"
+        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
+    slides:
+      - "slides/Habitat Loss & Fragmentation/index.html"
+W10:
+  D1:
+    date: "2026-10-26"
+    themes: "Threats to Biodiversity"
+    topics:
+      - title: "Habitat Loss, Fragmentation, and Degradation"
+        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
       - title: "Overexploitation"
         path: "topics/Overexploitation.qmd"
+    slides:
+      - "slides/Habitat Loss & Fragmentation/index.html"
     background:
       - title: "Overharvesting"
         type: "textbook"
@@ -184,15 +210,29 @@ W9:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 6
         duration_string: "23 pages"
-W10:
+  D2:
+    date: "2026-10-28"
+    themes: "Threats to Biodiversity"
+    topics:
+      - title: "Overexploitation"
+        path: "topics/Overexploitation.qmd"
+    case_convo:
+      - number: 4
+        topic: "Invasive Alien Species"
+        path: "case_convos/Case Conversation 4 - Invasive Alien Species.qmd"
+W11:
   D1:
-    date: "2026-10-26"
+    date: "2026-11-02"
+    themes: "Threats to Biodiversity"
+    topics:
+      - title: "Overexploitation"
+        path: "topics/Overexploitation.qmd"
+  D2:
+    date: "2026-11-04"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Invasive Alien Species"
         path: "topics/Invasive Alien Species.qmd"
-      - title: "Overexploitation"
-        path: "topics/Overexploitation.qmd"
     background:
       - title: "Invasive Species"
         type: "textbook"
@@ -200,18 +240,9 @@ W10:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 7
         duration_string: "21 pages"
-  D2:
-    date: "2026-10-28"
-    themes: "Threats to Biodiversity"
-    topics:
-      - title: "Invasive Alien Species"
-        path: "topics/Invasive Alien Species.qmd"
-    case_convo:
-      - number: 4
-        topic: "Invasive Alien Species"
-W11:
+W12:
   D1:
-    date: "2026-11-02"
+    date: "2026-11-09"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Climate Change & Biodiversity"
@@ -223,21 +254,19 @@ W11:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 8
         duration_string: "9 pages"
+    case_convo:
+      - number: 5
+        topic: "Climate Change & Biodiversity"
+        path: "case_convos/Case Conversation 5 - Climate Change.qmd"
   D2:
-    date: "2026-11-04"
+    date: "2026-11-11"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Climate Change & Biodiversity"
         path: "topics/Climate Change & Biodiversity.qmd"
-W12:
+W13:
   D1:
-    date: "2026-11-09"
-    themes: "Threats to Biodiversity"
-    case_convo:
-      - number: 5
-        topic: "Climate Change & Biodiversity"
-  D2:
-    date: "2026-11-11"
+    date: "2026-11-16"
     themes: "Approaches to Conservation"
     topics:
       - title: "Ex Situ Conservation"
@@ -249,17 +278,12 @@ W12:
         path_external: "https://www.annualreviews.org/content/journals/10.1146/annurev-animal-050622-104306"
         author_display: "Mirandaet al."
         year: "2023"
-W13:
-  D1:
-    date: "2026-11-16"
-    themes: "Approaches to Conservation"
-    topics:
-      - title: "Ex Situ Conservation"
-        path: "topics/Ex Situ Conservation.qmd"
   D2:
     date: "2026-11-18"
     themes: "Approaches to Conservation"
     topics:
+      - title: "Ex Situ Conservation"
+        path: "topics/Ex Situ Conservation.qmd"
       - title: "Species-Level Approaches"
         path: "topics/Species-Level Approaches.qmd"
     background:
@@ -273,9 +297,15 @@ W14:
   D1:
     date: "2026-11-23"
     themes: "Approaches to Conservation"
+    topics:
+      - title: "Species-Level Approaches"
+        path: "topics/Species-Level Approaches.qmd"
     case_convo:
       - number: 6
         topic: "Species-Level Approaches"
+        leaders:
+          - "Endangered S."
+        path: "case_convos/Case Conversation 6 - Species-Level Approaches.qmd"
   D2:
     date: "2026-11-25"
     themes: "Breaks BIOL4120"
@@ -285,6 +315,12 @@ W14:
 W15:
   D1:
     date: "2026-11-30"
+    themes: "Approaches to Conservation"
+    topics:
+      - title: "Species-Level Approaches"
+        path: "topics/Species-Level Approaches.qmd"
+  D2:
+    date: "2026-12-02"
     themes: "Approaches to Conservation"
     topics:
       - title: "Community & Ecosystem Approaches"
@@ -302,17 +338,17 @@ W15:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 15
         duration_string: "28 pages"
-  D2:
-    date: "2026-12-02"
-    themes: "Approaches to Conservation"
     case_convo:
       - number: 7
         topic: "Community & Ecosystem Approaches"
+        path: "case_convos/Case Conversation 7 - Community & Ecosystem Approaches.qmd"
 W16:
   D1:
     date: "2026-12-07"
     themes: "Approaches to Conservation"
     topics:
+      - title: "Community & Ecosystem Approaches"
+        path: "topics/Community & Ecosystem Approaches.qmd"
       - title: "Landscape-Scale Approaches"
         path: "topics/Landscape-Scale Approaches.qmd"
     background:
@@ -325,9 +361,13 @@ W16:
   D2:
     date: "2026-12-09"
     themes: "Approaches to Conservation"
+    topics:
+      - title: "Landscape-Scale Approaches"
+        path: "topics/Landscape-Scale Approaches.qmd"
     case_convo:
       - number: 8
         topic: "Landscape-Scale Approaches"
+        path: "case_convos/Case Conversation 8 - Landscape-Scale Approaches.qmd"
 W17:
   D1:
     date: "2026-12-14"

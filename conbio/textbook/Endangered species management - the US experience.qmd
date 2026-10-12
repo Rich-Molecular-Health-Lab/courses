@@ -21,7 +21,7 @@ categories:
 
 **Textbook:** Conservation Biology for All *(see details below)*
 
-**Days Covered:** BIOL4120_W13D2
+**Days Covered:** BIOL4120_W13D2, BIOL4120_W14D1
 
 :::
 

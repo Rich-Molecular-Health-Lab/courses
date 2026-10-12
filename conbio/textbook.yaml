@@ -69,6 +69,10 @@
   classes_assigned:
     - class_day: "BIOL4120_W11D1"
       date: "2026-11-02T16:00:00"
+    - class_day: "BIOL4120_W11D2"
+      date: "2026-11-04T16:00:00"
+    - class_day: "BIOL4120_W12D1"
+      date: "2026-11-09T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -95,12 +99,12 @@
   pdf: "lovejoy_2010"
   zotero_uri: "zotero://select/library/items/NEZCSZVN"
   zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/lovejoy_2010.pdf"
-  class_start: "BIOL4120_W11D1"
-  date_start: "2026-11-02T16:00:00"
-  week_start: 11
-  class_end: "BIOL4120_W11D1"
-  date_end: "2026-11-02T16:00:00"
-  week_end: 11
+  class_start: "BIOL4120_W12D1"
+  date_start: "2026-11-09T16:00:00"
+  week_start: 12
+  class_end: "BIOL4120_W12D1"
+  date_end: "2026-11-09T16:00:00"
+  week_end: 12
   author_first: "Lovejoy"
   author_last: "Lovejoy"
   author_display: "Lovejoy"
@@ -249,6 +253,8 @@
   classes_assigned:
     - class_day: "BIOL4120_W15D1"
       date: "2026-11-30T16:00:00"
+    - class_day: "BIOL4120_W15D2"
+      date: "2026-12-02T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -275,11 +281,11 @@
   pdf: "brooks_2010"
   zotero_uri: "zotero://select/library/items/4X2YUC5C"
   zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/brooks_2010.pdf"
-  class_start: "BIOL4120_W15D1"
-  date_start: "2026-11-30T16:00:00"
+  class_start: "BIOL4120_W15D2"
+  date_start: "2026-12-02T16:00:00"
   week_start: 15
-  class_end: "BIOL4120_W15D1"
-  date_end: "2026-11-30T16:00:00"
+  class_end: "BIOL4120_W15D2"
+  date_end: "2026-12-02T16:00:00"
   week_end: 15
   author_first: "Brooks"
   author_last: "Brooks"
@@ -309,6 +315,8 @@
   classes_assigned:
     - class_day: "BIOL4120_W13D2"
       date: "2026-11-18T16:00:00"
+    - class_day: "BIOL4120_W14D1"
+      date: "2026-11-23T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -435,6 +443,8 @@
   classes_assigned:
     - class_day: "BIOL4120_W15D1"
       date: "2026-11-30T16:00:00"
+    - class_day: "BIOL4120_W15D2"
+      date: "2026-12-02T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -461,11 +471,11 @@
   pdf: "rao_ginsberg_2010"
   zotero_uri: "zotero://select/library/items/7LFZ7VDM"
   zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/rao_ginsberg_2010.pdf"
-  class_start: "BIOL4120_W15D1"
-  date_start: "2026-11-30T16:00:00"
+  class_start: "BIOL4120_W15D2"
+  date_start: "2026-12-02T16:00:00"
   week_start: 15
-  class_end: "BIOL4120_W15D1"
-  date_end: "2026-11-30T16:00:00"
+  class_end: "BIOL4120_W15D2"
+  date_end: "2026-12-02T16:00:00"
   week_end: 15
   author_first: "Rao"
   author_last: "Ginsberg"
@@ -637,6 +647,10 @@
       date: "2026-10-21T16:00:00"
     - class_day: "BIOL4120_W10D1"
       date: "2026-10-26T16:00:00"
+    - class_day: "BIOL4120_W11D1"
+      date: "2026-11-02T16:00:00"
+    - class_day: "BIOL4120_W11D2"
+      date: "2026-11-04T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -663,12 +677,12 @@
   pdf: "simberloff_2010"
   zotero_uri: "zotero://select/library/items/FUV6WDYZ"
   zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/simberloff_2010.pdf"
-  class_start: "BIOL4120_W10D1"
-  date_start: "2026-10-26T16:00:00"
-  week_start: 10
-  class_end: "BIOL4120_W10D1"
-  date_end: "2026-10-26T16:00:00"
-  week_end: 10
+  class_start: "BIOL4120_W11D2"
+  date_start: "2026-11-04T16:00:00"
+  week_start: 11
+  class_end: "BIOL4120_W11D2"
+  date_end: "2026-11-04T16:00:00"
+  week_end: 11
   author_first: "Simberloff"
   author_last: "Simberloff"
   author_display: "Simberloff"
@@ -699,6 +713,8 @@
       date: "2026-10-05T16:00:00"
     - class_day: "BIOL4120_W9D2"
       date: "2026-10-21T16:00:00"
+    - class_day: "BIOL4120_W10D1"
+      date: "2026-10-26T16:00:00"
   semesters:
     - "26f"
   course_prefix: "BIOL"
@@ -725,12 +741,12 @@
   pdf: "peres_2010"
   zotero_uri: "zotero://select/library/items/JW8ANPBG"
   zotero_pdf_path: "/Users/aliciamrich/Library/CloudStorage/GoogleDrive-aliciamrich@gmail.com/My Drive/zotero/peres_2010.pdf"
-  class_start: "BIOL4120_W9D2"
-  date_start: "2026-10-21T16:00:00"
-  week_start: 9
-  class_end: "BIOL4120_W9D2"
-  date_end: "2026-10-21T16:00:00"
-  week_end: 9
+  class_start: "BIOL4120_W10D1"
+  date_start: "2026-10-26T16:00:00"
+  week_start: 10
+  class_end: "BIOL4120_W10D1"
+  date_end: "2026-10-26T16:00:00"
+  week_end: 10
   author_first: "Peres"
   author_last: "Peres"
   author_display: "Peres"

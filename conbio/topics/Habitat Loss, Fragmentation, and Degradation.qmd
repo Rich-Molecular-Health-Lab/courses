@@ -15,7 +15,9 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-10-07T16:00:00
+**Dates:** 2026-10-07T16:00:00, 2026-10-21T16:00:00, 2026-10-26T16:00:00
+
+<a class='btn btn-outline-primary p-3 m-2' href='slides/Habitat Loss & Fragmentation/index.html'>Habitat Loss & Fragmentation <i class='fa-solid fa-link'></i></a>
 
 ## Assigned Background
 
@@ -247,31 +249,6 @@ Theme music:
 
 Stock images by Shutterstock
 
------------
-Join us on Patreon! 
-
-https://patreon.com/itsokaytobesmart
-
-Twitter 
-
-http://www.twitter.com/DrJoeHanson
-
-http://www.twitter.com/okaytobesmart 
-
-Instagram 
-
-http://www.instagram.com/DrJoeHanson 
-
-http://www.instagram.com/okaytobesmart 
-
-Merch
-
-https://store.dftba.com/collections/its-okay-to-be-smart
-
-Facebook
-
-https://www.facebook.com/itsokaytobesmartpbs/
-
 ##### Transcript
 
 ###### The history of extinction
@@ -353,6 +330,738 @@ https://www.facebook.com/itsokaytobesmartpbs/
 **8:43** · Stay curious.
 
 **8:44** · If you want to read more about the brilliant and tragic stories of extinction in this age of humans, check out "The Sixth Extinction" by Elizabeth Kolbert, link in the description.
+
+#### Climate change can money stop deforestation
+
+**The Economist**, *11 01, 2022*
+
+##### Video (12:50)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/cOfWyCkcSvg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Rampant deforestation has driven economic growth, but accelerates climate change. How do you put a price on trees, to make them worth more alive than dead?
+
+Film supported by Bain and Company
+
+00:00 - Can money grow on trees?
+
+00:55 - What Costa Rica can teach us
+
+01:52 - Down with the trees: rapid deforestation around the world
+
+03:15 - Why tree-planting schemes aren’t always the answer
+
+04:24 - Paying for existing trees: carbon credits
+
+06:38 - How to finance the restoration of forests
+
+08:10 - What are Payments for Environmental Services?
+
+09:31 - Swapping to sustainable returns
+
+10:40 - Is focusing on economic growth the problem?
+
+11.50 - Why world leaders need to decarbonise the economy
+
+Sign up to our daily newsletter to keep up to date: https://econ.st/3n3kIjj 
+
+Why tree planting alone is not an adequate solution for climate change: https://econ.st/3rC50Oq
+
+How the world’s wealthiest countries cause deforestation in poor ones: https://econ.st/3rBgW3d
+
+The role of forests in climate change - listen to The Economist’s Intelligence podcast about their importance: https://econ.st/3rJ527a
+
+How Jair Bolsonaro has damaged the Amazon rainforest: https://econ.st/3CFQiwa
+
+Sign up to our climate change newsletter: https://econ.st/3b1dtCQ 
+
+A balance-sheet could help to save the planet:https://econ.st/3VcAZSS
+
+Why is the Amazon rainforest doing more harm than good? https://econ.st/3T50KCV
+
+##### Transcript
+
+###### Can money grow on trees?
+
+**0:00** · [Music] money doesn't grow on trees but chopping them down has helped lots of the world get richer since the beginning of the 20th century humans have been raiding these resources almost as though they were Limitless the problem is the world is now paying a heavy environmental price it certainly looks like a crisis after the worst drought in 80 years so is
+
+**0:26** · there a financial solution if we don't change the movement of money we'll continue to finance ourselves into Extinction is paying for trees to be protected and restored the answer and how do you put a price on their worth foreign
+
+**0:51** · to understand the alarming story of deforestation let's start with Costa Rica in the 1980s [Music] Maria's family was typical of many enticed by The Riches of Agriculture her father cleared and converted their Forest to pasture foreign
+
+###### What Costa Rica can teach us
+
+**1:29** · markets with the driving force behind deforestation from 1940 to 1987 the proportion of land in Costa Rica covered by forests plummeted from 75 percent to 21 percent
+
+**1:45** · Costa Rica's experience is far from unique the rest of the world jumped on the bandwagon too humans have been cutting trees for thousands of years but there was a massive acceleration in the last century the U.N estimates around 10 million
+
+###### Down with the trees: rapid deforestation around the world
+
+**2:01** · hectares of forest are being lost each year that's around 27 football fields every minute fewer trees means less carbon dioxide being absorbed from the atmosphere and their destruction only adds more emissions accelerating climate change
+
+**2:24** · The Heart Of This Global crisis sits the world's largest rainforest and the so-called Trump of the tropics jair bolsonaro um from 2019 to 2022 the rate of
+
+**2:41** · deforestation in Brazil Rose by roughly 50 percent attracting critics around the world the problem is it's a bit Rich for wealthy countries to demand that poorer ones give up the economic benefits of deforestation the majority of deforestation in recent
+
+**2:59** · years has really been driven by agriculture expansion in developing countries it can almost seem hypocritical to criticize these developing nations for following a pathway that effectively made rich countries wealthy in previous centuries
+
+###### Why tree-planting schemes aren’t always the answer
+
+**3:15** · so what can be done the simple answer is for rich countries to incentivize poorer ones to protect and restore their forests one thing the wealthy world has tried is stumping up cash for new tree planting schemes but many of these haven't borne
+
+**3:33** · fruit tree planting programs are incredibly popular they can seem almost childishly easy you plant a tree you save the climate the reality of course is nowhere near that simple in terms of the climate it can be far more beneficial to conserve the forest that's there so another way is to focus rewards for
+
+**3:55** · developing countries on conserving existing forests it works like this using historic rates of deforestation a country predicts how much Forest is likely to lose in the future any Forest that it manages to conserve is judged against this Benchmark the
+
+**4:12** · donor hands over a financial reward to the developing country for the trees it saved paying a sum for each ton of carbon dioxide that would have otherwise been emitted it's not just the developing country that stands to gain the donors often
+
+###### Paying for existing trees: carbon credits
+
+**4:28** · rich countries or companies can benefit too in exchange for their money they can claim what's called a carbon credit which they can use to offset their emissions elsewhere Carmen credits are a way of allowing companies countries people who can't
+
+**4:47** · reduce their own emissions currently to offset those emissions elsewhere they are seen as an important part of transitioning towards a net zero economy I started out hugging orangutans but now I find myself hugging asset managers and bankers a bit more often Andrew Mitchell is a zoologist turned financial advisor he encourages investors to buy carbon credits and believes they're an important tool for Forest conservation these credits are hugely valuable it's a
+
+**5:18** · transition strategy whilst you're reducing your carbon emissions you have to buy offsets you should buy offsets it sounds like a win-win but so far the results are mixed Shady players have gained the system and pulled dirty tricks like duplicating credits or
+
+**5:36** · claiming to conserve land never under threat or moving the problem to the forest next door built into the Paris agreement is this consensus that there should be a global scheme for exchanging carbon credits across borders in practice the rules and standards that would govern such a global market have been incredibly difficult to establish and so right now
+
+**6:01** · what we've got is a system which is really unregulated and although standards and the scale of carbon credit schemes are improving there's still one big sticking point the rewards for conserving trees still lag behind those for deforesting we need carbon markets to grow they
+
+**6:22** · won't really achieve their full potential unless the price of offsetting a ton of carbon is competitive with the profits that can be generated from other activities on that land ultimately conservation has to become profitable
+
+###### How to finance the restoration of forests
+
+**6:38** · re-enter Costa Rica once the poster child of deforestation but now a global leader in conservation and an example of how to make saving nature pay here landowners are paid by the government to restore and conserve forests and this has helped to create new and sustainable economic opportunities [Music]
+
+**7:07** · remember Maria whose father made a living out of chopping down trees like many in Costa Rica her family have since branched out and now do the very opposite [Music]
+
+**7:24** · Maria and her grandchildren we plant forests so far 350 hectares worth the government pays them and many other families around 80 a year for each hectare of forest that's restored or kept intact Graces
+
+**7:55** · Ramos [Music] it might sound like a government subsidy scheme but here's the key bit it's not
+
+###### What are Payments for Environmental Services?
+
+**8:12** · it's a system known as payments for Environmental Services launched in the late 90s is paid for by citizens who are seen as benefiting from the services provided by healthy forests like carbon storage the protection of vital food chains and clean water the money is not coming from from the national budget the money comes from those who benefit
+
+**8:38** · Carlos Manuel Rodriguez is Costa Rica's former environment Minister and the brains behind the scheme which is paid for by a levy on consumers water bills and attacks on their fuel use Costa Rica was the first developing country that put a tax on on carbon to
+
+**8:56** · generate a revenue for the payment of Environmental Services everybody who uses fuel in Costa Rica and pollutes the environment contributing to climate change must pay in the price of purchases that fuel an extra amount that
+
+**9:13** · goes to this foreign fund that pays Farmers so far the scheme has invested more than 500 million dollars in the conservation of forests and it's paid off in the space of a generation Forest covering Costa Rica jumped from 21 to more than 50 percent
+
+###### Swapping to sustainable returns
+
+**9:32** · with the restoration of trees have come new opportunities for profitable and sustainable Industries blowing away the idea that conservation and economic development are always at loggerheads nature-based tourism has become naturally important because of our jobs in rural Costa Rica as opposed to what we had in the past which was this irrational unsustainable agricultural production there is no dichotomy between preservation and economic development
+
+**10:05** · since 1987 the peak of deforestation in Costa Rica the country's GDP has risen by an average of 4.2 percent a year Costa Rica isn't a magic formula for saving the world's forests since it began prioritizing conservation it's increased food imports an option not available to all countries but there is a lot Costa Rica can teach others for one thing it's improved some
+
+**10:32** · of its bad spending habits reversing subsidies that incentivize the clearance of land at all costs a lead more countries should follow we should put more money into the protection of nature from governments but the reality is even if we doubled all that money it wouldn't come close to beating the subsidies that
+
+###### Is focusing on economic growth the problem?
+
+**10:52** · directly cause harm to Nature each year the world spends around 150 billion dollars on protecting nature but around 12 times that on subsidies that harm it some campaigners argue a more radical fix is needed to save the volume of forests necessary to avert environmental catastrophe they say what's required is a fundamental shift away from society's focus on profits and growth the problem
+
+**11:20** · with GDP is that it measures everything we build and nothing that we protect it's all beginning to change now people are waking up to the importance of keeping nature going to keep our economy going not everyone supports such a drastic change to economic thinking but
+
+**11:36** · most do agree that change is not happening fast enough with the eyes of many global leaders on other challenges the world is facing multiple crises in the midst of all this there is a risk that nature conservation and the climate crisis are demoted in the pecking order but climate change the global climate does not wait for short-term crises to pass foreign
+
+**12:12** · bullet that will reverse climate change the world needs to urgently reduce industrial emissions and prioritize policies to decarbonize economies but unless trees are worth more alive than dead deforestation and its Devastation will continue I'm Tom standage Deputy editor of The Economist and editor of the world ahead to read more of our future gazing coverage click on the link thanks for watching and don't forget to subscribe
+
+#### Climate change the trouble with trees
+
+**The Economist**, *09 18, 2019*
+
+##### Video (9:44)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/EXkbdELr4EQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Tree-planting has been hailed as a solution to climate change. But how much can trees really do to tackle global warming? See our research here: https://econ.st/32HXvXY
+
+Click here to subscribe to The Economist on YouTube: https://econ.st/2xvTKdy 
+
+Summer 2019 - More than 38,000 fires raged across the Amazon. Fires that were man-made. Over the past 50 years almost 17% of the world’s largest rainforest has been cleared. And globally deforestation has almost doubled in just five years.
+
+Since the start of human civilisation it’s estimated that the number of trees around the world has fallen by almost half. Clearing forests increases carbon-dioxide levels but planting them could store away some of the carbon already in the atmosphere.
+
+This woman runs safaris in England. Guests are not only here to see wild animals - they’re here to see wild trees.
+
+Almost 20 years ago Isabella Tree—yes that is her real name-handed 1,400 hectares of Sussex farmland back to nature, by doing, well nothing. She thinks this is the best way to use the land to help tackle climate change.
+
+To stabilise the climate global carbon emissions need to drop to net zero by 2050. Simon Lewis is a professor of global change science.
+
+And there’s never been more global ambition to plant trees. In 2014, 51 countries pledged to plant over 3.5m square kilometres of forest by 2030 - an area slightly larger than India. The 2030 target looks likely to be met. But there’s a catch… 
+
+Monoculture tree plantations like eucalyptus grow quickly but the trees are harvested every ten or so years releasing much of the carbon stored in the tree back into the atmosphere - which means that, according to some studies they’ll store only around one-fortieth of the carbon natural forests do over the long term.
+
+In fact, those pledges to plant millions of trees actually promise to store 26bn tonnes less carbon than they could. Sometimes the motives for planting forests are less green than they might appear. By 2020 Ireland ought to have cut greenhouse-gas emissions by 20% below 2005 levels. But at current rates it will have reduced them by only 5%. Planting forests might help Ireland avoid massive penalties for missing EU targets because the potential carbon these forests could store in the future can be counted as a carbon credit today. In the 1920s Ireland had the lowest forest cover in Europe at around 1%. That’s now risen to 11% and the government has set a target to cover 18% of the land with forest by 2046.
+
+And now local community groups are protesting against these monoculture tree plantations. They say they’re doing more harm than good.
+
+Tree-planting programmes invariably have an impact on the people living nearby. In east Africa one project is demonstrating what can be achieved
+
+when there’s genuine buy-in from the local communities. Green Ethiopia is a mixed-tree planting charity.
+
+The land is communally owned and co-operatives of local women receive benefits for planting trees which are protected from being harvested. Here conserving is just as important as planting. Green Ethiopia assesses whether the condition of the land is good enough to regenerate by itself. When it is—on about a third of the area the charity runs they leave it alone. Just like Isabella Tree, back in England.
+
+Monoculture plantations are often preferred because they make money. So some experts are looking to a future where carbon payments could create financial incentives for natural forests. Ultimately though, the trouble with trees tackling climate change is space
+
+For more from Economist Films visit: http://films.economist.com/ 
+
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+
+Follow us on Medium: https://medium.com/@the_economist
+
+##### Transcript
+
+###### The deforestation crisis
+
+**0:00** · Summer 2019 More than 38,000 fires raged across the Amazon...
+
+**0:05** · ...fires that were man-made Over the past 50 years...
+
+**0:10** · ...almost 17% of the world’s largest rainforest has been cleared And globally deforestation has almost doubled in just five years Since the start of human civilisation...
+
+**0:23** · ...it’s estimated that the number of trees around the world...
+
+**0:26** · ...has fallen by almost half Clearing forests increases carbon-dioxide levels...
+
+**0:33** · ...but planting them could store away...
+
+**0:35** · ...some of the carbon already in the atmosphere Everyone is looking for a silver bullet...
+
+**0:41** · ...to get our way out of this really difficult problem of climate change Some people have latched on to tree planting as a kind of panacea But the reality is tree planting is not always good This woman runs safaris...
+
+###### The case for wilding
+
+**1:05** · ...in England Guests are not only here to see wild animals...
+
+**1:12** · ...they’re here to see wild trees If you could imagine when we were farming...
+
+**1:19** · ...back in the 1980s, through the 90s...
+
+**1:22** · ...this would have been a field of one particular crop as far as the eye can see Almost 20 years ago Isabella Tree—yes that is her real name...
+
+**1:32** · ...handed 1,400 hectares of Sussex farmland back to nature...
+
+**1:36** · ...by doing, well nothing She thinks this is the best way to use the land to help tackle climate change Wilding is a hands-off approach It’s become a sort of environment that is a nursery...
+
+**1:51** · ...for open-grown, freely regenerating trees Within 20 years we have doubled our carbon sequestered in the soil We’ve got the scrub, we’ve got the grasses, we’ve got the trees...
+
+**2:04** · ...all that will be contributing to this carbon sink To stabilise the climate global carbon emissions...
+
+###### The pitfalls of planting
+
+**2:12** · ...need to drop to net zero by 2050 Of course not all sectors are going to get down to zero emissions by 2050 Simon Lewis is a professor of global change science We need to take some carbon out of the atmosphere...
+
+**2:28** · ...and one of the cheapest and easiest ways is to plant trees Around half the dry weight of a tree is carbon As trees grow they take carbon out of the atmosphere...
+
+**2:40** · ...and store it in their trunks, leaves and roots...
+
+**2:42** · ...which helps slow the rate of climate change And there’s never been more global ambition to plant trees In 2014, 51 countries pledged to plant...
+
+**2:53** · ...over 3.5m square kilometres of forest by 2030...
+
+**2:58** · ...an area slightly larger than India Ethiopia has made its mark in the record books...
+
+**3:05** · ...by planting over 350m trees in a single day The 2030 target looks likely to be met But there’s a catch… When you dig down into the numbers of these forests...
+
+**3:20** · ...almost half the area pledged so far by countries...
+
+**3:24** · ...is actually from monoculture plantations And that means a single species planted over...
+
+**3:31** · ...thousands and thousands of hectares Monoculture tree plantations like eucalyptus grow quickly...
+
+**3:37** · ...but the trees are harvested every ten or so years...
+
+**3:40** · ...releasing much of the carbon stored in the tree...
+
+**3:42** · ...back into the atmosphere...
+
+**3:44** · ...which means that, according to some studies...
+
+**3:46** · ...they’ll store only around one-fortieth of the carbon...
+
+**3:49** · ...natural forests do over the long term It’s made into short-term products like paper...
+
+**3:55** · ...and then when that paper is used and then discarded...
+
+**3:58** · ...it decomposes and that carbon goes back into the atmosphere Simon analysed pledges from 43 countries in the tropics and sub-tropics These big announcements are not going to deliver...
+
+###### Policy and ecological impacts
+
+**4:10** · ...on the carbon capture that we’re expecting If they were all natural forests we would sequester...
+
+**4:17** · ...42bn tonnes of carbon this century In fact, those pledges to plant millions of trees...
+
+**4:25** · ...actually promise to store 26bn tonnes less carbon than they could Sometimes the motives for planting forests...
+
+**4:34** · ...are less green than they might appear By 2020 Ireland ought to have cut greenhouse-gas emissions...
+
+**4:41** · ...by 20% below 2005 levels But at current rates it will have reduced them by only 5% Planting forests might help Ireland avoid massive penalties...
+
+**4:53** · ...for missing EU targets...
+
+**4:55** · ...because the potential carbon these forests could store in the future...
+
+**4:58** · ...can be counted as a carbon credit today In the 1920s Ireland had the lowest forest cover in Europe at around 1% That’s now risen to 11% and the government has set a target...
+
+**5:12** · ...to cover 18% of the land with forest by 2046 In Ireland, they’re rapidly increasing the amount of forest cover But it’s overwhelmingly going towards monoculture plantations of conifers And now local community groups are protesting against...
+
+**5:33** · ...these monoculture tree plantations They say they’re doing more harm than good Because these monoculture plantations are about getting...
+
+**5:42** · ...the maximum yield as fast as possible they often apply fertilisers...
+
+**5:47** · ...which contribute to greenhouse gas nitrous oxide Conifer plantations are very densely stocked...
+
+**5:56** · ...so cut out almost all the light...
+
+**5:58** · ...are very poor for biodiversity and can really affect people living nearby Tree-planting programmes invariably have an impact...
+
+###### Community-led regeneration
+
+**6:09** · ...on the people living nearby In east Africa one project is demonstrating what can be achieved...
+
+**6:15** · ...when there’s genuine buy-in from the local communities Green Ethiopia is a mixed-tree planting charity We plant seedlings in rural areas of Ethiopia...
+
+**6:27** · ...that is heavily affected by degradation due to deforestation The land is communally owned...
+
+**6:34** · ...and co-operatives of local women receive benefits for planting trees...
+
+**6:38** · ...which are protected from being harvested Empowering the local community on tree planting...
+
+**6:47** · ...contributes a lot for the sustainability of our forestation activities...
+
+**6:51** · ...because it creates a sense of ownership The local communities strongly participate...
+
+**6:58** · ...in planting, managing and conserving the sites Here conserving is just as important as planting Green Ethiopia assesses whether the condition of the land...
+
+**7:13** · ...is good enough to regenerate by itself When it is—on about a third of the area the charity runs...
+
+**7:19** · ...they leave it alone Just like Isabella Tree, back in England Perhaps the right way to think about tree planting is...
+
+**7:30** · ...just leave the land and it can do it spontaneously itself There is no need for interventions by humans in most cases But this approach brings its own challenges The problem with this kind of natural regeneration is that...
+
+###### Limits of the tree solution
+
+**7:45** · ...it’s very difficult to get funding The funding is all driven by targets...
+
+**7:51** · ...the numbers game In a regenerated landscape like this...
+
+**7:55** · ...we can’t have any idea of how many oaks there’ll be...
+
+**7:57** · ...or how many crab apples will come Monoculture plantations are often preferred because they make money So some experts are looking to a future where...
+
+**8:07** · ...carbon payments could create financial incentives for natural forests If carbon becomes much more important as a commodity...
+
+**8:16** · ...then perhaps these natural forests would become...
+
+**8:20** · ...more profitable than plantations There’s a real opportunity here to shift the incentives...
+
+**8:27** · ...towards getting benefits for the climate...
+
+**8:30** · ...and benefits for local people and benefits for local wildlife Ultimately though, the trouble with trees tackling climate change is space There’s just not enough land in the world to plant enough trees...
+
+**8:47** · ...to offset all the carbon emissions from fossil fuels We could say let’s restore forest on every single piece of land...
+
+**8:54** · ...that used to have forest on from before agriculture And if we did that it would be about 200bn tonnes of carbon Now that sounds a lot but to put it in context...
+
+**9:05** · ...that’s about 20 years’ worth of emissions at present rates Tree planting might be looked at as a saviour But it’s not It’s not an excuse not to cut fossil-fuel emissions
+
+#### Four years ago we flooded a forest - the results are insane
+
+**Mossy Earth**, *10 02, 2026*
+
+##### Video (16:43)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/qcVMX32c0io title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+After 4 years this forest has completely transformed into a proper flooded forest!
+
+🌊 To support our work you can become a member here: https://mossy.earth
+
+MOSSY EARTH MEMBERSHIP
+
+===============================
+
+The rewilding membership that restores nature across a wide range of ecosystems.
+
+🌲 Support a diversity of ecosystems
+
+🐺 Rewild habitats to bring back biodiversity
+
+🦫 Fund neglected species & ecosystems
+
+Learn more and become a member here: https://mossy.earth
+
+🥾 Visit this and other rewilding projects: https://www.mossyearthjourneys.com/
+
+📝 Field notes channel - https://www.youtube.com/@MossyEarth-FieldNotes
+
+🔗 All our links: https://www.mossy.earth/links
+
+
+💪 OUR PARTNERS IN THIS VIDEO
+
+===============================
+
+BROZ: https://broz.sk/en/
+
+The project was also made possible thanks to the support of the LIFE17 NAT/SK/000621 project.
+
+⏱️TIMESTAMPS⏱️
+
+===============================
+
+0:00 Intro
+
+1:08 Project recap
+
+3:13 Flooded forest
+
+
+🔎 ABOUT THIS PROJECT
+
+===============================
+
+Over recent decades, large swathes of Slovakia’s wetlands have been lost. They have been drained to make way for agriculture as a result of the construction of dams for hydroelectric power, as well as for timber production. Wetlands are an integral part of the Danube floodplain landscape in Slovakia and draining them to plant trees has detrimental impacts on the environment. Wetlands store large amounts of carbon and are home to a diversity of plant and animal species that are specially adapted to the wet conditions. One of these species is the nationally endangered and endemic Pannonian root vole, which has declined drastically in Slovakia in response to disappearing wetlands. This project will turn forest back into a wetland by digging 650 meters of ditches. This will kickstart a “flood” of change and bring back a healthy functioning, sustainable and wilder ecosystem.
+
+Read more about this project here: https://www.mossy.earth/projects/restoring-wetlands
+
+CREDITS
+
+===============================
+
+This project is managed by BROZ
+
+Filming: Julie Schleiss-Andreassen, Duarte de Zoeten, Adriana Brossmannova and Jakub Sigmund
+
+Writing: Duarte de Zoeten
+
+Editing: Duarte de Zoeten and Lana Piršl
+
+Thumbnail: Duarte de Zoeten, Thomas Hikin and Thomas Berry
+
+Subtitles: Thomas Berry
+
+##### Transcript
+
+###### Intro
+
+**0:00** · We flooded this forest and the results have been incredible to witness.
+
+**0:05** · This project started 4 years ago now and since the return of the water year after year, we have seen the return of this wild ecosystem.
+
+**0:13** · A boom of life, a beautiful show of nature's resilience and its ability to come back if we give it a chance.
+
+**0:22** · And this year, we have a lot to show you.
+
+**0:25** · From the transformation of the forest and the channels to some sketchy encounters with larger animals and the most impressive display of life I've ever seen when diving in this flooded forest.
+
+**0:41** · I mean, that is absolutely insane.
+
+**0:45** · I think it's the coolest thing that I filmed in this wetland, in this forest that we have flooded.
+
+**0:52** · And we've been flooding this for 4 years, so it's just really incredible to see this.
+
+**0:58** · And in this video today, I'm really excited to show you how this place has changed over the years and all the amazing wildlife that now calls this flooded forest its home.
+
+###### Project recap
+
+**1:08** · But first, let's recap how we got here and why we're doing this.
+
+**1:12** · This project started because of this dam here, which was built in the 90s and rerouted 85% of the Danube's water away from its floodplain and into a concrete channel.
+
+**1:22** · This left all of these forests that used to flood every year completely dry and reduced fish populations by an astonishing 70% among many other issues associated with the loss of these wetlands.
+
+**1:35** · And since then, our partners, Broz, have been trying to pick up the pieces and bring back some of these ecosystems.
+
+**1:41** · And one of the most important things they achieved was a deal with the relevant authorities to have these simulated floods leave the concrete channel back into the floodplain of the Danube.
+
+**1:52** · So in 2022, when we had already worked with them for a couple of years and funded a few different projects, we finally set out to do something bigger and decided to use 40,000 euros of our rewilding budget to fund the creation of the channels to bring water to some really nice forests from where it had disappeared.
+
+**2:11** · So I was really nervous that it will work, so we just dig it during the dry season and the water came and suddenly we were here and I was really happy that the maps, as I said in the previous video, that they were not lying, so it was really flooding as we planned, as we wanted.
+
+**2:28** · And later on, after a couple of years of successful flooding, money was suddenly required to buy a portion of the land that the government was going to sell, and which Broz wanted to protect, of course.
+
+**2:39** · So we quickly put together the required 31,000 euros to do this, and they managed to buy it.
+
+**2:45** · And of course, the only reason we had these funds ready to go at such a short notice is because of our Mossy Earth members, who have a monthly subscription with us that funds our rewilding work.
+
+**2:55** · So please keep this in mind as you watch this video and the impact that we have made here.
+
+**3:01** · This has been done because of our Mossy Earth members, and if you like what you see, then please consider becoming a member at mossy.earth to allow us to do more of this kind of rewilding across a wide variety of ecosystems.
+
+###### Flooded forest
+
+**3:14** · Now, after four years of successful flooding, I was really excited to show you around, but as I was heading into the wetlands, I ran into some trouble.
+
+**3:24** · So I've just set up camp on top of this log because I was running through these chest-high nettles, and I just kind of kicked down one of them, and literally there was a boar.
+
+**3:38** · Just a boar, like straight.
+
+**3:40** · And then it just thankfully bolted off, and then three other noises, chaos around me, and they just ran away, and it was so sketchy.
+
+**3:52** · That's the closest I've ever been to a boar and getting gored by one.
+
+**3:57** · And as I waited, perched on my log for a bit, I did spot a deer making its way out of the wetland after all of that disturbance.
+
+**4:04** · And when things quieted down, I went into the wetland.
+
+**4:08** · I don't know if you can hear because of all the wind and so on, but in the background, I can hear the first European fire-bellied toads, which is one of the target species of this project.
+
+**4:18** · It's really, really great to be here.
+
+**4:21** · And the wetlands, the flooded area, is as big as I've ever seen it.
+
+**4:25** · It's become denser, it's become really different, and I can't wait to jump in here and go explore.
+
+**4:32** · This wetland is comprised of one channel, which we dug from the nearest existing canal, and the two forests that the water floods.
+
+**4:39** · And to properly show you this place, we spent some days here to uncover as many secrets as possible, and we have a lot to show you.
+
+**4:46** · So let's start now with the first forest up here.
+
+**4:51** · This place has become quite the jungle here.
+
+**4:55** · And it's just like dead wood everywhere creating these underwater mazes for the fish, for the amphibians, for the insects to grow, and of course all the birds that feed on them.
+
+**5:08** · It's become really this place that's dense with life, which is really cool to see.
+
+**5:14** · On the leaves and amongst the floating debris of the forest, we found snails and other invertebrates, and it has these beautiful mating crane flies, this nettle weevil, or this winter damsel fly.
+
+**5:27** · And when we go underwater, we find a whole little world that is quite distinct from other submerged environments, because of how ephemeral it is.
+
+**5:36** · The water comes here only a certain number of weeks each year, and that creates some unique characteristics.
+
+**5:42** · You see, the rapid advance of the water leaves much of the understory intact and submerged, such as the nettles which dominate here when the ground is dry.
+
+**5:50** · And this then forms a protective maze that is ideal for the fish to use.
+
+**5:56** · Now, for obvious reasons, they were quite hard to film here, as they have many places to hide, whenever I would put the camera down.
+
+**6:03** · So we filmed them in the channels instead, which we will look at in a bit.
+
+**6:08** · However, in amongst the trees, we were able to find many fire-bellied toads, and at first I only managed to film one while doing the underwater filming.
+
+**6:17** · But later on, Julie was able to capture them more at ease, with some of them even starting their characteristics song, that always fills our ears here and adds a real magical soundtrack to this place.
+
+**6:30** · So this here is a tree that I recognized from four years ago, because of the real characteristic little arch down there.
+
+**6:37** · It's one of the ones that has died and is now this wonderful piece of, enormous piece of standing dead work, which is really important for the various insects that can take advantage of it.
+
+**6:49** · And where there are insects, there are birds.
+
+**6:52** · First, you spot the swallow, always busy, high up above the wetland amongst the trees.
+
+**6:57** · But when you look closer, you could also find birds lower down, such as this tree creeper that creeps up and down these trunks in search for food.
+
+**7:05** · And then I heard a noise, a very typical one for such a forest, but I only just caught a glimpse of the woodpecker flying towards the lower part of the wetland.
+
+**7:14** · And all this deadwood attracts more than just woodpeckers, it also attracts a chicken of the woods.
+
+**7:21** · So when they are this soft, it's really good.
+
+**7:24** · Have you ever had the Istragov goulash?
+
+**7:26** · Yeah, yeah, yeah. I was not doing goulash, I just mixed them with the ham.
+
+**7:29** · It was like, not ham and eggs, but Ham and Istragov mushroom And one of the evenings I was here, I got to try out these chicken of the woods in some tacos at Sigi's place.
+
+**7:41** · So Sigi, how confident are you?
+
+**7:43** · I hope so. I hope it's a good one.
+
+**7:46** · 95% chance.
+
+**7:47** · 94%.
+
+**7:50** · And they were indeed delicious, so I can highly recommend them.
+
+**7:53** · But please be very careful whenever you pick mushrooms to eat.
+
+**7:57** · This is something else, fallen tree.
+
+**7:59** · You know, maybe a beaver. That would be kind of cool.
+
+**8:03** · I hope they don't dam up our channel.
+
+**8:06** · And wow, look at this. It's just such a jungle here.
+
+**8:12** · I keep saying that, you know, but it is what it feels like.
+
+**8:14** · It feels just overgrown and it's really nice to see it like this.
+
+**8:19** · The transformation here in the channels has been quite impressive.
+
+**8:23** · And as usual, please bear in mind that I'm mixing some shots from past springs here.
+
+**8:27** · But maybe some of them are from early April, whereas this is late April.
+
+**8:31** · So a lot of the greening is just the spring in action.
+
+**8:34** · But many new additions here got nothing to do with the spring, such as the nice mix of willows and other water-tolerant species that now border the channel.
+
+**8:44** · Some of these were planted by Broz, while others are just natural recruitment.
+
+**8:49** · They're, of course, a species that loves water.
+
+**8:51** · I mean, look at the huge willows back there.
+
+**8:56** · But it's still really nice to see that these ones have established themselves well and are now sort of growing here so that this can become more and more like a floodplain forest.
+
+**9:05** · Not just the big forest area up there and the big forest area down there, but the channel also.
+
+**9:11** · I think the visible roots of the willows are really beautiful and striking with their red color, adding a nice element to the banks of the channel and helping stabilize it further.
+
+**9:23** · Then underwater here is where we can easily film the fish.
+
+**9:27** · They go about the channel in shoals that sometimes get pretty large, with a few hundred fish in each.
+
+**9:32** · Now, I'm unable to tell you the exact species of fish, as they are quite young and hard to distinguish.
+
+**9:38** · However, I can tell you how they fit in these forests.
+
+**9:41** · Essentially, every year, as the Danube surges after the winter rain and when the snow of the Alps starts melting, the water reaches forests like this one.
+
+**9:50** · And for fish, this presents a very timely opportunity to quickly sneak into these forests and reproduce.
+
+**9:58** · The young will then grow here in the shelter of the forest where fewer predators can reach them, and then as the water retreats, they will follow it back to the Danube to live out their lives.
+
+**10:08** · Places like this are essentially nurseries, and I'm glad we were able to bring this one back, despite all the damage done by the dam.
+
+**10:16** · I'm really enjoying my little exploration here.
+
+**10:19** · I've been seeing all kinds of really cool stuff.
+
+**10:23** · I've seen a snake swimming along in the water.
+
+**10:27** · I think it must have been hunting for tadpoles and maybe fish.
+
+**10:32** · I don't know. It's really interesting to see it.
+
+**10:34** · And also, I've saw some really big spiders that are resting on these branches.
+
+**10:39** · They're clearly aquatic. It was dangling with its leg in the water.
+
+**10:44** · I've, of course, heard loads of birds and seen them fly by.
+
+**10:47** · I've seen some ducks in the distance that were using the channel before I came and disturbed them.
+
+**10:52** · And just a bit ago, right here, that's why I went to get the camera, I saw what I think is either a shrew or a vole, but a little mouse-like creature.
+
+**11:05** · Super, super cute and right along the edge of the channel.
+
+**11:10** · It's so nice and it gives me really the sense of exploration, of discovering this place anew.
+
+**11:16** · All this life is here because we brought back the water and that is just so satisfying.
+
+**11:22** · There is something really meaningful about restoring a natural process and letting nature play it out from there.
+
+**11:29** · That is why I love doing this work and the reason I think so many of you are here also.
+
+**11:35** · And if that is the case for you, then maybe you should consider joining us by becoming a Mossy Earth member.
+
+**11:41** · Our members fund all our work directly. It is quite simple, actually.
+
+**11:45** · Normal people, like you and me, contribute some money every month.
+
+**11:49** · In our case, the membership starts at the price of a fancy coffee.
+
+**11:52** · And we then put all the contributions together and get on with the rewilding work.
+
+**11:57** · There are no ads, no debt, no investors and, of course, no AI storytelling.
+
+**12:02** · Just normal people coming together to do some rewilding.
+
+**12:06** · And since Matt and I started out in 2017 with 300 bucks of investment between us, we managed to keep our growth organic and balanced, both in how we fund our work and how we grow our teams and impact.
+
+**12:19** · So far, we have four teams on the ground doing amazing work restoring coral reefs, bringing back seagrass, meadows, rewilding a whole river basin and turning a degraded piece of land in the Amazon into a living rainforest rewilding lab.
+
+**12:34** · And we also work with partners in a dozen more countries, from the rivers of Colorado or the forests we are planting in Iceland, all the way to the anti-dessertification research we are funding in Benin or the flooding we have been doing here with Broz.
+
+**12:49** · The common thread is that all our projects are making the landscape wilder and to achieve this, we always try to follow the best available science.
+
+**12:56** · Or we test new ideas and then report our findings openly, including our failures, of course, which is really key.
+
+**13:03** · So if this is the kind of thinking and the kind of work you would like to support, then please consider becoming a member at mossy.earth The link is in the description. Or you can scan this QR code here.
+
+**13:16** · Once I reach the lower forest, I went deeper and deeper and eventually I found more than I had bargained for.
+
+**13:26** · I think the camera really does not convey the size of this thing.
+
+**13:30** · I'd say it's at least an 80 kilo creature and it left me in my best caveman mode impression to make sure there were no other boar around.
+
+**13:38** · Every time this happens to me, it's a very primal feeling.
+
+**13:41** · So I'm curious to hear if you've had any memorable encounters with boar or other large animals.
+
+**13:47** · So please leave your stories in the comments for all of us to read.
+
+**13:52** · And once I calmed down, I started tuning into the forest here and it was just mesmerizing.
+
+**13:59** · The dappled light of the late afternoon reflecting off the water, the droplets falling like rain from the leaves of the willows saturated because of the flood.
+
+**14:09** · I really felt I was there in a floodplain forest of old, of the days before the dam ruined so much of the landscape.
+
+**14:19** · And as I explored further, I also solved the mystery of the woodpecker I saw earlier which had its nest in a small hole here where it is dutifully raising its young.
+
+**14:28** · And it wasn't the only one as I also found a great tit busy flying back and forth to feed its chicks, safely hidden away in the crack of this willow.
+
+**14:38** · And when I reached the place where the forest meets the channel, I changed back into my underwater gear and I quickly ran into a fire-bellied toad that I decided to bother for a few minutes just to try to show you its incredible fire-belly from a different perspective.
+
+**14:53** · I mean, what a unique and beautiful animal.
+
+**14:57** · And once I let it go back into the flooded forest, it was time for me to dive down.
+
+**15:02** · You see, in all these years that I've been documenting this place, I've got to experience many amazing and wonderful things.
+
+**15:09** · I have seen a boom in toads and frogs, a boom in eggs.
+
+**15:14** · But somehow I never timed it just right to see what I think is one of the most impressive spectacles on offer here.
+
+**15:22** · And bit by bit, as I swam along, it started to unfold in front of me.
+
+**15:28** · At first it was just a few stragglers, but soon enough I caught up with a main show.
+
+**15:33** · I mean, look at this explosion of life.
+
+**15:37** · All of these tadpoles determined to live to become residents of this forest.
+
+**15:43** · They're sticking together to survive snakes and herons, they're fighting the current and sometimes they're carefully swimming up to take a breath.
+
+**15:51** · And to think that every year now this explosion of life is happening because we brought water to this place.
+
+**15:58** · It is just incredible.
+
+**16:00** · For me, these fish and these tadpoles are just the perfect representation of what this wetland here has to offer.
+
+**16:08** · It's just such an unusual place to see this bloom of life.
+
+**16:12** · And I think it's really wonderful to see this sheer abundance, especially when it comes to the tadpoles, but also the fish.
+
+**16:19** · They're harder to spot, but they're everywhere.
+
+**16:22** · It's just really fulfilling and amazing to see this.
+
+**16:26** · And if you're a Mossy Earth member, thank you for empowering us to do this.
+
+**16:30** · I hope you are proud of what we have achieved here together.
+
+**16:34** · And if you're yet to join us, please consider doing so at mossy.earth Until next time.
+
+**16:42** · Cheers!
 
 #### Giant Pythons Have Overrun Florida. Here’s Why
 
@@ -916,6 +1625,762 @@ Instagram:  https://instagram.com/pbsterra
 
 **9:14** · 956, wherever you are, I hope that you're getting lots of good urchin snacks. (gentle music) The kelp forest reminds us of the wonder that's out there in nature, sometimes literally right beneath the surface. It's also precious and so fragile. We just have to take it one breath at a time. (gentle music continues)
 
+#### Is “Environmental DNA” the Future of Conservation  Wild Hope Explains
+
+**Nature on PBS**, *04 13, 2026*
+
+##### Video (5:28)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/WG_ryk_0zM8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+What if you could discover every animal in an ecosystem…without ever seeing them? Environmental DNA (or eDNA) does exactly that. By collecting tiny samples of soil, water, or even air, researchers can identify dozens (or even hundreds) of species from the genetic traces they leave behind. 
+
+From tracking predators in Detroit to uncovering rare species in Ecuador’s rainforests, eDNA is helping conservationists make better decisions to protect biodiversity. Learn how it works, why it matters, and how this cutting-edge science is reshaping the future of conservation.
+
+
+Follow us: https://www.instagram.com/wildhopetv/ 
+
+Join our community: https://wildhope.tv
+
+Get our newsletter: http://eepurl.com/irGMng 
+
+Share this with a friend!
+
+##### Transcript
+
+###### The challenge of biodiversity
+
+**0:00** · SPEAKER 1: To protect wildlife, conservationists need to first answer what might seem like a simple question.
+
+**0:06** · Which species actually live in the habitats they're trying to save?
+
+**0:11** · This question might be difficult to answer, especially in dense and complex habitats like rainforests or shifting landscapes around cities.
+
+**0:23** · Ecologists have a long list of methods at their disposal-- radio collars, camera traps, acoustic monitoring, and even good, old-fashioned direct observation.
+
+**0:34** · SPEAKER 2: See where it went down?
+
+**0:35** · SPEAKER 1: But the newest tool has the potential to be the most comprehensive yet.
+
+###### Introducing eDNA
+
+**0:40** · By collecting small samples of soil, water, or air, scientists can now create a genetic roster of every species that calls an environment home.
+
+**0:51** · It's a tool known as environmental DNA.
+
+**1:02** · Here in Detroit, environmental DNA, or eDNA, is revolutionizing our ability to survey wildlife.
+
+###### Urban wildlife tracking
+
+**1:10** · Dr. Nyeema Harris and Dr. Jane Hallam are tracking how predators, like coyotes, travel through the urban landscape and how their range overlaps with the other wildlife, with local pets, and with humans.
+
+**1:23** · Camera traps have been the go-to method for this type of research for decades, but now with eDNA, scientists can detect species without ever catching them on camera.
+
+**1:34** · Animal shed DNA constantly through scat or hair or skin cells.
+
+**1:40** · Samples from a single habitat might contain this so-called trace DNA from dozens or hundreds of wild species.
+
+**1:50** · NYEEMA C. HARRIS: We get that species list from the cameras because we see the images.
+
+**1:54** · When we're collecting the eDNA, we also then get a species list.
+
+**1:58** · So that means when we've collected the soil and we've done the molecular analysis, the DNA that we've detected has come from 24 different mammal species in the city of Detroit, and some of those species we don't actually see on the camera.
+
+**2:15** · SPEAKER 1: EDNA isn't new.
+
+###### Advances in DNA analysis
+
+**2:17** · It's been used to detect wildlife since the early 2000s, but the technology continues to advance.
+
+**2:23** · Today, scientists can identify species using much smaller fragments of DNA than ever before.
+
+**2:30** · Trace DNA collected in the field is replicated through a technique called Polymerase Chain Reaction, or PCR.
+
+**2:37** · It makes millions of identical copies of the genetic material, which can then be cross-checked against a DNA database of known species.
+
+**2:46** · Dr. JANE HALLAM: This is a bit like forensics.
+
+**2:47** · Environmental DNA tends to be quite broken up because it's been exposed to the elements, and it's been broken down by ultraviolet light from the sun.
+
+**2:56** · So that DNA isn't in great shape.
+
+**2:57** · It tends to be in quite small fragments, but that's enough for us to detect the species.
+
+**3:04** · SPEAKER 1: The size of those DNA fragments is key to why environmental DNA is such a powerful technique.
+
+###### Barcoding genetic sequences
+
+**3:10** · For context, the genome of an animal like a coyote includes roughly 2.5 billion base pairs.
+
+**3:16** · But you don't need a complete genome to identify a sample source.
+
+**3:20** · Certain small DNA sequences are shared among all members of a species.
+
+**3:26** · They act like the barcodes you see at the store.
+
+**3:29** · And when fragments of eDNA from the wild are cross-checked against a database of existing barcodes, we can match the fragments to the species they came from.
+
+**3:39** · Early eDNA methods required a barcode 100 base pairs or longer in order to identify a species.
+
+**3:46** · But today, with new sequencing technology and better computing power, fragments as small as 30 base pairs are often enough for a successful species match.
+
+**3:59** · This has broadened the use of eDNA to some amazing extremes.
+
+###### The future of conservation
+
+**4:03** · Even ancient, degraded DNA from soil 2 million years old can reveal extinct species, like woolly mammoths.
+
+**4:13** · And in dense environments like the rainforests of Ecuador, where vegetation makes wildlife surveys difficult, eDNA has become an essential tool.
+
+**4:23** · Traditional genetic analysis can sample just one species at a time.
+
+**4:28** · Now, eDNA can sample hundreds at once.
+
+**4:33** · To the teams on the ground, eDNA is a low-cost, low-disturbance tool that detects species that are otherwise extremely difficult to find.
+
+**4:46** · From the rainforests of Ecuador to the streets of Detroit, results from eDNA are directly impacting environmental policy.
+
+**4:54** · Conservationists everywhere are embracing eDNA, the latest powerful tool at their disposal.
+
+**5:01** · Finally a way to reveal an entire ecosystem worth of life in a single scoop of dirt.
+
+#### New Trees Won’t Solve Global Warming
+
+**Bloomberg Originals**, *04 19, 2023*
+
+##### Video (6:12)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/NIY9kbTIawg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The idea of tree-planting to offset carbon emissions has boomed in recent years. It’s cheap, appealing to consumers and companies, and allows us to feel like we’re “taking action.” But many tree planting programs don’t actually increase forest cover, improve biodiversity or sequester carbon. In this segment from Getting Warmer, climate storyteller Jack Harries explores whether planting trees is actually the best solution to the climate crisis.
+
+
+Getting Warmer is Bloomberg's exclusive new show about climate, clean energy and business, anchored by actor and former White House aide Kal Penn.
+
+Accompany him on his journey as he takes an up-close look at bold climate solutions and discovers new facets of the global transition to clean energy.
+
+In a hosted studio segment, Penn sifts through the overwhelming news about our climate and breaks down the facts and trends to understand with a dose of humor and optimism. Why are the recycling symbols on your plastic cups misleading? How does the carbon credit market work and does it actually help? And what is the future of water in a drought-ridden world?
+
+On the road, Penn meets the innovators, researchers, communities and businesses pivoting to new energy sources and spearheading low-carbon technologies. In documentary segments, Penn speaks to the self-declared “crypto cowboys” of Texas who claim Bitcoin mining can help stabilize the state’s troubled electrical grid, and travels to Nevada to visit the company attempting to build America’s first closed-loop supply chain for electric vehicles. In New York, Penn explores the urban designs proposed to save the city from the next Superstorm Sandy and goes inside New York’s Empire State building to investigate the challenges of decarbonizing our cities and landmarks. 
+
+The show builds on, and includes contributions from, Bloomberg Green’s award-winning team of climate journalists as well as London-based climate storytellers Jack Harries and Alice Aedy. With a focus on the most pressing questions for young viewers, Jack and Alice unpack one big idea each episode. From recycled wastewater to regenerative agriculture and the challenges of a just transition for workers in the energy sector, they’ll break down how countries across the world are finding intriguing solutions to our climate crisis, and outline the challenges ahead.
+
+Watch Getting Warmer starting February 1st at 8p EST streaming on Bloomberg channels on Connected TV Devices including Samsung TV+, LG Channels, and Fire TV. And on & Bloomberg.com.
+
+You can also watch on Bloomberg TV (BTV)  at 10p ET.
+
+##### Transcript
+
+###### The tree planting craze
+
+**0:00** · People deal with anxiety in different ways.
+
+**0:02** · Some people stress clean, some people stress shop.
+
+**0:06** · And when it comes to our climate anxiety, well, we've been stress planting.
+
+**0:10** · Officials in Ethiopia say a new record has been set with more than 200 million trees planted in just one day.
+
+**0:16** · Today we will be planting 20 million trees.
+
+**0:20** · Who's against the trees?
+
+**0:21** · I mean the tree, everyone's for the trees.
+
+**0:23** · 23 year old Quebecer Antoine Moses broke the world record for the amount of trees planted.
+
+**0:29** · Important people around the world agreed and decreed that planting trees is a great path towards climate redemption.
+
+**0:36** · We can get real on coal, cars, cash and trees.
+
+**0:41** · But as we start to realize how problematic tree planting programs can be, is this path truly as redeeming as we thought?
+
+###### The appeal of simple solutions
+
+**0:55** · The idea of planting trees to solve the climate crisis has taken off in recent years.
+
+**0:59** · Everyone and their mother are behind it.
+
+**1:01** · Seriously, my mom loves planting trees.
+
+**1:04** · It's funny 'cause my mom is actually known like in the local area we grew up for as a tree planter, like a controversial tree plant planter.
+
+**1:11** · Okay.
+
+**1:12** · In the 2019 UK general election, parties fought over who can out-plant one another.
+
+**1:17** · It makes everyone look good.
+
+**1:23** · The logic is clear.
+
+**1:24** · Trees absorb a lot of carbon.
+
+**1:26** · The bigger the tree gets, the more of it there is and the more carbon is absorbed from the air.
+
+**1:31** · Exactly what we need.
+
+**1:32** · It's hard to pinpoint what started this craze.
+
+**1:35** · Some say it was the 2011 Bond Challenge.
+
+**1:37** · The largest restoration initiative the world has ever known.
+
+**1:40** · Others chalk it up to the controversial 2019 paper, which argued that planting trees is our most effective climate solution to date.
+
+**1:48** · This was picked up by almost 600 media outlets and inspired all sorts of mass initiatives.
+
+**1:54** · And here we are today, in a world where climate solutions are extremely complicated and technical.
+
+**1:59** · The simplicity of putting a tree in the ground is refreshing and reassuring.
+
+**2:03** · A breakthrough in the fight against pollution and dirt is the inimitable unique irreplaceable tree.
+
+**2:10** · But it's also the reason why we've taken this solution a little bit too far.
+
+**2:14** · If the idea that you can simply invest a little money and make your carbon footprint disappear sounds too good to be true, that's because it absolutely is.
+
+###### Problems with mass planting
+
+**2:23** · And in our quest to meet demand from individuals, governments, and corporations, we're disregarding the complicated nature of our forest ecosystem.
+
+**2:31** · And this can be hugely damaging to the environment.
+
+**2:35** · We're planting almost 2 billion trees a year around the world, and we're doing that through many tree planting programs that simply don't work.
+
+**2:43** · In 2019 in Turkey, 11 million trees were planted in just one day, but many were planted at the wrong time and in the wrong place.
+
+**2:51** · And although the government denies it the country's forestry union claims that 90% of the saplings died within months.
+
+**2:59** · Tree planting also requires way too much land and can potentially take away from land that we need to grow food and support existing ecosystems and habitats.
+
+**3:08** · And we're starting to do some frankly stupid things to find room for all the trees we need to plant.
+
+**3:13** · Like literally chopping down other trees so that we can plant new ones.
+
+**3:17** · Seriously, are we actually doing that?
+
+**3:19** · Crazy.
+
+**3:20** · Not to mention we are screwing with biodiversity along the way.
+
+**3:23** · Most large scale tree planting programs are monoculture plantations, meaning that only one or two types of trees are planted.
+
+**3:30** · Species that are often not native to the area and fast growing.
+
+**3:34** · These plantations disrupt natural ecosystems and often decreased biodiversity.
+
+**3:39** · For example, according to recent research, mass tree planting efforts in China and Brazil are responsible for actually degrading vast areas of land.
+
+**3:47** · And the legal loopholes don't help either.
+
+**3:49** · Tree plantations are technically classified as forests by the U.N., so they get blindly pushed as solutions to reverse deforestation.
+
+**3:56** · You know what else qualifies as a forest?
+
+**3:58** · London?
+
+**3:59** · Seriously.
+
+**4:00** · It has enough trees to meet the legal U.N. definition.
+
+**4:03** · We pat ourselves on the back for replacing one forest with another forest.
+
+**4:07** · Problem fixed.
+
+**4:08** · This is causing complacency which is another huge problem when it comes to the tree planting craze.
+
+**4:13** · All this work on one solution makes us think that we've solved the entire climate crisis which is a whole world of wrong.
+
+**4:20** · Because this crisis is complicated.
+
+**4:22** · And whether we like it or not the solutions are complicated too.
+
+###### Better paths forward
+
+**4:25** · Planting trees can distract from the core issues of the climate crisis like burning fossil fuels and the socioeconomic pressures that led us here in the first place.
+
+**4:33** · Let's make one thing clear.
+
+**4:34** · Planting trees is not in itself a bad thing.
+
+**4:37** · There's actually a lot of evidence that when it's done properly, it works.
+
+**4:41** · In Brazil, 2.7 million native trees have been planted in this southern region.
+
+**4:45** · This region is home to vulnerable species like this little guy.
+
+**4:49** · Isn't he cute?
+
+**4:50** · These trees ended up creating forest corridors that helped tamarin populations recover.
+
+**4:55** · But you know why it worked in this case?
+
+**4:57** · Because the trees planted were native to the land which means that they were useful to the locals who built their lives around that resource.
+
+**5:04** · Consulting indigenous communities was crucial in the success of this project.
+
+**5:09** · But ironically, what's simpler than planting trees is, well, protecting trees.
+
+**5:13** · Letting forests grow back is not only cheap and easy but also more effective at our ultimate goal.
+
+**5:19** · Sucking carbon out the atmosphere.
+
+**5:22** · Natural and biodiverse forest can store up to 40 times more carbon than plantations.
+
+**5:28** · Like a fine wine, trees only get better with age.
+
+**5:31** · They stand grand and majestic, witness to humanity's time here on earth.
+
+**5:36** · They're also efficient beings, always working to make this planet a better place for us.
+
+**5:41** · So as far as this problem is concerned, maybe the answer isn't some radical human innovation but maybe the best thing we can do is to simply get out the way and let nature do its thing.
+
+#### Ocean Habitat Loss
+
+**United Nations Development Programme (UNDP)**, *06 30, 2017*
+
+##### Video (1:01)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/FnlS8k1WenE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+
+
+##### Transcript
+
+**0:00** · if this paddling pool full of mangroves represents all of the mangrove trees in the world in 1900 then over the last 100 years we've seen a dramatic loss of approximately 35% mangroves help protect coastal areas from storms soak up carbon dioxide and
+
+###### Mangroves help protect coastal areas from storms, soak up CO2
+
+**0:20** · provide refuge for many fish species to grow and Thrive coral reefs which are abundant with life and provide food and jobs for tens of millions of people have declined by 20% and seagrass which stores carbon
+
+###### Coral reefs, which are abundant with life.
+
+
+###### And seagrass, which stores carbon and protects many marine species
+
+**0:37** · and protects many marine species has been reduced by 29% in the last century and continues to decline we must reverse this trend and protect ocean habitats they are vital resources for Humanity providing food and jobs and they can be restored [Music]
+
+#### One fifth of the Amazon rainforest lost to deforestation  BBC News
+
+**BBC News**, *09 24, 2024*
+
+##### Video (2:27)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ZU4XH-C3Kpk?start=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The Amazon rainforest has lost an area the size of Germany and France combined to deforestation in the last 40 years.
+ 
+One fifth of the Amazon has been lost as a result of deforestation, agricultural farming, and climate change.
+ 
+Professor Michael Sweet of the University of Derby said rivers in the Amazon are also “starting to dry out."
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#Amazon #ClimateChange #BBCNews
+
+##### Transcript
+
+###### Amazon deforestation report
+
+**0:00** · and talk about this new study that shows that the world's biggest rainforest, the Amazon, has lost an area the size of Germany and France combined to deforestation in four decades. Let's show you this image. It's a map showing the scale of the Brazilian rainforest in 1985.
+
+**0:16** · The dark green section is the Amazon.
+
+**0:18** · Now, look at this.
+
+**0:20** · The same country in 2023.
+
+**0:24** · And you can see how much of the forest has disappeared. Let's speak to Professor Michael Sweet, head of the Nature-Based Solutions Research Centre at the University of Derby. Very good to have you with us, Michael. I think it almost needs repeating, doesn't it? The Amazon has lost an area the size of Germany and France combined in four decades. Just take us through what's happening to one of the world's most precious resources.
+
+###### Expert analysis of loss
+
+**0:50** · Yeah, so that's that's 12.5% of the Amazon's cover. Um, previously people have been talking about deforestation of around 17%. Uh, so it's it's not unsurprising this value.
+
+**1:03** · Um, but it's the first time that it's been cataloged in in such a reliable method. So, that's 1/5 of the entire Amazon, which is is now gone.
+
+**1:14** · Um, but it gets even worse than that because unfortunately the more more and more hectares are at threat. So, it's thought to be about 38% of the forest as well, on top of that, are actually in a degraded state.
+
+**1:27** · And Michael, this is the fault of humankind?
+
+###### Causes and environmental impact
+
+**1:30** · Yeah, so sadly it's mostly deforestation associated with agriculture for the most part.
+
+**1:38** · But then it's also entwined and linked with aspects of climate change, which again are anthropogenically driven. So, human derived climate change.
+
+**1:48** · And that's causing the forests to dry out a lot more. So, they're they're witnessing less rain. And so, So Amazon, on top of losing the trees, the important tree aspect, and obviously the biodiversity which goes with that, as the rivers are starting to dry out as well. And obviously the Amazon is famous for its river, as well as being the lungs of our planet as the trees are concerned.
+
+**2:12** · And we're now starting to see devastating effects with this recently 120 of the the endangered river dolphins being found dead as the river subsides.
+
+**2:24** · Professor Malhi, thank you very much for joining us.
+
+#### Seed Dispersal and Habitat Fragmentation  HHMI BioInteractive Video
+
+**biointeractive**, *06 07, 2017*
+
+##### Video (8:02)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/0m6AjWZ2p8I title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Watch researchers follow brown spider monkeys in a tropical forest of Colombia to determine which plant seeds they are dispersing. Seed dispersers are critical to the forest’s ability to grow and regenerate. 
+
+As the tropical forests of Colombia are cleared for farmland and cattle ranches, the remaining patches of forest become fewer, smaller and further apart from each other threatening the survival of the animals that live there, including brown spider monkeys. Brown spider monkeys are critical seed dispersers and as their numbers decrease the forest is less able to regenerate. Andres Link and Carolina Urbina Malo of Los Andes University in Colombia are identifying the seeds that spider monkeys disperse to better understand the monkeys’ role in the forest and to predict which plants will be most affected by fragmentation. Once the seeds have been catalogued, Link and colleagues replant them to create corridors between isolated patches of forest.
+
+For more information and related materials, visit HHMI BioInteractive: https://www.biointeractive.org/classroom-resources/seed-dispersal-and-habitat-fragmentation
+
+##### Transcript
+
+**0:00** · [INSECTS CHIRPING] [MUSIC PLAYING] SPEAKER 1: The tropical forests of Colombia are home to a myriad of plant and animal species.
+
+**0:19** · Like many of the world's forests, this one in the Middle Magdalena Valley is also under threat.
+
+**0:25** · As Colombia's human population grows, huge swaths of forest are cleared for farmland and cattle ranches.
+
+**0:32** · The remaining patches of forest become fewer and further apart from each other, in a process ecologists call habitat fragmentation.
+
+**0:40** · Fragmentation threatens the survival of all animals that live in the forest, by reducing the amount of habitat.
+
+**0:45** · And converting what's left to patchy, disconnected areas.
+
+**0:50** · That is particularly true for the largest primate in the Americas-- the brown spider monkey.
+
+**0:55** · They rely on trees for their food and shelter.
+
+**0:58** · And a continuous forest canopy acts as a highway, providing them the freedom to move.
+
+**1:02** · ANDRES LINK: The situation with brown spider monkeys in Colombia, is very, very critical.
+
+**1:07** · They've lost more than 80% of their forests.
+
+**1:10** · SPEAKER 1: It's clear that spider monkeys rely on forests to survive, but do the forests also rely on spider monkeys?
+
+**1:16** · [MUSIC PLAYING] Wind, water, or animals can carry seeds from a parent plant to new locations.
+
+**1:33** · The seeds of tropical tree species are primarily dispersed by animals that eat fruits.
+
+**1:38** · SPEAKER 2: Many animals eat hundreds and hundreds, if not thousands, of fruits in a day.
+
+**1:44** · Most of them will swallow the seeds and will defecate them in other places.
+
+**1:49** · And through this process, disperse them in different parts of the forest.
+
+**1:54** · SPEAKER 1: Spider monkeys eat large amounts of fruits to support their size.
+
+**1:57** · And are likely, a major seed disperser in Colombian forests.
+
+**2:01** · When seeds simply fall in the forest, they end up near their parent tree.
+
+**2:05** · Here, seeds compete with other seeds from the same tree.
+
+**2:09** · Their chances of survival are low, but seeds that are carried away by spider monkeys and other dispensers are more likely to survive and grow into a healthy plant.
+
+**2:20** · Fragmentation reduces forest regeneration in two ways.
+
+**2:24** · It decreases the number of seed dispensers.
+
+**2:26** · And it limits how far they can safely travel.
+
+**2:30** · Andres Link and his colleagues have come to the middle Magdalena Valley to measure how many seeds spider monkeys are dispersing.
+
+**2:36** · And from which tree species.
+
+**2:38** · ANDRES LINK: So we started to wonder, what is the role of these primates in the dispersal of seeds of many plant species?
+
+**2:45** · CAROLINA URBINA MALO: They help to regenerate the forest, and it's very important to know which species are they eating because in that way, we know which species are going to spread and which are not.
+
+**3:06** · SPEAKER 1: The first step is to collect the seeds dispersed by an individual monkey in a day.
+
+**3:13** · SPEAKER 2: And what we do, literally, is to follow them the whole day long.
+
+**4:01** · We see that they're going to defecate, and we pay close attention.
+
+**4:06** · But also, normally we hear that some seeds fell that a monkey defecated.
+
+**4:10** · Then you can hear it, how it sounds when it hits the leaves and the ground.
+
+**4:17** · But when we can't find it, what we do is that we rely on those animals that are specialists in getting to these fecal samples.
+
+**4:29** · We just have to stay really still.
+
+**4:31** · A couple of seconds, you'll start hearing some buzzing that increases and increases in sound.
+
+**4:37** · CAROLINA URBINA MALO: The dung beetles have a very particular sound.
+
+**4:42** · So you will follow the sound, look for that dung beetle.
+
+**4:46** · And they will be making a little bowl from the poop that you want.
+
+**4:51** · So you will just take it.
+
+**4:58** · SPEAKER 2: So we have some dung beetles here collecting the poop.
+
+**5:03** · So there must be seeds around.
+
+**5:06** · And we can find something here.
+
+**5:07** · We collect each fecal sample in an individual plastic bag.
+
+**5:14** · And we put an individual number to each bag because we're interested in quantifying, not only seed dispersal of the species, but also the ability of each individual.
+
+**5:24** · Or the amount of seeds that it can disperse in a single day.
+
+**5:28** · Or to find difference between males and females or.
+
+**5:30** · In matures and mature animals.
+
+**5:35** · A single spider monkey can defecate, probably, between 13 and 17 times a day.
+
+**5:42** · And this is only one monkey.
+
+**5:44** · And these will represent 100, if not thousands, of seeds that a single monkey disperses in this forest.
+
+**5:55** · SPEAKER 1: They clean the seeds they've extracted so they can be further characterized and cataloged.
+
+**6:01** · This work takes place back in their lab, in Bogota.
+
+**6:08** · ANDRES LINK: In the Middle Magdalena, these spider monkeys can disperse about 100 species or maybe more.
+
+**6:15** · As we learn about the important role of spider monkey seen in dispersing the seeds of many plants.
+
+**6:20** · And at the same time, we see how populations are declining.
+
+**6:23** · We start to worry a lot about the future of these forests.
+
+**6:26** · SPEAKER 1: With fewer spider monkeys, the forest is less able to regenerate, further decreasing the spider monkeys habitat.
+
+**6:33** · Researchers are trying to break this cycle by replanting the seeds they found.
+
+**6:38** · They plant them in deforested areas that are no longer used for agriculture.
+
+**6:42** · They will grow into the trees that monkeys need for food and shelter.
+
+**6:47** · ANDRES LINK: So what we do is that we collect those seeds, and we plant them in areas that have been degraded.
+
+**6:53** · Especially, we planned them in areas that we have identified that can be potential corridors between isolated patches of forest.
+
+**7:00** · SPEAKER 1: Growing these trees in the areas between forest patches will allow spider monkeys to move from one patch to another, increasing both their chances of survival and their ability to disperse seeds.
+
+**7:11** · ANDRES LINK: We really think this process of restoration and connecting these forests will provide a future scenario that is much nicer.
+
+**7:19** · A future scenario in which monkeys will not depend on us to have a viable population going on there and surviving without the need of our assistance.
+
+#### The Everyday Ingredient Destroying the Planet
+
+**Bloomberg Originals**, *04 05, 2023*
+
+##### Video (11:56)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/8Nj_kIiyrwQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Kal Penn investigates the damage being done by the palm oil industry in Indonesia. The product is used in everything from cookies to shampoo, but its production has laid waste to forests all over the globe. With only 20% of palm oil deemed sustainable, Penn looks for solutions, including a UK startup with a lab-made version. But can fake palm oil compete with nature in quality and price?
+
+
+Getting Warmer is Bloomberg's exclusive new show about climate, clean energy and business, anchored by actor and former White House aide Kal Penn.
+
+Accompany him on his journey as he takes an up-close look at bold climate solutions and discovers new facets of the global transition to clean energy.
+
+In a hosted studio segment, Penn sifts through the overwhelming news about our climate and breaks down the facts and trends to understand with a dose of humor and optimism. Why are the recycling symbols on your plastic cups misleading? How does the carbon credit market work and does it actually help? And what is the future of water in a drought-ridden world?
+
+On the road, Penn meets the innovators, researchers, communities and businesses pivoting to new energy sources and spearheading low-carbon technologies. In documentary segments, Penn speaks to the self-declared “crypto cowboys” of Texas who claim Bitcoin mining can help stabilize the state’s troubled electrical grid, and travels to Nevada to visit the company attempting to build America’s first closed-loop supply chain for electric vehicles. In New York, Penn explores the urban designs proposed to save the city from the next Superstorm Sandy and goes inside New York’s Empire State building to investigate the challenges of decarbonizing our cities and landmarks. 
+
+The show builds on, and includes contributions from, Bloomberg Green’s award-winning team of climate journalists as well as London-based climate storytellers Jack Harries and Alice Aedy. With a focus on the most pressing questions for young viewers, Jack and Alice unpack one big idea each episode. From recycled wastewater to regenerative agriculture and the challenges of a just transition for workers in the energy sector, they’ll break down how countries across the world are finding intriguing solutions to our climate crisis, and outline the challenges ahead.
+
+Watch Getting Warmer starting February 1st at 8p EST streaming on Bloomberg channels on Connected TV Devices including Samsung TV+, LG Channels, and Fire TV. And on & Bloomberg.com.
+
+You can also watch on Bloomberg TV (BTV)  at 10p ET.
+
+##### Transcript
+
+###### The ubiquitous palm oil
+
+**0:03** · Palm oil.
+
+**0:04** · You've probably heard of it, yet don't know exactly what it is.
+
+**0:08** · But unless you're on an exclusive nut and berry diet you're probably eating some today.
+
+**0:13** · Or at least rubbed some on your body this morning.
+
+**0:18** · The miraculous, versatile substance is used in thousands of everyday products, from chips and ice cream to shampoo and fuel.
+
+**0:27** · On average, we consume about eight kilograms, or around 18 pounds of palm oil every year.
+
+**0:35** · It comes from the red fruits of an oil palm tree.
+
+**0:43** · Palm is usually not a whole ingredient in something, with the exception of cooking oil.
+
+**0:50** · We're often using a fraction.
+
+**0:52** · It's a part of the fruit, a part of the oil, so it's really easy for that to be invisible within a product.
+
+**1:01** · Seems like the ultimate natural resource, right?
+
+**1:03** · Just pick the fruit off the tree and make stuff with it.
+
+**1:06** · But palm oil has become very controversial in recent years for its cost on the environment.
+
+###### Environmental controversy
+
+**1:12** · Vast swaths of forests have been burned by farmers to make way for oil palm plantations, causing the wholesale destruction of natural habitats, and ultimately contributing to climate change.
+
+**1:24** · There have also been reports of serious labor rights abuses in the industry.
+
+**1:57** · Despite public and private sector efforts to mitigate palm oil's environmental impact, only 20% of the world's palm oil is certified as sustainable today.
+
+###### Seeking sustainable solutions
+
+**2:07** · Like most problems related to the climate crisis there doesn't seem to be one clear solution.
+
+**2:13** · The damage being done by the palm oil industry is significant and not going away anytime soon.
+
+**2:19** · But farmers, big companies, and scientists are working in their own ways to try to chip away at its negative effects.
+
+**2:27** · The way that we produce food now is a modern miracle, but it's also having an enormous impact on the environment.
+
+**2:33** · We have to create changes.
+
+**2:34** · We have to work towards creating these novel foodstuffs, which have much lower impact, which are healthy, and delicious, and different to what we had before.
+
+###### Smallholder farmer challenges
+
+**3:26** · Edy is one of 16 million people working in the palm oil industry in Indonesia, the world's biggest palm oil producer, churning out about 47 million tons in 2020 alone.
+
+**4:00** · About 40% of the oil palm plantations in Indonesia are owned by small scale farmers like Edy, who have less than 25 hectares of land.
+
+**4:10** · But many small holders didn't have an understanding of sustainable farming.
+
+**4:14** · Slashing and burning the forest was common because it was the cheapest and fastest way to make land to grow oil palm trees.
+
+**4:22** · Between 2005 and 2013, almost half of the deforestation in Indonesia was linked to oil palm cultivation.
+
+**4:30** · 2015 was the worst year.
+
+**4:32** · Between June and October, fires burned an area roughly the size of Rwanda, or the US state of Maryland.
+
+**4:40** · Researchers linked the toxic haze, which lingered for weeks, to more than 100,000 premature deaths in Indonesia, and in neighboring countries like Malaysia and Singapore.
+
+**5:07** · In 2016, Indonesian president Joko Widodo imposed a moratorium on new permits for clearing forest and peatland for oil palm cultivation.
+
+**5:18** · Deforestation linked to palm oil is still happening, but educational campaigns and stricter law enforcement have reduced it significantly.
+
+**5:28** · More farmers like Edy have joined small holders associations like this one.
+
+**5:32** · With financial support from NGOs and big companies, they've got certification from institutes like the Roundtable on Sustainable Palm Oil, or RSPO.
+
+**5:42** · Sustainable palm oil has to meet strict standards, such as using best farming practices, conserving the environment, and considering employees benefits and rights.
+
+**5:52** · But Edy's only one of a tiny number of certified small holders because many farmers don't have the resources or access to get certified.
+
+**6:00** · And challenges still remain after being certified.
+
+###### Big oil industry impact
+
+**6:28** · The other piece of the puzzle is big palm oil companies.
+
+**6:35** · Here at Golden Agri-Resources, we have more than 500,000 hectares of palm oil plantations across Indonesia, but we also buy fresh fruit bunches from other producers of palm.
+
+**6:48** · And so we actually trade and process closer to around six to eight million tons of what's called crude palm oil, or palm related products.
+
+**7:00** · Harvested fruit bunches are sent to mills and then refineries for processing.
+
+**7:06** · The outer orange part of the fruit creates crude palm oil, which can be turned into many different products, like cooking oil and biofuel.
+
+**7:14** · The white creamy substance inside the kernel creates palm kernel oil, which is used in cosmetics, soaps, and hand sanitizers.
+
+**7:24** · In the past, criticism of the industry in terms of its impact on forests, wildlife, and even on local communities, sadly, was justified.
+
+**7:41** · We wanna be able to produce the equivalent of a million hectares of land on that half a million hectares of land.
+
+**7:48** · So focusing on using biotechnology techniques, but also really good farming practices.
+
+**7:56** · But full traceability of the supply chain still remains a challenge.
+
+**8:00** · Third party plantations are usually in remote locations spanning millions of hectares.
+
+**8:06** · Another challenge is consumer commitment.
+
+**8:08** · About 20% of the world's palm oil was certified as sustainable, but buyers only bought half of it.
+
+**8:15** · So the greatest demand still comes from buyers in Europe and the US, to a certain extent Australia.
+
+**8:22** · However, the largest volumes are sold in countries like Indonesia, Malaysia, India, and China, where demand for a sustainable product is still very low.
+
+###### Developing lab alternatives
+
+**8:40** · Making palm oil production sustainable is crucial, but some scientists are hoping we could stop using it completely.
+
+**8:46** · But the researchers working on an alternative to palm oil will need to ensure their products are competitive in quality and price.
+
+**8:54** · Ultimately, there's no mystery to palm oil.
+
+**8:56** · It's a relatively simple group of compounds of which other organisms can make as well.
+
+**9:01** · And that's what we've been able to mimic with the yeast.
+
+**9:04** · So this process is very similar to brewing beer, technology we've known about for thousands of years.
+
+**9:10** · Where, when you brew beer, you take sugars and grow a brewing yeast on them, which produces ethanol, which we can drink.
+
+**9:18** · In our process, we're using natural yeast, which naturally make edible oils.
+
+**9:24** · Finding the right yeast is key.
+
+**9:26** · After a few years of researching and experimenting, the team found metschnikowia pulcherrima, a yeast that grows on the surface of grapes all over the world.
+
+**9:35** · And then they spent another eight years developing the yeast and the process to grow it.
+
+**9:40** · Here, we have to use large drums of eight kilograms of the sugar.
+
+**9:44** · It's dragged into the reactor here and then fed to the yeast.
+
+**9:47** · Now here we have 50 liters of culture, and this is enough to make kilograms of yeast in a week.
+
+**9:54** · This is also a really good mimic to demonstrate what an industrial process will truly look like on the large scale.
+
+**10:02** · So the yeast we selected at first didn't make much oil, but it had a number of other attributes which allow us to produce it on the large scale.
+
+**10:10** · So it could be produced under a wide temperature range.
+
+**10:14** · It could be produced under a wide range of pHs.
+
+**10:17** · It also can use a whole range of sugars, saccharides, and proteins to grow, which allows us to use waste resources very efficiently.
+
+**10:25** · The team has completed research and development, successfully fed the yeast with waste food like coffee grounds, and agricultural leftovers like wheat straw and sawdust.
+
+**10:35** · Now, they're running a pilot, producing kilograms of palm oil substitute per week.
+
+**10:40** · And aim to increase that to tons per week within a year.
+
+**10:44** · So here we have the yeast.
+
+**10:45** · And you have these giant cells, which are then full of oil, which we can extract.
+
+**10:51** · A startup has been spun out from the project, raising over $2.5 million, with the goal to bring the product to grocery store shelves.
+
+**10:59** · In the last few decades, we've seen people really starting to choose alternative products, alternative analogs to meat, for example.
+
+**11:06** · Products like yeast protein from corn.
+
+**11:09** · We see ourselves as continuing that journey and being the next generation of novel foods.
+
+###### Future of the industry
+
+**11:15** · Regardless of what the future holds, the palm oil industry needs to make serious changes today.
+
 #### The Florida River Becoming a Refuge for Manatees  WILD HOPE
 
 **Nature on PBS**, *01 08, 2024*
@@ -1206,6 +2671,837 @@ Share this with a friend!
 
 **15:31** · ♪ ♪ ♪
 
+#### The story of Knepp A rewilding success  Field Studies
+
+**Natural History Museum**, *01 11, 2023*
+
+##### Video (8:32)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/0JpilefdeBc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The UK is one of the most nature depleted countries in the world, but the Knepp Estate in southern England is trying to change that. Over the past 20 years they have set about rewilding the estate, turning it from a degraded farm to a thriving wildlife habitat.
+
+Find out how they are doing this, and why it is helping in the fight against the biodiversity crisis. 
+
+See more on exciting projects at the Knepp Estate here: https://www.youtube.com/playlist?list=PL6w4ihPqk5_IYa4WU1n1fNxkRL-d4sKiC 
+
+00:00 Intro
+
+1:50 What is the Knepp rewilding project?
+
+3:03 Is rewilding successful at Knepp?
+
+4:18 Reintroducing white storks and beavers to the UK countryside
+
+5:36 Why is rewilding important?
+
+7:02 What is the future of rewilding?
+
+##### Transcript
+
+###### Intro
+
+**0:00** · أهلا بالجميع نحن في مجموعتنا من الرخويات اليوم مع الباحثة سوزان ويليامز، وقد اكتشفنا كل شيء عن نوع معين من الرخويات، نوع من الرخويات البحرية يسمى أرنب البحر.
+
+**0:12** · الآن، إذا لم تشاهد هذا الفيديو، تحقق منه، الرابط موجود على الشاشة وفي أسفل الوصف.
+
+**0:17** · لكن لدينا بعض العينات الأخرى الخاصة جدًا والتي سننظر إليها اليوم أيضًا.
+
+**0:22** · ولكن دعونا نبدأ مع تلك الأرانب البحرية سوزان ما الذي نتحدث عنه هنا؟ الرخويات البحرية؟ نوديبرانش، وهي من الرخويات البحرية وهم من الحلزونات البحرية الجميلة جدًا والملونة جدًا.
+
+**0:34** · إنهم لا يشبهون البزاقات الموجودة في الحديقة على الإطلاق.
+
+**0:36** · إنهم جميلون للغاية وهم متنوعون جدًا أيضًا أرنب البحر هو لقب واحد لنوع واحد من الرخويات العارية، ولكن هناك المزيد، أليس كذلك؟ نعم، لدينا في المملكة المتحدة، لدينا الليمون البحري، وهو لطيف للغاية.
+
+**0:54** · ولدينا أيضًا تنانين البحر، التي تعيش في المحيط المفتوح.
+
+**0:59** · إنهم يعيشون في أعلى سطح المحيط المفتوح وهم حيوانات مفترسة، سيأكلون الخلايا اللاذعة من قنديل البحر الرجل الحربي.
+
+**1:08** · لدينا أيضًا نوديبرانش بيكاتشو، ونوديبرانش شون ذا شيب.
+
+**1:14** · أنصحك بالاطلاع على Shaun the Sheep nuidbranchs. ابحث عنه على جوجل، إنه رائع للغاية.
+
+**1:19** · إنه، إنه لطيف جدًا.
+
+**1:21** · فكم عدد الأنواع المختلفة الموجودة؟ هناك حوالي 3000 نوع مختلف.
+
+**1:26** · هذا أمر لا يصدق.
+
+**1:27** · وأين نجدها؟ لدينا بعضها في المملكة المتحدة، في المحيط المفتوح. هل هي موجودة في كل مكان تقريبًا؟ إنهم موجودون في كل محيط، من الضحل إلى العميق.
+
+**1:35** · إنهم يعيشون على الحيوانات الطحلبية، والشعاب المرجانية الناعمة، والطحالب، والإسفنج.
+
+**1:40** · واو، هذا أمر لا يصدق.
+
+**1:41** · وهم، كما ذكرتم، جميلون جدًا جدًا.
+
+**1:44** · أعتقد أن بعضًا من أكثر الحيوانات الملونة في المحيط، أليس كذلك؟ فلماذا كل هذا اللون؟ حسنًا، إنه سؤال جيد.
+
+###### What is the Knepp rewilding project?
+
+**1:52** · اللون مهم جدًا لبقاء العديد من الحيوانات ومع نطاطات البحر فهي واحدة من أفضل الأمثلة على التلوين التحذيري.
+
+**2:00** · تمتص العديد من الرخويات البحرية السموم من الطعام الذي تتناوله، من الإسفنج والشعاب المرجانية الناعمة، ويقومون بحجز تلك السموم داخل لحومهم ثم يقومون بعد ذلك بصنع ألوان زاهية للغاية لتحذير الحيوانات المفترسة المحتملة أنها غير مستساغة وربما سامة.
+
+**2:18** · بالتأكيد، من الصعب رؤية بعض الأمثلة لدينا اليوم، لكنها جميلة جدًا، وملونة جدًا.
+
+**2:25** · هل هو للدفاع فقط، أم أن هناك استخدامات أخرى لهذا اللون؟ حسنًا، اللون في الأنواع الأخرى مفيد للعثور على رفيق.
+
+**2:35** · ربما لا يكون هذا مناسبًا بالنسبة إلى الرخويات العارية لأن عيونها ضعيفة جدًا.
+
+**2:39** · يستخدمون حوامل الأنف والدرنات الصغيرة الموجودة على ظهورهم لاستشعار المواد الكيميائية في الماء للعثور على الشركاء والطعام والحيوانات المفترسة.
+
+**2:49** · ولكن الشيء الآخر الذي يستخدم اللون في كثير من الأحيان من أجله، اللون والنمط، هو التمويه.
+
+**2:54** · وتستخدم بعض الرخويات البحرية الألوان للتمويه.
+
+**2:58** · ولدينا مثال مثير للاهتمام بشكل خاص هنا، أليس كذلك؟ هل يمكنك أن تخبرنا قليلاً عن هاتين العينتين اللتين حصلت عليهما؟ نعم، هذه جميلة حقًا.
+
+###### Is rewilding successful at Knepp?
+
+**3:07** · This is a sea cucumber, this is not a nudibranch.
+
+**3:11** · This is a nudibranch, this is Phyllidia varicosa.
+
+**3:16** · This is a very brightly coloured nudibranch in life, not in our Museum collection.
+
+**3:20** · Many colours fade in museum collections, so most of our collection is brown.
+
+**3:24** · But in life they're very colourful.
+
+**3:27** · This sea cucumber, when it's a juvenile and very small and the same size as the nudibranch it has the same colours and pattern, so it mimics these nudibranchs.
+
+**3:39** · these nudibranchs sequester poisons from the sponges that they eat so they're toxic and unpalatable to predators and the sea cucumber just hitchhikes on this benefit by producing this same sort of colour and pattern.
+
+**3:51** · Of course, once they get bigger, it's no longer able to pretend to be a nudibranch and it changes colour and actually sequesters its own toxins as well.
+
+**4:00** · It's incredible, taking advantage of another poisonous mollusc.
+
+**4:08** · It's brilliant.
+
+**4:09** · Are there any colours that are particularly rare in in sea creatures.
+
+**4:15** · Yes, it's really interesting.
+
+**4:17** · Not all colours are equal.
+
+###### Reintroducing white storks and beavers to the UK countryside
+
+**4:18** · You find that some colours and particularly blue and green are rare colours.
+
+**4:23** · So we have some green shells here for you to look at.
+
+**4:26** · And you would think that green is a fabulous colour for camouflage.
+
+**4:29** · Many snails particularly live in plants and this would be a great colour for hiding, but you don't find very many green shells.
+
+**4:37** · And we think this is partly because green pigments may be hard to make and hard to incorporate into shells.
+
+**4:44** · Are there any green nudibranchs?
+
+**4:45** · There are. It's really cool.
+
+**4:47** · There are a group of nudibranchs known as sacoglossans and they actually eat algae and they will take up chloroplasts from the algae that is still actively photosynthesising and they'll incorporate them into their mantle tissues and then they use them to photosynthesise.
+
+**5:03** · So they will get energy from these chloroplasts that are photosynthesising just as a plant does.
+
+**5:10** · And if they're in an area at a time when there's not very much food or it's a bit dark and it's not working for photosynthesis, they can then just eat the chloroplasts so there's benefit both ways.
+
+**5:25** · And also from camouflage because the animal is green.
+
+**5:27** · So it's hiding in the plants.
+
+**5:29** · They are amazing animals.
+
+**5:30** · I had no idea that they were they were so complex and interesting.
+
+**5:34** · This has been absolutely fascinating.
+
+###### Why is rewilding important?
+
+**5:37** · Thank you so much, Suzanne.
+
+**5:38** · Thank you. Yeah, brilliant.
+
+**5:41** · Thank you so much for watching.
+
+**5:43** · If you enjoyed that video, let us know in the comments and remember like and subscribe to keep up with our latest videos.
+
+#### They recorded a rainforest in Indonesia before it changed forever
+
+**Scientific American**, *07 15, 2026*
+
+##### Video (18:38)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nfDZhfJORVc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Indonesia is building a new capital city in the heart of Borneo to replace sinking Jakarta. As construction transforms one of the world's most biodiverse rainforests, scientists and Indigenous communities are racing to record the sounds of the forest—and preserve generations of ecological knowledge before it's lost.
+
+This story was supported by a grant from @PulitzerCenter (https://pulitzercenter.org/)
+
+It was published in partnership with  @MongabayTV (https://news.mongabay.com/) and @ProjectMultatuli (https://projectmultatuli.org/en/).
+
+##### Transcript
+
+**1:14** · My name is Abidin.
+
+**1:16** · I’ve lived in Pemaluan since I was born.
+
+**1:20** · I’ve never moved.
+
+**1:26** · This is the land of my ancestors from long ago.
+
+**1:33** · We are people who love farming in the mountains.
+
+**1:43** · I feel at peace being here, because the atmosphere is calm, safe.
+
+**1:54** · [But], after the construction of New Capital City...
+
+**1:59** · Life has slowly started to change.
+
+**3:22** · Indonesia, as a great nation must dare to take steps.
+
+**3:29** · We must be brave to have a big agenda and this is for the advancement of our country, for the progress of the nation.
+
+**3:47** · The New Capital City of Nusantara is a grand collective endeavor for the progress of the Indonesian nation.
+
+**3:54** · The forests of Ibu Kota Nusantara serve as a hub where residents and visitors can experience Indonesia’s rich biodiversity.
+
+**4:05** · This green city serves as a meeting point between Indonesia’s history and its aspirations for the future.
+
+**4:14** · A Smart Forest City.
+
+**4:27** · When we heard that Indonesia was moving the capital to Kalimantan, and I’ve been working in Kalimantan for ten years now, I knew immediately that building a new capital city there has the potential to have a huge impact on forests and animals there.
+
+**4:51** · We’re interested in documenting what’s here before all this big change happens.
+
+**5:00** · And we’re trying to do that all through soundwork.
+
+**5:22** · Sound is a unique kind of data.
+
+**5:27** · It becomes, in some ways, a time capsule of a place.
+
+**5:33** · We have recorders on top of mountains, We have recorders in mangrove areas, We have recorders right next to caves.
+
+**5:52** · We ended up sampling 20 different sites, and then from there we could do comparisons over time as we recorded across 18 months, as the capital’s being built, as this environmental change is happening, as this social change is happening, economic growth is happening.
+
+**6:12** · And could we see places where wildlife were being displaced?
+
+**6:19** · Maybe those are places where more investment could be made in conservation efforts.
+
+**6:27** · The question is, Can we tune our ears?
+
+**6:32** · Can we pay attention? Can we notice when the natural world is feeling a little sick?
+
+**6:45** · It’s a giant squirrel!
+
+**6:49** · They sound like bubblegum lasers.
+
+**7:10** · In Pemaluan, the most distinct sound is the sound of monkeys or gibbons.
+
+**7:22** · Back then, our ancestors used their sound as a sign.
+
+**7:31** · Usually, gibbons, at dawn, just before morning, they would call.
+
+**7:43** · If they call at… around nine or ten in the morning, and everything feels eerily quiet, that’s usually a sign… indicating that someone will pass away in the village.
+
+**8:09** · In the past, the most dominant sound came from the white-breasted waterhen.
+
+**8:16** · Then, hornbills, with their loud calls.
+
+**8:25** · The most iconic one is the great argus, the great argus is indeed a favorite of the Balik people.
+
+**8:38** · [Now], we can hear other sounds.
+
+**8:48** · Our people say that usually the chainsaw is the loudest.
+
+**9:13** · Personally, I’m very scared.
+
+**9:19** · because we have lost our tradition, our ancestral traditions from the past.
+
+**9:33** · For example, the great argus, even my child doesn’t know that.
+
+**9:45** · So, with these wildlife recording devices, we are preserving the knowledge of our ancestors.
+
+**9:59** · Then, from us, if possible, we’ll pass it down to our children and grandchildren.
+
+**10:07** · Swiftlets.
+
+**10:08** · -Swiftlets. -Don’t know their name.
+
+**10:10** · Because swiftlets like to eat.
+
+**10:15** · Another driving goal of our research is in the process of generating that knowledge.
+
+**10:23** · The local people are playing a central role in collecting the data, help us define the research problems, identify the research sites, understand the history of this landscape, and most importantly, the relationships between people and forest, people and place.
+
+**10:42** · This is besawan in our local language.
+
+**10:46** · In an emergency, we can...
+
+**10:50** · take the main stalk and prepare it as a side dish.
+
+**10:53** · But only in emergencies.
+
+**10:55** · Like when there’s no food in the forest.
+
+**10:58** · But does it taste good?
+
+**10:59** · -Of course, if it’s cooked. -Okay, okay.
+
+**11:04** · I think the science will be better off for it.
+
+**11:07** · And I think the local people will most importantly benefit from being a part of defining the problems and defining the solutions.
+
+**11:28** · Our ancestors once predicted something.
+
+**11:34** · The prophecy was like this.
+
+**11:42** · They said, “It’s okay.”
+
+**11:46** · Those who were once behind, one day will be ahead.
+
+**11:52** · It’s like the flow of a river.
+
+**12:04** · For so long, when the capital city was still in Jakarta, the flow from all of Indonesia converged there.
+
+**12:18** · This is the reversal.
+
+**12:22** · Our village, so to speak, has become bustling.
+
+**12:43** · What is your biggest fear when you see all this and imagine the future?
+
+**12:50** · It’s the future generations, the children and grandchildren.
+
+**12:54** · What I fear is what their fate will be later.
+
+**13:06** · In terms of education, they are far behind compared to our brothers and sisters from Sumatra, from Java.
+
+**13:17** · Especially in city life, you have to be smart, right?
+
+**13:27** · Meanwhile, they, so to speak, are still relying on the lifestyle of the past.
+
+**13:48** · What can we do in the city?
+
+**13:52** · I myself can’t live in the city.
+
+**13:57** · I don’t understand what I can do.
+
+**14:10** · If we become scavengers in our own hometown, it’s better to just die.
+
+**14:22** · As we started the research project, it looked like something but it wasn’t a city.
+
+**14:31** · Now it’s like, there’s apartment buildings, and there’s a Swiss-Belhotel, and there’s a palace.
+
+**14:39** · And, maybe this work, like, we can’t actually stop anything from happening, and sometimes that feels really sad and hard to sit with.
+
+**14:48** · Because maybe you’re like, we could do something, things could be different.
+
+**14:53** · But maybe they can’t, or maybe, like, it’s also not really our place to do that.
+
+**15:02** · Although we recognize that within our small team and our limited expertise we don’t have the ability to capture and preserve every aspect of their culture and their knowledge, there’s still a ton that we can do through this kind of soundwork, where we’re really thinking about the voices – whether that’s the voices of the forest, or whether that’s the voices of the community members who feel like nobody’s listening to them.
+
+**15:39** · I think what’s at stake is people losing their connectedness.
+
+**15:49** · My hopes for my children, when they’re my age, is that they don’t forget the culture of our tribe.
+
+**16:10** · I’ll keep trying to teach them not to let our own language disappear.
+
+**16:25** · I can teach my children… the sounds of animals in the forest.
+
+**16:39** · Even though there are changes now, I still feel that this is my home.
+
+#### Thornforest Restoring the Wildlands of South Texas
+
+**Cornell Lab of Ornithology**, *01 30, 2026*
+
+##### Video (14:42)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nOJmiR1U4FU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The thornforest of Texas’s Lower Rio Grande Valley is one of the most biodiverse ecosystems in North America, attracting birdwatchers and wildlife enthusiasts from around the globe. It supports over 500 species of migratory and resident birds, 300 species of butterflies, 1,200 species of plants, and approximately 50 species of mammals, including the last remaining population of ocelots in the United States. This rugged, spiny habitat is emblematic of the region and closely linked to the cultures and communities that live there. But despite its importance to people and wildlife, the thornforest that historically covered most of the Lower Rio Grande Valley has been reduced to a mere 5-10% of its original extent, and many of the species that call it home are threatened or endangered. "Thornforest: Restoring the Wildlands of South Texas" weaves stunning wildlife footage with expert voices to share the story of this unique ecosystem and the organizations and communities that are coming together to save it.
+
+##### Transcript
+
+###### The unique thorn forest
+
+**0:02** · [SLOW, TWANGY, GUITAR MUSIC] RADIO VOICE: Hello, good morning.
+
+**0:09** · We are here broadcasting from Radio Poder de Dios at 100.7 FM.
+
+**0:16** · Looks like it’s going to be another beautiful day in the Valley.
+
+**0:21** · Don’t forget this weekend to go out and visit some of the green areas around us.
+
+**0:31** · BRAD PENICK: It's beautiful, but it's a harsh beauty.
+
+**0:35** · I mean, everything will stab you, prick you, cut you.
+
+**0:39** · Tamaulipas thornscrub, you fall down in it, you're going to bleed.
+
+**0:44** · But it sure is beautiful.
+
+**0:47** · [SLOW, TWANGY, GUITAR MUSIC] [BIRDS CHIRPING] ALEJANDRO FIERRO: Thornforest, as the name implies, is a forest that is thorny.
+
+**1:01** · [UPBEAT, TWANGY, GUITAR MUSIC] SONIA NÁJERA: It is thorny.
+
+**1:05** · It's not something you're going to want to walk in barefoot, let’s say.
+
+**1:08** · [BIRDS CHIRPING] BRAD CHRISTOFFERSEN: So if you imagine walking through a forest, among trees, a thornforest is very different.
+
+**1:19** · Instead of growing up, trees and shrubs grow out.
+
+**1:22** · [UPBEAT, TWANGY, GUITAR MUSIC] SONIA NÁJERA: It's a really unique plant community.
+
+**1:32** · Once you see it and you really get to know it, it just comes alive.
+
+**1:38** · [BIRDS CHIRPING] [CRUNCHING FOOTSTEPS] BEN MASTERS: Many people, when they think of amazing wildlife places, they think of Yellowstone, where you're looking at a grizzly bear 1,000 yards away.
+
+###### Biodiversity of the valley
+
+**1:50** · And in the thornscrub, you have to learn to appreciate the smaller details.
+
+**1:56** · And once you learn how to appreciate the Lower Rio Grande Valley and the thornforest, you realize it's this magical place that is just teeming with wildlife.
+
+**2:07** · [SLOW DRUM MUSIC] MITCH STERNBERG: In the Rio Grande Valley, the level of biodiversity is great.
+
+**2:14** · It's fair to say, in the continental United States, one of the most biodiverse areas that we have.
+
+**2:20** · [UPBEAT, TWANGY, GUITAR MUSIC] The Rio Grande Valley can be looked upon as being a bridge to the tropics because of where it's located, just right here on the southern tip of Texas.
+
+**2:31** · We're on the edge of the tropics.
+
+**2:34** · It's created this very unique opportunity for a lot of species that are found only in South Texas.
+
+**2:39** · [BIRD WHISTLING] Over 500 species of birds that live in or migrate through the area.
+
+**2:44** · About 400 species of documented butterflies, dragonflies, and damselflies.
+
+**2:50** · There's some good 48 species of mammals.
+
+**2:54** · One of the unique characteristics of thornforest is its density and diversity of plants, anywhere from 3,000 to 8,000 individual woody plants per acre.
+
+**3:06** · JON DALE: You've got about 30, 40, 50 different species growing in close proximity to each other, overlapping.
+
+**3:12** · Basically, their branches coming together to form this incredible thicket that all of these wildlife species utilize for cover, for habitat.
+
+**3:21** · Without that, all these species would not be able to be here.
+
+**3:25** · [BIRD WHISTLING] Thornforest once covered most of the Rio Grande Valley.
+
+###### Historical habitat loss
+
+**3:31** · And then we get into the early 1900s.
+
+**3:33** · The story begins to change.
+
+**3:34** · [UPBEAT GUITAR MUSIC] FRANCISCO GUAJARDO: This region was marketed as a tropical paradise.
+
+**3:42** · And so ads were developed that were sent to St. Louis, Missouri; to Chicago, Illinois; to Milwaukee, Wisconsin; to New York State, selling this Magic Valley, this tropical paradise.
+
+**3:55** · JON DALE: The landscape is basically carved up for irrigated agriculture.
+
+**4:00** · From that point on, just this process of very intensive farming, which put us on the map.
+
+**4:07** · NARRATOR: Texas is a vast and wonderful state now additionally famous for its fine quality grapefruit grown in a relatively small area known as the Lower Rio Grande Valley.
+
+**4:18** · This now veritable garden spot was a vast wilderness of mesquite brush and cactus.
+
+**4:23** · Wild, desolate and uninviting.
+
+**4:26** · Then came the railroad, and in its wake, as has ever been the rule, progress and development.
+
+**4:36** · JON DALE: And then, come about 40, 50 years ago, then we start to see a transition into urbanization.
+
+**4:41** · [PENSIVE POP MUSIC] [VEHICLES WHIRRING BY] [RATTLING] We've lost approximately 90% of our original thornforest habitat.
+
+**4:54** · We've got essentially 5% to 10% of that left.
+
+**4:57** · What remains is very much a fragmented landscape.
+
+**5:01** · Patches here and there, sometimes separated by distances of 20, 30, 40 miles.
+
+**5:08** · ALEJANDRO FIERRO: We're talking about 5% remaining, but it's not 5% in a single fragment.
+
+###### Conservation challenges
+
+**5:13** · It's 5% in many little fragments.
+
+**5:16** · So that's not a good 5%.
+
+**5:18** · [PENSIVE POP MUSIC] BRAD CHRISTOFFERSEN: There is very good reason to be concerned about the status of thornforest today.
+
+**5:27** · We already know that there are over 40 federally threatened and endangered species that call the Lower Rio Grande Valley their home.
+
+**5:38** · And if we don't act, that list will only continue to grow.
+
+**5:43** · SONIA NÁJERA: To me, South Texas is home.
+
+**5:45** · And this is habitat that I grew up with, and I want to see it conserved.
+
+**5:53** · JON DALE: If we don't embrace restoration, if we don't embrace conservation of the ecosystem and we let this ecosystem continue to disappear, we lose the right, we lose the ability to introduce future generations of our families to these species, to this incredibly rich landscape that is so special.
+
+**6:15** · [SCHOOL BELL] [CHATTER] TEACHER: OK, boys and girls, we are going to create our very own thornforest.
+
+###### Connectivity strategy
+
+**6:28** · And you are going to select three.
+
+**6:31** · How many?
+
+**6:32** · STUDENTS: Three.
+
+**6:33** · TEACHER: Three pictures.
+
+**6:35** · It could be of a bird, a tree, something that we learned that lives in the-- STUDENTS: Thornforest!
+
+**6:42** · TEACHER: That lives in a thornforest.
+
+**6:45** · [UPBEAT TWANGY GUITAR MUSIC] STUDENT: Please, can I cut them out now?
+
+**6:48** · [CHATTER] JON DALE: The objective of the Thornforest Conservation Plan is to build in regional connectivity for this ecosystem, restoring this ecosystem strategically.
+
+**7:06** · We've got this massive network of irrigation easements that were set in place 100 years ago for agriculture.
+
+**7:12** · So we have over 1,600 miles of it within the Rio Grande Valley.
+
+**7:16** · It's not that much of a stretch to say, well, why can't we work to actually introduce some habitat into those linear spaces and create connectivity?
+
+**7:27** · This is one of our main canals from one of our irrigation districts, and it actually comes through the heart of this refuge tract.
+
+**7:34** · The beauty of it is that we do have thornforest growing along the banks of this larger main canal.
+
+**7:39** · And so wildlife that are originating or having breeding territories inside of this refuge parcel, they will actually get into this corridor that the canal provides with that thornforest, and they'll ride that north for dozens of miles.
+
+**7:50** · Eventually, they'll run into those other fragments of thornforest that are further afield.
+
+**7:53** · And so it's that concept.
+
+**7:54** · If you multiply that over this larger landscape, then you've got that concept of connectivity coming together.
+
+**8:00** · And that's what we're trying to restore over time.
+
+**8:03** · MITCH STERNBERG: Corridors are really important when you think of animals that really don't have the ability to just get up and fly to the next patch.
+
+**8:10** · So for anything that's really tied to the ground, such as bobcats, coyotes, Texas tortoises, indigo snakes, and even some of the birds that just don't have that as part of their ecology, to fly large distances to another patch, are going to be challenged if there aren't corridors that connect these habitat patches of thornforest.
+
+**8:29** · [UPBEAT TWANGY GUITAR MUSIC] JON DALE: You're looking at areas that have been farmed, that were cleared of that thornforest originally, maybe 70, 80, 100 years ago.
+
+###### Restoration efforts
+
+**8:41** · So now it's the idea of us going back in and restoring habitat on those parcels.
+
+**8:46** · [BIRDS CHIRPING] BRAD PENICK: We're going to the first plant site where we planted the 10 acres with the 10,000 trees.
+
+**8:55** · Part one.
+
+**8:57** · Part two would be right around here.
+
+**9:01** · JON DALE: It's one thing to espouse the ability to conserve something, but it's a whole other world to actually roll your sleeves up and to understand that you've got to do pretty much everything in your power to find a way to create more of that habitat, to restore it or conserve it.
+
+**9:15** · BRAD PENICK: Growing up with it, I never really thought of it as something that you'd want to restore.
+
+**9:20** · And I didn't realize it was something that was being lost, until I was an adult.
+
+**9:24** · I jumped on the bandwagon as soon as I heard there was a movement to do this.
+
+**9:28** · I've known big-time guys that have bought land to turn it back into its natural state.
+
+**9:33** · And I thought, wow, what a great idea.
+
+**9:35** · I wish I could do that one day and maybe on a smaller scale.
+
+**9:38** · But if enough people like me do it, it matters.
+
+**9:42** · [BIRDS CHIRPING] [UPBEAT TWANGY GUITAR MUSIC] [WATER SPRAYING] JON DALE: From the time we restore an area to the time when we basically will have maximum usage for a lot of the species that we're purposely trying to recover, it will be somewhere between about 15 and 25 years.
+
+**10:07** · We're not talking about a process that takes hundreds of years.
+
+**10:10** · We don't have hundreds of years.
+
+**10:13** · We grow approximately 200,000 seedlings here at the Marinoff Nursery annually.
+
+**10:18** · We actually go out into the different patches of thornforest out there on the landscape, and we do what we call our wild seed collection.
+
+**10:26** · WILD SEED COLLECTIVE VOICE: This right here, these are the seeds that we're looking for.
+
+**10:33** · JON DALE: Those seeds in the bank, a certain portion of them, come out every year, and they turn into seedlings.
+
+**10:42** · And then those seedlings make it out onto the landscape.
+
+###### Community impact
+
+**10:46** · That's what we plant to create this habitat.
+
+**10:50** · [UPBEAT, TWANGY,GUITAR MUSIC] RADIO VOICE: Friends, if you’re looking for something exciting to do this weekend, join us this Saturday morning to help plant native trees at the “Rio Reforestation” event at Rio Grande Valley National Wildlife Refuge.
+
+**11:18** · Come join us!
+
+**11:24** · JON DALE: Rio Reforestation is our preeminent public planting event, and we invite essentially the entire community from the Valley to come out and do this planting with us.
+
+**11:32** · Whether it's school districts, community groups, everyone's invited, and it's a sight to behold.
+
+**11:39** · [UPBEAT TWANGY GUITAR MUSIC] It is emblematic of the larger effort that we're all putting in to restore this ecosystem.
+
+**11:48** · [INSPIRING MUSIC] MITCH STERNBERG: Seeing more and more people are learning to understand the value of this effort really gives me great hope.
+
+**12:00** · BRAD CHRISTOFFERSEN: If we build on the momentum over the past few decades of restoration work that has begun, we really have an incredible opportunity to preserve the biodiversity that's here, or even increasing that biodiversity over time.
+
+**12:19** · BEN MASTERS: We've got landowners, state agencies, U.S. Fish and Wildlife Service, NGOs, the general public that have come together around rehabilitating a lot of that country.
+
+**12:31** · There were agricultural fields in the 1980s that you go out there today are amazing brush.
+
+**12:38** · So there's a lot of proof that it can happen, that it can happen fairly quickly.
+
+**12:44** · FRANCISCO GUAJARDO: When we restore native habitats, we have a shot at reconnecting with the land, which is really what gave us the spirit to survive this part of the world.
+
+**12:54** · STUDENT 1: I drew a green jay, a Texas tortoise, and the prickly pear cactus.
+
+**13:01** · STUDENT 2: A Texas ebony.
+
+**13:03** · STUDENT 3: This is an ocelot.
+
+**13:05** · STUDENT 4: We have the Texas tortoise.
+
+**13:09** · STUDENT 2: This is my thornforest.
+
+**13:10** · STUDENT 5: This is my thornforest.
+
+**13:12** · STUDENT 3: This is my thornforest.
+
+**13:14** · STUDENT 6: This is my thornforest.
+
+**13:16** · STUDENT 1: This is my thornforest.
+
+**13:19** · PASTOR ARMANDO VERA: It gives me hope that this ecosystem can recover, can be saved, if we can motivate our community to see that this is something that belongs to them.
+
+**13:35** · BEN MASTERS: I look at the amount of conserved land that my parents' generation, my grandparents' generation, they set aside that for us.
+
+###### Legacy and future
+
+**13:45** · And I am so thankful of that.
+
+**13:47** · And I feel like it's really our responsibility and our duty to pass it on and give that to our kids.
+
+**13:57** · Give them a place that still has wild places.
+
+**14:00** · Give them a country that still has hope for endangered species to recover.
+
+**14:04** · Give them a thornforest that's 20 years getting developed so that they don't have to start from scratch.
+
+**14:10** · [MUSIC PLAYING]
+
+#### We Built a Wildlife Corridor Through a City
+
+**Planet Wild**, *09 15, 2026*
+
+##### Video (11:33)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ddmuALsSEfQ?start=89 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+We’re building floating city wetlands to bring nature back to Bristol.
+
+🌱 Join us to rewild the planet: https://planetwild.com/join/m43
+
+Many cities, like Bristol, were built on wetlands. But to make space for us to live, huge drainage systems were created and the water was removed. This has led to some massive problems: less space for nature, more polluted water, and a greater risk of flooding.
+
+That’s why, in our 43rd mission, we went to Bristol and partnered with WWT to bring wetlands back to the city. For this mission, we're also joined by sustainability creator @itsSamBentley. 
+
+Together, we're building floating wetlands in Bristol Hardor. We're also helping develop a miniature “wetland-in-a-box” that enables anyone with a drainpipe to rewild their city.  
+
+Special thanks to FLYNN for providing a render of the upcoming "wetland-in-a-box".
+
+Copyright 2026 FLYNN Product Design - All rights reserved.
+
+Check FLYNN out at https://flynn-product-design.com/
+
+People in the video:
+
+Cameron Nicoll is a documentary filmmaker and the Creative Director at Planet Wild.
+
+Dr. Julia Newth is WWT's Ecosystem Health & Social Dimensions Manager. She has been part of the organization for over 20 years.
+
+Sam Bentley is a sustainability content creator and climate activist.
+
+Make sure to follow WWT:
+
+IG: https://www.instagram.com/wwtworldwide
+
+Website: http://www.wwt.org.uk/wetland-cities
+
+#wetlands #cityrewilding #greencities
+
+Chapters
+
+0:00 Bringing nature back to the city
+
+1:06 Why cities lost their wetlands
+
+2:03 Meet our partner WWT
+
+3:25 A special guest: Sam Bentley 
+
+3:45 Building floating wetlands in Bristol harbor
+
+5:00 Our support 
+
+5:31 Building a “wetland in a box”
+
+7:19 Good nature news from cities around the world 
+
+8:59 The impact of this mission
+
+_______________________
+What is Planet Wild?
+
+We’re a global community of people who care deeply about nature and want to help our planet bounce back – one mission at a time.
+
+EVERY MONTH, we work with wildlife pioneers worldwide to
+
+🦁 bring back endangered species
+
+🌊 support oceans and aquatic life
+
+🌳 revive forests and rewild landscapes
+
+EVERY MEMBER can decide how their money is spent, connect with us on our Discord, and collect unique badges for each mission they support.
+
+EVERY MISSION is documented in videos like this. 100% transparency.
+
+EVERYONE can join. The bigger the community grows, the bigger these missions will get!
+
+👉 Become a Planet Wild member: https://planetwild.com/join/m43
+
+👉 Follow us on Instagram: https://www.instagram.com/planetwild.official/
+
+👉 Follow on LinkedIn: https://www.linkedin.com/company/planetwild-official/
+
+Find all sources here:
+
+https://planetwild.notion.site/Mission-43-Floating-Wetlands-Sources-3d769e032b19807dbe46d290c03e8201?source=copy_link
+
+##### Transcript
+
+###### Bringing nature back to the city
+
+
+**0:00** · What if there was a way to transform your city from this to this, replacing concrete with flowers and drains with rain gardens?
+
+**0:09** · What if we can make our towns resilient against floods, heat waves, and droughts, whilst boosting biodiversity and mental health?
+
+**0:17** · Right now, all around the world, people are finding incredible ways to bring nature back into our cities. And we're here in Bristol to do exactly that.
+
+**0:26** · We're literally kind of surfing on a wetland right now, and I never thought I would say that sentence. (laughs) Pockets of lush green wetlands have been popping up all over the city, and now there's a plan to create a green corridor along the river's embankment, and we're gonna help make this dream a reality.
+
+**0:44** · Together with our friend Sam Bentley, we'll explore just how easily we can upgrade our cities, and what that means for the future of urban environments all over the world. In this video, we're gonna be checking out loads of genius innovations that are bringing nature back to the city piece by piece. We're Planet Wild. Welcome to Mission 43.
+
+**1:05** · (upbeat music) More than half of the global population live in cities, and many of these places have one thing in common. They were built on water. Basically, where you see a city, there used to be a swamp or a wetland. Then we built huge drainage networks to remove the water and paved over the land so we could live there.
+
+###### Why cities lost their wetlands
+
+**1:28** · Sometimes even burying entire rivers underground, like the Bievre in Paris, the Fleet in London, or the Frome here in Bristol. And predictably, removing all this water has led to some massive problems.
+
+**1:41** · Flash flooding. - Flash flooding.
+
+**1:43** · Flash flooding in parts of London.
+
+**1:44** · Urban heat island effect.
+
+**1:46** · Dangerous conditions to be outdoors.
+
+**1:48** · [Cameron] Turns out wetlands aren't just incredibly important for wildlife, but they also keep temperature and water levels stable. You know, the kind of thing we humans really need to survive. And this is why all over the world, people are bringing wetlands back into our cities.
+
+###### Meet our partner WWT
+
+
+**2:03** · When you start to instal wetlands across the city, whether that's a small rain garden, a drain pipe wetland, right the way to a lake in your local park, it's really sort of magical, and everyone in the city benefits from wetlands.
+
+**2:16** · This is Julia from WWT, the wetland charity. They're kicking off a huge effort to turn Bristol into the UK's first wetland city. By replacing old drainage systems with lush rain gardens, installing micro wetlands in backyards, and anchoring huge wetlands on the river, they're creating little pockets of biodiversity everywhere. In fact, over the next few years, there'll be 200 new projects here in Bristol to bring nature back. Just imagine the impact that this would have.
+
+**2:46** · It would completely transform public space across the city, creating habitat, absorbing flood waters, filtering toxic runoff, and cooling the city down. And the transformation has already begun. WWT and their partners are creating a wildlife corridor through the city centre, and this is the next piece of the puzzle. We are currently building and planting a futuristic structure called a floating wetland.
+
+**3:13** · We've got one platform which is 100 square metres and another smaller 16 square metre platform, specifically designed with these miniature staircases to save baby seagulls that are getting stuck in a corner of the harbour. But we are not doing this alone.
+
+###### A special guest: Sam Bentley
+
+
+**3:28** · Hey, Cam. - All right, Sam?
+
+**3:29** · How's it going? - How's it going?
+
+**3:31** · This is Sam Bentley, founder and host of one of our favourite YouTube channels. If you've never heard of him, he reports good news stories from around the world, and is also making a video about the transformation of Bristol. So we asked him if he could help us with our new floating wetlands. This is that, and then this becomes there, and...
+
+###### Building floating wetlands in Bristol harbor
+
+
+**3:50** · Huh?
+
+**3:52** · Okay, okay. This is how it works.
+
+**3:55** · Step one is putting all the pieces together and locking them in place. It's a completely modular structure that can be built to any size, and every element is recycled, recyclable, or biodegradable. The frame and floats are old drinking water pipes that are wrapped in coconut husk, and instead of soil or mud that would just drift away, we're using buoyant clay pellets as the plant bed.
+
+**4:17** · And step two is planting it with more than 20 species of native wetland plants.
+
+**4:24** · Mm. - What have you got?
+
+**4:26** · Ah, nice. Glorious.
+
+**4:31** · So above water, we have this layered planting system that creates an oasis for pollinators and a safe haven for nesting birds. But the real magic happens underneath. As these plants grow, their roots go super deep into the water, creating a refuge for marine life, cleaning the water, taking all those pollutants out, and also regulating water temperature too.
+
+**4:50** · There's potential to instal up to 5,000 square metres of these floating wetlands here in Bristol, transforming the concrete embankment into a thriving nature corridor. So the Planet Wild community is completely funding the construction and installation of these two modules, as well as even more platforms in the future, to make this dream a reality.
+
+###### Our support
+
+**5:12** · You know, with Planet Wild, we do projects all over the world, bringing nature back in different, like, remote, far flung places, but it's just amazing to see that it can come back in the middle of our cities. So in addition to the floating wetlands, we're also helping WWT to develop a miniature wetland in a box that can be attached to any ordinary drain pipe.
+
+###### Building a “wetland in a box”
+
+**5:32** · To show you how it works, we're gonna take a break from the harbour and visit a small garden nearby to build a prototype. We should probably get on with it though.
+
+**5:44** · Yeah.
+
+**5:44** · - Yeah. (laughs) (whimsical music) So this is a very ordinary drain pipe coming from the roof, and so when it rains, the water goes from the gutter, all the way down here, straight into the drain. But we are gonna catch this water and use it to create a wetland in a box. Well, it's actually two boxes. The top box acts as a pond where aquatic plants can thrive as it fills up with rainwater.
+
+**6:07** · This eventually overflows into the bottom box, a miniature bog that insects and amphibians can call home. So, to make it yourself, you just need to follow these steps. First thing we need to do is make a hole in the bottom. This hole should be covered with a filter, and we use this permeable plant pot. Then add a layer of gravel, a fabric membrane, and a layer of soil.
+
+**6:31** · The membrane is there to stop the soil running down the drain. Step two, drill a hole into the side of the top box, allowing the water to flow into the bottom box. Step three, take a deep breath and cut the drain pipe so that the entire structure will be in the perfect position to catch the water. Step four, fill everything with native wetland plants and add a wall of loose bricks. And that's it. We're done.
+
+**6:56** · And within hours, you'll start to get insects like dragonflies and damselflies coming back here. Spiders can make their homes in here. Frogs and newts can come and live in here. And it's just incredible the amount of biodiversity that can come back just with this. The UK actually has 4,000 square kilometres of garden space just like this, and now we can actually start to use some of that and give it back to nature.
+
+###### Good nature news from cities around the world
+
+**7:20** · (dramatic music) We have to interrupt this Planet Wild video to bring you some breaking good news from cities around the world. First up, we're heading to Seoul, South Korea. For decades, the Cheonggyecheon stream was completely buried underneath a massive elevated highway, but in the early 2000s, the city actually tore that highway down and restored the natural river.
+
+**7:42** · Since then, biodiversity has exploded by over 600%, and the corridor is now home to hundreds of species of fish, birds, and insects. Now we're heading over to the Netherlands where one company has found a way to turn lifeless concrete buildings into green space. Respire use a moisture retaining concrete layer to grow moss directly onto walls. Within 12 weeks, it forms a green surface that survives on rainwater alone, filtering air pollution while naturally cooling the building.
+
+**8:13** · Next up, we're looking to China, where they're creating huge sponge cities. Instead of using grey infrastructure like concrete pipes to drain storm water, they're building sprawling urban wetland parks and permeable pavements that naturally soak up extreme floods like a giant sponge. But the ultimate nature city has to be Singapore.
+
+**8:33** · By making greenery a core part of their urban design, they've turned a dense metropolis into a city in nature, and their waterways are now so healthy that families of wild otters are happily swimming right through the middle of the central business district. You can see from these projects there's not just one solution.
+
+**8:51** · In a city, you have to find little pockets and corners to bring nature back around human infrastructure, and that's exactly what we're doing in Bristol. (upbeat music) We're literally kind of surfing on a wetland right now, and I never thought I would say that sentence. (laughs) This will be the permanent home of our new wetland. For centuries, it's been a grey wall, but thanks to the Planet Wild community, it will soon look like this.
+
+###### The impact of this mission
+
+**9:26** · This piece was installed just two years ago, and you can see the difference. It's just, like, full of life. There's families of birds in there. It's full of insects. I've seen loads of fish swimming underneath. Just incredible what can happen in such a short space of time.
+
+**9:43** · And of course, this is just the beginning. You know, these plants will start to establish, they'll start to grow, and it really will start attracting nature in.
+
+**9:51** · We haven't even finished installing the wetland yet, and there's this family of swans rocking up and checking it out. It can potentially be their new home. Like, that is just so perfect, so beautiful. (gentle music) Finally, we installed the second platform, and again, the effect was instant. So we literally just installed the floating wetland, and we've seen a baby seagull who is stuck in the water use the ramp and climb up onto the platform.
+
+**10:19** · And that's just saved his life. It's just unbelievable to witness. And that is the beauty of this project. Nature is just waiting beneath the concrete and the asphalt. And once you give it a chance, it's immediately making our cities more biodiverse, safer, and simply nicer places to live. And because it's such a simple solution, it can easily be copied around the world.
+
+**10:45** · So our funding here is not only transforming Bristol, but it's also creating a blueprint for future wetland cities everywhere. Thank you so much for making it all the way to the end of the video. I hope you can tell that we put a lot of hard work into the missions and the mission videos, but we really couldn't do any of it without our community. Right now, we're more than 27,000 members.
+
+**11:07** · We're actually growing really quickly, which is so exciting. Every single month, we go on a mission to bring back endangered species, to clean up our oceans, and to restore entire landscapes. So if that sounds good to you, you can join Planet Wild as a backup by following the QR code here or the link in the description. Thanks so much for watching, and catch you next time.
+
 #### We Let Beavers Transform an Old Farm
 
 **Planet Wild**, *07 15, 2026*
@@ -1417,6 +3713,244 @@ https://planetwild.notion.site/M41-Beavers-Sources-39769e032b1980a593ecc70fdec76
 
 **13:50** · See you all again next month, over and out. (chiming music)
 
+#### We’re Building a Continent-Wide Wildlife Corridor - Differently
+
+**Planet Wild**, *08 15, 2026*
+
+##### Video (15:55)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ocHuFn5nkg0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+We’re flying a Jaguar across Argentina to help protect the species.
+
+🌱 Join us to rewild the planet: https://planetwild.com/join/m42
+
+Every year, tens of thousands of wild animals get moved across the world for conservation.
+
+Argentina has only 200 to 250 jaguars left, split into small, isolated groups. This shrinks their gene pool, and over generations, raises the risk of disease and can eventually wipe out a population entirely.
+
+That’s why in our 42nd mission, we partnered with Rewilding Argentina to move Mimbi, a young female jaguar, across Argentina, to a region where introducing new genes is critical to saving the local jaguar population from inbreeding and extinction.
+
+This translocation is part of a bigger plan: connecting isolated jaguar populations by creating a safe, continuous corridor in the South American region, so jaguars can move and mix on their own again.
+
+People in the video:
+
+Trishala Naidu is a South African biologist with 10 years of experience. She’s been hosting Planet Wild missions since 2024.
+
+Guadalupe Molinaro is Rewilding Argentina's Community Program Coordinator at El Impenetrable National Park.
+
+Pablo is Rewilding Argentina's Reintroduction Center Coordinator at Iberá Park and a wildlife conservation field technician.
+
+Make sure to follow Rewilding Argentina: 
+
+Website: https://rewildingargentina.org/
+
+IG: https://www.instagram.com/rewilding_argentina/
+
+Thanks to Wild Earth, Ami Vitale and Mike Parkei for providing additional footage.
+
+#jaguars #animaltranslocations #rewilding
+
+Chapters
+
+Watch a high-stakes jaguar rescue mission to relocate Mimbi across Argentina. See the intense 15-hour race against the clock.
+
+This video documents the complex logistics required for wildlife transport as conservationists attempt to reintroduce a jaguar into its new habitat. We follow the operation from the initial crate transfer to the final release, highlighting the strict timing and planning necessary for such a delicate animal relocation.
+
+Transporting a predator like Mimbi is a massive conservation project that involves navigating multiple transit stages, including trucks and aircraft. When the mission hits unexpected complications, the team must adapt quickly to ensure the safety of this majestic endangered species. This footage provides an unfiltered look at the reality of wildlife logistics when a plan goes wrong.
+
+Subscribe for weekly wildlife conservation breakdowns, and comment below what you think is the biggest challenge in animal relocation.
+
+0:00 Saving the Jaguars of Argentina
+
+2:18 Meet Mimbi, a wild jaguar 
+
+2:31 Why Argentina’s jaguars need our help
+
+3:41 The plan to move Mimbi
+
+5:15 Meet our partner 
+
+6:30 Our support: Making Mimbi’s move possible
+
+7:22 The 15-hour countdown begins
+
+9:54 Why animal translocations matter
+
+11:46 Five hours left 
+
+13:10 Our support: Protecting jaguars long-term
+
+13:55 Mimbi’s release
+
+_______________________
+What is Planet Wild?
+
+We’re a global community of people who care deeply about nature and want to help our planet bounce back – one mission at a time.
+
+EVERY MONTH, we work with wildlife pioneers worldwide to
+
+🦁 bring back endangered species
+
+🌊 support oceans and aquatic life
+
+🌳 revive forests and rewild landscapes
+
+EVERY MEMBER can decide how their money is spent, connect with us on our Discord, and collect unique badges for each mission they support.
+
+EVERY MISSION is documented in videos like this. 100% transparency.
+
+EVERYONE can join. The bigger the community grows, the bigger these missions will get!
+
+👉 Become a Planet Wild member: https://planetwild.com/join/m42
+
+👉 Follow us on Instagram: https://www.instagram.com/planetwild.official/
+
+👉 Follow on LinkedIn: https://www.linkedin.com/company/planetwild-official/
+
+Find all sources here:
+
+https://planetwild.notion.site/Mission-42-Re-wilding-Argentina-3ba69e032b1980a4a507cf2ee5e7f430?source=copy_link
+
+##### Transcript
+
+###### Saving the Jaguars of Argentina
+
+
+**0:00** · We're using this plane and this box (Mimbi growling) to transport this Jaguar called Mimbi from here to here as a part of a race against the clock to restore this majestic species across Argentina. So, we need to move her from the box to the truck, from the truck to the airstrip, into the plane, out of the plane onto another truck, and then into a new home in less than 15 hours.
+
+**0:24** · But it's not going according to plan.
+
+**0:25** · (Mimbi growling) (pen clangs) (Mimbi growls) What the (beep)?
+
+**0:30** · (pen scraping) Hold on a second.
+
+**0:33** · Did you know that every single year, tens of thousands of animals are moved across the world in the name of conservation?
+
+**0:41** · If you search for wildlife transport on YouTube, you'll find some truly bizarre videos. Some of them are almost hard to believe. But how did we get here? (text clicking) Well, in this video, we're gonna do a deep dive into the bizarre world of animal translocations, from the first wildlife train rides in 1907 to the cutting-edge genetic science driving the mission today.
+
+**1:01** · (air whooshes) We're partnering with a crew of conservation heroes who are orchestrating this entire journey from the lush heart of Argentina deep into the impenetrable forest. Like, literally, this place is called- [Narrator] El Impenetrable.
+
+**1:18** · If this plan works, we'll connect isolated patches of nature into an enormous continent-wide jaguar corridor. We're Planet Wild, welcome to Mission 42. (subtle ethereal music) This is Ibera National Park. It's one of the world's largest wetland areas, and it's very, very special. Just on our first day, we encountered so many different animals.
+
+**1:45** · It felt unreal.
+
+**1:47** · Oh, what a sweet face. I do love me a capybara. Is that a fox? (laughs) Ibera is a beautiful mosaic of grassland, forest, and wetland, and this is Mimbi's home. (vehicle humming) (Trishala gasps) I just saw it. I just saw a jaguar. (subtle playful music) Oh my God. (Trishala laughs) (jaguar growling) This is Mimbi. Mimbi is a 20-month-old female jaguar. She was born here in the wild wetlands and is super identifiable by her kinky tail.
+
+###### Meet Mimbi, a wild jaguar
+
+**2:26** · But the fact that there are any jaguars here at all is a massive rewilding success story. (pensive ambient music) Up until recently, jaguars were locally extinct here in Ibera. The last free-roaming wild jaguar was killed in 1950. Currently, there's only 200 to 250 jaguars in all of Argentina, and their range has decreased by 95%. These isolated jaguar populations can't mix, so the gene pool in each gets smaller and smaller.
+
+###### Why Argentina’s jaguars need our help
+
+**2:57** · A lack of genetic diversity is dangerous because animals, including us humans, carry harmless single copies of disease-causing genes. In a shrinking population, mating jaguars are much more likely to pass down matching copies of these bad genes, leading to sickness and eventually population collapse. But by bringing new genes into a population, we don't only help the jaguar survive. We help those jaguars thrive. That is where Mimbi comes in, and I know what you're thinking.
+
+**3:28** · It seems cruel to move her from her home into a completely unknown territory, but the sad truth is, because of hunting and habitat destruction, this is currently the only way to ensure the jaguar's survival. And we are going to make sure that Mimbi's translocation is as smooth as possible. So, here's the plan.
+
+###### The plan to move Mimbi
+
+**3:48** · We need to translocate Mimbi from Ibera to El Impenetrable, a wilderness area about 450 kilometres away, which mostly has solitary males and desperately needs a female to anchor those males to the area and increase the local population. Mimbi has already been lured into this large enclosure, where she has settled and gotten comfortable. Now, the trick is going to be getting her from this large pen into this small pen, and then into that box.
+
+**4:18** · (groovy percussive music) So, it's just past 4:00 AM in the morning, and we are getting ready to bait Mimbi and capture her for her big travel over to El Impenetrable. Over the past week, we have gotten her used to collecting food from inside the box, but this time, it's different. Now, the food is attached to a mechanism that triggers the door to close when she grabs it.
+
+**4:42** · Once we set the trap, it could be hours of waiting before Mimbi takes the bait. But when that happens, we will receive an alert that sounds like this. (Trishala mimicking device beeping) Yeah.
+
+**4:54** · But here's the thing.
+
+**4:55** · It will be a race against the clock because Mimbi will not be sedated for the trip. Anaesthesia can be dangerous and unpredictable for an animal her size, so to minimise the stress, we want the whole translocation to happen in less than 15 hours. And the clock starts the moment that door closes. (door rattles and thuds) But we're not doing this alone.
+
+###### Meet our partner
+
+**5:17** · For this project, we've partnered with our friends at Rewilding Argentina, who are at the forefront of jaguar conservation.
+
+**5:24** · Rewilding Argentina make me feel that I'm on the right side of this fight against extinction, and we do it honestly with all our hearts.
+
+**5:35** · This is Pablo.
+
+**5:36** · He's the manager at Rewilding Argentina's Jaguar Reintroduction Centre here in Ibera. It's an incredible base of operations where scientists like Pablo have orchestrated an incredible jaguar comeback. In 2021, Rewilding Argentina released their first female, Mariua, and her cubs into the park, making history as the first jaguars to roam freely in Corrientes in over 70 years. Since the first release, they've recorded over 50 wild jaguars here. Remember, at first, there were none.
+
+**6:10** · But what was done here is just the beginning. The bigger plan is to link these isolated populations of jaguars and other important species by establishing safe, continuous corridors along the waterways of the South American region. This would mean that jaguars would be able to freely move between Bolivia, Paraguay, Brazil, and Argentina, making animal translocations less and less necessary.
+
+###### Our support: Making Mimbi’s move possible
+
+**6:34** · So, we've got a plan, but who's making it all possible?
+
+**6:38** · You, the Planet Wild community, is funding the whole operation. Every single month, we go on a mission to restore nature, funded by our community, which now has over 26,000 members. And you can join to support our next mission by following this QR code. But now, back to Mimbi. (low tense music) With everything in place, it's time for the hardest part, waiting.
+
+**7:04** · [Pablo] She is very confident during the night, so now she's going in maybe to see what we did.
+
+**7:13** · Yeah. - Mm.
+
+**7:14** · Clearly, Mimbi is interested in the bait. She circles and watches.
+
+**7:19** · And then...
+
+###### The 15-hour countdown begins
+
+**7:22** · (door rattles and thuds) (device beeping) Or now it is active. That's meaning you're getting down. - The door closed.
+
+**7:31** · Closed. - Closed.
+
+**7:32** · (device continues beeping) Maybe she's inside.
+
+**7:38** · (chuckles) Now what?
+
+**7:40** · She's gone in almost, like, within two minutes of us setting the trap. We could hardly believe it. Mimbi had been watching us from nearby. And once we stepped away, she made her move faster than we anticipated. Now, the clock is ticking, (timer beeping) and we need to head back into the enclosure. (Mimbi growling) The next step (Mimbi roars) is to quietly cover the box and give Mimbi a chance (Mimbi growls) to settle down.
+
+**8:04** · (Mimbi growling and snarling) It's the safest, least stressful thing we can do for her immediately after being caught, even though it eats into our already tight 15-hour window. (timer beeping) (subtle intense music) (pen scraping) So, as you can tell and probably hear, she's not super relaxed. The worst part of it is when she's being moved. Once she's in the box and there's no light, it's all good.
+
+**8:42** · She can be relaxed, so that's why they're putting the blanket over her now because we're gonna drive her from here to the airstrip, because remember, that clock is ticking. (Mimbi roars) I feel okay, but I will be completely relaxed and chill when she's going to El Impenetrable and stay stable there. (people speaking in foreign language) (pen scraping) (timer beeping) Mimbi is going to be travelling in style. (aeroplane humming) El Impenetrable, here we come.
+
+**9:12** · This is it.
+
+**9:13** · Here we go. (laughs) (aeroplane roaring) It was such an eye-opening experience to see what it takes to get something like this done. Remember how much time, (device beeping) and I think I'm gonna switch over to voiceover. (gentle music) That's much better. Sitting in this plane with Mimbi and having a bit of time to reflect on what we're doing, I have to admit, it feels wrong. This jaguar doesn't belong in a box or in a plane.
+
+**9:43** · Mimbi is a wild animal that should be left alone. I can't imagine how she must feel right now and how scary this must be for her. But animal translocations like this are necessary and actually way more common than you think. (subtle enigmatic music) In South Africa alone, hundreds of thousands of wild animals are translocated every single year.
+
+###### Why animal translocations matter
+
+**10:04** · This is largely driven by a commercial model of ecotourism and wildlife ranching, where private reserves control over 17 million hectares of land and animals are exchanged to manage the ecosystem balance. But it also goes back a long time. The very first translocation happened in 1907 when 15 North American bison were transported by rail from the Bronx Zoo to the Wichita Mountains, where the species had been completely wiped out.
+
+**10:31** · Across the US, bison have now bounced back from just 500 individuals to half a million. (tinkling tune) More recently, we had to start moving animals away from poaching zones into highly protected reserves, making sure species like the black rhino still exist today.
+
+**10:48** · And wild animals are also moved in emergencies, like in this case in Kenya, where torrential rains were sinking an island that was home to eight critically endangered Rothschild giraffes, so conservationists built a custom raft to transport them safely to the mainland. I think this makes our translocation kind of look easy. But we are only halfway there. (aeroplane roaring) (upbeat music) We have just landed now in Castelli. It is freezing cold.
+
+**11:19** · So, so cold.
+
+**11:20** · And we're just getting the truck ready because Mimbi is going to move into the truck now, and we're gonna start driving. But that means we have to say goodbye to Pablo, but we get to meet Guadalupe, and Guadalupe is part of Mimbi's team at El Impenetrable.
+
+**11:34** · When I came across this organisation, yeah, it was like, "They are crazy.
+
+**11:40** · What are they doing?"
+
+**11:41** · Yeah.
+
+**11:42** · [Trishala] And now you're part of it.
+
+**11:43** · And now I'm part of it, yeah. (laughs) (timer beeping) (lively music) We still do have, like, a three to four-hour drive ahead of us, so we're gonna push, push, push, but also, the ground is super muddy, the roads are pretty bad, so we've got to be careful. We've got a literal, live, endangered species in the back of the vehicle. (lively music continues) We've got about 30 (timer beeping) to 40 minutes before the sun sets.
+
+###### Five hours left
+
+**12:12** · But the most important thing is that Mimbi is doing well. She seems to have been falling asleep for a little bit, which is amazing. Once we arrive, Mimbi will be released into another large enclosure before then being released fully into the wild. But we can't protect jaguars if the local communities don't want them here, so Guadalupe and her team are working on the ground to transform the locals' fear of jaguars into pride.
+
+**12:37** · (calm music) They are not frightened anymore with jaguars. Actually, yesterday, for example, I was telling a local cooker that we were going to bring Mimbi, and she was actually happy. If we tell her probably five years ago that we were bringing a female to get cubs over here in El Impenetrable, she's going to be afraid of it, of their cows and their cattle and either of themself.
+
+**13:04** · They are feeling proud of jaguar and all the wildlife of the El Impenetrable. (relaxing music) To ensure the success of this whole vision, the Planet Wild community is supporting this mission into the future. That includes supporting the salaries of the staff at Ibera and El Impenetrable, as well as specialised GPS collars so we can monitor the jaguar population as it begins to grow. The light is slipping away at a rapid, rapid pace.
+
+###### Our support: Protecting jaguars long-term
+
+**13:35** · (calm music) (truck rumbling) (timer beeping) (calm music continues) (door scrapes) (calm music continues) (calm music continues) (calm music escalating) (singer vocalising) (uplifting music)
+
+###### Mimbi’s release
+
+**14:38** · (group vocalising) (uplifting music continues) We did it! (Trishala cheering) Mimbi is at her new home here in El Impenetrable. (Guadalupe chuckles) (Trishala laughs) The moment that you open the door and the animal go out is the moment where all that energy go out every moment, every second that you see them inside the pen disappear. And it's freedom for them, for me, for all the people that we work in this.
+
+**15:09** · (group vocalising) (uplifting music continues) Thanks for making it to the end. We really try our hardest with our small team to not only bring you facts and practical solutions, but hope, too. And of course, we couldn't do that alone. Thanks to the support of our over 26,000 members, we keep going.
+
+**15:27** · And every single month, we go on a mission to clean up our oceans and waterways, rewild entire landscapes, and like here in Argentina, give endangered species a fighting chance. So, if creating a positive impact and restoring nature sounds good to you, follow the QR code here and the link in the description so you can be part of the solution with us. Thanks for watching, and we'll see you again next time. (calm music) (badge chimes)
+
 #### We’re creating the world’s biggest wildlife corridor
 
 **Planet Wild**, *02 15, 2026*
@@ -1604,6 +4138,64 @@ https://planetwild.notion.site/Mission-36-Wildlife-Crossings-Sources-30269e032b1
 
 **11:48** · Well, join Planet Wild as a backer at the QR code here, or subscribe to catch our next mission. Thanks, and see you next time. (bright enthralling music continues) (bright enthralling music continues) (music fades)
 
+#### What happens when you set a river free  BBC News
+
+**BBC News**, *10 20, 2024*
+
+##### Video (3:37)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Qp7K6pEWEuk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Virtually all the UK’s rivers have been physically altered in one way or another – straightened, dammed, dredged or restrained by barriers in some way along their course.  
+ 
+Which is why the National Trust decided to do a radical experiment, to see if it is possible to the ecological equivalent of a complete reboot.  
+ 
+They filled a river in west Somerset in and let it take its own course through the landscape.  
+ 
+Our climate editor, Justin Rowlatt, has been finding out how the project worked out. 
+
+Producer: Harriet Bradshaw
+
+Shoot/Edit: Gwyndaf Hughes
+
+Subscribe here: http://bit.ly/1rbfUog
+
+For more news, analysis and features visit: www.bbc.com/news 
+
+#BBCNews
+
+##### Transcript
+
+###### The radical river project
+
+**0:00** · like most of the UK's Rivers the all had been interfered with it had been artificially straightened to keep the land dry but it left little room for nature so here's the question is it possible to do the ecological equivalent of a complete reboot to reset the river and let it find its own course through the landscape other projects in the UK have re wiggled Rivers using diggers to
+
+**0:27** · reconstruct the curves they used to have but here in Somerset The National Trust decided to do something much more radical they completely filled the river in with Earth and rubble and then waited to see what would happen next we went to see the project just after the heavy work had finished a year on and things have
+
+###### First year transformation
+
+**0:52** · changed it really is foggy now it's absolutely brilliant it is absolutely phenomenal it is just transformed it is green it's messy it's noisy you walk through and the insects go up and then you stop and listen and the bird song is just amazing cuz what's so interesting about this is you didn't actually know what
+
+###### Project uncertainty
+
+**1:17** · was going to happen did you no it's like yeah it's one of the kind of yeah the first projects that really has been done like this on this scale in in England there's a lot of uncertainty and kind of you know what's going to happen what's going to look like is is it going to do what we think it's going to do um which is both a little bit scary but also you know brilliantly exciting scientists have been using drones to help monitor the
+
+###### Wetland ecosystem
+
+**1:46** · changes the images from the air prompt a fundamental question freed from the constraints of its banks is this really still a river at all you no longer have that single Channel what we think of as a river what you have inste is a complex messy Wetland environment you can't even see when the original channel was you have multiple flads multiple ponds multiple Wetland areas it is that complex network of different environments which brings the explosion
+
+**2:15** · of Life the scientists say they've recorded here not just Birds but mammals too including endangered water vs they'd better be careful though because there are predators here too what happens down river The Villages regularly flood so there was a lot of concern about the impact that changes would have and a lot of anxiety in the National Trust team especially when last winter turned out to be one of the wetest on record post restoration we had
+
+###### Flood prevention results
+
+**2:47** · some really significant rainfall events you know unprecedented really the site responded really well we didn't get any Downstream flooding other villages in and around Somerset you know really badly flooded you know and here in in Alford and Bingington you know no flooding and the data's back that up now we've got from sort of extra and Nottingham universities you know we've we've we've significantly reduced the flood Peak and helped protect Downstream communities from that extreme weather restoring Wetlands is a priority for the National Trust it estimates the UK has lost 90% of its wetlands in the last 100
+
+###### Future implications
+
+**3:18** · years alone River resets like this won't work everywhere but the results here in Somerset have been so good the trust is already considering sites where it could be repeated Justin roll at BBC News West subet
+
 #### Why This Unusual Pattern May Save the Rainforests
 
 **PBS Terra**, *09 12, 2024*
@@ -1734,6 +4326,484 @@ Instagram:  https://instagram.com/pbsterra
 
 **8:55** · Roots of Resistance is a series which shows how history is often made through defiance. And In the Margins explores the kind of lesser-known stories that they maybe don’t teach you in school. We're gonna put a link to their latest episodes down below. We hope you consider subscribing too. It helps all of us over at PBS.
 
+#### Why This Unusual Pattern May Save the Rainforests
+
+**PBS Terra**, *09 12, 2024*
+
+##### Video (9:34)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/EDpCLIgfHXo?start=140 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Check out In the Margins on @pbsorigins : https://youtu.be/Y1cJCowMz9M?feature=shared
+
+Check out Roots of Resistance on @pbsorigins : https://youtu.be/rUCrmh58GrU?si=b6HPENjsnEKYPrzK
+
+The Choco region in northwest Ecuador is hosting a groundbreaking experiment to try and help it’s rainforests recover from rampant deforestation. A multinational team is planting small “tree islands" to attract natural seed dispersers. It’s an innovative approach that we’ll take a close look at, from above and within. 
+
+Hosted by Joe Hanson from Be Smart, Overview uses stunning 4k drone footage to reveal the natural and human made marvels shaping our planet--from a 10,000-foot view--literally.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+##### Transcript
+
+###### The Choco rainforest
+
+**0:05** · (light music) Hidden along the equator lies a rainforest like no other.
+
+**0:13** · The Choco is a kaleidoscope of life.
+
+**0:17** · An enchanting home to an astonishing array of species many found nowhere else on Earth.
+
+**0:24** · But like most of Earth's tropical rainforests, The Choco is under threat.
+
+**0:29** · Widespread deforestation for agriculture, logging, and human settlements has pushed this incredible ecosystem to the brink of disappearing.
+
+**0:37** · But, there is hope, thanks to these.
+
+###### Introducing tree islands
+
+**0:41** · These are tree islands, small patches of trees replanted within larger deforested areas.
+
+**0:47** · Scientists think this groundbreaking idea could change the world's forest recovery efforts by allowing the forest to regrow itself thanks to one surprising ingredient, animal poop.
+
+**1:06** · (gentle music) Here in Ecuador, the Choco Rainforest covers approximately 7,000 square kilometers, nearly one and a half times the size of Grand Canyon National Park.
+
+**1:18** · Separated from the Amazon by the towering Andes, The Choco is a world unto itself.
+
+###### Biodiversity and risks
+
+**1:25** · It's also one of the wettest places on Earth.
+
+**1:29** · Some spots receiving upwards of 400 inches of rain per year.
+
+**1:35** · It's also one of the world's most biologically diverse places.
+
+**1:39** · A home for over 800 species of birds, 140 species of mammals, and 9,000 species of plants.
+
+**1:50** · Here, inside a 100-meter square, you can find nearly as many tree species as in all of Europe.
+
+**1:58** · Rainforests like The Choco are critical for preserving Earth's biodiversity.
+
+###### The challenge of restoration
+
+**2:10** · These are some of the determined researchers on a mission to save this remarkable ecosystem.
+
+**2:20** · (Leighton speaking in foreign language) - They contain more than half of all of the species in the world, even though they occupy a relatively small proportion of the Earth's land surface.
+
+**2:29** · There's new species being discovered in tropical rainforests every year, including here in Northwestern Ecuador.
+
+**2:35** · Every year, an area of tropical forest gets cut down that's about the size of Lake Michigan.
+
+**2:43** · (orchestral music) - The Choco is considered one of the most threatened ecoregions in the world.
+
+**2:48** · In Ecuador, only about 2% of the original forest cover remains.
+
+**2:54** · As more and more of it is converted to palm oil plantations, countless species of plants and animals are at risk of extinction.
+
+**3:09** · (Fernando speaking in foreign language) Fernando is now fighting to restore his native lands.
+
+###### The power of natural recovery
+
+**3:29** · (Fernando speaking in foreign language) But saving a rainforest is not an easy task.
+
+**3:34** · Although scientists know what a healthy tropical forest looks like, they still know very little about how to regrow them.
+
+**3:54** · (Fernando speaking in foreign language) (light music) At this point, maybe you're thinking, why not just plant trees?
+
+**3:58** · One new tree to replace every old one?
+
+**4:01** · Well, the cost, for starters.
+
+**4:03** · Additionally, many traditional replanting efforts have focused on replanting only a small number of tree species.
+
+**4:10** · But this allows only a few fast growing species to dominate the regrown forest, and it really fails to recreate the complex diversity of species in natural rainforests, which can contain upwards of 400 tree species in an area the size of a Manhattan city block.
+
+**4:29** · Regrowing a forest by only replanting a few species is like trying to paint a Picasso with only primary colors.
+
+**4:39** · But here, scientists are trying something new, an idea that harnesses the power of nature itself.
+
+**4:47** · Instead of planting rows of seedlings in a large scale plantation, the researchers are creating small, strategic patches filled with a diverse mix of native trees.
+
+**4:58** · They hope that over time these empty spaces will be filled by the same natural processes that keep healthy rainforests lush and diverse.
+
+**5:08** · [Leighton] The idea is that these small patches of trees will kickstart a natural regeneration process.
+
+**5:13** · [Joe] And here's where things get interesting, because the team's secret weapon is poop. (bright music) The trees planted in these islands produce fruit. In a healthy rainforest, animals act as nature's gardeners. As creatures like howler monkeys and toucans feast on that fruit, their droppings disperse seeds far and wide, planting new forest with every trip to the bathroom. Up to 80% of tree species rely on birds and mammals to spread their seeds in this way.
+
+###### Nature's gardeners
+
+**5:46** · When a patch of rainforest falls, it's these animal gardeners that hold the key to bringing it back to life. Eating fruits, carrying the seeds far and wide, and ultimately, planting the forest of tomorrow.
+
+**6:00** · One of the big questions is, what are the best kinds of trees to plant?
+
+**6:05** · How many of them do you need to plant and what kinds of spatial configurations?
+
+**6:09** · [Joe] The scientists are betting that by planting trees with mouthwatering fruits, they'll attract a bunch of hungry critters like monkeys, birds, and bats to help this forest regrow itself. Who knew that the key to saving the rainforest could be as simple as a well-stocked fruit buffet. To test the idea, researchers pack half of their plots with trees that produce a bounty of animal attracting fruit, while the other half offer fewer delicious treats.
+
+###### Measuring success
+
+
+**6:42** · At the same time, we're also monitoring animal populations to identify what bird species are coming and visiting plots. (Fernando speaking in foreign language) [Leighton] We'd like to be able to connect the dots between what animals are present and what seeds they're bringing into the restoration plots.
+
+**7:12** · [Joe] The project has captured the imagination of the local community.
+
+**7:17** · [Leighton] A lot of the success that FCAT has enjoyed is due to the tight bonds that they have with the local communities that are here. (Fernando speaking in foreign language) [Joe] The experiment is still young, but the team is already seeing promising signs. (Fernando speaking in foreign language) (light music) If it works, this approach could revolutionize reforestation efforts not just in The Choco, but in threatened rainforests worldwide.
+
+###### Future of reforestation
+
+
+**8:08** · Ecological restoration is not a silver bullet.
+
+**8:12** · It's not the solution to all of our environmental problems. In order to prevent mass extinction, we have to stop destroying intact habitats. And restoration can't do that. But restoration is part of the solution as well. Ecological restoration allows us to build back some of the habitat that's been lost.
+
+**8:29** · [Joe] Only time will tell if their tree islands will take root. But in the battle to save our rainforests, every seed of hope matters, and in The Choco, those seeds are starting to sprout. Hey guys, we’re out here working on the next episode of Overview. But before you go, if you’re a fan of history, we want to tell you about two new series over on PBS Origins.
+
+###### Conclusion and credits
+
+**8:55** · Roots of Resistance is a series which shows how history is often made through defiance. And In the Margins explores the kind of lesser-known stories that they maybe don’t teach you in school. We're gonna put a link to their latest episodes down below. We hope you consider subscribing too. It helps all of us over at PBS.
+
+#### Why we should be destroying more dams
+
+**DW Planet A**, *09 18, 2026*
+
+##### Video (11:51)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/na0L_H-tDtU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Thousands of dams are being destroyed, bringing life back to its rivers. Migratory fish are returning to waterways, habitats are reconnecting, and entire ecosystems are being restored. While many dams remain vital for drinking water, irrigation, and flood management, Europe is 
+
+rethinking its relationship with its rivers, one dam at a time. 
+
+#PlanetA #Enobieta #SanSebastian #renewableenergy #hydropower #dams #rivers #Spain #Europe 
+
+CREDITS 
+
+Reporter: Janek Speight 
+
+Camera: Mikel Bereziartua 
+
+Video Editor: Markus Mörtz 
+
+Supervising Editor: Adam Baheej Adada, Kiyo Dörrer, Michael Trobridge 
+
+Fact Check: Jeannette Cwienk 
+
+Thumbnail: Em Chabridon 
+
+READ MORE 
+
+Consequences of Large Dam Decommissioning Project in Europe: The Case of Enobieta 
+
+https://addi.ehu.es/bitstream/handle/10810/62662/TESIS_ATRISTAIN_VEGA_MIREN.pdf 
+
+Stream macroinvertebrate communities improve quickly after large dam decommissioning 
+
+https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2664.14656 
+
+Dam Removal Europe Progress Report 2025 
+
+https://damremoval.eu/wp-content/uploads/2026/08/DRE-Progress-Report-2025.pdf 
+
+IEA Global Electricity Demand Report 2025 
+
+https://www.iea.org/reports/electricity-2025 
+
+EMBER Global Electricity Review 20206 
+
+https://ember-energy.org/app/uploads/2026/04/Global-Electricity-Review-2026.pdf 
+
+CHAPTERS 
+
+0:00 Intro 
+
+0:32 Enobieta Dam 
+
+2:41: Global Dam Problem 
+
+5:07: Rivers Returning 
+
+8:55: Global Balance 
+
+10:33: Conclusion 
+
+We're destroying our environment at an alarming rate. But it doesn't need to be this way. Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means. We look at the big and the small: What we can do and how the system needs to change. We'll take a truly global look at how to get us out of this mess.
+
+Follow Planet A on TikTok: https://www.tiktok.com/@dw_planeta
+
+##### Transcript
+
+###### Intro
+
+**0:00** · "I've been told they're going to tear this down.
+
+**0:02** · So I'm here to find out why."
+
+**0:05** · This is the Enobieta dam.
+
+**0:07** · Huge dams just like it can be found around the world and more are being built every year.
+
+**0:13** · They provide clean drinking water, irrigation for farming and flood protection.
+
+**0:17** · And they're one of the most important sources of renewable electricity on the planet.
+
+**0:22** · But in Europe, something is changing.
+
+**0:24** · Environmental groups want to remove thousands of dams just like this.
+
+**0:28** · So why do they want them gone?
+
+###### Enobieta Dam
+
+**0:32** · "By the time you see this video, this big chunk of the dam will be gone."
+
+**0:36** · The Enobieta Dam is named after the river it crosses.
+
+**0:40** · This wall of concrete was built in the late 1940s to secure drinking water for San Sebastian, in northern Spain.
+
+**0:46** · But the dam already looks different to what I expected.
+
+**0:51** · "To me and my untrained eye, this just looks like it's a forest.
+
+**0:55** · But what are we looking at here here?"
+
+**0:57** · "It's indeed a forest, but all this was covered with water.
+
+**1:02** · Here we had a reservoir which was 30-32 meters deep."
+
+**1:07** · After San Sebastian city council decided to dismantle the dam, the reservoir was emptied in 2019.
+
+**1:13** · Arturo Elosegi led the research into how its removal would affect the river, and the Artikutza forest that surrounds it.
+
+**1:21** · The dam had operated for around 30 years, but it quickly became clear that there were geotechnical issues with the location.
+
+**1:28** · Its storage capacity had to be reduced and there were also issues with iron and manganese contamination in the water.
+
+**1:34** · And in 1976, it was abandoned altogether when a new, larger dam replaced it nearby.
+
+**1:41** · "So they basically built this massive structure…" "In the worst place."
+
+**1:44** · "It was obsolete almost immediately."
+
+**1:46** · "Yeah, that's it."
+
+**1:51** · "So we're now in the former reservoir and it seems mad that only a few years ago, this would've been just a tonne of water."
+
+**2:01** · "Here we would be like five meters under water.
+
+**2:05** · You can see there these big trees are the ancient ones, and the new ones, which are growing in what was the former reservoir."
+
+**2:15** · Five years was all it took to transform the former reservoir from this… into this.
+
+**2:20** · And then something else happened.
+
+**2:22** · "The stream started to carve again a channel.
+
+**2:26** · And in most of the places, it carved exactly the same channel as it had before."
+
+**2:31** · "So the rivers returned to the exact same place… it knew where to go?"
+
+**2:37** · "Yeah. It has memory if you want."
+
+**2:42** · Humans have harnessed the power of water for centuries.
+
+**2:45** · Dams have transformed modern life.
+
+**2:47** · And hydropower remains the world's largest source of renewable energy, supplying around 14% of global electricity.
+
+**2:56** · In Norway, hydro accounts for 95% of its electricity.
+
+**3:00** · Its ability to reliably generate huge amounts of power means demand is still growing, even as wind and solar expand rapidly.
+
+**3:10** · But that comes at a cost.
+
+**3:13** · Dams interrupt the movement of fish.
+
+**3:15** · They trap sediment, alter water temperatures and transform entire aquatic ecosystems.
+
+**3:21** · And it's not just giant hydroelectric dams that can do this.
+
+**3:25** · Weirs, culverts, watermills — are all barriers that can disrupt or block a river system.
+
+**3:31** · "In Europe there are 1.2 million, at least, barriers."
+
+**3:36** · That's Kerry Brink, who works with Dam Removal Europe, a coalition of environmental organizations working to restore free-flowing rivers across the continent.
+
+**3:45** · "These barriers — and a large part of them are small — are really basically cutting up our river systems.
+
+**3:52** · The water quality reduces, water is not flowing in a natural way.
+
+**3:58** · So you really get changes in the water chemistry.
+
+**4:01** · We have declining fish populations, our freshwater biodiversity and freshwater species are the highest impacted species globally."
+
+**4:14** · Dam Removal Europe estimates that around 200,000 barriers are already considered obsolete.
+
+**4:19** · Although the true number is likely much higher.
+
+**4:23** · It's these structures, which no longer have a societal or financial benefit anymore, that they want to tear down.
+
+**4:31** · "We are really not wanting to remove the functional barriers.
+
+**4:37** · We are truly wanting to remove the barriers that actually have a flood risk, which actually have no purpose."
+
+**4:47** · Across Europe, the push to remove obsolete barriers is gathering pace.
+
+**4:51** · In 2025 alone, at least 600 came down across the continent.
+
+**4:56** · And the European Union wants to restore at least 25,000 kilometers of free-flowing rivers by 2030.
+
+**5:02** · But why does removing them make such a difference?
+
+**5:08** · Part of the reason can be seen at Enobieta.
+
+**5:11** · Because when the reservoir here was drained, an entire ecosystem returned.
+
+**5:20** · "A small stream, in a place like this one, lives from the forest.
+
+**5:24** · In the first year, when there was still no forest, the water was quite hot because the sunlight reached it directly.
+
+**5:33** · But then the forest was closing and the water gets cooler."
+
+**5:39** · As the forest returned, the food chain started to rebuild.
+
+**5:43** · "Especially what you have is leaves.
+
+**5:46** · And you see, this leaf is eaten by insects.
+
+**5:48** · There are some fungi, microscopic fungi which grow on top of the leaves.
+
+**5:55** · The insects start to eat these leaves, they grow, the fish eat the insects.
+
+**6:02** · And so everything is fueled by these leaves.
+
+**6:06** · The recovery has been astonishing."
+
+**6:09** · But that recovery can only be complete when the dam itself is out of the way.
+
+**6:21** · Instead of demolishing the whole dam, engineers and the San Sebastian City Council decided it would be enough to cut out a seven-meter section.
+
+**6:29** · The partial removal has limited the amount of concrete taken out, minimizing heavy traffic and construction and overall disruption to the surrounding Artikutza forest.
+
+**6:38** · It also helped protect a bat population that had colonised the dam's internal chambers.
+
+**6:43** · And, it was significantly cheaper — costing around €1.6 million.
+
+**6:50** · When the removal is finished and the river is reconnected, another big change will occur.
+
+**6:56** · The river itself will start to behave naturally again, including how it moves sediment downstream.
+
+**7:02** · Upstream there's a diverse mix of sediment, including cobbles, sand and gravel, which is distributed by the river.
+
+**7:08** · But the dam continues to block that natural flow downstream.
+
+**7:13** · "What you see here, these are not boulders or cobbles, these are blocks of concrete.
+
+**7:20** · Which were thrown here when they lowered the spillway.
+
+**7:26** · So this is totally artificial.
+
+**7:29** · The new channel will go through there and then new sediments, natural sediments will come.
+
+**7:33** · We can see also downstream from the dam, the river habitat was very very poor because all these sediments were retained by the reservoir."
+
+**7:43** · When the river is allowed to pass through again, it will carry a more diverse range of sediments downstream — helping to rebuild banks, the riverbed and the habitats around it.
+
+**7:54** · "Everything will change and we'll have again forest, the sediments will be much more natural.
+
+**8:00** · The habitat is something that is created by the river itself when it moves the sediments.
+
+**8:05** · And they will be created again."
+
+**8:08** · At Enobieta, removing the dam is helping to restore this forest's unique ancient ecosystem.
+
+**8:13** · But reconnecting rivers have other benefits too, particularly for migratory fish.
+
+**8:21** · Which is what happened at Hiitolanjoki in Finland.
+
+**8:24** · Three small hydropower dams had blocked movement access for the endangered landlocked Ladoga salmon.
+
+**8:30** · Authorities decided it made sense to remove the plants and restore the rivers.
+
+**8:35** · "What we've seen is straight after the removals, in actual fact, a week or two weeks after the removals, there was footage of these landlocked salmon spawning in the region just upstream of the barrier.
+
+**8:50** · So it really is something that you can actually visibly see."
+
+**8:55** · "At this point, it all sounds and looks pretty convincing.
+
+**8:58** · Remove the barriers, the rivers reconnect, and nature returns.
+
+**9:02** · But it's not always that simple."
+
+**9:05** · Because while Europe is removing dams that have outlived their purpose, parts of the world are still building them.
+
+**9:11** · Much of the Global south still needs to meet growing demands.
+
+**9:14** · In the Democratic Republic of Congo only 1 in 5 people have access to electricity.
+
+**9:19** · The proposed Grand Inga hydropower project could eventually generate about 42 gigawatts of power — that's about 15 times the DRC's current capacity.
+
+**9:32** · "In many cases, there are barriers that need to be developed.
+
+**9:39** · We do need barriers, but we just want to make sure that the barriers that are there are well functioning."
+
+**9:46** · Meanwhile in India, the issue is more than just electricity.
+
+**9:49** · The country of more than 1.4 billion is investing heavily in its dam network.
+
+**9:54** · The government says they're being built to secure water supplies, support agriculture and to help control flooding.
+
+**10:00** · But many communities, particularly in the Himalayas, have fought these new developments.
+
+**10:05** · They claim that these dams are a threat to fragile ecosystems and disrupt the lives of local residents.
+
+**10:10** · And as drought and flood risk increases, questions are being raised about how long some of these new dams and reservoirs can even remain effective.
+
+**10:20** · "We need them. We have to survive.
+
+**10:23** · So the question is to try to have as few dams as possible and to keep them working for as long as possible."
+
+**10:33** · Some dams will remain essential for decades to come.
+
+**10:36** · And new dams will still have to be built.
+
+**10:38** · But Enobieta shows us that our relationship with dams needs a major rethink.
+
+**10:43** · "Wherever you build something, you have to take into account the whole life cycle.
+
+**10:47** · You have to take into account that someday this will be considered obsolete, it will be a danger, a hazard or whatever, and will be removed.
+
+**10:58** · When we first started out removing this reservoir, we didn't believe we would see it.
+
+**11:02** · I work in the environment and mostly we give bad news.
+
+**11:06** · We look at the environment and we see problems: climate change, pollution, extinction, whatever.
+
+**11:14** · And to see something that was barely imaginable some years ago and that's happened.
+
+**11:22** · That's really a nice thing."
+
+**11:31** · "Are there obsolete dams or barriers close to where you live?
+
+**11:33** · And how do they affect your river systems?
+
+**11:36** · Let us know in the comments, and if you wanna see more videos like this, you know what to do — hit subscribe."
+
 #### Wild Horses America's Most Beloved Invasive Species
 
 **PBS Terra**, *10 22, 2020*
@@ -1853,18 +4923,6 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 Moose have flourished in Colorado in recent decades, leading to more attacks on people, overgrazing in key valleys and declining ecosystems. On top of that, the question of the animal’s native status has started a contentious debate that could have large impacts on the future of moose in Colorado. Now the question becomes how to manage the population as moose enter the spotlight.
 
 Subscribe to our YouTube channel: https://bit.ly/3zeF6Ch
-
-------------------------------------------------------
-
-Follow Rocky Mountain PBS on our other platforms, too.
-
-• Newsletter: https://www.rmpbs.org/newsletters 
-
-• Facebook: https://www.facebook.com/rmpbs
-
-• Instagram: https://www.instagram.com/rmpbs
-
-• LinkedIn: https://www.linkedin.com/company/rocky-mountain-pbs
 
 ##### Transcript
 

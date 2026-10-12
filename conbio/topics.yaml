@@ -46,6 +46,7 @@
     - "Ch 3 Biodiversity Concepts and Measurement"
     - "The conservation biologist's toolbox – principles for the design and analysis of conservation studies"
   films_possible:
+    - "Knowledge Keepers"
     - "Ocean With David Attenborough"
     - "Rebuilding The Herd Rewilding The Future"
     - "Some Animals Are More Equal than Others Keystone Species and Trophic Cascades"
@@ -57,8 +58,11 @@
     - "How eDNA helps strengthen marine biodiversity monitoring across Africa"
     - "How Otters Are Saving Earth’s Underwater Forests"
     - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
+    - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains 1"
     - "Measuring biodiversity made easy  short version"
+    - "Ocean Habitat Loss"
     - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
+    - "They recorded a rainforest in Indonesia before it changed forever"
 - title: "Climate Change & Biodiversity"
   unit:
     - "Threats to Biodiversity"
@@ -70,8 +74,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W11D1"
-    - "BIOL4120_W11D2"
+    - "BIOL4120_W12D1"
+    - "BIOL4120_W12D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -90,15 +94,15 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-11-02T16:00:00"
-    - "2026-11-04T16:00:00"
+    - "2026-11-09T16:00:00"
+    - "2026-11-11T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W11D1"
-  date_start: "2026-11-02T16:00:00"
-  week_start: 11
-  class_end: "BIOL4120_W11D2"
-  date_end: "2026-11-04T16:00:00"
-  week_end: 11
+  class_start: "BIOL4120_W12D1"
+  date_start: "2026-11-09T16:00:00"
+  week_start: 12
+  class_end: "BIOL4120_W12D2"
+  date_end: "2026-11-11T16:00:00"
+  week_end: 12
   background_possible:
     - "Ch 12 Climate Change"
     - "Climate Change"
@@ -106,6 +110,10 @@
     - "Ocean With David Attenborough"
   videos_possible:
     - "Are We Living In the Sixth Extinction"
+    - "Climate change can money stop deforestation"
+    - "Climate change the trouble with trees"
+    - "Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S"
+    - "New Trees Won’t Solve Global Warming"
     - "The salmon dilemma"
 - title: "Community & Ecosystem Approaches"
   unit:
@@ -118,7 +126,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W15D1"
+    - "BIOL4120_W15D2"
+    - "BIOL4120_W16D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -138,27 +147,38 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-11-30T16:00:00"
+    - "2026-12-02T16:00:00"
+    - "2026-12-07T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W15D1"
-  date_start: "2026-11-30T16:00:00"
+  class_start: "BIOL4120_W15D2"
+  date_start: "2026-12-02T16:00:00"
   week_start: 15
-  class_end: "BIOL4120_W15D1"
-  date_end: "2026-11-30T16:00:00"
-  week_end: 15
+  class_end: "BIOL4120_W16D1"
+  date_end: "2026-12-07T16:00:00"
+  week_end: 16
   background_possible:
     - "Ch 14 Community and Ecosystem Conservation"
     - "Conservation planning and priorities"
     - "From conservation theory to practice - crossing the divide"
   films_possible:
+    - "Knowledge Keepers"
     - "Ocean With David Attenborough"
     - "Rebuilding The Herd Rewilding The Future"
     - "Some Animals Are More Equal than Others Keystone Species and Trophic Cascades"
     - "Vanishing Act"
   videos_possible:
+    - "Climate change can money stop deforestation"
+    - "Four years ago we flooded a forest - the results are insane"
     - "How Otters Are Saving Earth’s Underwater Forests"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
+    - "The story of Knepp A rewilding success  Field Studies"
+    - "The Surprising Species That Everything Else Depends On  IN OUR NATURE"
+    - "We Built a Wildlife Corridor Through a City"
     - "We Let Beavers Transform an Old Farm"
+    - "What happens when you set a river free  BBC News"
+    - "What Is Rewilding"
+    - "Why This Unusual Pattern May Save the Rainforests 1"
+    - "Why we should be destroying more dams"
 - title: "Ex Situ Conservation"
   unit:
     - "Approaches to Conservation"
@@ -170,8 +190,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W12D2"
     - "BIOL4120_W13D1"
+    - "BIOL4120_W13D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -190,14 +210,14 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-11-11T16:00:00"
     - "2026-11-16T16:00:00"
+    - "2026-11-18T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W12D2"
-  date_start: "2026-11-11T16:00:00"
-  week_start: 12
-  class_end: "BIOL4120_W13D1"
-  date_end: "2026-11-16T16:00:00"
+  class_start: "BIOL4120_W13D1"
+  date_start: "2026-11-16T16:00:00"
+  week_start: 13
+  class_end: "BIOL4120_W13D2"
+  date_end: "2026-11-18T16:00:00"
   week_end: 13
   background_possible:
     - "Ch 16 Ex Situ Conservation"
@@ -207,6 +227,7 @@
     - "Rebuilding The Herd Rewilding The Future"
     - "Vanishing Act"
   videos_possible:
+    - "Search ongoing for extinct Tasmanian tiger amid efforts to revive species  60 Minutes"
     - "Should zoos exist  BBC Ideas"
     - "We Let Beavers Transform an Old Farm"
     - "Why This Unusual Pattern May Save the Rainforests"
@@ -224,18 +245,11 @@
     - "BIOL4120_W8D2"
   projects:
     - "Conservation Biology Fall 2026"
-  background: null
-  quizzes: null
-  slides: null
-  videos: null
-  films: null
-  exercises: null
-  handouts: null
-  assignments: null
   area: "teaching"
   tags:
     - "teaching"
     - "lesson"
+    - "exam"
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
@@ -247,6 +261,17 @@
   class_end: "BIOL4120_W8D2"
   date_end: "2026-10-14T16:00:00"
   week_end: 8
+  exam_slides: null
+  exam_videos: null
+  exam_films: null
+  exam_background: null
+  exam_topics:
+    - "The Rise of Conservation Biology"
+    - "Biodiversity Concepts & Measurement"
+    - "Case Conversation 1 - Extinction"
+    - "Quantifying Biodiversity"
+    - "Extinction"
+    - "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
   background_possible:
     []
   films_possible:
@@ -307,6 +332,7 @@
     - "How poaching is changing the face of African elephants"
     - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
     - "Project aims to count Africa's shrinking elephant population"
+    - "Search ongoing for extinct Tasmanian tiger amid efforts to revive species  60 Minutes"
     - "Selection for Tuskless Elephants  HHMI BioInteractive Video"
     - "Should zoos exist  BBC Ideas"
     - "The salmon dilemma"
@@ -413,13 +439,16 @@
   course_number: "4120"
   class_days:
     - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
     - "Habitat fragmentation and landscape change"
     - "Habitat destruction - death by a thousand cuts"
   quizzes: null
-  slides: null
+  slides:
+    - "Habitat Loss & Fragmentation"
   videos: null
   films: null
   exercises: null
@@ -433,13 +462,15 @@
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
     - "2026-10-07T16:00:00"
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
   course_name: "Conservation Biology"
   class_start: "BIOL4120_W7D2"
   date_start: "2026-10-07T16:00:00"
   week_start: 7
-  class_end: "BIOL4120_W7D2"
-  date_end: "2026-10-07T16:00:00"
-  week_end: 7
+  class_end: "BIOL4120_W10D1"
+  date_end: "2026-10-26T16:00:00"
+  week_end: 10
   background_possible:
     - "Ch 9 Habitat Loss, Fragmentation, and Degradation"
     - "Habitat destruction - death by a thousand cuts"
@@ -449,13 +480,33 @@
     - "Rebuilding The Herd Rewilding The Future"
   videos_possible:
     - "Are We Living In the Sixth Extinction"
+    - "Climate change can money stop deforestation"
+    - "Climate change the trouble with trees"
+    - "Four years ago we flooded a forest - the results are insane"
     - "Giant Pythons Have Overrun Florida. Here’s Why"
     - "How Otters Are Saving Earth’s Underwater Forests"
+    - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains 1"
+    - "New Trees Won’t Solve Global Warming"
+    - "Ocean Habitat Loss"
+    - "One fifth of the Amazon rainforest lost to deforestation  BBC News"
+    - "Seed Dispersal and Habitat Fragmentation  HHMI BioInteractive Video"
+    - "The Everyday Ingredient Destroying the Planet"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
+    - "The story of Knepp A rewilding success  Field Studies"
+    - "They recorded a rainforest in Indonesia before it changed forever"
+    - "Thornforest Restoring the Wildlands of South Texas"
+    - "We Built a Wildlife Corridor Through a City"
     - "We Let Beavers Transform an Old Farm"
+    - "We’re Building a Continent-Wide Wildlife Corridor - Differently"
     - "We’re creating the world’s biggest wildlife corridor"
+    - "What happens when you set a river free  BBC News"
     - "Why This Unusual Pattern May Save the Rainforests"
+    - "Why This Unusual Pattern May Save the Rainforests 1"
+    - "Why we should be destroying more dams"
     - "Wild Horses America's Most Beloved Invasive Species"
+  lecture_archive:
+    - "9-1_habitat_loss"
+    - "9-2_habitat_fragmentation"
 - title: "Invasive Alien Species"
   unit:
     - "Threats to Biodiversity"
@@ -467,8 +518,7 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W10D1"
-    - "BIOL4120_W10D2"
+    - "BIOL4120_W11D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -487,15 +537,14 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-10-26T16:00:00"
-    - "2026-10-28T16:00:00"
+    - "2026-11-04T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W10D1"
-  date_start: "2026-10-26T16:00:00"
-  week_start: 10
-  class_end: "BIOL4120_W10D2"
-  date_end: "2026-10-28T16:00:00"
-  week_end: 10
+  class_start: "BIOL4120_W11D2"
+  date_start: "2026-11-04T16:00:00"
+  week_start: 11
+  class_end: "BIOL4120_W11D2"
+  date_end: "2026-11-04T16:00:00"
+  week_end: 11
   background_possible:
     - "Ch 11 Invasive Alien Species"
     - "Invasive Species"
@@ -562,6 +611,7 @@
   course_number: "4120"
   class_days:
     - "BIOL4120_W16D1"
+    - "BIOL4120_W16D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -581,22 +631,38 @@
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
     - "2026-12-07T16:00:00"
+    - "2026-12-09T16:00:00"
   course_name: "Conservation Biology"
   class_start: "BIOL4120_W16D1"
   date_start: "2026-12-07T16:00:00"
   week_start: 16
-  class_end: "BIOL4120_W16D1"
-  date_end: "2026-12-07T16:00:00"
+  class_end: "BIOL4120_W16D2"
+  date_end: "2026-12-09T16:00:00"
   week_end: 16
   background_possible:
     - "Ch 15 Landscape-Scale Conservation"
     - "Conservation in human‐modified landscapes"
   films_possible:
+    - "Knowledge Keepers"
     - "Managing Moose Colorado's Most Dangerous Animal"
   videos_possible:
     - "Camera Trapping at American Prairie Reserve"
+    - "Climate change can money stop deforestation"
+    - "Climate change the trouble with trees"
+    - "Four years ago we flooded a forest - the results are insane"
+    - "New Trees Won’t Solve Global Warming"
+    - "The Everyday Ingredient Destroying the Planet"
+    - "The story of Knepp A rewilding success  Field Studies"
+    - "The Surprising Species That Everything Else Depends On  IN OUR NATURE"
+    - "Thornforest Restoring the Wildlands of South Texas"
+    - "We Built a Wildlife Corridor Through a City"
+    - "We’re Building a Continent-Wide Wildlife Corridor - Differently"
     - "We’re creating the world’s biggest wildlife corridor"
+    - "What happens when you set a river free  BBC News"
+    - "What Is Rewilding"
     - "Why This Unusual Pattern May Save the Rainforests"
+    - "Why This Unusual Pattern May Save the Rainforests 1"
+    - "Why we should be destroying more dams"
 - title: "No Class BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -653,8 +719,9 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W9D2"
     - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+    - "BIOL4120_W11D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -673,25 +740,29 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-10-21T16:00:00"
     - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
+    - "2026-11-02T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W9D2"
-  date_start: "2026-10-21T16:00:00"
-  week_start: 9
-  class_end: "BIOL4120_W10D1"
-  date_end: "2026-10-26T16:00:00"
-  week_end: 10
+  class_start: "BIOL4120_W10D1"
+  date_start: "2026-10-26T16:00:00"
+  week_start: 10
+  class_end: "BIOL4120_W11D1"
+  date_end: "2026-11-02T16:00:00"
+  week_end: 11
   background_possible:
     - "Ch 10 Overexploitation"
     - "Overharvesting"
   films_possible:
-    []
+    - "Knowledge Keepers"
   videos_possible:
     - "Are We Living In the Sixth Extinction"
+    - "Climate change can money stop deforestation"
+    - "Climate change the trouble with trees"
     - "How poaching is changing the face of African elephants"
     - "Project aims to count Africa's shrinking elephant population"
     - "Selection for Tuskless Elephants  HHMI BioInteractive Video"
+    - "The Everyday Ingredient Destroying the Planet"
     - "The salmon dilemma"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
 - title: "Overview & Syllabus BIOL4120"
@@ -748,6 +819,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
+    - "BIOL4120_W14D1"
+    - "BIOL4120_W15D1"
     - "BIOL4120_W13D2"
   projects:
     - "Conservation Biology Fall 2026"
@@ -768,13 +841,15 @@
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
     - "2026-11-18T16:00:00"
+    - "2026-11-23T16:00:00"
+    - "2026-11-30T16:00:00"
   course_name: "Conservation Biology"
   class_start: "BIOL4120_W13D2"
   date_start: "2026-11-18T16:00:00"
   week_start: 13
-  class_end: "BIOL4120_W13D2"
-  date_end: "2026-11-18T16:00:00"
-  week_end: 13
+  class_end: "BIOL4120_W15D1"
+  date_end: "2026-11-30T16:00:00"
+  week_end: 15
   background_possible:
     - "Ch 13 Species-Level Conservation"
     - "Endangered species management - the US experience"
@@ -788,12 +863,16 @@
     - "AI-powered camera traps are protecting Gabon wildlife from poachers"
     - "How Otters Are Saving Earth’s Underwater Forests"
     - "How poaching is changing the face of African elephants"
+    - "Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S"
     - "Project aims to count Africa's shrinking elephant population"
+    - "Search ongoing for extinct Tasmanian tiger amid efforts to revive species  60 Minutes"
     - "Selection for Tuskless Elephants  HHMI BioInteractive Video"
     - "Should zoos exist  BBC Ideas"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
     - "The salmon dilemma"
+    - "The Surprising Species That Everything Else Depends On  IN OUR NATURE"
     - "We Let Beavers Transform an Old Farm"
+    - "We’re Building a Continent-Wide Wildlife Corridor - Differently"
 - title: "Thanksgiving Break BIOL4120"
   unit:
     - "Breaks BIOL4120"

@@ -1,6 +1,6 @@
 ---
 title: "Community & Ecosystem Approaches"
-date: "2026-11-30T16:00:00"
+date: "2026-12-02T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -15,7 +15,7 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-11-30T16:00:00
+**Dates:** 2026-12-02T16:00:00, 2026-12-07T16:00:00
 
 ## Assigned Background
 
@@ -33,7 +33,7 @@ listing:
 
 **Textbook:** Conservation Biology for All *(see details below)*
 
-**Days Covered:** BIOL4120_W15D1
+**Days Covered:** BIOL4120_W15D1, BIOL4120_W15D2
 
 :::
 
@@ -69,7 +69,7 @@ listing:
 
 **Textbook:** Conservation Biology for All *(see details below)*
 
-**Days Covered:** BIOL4120_W15D1
+**Days Covered:** BIOL4120_W15D1, BIOL4120_W15D2
 
 :::
 
@@ -135,7 +135,7 @@ listing:
 
 **Textbook:** Conservation Biology for All *(see details below)*
 
-**Days Covered:** BIOL4120_W15D1
+**Days Covered:** BIOL4120_W15D1, BIOL4120_W15D2
 
 :::
 
@@ -171,7 +171,7 @@ listing:
 
 **Textbook:** Conservation Biology for All *(see details below)*
 
-**Days Covered:** BIOL4120_W15D1
+**Days Covered:** BIOL4120_W15D1, BIOL4120_W15D2
 
 :::
 
@@ -194,6 +194,530 @@ listing:
 :::
 
 ### Video Clips
+
+#### Climate change can money stop deforestation
+
+**The Economist**, *11 01, 2022*
+
+##### Video (12:50)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/cOfWyCkcSvg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Rampant deforestation has driven economic growth, but accelerates climate change. How do you put a price on trees, to make them worth more alive than dead?
+
+Film supported by Bain and Company
+
+00:00 - Can money grow on trees?
+
+00:55 - What Costa Rica can teach us
+
+01:52 - Down with the trees: rapid deforestation around the world
+
+03:15 - Why tree-planting schemes aren’t always the answer
+
+04:24 - Paying for existing trees: carbon credits
+
+06:38 - How to finance the restoration of forests
+
+08:10 - What are Payments for Environmental Services?
+
+09:31 - Swapping to sustainable returns
+
+10:40 - Is focusing on economic growth the problem?
+
+11.50 - Why world leaders need to decarbonise the economy
+
+Sign up to our daily newsletter to keep up to date: https://econ.st/3n3kIjj 
+
+Why tree planting alone is not an adequate solution for climate change: https://econ.st/3rC50Oq
+
+How the world’s wealthiest countries cause deforestation in poor ones: https://econ.st/3rBgW3d
+
+The role of forests in climate change - listen to The Economist’s Intelligence podcast about their importance: https://econ.st/3rJ527a
+
+How Jair Bolsonaro has damaged the Amazon rainforest: https://econ.st/3CFQiwa
+
+Sign up to our climate change newsletter: https://econ.st/3b1dtCQ 
+
+A balance-sheet could help to save the planet:https://econ.st/3VcAZSS
+
+Why is the Amazon rainforest doing more harm than good? https://econ.st/3T50KCV
+
+##### Transcript
+
+###### Can money grow on trees?
+
+**0:00** · [Music] money doesn't grow on trees but chopping them down has helped lots of the world get richer since the beginning of the 20th century humans have been raiding these resources almost as though they were Limitless the problem is the world is now paying a heavy environmental price it certainly looks like a crisis after the worst drought in 80 years so is
+
+**0:26** · there a financial solution if we don't change the movement of money we'll continue to finance ourselves into Extinction is paying for trees to be protected and restored the answer and how do you put a price on their worth foreign
+
+**0:51** · to understand the alarming story of deforestation let's start with Costa Rica in the 1980s [Music] Maria's family was typical of many enticed by The Riches of Agriculture her father cleared and converted their Forest to pasture foreign
+
+###### What Costa Rica can teach us
+
+**1:29** · markets with the driving force behind deforestation from 1940 to 1987 the proportion of land in Costa Rica covered by forests plummeted from 75 percent to 21 percent
+
+**1:45** · Costa Rica's experience is far from unique the rest of the world jumped on the bandwagon too humans have been cutting trees for thousands of years but there was a massive acceleration in the last century the U.N estimates around 10 million
+
+###### Down with the trees: rapid deforestation around the world
+
+**2:01** · hectares of forest are being lost each year that's around 27 football fields every minute fewer trees means less carbon dioxide being absorbed from the atmosphere and their destruction only adds more emissions accelerating climate change
+
+**2:24** · The Heart Of This Global crisis sits the world's largest rainforest and the so-called Trump of the tropics jair bolsonaro um from 2019 to 2022 the rate of
+
+**2:41** · deforestation in Brazil Rose by roughly 50 percent attracting critics around the world the problem is it's a bit Rich for wealthy countries to demand that poorer ones give up the economic benefits of deforestation the majority of deforestation in recent
+
+**2:59** · years has really been driven by agriculture expansion in developing countries it can almost seem hypocritical to criticize these developing nations for following a pathway that effectively made rich countries wealthy in previous centuries
+
+###### Why tree-planting schemes aren’t always the answer
+
+**3:15** · so what can be done the simple answer is for rich countries to incentivize poorer ones to protect and restore their forests one thing the wealthy world has tried is stumping up cash for new tree planting schemes but many of these haven't borne
+
+**3:33** · fruit tree planting programs are incredibly popular they can seem almost childishly easy you plant a tree you save the climate the reality of course is nowhere near that simple in terms of the climate it can be far more beneficial to conserve the forest that's there so another way is to focus rewards for
+
+**3:55** · developing countries on conserving existing forests it works like this using historic rates of deforestation a country predicts how much Forest is likely to lose in the future any Forest that it manages to conserve is judged against this Benchmark the
+
+**4:12** · donor hands over a financial reward to the developing country for the trees it saved paying a sum for each ton of carbon dioxide that would have otherwise been emitted it's not just the developing country that stands to gain the donors often
+
+###### Paying for existing trees: carbon credits
+
+**4:28** · rich countries or companies can benefit too in exchange for their money they can claim what's called a carbon credit which they can use to offset their emissions elsewhere Carmen credits are a way of allowing companies countries people who can't
+
+**4:47** · reduce their own emissions currently to offset those emissions elsewhere they are seen as an important part of transitioning towards a net zero economy I started out hugging orangutans but now I find myself hugging asset managers and bankers a bit more often Andrew Mitchell is a zoologist turned financial advisor he encourages investors to buy carbon credits and believes they're an important tool for Forest conservation these credits are hugely valuable it's a
+
+**5:18** · transition strategy whilst you're reducing your carbon emissions you have to buy offsets you should buy offsets it sounds like a win-win but so far the results are mixed Shady players have gained the system and pulled dirty tricks like duplicating credits or
+
+**5:36** · claiming to conserve land never under threat or moving the problem to the forest next door built into the Paris agreement is this consensus that there should be a global scheme for exchanging carbon credits across borders in practice the rules and standards that would govern such a global market have been incredibly difficult to establish and so right now
+
+**6:01** · what we've got is a system which is really unregulated and although standards and the scale of carbon credit schemes are improving there's still one big sticking point the rewards for conserving trees still lag behind those for deforesting we need carbon markets to grow they
+
+**6:22** · won't really achieve their full potential unless the price of offsetting a ton of carbon is competitive with the profits that can be generated from other activities on that land ultimately conservation has to become profitable
+
+###### How to finance the restoration of forests
+
+**6:38** · re-enter Costa Rica once the poster child of deforestation but now a global leader in conservation and an example of how to make saving nature pay here landowners are paid by the government to restore and conserve forests and this has helped to create new and sustainable economic opportunities [Music]
+
+**7:07** · remember Maria whose father made a living out of chopping down trees like many in Costa Rica her family have since branched out and now do the very opposite [Music]
+
+**7:24** · Maria and her grandchildren we plant forests so far 350 hectares worth the government pays them and many other families around 80 a year for each hectare of forest that's restored or kept intact Graces
+
+**7:55** · Ramos [Music] it might sound like a government subsidy scheme but here's the key bit it's not
+
+###### What are Payments for Environmental Services?
+
+**8:12** · it's a system known as payments for Environmental Services launched in the late 90s is paid for by citizens who are seen as benefiting from the services provided by healthy forests like carbon storage the protection of vital food chains and clean water the money is not coming from from the national budget the money comes from those who benefit
+
+**8:38** · Carlos Manuel Rodriguez is Costa Rica's former environment Minister and the brains behind the scheme which is paid for by a levy on consumers water bills and attacks on their fuel use Costa Rica was the first developing country that put a tax on on carbon to
+
+**8:56** · generate a revenue for the payment of Environmental Services everybody who uses fuel in Costa Rica and pollutes the environment contributing to climate change must pay in the price of purchases that fuel an extra amount that
+
+**9:13** · goes to this foreign fund that pays Farmers so far the scheme has invested more than 500 million dollars in the conservation of forests and it's paid off in the space of a generation Forest covering Costa Rica jumped from 21 to more than 50 percent
+
+###### Swapping to sustainable returns
+
+**9:32** · with the restoration of trees have come new opportunities for profitable and sustainable Industries blowing away the idea that conservation and economic development are always at loggerheads nature-based tourism has become naturally important because of our jobs in rural Costa Rica as opposed to what we had in the past which was this irrational unsustainable agricultural production there is no dichotomy between preservation and economic development
+
+**10:05** · since 1987 the peak of deforestation in Costa Rica the country's GDP has risen by an average of 4.2 percent a year Costa Rica isn't a magic formula for saving the world's forests since it began prioritizing conservation it's increased food imports an option not available to all countries but there is a lot Costa Rica can teach others for one thing it's improved some
+
+**10:32** · of its bad spending habits reversing subsidies that incentivize the clearance of land at all costs a lead more countries should follow we should put more money into the protection of nature from governments but the reality is even if we doubled all that money it wouldn't come close to beating the subsidies that
+
+###### Is focusing on economic growth the problem?
+
+**10:52** · directly cause harm to Nature each year the world spends around 150 billion dollars on protecting nature but around 12 times that on subsidies that harm it some campaigners argue a more radical fix is needed to save the volume of forests necessary to avert environmental catastrophe they say what's required is a fundamental shift away from society's focus on profits and growth the problem
+
+**11:20** · with GDP is that it measures everything we build and nothing that we protect it's all beginning to change now people are waking up to the importance of keeping nature going to keep our economy going not everyone supports such a drastic change to economic thinking but
+
+**11:36** · most do agree that change is not happening fast enough with the eyes of many global leaders on other challenges the world is facing multiple crises in the midst of all this there is a risk that nature conservation and the climate crisis are demoted in the pecking order but climate change the global climate does not wait for short-term crises to pass foreign
+
+**12:12** · bullet that will reverse climate change the world needs to urgently reduce industrial emissions and prioritize policies to decarbonize economies but unless trees are worth more alive than dead deforestation and its Devastation will continue I'm Tom standage Deputy editor of The Economist and editor of the world ahead to read more of our future gazing coverage click on the link thanks for watching and don't forget to subscribe
+
+#### Four years ago we flooded a forest - the results are insane
+
+**Mossy Earth**, *10 02, 2026*
+
+##### Video (16:43)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/qcVMX32c0io title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+After 4 years this forest has completely transformed into a proper flooded forest!
+
+🌊 To support our work you can become a member here: https://mossy.earth
+
+MOSSY EARTH MEMBERSHIP
+
+===============================
+
+The rewilding membership that restores nature across a wide range of ecosystems.
+
+🌲 Support a diversity of ecosystems
+
+🐺 Rewild habitats to bring back biodiversity
+
+🦫 Fund neglected species & ecosystems
+
+Learn more and become a member here: https://mossy.earth
+
+🥾 Visit this and other rewilding projects: https://www.mossyearthjourneys.com/
+
+📝 Field notes channel - https://www.youtube.com/@MossyEarth-FieldNotes
+
+🔗 All our links: https://www.mossy.earth/links
+
+
+💪 OUR PARTNERS IN THIS VIDEO
+
+===============================
+
+BROZ: https://broz.sk/en/
+
+The project was also made possible thanks to the support of the LIFE17 NAT/SK/000621 project.
+
+⏱️TIMESTAMPS⏱️
+
+===============================
+
+0:00 Intro
+
+1:08 Project recap
+
+3:13 Flooded forest
+
+
+🔎 ABOUT THIS PROJECT
+
+===============================
+
+Over recent decades, large swathes of Slovakia’s wetlands have been lost. They have been drained to make way for agriculture as a result of the construction of dams for hydroelectric power, as well as for timber production. Wetlands are an integral part of the Danube floodplain landscape in Slovakia and draining them to plant trees has detrimental impacts on the environment. Wetlands store large amounts of carbon and are home to a diversity of plant and animal species that are specially adapted to the wet conditions. One of these species is the nationally endangered and endemic Pannonian root vole, which has declined drastically in Slovakia in response to disappearing wetlands. This project will turn forest back into a wetland by digging 650 meters of ditches. This will kickstart a “flood” of change and bring back a healthy functioning, sustainable and wilder ecosystem.
+
+Read more about this project here: https://www.mossy.earth/projects/restoring-wetlands
+
+CREDITS
+
+===============================
+
+This project is managed by BROZ
+
+Filming: Julie Schleiss-Andreassen, Duarte de Zoeten, Adriana Brossmannova and Jakub Sigmund
+
+Writing: Duarte de Zoeten
+
+Editing: Duarte de Zoeten and Lana Piršl
+
+Thumbnail: Duarte de Zoeten, Thomas Hikin and Thomas Berry
+
+Subtitles: Thomas Berry
+
+##### Transcript
+
+###### Intro
+
+**0:00** · We flooded this forest and the results have been incredible to witness.
+
+**0:05** · This project started 4 years ago now and since the return of the water year after year, we have seen the return of this wild ecosystem.
+
+**0:13** · A boom of life, a beautiful show of nature's resilience and its ability to come back if we give it a chance.
+
+**0:22** · And this year, we have a lot to show you.
+
+**0:25** · From the transformation of the forest and the channels to some sketchy encounters with larger animals and the most impressive display of life I've ever seen when diving in this flooded forest.
+
+**0:41** · I mean, that is absolutely insane.
+
+**0:45** · I think it's the coolest thing that I filmed in this wetland, in this forest that we have flooded.
+
+**0:52** · And we've been flooding this for 4 years, so it's just really incredible to see this.
+
+**0:58** · And in this video today, I'm really excited to show you how this place has changed over the years and all the amazing wildlife that now calls this flooded forest its home.
+
+###### Project recap
+
+**1:08** · But first, let's recap how we got here and why we're doing this.
+
+**1:12** · This project started because of this dam here, which was built in the 90s and rerouted 85% of the Danube's water away from its floodplain and into a concrete channel.
+
+**1:22** · This left all of these forests that used to flood every year completely dry and reduced fish populations by an astonishing 70% among many other issues associated with the loss of these wetlands.
+
+**1:35** · And since then, our partners, Broz, have been trying to pick up the pieces and bring back some of these ecosystems.
+
+**1:41** · And one of the most important things they achieved was a deal with the relevant authorities to have these simulated floods leave the concrete channel back into the floodplain of the Danube.
+
+**1:52** · So in 2022, when we had already worked with them for a couple of years and funded a few different projects, we finally set out to do something bigger and decided to use 40,000 euros of our rewilding budget to fund the creation of the channels to bring water to some really nice forests from where it had disappeared.
+
+**2:11** · So I was really nervous that it will work, so we just dig it during the dry season and the water came and suddenly we were here and I was really happy that the maps, as I said in the previous video, that they were not lying, so it was really flooding as we planned, as we wanted.
+
+**2:28** · And later on, after a couple of years of successful flooding, money was suddenly required to buy a portion of the land that the government was going to sell, and which Broz wanted to protect, of course.
+
+**2:39** · So we quickly put together the required 31,000 euros to do this, and they managed to buy it.
+
+**2:45** · And of course, the only reason we had these funds ready to go at such a short notice is because of our Mossy Earth members, who have a monthly subscription with us that funds our rewilding work.
+
+**2:55** · So please keep this in mind as you watch this video and the impact that we have made here.
+
+**3:01** · This has been done because of our Mossy Earth members, and if you like what you see, then please consider becoming a member at mossy.earth to allow us to do more of this kind of rewilding across a wide variety of ecosystems.
+
+###### Flooded forest
+
+**3:14** · Now, after four years of successful flooding, I was really excited to show you around, but as I was heading into the wetlands, I ran into some trouble.
+
+**3:24** · So I've just set up camp on top of this log because I was running through these chest-high nettles, and I just kind of kicked down one of them, and literally there was a boar.
+
+**3:38** · Just a boar, like straight.
+
+**3:40** · And then it just thankfully bolted off, and then three other noises, chaos around me, and they just ran away, and it was so sketchy.
+
+**3:52** · That's the closest I've ever been to a boar and getting gored by one.
+
+**3:57** · And as I waited, perched on my log for a bit, I did spot a deer making its way out of the wetland after all of that disturbance.
+
+**4:04** · And when things quieted down, I went into the wetland.
+
+**4:08** · I don't know if you can hear because of all the wind and so on, but in the background, I can hear the first European fire-bellied toads, which is one of the target species of this project.
+
+**4:18** · It's really, really great to be here.
+
+**4:21** · And the wetlands, the flooded area, is as big as I've ever seen it.
+
+**4:25** · It's become denser, it's become really different, and I can't wait to jump in here and go explore.
+
+**4:32** · This wetland is comprised of one channel, which we dug from the nearest existing canal, and the two forests that the water floods.
+
+**4:39** · And to properly show you this place, we spent some days here to uncover as many secrets as possible, and we have a lot to show you.
+
+**4:46** · So let's start now with the first forest up here.
+
+**4:51** · This place has become quite the jungle here.
+
+**4:55** · And it's just like dead wood everywhere creating these underwater mazes for the fish, for the amphibians, for the insects to grow, and of course all the birds that feed on them.
+
+**5:08** · It's become really this place that's dense with life, which is really cool to see.
+
+**5:14** · On the leaves and amongst the floating debris of the forest, we found snails and other invertebrates, and it has these beautiful mating crane flies, this nettle weevil, or this winter damsel fly.
+
+**5:27** · And when we go underwater, we find a whole little world that is quite distinct from other submerged environments, because of how ephemeral it is.
+
+**5:36** · The water comes here only a certain number of weeks each year, and that creates some unique characteristics.
+
+**5:42** · You see, the rapid advance of the water leaves much of the understory intact and submerged, such as the nettles which dominate here when the ground is dry.
+
+**5:50** · And this then forms a protective maze that is ideal for the fish to use.
+
+**5:56** · Now, for obvious reasons, they were quite hard to film here, as they have many places to hide, whenever I would put the camera down.
+
+**6:03** · So we filmed them in the channels instead, which we will look at in a bit.
+
+**6:08** · However, in amongst the trees, we were able to find many fire-bellied toads, and at first I only managed to film one while doing the underwater filming.
+
+**6:17** · But later on, Julie was able to capture them more at ease, with some of them even starting their characteristics song, that always fills our ears here and adds a real magical soundtrack to this place.
+
+**6:30** · So this here is a tree that I recognized from four years ago, because of the real characteristic little arch down there.
+
+**6:37** · It's one of the ones that has died and is now this wonderful piece of, enormous piece of standing dead work, which is really important for the various insects that can take advantage of it.
+
+**6:49** · And where there are insects, there are birds.
+
+**6:52** · First, you spot the swallow, always busy, high up above the wetland amongst the trees.
+
+**6:57** · But when you look closer, you could also find birds lower down, such as this tree creeper that creeps up and down these trunks in search for food.
+
+**7:05** · And then I heard a noise, a very typical one for such a forest, but I only just caught a glimpse of the woodpecker flying towards the lower part of the wetland.
+
+**7:14** · And all this deadwood attracts more than just woodpeckers, it also attracts a chicken of the woods.
+
+**7:21** · So when they are this soft, it's really good.
+
+**7:24** · Have you ever had the Istragov goulash?
+
+**7:26** · Yeah, yeah, yeah. I was not doing goulash, I just mixed them with the ham.
+
+**7:29** · It was like, not ham and eggs, but Ham and Istragov mushroom And one of the evenings I was here, I got to try out these chicken of the woods in some tacos at Sigi's place.
+
+**7:41** · So Sigi, how confident are you?
+
+**7:43** · I hope so. I hope it's a good one.
+
+**7:46** · 95% chance.
+
+**7:47** · 94%.
+
+**7:50** · And they were indeed delicious, so I can highly recommend them.
+
+**7:53** · But please be very careful whenever you pick mushrooms to eat.
+
+**7:57** · This is something else, fallen tree.
+
+**7:59** · You know, maybe a beaver. That would be kind of cool.
+
+**8:03** · I hope they don't dam up our channel.
+
+**8:06** · And wow, look at this. It's just such a jungle here.
+
+**8:12** · I keep saying that, you know, but it is what it feels like.
+
+**8:14** · It feels just overgrown and it's really nice to see it like this.
+
+**8:19** · The transformation here in the channels has been quite impressive.
+
+**8:23** · And as usual, please bear in mind that I'm mixing some shots from past springs here.
+
+**8:27** · But maybe some of them are from early April, whereas this is late April.
+
+**8:31** · So a lot of the greening is just the spring in action.
+
+**8:34** · But many new additions here got nothing to do with the spring, such as the nice mix of willows and other water-tolerant species that now border the channel.
+
+**8:44** · Some of these were planted by Broz, while others are just natural recruitment.
+
+**8:49** · They're, of course, a species that loves water.
+
+**8:51** · I mean, look at the huge willows back there.
+
+**8:56** · But it's still really nice to see that these ones have established themselves well and are now sort of growing here so that this can become more and more like a floodplain forest.
+
+**9:05** · Not just the big forest area up there and the big forest area down there, but the channel also.
+
+**9:11** · I think the visible roots of the willows are really beautiful and striking with their red color, adding a nice element to the banks of the channel and helping stabilize it further.
+
+**9:23** · Then underwater here is where we can easily film the fish.
+
+**9:27** · They go about the channel in shoals that sometimes get pretty large, with a few hundred fish in each.
+
+**9:32** · Now, I'm unable to tell you the exact species of fish, as they are quite young and hard to distinguish.
+
+**9:38** · However, I can tell you how they fit in these forests.
+
+**9:41** · Essentially, every year, as the Danube surges after the winter rain and when the snow of the Alps starts melting, the water reaches forests like this one.
+
+**9:50** · And for fish, this presents a very timely opportunity to quickly sneak into these forests and reproduce.
+
+**9:58** · The young will then grow here in the shelter of the forest where fewer predators can reach them, and then as the water retreats, they will follow it back to the Danube to live out their lives.
+
+**10:08** · Places like this are essentially nurseries, and I'm glad we were able to bring this one back, despite all the damage done by the dam.
+
+**10:16** · I'm really enjoying my little exploration here.
+
+**10:19** · I've been seeing all kinds of really cool stuff.
+
+**10:23** · I've seen a snake swimming along in the water.
+
+**10:27** · I think it must have been hunting for tadpoles and maybe fish.
+
+**10:32** · I don't know. It's really interesting to see it.
+
+**10:34** · And also, I've saw some really big spiders that are resting on these branches.
+
+**10:39** · They're clearly aquatic. It was dangling with its leg in the water.
+
+**10:44** · I've, of course, heard loads of birds and seen them fly by.
+
+**10:47** · I've seen some ducks in the distance that were using the channel before I came and disturbed them.
+
+**10:52** · And just a bit ago, right here, that's why I went to get the camera, I saw what I think is either a shrew or a vole, but a little mouse-like creature.
+
+**11:05** · Super, super cute and right along the edge of the channel.
+
+**11:10** · It's so nice and it gives me really the sense of exploration, of discovering this place anew.
+
+**11:16** · All this life is here because we brought back the water and that is just so satisfying.
+
+**11:22** · There is something really meaningful about restoring a natural process and letting nature play it out from there.
+
+**11:29** · That is why I love doing this work and the reason I think so many of you are here also.
+
+**11:35** · And if that is the case for you, then maybe you should consider joining us by becoming a Mossy Earth member.
+
+**11:41** · Our members fund all our work directly. It is quite simple, actually.
+
+**11:45** · Normal people, like you and me, contribute some money every month.
+
+**11:49** · In our case, the membership starts at the price of a fancy coffee.
+
+**11:52** · And we then put all the contributions together and get on with the rewilding work.
+
+**11:57** · There are no ads, no debt, no investors and, of course, no AI storytelling.
+
+**12:02** · Just normal people coming together to do some rewilding.
+
+**12:06** · And since Matt and I started out in 2017 with 300 bucks of investment between us, we managed to keep our growth organic and balanced, both in how we fund our work and how we grow our teams and impact.
+
+**12:19** · So far, we have four teams on the ground doing amazing work restoring coral reefs, bringing back seagrass, meadows, rewilding a whole river basin and turning a degraded piece of land in the Amazon into a living rainforest rewilding lab.
+
+**12:34** · And we also work with partners in a dozen more countries, from the rivers of Colorado or the forests we are planting in Iceland, all the way to the anti-dessertification research we are funding in Benin or the flooding we have been doing here with Broz.
+
+**12:49** · The common thread is that all our projects are making the landscape wilder and to achieve this, we always try to follow the best available science.
+
+**12:56** · Or we test new ideas and then report our findings openly, including our failures, of course, which is really key.
+
+**13:03** · So if this is the kind of thinking and the kind of work you would like to support, then please consider becoming a member at mossy.earth The link is in the description. Or you can scan this QR code here.
+
+**13:16** · Once I reach the lower forest, I went deeper and deeper and eventually I found more than I had bargained for.
+
+**13:26** · I think the camera really does not convey the size of this thing.
+
+**13:30** · I'd say it's at least an 80 kilo creature and it left me in my best caveman mode impression to make sure there were no other boar around.
+
+**13:38** · Every time this happens to me, it's a very primal feeling.
+
+**13:41** · So I'm curious to hear if you've had any memorable encounters with boar or other large animals.
+
+**13:47** · So please leave your stories in the comments for all of us to read.
+
+**13:52** · And once I calmed down, I started tuning into the forest here and it was just mesmerizing.
+
+**13:59** · The dappled light of the late afternoon reflecting off the water, the droplets falling like rain from the leaves of the willows saturated because of the flood.
+
+**14:09** · I really felt I was there in a floodplain forest of old, of the days before the dam ruined so much of the landscape.
+
+**14:19** · And as I explored further, I also solved the mystery of the woodpecker I saw earlier which had its nest in a small hole here where it is dutifully raising its young.
+
+**14:28** · And it wasn't the only one as I also found a great tit busy flying back and forth to feed its chicks, safely hidden away in the crack of this willow.
+
+**14:38** · And when I reached the place where the forest meets the channel, I changed back into my underwater gear and I quickly ran into a fire-bellied toad that I decided to bother for a few minutes just to try to show you its incredible fire-belly from a different perspective.
+
+**14:53** · I mean, what a unique and beautiful animal.
+
+**14:57** · And once I let it go back into the flooded forest, it was time for me to dive down.
+
+**15:02** · You see, in all these years that I've been documenting this place, I've got to experience many amazing and wonderful things.
+
+**15:09** · I have seen a boom in toads and frogs, a boom in eggs.
+
+**15:14** · But somehow I never timed it just right to see what I think is one of the most impressive spectacles on offer here.
+
+**15:22** · And bit by bit, as I swam along, it started to unfold in front of me.
+
+**15:28** · At first it was just a few stragglers, but soon enough I caught up with a main show.
+
+**15:33** · I mean, look at this explosion of life.
+
+**15:37** · All of these tadpoles determined to live to become residents of this forest.
+
+**15:43** · They're sticking together to survive snakes and herons, they're fighting the current and sometimes they're carefully swimming up to take a breath.
+
+**15:51** · And to think that every year now this explosion of life is happening because we brought water to this place.
+
+**15:58** · It is just incredible.
+
+**16:00** · For me, these fish and these tadpoles are just the perfect representation of what this wetland here has to offer.
+
+**16:08** · It's just such an unusual place to see this bloom of life.
+
+**16:12** · And I think it's really wonderful to see this sheer abundance, especially when it comes to the tadpoles, but also the fish.
+
+**16:19** · They're harder to spot, but they're everywhere.
+
+**16:22** · It's just really fulfilling and amazing to see this.
+
+**16:26** · And if you're a Mossy Earth member, thank you for empowering us to do this.
+
+**16:30** · I hope you are proud of what we have achieved here together.
+
+**16:34** · And if you're yet to join us, please consider doing so at mossy.earth Until next time.
+
+**16:42** · Cheers!
 
 #### How Otters Are Saving Earth’s Underwater Forests
 
@@ -637,6 +1161,669 @@ Share this with a friend!
 
 **15:31** · ♪ ♪ ♪
 
+#### The story of Knepp A rewilding success  Field Studies
+
+**Natural History Museum**, *01 11, 2023*
+
+##### Video (8:32)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/0JpilefdeBc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The UK is one of the most nature depleted countries in the world, but the Knepp Estate in southern England is trying to change that. Over the past 20 years they have set about rewilding the estate, turning it from a degraded farm to a thriving wildlife habitat.
+
+Find out how they are doing this, and why it is helping in the fight against the biodiversity crisis. 
+
+See more on exciting projects at the Knepp Estate here: https://www.youtube.com/playlist?list=PL6w4ihPqk5_IYa4WU1n1fNxkRL-d4sKiC 
+
+#NaturalHistoryMuseum #Nature #Wildlife 
+----------------
+Subscribe to our channel for the latest natural history content http://www.youtube.com/naturalhistorymuseum?sub_confirmation=1
+
+The Natural History Museum in London is home to more than 80 million objects, including meteorites, dinosaur bones and a giant squid. Our channel brings the Museum to you, from what goes on behind the scenes to surprising science and stories from our scientists. 
+
+Browse our shop: https://www.nhmshop.co.uk/
+
+Website: http://www.nhm.ac.uk
+
+Instagram: http://instagram.com/natural_history_museum
+
+TikTok: https://www.tiktok.com/@its_nhm
+
+Bluesky: https://bsky.app/profile/nhm-london.bsky.social
+
+X: https://x.com/nhm_london
+
+Facebook: http://fb.com/naturalhistorymuseum
+
+00:00 Intro
+
+1:50 What is the Knepp rewilding project?
+
+3:03 Is rewilding successful at Knepp?
+
+4:18 Reintroducing white storks and beavers to the UK countryside
+
+5:36 Why is rewilding important?
+
+7:02 What is the future of rewilding?
+
+##### Transcript
+
+###### Intro
+
+**0:00** · أهلا بالجميع نحن في مجموعتنا من الرخويات اليوم مع الباحثة سوزان ويليامز، وقد اكتشفنا كل شيء عن نوع معين من الرخويات، نوع من الرخويات البحرية يسمى أرنب البحر.
+
+**0:12** · الآن، إذا لم تشاهد هذا الفيديو، تحقق منه، الرابط موجود على الشاشة وفي أسفل الوصف.
+
+**0:17** · لكن لدينا بعض العينات الأخرى الخاصة جدًا والتي سننظر إليها اليوم أيضًا.
+
+**0:22** · ولكن دعونا نبدأ مع تلك الأرانب البحرية سوزان ما الذي نتحدث عنه هنا؟ الرخويات البحرية؟ نوديبرانش، وهي من الرخويات البحرية وهم من الحلزونات البحرية الجميلة جدًا والملونة جدًا.
+
+**0:34** · إنهم لا يشبهون البزاقات الموجودة في الحديقة على الإطلاق.
+
+**0:36** · إنهم جميلون للغاية وهم متنوعون جدًا أيضًا أرنب البحر هو لقب واحد لنوع واحد من الرخويات العارية، ولكن هناك المزيد، أليس كذلك؟ نعم، لدينا في المملكة المتحدة، لدينا الليمون البحري، وهو لطيف للغاية.
+
+**0:54** · ولدينا أيضًا تنانين البحر، التي تعيش في المحيط المفتوح.
+
+**0:59** · إنهم يعيشون في أعلى سطح المحيط المفتوح وهم حيوانات مفترسة، سيأكلون الخلايا اللاذعة من قنديل البحر الرجل الحربي.
+
+**1:08** · لدينا أيضًا نوديبرانش بيكاتشو، ونوديبرانش شون ذا شيب.
+
+**1:14** · أنصحك بالاطلاع على Shaun the Sheep nuidbranchs. ابحث عنه على جوجل، إنه رائع للغاية.
+
+**1:19** · إنه، إنه لطيف جدًا.
+
+**1:21** · فكم عدد الأنواع المختلفة الموجودة؟ هناك حوالي 3000 نوع مختلف.
+
+**1:26** · هذا أمر لا يصدق.
+
+**1:27** · وأين نجدها؟ لدينا بعضها في المملكة المتحدة، في المحيط المفتوح. هل هي موجودة في كل مكان تقريبًا؟ إنهم موجودون في كل محيط، من الضحل إلى العميق.
+
+**1:35** · إنهم يعيشون على الحيوانات الطحلبية، والشعاب المرجانية الناعمة، والطحالب، والإسفنج.
+
+**1:40** · واو، هذا أمر لا يصدق.
+
+**1:41** · وهم، كما ذكرتم، جميلون جدًا جدًا.
+
+**1:44** · أعتقد أن بعضًا من أكثر الحيوانات الملونة في المحيط، أليس كذلك؟ فلماذا كل هذا اللون؟ حسنًا، إنه سؤال جيد.
+
+###### What is the Knepp rewilding project?
+
+**1:52** · اللون مهم جدًا لبقاء العديد من الحيوانات ومع نطاطات البحر فهي واحدة من أفضل الأمثلة على التلوين التحذيري.
+
+**2:00** · تمتص العديد من الرخويات البحرية السموم من الطعام الذي تتناوله، من الإسفنج والشعاب المرجانية الناعمة، ويقومون بحجز تلك السموم داخل لحومهم ثم يقومون بعد ذلك بصنع ألوان زاهية للغاية لتحذير الحيوانات المفترسة المحتملة أنها غير مستساغة وربما سامة.
+
+**2:18** · بالتأكيد، من الصعب رؤية بعض الأمثلة لدينا اليوم، لكنها جميلة جدًا، وملونة جدًا.
+
+**2:25** · هل هو للدفاع فقط، أم أن هناك استخدامات أخرى لهذا اللون؟ حسنًا، اللون في الأنواع الأخرى مفيد للعثور على رفيق.
+
+**2:35** · ربما لا يكون هذا مناسبًا بالنسبة إلى الرخويات العارية لأن عيونها ضعيفة جدًا.
+
+**2:39** · يستخدمون حوامل الأنف والدرنات الصغيرة الموجودة على ظهورهم لاستشعار المواد الكيميائية في الماء للعثور على الشركاء والطعام والحيوانات المفترسة.
+
+**2:49** · ولكن الشيء الآخر الذي يستخدم اللون في كثير من الأحيان من أجله، اللون والنمط، هو التمويه.
+
+**2:54** · وتستخدم بعض الرخويات البحرية الألوان للتمويه.
+
+**2:58** · ولدينا مثال مثير للاهتمام بشكل خاص هنا، أليس كذلك؟ هل يمكنك أن تخبرنا قليلاً عن هاتين العينتين اللتين حصلت عليهما؟ نعم، هذه جميلة حقًا.
+
+###### Is rewilding successful at Knepp?
+
+**3:07** · This is a sea cucumber, this is not a nudibranch.
+
+**3:11** · This is a nudibranch, this is Phyllidia varicosa.
+
+**3:16** · This is a very brightly coloured nudibranch in life, not in our Museum collection.
+
+**3:20** · Many colours fade in museum collections, so most of our collection is brown.
+
+**3:24** · But in life they're very colourful.
+
+**3:27** · This sea cucumber, when it's a juvenile and very small and the same size as the nudibranch it has the same colours and pattern, so it mimics these nudibranchs.
+
+**3:39** · these nudibranchs sequester poisons from the sponges that they eat so they're toxic and unpalatable to predators and the sea cucumber just hitchhikes on this benefit by producing this same sort of colour and pattern.
+
+**3:51** · Of course, once they get bigger, it's no longer able to pretend to be a nudibranch and it changes colour and actually sequesters its own toxins as well.
+
+**4:00** · It's incredible, taking advantage of another poisonous mollusc.
+
+**4:08** · It's brilliant.
+
+**4:09** · Are there any colours that are particularly rare in in sea creatures.
+
+**4:15** · Yes, it's really interesting.
+
+**4:17** · Not all colours are equal.
+
+###### Reintroducing white storks and beavers to the UK countryside
+
+**4:18** · You find that some colours and particularly blue and green are rare colours.
+
+**4:23** · So we have some green shells here for you to look at.
+
+**4:26** · And you would think that green is a fabulous colour for camouflage.
+
+**4:29** · Many snails particularly live in plants and this would be a great colour for hiding, but you don't find very many green shells.
+
+**4:37** · And we think this is partly because green pigments may be hard to make and hard to incorporate into shells.
+
+**4:44** · Are there any green nudibranchs?
+
+**4:45** · There are. It's really cool.
+
+**4:47** · There are a group of nudibranchs known as sacoglossans and they actually eat algae and they will take up chloroplasts from the algae that is still actively photosynthesising and they'll incorporate them into their mantle tissues and then they use them to photosynthesise.
+
+**5:03** · So they will get energy from these chloroplasts that are photosynthesising just as a plant does.
+
+**5:10** · And if they're in an area at a time when there's not very much food or it's a bit dark and it's not working for photosynthesis, they can then just eat the chloroplasts so there's benefit both ways.
+
+**5:25** · And also from camouflage because the animal is green.
+
+**5:27** · So it's hiding in the plants.
+
+**5:29** · They are amazing animals.
+
+**5:30** · I had no idea that they were they were so complex and interesting.
+
+**5:34** · This has been absolutely fascinating.
+
+###### Why is rewilding important?
+
+**5:37** · Thank you so much, Suzanne.
+
+**5:38** · Thank you. Yeah, brilliant.
+
+**5:41** · Thank you so much for watching.
+
+**5:43** · If you enjoyed that video, let us know in the comments and remember like and subscribe to keep up with our latest videos.
+
+#### The Surprising Species That Everything Else Depends On  IN OUR NATURE
+
+**Be Smart**, *07 08, 2021*
+
+##### Video (25:55)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/i8wrAkixfHc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+“In Our Nature” is a NEW special limited series on It’s Okay To Be Smart!
+
+SUBSCRIBE so you don’t miss the next episode! ►► http://bit.ly/iotbs_sub
+
+↓↓↓ More info and sources below ↓↓↓
+
+Seemingly distant ecosystems, even half a world apart, are connected in surprising ways. In this special limited series, Emily Graslie and Trace Dominguez join me as we explore the universal rules of life that tie together Earth’s living systems. In episode 1, we travel from Africa’s Serengeti plains to the nearly extinct prairies of the western United States to discover the unexpected species that determine the very existence of these places. Can an ecosystem survive without its keystone species? And can we restore endangered human cultures by bringing back a nearly-extinct ecosystem?
+
+Co-hosted by:
+
+Trace Dominguez  @TraceDominguez 
+
+Emily Graslie   @EmilyGraslie 
+
+References: https://sites.google.com/view/inournature-ep1-references/home 
+
+In Our Nature is a special miniseries produced by It’s Okay To Be Smart for PBS. Stay tuned for more episodes coming this summer, here on our YouTube channel!
+
+Original Production Funding provided by: Anne Ray Foundation, a Margaret A. Cargill Philanthropy
+
+-----------
+
+We’re on PATREON! Join the community ►► https://www.patreon.com/itsokaytobesmart
+
+Special thanks to our Brain Trust Patrons:
+
+DeliciousKashmiri
+
+Mario Orso
+
+Brian Chang
+
+Roy Lasris
+
+Javier Soto
+
+dani bowman
+
+David Johnston
+
+Zenimal
+
+Salih Arslan
+
+Baerbel Winkler
+
+Robert Young
+
+Amy Sowada
+
+Benjamin Teinby
+
+Eric Meer
+
+Peter Ehrnstrom
+
+Dustin
+
+Marcus Tuepker
+
+Karen Haskell
+
+AlecZero
+
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+##### Transcript
+
+###### Introduction to ecosystems
+
+**0:00** · This is a story about lions, and giraffes, and a microscopic little virus. It's also a story about grass, and fire, and a bunch of these funny looking guys and what all of that has to do with bombs, extermination and restoring ancient traditions and extinct ecosystems.
+
+**0:22** · There's one big idea that ties all of these together, that even in a place overflowing with life, there's one species that keeps the whole thing from crumbling down. And what happens if we take an ecosystem that's fallen apart and we add that one key species back.
+
+**0:39** · Can we fix it? Trace, and Emily and myself, we're going to be bringing you a series of stories, featuring some incredible storytellers, some really passionate scientists and a bunch of people who just really care about wild places. We're exploring the rules of life that connect ecosystems, even half a world apart like Africa's Serengeti and a Native American Tribal Community in South Dakota. And while we're at it, we're going to find out a little more about our place in all of this. Hey, hi, Trace Dominguez Emily Grasley.
+
+**1:24** · It is so good to see your faces. I am really excited to tell people about this thing, this thing we've been working on, I don't know what to call it. Well, I guess it all started with an idea that there's a different way to tell stories about nature that maybe we've been doing it all wrong. A way to look at the, Yeah, I feel like when I'm looking at a science story, I tend to get like hyper focused and you get sort of a narrow lens on what you're looking at, and you have a tendency to miss the other stuff that's around you, Because really everything in nature is connected to so many other bits in nature. And often in ways that you don't even expect if you're not looking, That's what this is all about.
+
+###### The Serengeti wildebeest
+
+**2:00** · And what we're going to do is show you how these big ideas, The rules of life Are all connected and how we fit into that. I figured we'd start in the Serengeti. It's an amazing place, but to tell all the stories that happen in that place, I feel like you need to understand why it even exists in the first place. Wow. Wow. Yeah. That is Jahawi Bertolli. He is this photographer and filmmaker from Kenya.
+
+**2:30** · I met up with him out in the Serengeti because he's been going out there his whole life.
+
+**2:38** · I mean, just look at the scope of this. Absolutely incredible. When you think of big drama in a place like the African Serengeti, what's the first thing that pops into your head. Dung beetles, cheetahs.
+
+**2:51** · Those are not the answers I'm looking for. The answer is these guys. No, seriously, you are looking at the most important event on the entire Serengeti ecosystem.
+
+**3:05** · It's eating grass, Joe. I don't, I don't. Okay. Okay.
+
+**3:07** · I get it will, they are kind of goofy. They got that whole goatee thing going on. They have that funny rear end kind of looks like somebody forgot to finish them, but they might be the reason that the African Serengeti even exists.
+
+**3:21** · Um, excuse me. I learned from the documentary Lion King that that is not the case.
+
+**3:26** · I don't know how to tell you this, but, um, your childhood might've been a lie. Hey, have you guys ever seen this pyramid thing? It's kind of a zoomed out way of looking at how ecosystems are organized. So down at the bottom, you've got all the stuff that does photosynthesis, the plants and everything like that. And here in the middle, you've got the stuff that the plants and at the top, you've got the stuff that eats the stuff that eats the plants, Everything at the top that kind of regulates everything underneath it. Right?
+
+###### Population dynamics
+
+**3:55** · That is what I thought, but that is not how the Serengeti works. One thing you got to understand about wildebeests, okay, is just how many of them there are, I mean wildebeests everywhere.
+
+**4:07** · Joe, you went to Africa like one time. Okay. Yeah.
+
+**4:11** · Jahawi helped. So not far from us, it's a big herd of wildebeest.
+
+**4:15** · Is this all of them? Like all of them, Can you imagine? Not even a tiny bit.
+
+**4:22** · Every direction that we look is wildebeests, as far as we can see.
+
+**4:27** · Just in this little area, how many do you think there are.
+
+**4:32** · Easily at thousands without turning my head. And then in the distance, we see this massive group of zebra, several thousand zebra, which migrate with them. It looks like the horizon is made of tiny black and white shapes, thousands and thousands. I mean, it's one of those things.
+
+**4:48** · It's just, you can just keep counting. You took all of the zebras and the giraffes and the antelope and the gazelle. If you took the next 12, most abundant herbivores on the Serengeti, wildebeests would outweigh all of them.
+
+**5:02** · How is that possible? That's the big question. That's what scientists wanted to know. How can this place support so many of those funny looking wildebeests. Yeah. I don't understand.
+
+**5:13** · Well, I'm going to tell you, but to do that, we have to go back in time to when the Serengeti was not like this to the 1950s. So back then nobody really studied the Serengeti and scientists were like, you know, maybe the first thing we should do is just count everything. So they started with the wildebeests and the first year they counted like 250,000 wildebeests.
+
+**5:34** · Then a few years go by and all of a sudden there's 400,000 wildebeests. I would say that's a lot of new gnus. Emily, I love it. Gnu news, cause with the G love it. Right. And then just a few years after that there's 700,000. Fast forward a few more years, there's 1.4 million wildebeests. This is totally weird because based on everything scientists knew up to this point, like large animal populations just don't do this. I mean sure.
+
+###### Impact of rinderpest
+
+**6:04** · Like fish, rabbits, plankton, they have these huge rapid population explosions, but giant mammalian herbivores, that just doesn't happen. And actually people started to get worried, like maybe this is too many wildebeests. Sure. The Serengeti is pretty great, but maybe it can't support all of them, but then they realized something. You weren't looking at a population explosion they're were looking at a rebound.
+
+**6:27** · Okay. But rebounding from what? Like over-hunting or like an ice-age extinction? How many viruses have humans completely eradicated from the earth? Like in the history of ever? The answer is just two, smallpox and a virus called rinderpest. Rinderpest was this cattle virus. That's like thousands of years caused civilization level plagues and famines that infecting and killing cattle and other ruminants. Thanks to massive vaccination efforts, the last reported case was in 2001, but if you go back a hundred years before that, rinderpest was accidentally introduced to Africa in the 1890s.
+
+**7:02** · And by the 1900s it killed like 90% of the wild wildebeest and Buffalo in east Africa, early to passed the vaccine came the 1950s. And by the 1960s, this virus was basically under control. This virus had been keeping wildebeest populations down for like 70 years. And it wasn't just wildebeests. When they came back, scientists started seeing a whole bunch of other changes in the ecosystem, changes that were pretty surprising. Are there lions in this part? you know I'm going to want to see some lions.
+
+###### Regulating the Serengeti
+
+**7:37** · Okay. Yes, there are lions in this park, but we're not done with grass yet. Okay. So one wildebeest doesn't eat that much, but a million and a half wildebeest eat more than 9 million pounds of grass every single day.
+
+**7:50** · And that's enough to shape a whole ecosystem. You know, wildebeests are quite picky eaters and they basically like short grass, you know? So like now here on the short grass plains, this is perfect for them, but they also like new shoots. That's like, it's like a child, like children are aren't even that picky. Zebra, they're not so picky. So they tend to actually come through first and clear, clear the way. And then, then the wildebeests can get what they want. Wow, exactly. Cooperative eating.
+
+**8:20** · So if you eliminate this virus, you get more wildebeests, more hungry wildebeests means less grass. And because more grass is being eaten, that means less fuel for fires and less wildfire means that more young trees get to grow and more trees growing means more food for giraffes and elephants and birds too. And of course more wildebeests means more food for predators. Hey, now we're at the lion part, right?
+
+**8:47** · Yes. Lion numbers went up and so did hyenas and other predators too. They are the Keystone species of this ecosystem. Ding, ding, ding. He said the name of the episode in the episode! It's a $6 million word. It's incredible to think of enormous groups like this, just moving across this land, eating and pooping.
+
+**9:12** · I mean, you can imagine the effect on the ecosystem. I've seen the migration and then I've been lucky enough to see it quite a few times, but I can't help, but be blown away every time by the sheer size, the number there's very few places left that can support these kinds of herds. People had always just assumed that a Keystone species had to be a predator, but here you've got these funny plant eaters, keeping an entire ecosystem from collapsing. And, in fact, they're making it better. And today this million and a half wildebeests are the largest herd of plant eating mammals on earth.
+
+###### Migration and survival
+
+**9:47** · The population it's not still growing. I mean that wouldn't be sustainable, right?
+
+**9:51** · No. I mean, you can't have wildebeests growing and like slowly taking over the universe, they remain remarkably stable. That's the next mystery the scientist had to solve. I mean, why? Oh, Trace. There are definitely lots of lions in this part. I was going to say, we're at the top of the pyramid. We're getting to the lions. We're getting predators, its going to be great. Oh and hyenas too. Okay. So a lot of stuff gets eaten in the Serengeti by those guys at the top of the pyramid, the predators.
+
+**10:18** · But some animals get eaten more than others. Let's say you're something small, like an Impala. Well, chances are, you're going to die at the hands of something with fang, claws.
+
+**10:29** · The pokey parts.
+
+**10:31** · They have what scientists call a high prediction rate. But if you're something big, like an elephant or a giraffe, not a lot is going to mess with you.
+
+**10:40** · All right. All that makes sense. But where exactly are wildebeests then cause they're big, but they're not elephant. Okay. The answer that Scientists looked at, something that Emily knows a thing or two about bones, dead bones.
+
+**10:52** · Oh yeah. Well actually bone marrow to be more specific sick. So here's the other thing you got to know about wildebeests. They move a lot in the rainy season. The wildebeest are down in these grassy Plains where there's plenty to eat. But as the dry season begins, the, see a wildebeest moves north this thousand kilometer cycle repeats itself every year. It's one of the greatest animal migrations on Earth. So, you know, when, when a lot of people think about the migration, they, they think wildebeests cause they call it the Great Wildebeest Migration. But in reality, there's a lot of other animals that actually go along parts of the migration.
+
+**11:32** · I mean, you've got Thompson gazelle, you've got a lot of zebra. What's the, what's the, the advantage of, of them traveling with the migration. If we were zebra and things, it is a part getting to the best grazing. And then you've got safety and numbers and lots and lots of eyes. The wildebeests migrate, but their predators don't. So that helps them get eaten less and moving gives wildebeests access to more food than if they stayed in one place. Migration is why this population is so big, but even a place as vast as the Serengeti, it's not infinite. Okay.
+
+###### Bottom-up regulation
+
+**12:04** · So when there's plenty to eat, you know, when the rainy season is happening, well, the bone marrow of those wildebeests is nice and fatty, but in the dry season, when there isn't as much to eat, bone marrow gets kind of gross. And when scientists looked at the bones of most dead wildebeests, it was pretty nasty inside. So they think that most wildebeests starved to death. Okay.
+
+**12:31** · But some of them do get eaten by lions, hyenas predators.
+
+**12:35** · Yes. Some lions are definitely having lunch, but predators are not what keeps this population from growing. It's how much food there is to eat during the dry season. They aren't regulated from the top down. They're regulated from the bottom up, scientists call this kind of population limit the carrying capacity. It's basically how much life and ecosystem.
+
+**12:56** · So The grass is regulating the wildebeests and the wildebeests are regulating everything else.
+
+**13:01** · Yeah. Yeah. And if there's too many wildebeests one year, then more of them die, and if the numbers get too low, next year, there's extra food to go around the numbers come back up.
+
+**13:10** · It's like a boom and bust economy. Yeah, exactly. And what is so amazing to me is that this ecosystem is regulating itself. We're going to be telling a lot more stories from this place. I don't think you can really appreciate the Serengeti without understanding why it exists. And if the species at the middle of everything disappears, if their migration is disrupted by climate change or other human development, would this whole place collapse with them? I mean, Serengeti has rebounded once before, but without the wildebeests, could it do it again?
+
+**13:42** · You know, there are so many aspects of this story that remind me of the history of bison in north America, bison, bison, are like the national mammal. Right? Right. Yeah. So bison are these Pleistocene giants that have been in North America for over a hundred thousand years. But as settlers arrived between the 1700s in the 1900s, the US Army sanctioned these huge eradication programs targeting the bison, but also in an effort to eradicate the people here, millions of these bison were slaughtered many for just their coats or their skulls.
+
+###### North American bison
+
+**14:16** · And the population went from an estimated 30 to 60 million individuals to just a few hundred in the course of a couple of centuries.
+
+**14:28** · That must've had some impact on the ecosystem. Yeah. It's hard to find a comparison and cows graze too, but bison graze differently. They love grasses and they pass on most of the other shrubs. So that increases biodiversity by providing food and shelter for all the other animals. They create these huge wallows in these pits, compact soil.
+
+**14:50** · So they're, microhabitats for resilient plants, bison even impact other soil and plant processes through the ingestion and expulsion of their waste. Love a good poop story. Yeah. Good old species feces note for you. Anyway, I can totally see where 30 million bison pooping would leave a distinct ecological mark, a skid mark. Right. So anyway, there's a lot of different groups that are trying to reintroduce bison to their historic ranges.
+
+**15:16** · But here's the bigger question that I have, are these restoration efforts more about healing, a landscape and ecosystem or about healing people? I thought we were talking about the biology and like, you know, animals. Right. I mean, but we don't live in a vacuum, Joe. It's about both. Okay. You're right. You're right. So prairie's used to be the biggest ecosystems in north America. They covered 170 million acres, 20 times bigger than the Serengeti. That is wow. Right. But by now prairie's have been so heavily cultivated and developed.
+
+**15:52** · They're one of the most endangered ecosystems in the world, but there happens to be one not far from where I am, outside of Chicago.
+
+###### Prairie restoration
+
+**16:03** · So we are standing in this green field, which is the site of a prairie restoration project between the 1930s and 70s. This area looked nothing like this. We went to Midewin National Tall Grass Prairie. Today, it's the only federally protected tall grass prairie in the United States. But before it was a prairie, it was something else entirely. We are going to see a war ammunition storage bunker. What is this doing out here? Well, before Midewin was taken over by the US forest service, it was an army property. And it was used during the middle part of the 1900s to manufacture and store military ordinance.
+
+**16:38** · They produced them onsite and then they stored them in buildings like this.
+
+**16:48** · Whoa. Wow. It is just like a giant cement tube. Yeah.
+
+**16:57** · Sounds like a shotgun in there. That's so cool. And there used to be like 400 of these bunkers. They stored over a billion pounds of TNT. It was a huge operation.
+
+**17:07** · So what happened, once they took the bombs and the explosives out of the bunkers? What did they do? So that is when the real work began. They transferred the land from the Army to the US Forest Service in the 90s, but it was pretty polluted and overgrown. So they had to start pulling the invasive species and reintroducing native plants, but they were still missing one key element. We’re talking about bison, right? I mean, the bison are the real environmental engineers here. They are the prairie's Keystone species, Ding, ding, ding, ding, ding, ding, ding.
+
+**17:38** · Many of the plants and grasses, the birds and the insects that once called this area home can't return until the bison do too. But it's all part of a big experiment at Midewin, trying to understand these plant animal interactions and the model organism was not easy to find. So we got word earlier today that the herd of bison is somewhere in the area. Emily, I was told there would be bison in this episode.
+
+###### Bison as engineers
+
+**18:10** · We just got a call that someone has spotted them over this Ridge. There are bison out there.
+
+**18:16** · Yep. You can see them there. They're kind of just below the horizon there with those trees. Oh yeah. I can see them. They're pretty far out there. They are far out. Can you ask them to come a little closer? Uh, I could ask him, uh, they, they do what they want though. That's fair.
+
+**18:31** · Okay. So you take this incredibly polluted place and you get rid of the invasive species, bring back the bison and you get prairie. I mean, that's part of it, but you have to remember that bison didn't live here in isolation. They lived here alongside people for tens of thousands of years. People that relied on the bison for every part of their livelihood, for food and shelter, ceremonial objects, weapons. The removal of bison was a direct assault on the people. The people who played a major role in the ecosystem to today, there's a huge effort on part of indigenous nations to reintroduce bison to tribal land.
+
+**19:02** · And one of those groups is the Intertribal Buffalo Council. The Intertribal Buffalo Council actually was originated in 1992, a group of people out of native American fish and wildlife services decided why are we not doing something to return Buffalo to our tribes?
+
+###### Healing land and people
+
+**19:24** · That's Arnell Abold. She's the executive director of the ITBC. And talking to her, you really get a sense of how passionately she feels about this project.
+
+**19:33** · We look at all of our tribes as individuals, but together we're force, you know, to be reckoned with. There's so much heartbeat to it. And there's so much soul to it, you know, and there's just that real connection to the Buffalo. But you know, our core has always been returning the Buffalo to tribal lands. And in some ways they're helping with the literal health of their kids. Diabetes is such a big disease on all of our reservations and Buffalo meat, bison meat is one of the most healthy alternatives you can eat. And that kind of puts it back, you know, back into our hands a little bit.
+
+**20:03** · If we can do that What have been some of your proudest achievements. When we bring new herds onto tribal land, if you can heal the Buffalo, the land and the people and make that circular connection, imagine the changes that can happen. Maybe they can't happen today, but we're seeing positive changes across Indian country, no matter what, maybe it's just adding three Buffalo onto their lands.
+
+**20:33** · That's a change that's positive that gives that community something to find a little hope in. It was actually super touching. Not only it restoring the bison is helping the ecosystem. It's actually helping so many other things as well. Yeah. And you know, it was cool. We were invited to go see the bison on the Pine Ridge reservation in South Dakota. But unlike our visit to Midewin, this, this was really different.
+
+###### A circular connection
+
+**21:00** · The Oglala Sioux that manage the herd in pine Ridge hold a Buffalo dance ceremony once a year, where they sing, they do dances and they honor their spiritual connection to the bison. But when they heard that we were coming, they offered to hold a special Buffalo ceremony just for us as a way of welcoming our visit to the herd. And it was one of the coolest, most touching things that I've ever been in.
+
+**21:37** · It's really meaningful because these are first relatives come out. They're nervous. Look at the ground. They're going to come in afraid. They don't know what kind of energy that we carry. Including us in the ceremony. It was a way of demonstrating that we're bringing good vibes. And then Robert Goodman, the biologist for Oglala Sioux Parks and Recreation took us out to see the herd. There they are.
+
+**22:08** · Yeah. I think I even see like a little baby bison out there. How many bison did you say you had here? Today? Probably around a thousand.
+
+**22:17** · So when you imagine sort of the historic numbers of like, you know, estimates of 30 million Buffalo on the landscape, do you have some kind of idea for like the impact those numbers would have had? I don't know. It's hard to wrap your mind around herds that are majored in square miles. Instead of numbers, Buffalo are kind of known as a Keystone species. They really do impact a lot of other animals like the prairie dogs.
+
+**22:41** · They graze down the grass and that takes away cover for the predators of the prairie dog.
+
+**22:46** · So they like it. And then the prairie dogs actually, where they've cropped it off, they've produced different types of plants that the Buffalo liked to graze, so it kind of works back and forth. Antelope are known to rely on Buffalo too. In the winter time when it's snow is really deep, they can't push the snow out in forage as well as the Buffalo. So they'll follow right in Buffalo tracks and grays behind them. And you know, just about all of the species that you think of when you think of prairie species are related to the Buffalo or rely on the Buffalo. Robert told me that the Buffalo will distribute seeds of native plants that get caught in their shaggy coats.
+
+**23:17** · And even the hoof prints that they leave behind holds water for prairie birds. So it's easy to see that with the removal of bison, everything gets out of whack. I mean, that's amazing to think about, but these are, these are relationships, ecological relationships that have existed for hundreds of thousands of years. I mean, these things have evolved together. They've really, um, become to rely on one another in that landscape.
+
+**23:41** · You know, at the center of these landscapes, you've got such surprising species and in a way, the entire ecosystem is resting on their shoulders. So if we remove them or if they die, then these entire ecosystems can come crashing down with them. And what's more if we try to rebuild that if we try to put it back together, but we can't do that without this key piece. But I think this teaches us a super important lesson about how we fit into this.
+
+**24:19** · So, you know, we talk about this whole Serengeti ecosystem as this wild place, but we have to remember that humans also played a part in creating this ecosystem. So when you kind of look at this system, it's not to look at it as a wildlife and two and two opposing sides. They are together, you know, and it's, and it's understanding that balance.
+
+**24:42** · All of these relationships, all these complex webs that these ecosystems rely on from the largest animal to the smallest blade of grass. We're not watching that from the outside.
+
+**24:55** · We are part of it too. Our species touches this on every level and we can make a real difference for better, or for worse. So yeah, everything is connected by these big ideas. And this isn't the only idea we have to share with you guys.
+
+**25:22** · I'm super pumped to get to the other species that we're going to cover and all the different stories we're going to put together. This is going to be so great.
+
+**25:28** · The next one is going to blow your mind, put down the tick talks for a minute and join us in the next episode of, In Our Nature.
+
+#### We Built a Wildlife Corridor Through a City
+
+**Planet Wild**, *09 15, 2026*
+
+##### Video (11:33)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ddmuALsSEfQ?start=89 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+We’re building floating city wetlands to bring nature back to Bristol.
+
+🌱 Join us to rewild the planet: https://planetwild.com/join/m43
+
+Many cities, like Bristol, were built on wetlands. But to make space for us to live, huge drainage systems were created and the water was removed. This has led to some massive problems: less space for nature, more polluted water, and a greater risk of flooding.
+
+That’s why, in our 43rd mission, we went to Bristol and partnered with WWT to bring wetlands back to the city. For this mission, we're also joined by sustainability creator @itsSamBentley. 
+
+Together, we're building floating wetlands in Bristol Hardor. We're also helping develop a miniature “wetland-in-a-box” that enables anyone with a drainpipe to rewild their city.  
+
+Special thanks to FLYNN for providing a render of the upcoming "wetland-in-a-box".
+
+Copyright 2026 FLYNN Product Design - All rights reserved.
+
+Check FLYNN out at https://flynn-product-design.com/
+
+People in the video:
+
+Cameron Nicoll is a documentary filmmaker and the Creative Director at Planet Wild.
+
+Dr. Julia Newth is WWT's Ecosystem Health & Social Dimensions Manager. She has been part of the organization for over 20 years.
+
+Sam Bentley is a sustainability content creator and climate activist.
+
+Make sure to follow WWT:
+
+IG: https://www.instagram.com/wwtworldwide
+
+Website: http://www.wwt.org.uk/wetland-cities
+
+#wetlands #cityrewilding #greencities
+
+Chapters
+
+0:00 Bringing nature back to the city
+
+1:06 Why cities lost their wetlands
+
+2:03 Meet our partner WWT
+
+3:25 A special guest: Sam Bentley 
+
+3:45 Building floating wetlands in Bristol harbor
+
+5:00 Our support 
+
+5:31 Building a “wetland in a box”
+
+7:19 Good nature news from cities around the world 
+
+8:59 The impact of this mission
+
+_______________________
+What is Planet Wild?
+
+We’re a global community of people who care deeply about nature and want to help our planet bounce back – one mission at a time.
+
+EVERY MONTH, we work with wildlife pioneers worldwide to
+
+🦁 bring back endangered species
+
+🌊 support oceans and aquatic life
+
+🌳 revive forests and rewild landscapes
+
+EVERY MEMBER can decide how their money is spent, connect with us on our Discord, and collect unique badges for each mission they support.
+
+EVERY MISSION is documented in videos like this. 100% transparency.
+
+EVERYONE can join. The bigger the community grows, the bigger these missions will get!
+
+👉 Become a Planet Wild member: https://planetwild.com/join/m43
+
+👉 Follow us on Instagram: https://www.instagram.com/planetwild.official/
+
+👉 Follow on LinkedIn: https://www.linkedin.com/company/planetwild-official/
+
+Find all sources here:
+
+https://planetwild.notion.site/Mission-43-Floating-Wetlands-Sources-3d769e032b19807dbe46d290c03e8201?source=copy_link
+
+##### Transcript
+
+###### Bringing nature back to the city
+
+
+**0:00** · What if there was a way to transform your city from this to this, replacing concrete with flowers and drains with rain gardens?
+
+**0:09** · What if we can make our towns resilient against floods, heat waves, and droughts, whilst boosting biodiversity and mental health?
+
+**0:17** · Right now, all around the world, people are finding incredible ways to bring nature back into our cities. And we're here in Bristol to do exactly that.
+
+**0:26** · We're literally kind of surfing on a wetland right now, and I never thought I would say that sentence. (laughs) Pockets of lush green wetlands have been popping up all over the city, and now there's a plan to create a green corridor along the river's embankment, and we're gonna help make this dream a reality.
+
+**0:44** · Together with our friend Sam Bentley, we'll explore just how easily we can upgrade our cities, and what that means for the future of urban environments all over the world. In this video, we're gonna be checking out loads of genius innovations that are bringing nature back to the city piece by piece. We're Planet Wild. Welcome to Mission 43.
+
+**1:05** · (upbeat music) More than half of the global population live in cities, and many of these places have one thing in common. They were built on water. Basically, where you see a city, there used to be a swamp or a wetland. Then we built huge drainage networks to remove the water and paved over the land so we could live there.
+
+###### Why cities lost their wetlands
+
+**1:28** · Sometimes even burying entire rivers underground, like the Bievre in Paris, the Fleet in London, or the Frome here in Bristol. And predictably, removing all this water has led to some massive problems.
+
+**1:41** · Flash flooding. - Flash flooding.
+
+**1:43** · Flash flooding in parts of London.
+
+**1:44** · Urban heat island effect.
+
+**1:46** · Dangerous conditions to be outdoors.
+
+**1:48** · [Cameron] Turns out wetlands aren't just incredibly important for wildlife, but they also keep temperature and water levels stable. You know, the kind of thing we humans really need to survive. And this is why all over the world, people are bringing wetlands back into our cities.
+
+###### Meet our partner WWT
+
+
+**2:03** · When you start to instal wetlands across the city, whether that's a small rain garden, a drain pipe wetland, right the way to a lake in your local park, it's really sort of magical, and everyone in the city benefits from wetlands.
+
+**2:16** · This is Julia from WWT, the wetland charity. They're kicking off a huge effort to turn Bristol into the UK's first wetland city. By replacing old drainage systems with lush rain gardens, installing micro wetlands in backyards, and anchoring huge wetlands on the river, they're creating little pockets of biodiversity everywhere. In fact, over the next few years, there'll be 200 new projects here in Bristol to bring nature back. Just imagine the impact that this would have.
+
+**2:46** · It would completely transform public space across the city, creating habitat, absorbing flood waters, filtering toxic runoff, and cooling the city down. And the transformation has already begun. WWT and their partners are creating a wildlife corridor through the city centre, and this is the next piece of the puzzle. We are currently building and planting a futuristic structure called a floating wetland.
+
+**3:13** · We've got one platform which is 100 square metres and another smaller 16 square metre platform, specifically designed with these miniature staircases to save baby seagulls that are getting stuck in a corner of the harbour. But we are not doing this alone.
+
+###### A special guest: Sam Bentley
+
+
+**3:28** · Hey, Cam. - All right, Sam?
+
+**3:29** · How's it going? - How's it going?
+
+**3:31** · This is Sam Bentley, founder and host of one of our favourite YouTube channels. If you've never heard of him, he reports good news stories from around the world, and is also making a video about the transformation of Bristol. So we asked him if he could help us with our new floating wetlands. This is that, and then this becomes there, and...
+
+###### Building floating wetlands in Bristol harbor
+
+
+**3:50** · Huh?
+
+**3:52** · Okay, okay. This is how it works.
+
+**3:55** · Step one is putting all the pieces together and locking them in place. It's a completely modular structure that can be built to any size, and every element is recycled, recyclable, or biodegradable. The frame and floats are old drinking water pipes that are wrapped in coconut husk, and instead of soil or mud that would just drift away, we're using buoyant clay pellets as the plant bed.
+
+**4:17** · And step two is planting it with more than 20 species of native wetland plants.
+
+**4:24** · Mm. - What have you got?
+
+**4:26** · Ah, nice. Glorious.
+
+**4:31** · So above water, we have this layered planting system that creates an oasis for pollinators and a safe haven for nesting birds. But the real magic happens underneath. As these plants grow, their roots go super deep into the water, creating a refuge for marine life, cleaning the water, taking all those pollutants out, and also regulating water temperature too.
+
+**4:50** · There's potential to instal up to 5,000 square metres of these floating wetlands here in Bristol, transforming the concrete embankment into a thriving nature corridor. So the Planet Wild community is completely funding the construction and installation of these two modules, as well as even more platforms in the future, to make this dream a reality.
+
+###### Our support
+
+**5:12** · You know, with Planet Wild, we do projects all over the world, bringing nature back in different, like, remote, far flung places, but it's just amazing to see that it can come back in the middle of our cities. So in addition to the floating wetlands, we're also helping WWT to develop a miniature wetland in a box that can be attached to any ordinary drain pipe.
+
+###### Building a “wetland in a box”
+
+**5:32** · To show you how it works, we're gonna take a break from the harbour and visit a small garden nearby to build a prototype. We should probably get on with it though.
+
+**5:44** · Yeah.
+
+**5:44** · - Yeah. (laughs) (whimsical music) So this is a very ordinary drain pipe coming from the roof, and so when it rains, the water goes from the gutter, all the way down here, straight into the drain. But we are gonna catch this water and use it to create a wetland in a box. Well, it's actually two boxes. The top box acts as a pond where aquatic plants can thrive as it fills up with rainwater.
+
+**6:07** · This eventually overflows into the bottom box, a miniature bog that insects and amphibians can call home. So, to make it yourself, you just need to follow these steps. First thing we need to do is make a hole in the bottom. This hole should be covered with a filter, and we use this permeable plant pot. Then add a layer of gravel, a fabric membrane, and a layer of soil.
+
+**6:31** · The membrane is there to stop the soil running down the drain. Step two, drill a hole into the side of the top box, allowing the water to flow into the bottom box. Step three, take a deep breath and cut the drain pipe so that the entire structure will be in the perfect position to catch the water. Step four, fill everything with native wetland plants and add a wall of loose bricks. And that's it. We're done.
+
+**6:56** · And within hours, you'll start to get insects like dragonflies and damselflies coming back here. Spiders can make their homes in here. Frogs and newts can come and live in here. And it's just incredible the amount of biodiversity that can come back just with this. The UK actually has 4,000 square kilometres of garden space just like this, and now we can actually start to use some of that and give it back to nature.
+
+###### Good nature news from cities around the world
+
+**7:20** · (dramatic music) We have to interrupt this Planet Wild video to bring you some breaking good news from cities around the world. First up, we're heading to Seoul, South Korea. For decades, the Cheonggyecheon stream was completely buried underneath a massive elevated highway, but in the early 2000s, the city actually tore that highway down and restored the natural river.
+
+**7:42** · Since then, biodiversity has exploded by over 600%, and the corridor is now home to hundreds of species of fish, birds, and insects. Now we're heading over to the Netherlands where one company has found a way to turn lifeless concrete buildings into green space. Respire use a moisture retaining concrete layer to grow moss directly onto walls. Within 12 weeks, it forms a green surface that survives on rainwater alone, filtering air pollution while naturally cooling the building.
+
+**8:13** · Next up, we're looking to China, where they're creating huge sponge cities. Instead of using grey infrastructure like concrete pipes to drain storm water, they're building sprawling urban wetland parks and permeable pavements that naturally soak up extreme floods like a giant sponge. But the ultimate nature city has to be Singapore.
+
+**8:33** · By making greenery a core part of their urban design, they've turned a dense metropolis into a city in nature, and their waterways are now so healthy that families of wild otters are happily swimming right through the middle of the central business district. You can see from these projects there's not just one solution.
+
+**8:51** · In a city, you have to find little pockets and corners to bring nature back around human infrastructure, and that's exactly what we're doing in Bristol. (upbeat music) We're literally kind of surfing on a wetland right now, and I never thought I would say that sentence. (laughs) This will be the permanent home of our new wetland. For centuries, it's been a grey wall, but thanks to the Planet Wild community, it will soon look like this.
+
+###### The impact of this mission
+
+**9:26** · This piece was installed just two years ago, and you can see the difference. It's just, like, full of life. There's families of birds in there. It's full of insects. I've seen loads of fish swimming underneath. Just incredible what can happen in such a short space of time.
+
+**9:43** · And of course, this is just the beginning. You know, these plants will start to establish, they'll start to grow, and it really will start attracting nature in.
+
+**9:51** · We haven't even finished installing the wetland yet, and there's this family of swans rocking up and checking it out. It can potentially be their new home. Like, that is just so perfect, so beautiful. (gentle music) Finally, we installed the second platform, and again, the effect was instant. So we literally just installed the floating wetland, and we've seen a baby seagull who is stuck in the water use the ramp and climb up onto the platform.
+
+**10:19** · And that's just saved his life. It's just unbelievable to witness. And that is the beauty of this project. Nature is just waiting beneath the concrete and the asphalt. And once you give it a chance, it's immediately making our cities more biodiverse, safer, and simply nicer places to live. And because it's such a simple solution, it can easily be copied around the world.
+
+**10:45** · So our funding here is not only transforming Bristol, but it's also creating a blueprint for future wetland cities everywhere. Thank you so much for making it all the way to the end of the video. I hope you can tell that we put a lot of hard work into the missions and the mission videos, but we really couldn't do any of it without our community. Right now, we're more than 27,000 members.
+
+**11:07** · We're actually growing really quickly, which is so exciting. Every single month, we go on a mission to bring back endangered species, to clean up our oceans, and to restore entire landscapes. So if that sounds good to you, you can join Planet Wild as a backup by following the QR code here or the link in the description. Thanks so much for watching, and catch you next time.
+
 #### We Let Beavers Transform an Old Farm
 
 **Planet Wild**, *07 15, 2026*
@@ -848,7 +2035,1647 @@ https://planetwild.notion.site/M41-Beavers-Sources-39769e032b1980a593ecc70fdec76
 
 **13:50** · See you all again next month, over and out. (chiming music)
 
+#### What happens when you set a river free  BBC News
+
+**BBC News**, *10 20, 2024*
+
+##### Video (3:37)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Qp7K6pEWEuk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Virtually all the UK’s rivers have been physically altered in one way or another – straightened, dammed, dredged or restrained by barriers in some way along their course.  
+ 
+Which is why the National Trust decided to do a radical experiment, to see if it is possible to the ecological equivalent of a complete reboot.  
+ 
+They filled a river in west Somerset in and let it take its own course through the landscape.  
+ 
+Our climate editor, Justin Rowlatt, has been finding out how the project worked out. 
+
+Producer: Harriet Bradshaw
+
+Shoot/Edit: Gwyndaf Hughes
+
+Subscribe here: http://bit.ly/1rbfUog
+
+For more news, analysis and features visit: www.bbc.com/news 
+
+#BBCNews
+
+##### Transcript
+
+###### The radical river project
+
+**0:00** · like most of the UK's Rivers the all had been interfered with it had been artificially straightened to keep the land dry but it left little room for nature so here's the question is it possible to do the ecological equivalent of a complete reboot to reset the river and let it find its own course through the landscape other projects in the UK have re wiggled Rivers using diggers to
+
+**0:27** · reconstruct the curves they used to have but here in Somerset The National Trust decided to do something much more radical they completely filled the river in with Earth and rubble and then waited to see what would happen next we went to see the project just after the heavy work had finished a year on and things have
+
+###### First year transformation
+
+**0:52** · changed it really is foggy now it's absolutely brilliant it is absolutely phenomenal it is just transformed it is green it's messy it's noisy you walk through and the insects go up and then you stop and listen and the bird song is just amazing cuz what's so interesting about this is you didn't actually know what
+
+###### Project uncertainty
+
+**1:17** · was going to happen did you no it's like yeah it's one of the kind of yeah the first projects that really has been done like this on this scale in in England there's a lot of uncertainty and kind of you know what's going to happen what's going to look like is is it going to do what we think it's going to do um which is both a little bit scary but also you know brilliantly exciting scientists have been using drones to help monitor the
+
+###### Wetland ecosystem
+
+**1:46** · changes the images from the air prompt a fundamental question freed from the constraints of its banks is this really still a river at all you no longer have that single Channel what we think of as a river what you have inste is a complex messy Wetland environment you can't even see when the original channel was you have multiple flads multiple ponds multiple Wetland areas it is that complex network of different environments which brings the explosion
+
+**2:15** · of Life the scientists say they've recorded here not just Birds but mammals too including endangered water vs they'd better be careful though because there are predators here too what happens down river The Villages regularly flood so there was a lot of concern about the impact that changes would have and a lot of anxiety in the National Trust team especially when last winter turned out to be one of the wetest on record post restoration we had
+
+###### Flood prevention results
+
+**2:47** · some really significant rainfall events you know unprecedented really the site responded really well we didn't get any Downstream flooding other villages in and around Somerset you know really badly flooded you know and here in in Alford and Bingington you know no flooding and the data's back that up now we've got from sort of extra and Nottingham universities you know we've we've we've significantly reduced the flood Peak and helped protect Downstream communities from that extreme weather restoring Wetlands is a priority for the National Trust it estimates the UK has lost 90% of its wetlands in the last 100
+
+###### Future implications
+
+**3:18** · years alone River resets like this won't work everywhere but the results here in Somerset have been so good the trust is already considering sites where it could be repeated Justin roll at BBC News West subet
+
+#### What Is Rewilding
+
+**Bloomberg Originals**, *03 29, 2023*
+
+##### Video (1:44)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/YXOrk_t1rJQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The environment is in crisis, but a revolutionary new conservation concept offers hope for the future. In this episode of The Future With Hannah Fry, Hannah explores whether rewilding can help heal the environmental wounds we have inflicted on our planet.
+
+---
+Do you want to know what your future holds? A life beyond 150 years old? A world where computers can read our emotions? A planet transformed by unlimited clean energy? Mathematician Hannah Fry will explore these questions and more in the new series The Future With Hannah Fry, debuting on Bloomberg Originals on Feb. 22.
+
+Watch The Future With Hannah Fry on Wednesdays at 8:30 p.m. ET on Bloomberg.com, the Bloomberg app on your connected TV, Apple TV, Roku, Samsung TV.
+
+--------
+Like this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Become a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join
+
+Bloomberg Originals offers bold takes for curious minds on today’s biggest topics. Hosted by experts covering stories you haven’t seen and viewpoints you haven’t heard, you’ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you’ve never seen it. 
+
+Subscribe for business news, but not as you've known it: exclusive interviews, fascinating profiles, data-driven analysis, and the latest in tech innovation from around the world.
+
+Visit our partner channel Bloomberg Quicktake for global news and insight in an instant.
+
+##### Transcript
+
+**0:00** · there's a reason why they call it an ecosystem because when it comes to Nature species are performing this incredibly intricate delicate dance with one another and it is so finely balanced that if you take out just one species it can end up having a catastrophic effect that Cascades all the way down through the food chain a trophic Cascade as it's known and that is what happened in Utah in the first half of the 20th century a
+
+**0:27** · State national Park had a flood of new visitors which had a detrimental impact on the population of cougars that lived there cougars eat dinner and so the deer were quite happy about this town of events their population flourished but deer have a habit of grazing on pretty much everything they see so the knock-on effect was a reduction in the diversity of the greenery around that then had an impact on butterflies and birds and reptiles and so on
+
+**0:58** · this incredible delicacy of the complex network of species from one perspective can make it look like it's quite fragile but actually from another perspective it can really be a strength of an ecosystem because sometimes there are certain species certain keystone species as they're known which when reintroduced in the right time at the right place time have a positive impact that
+
+**1:27** · Cascades both upwards and downwards just by reintroducing one single keystone species
+
+#### Why This Unusual Pattern May Save the Rainforests
+
+**PBS Terra**, *09 12, 2024*
+
+##### Video (9:34)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/EDpCLIgfHXo?start=140 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Check out In the Margins on @pbsorigins : https://youtu.be/Y1cJCowMz9M?feature=shared
+
+Check out Roots of Resistance on @pbsorigins : https://youtu.be/rUCrmh58GrU?si=b6HPENjsnEKYPrzK
+
+The Choco region in northwest Ecuador is hosting a groundbreaking experiment to try and help it’s rainforests recover from rampant deforestation. A multinational team is planting small “tree islands" to attract natural seed dispersers. It’s an innovative approach that we’ll take a close look at, from above and within. 
+
+Hosted by Joe Hanson from Be Smart, Overview uses stunning 4k drone footage to reveal the natural and human made marvels shaping our planet--from a 10,000-foot view--literally.
+
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+Subscribe to PBS Terra so you never miss an episode! https://bit.ly/3mOfd77 
+
+And keep up with PBS Terra on: 
+
+Facebook:  https://facebook.com/pbsdigitalstudios
+
+Tiktok: https://www.tiktok.com/@pbsterra
+
+Instagram:  https://instagram.com/pbsterra
+
+##### Transcript
+
+###### The Choco rainforest
+
+**0:05** · (light music) Hidden along the equator lies a rainforest like no other.
+
+**0:13** · The Choco is a kaleidoscope of life.
+
+**0:17** · An enchanting home to an astonishing array of species many found nowhere else on Earth.
+
+**0:24** · But like most of Earth's tropical rainforests, The Choco is under threat.
+
+**0:29** · Widespread deforestation for agriculture, logging, and human settlements has pushed this incredible ecosystem to the brink of disappearing.
+
+**0:37** · But, there is hope, thanks to these.
+
+###### Introducing tree islands
+
+**0:41** · These are tree islands, small patches of trees replanted within larger deforested areas.
+
+**0:47** · Scientists think this groundbreaking idea could change the world's forest recovery efforts by allowing the forest to regrow itself thanks to one surprising ingredient, animal poop.
+
+**1:06** · (gentle music) Here in Ecuador, the Choco Rainforest covers approximately 7,000 square kilometers, nearly one and a half times the size of Grand Canyon National Park.
+
+**1:18** · Separated from the Amazon by the towering Andes, The Choco is a world unto itself.
+
+###### Biodiversity and risks
+
+**1:25** · It's also one of the wettest places on Earth.
+
+**1:29** · Some spots receiving upwards of 400 inches of rain per year.
+
+**1:35** · It's also one of the world's most biologically diverse places.
+
+**1:39** · A home for over 800 species of birds, 140 species of mammals, and 9,000 species of plants.
+
+**1:50** · Here, inside a 100-meter square, you can find nearly as many tree species as in all of Europe.
+
+**1:58** · Rainforests like The Choco are critical for preserving Earth's biodiversity.
+
+###### The challenge of restoration
+
+**2:10** · These are some of the determined researchers on a mission to save this remarkable ecosystem.
+
+**2:20** · (Leighton speaking in foreign language) - They contain more than half of all of the species in the world, even though they occupy a relatively small proportion of the Earth's land surface.
+
+**2:29** · There's new species being discovered in tropical rainforests every year, including here in Northwestern Ecuador.
+
+**2:35** · Every year, an area of tropical forest gets cut down that's about the size of Lake Michigan.
+
+**2:43** · (orchestral music) - The Choco is considered one of the most threatened ecoregions in the world.
+
+**2:48** · In Ecuador, only about 2% of the original forest cover remains.
+
+**2:54** · As more and more of it is converted to palm oil plantations, countless species of plants and animals are at risk of extinction.
+
+**3:09** · (Fernando speaking in foreign language) Fernando is now fighting to restore his native lands.
+
+###### The power of natural recovery
+
+**3:29** · (Fernando speaking in foreign language) But saving a rainforest is not an easy task.
+
+**3:34** · Although scientists know what a healthy tropical forest looks like, they still know very little about how to regrow them.
+
+**3:54** · (Fernando speaking in foreign language) (light music) At this point, maybe you're thinking, why not just plant trees?
+
+**3:58** · One new tree to replace every old one?
+
+**4:01** · Well, the cost, for starters.
+
+**4:03** · Additionally, many traditional replanting efforts have focused on replanting only a small number of tree species.
+
+**4:10** · But this allows only a few fast growing species to dominate the regrown forest, and it really fails to recreate the complex diversity of species in natural rainforests, which can contain upwards of 400 tree species in an area the size of a Manhattan city block.
+
+**4:29** · Regrowing a forest by only replanting a few species is like trying to paint a Picasso with only primary colors.
+
+**4:39** · But here, scientists are trying something new, an idea that harnesses the power of nature itself.
+
+**4:47** · Instead of planting rows of seedlings in a large scale plantation, the researchers are creating small, strategic patches filled with a diverse mix of native trees.
+
+**4:58** · They hope that over time these empty spaces will be filled by the same natural processes that keep healthy rainforests lush and diverse.
+
+**5:08** · [Leighton] The idea is that these small patches of trees will kickstart a natural regeneration process.
+
+**5:13** · [Joe] And here's where things get interesting, because the team's secret weapon is poop. (bright music) The trees planted in these islands produce fruit. In a healthy rainforest, animals act as nature's gardeners. As creatures like howler monkeys and toucans feast on that fruit, their droppings disperse seeds far and wide, planting new forest with every trip to the bathroom. Up to 80% of tree species rely on birds and mammals to spread their seeds in this way.
+
+###### Nature's gardeners
+
+**5:46** · When a patch of rainforest falls, it's these animal gardeners that hold the key to bringing it back to life. Eating fruits, carrying the seeds far and wide, and ultimately, planting the forest of tomorrow.
+
+**6:00** · One of the big questions is, what are the best kinds of trees to plant?
+
+**6:05** · How many of them do you need to plant and what kinds of spatial configurations?
+
+**6:09** · [Joe] The scientists are betting that by planting trees with mouthwatering fruits, they'll attract a bunch of hungry critters like monkeys, birds, and bats to help this forest regrow itself. Who knew that the key to saving the rainforest could be as simple as a well-stocked fruit buffet. To test the idea, researchers pack half of their plots with trees that produce a bounty of animal attracting fruit, while the other half offer fewer delicious treats.
+
+###### Measuring success
+
+
+**6:42** · At the same time, we're also monitoring animal populations to identify what bird species are coming and visiting plots. (Fernando speaking in foreign language) [Leighton] We'd like to be able to connect the dots between what animals are present and what seeds they're bringing into the restoration plots.
+
+**7:12** · [Joe] The project has captured the imagination of the local community.
+
+**7:17** · [Leighton] A lot of the success that FCAT has enjoyed is due to the tight bonds that they have with the local communities that are here. (Fernando speaking in foreign language) [Joe] The experiment is still young, but the team is already seeing promising signs. (Fernando speaking in foreign language) (light music) If it works, this approach could revolutionize reforestation efforts not just in The Choco, but in threatened rainforests worldwide.
+
+###### Future of reforestation
+
+
+**8:08** · Ecological restoration is not a silver bullet.
+
+**8:12** · It's not the solution to all of our environmental problems. In order to prevent mass extinction, we have to stop destroying intact habitats. And restoration can't do that. But restoration is part of the solution as well. Ecological restoration allows us to build back some of the habitat that's been lost.
+
+**8:29** · [Joe] Only time will tell if their tree islands will take root. But in the battle to save our rainforests, every seed of hope matters, and in The Choco, those seeds are starting to sprout. Hey guys, we’re out here working on the next episode of Overview. But before you go, if you’re a fan of history, we want to tell you about two new series over on PBS Origins.
+
+###### Conclusion and credits
+
+**8:55** · Roots of Resistance is a series which shows how history is often made through defiance. And In the Margins explores the kind of lesser-known stories that they maybe don’t teach you in school. We're gonna put a link to their latest episodes down below. We hope you consider subscribing too. It helps all of us over at PBS.
+
+#### Why we should be destroying more dams
+
+**DW Planet A**, *09 18, 2026*
+
+##### Video (11:51)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/na0L_H-tDtU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Thousands of dams are being destroyed, bringing life back to its rivers. Migratory fish are returning to waterways, habitats are reconnecting, and entire ecosystems are being restored. While many dams remain vital for drinking water, irrigation, and flood management, Europe is 
+
+rethinking its relationship with its rivers, one dam at a time. 
+
+#PlanetA #Enobieta #SanSebastian #renewableenergy #hydropower #dams #rivers #Spain #Europe 
+
+CREDITS 
+
+Reporter: Janek Speight 
+
+Camera: Mikel Bereziartua 
+
+Video Editor: Markus Mörtz 
+
+Supervising Editor: Adam Baheej Adada, Kiyo Dörrer, Michael Trobridge 
+
+Fact Check: Jeannette Cwienk 
+
+Thumbnail: Em Chabridon 
+
+READ MORE 
+
+Consequences of Large Dam Decommissioning Project in Europe: The Case of Enobieta 
+
+https://addi.ehu.es/bitstream/handle/10810/62662/TESIS_ATRISTAIN_VEGA_MIREN.pdf 
+
+Stream macroinvertebrate communities improve quickly after large dam decommissioning 
+
+https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2664.14656 
+
+Dam Removal Europe Progress Report 2025 
+
+https://damremoval.eu/wp-content/uploads/2026/08/DRE-Progress-Report-2025.pdf 
+
+IEA Global Electricity Demand Report 2025 
+
+https://www.iea.org/reports/electricity-2025 
+
+EMBER Global Electricity Review 20206 
+
+https://ember-energy.org/app/uploads/2026/04/Global-Electricity-Review-2026.pdf 
+
+CHAPTERS 
+
+0:00 Intro 
+
+0:32 Enobieta Dam 
+
+2:41: Global Dam Problem 
+
+5:07: Rivers Returning 
+
+8:55: Global Balance 
+
+10:33: Conclusion 
+
+We're destroying our environment at an alarming rate. But it doesn't need to be this way. Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means. We look at the big and the small: What we can do and how the system needs to change. We'll take a truly global look at how to get us out of this mess.
+
+Follow Planet A on TikTok: https://www.tiktok.com/@dw_planeta
+
+##### Transcript
+
+###### Intro
+
+**0:00** · "I've been told they're going to tear this down.
+
+**0:02** · So I'm here to find out why."
+
+**0:05** · This is the Enobieta dam.
+
+**0:07** · Huge dams just like it can be found around the world and more are being built every year.
+
+**0:13** · They provide clean drinking water, irrigation for farming and flood protection.
+
+**0:17** · And they're one of the most important sources of renewable electricity on the planet.
+
+**0:22** · But in Europe, something is changing.
+
+**0:24** · Environmental groups want to remove thousands of dams just like this.
+
+**0:28** · So why do they want them gone?
+
+###### Enobieta Dam
+
+**0:32** · "By the time you see this video, this big chunk of the dam will be gone."
+
+**0:36** · The Enobieta Dam is named after the river it crosses.
+
+**0:40** · This wall of concrete was built in the late 1940s to secure drinking water for San Sebastian, in northern Spain.
+
+**0:46** · But the dam already looks different to what I expected.
+
+**0:51** · "To me and my untrained eye, this just looks like it's a forest.
+
+**0:55** · But what are we looking at here here?"
+
+**0:57** · "It's indeed a forest, but all this was covered with water.
+
+**1:02** · Here we had a reservoir which was 30-32 meters deep."
+
+**1:07** · After San Sebastian city council decided to dismantle the dam, the reservoir was emptied in 2019.
+
+**1:13** · Arturo Elosegi led the research into how its removal would affect the river, and the Artikutza forest that surrounds it.
+
+**1:21** · The dam had operated for around 30 years, but it quickly became clear that there were geotechnical issues with the location.
+
+**1:28** · Its storage capacity had to be reduced and there were also issues with iron and manganese contamination in the water.
+
+**1:34** · And in 1976, it was abandoned altogether when a new, larger dam replaced it nearby.
+
+**1:41** · "So they basically built this massive structure…" "In the worst place."
+
+**1:44** · "It was obsolete almost immediately."
+
+**1:46** · "Yeah, that's it."
+
+**1:51** · "So we're now in the former reservoir and it seems mad that only a few years ago, this would've been just a tonne of water."
+
+**2:01** · "Here we would be like five meters under water.
+
+**2:05** · You can see there these big trees are the ancient ones, and the new ones, which are growing in what was the former reservoir."
+
+**2:15** · Five years was all it took to transform the former reservoir from this… into this.
+
+**2:20** · And then something else happened.
+
+**2:22** · "The stream started to carve again a channel.
+
+**2:26** · And in most of the places, it carved exactly the same channel as it had before."
+
+**2:31** · "So the rivers returned to the exact same place… it knew where to go?"
+
+**2:37** · "Yeah. It has memory if you want."
+
+**2:42** · Humans have harnessed the power of water for centuries.
+
+**2:45** · Dams have transformed modern life.
+
+**2:47** · And hydropower remains the world's largest source of renewable energy, supplying around 14% of global electricity.
+
+**2:56** · In Norway, hydro accounts for 95% of its electricity.
+
+**3:00** · Its ability to reliably generate huge amounts of power means demand is still growing, even as wind and solar expand rapidly.
+
+**3:10** · But that comes at a cost.
+
+**3:13** · Dams interrupt the movement of fish.
+
+**3:15** · They trap sediment, alter water temperatures and transform entire aquatic ecosystems.
+
+**3:21** · And it's not just giant hydroelectric dams that can do this.
+
+**3:25** · Weirs, culverts, watermills — are all barriers that can disrupt or block a river system.
+
+**3:31** · "In Europe there are 1.2 million, at least, barriers."
+
+**3:36** · That's Kerry Brink, who works with Dam Removal Europe, a coalition of environmental organizations working to restore free-flowing rivers across the continent.
+
+**3:45** · "These barriers — and a large part of them are small — are really basically cutting up our river systems.
+
+**3:52** · The water quality reduces, water is not flowing in a natural way.
+
+**3:58** · So you really get changes in the water chemistry.
+
+**4:01** · We have declining fish populations, our freshwater biodiversity and freshwater species are the highest impacted species globally."
+
+**4:14** · Dam Removal Europe estimates that around 200,000 barriers are already considered obsolete.
+
+**4:19** · Although the true number is likely much higher.
+
+**4:23** · It's these structures, which no longer have a societal or financial benefit anymore, that they want to tear down.
+
+**4:31** · "We are really not wanting to remove the functional barriers.
+
+**4:37** · We are truly wanting to remove the barriers that actually have a flood risk, which actually have no purpose."
+
+**4:47** · Across Europe, the push to remove obsolete barriers is gathering pace.
+
+**4:51** · In 2025 alone, at least 600 came down across the continent.
+
+**4:56** · And the European Union wants to restore at least 25,000 kilometers of free-flowing rivers by 2030.
+
+**5:02** · But why does removing them make such a difference?
+
+**5:08** · Part of the reason can be seen at Enobieta.
+
+**5:11** · Because when the reservoir here was drained, an entire ecosystem returned.
+
+**5:20** · "A small stream, in a place like this one, lives from the forest.
+
+**5:24** · In the first year, when there was still no forest, the water was quite hot because the sunlight reached it directly.
+
+**5:33** · But then the forest was closing and the water gets cooler."
+
+**5:39** · As the forest returned, the food chain started to rebuild.
+
+**5:43** · "Especially what you have is leaves.
+
+**5:46** · And you see, this leaf is eaten by insects.
+
+**5:48** · There are some fungi, microscopic fungi which grow on top of the leaves.
+
+**5:55** · The insects start to eat these leaves, they grow, the fish eat the insects.
+
+**6:02** · And so everything is fueled by these leaves.
+
+**6:06** · The recovery has been astonishing."
+
+**6:09** · But that recovery can only be complete when the dam itself is out of the way.
+
+**6:21** · Instead of demolishing the whole dam, engineers and the San Sebastian City Council decided it would be enough to cut out a seven-meter section.
+
+**6:29** · The partial removal has limited the amount of concrete taken out, minimizing heavy traffic and construction and overall disruption to the surrounding Artikutza forest.
+
+**6:38** · It also helped protect a bat population that had colonised the dam's internal chambers.
+
+**6:43** · And, it was significantly cheaper — costing around €1.6 million.
+
+**6:50** · When the removal is finished and the river is reconnected, another big change will occur.
+
+**6:56** · The river itself will start to behave naturally again, including how it moves sediment downstream.
+
+**7:02** · Upstream there's a diverse mix of sediment, including cobbles, sand and gravel, which is distributed by the river.
+
+**7:08** · But the dam continues to block that natural flow downstream.
+
+**7:13** · "What you see here, these are not boulders or cobbles, these are blocks of concrete.
+
+**7:20** · Which were thrown here when they lowered the spillway.
+
+**7:26** · So this is totally artificial.
+
+**7:29** · The new channel will go through there and then new sediments, natural sediments will come.
+
+**7:33** · We can see also downstream from the dam, the river habitat was very very poor because all these sediments were retained by the reservoir."
+
+**7:43** · When the river is allowed to pass through again, it will carry a more diverse range of sediments downstream — helping to rebuild banks, the riverbed and the habitats around it.
+
+**7:54** · "Everything will change and we'll have again forest, the sediments will be much more natural.
+
+**8:00** · The habitat is something that is created by the river itself when it moves the sediments.
+
+**8:05** · And they will be created again."
+
+**8:08** · At Enobieta, removing the dam is helping to restore this forest's unique ancient ecosystem.
+
+**8:13** · But reconnecting rivers have other benefits too, particularly for migratory fish.
+
+**8:21** · Which is what happened at Hiitolanjoki in Finland.
+
+**8:24** · Three small hydropower dams had blocked movement access for the endangered landlocked Ladoga salmon.
+
+**8:30** · Authorities decided it made sense to remove the plants and restore the rivers.
+
+**8:35** · "What we've seen is straight after the removals, in actual fact, a week or two weeks after the removals, there was footage of these landlocked salmon spawning in the region just upstream of the barrier.
+
+**8:50** · So it really is something that you can actually visibly see."
+
+**8:55** · "At this point, it all sounds and looks pretty convincing.
+
+**8:58** · Remove the barriers, the rivers reconnect, and nature returns.
+
+**9:02** · But it's not always that simple."
+
+**9:05** · Because while Europe is removing dams that have outlived their purpose, parts of the world are still building them.
+
+**9:11** · Much of the Global south still needs to meet growing demands.
+
+**9:14** · In the Democratic Republic of Congo only 1 in 5 people have access to electricity.
+
+**9:19** · The proposed Grand Inga hydropower project could eventually generate about 42 gigawatts of power — that's about 15 times the DRC's current capacity.
+
+**9:32** · "In many cases, there are barriers that need to be developed.
+
+**9:39** · We do need barriers, but we just want to make sure that the barriers that are there are well functioning."
+
+**9:46** · Meanwhile in India, the issue is more than just electricity.
+
+**9:49** · The country of more than 1.4 billion is investing heavily in its dam network.
+
+**9:54** · The government says they're being built to secure water supplies, support agriculture and to help control flooding.
+
+**10:00** · But many communities, particularly in the Himalayas, have fought these new developments.
+
+**10:05** · They claim that these dams are a threat to fragile ecosystems and disrupt the lives of local residents.
+
+**10:10** · And as drought and flood risk increases, questions are being raised about how long some of these new dams and reservoirs can even remain effective.
+
+**10:20** · "We need them. We have to survive.
+
+**10:23** · So the question is to try to have as few dams as possible and to keep them working for as long as possible."
+
+**10:33** · Some dams will remain essential for decades to come.
+
+**10:36** · And new dams will still have to be built.
+
+**10:38** · But Enobieta shows us that our relationship with dams needs a major rethink.
+
+**10:43** · "Wherever you build something, you have to take into account the whole life cycle.
+
+**10:47** · You have to take into account that someday this will be considered obsolete, it will be a danger, a hazard or whatever, and will be removed.
+
+**10:58** · When we first started out removing this reservoir, we didn't believe we would see it.
+
+**11:02** · I work in the environment and mostly we give bad news.
+
+**11:06** · We look at the environment and we see problems: climate change, pollution, extinction, whatever.
+
+**11:14** · And to see something that was barely imaginable some years ago and that's happened.
+
+**11:22** · That's really a nice thing."
+
+**11:31** · "Are there obsolete dams or barriers close to where you live?
+
+**11:33** · And how do they affect your river systems?
+
+**11:36** · Let us know in the comments, and if you wanna see more videos like this, you know what to do — hit subscribe."
+
 ### Films
+
+#### Knowledge Keepers
+
+>Episode 10 of NOVA (Season 53)
+>- *Released: 2026-09-23*
+>- *Duration: 00:53:41*
+
+[***More details on pbs.org***](https://www.pbs.org/video/knowledge-keepers-fcpnsc/)
+
+<iframe width="560" height="315" title=NOVA  Knowledge Keepers  Season 53 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/knowledge-keepers-fcpnsc/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+##### Description
+
+Witness how Native North Americans have generated scientific knowledge over thousands of years.
+
+##### Transcript
+
+â™ª â™ª NARRATOR: From the frozen lakes of Canada's Barrenlands... FRED SANGRIS: My ancestors learned how to live in one of the most extreme places on Earth.
+
+NARRATOR: ...to the parched extremes of Arizona.
+
+ROBERTO NUTLOUIS: Here, we're working with the earth.
+
+It's going to be its own natural AC.
+
+NARRATOR: From the rugged coasts of the Pacific Northwest... OCTAVIO CRUZ (chuckling): Rain or shine, we'll do this!
+
+NARRATOR: ..to the forgotten bamboo forests of Oklahoma.
+
+RYAN SPRING: Really what it is, is an ecosystem.
+
+NARRATOR: Native Americans and First Nations have developed their own approach to science.
+
+KEN THOMAS: It's just unreal, like, when I think about it, how everything works.
+
+NARRATOR: This knowledge has been forged over thousands of years, built on relationships with the environment, and passed down generation to generation.
+
+SANGRIS: My grandfather was like the history book.
+
+MEGAN BAKER: Indigenous knowledge is accrued over thousands of generations of people who have lived on a landscape and intimately understood that.
+
+â™ª â™ª NARRATOR: Today, knowledge keepers fight to preserve this ancient expertise.
+
+CHILD: It looks like lava.
+
+OCTAVIO CRUZ: The youth have to learn, otherwise there won't be a future-- they are the future.
+
+BRYANT DeROY: When you combine Western science with Indigenous knowledge, it can enrich our vision.
+
+NARRATOR: Who holds this knowledge?
+
+Where does it come from?
+
+And how could it transform our future?
+
+SANGRIS: My father was right.
+
+He said, "Everything's written in the skies."
+
+NARRATOR: "Knowledge Keepers."
+
+Right now, on "NOVA."
+
+â™ª â™ª â™ª â™ª (wind blowing) â™ª â™ª NARRATOR: Canada's subarctic.
+
+Millions of square miles of glacial lakes, vast tundra and extreme weather.
+
+The traditional lands of the Northern Dene people.
+
+SANGRIS: There's no trees, it's just... rolling hills and flat.
+
+So everything looks the same.
+
+NARRATOR: Yellowknives Dene Chief, Fred Sangris, is crossing this unforgiving terrain to reach his tribe's traditional hunting grounds in the Barrenlands.
+
+SANGRIS: We depend on the caribou.
+
+Caribou migration comes from the Barrenlands.
+
+They migrate to this part of the country during the winter and then during spring, they will migrate back.
+
+The migration is about 500 miles.
+
+It's not an easy trip, it's a long trip.
+
+(drumming) (drumming and singing in WiÃ¬liÃ¬deh Yati) NARRATOR: The Yellowknives Dene are part of the wider Northern Dene people and have lived in what is now known as the Northwest Territories of Canada for thousands of years.
+
+In temperatures as low as -40 Fahrenheit, they continue their traditional livelihood-- fishing, trapping, hunting and gathering.
+
+SANGRIS: My ancestors learned how to live in one of the most extreme places on Earth: the cold North.
+
+And if you want to live in this kind of condition here, you have to learn about the environment.
+
+You have to learn it.
+
+Otherwise, you won't survive.
+
+NARRATOR: Fred is joined by anthropologist Chris Cannon, who wants to understand how the Dene are able to navigate this featureless landscape without GPS.
+
+CANNON: Most people in the world find their way off landmarks, recognizable features.
+
+But when Fred gets to the Barrenlands, that's a landscape type that's really monotonous, and it's difficult to read.
+
+You really don't have any reference mark.
+
+It looks very similar, one perspective from the next, especially when the lakes are frozen, they're covered in snow, the hills are covered in snow.
+
+SANGRIS: Just recently, I traveled with my cousins.
+
+My cousin has a GPS.
+
+He has it on his Ski-Doo.
+
+And so we're traveling across the Barrenlands the same way.
+
+And I told my cousin, "You pay attention to your GPS, I'm going to use traditional knowledge."
+
+NARRATOR: This far north, relying on GPS is risky.
+
+Ionospheric disturbances, like the Northern Lights, can interfere with satellite radio signals, reducing precision in location data.
+
+(beeping) And in the intense cold, there's the danger a GPS unit will break or lose power, a serious problem if you're out on the Barrenlands, hundreds of miles from home.
+
+What happens if they run out of batteries?
+
+That's why you got to have traditional knowledge.
+
+CANNON: You can feel that temperature dropping.
+
+SANGRIS: Yeah, it's going down.
+
+The wolves will come around pretty soon.
+
+NARRATOR: With the temperature plummeting, Fred and Chris set up their tent and wait for the sun to set in the West.
+
+Not a bad tent.
+
+NARRATOR: By placing two sticks in line with the sunset, Fred can record this bearing.
+
+SANGRIS: So when I'm crossing the Barrenlands, this will be my first stick.
+
+This is what my dad and my grandfather taught me.
+
+The second stick, it could be 50 feet, it could be a hundred feet.
+
+Right there, where the sun went down, is the marker.
+
+So now we got to wait for the stars to come out.
+
+CANNON: When the sun's setting, he'll put a stick in the ground and then he'll put that other stick in line with the sun and his first stick.
+
+And so he's marking that axis.
+
+And he'll wait for a star to be approximately aligned with those sticks, and then he'll set off following that star.
+
+NARRATOR: The Dene are able to cross the bleak Barrenlands the same way people have crossed featureless oceans: by looking to the stars.
+
+â™ª â™ª It's a skill developed thousands of years ago, passed on to Fred through stories from his grandfather.
+
+SANGRIS: My grandfather was born in 1869.
+
+He passed away in 1976.
+
+He was well over a hundred.
+
+According to my tribe, he's one of the oldest living men.
+
+So he was like the history book, the storyteller.
+
+So he was my teacher and I grew up with him.
+
+CANNON: In Western school, we're just told stuff.
+
+Memorize this-- that's knowledge.
+
+You need to know that, memorize it.
+
+Something like wayfinding with the stars is, you know, you can read about it all day, but if you're not immersed in it you're going to make mistakes.
+
+SANGRIS: When I was 18 years old, I wanted to hunt.
+
+So I went north.
+
+My father, he noticed I had a big military watch that I used to show off to my friends, you know?
+
+He said, "Take your watch off," he said.
+
+I took my watch off and I gave it to him.
+
+He chucked it way out in the snowbank.
+
+(chuckles) I said, "Dad, that's my watch.
+
+Why'd you throw my watch away?"
+
+"You don't need it," he said.
+
+"You got to learn the Dene cultural time."
+
+So, my watch is way up in a deep snowbank.
+
+I don't miss it at all.
+
+(chuckles) My father was right.
+
+He said, "Everything's written in the skies."
+
+â™ª â™ª CANNON: Indigenous people here have had a long relationship in this place.
+
+And they don't have a compass.
+
+They have the stars.
+
+NARRATOR: This far north, magnetic compasses are unreliable.
+
+And the Dene also have an unusual view of the night sky, which makes navigating a challenge.
+
+CANNON: The perspective of the sky closer to the equator is different.
+
+The stars that you follow are rising straight up off the horizon and going up.
+
+NARRATOR: At the equator, the spin of the Earth makes stars appear to rise and set perpendicular to the horizon.
+
+But at the North Pole, you're standing on top of the world.
+
+So the stars rotate above you, never crossing below the horizon.
+
+CANNON: If you're standing right at the North Pole, no stars rise or set, they're all spinning in a circle.
+
+And so that's a really unique challenge for navigation.
+
+It's really difficult to follow stars that are moving sideways.
+
+(indistinct chatter) NARRATOR: So how did the Dene solve this problem?
+
+SANGRIS: We got to go straight that way.
+
+Keep an eye on the star, we just keep going straight.
+
+NARRATOR: The answer lies in Fred's knowledge of the stars, which is rooted in stories from his elders.
+
+One of the best known constellations in the night sky-- the Big Dipper-- is part of a larger Dene constellation called Yamoozha.
+
+SANGRIS: Yamoozha was a spiritual person that came to our lives a thousand of years ago.
+
+He was a shaman.
+
+He was being hunted down by the evil one.
+
+So Yamoozha went up there.
+
+He went up there and then, the evil one took his arrow.
+
+Bow and arrow.
+
+He shot him right in the back.
+
+And that's the one you see in that area where it's bent.
+
+CANNON: Yeah.
+
+SANGRIS: That's where the arrow is.
+
+You know, you listen to your elder's story, you're always going to remember it.
+
+CANNON: One of the really elegant things of this method is you don't really have to know star names to use it because it's any star in line with those sticks that you're picking up and following.
+
+NARRATOR: Earlier, Fred placed two sticks in line with the sunset to mark the East-West axis.
+
+Now, he waits until a star lines up with the sticks, pointing the way he wants to travel.
+
+But the star itself is moving sideways.
+
+Simply following it would lead Fred off course.
+
+So throughout the night, Fred switches to a second, and then a third star.
+
+CANNON: In a time lapse, you can see the star in motion but in real life, it's a very slow thing.
+
+The stars move about 15 degrees an hour.
+
+And so if you follow that star too long, you're going to go sideways.
+
+And so the art of it is knowing when to begin kind of tracking a little bit to the left of that star.
+
+And at what point do you pick up a new star?
+
+(indistinct chatter) CANNON (voiceover): You can't really read about this and just go do it once every few years.
+
+You have to be using it.
+
+It really has to be a lived thing that you have to be immersed in to, to really be able to pull it off.
+
+And it's still there for all of us to see.
+
+Until the end of time.
+
+NARRATOR: From the moment his father threw his watch into the snowbank, Fred has lived and learned this land.
+
+He intuitively knows when to begin following a new star and avoid veering off course.
+
+CANNON: Is there a point some time we'll start to kind of shoot a little left of it?
+
+Yeah.
+
+I will stop and look at it again.
+
+Then I'll pick that one there.
+
+(engine revving) NARRATOR: Fred is one of only a few elders who can travel these lands without relying on GPS.
+
+But will his knowledge survive?
+
+CANNON: How does this keep continuing on in an age of technology where it's a lot easier to use a weather forecast or GPS and how do you keep this going?
+
+If you don't share it, or even talk about it through stories, it will be gone.
+
+Mm-hmm.
+
+Gone, so, I'm sharing the story.
+
+But this, this isn't the only one.
+
+There's a lot of other histories, you know?
+
+Hundreds of years from now, kids are going to look at it, are going to say, "I want to do it, I want to live it."
+
+CANNON: Fred has incredible knowledge that's been passed onto him very deliberately through elders, through his grandfather, having that immersive time on the Barrenlands.
+
+And in many Indigenous cultures, that's really kind of a true form of knowledge, is something that's acquired through direct experience.
+
+NARRATOR: For the Northern Dene of the Canadian subarctic, stories like those told to Fred by his grandfather have guided travelers across barren landscapes for millennia.
+
+It is a form of knowledge intricately connected to ancestral land.
+
+But what happens when a tribe is removed from their homeland?
+
+For the Choctaw in Oklahoma, traditional knowledge has helped them survive in a new home.
+
+Ryan Spring is a cultural research associate for the Choctaw Nation.
+
+He has been working to revitalize rivercane in Oklahoma.
+
+SPRING: When I was first learning about rivercane, the terminology that a lot of academics and scientists would use would be ITEK: Indigenous Traditional Ecological Knowledge.
+
+And I've also heard the term "Native science."
+
+You know, when we think about science from a Western perspective, there's a certain process, there's the scientific method.
+
+But with Native science, the knowledge that we have isn't tested through the scientific method.
+
+It's tested through generations of passing that knowledge on.
+
+â™ª â™ª NARRATOR: The Western scientific method, pioneered during the scientific revolution of the 16th century, relies on observable and measurable phenomena, often using experiments to test hypotheses in a controlled environment.
+
+Native science is also based on observation and measurable phenomena.
+
+But these time-tested insights are developed over generations, and inseparable from culture and environment.
+
+SPRING: The way that our creation stories have always been explained to me is God created us as stewards.
+
+And so when we work in these cane patches and we practice traditional land management, we're showing respect.
+
+NARRATOR: Giant rivercane, "arundinaria gigantea," is a type of bamboo indigenous to North America.
+
+It grows in a tall, dense thicket known as a canebrake.
+
+SPRING: Rivercane plays an important role in our identity as Choctaw people, just as stickball does, just as our language, just as our foods.
+
+Rivercane is a cornerstone of our identity.
+
+EVELINE STEELE: You can see these cane stakes going all the way up.
+
+NARRATOR: Part of the reason rivercane is so important is that it is the raw material for Choctaw baskets.
+
+STEELE: And these two have just a slightly different weave.
+
+NARRATOR: Eveline Steele is a basket weaver.
+
+Her family has been weaving for generations.
+
+For the longest time, there were three weavers in Oklahoma and they were my mother, my aunt and her sister-in-law.
+
+I always say, I can only prove that I'm the third generation, but I can think back, it had to come from somewhere.
+
+â™ª â™ª NARRATOR: Choctaw baskets were used for storage and trade.
+
+Some were so tightly woven, they could hold water.
+
+The geometric patterns are more than decoration.
+
+Some patterns reflect nature, or the four directions.
+
+Others have spiritual meaning, such as the sacred fire.
+
+Like Fred Sangris in Canada, Eveline grew up learning and living traditions that stretched back millennia.
+
+Now, she wants to pass her knowledge on to future generations.
+
+STEELE: That's a decent size, but you see that it's still got the sheath on there?
+
+That has to be completely off, and it can't be rained off, like, a few days ago.
+
+How many strips does one, kind of, main one get?
+
+This is a good size.
+
+You can get four good pieces out of it.
+
+NARRATOR: The students are collecting materials for their baskets, but at the same time, they are learning how to take care of this ecosystem.
+
+SPRING: You have to understand how to harvest it correctly and how not to damage the canebrake.
+
+NARRATOR: Thinning the rivercane opens up the canopy, promoting new growth and improving the overall health of the canebrake.
+
+Today, more than ever, it's a vital intervention, because rivercane is rapidly disappearing.
+
+STEELE: When I was growing up, cane used to be abundant.
+
+And they were just kind of growing wild along the rivers.
+
+But it's not like that today.
+
+NARRATOR: Rivercane once covered an estimated ten million acres of the Southeastern United States.
+
+Today, perhaps 1% survives.
+
+Canebrakes are one of the most threatened ecosystems in the United States.
+
+SPRING: As American settlers moved in, they destroyed the canebrakes, and then they destroyed the land and the soil.
+
+NARRATOR: In the 1800s, the U.S.
+
+government forcibly removed southeastern tribes from their ancestral land and relocated them, commonly referred to as the Trail of Tears.
+
+Over 20 million acres were proclaimed open to settlement.
+
+In the ensuing land rush, Western farming methods devastated rivercane.
+
+The Choctaw understood the role cane played in the environment.
+
+Its roots prevented erosion, keeping the soil in place, and the cane also filtered the water, reducing nitrogen levels.
+
+Without the cane, water quality plummeted, and flooding impacts increased.
+
+SPRING: Over the years, a lot of colonial practices in the United States, agriculture, land management, those types of things has led to rivercane being reduced.
+
+NARRATOR: So how can the Choctaw restore rivercane, and at the same time keep their culture alive?
+
+STEELE: My hope is that people learn from the ground up.
+
+And I mean going out and harvesting cane and then learning to split and peel those.
+
+It's a lot of work, but it's very fulfilling.
+
+Like this.
+
+Get as close to the point as you can.
+
+NARRATOR: After collecting the cane, Eveline shows her students how to prepare it.
+
+STEELE: Hold your hand back here.
+
+(voiceover): When I harvest, I harvest no more than 30.
+
+You split it and then you peel each one to get your fibers.
+
+It's going to take two weeks to do just 30 poles.
+
+It's really a part of the whole process.
+
+I would go so far to say that if they don't harvest, split, and peel it themselves, that basket is only partially theirs.
+
+STUDENT: Would you split this again?
+
+STEELE: I would thin it a little bit where it's thick.
+
+NARRATOR: Eveline's ancestors carried their knowledge of rivercane with them when they were relocated to Oklahoma.
+
+BAKER: Both her grandfather and her grandmother come from Louisiana.
+
+And they bring their knowledge of basketry to Indian territory.
+
+STEELE: And then you'll come and do an outside one.
+
+NARRATOR: Megan Baker is an anthropologist and an expert on Choctaw basketry.
+
+STEELE: Same type of basket.
+
+BAKER: So Eveline's grandmother is bringing over these designs and these practices that I have not seen in Oklahoma Choctaw basketry of that time period.
+
+NARRATOR: Most rectangular or square baskets start at the bottom.
+
+The pattern is counted out as moistened cane strips are woven tightly together.
+
+The simplest is a plain weave, a basic one-over-one pattern.
+
+Changing the numbering creates different patterns and designs.
+
+STEELE: The basket variations depends on that count.
+
+The numbers makes up that style.
+
+NARRATOR: Eveline doesn't write these numbers down.
+
+She holds in her head a mental map of every move ahead.
+
+STEELE: I have to have, in my mind, the pattern that I want to make because the mathematics really come into play.
+
+It's something you kind of visualize.
+
+NARRATOR: This basket will take about three days to weave, on top of the time it took Eveline to collect and prepare the cane.
+
+STEELE: It teaches you patience, and it teaches you... ...to be careful.
+
+BAKER: She is a repository of knowledge.
+
+Eveline has really helped us revitalize rivercane basketry for Choctaw people.
+
+NARRATOR: Eveline's students have finished preparing their rivercane, and their baskets are hitting social media.
+
+This new generation of Choctaw basket weavers are building on principles developed over thousands of years to take this ancient practice into the future.
+
+Revitalizing rivercane is both a way to invigorate Choctaw culture, and an opportunity to heal ecosystems that have been pushed out of balance.
+
+SPRING: Rivercane can help with our erosion problems, it can help with water quality, it can help with connecting our people with our culture.
+
+STEELE: It's important to carry on this knowledge because it makes us who we are as a people, as a tribe.
+
+SPRING: And so in the end, that basket is an archive.
+
+That basket is generations of knowledge.
+
+Generations of Choctaw people learning about the land and the ecosystem.
+
+All that is tied into that basket.
+
+BAKER: Indigenous knowledge is accrued over thousands of generations of people who have lived on a landscape and intimately understood that.
+
+That's not easily replicated.
+
+Modern science cannot keep up with what Indigenous peoples have known for centuries.
+
+NARRATOR: For the Choctaw, drawing on ancient knowledge has strengthened their connection to their culture and environment.
+
+â™ª â™ª But for some tribes, the chain of knowledge has been broken.
+
+In the Pacific Northwest, Coast Salish tribes are fighting to put ancestral knowledge back into practice, before it is lost completely.
+
+(indistinct radio chatter) Nicole Norris belongs to the XelÃ¡ltxw First Nation.
+
+NORRIS: I've worked in aquaculture for nearly 30 years now, and that's what brings me back to the beach.
+
+The Gulf Islands are sacred spaces.
+
+I feel exceptionally privileged to be able to come here.
+
+(humming) NARRATOR: Nicole is joined by Ken Thomas, a member of the Penelakut tribe who works in fish and wildlife management.
+
+They are visiting a beach on Russell Island, southwest of Vancouver.
+
+THOMAS: It's always good to be here early.
+
+NARRATOR: As the tide goes out, rock patterns appear along the shoreline.
+
+What caused these unusual formations?
+
+(helicopter whirring) WOMAN (over radio): There's one.
+
+NARRATOR: It's a question that confounded marine geologist John Harper when he did shore surveys as part of an oil spill response-planning program following the 1989 Exxon Valdez incident.
+
+MAN (over radio): There's another one of these cobble ridges.
+
+There's sand, then boulders all up along the shoreline.
+
+NARRATOR: He stopped counting at 350, with no idea what they were.
+
+(indistinct radio chatter) Until he asked the First Nations people.
+
+It was their ancestors who built them.
+
+These walls are ancient sea gardens, with some dating back 3,500 years.
+
+They are among the earliest examples of aquaculture in the world.
+
+THOMAS: It seemed like it was a discovery, you know?
+
+"Oh, that's what these walls are for."
+
+And we're like, "Yeah, yeah, they're here for a reason."
+
+You know?
+
+Our ancestors put them there.
+
+A horse clam shell... that one.
+
+They're quite a bit bigger than the butter clam.
+
+NORRIS: A clam garden, or as I call them sea gardens, it is from an eagle eye view, a pile of rocks that makes a wall.
+
+And it changes the slope of the beach to create greater growing grounds for bivalves.
+
+NARRATOR: Clams are found in the intertidal zone: where they can feed during the high tide, and take cover from predators in the sand during the low tide.
+
+Nicole's ancestors engineered a rock wall to transform the beach.
+
+Over time, sand and broken shell build up, changing the slope and expanding the intertidal zone.
+
+And it's not only clams that thrive here.
+
+THOMAS: The reason why we call it sea gardens is because there's more than just clams inside these walls.
+
+They're habitat for a lot of other aquatic life, like the rock crabs.
+
+As you can see, there's quite a bit of red rock crab juveniles and there's some mature ones.
+
+NARRATOR: Nicole and Ken have been working to restore this sea garden, one of hundreds in the area that were driven into ruins.
+
+During the gold rush of the mid-19th century, white settlers removed local First Nations from their lands.
+
+Colonial policies aimed at favoring commercial settlers effectively made it illegal for tribes to harvest clams.
+
+Then, in the 1990s, water contamination from farming and urban pollution led to the closure of beaches across the region.
+
+And for decades, federal agencies did not regularly reassess those pollution levels.
+
+THOMAS: These places were closed because they're considered contaminated, but reality was, there was no sampling done in the area, so they just said, "Well, we don't want anyone getting sick, so we'll just close the whole area down."
+
+NORRIS: Access was denied to us for about 30 years.
+
+NARRATOR: Today, Parks Canada is working with Coast Salish tribes to monitor these waters and reopen the beaches.
+
+DeROY: Every two weeks in the winter, we come out and grab a sample and send it off to the Canadian Food Inspection Agency.
+
+And they'll analyze the tissue inside these mussels for contaminants.
+
+So that we can ensure that we're bringing folks out here to harvest, that the shellfish is safe to eat.
+
+THOMAS: Working together with Parks and doing these sampling programs opened up a lot of these areas.
+
+Recently, we have been able to harvest for our communities.
+
+For me, it was a really big step up in a positive way.
+
+NARRATOR: With the beaches reopened, Nicole and her tribe are able once more to harvest these waters.
+
+But how best to maintain a sea garden?
+
+Nicole turned to her elders.
+
+NORRIS: Back when I started in aquaculture, I was a teenager and, um, I learned about all of these things from the elders that were on the beach.
+
+Got one.
+
+NORRIS (voiceover): They were teaching me how to read the beach as to where to find these clams.
+
+And they started to teach me about the substrate.
+
+I'm looking at this substrate here.
+
+We want to make sure that the water can go through here so that it can saturate and filtrate.
+
+What we're trying to create is substrate that looks like this.
+
+Look at how thick.
+
+We incorporate shell hash into this, and till it in the same way that you would in a garden.
+
+NARRATOR: Adding crushed shells breaks up the heavy sediment, creating a better habitat for young clams.
+
+THOMAS: It's just unreal, like, when I think about it, how everything works.
+
+Our ancestors are way ahead of their time.
+
+NARRATOR: Western research has confirmed what the Coast Salish already knew.
+
+Sea gardens produce 150% to 300% more clams than non-modified spawning grounds.
+
+DeROY: Indigenous knowledge is the guiding force behind all the restoration practices that happen here.
+
+When you combine Western science with Indigenous knowledge, it can enrich our vision of what's happening on the beach, and enrich the information that we're learning from the beach.
+
+NORRIS: It represents a pathway back to our natural way of being.
+
+We're coastal people.
+
+We eat from the ocean, we eat from the beach.
+
+The greatest peace for my own self is that I have an opportunity to... ...steward an area with my own hands.
+
+To prepare a table for my great-grandchildren and my great-great-grandchildren.
+
+(squawking) CRUZ: Rain or shine, we'll do this!
+
+(laughs) NARRATOR: The practice of restoring sea gardens is spreading across Canada and the U.S.
+
+CRUZ: If you can do a bucket, a bucket would be good.
+
+GERALD HENRY: It sparked us and we're building a flame that's gathering and it's gathering all over the territories.
+
+NARRATOR: But what if instead of restoring an old sea garden, you built an entirely new one?
+
+CRUZ: Rain or shine!
+
+NARRATOR: Octavio Cruz is the Marine Scientific Manager for the Pauquachin Nation.
+
+CRUZ: This is the site of one of the first new clam gardens to be built in living memory.
+
+LYLE HENRY: We've been here for thousands and thousands of years.
+
+We had our own system of governance based on respect and honor of the history, of the land and the people.
+
+GERALD HENRY: We haven't been able to harvest in our beach for pretty well 30 years now, and that's something that we've talked to our elders about and wanted to make a place, a beach harvestable again.
+
+I love this.
+
+Kind of awesome.
+
+CRUZ: This project was brought together in a lot of different conversations, really trying to think about how we can address some of the modern challenges we have in today's day and age for First Nations, for Pauquachin, for food harvest, using traditional Indigenous methods or Indigenous science.
+
+This was his, like, pen-to-paper sets of ideas, talking about boat traffic was a big consideration and where the clams could be protected between the structures.
+
+So, when we took this on... (voiceover): We built a visual picture of sea garden protocol.
+
+We started from what existed, we learned from our neighbors and then we built our own protocol that was a mix of traditional management ways and then also new ways that we're still tweaking.
+
+So when you're building, you infill with the little ones.
+
+And try to cap... ...with larger flat cap stones to hold.
+
+There's no mortar, there's nothing to stick it together.
+
+These are sites that are meant to keep being maintained and they'll shift and adjust themselves, like it's breathing.
+
+And you can see how well it's holding up.
+
+â™ª â™ª NARRATOR: After months of work, the wall begins to take shape.
+
+LYLE HENRY: When I was a child, the beach was always open to people.
+
+We had that respect for each other.
+
+If you were hungry and needed food, you were welcome to come harvest clams.
+
+NARRATOR: Octavio's hope is that by drawing on the knowledge of their ancestors, the Pauquachin will be able to harvest this coastline for generations to come.
+
+It's an approach he believes has significant advantages.
+
+CRUZ: I'm a trained Western scientist, and I think I understand the limitations of that methodology and those studies.
+
+I think sometimes we put Western science on too high of a pedestal, in that it might be good for solving one set of variables or one problem.
+
+But oftentimes scientists do get lost in the weeds.
+
+Indigenous knowledge however, is informed by both culture, spiritual practice and science woven together.
+
+There is no separation between those boundaries and the strength of that is that you get a wider holistic view of your place.
+
+NARRATOR: The Coast Salish are keeping the knowledge of sea gardens alive, despite being forcibly removed from the coast.
+
+But the potential of native science goes far beyond simply restoring what has been lost.
+
+ROBERTO NUTLOUIS: It's true that colonization has happened, but that's only a small percentage of our history, of who we are as people.
+
+We have thousands of years of ancestral knowledge that really tells us about the power that we have.
+
+NARRATOR: In the deserts of the Southwest, the Navajo are drawing on ancestral knowledge to tackle one of the greatest challenges of our time.
+
+Roberto Nutlouis believes the ideas encoded in a hogan-- the traditional Navajo home-- could help combat climate change.
+
+Americans have not fully acclimated to this place as a home.
+
+They still treat it as resources to be exploited.
+
+We're taking too much fossil fuel, emitting it and creating this global ecological disaster.
+
+But hopefully what we see as a disaster is an opportunity for us to seek solutions that will bring us back into balance.
+
+NARRATOR: Somehow, despite the extreme heat of the desert, the ancient Navajo engineered homes that keep cool; built out of wood and earth.
+
+How do hogans work?
+
+(Roberto singing in DinÃ© Navajo) NUTLOUIS: These aren't just structures.
+
+As we do our blessing songs, we activate them, we energize them, they become a living being.
+
+And so that's how we see our world, our ecology and we have relationship to them.
+
+(singing continues) (singing continues) NARRATOR: The Navajo, also referred to as DinÃ©, embody a profound cultural bond with their desert homeland.
+
+They've lived on this land for thousands of years, developing the knowledge to thrive.
+
+NUTLOUIS: The first two logs are going to come is going to be these two main pillars that, where the regular door is going to come in, but then there's going to be a beam that's going to come from here all the way to there.
+
+That's what those two logs are for.
+
+They're going to come in like that.
+
+NARRATOR: Similar to the Choctaw management of rivercane, Roberto and his team harvest the logs in nearby juniper forests through selective cutting.
+
+This sustainable process helps open up the forest floor and reduce forest fires, benefitting the ecosystem.
+
+NUTLOUIS: This hogan is a tripod.
+
+So you have three main logs that come together.
+
+That is the main frame of the entire structure.
+
+And each of them have their stories.
+
+We called them Sahdii.
+
+So those are the way the holy people put it together, these main pillars that come together up here, and that's why they call it the forked-stick hogan.
+
+NARRATOR: The hogan takes on different shapes and styles and is used for different purposes.
+
+Roberto builds four types of hogans: sweat, arbor, male and female.
+
+The male and female hogans are living and ceremonial spaces.
+
+The sweat hogan is used for healing and purification.
+
+The arbor hogan is a communal space used for food preparation and meals.
+
+NUTLOUIS: When you go into these traditional structures, it's like, wow, very mesmerizing.
+
+You create the octagon shape.
+
+And then you have the hexagon... ...the square, ...the diamond, then the last one is a rectangular shape, which brings the logs together more closely.
+
+Back in the day we didn't have screws, so they all interlock with each other, until it closes out up on top, where we can then put the chimney opening.
+
+NARRATOR: Today, Roberto and his team are building a forked-stick, or male hogan.
+
+(indistinct chatter) With the main structure complete, work begins on the plaster.
+
+NUTLOUIS: So go ahead and turn it on.
+
+(pouring cement) We'll put in the clay first.
+
+Because the clay is the one that acts as the glue.
+
+So we want the clay to mix really well before we start adding the sand.
+
+NARRATOR: The main ingredients are simple: clay, sand and water.
+
+All found nearby.
+
+NUTLOUIS (voiceover): The earth plaster that we cover it on the outside, not only does it blend in with the surrounding environment, it also gives it a thermal energy.
+
+The heat in the winter, the coolness in the summertime, it's able to retain it.
+
+NARRATOR: Clay has a high thermal mass, meaning it slows the absorption and storage of energy.
+
+During the day, as the clay walls absorb the sun's heat and slow its transfer, they keep the inside cool.
+
+Then, at night, when it is cold, the heat absorbed by the clay walls is released and the process starts over again.
+
+Through trial and error, Roberto perfected his plaster, and discovered that by adding straw, the hogan requires less maintenance.
+
+NUTLOUIS: We're adding our own ingenuity to these, uh, ancestral building techniques, and I always tell the community and the youth is that every generation contributes to the cultural evolution.
+
+NARRATOR: The result is soil that naturally regulates temperature shifts, providing a stable, comfortable environment.
+
+NUTLOUIS: Here in the Southwest, it's getting warmer and warmer.
+
+Folks down in Phoenix, they're constantly blasting their AC to remain cool.
+
+They're working against the earth.
+
+Here we're working with the earth.
+
+It's going to be its own natural AC.
+
+NARRATOR: Roberto and his team have completed the forked-stick hogan.
+
+The earthen walls allow it to withstand extreme temperatures.
+
+But how well does it work?
+
+In a hogan Roberto and his team built for DEAP Charter School, students are about to find out.
+
+So anybody else, if you want to smudge, come smudge and then we'll continue.
+
+NARRATOR: Dawnlei Ben and Roshonda Shurley lead the class, exploring the hogan with an infrared camera.
+
+So you see my hand?
+
+Yeah.
+
+BEN: I'm going to put my hand on the wall.
+
+I'm going to hold it here for a while.
+
+SHURLEY: It's 86.2 degrees right now.
+
+Okay, you ready?
+
+STUDENT: Look at that!
+
+It leaves fingerprints!
+
+STUDENT: Oh, it looks like lava.
+
+You see the handprint?
+
+Yeah.
+
+What is that reading?
+
+78.9.
+
+BEN: So you have your heat energy going into the hogan.
+
+Just like how if your mom or your relatives they hug you, I'm pretty sure you get warm, right?
+
+Yup.
+
+The hogan show us love.
+
+Now proven through science, there's some energy transfer there.
+
+NARRATOR: The wooden interior of the hogan quickly absorbs and releases energy.
+
+STUDENT: Should we try outside?
+
+BEN: Let's go see.
+
+NARRATOR: But when they try the same thing outside... BEN: All right, let's see.
+
+STUDENT: What?!
+
+SHURLEY: It didn't work.
+
+NARRATOR: ...the clay does not immediately heat up.
+
+Instead, the walls slowly absorb and store energy.
+
+It's the high thermal mass of the plaster that keeps the heat out in the summer.
+
+And seals it inside during the winter.
+
+BEN: Our ancestors didn't have a thermometer.
+
+They didn't have the iPad.
+
+But they knew that if they put a mud mixture on the outside, it would keep the cold out.
+
+Isn't that awesome?
+
+NUTLOUIS: The ancestors and the holy people thought about these things when they were designing this structure.
+
+That it works with the environment, that it's aligned with the natural laws and the teachings that are embedded in it.
+
+NARRATOR: The hogan is the perfect structure for Arizona's desert.
+
+But to the Navajo, it's more than just a building.
+
+NUTLOUIS: Hogans is our cultural compass.
+
+NARRATOR: The design reflects the Navajo worldview, symbolizing the cosmos and Mother Earth.
+
+Specific orientations and structural elements represent sacred beliefs.
+
+It's a way to embed important information to be retrieved through story.
+
+NUTLOUIS: The structure itself is an embodiment of the universe as well as the Mother Earth.
+
+And in between that, "bita' neiidÃ¡," is us that live in that.
+
+So the spiraling logs that you see represents the cosmos.
+
+Each of those layers kind of elevates you into a higher consciousness and a higher awareness as they stack on top of each other.
+
+â™ª â™ª NARRATOR: Just as Eveline Steele's baskets are archives of Choctaw knowledge, so is the hogan, embodying deep cultural, spiritual and architectural significance.
+
+NUTLOUIS: If we go back to a simplistic living, there's beauty in that.
+
+And I think this is what these structures is really about.
+
+It's so efficient.
+
+You're not spending so much money to maintain your structure.
+
+You're working with the natural forces and natural elements.
+
+NARRATOR: It's a powerful idea that is beginning to spread.
+
+Traditional Navajo hogans, with their focus on sustainability, natural materials and orientation to the environment, are influencing modern sustainable architecture.
+
+NUTLOUIS: Indigenous knowledge is human knowledge.
+
+Every culture has evolved a sense of understanding in relationship to the land and this knowledge is so critical in maintaining a healthy balance with the natural order of things.
+
+â™ª â™ª NARRATOR: Through experiments lived out over thousands of years, Indigenous communities developed technologies for wayfinding, agriculture, engineering, forestry and astronomy.
+
+And that science has been passed on through knowledge keepers.
+
+CANNON: It's really a holistic way of knowing and being in the world.
+
+But it's not fossilized in time.
+
+It's knowledge that's continuous, but it's also lived, and recreated, and passed on, and remade and personalized.
+
+CRUZ: We talk about expertise as something that's really stroven for in a Western scientific field, but I actually think the only way to have a wider knowledge base is that there are no experts.
+
+All of us are willing to learn for our whole lives and we pass off every lesson that we have and work together with place, with the environment.
+
+SHURLEY: Western knowledge and Indigenous knowledge, they both intertwine with one another.
+
+And I believe that we are able to learn from both systems.
+
+NUTLOUIS: We need to pick it up.
+
+We need to figure it out and be the solution.
+
+NARRATOR: In Canada, Fred Sangris and Chris Cannon have returned from their trip across the Barrenlands.
+
+And Fred has one last story to share.
+
+SANGRIS: In 1976, my grandfather is about 105 years old, walking with a cane.
+
+It was a full moon, so I said, "Grandfather... "...did you know that that moon over there?
+
+There's some people that went out with a big plane."
+
+We don't have a name for rockets.
+
+So I said, "They went out with a big plane to that moon."
+
+MISSION CONTROL (over radio) Oh, gee that's great.
+
+Is the lighting halfway decent?
+
+NUTLOUIS: "They walked around all over "and their footprint is on the moon.
+
+And then they came back to Earth."
+
+"EniÃ¬yah," he says, "EniÃ¬yah".
+
+"EniÃ¬yah" in my language means "awesome, awesome."
+
+"That's amazing-- plane, radio.
+
+All these new things."
+
+I want to live another hundred years."
+
+I want to know where this world is going."
+
+That's what he told me.
+
+"I want to know where the world is going."
+
+In my idea, the way the world is going... ...we shouldn't be going that way.
+
+We need to be more respectful for the environment, with the nature.
+
+CANNON: It's Dene law.
+
+SANGRIS: Yeah, the Dene law, you know?
+
+You have to live-- live, but don't destroy.
+
+â™ª â™ª â™ª â™ª â™ª â™ª â™ª â™ª â™ª â™ª
 
 #### Ocean With David Attenborough
 

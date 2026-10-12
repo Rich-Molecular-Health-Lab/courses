@@ -1,6 +1,6 @@
 ---
 title: "Case Conversation 8 - Landscape-Scale Approaches"
-date: "2026-08-29"
+date: "2026-12-09T16:00:00"
 date-modified: "2026-08-29T12:19:17"
 profile:
   - "case_convo"
@@ -10,3 +10,13 @@ categories:
   - "BIOL4120"
 ---
 
+## Class Meeting
+
+**Date:** Wednesday, December 9, 2026
+
+<a class='btn btn-outline-primary p-3 m-2' href='../topics/Landscape-Scale Approaches.html'>Landscape-Scale Approaches <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../units/Approaches to Conservation.html'>Approaches to Conservation <i class='fa-solid fa-link'></i></a>
+
+## Assignment
+
+**Guided Case Conversation**

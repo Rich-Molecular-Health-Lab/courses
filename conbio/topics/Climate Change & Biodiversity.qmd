@@ -1,6 +1,6 @@
 ---
 title: "Climate Change & Biodiversity"
-date: "2026-11-02T16:00:00"
+date: "2026-11-09T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -15,7 +15,7 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-11-02T16:00:00, 2026-11-04T16:00:00
+**Dates:** 2026-11-09T16:00:00, 2026-11-11T16:00:00
 
 ## Assigned Background
 
@@ -33,7 +33,7 @@ listing:
 
 **Textbook:** Conservation biology for all *(see details below)*
 
-**Days Covered:** BIOL4120_W11D1
+**Days Covered:** BIOL4120_W11D1, BIOL4120_W11D2, BIOL4120_W12D1
 
 :::
 
@@ -99,7 +99,7 @@ listing:
 
 **Textbook:** Conservation biology for all *(see details below)*
 
-**Days Covered:** BIOL4120_W11D1
+**Days Covered:** BIOL4120_W11D1, BIOL4120_W11D2, BIOL4120_W12D1
 
 :::
 
@@ -281,6 +281,706 @@ https://www.facebook.com/itsokaytobesmartpbs/
 **8:43** · Stay curious.
 
 **8:44** · If you want to read more about the brilliant and tragic stories of extinction in this age of humans, check out "The Sixth Extinction" by Elizabeth Kolbert, link in the description.
+
+#### Climate change can money stop deforestation
+
+**The Economist**, *11 01, 2022*
+
+##### Video (12:50)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/cOfWyCkcSvg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Rampant deforestation has driven economic growth, but accelerates climate change. How do you put a price on trees, to make them worth more alive than dead?
+
+Film supported by Bain and Company
+
+00:00 - Can money grow on trees?
+
+00:55 - What Costa Rica can teach us
+
+01:52 - Down with the trees: rapid deforestation around the world
+
+03:15 - Why tree-planting schemes aren’t always the answer
+
+04:24 - Paying for existing trees: carbon credits
+
+06:38 - How to finance the restoration of forests
+
+08:10 - What are Payments for Environmental Services?
+
+09:31 - Swapping to sustainable returns
+
+10:40 - Is focusing on economic growth the problem?
+
+11.50 - Why world leaders need to decarbonise the economy
+
+Sign up to our daily newsletter to keep up to date: https://econ.st/3n3kIjj 
+
+Why tree planting alone is not an adequate solution for climate change: https://econ.st/3rC50Oq
+
+How the world’s wealthiest countries cause deforestation in poor ones: https://econ.st/3rBgW3d
+
+The role of forests in climate change - listen to The Economist’s Intelligence podcast about their importance: https://econ.st/3rJ527a
+
+How Jair Bolsonaro has damaged the Amazon rainforest: https://econ.st/3CFQiwa
+
+Sign up to our climate change newsletter: https://econ.st/3b1dtCQ 
+
+A balance-sheet could help to save the planet:https://econ.st/3VcAZSS
+
+Why is the Amazon rainforest doing more harm than good? https://econ.st/3T50KCV
+
+##### Transcript
+
+###### Can money grow on trees?
+
+**0:00** · [Music] money doesn't grow on trees but chopping them down has helped lots of the world get richer since the beginning of the 20th century humans have been raiding these resources almost as though they were Limitless the problem is the world is now paying a heavy environmental price it certainly looks like a crisis after the worst drought in 80 years so is
+
+**0:26** · there a financial solution if we don't change the movement of money we'll continue to finance ourselves into Extinction is paying for trees to be protected and restored the answer and how do you put a price on their worth foreign
+
+**0:51** · to understand the alarming story of deforestation let's start with Costa Rica in the 1980s [Music] Maria's family was typical of many enticed by The Riches of Agriculture her father cleared and converted their Forest to pasture foreign
+
+###### What Costa Rica can teach us
+
+**1:29** · markets with the driving force behind deforestation from 1940 to 1987 the proportion of land in Costa Rica covered by forests plummeted from 75 percent to 21 percent
+
+**1:45** · Costa Rica's experience is far from unique the rest of the world jumped on the bandwagon too humans have been cutting trees for thousands of years but there was a massive acceleration in the last century the U.N estimates around 10 million
+
+###### Down with the trees: rapid deforestation around the world
+
+**2:01** · hectares of forest are being lost each year that's around 27 football fields every minute fewer trees means less carbon dioxide being absorbed from the atmosphere and their destruction only adds more emissions accelerating climate change
+
+**2:24** · The Heart Of This Global crisis sits the world's largest rainforest and the so-called Trump of the tropics jair bolsonaro um from 2019 to 2022 the rate of
+
+**2:41** · deforestation in Brazil Rose by roughly 50 percent attracting critics around the world the problem is it's a bit Rich for wealthy countries to demand that poorer ones give up the economic benefits of deforestation the majority of deforestation in recent
+
+**2:59** · years has really been driven by agriculture expansion in developing countries it can almost seem hypocritical to criticize these developing nations for following a pathway that effectively made rich countries wealthy in previous centuries
+
+###### Why tree-planting schemes aren’t always the answer
+
+**3:15** · so what can be done the simple answer is for rich countries to incentivize poorer ones to protect and restore their forests one thing the wealthy world has tried is stumping up cash for new tree planting schemes but many of these haven't borne
+
+**3:33** · fruit tree planting programs are incredibly popular they can seem almost childishly easy you plant a tree you save the climate the reality of course is nowhere near that simple in terms of the climate it can be far more beneficial to conserve the forest that's there so another way is to focus rewards for
+
+**3:55** · developing countries on conserving existing forests it works like this using historic rates of deforestation a country predicts how much Forest is likely to lose in the future any Forest that it manages to conserve is judged against this Benchmark the
+
+**4:12** · donor hands over a financial reward to the developing country for the trees it saved paying a sum for each ton of carbon dioxide that would have otherwise been emitted it's not just the developing country that stands to gain the donors often
+
+###### Paying for existing trees: carbon credits
+
+**4:28** · rich countries or companies can benefit too in exchange for their money they can claim what's called a carbon credit which they can use to offset their emissions elsewhere Carmen credits are a way of allowing companies countries people who can't
+
+**4:47** · reduce their own emissions currently to offset those emissions elsewhere they are seen as an important part of transitioning towards a net zero economy I started out hugging orangutans but now I find myself hugging asset managers and bankers a bit more often Andrew Mitchell is a zoologist turned financial advisor he encourages investors to buy carbon credits and believes they're an important tool for Forest conservation these credits are hugely valuable it's a
+
+**5:18** · transition strategy whilst you're reducing your carbon emissions you have to buy offsets you should buy offsets it sounds like a win-win but so far the results are mixed Shady players have gained the system and pulled dirty tricks like duplicating credits or
+
+**5:36** · claiming to conserve land never under threat or moving the problem to the forest next door built into the Paris agreement is this consensus that there should be a global scheme for exchanging carbon credits across borders in practice the rules and standards that would govern such a global market have been incredibly difficult to establish and so right now
+
+**6:01** · what we've got is a system which is really unregulated and although standards and the scale of carbon credit schemes are improving there's still one big sticking point the rewards for conserving trees still lag behind those for deforesting we need carbon markets to grow they
+
+**6:22** · won't really achieve their full potential unless the price of offsetting a ton of carbon is competitive with the profits that can be generated from other activities on that land ultimately conservation has to become profitable
+
+###### How to finance the restoration of forests
+
+**6:38** · re-enter Costa Rica once the poster child of deforestation but now a global leader in conservation and an example of how to make saving nature pay here landowners are paid by the government to restore and conserve forests and this has helped to create new and sustainable economic opportunities [Music]
+
+**7:07** · remember Maria whose father made a living out of chopping down trees like many in Costa Rica her family have since branched out and now do the very opposite [Music]
+
+**7:24** · Maria and her grandchildren we plant forests so far 350 hectares worth the government pays them and many other families around 80 a year for each hectare of forest that's restored or kept intact Graces
+
+**7:55** · Ramos [Music] it might sound like a government subsidy scheme but here's the key bit it's not
+
+###### What are Payments for Environmental Services?
+
+**8:12** · it's a system known as payments for Environmental Services launched in the late 90s is paid for by citizens who are seen as benefiting from the services provided by healthy forests like carbon storage the protection of vital food chains and clean water the money is not coming from from the national budget the money comes from those who benefit
+
+**8:38** · Carlos Manuel Rodriguez is Costa Rica's former environment Minister and the brains behind the scheme which is paid for by a levy on consumers water bills and attacks on their fuel use Costa Rica was the first developing country that put a tax on on carbon to
+
+**8:56** · generate a revenue for the payment of Environmental Services everybody who uses fuel in Costa Rica and pollutes the environment contributing to climate change must pay in the price of purchases that fuel an extra amount that
+
+**9:13** · goes to this foreign fund that pays Farmers so far the scheme has invested more than 500 million dollars in the conservation of forests and it's paid off in the space of a generation Forest covering Costa Rica jumped from 21 to more than 50 percent
+
+###### Swapping to sustainable returns
+
+**9:32** · with the restoration of trees have come new opportunities for profitable and sustainable Industries blowing away the idea that conservation and economic development are always at loggerheads nature-based tourism has become naturally important because of our jobs in rural Costa Rica as opposed to what we had in the past which was this irrational unsustainable agricultural production there is no dichotomy between preservation and economic development
+
+**10:05** · since 1987 the peak of deforestation in Costa Rica the country's GDP has risen by an average of 4.2 percent a year Costa Rica isn't a magic formula for saving the world's forests since it began prioritizing conservation it's increased food imports an option not available to all countries but there is a lot Costa Rica can teach others for one thing it's improved some
+
+**10:32** · of its bad spending habits reversing subsidies that incentivize the clearance of land at all costs a lead more countries should follow we should put more money into the protection of nature from governments but the reality is even if we doubled all that money it wouldn't come close to beating the subsidies that
+
+###### Is focusing on economic growth the problem?
+
+**10:52** · directly cause harm to Nature each year the world spends around 150 billion dollars on protecting nature but around 12 times that on subsidies that harm it some campaigners argue a more radical fix is needed to save the volume of forests necessary to avert environmental catastrophe they say what's required is a fundamental shift away from society's focus on profits and growth the problem
+
+**11:20** · with GDP is that it measures everything we build and nothing that we protect it's all beginning to change now people are waking up to the importance of keeping nature going to keep our economy going not everyone supports such a drastic change to economic thinking but
+
+**11:36** · most do agree that change is not happening fast enough with the eyes of many global leaders on other challenges the world is facing multiple crises in the midst of all this there is a risk that nature conservation and the climate crisis are demoted in the pecking order but climate change the global climate does not wait for short-term crises to pass foreign
+
+**12:12** · bullet that will reverse climate change the world needs to urgently reduce industrial emissions and prioritize policies to decarbonize economies but unless trees are worth more alive than dead deforestation and its Devastation will continue I'm Tom standage Deputy editor of The Economist and editor of the world ahead to read more of our future gazing coverage click on the link thanks for watching and don't forget to subscribe
+
+#### Climate change the trouble with trees
+
+**The Economist**, *09 18, 2019*
+
+##### Video (9:44)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/EXkbdELr4EQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Tree-planting has been hailed as a solution to climate change. But how much can trees really do to tackle global warming? See our research here: https://econ.st/32HXvXY
+
+Click here to subscribe to The Economist on YouTube: https://econ.st/2xvTKdy 
+
+Summer 2019 - More than 38,000 fires raged across the Amazon. Fires that were man-made. Over the past 50 years almost 17% of the world’s largest rainforest has been cleared. And globally deforestation has almost doubled in just five years.
+
+Since the start of human civilisation it’s estimated that the number of trees around the world has fallen by almost half. Clearing forests increases carbon-dioxide levels but planting them could store away some of the carbon already in the atmosphere.
+
+This woman runs safaris in England. Guests are not only here to see wild animals - they’re here to see wild trees.
+
+Almost 20 years ago Isabella Tree—yes that is her real name-handed 1,400 hectares of Sussex farmland back to nature, by doing, well nothing. She thinks this is the best way to use the land to help tackle climate change.
+
+To stabilise the climate global carbon emissions need to drop to net zero by 2050. Simon Lewis is a professor of global change science.
+
+And there’s never been more global ambition to plant trees. In 2014, 51 countries pledged to plant over 3.5m square kilometres of forest by 2030 - an area slightly larger than India. The 2030 target looks likely to be met. But there’s a catch… 
+
+Monoculture tree plantations like eucalyptus grow quickly but the trees are harvested every ten or so years releasing much of the carbon stored in the tree back into the atmosphere - which means that, according to some studies they’ll store only around one-fortieth of the carbon natural forests do over the long term.
+
+In fact, those pledges to plant millions of trees actually promise to store 26bn tonnes less carbon than they could. Sometimes the motives for planting forests are less green than they might appear. By 2020 Ireland ought to have cut greenhouse-gas emissions by 20% below 2005 levels. But at current rates it will have reduced them by only 5%. Planting forests might help Ireland avoid massive penalties for missing EU targets because the potential carbon these forests could store in the future can be counted as a carbon credit today. In the 1920s Ireland had the lowest forest cover in Europe at around 1%. That’s now risen to 11% and the government has set a target to cover 18% of the land with forest by 2046.
+
+And now local community groups are protesting against these monoculture tree plantations. They say they’re doing more harm than good.
+
+Tree-planting programmes invariably have an impact on the people living nearby. In east Africa one project is demonstrating what can be achieved
+
+when there’s genuine buy-in from the local communities. Green Ethiopia is a mixed-tree planting charity.
+
+The land is communally owned and co-operatives of local women receive benefits for planting trees which are protected from being harvested. Here conserving is just as important as planting. Green Ethiopia assesses whether the condition of the land is good enough to regenerate by itself. When it is—on about a third of the area the charity runs they leave it alone. Just like Isabella Tree, back in England.
+
+Monoculture plantations are often preferred because they make money. So some experts are looking to a future where carbon payments could create financial incentives for natural forests. Ultimately though, the trouble with trees tackling climate change is space
+
+For more from Economist Films visit: http://films.economist.com/ 
+
+Check out The Economist’s full video catalogue: http://econ.st/20IehQk 
+
+Like The Economist on Facebook: https://www.facebook.com/TheEconomist/ 
+
+Follow The Economist on Twitter: https://twitter.com/theeconomist 
+
+Follow us on Instagram: https://www.instagram.com/theeconomist/ 
+
+Follow us on Medium: https://medium.com/@the_economist
+
+##### Transcript
+
+###### The deforestation crisis
+
+**0:00** · Summer 2019 More than 38,000 fires raged across the Amazon...
+
+**0:05** · ...fires that were man-made Over the past 50 years...
+
+**0:10** · ...almost 17% of the world’s largest rainforest has been cleared And globally deforestation has almost doubled in just five years Since the start of human civilisation...
+
+**0:23** · ...it’s estimated that the number of trees around the world...
+
+**0:26** · ...has fallen by almost half Clearing forests increases carbon-dioxide levels...
+
+**0:33** · ...but planting them could store away...
+
+**0:35** · ...some of the carbon already in the atmosphere Everyone is looking for a silver bullet...
+
+**0:41** · ...to get our way out of this really difficult problem of climate change Some people have latched on to tree planting as a kind of panacea But the reality is tree planting is not always good This woman runs safaris...
+
+###### The case for wilding
+
+**1:05** · ...in England Guests are not only here to see wild animals...
+
+**1:12** · ...they’re here to see wild trees If you could imagine when we were farming...
+
+**1:19** · ...back in the 1980s, through the 90s...
+
+**1:22** · ...this would have been a field of one particular crop as far as the eye can see Almost 20 years ago Isabella Tree—yes that is her real name...
+
+**1:32** · ...handed 1,400 hectares of Sussex farmland back to nature...
+
+**1:36** · ...by doing, well nothing She thinks this is the best way to use the land to help tackle climate change Wilding is a hands-off approach It’s become a sort of environment that is a nursery...
+
+**1:51** · ...for open-grown, freely regenerating trees Within 20 years we have doubled our carbon sequestered in the soil We’ve got the scrub, we’ve got the grasses, we’ve got the trees...
+
+**2:04** · ...all that will be contributing to this carbon sink To stabilise the climate global carbon emissions...
+
+###### The pitfalls of planting
+
+**2:12** · ...need to drop to net zero by 2050 Of course not all sectors are going to get down to zero emissions by 2050 Simon Lewis is a professor of global change science We need to take some carbon out of the atmosphere...
+
+**2:28** · ...and one of the cheapest and easiest ways is to plant trees Around half the dry weight of a tree is carbon As trees grow they take carbon out of the atmosphere...
+
+**2:40** · ...and store it in their trunks, leaves and roots...
+
+**2:42** · ...which helps slow the rate of climate change And there’s never been more global ambition to plant trees In 2014, 51 countries pledged to plant...
+
+**2:53** · ...over 3.5m square kilometres of forest by 2030...
+
+**2:58** · ...an area slightly larger than India Ethiopia has made its mark in the record books...
+
+**3:05** · ...by planting over 350m trees in a single day The 2030 target looks likely to be met But there’s a catch… When you dig down into the numbers of these forests...
+
+**3:20** · ...almost half the area pledged so far by countries...
+
+**3:24** · ...is actually from monoculture plantations And that means a single species planted over...
+
+**3:31** · ...thousands and thousands of hectares Monoculture tree plantations like eucalyptus grow quickly...
+
+**3:37** · ...but the trees are harvested every ten or so years...
+
+**3:40** · ...releasing much of the carbon stored in the tree...
+
+**3:42** · ...back into the atmosphere...
+
+**3:44** · ...which means that, according to some studies...
+
+**3:46** · ...they’ll store only around one-fortieth of the carbon...
+
+**3:49** · ...natural forests do over the long term It’s made into short-term products like paper...
+
+**3:55** · ...and then when that paper is used and then discarded...
+
+**3:58** · ...it decomposes and that carbon goes back into the atmosphere Simon analysed pledges from 43 countries in the tropics and sub-tropics These big announcements are not going to deliver...
+
+###### Policy and ecological impacts
+
+**4:10** · ...on the carbon capture that we’re expecting If they were all natural forests we would sequester...
+
+**4:17** · ...42bn tonnes of carbon this century In fact, those pledges to plant millions of trees...
+
+**4:25** · ...actually promise to store 26bn tonnes less carbon than they could Sometimes the motives for planting forests...
+
+**4:34** · ...are less green than they might appear By 2020 Ireland ought to have cut greenhouse-gas emissions...
+
+**4:41** · ...by 20% below 2005 levels But at current rates it will have reduced them by only 5% Planting forests might help Ireland avoid massive penalties...
+
+**4:53** · ...for missing EU targets...
+
+**4:55** · ...because the potential carbon these forests could store in the future...
+
+**4:58** · ...can be counted as a carbon credit today In the 1920s Ireland had the lowest forest cover in Europe at around 1% That’s now risen to 11% and the government has set a target...
+
+**5:12** · ...to cover 18% of the land with forest by 2046 In Ireland, they’re rapidly increasing the amount of forest cover But it’s overwhelmingly going towards monoculture plantations of conifers And now local community groups are protesting against...
+
+**5:33** · ...these monoculture tree plantations They say they’re doing more harm than good Because these monoculture plantations are about getting...
+
+**5:42** · ...the maximum yield as fast as possible they often apply fertilisers...
+
+**5:47** · ...which contribute to greenhouse gas nitrous oxide Conifer plantations are very densely stocked...
+
+**5:56** · ...so cut out almost all the light...
+
+**5:58** · ...are very poor for biodiversity and can really affect people living nearby Tree-planting programmes invariably have an impact...
+
+###### Community-led regeneration
+
+**6:09** · ...on the people living nearby In east Africa one project is demonstrating what can be achieved...
+
+**6:15** · ...when there’s genuine buy-in from the local communities Green Ethiopia is a mixed-tree planting charity We plant seedlings in rural areas of Ethiopia...
+
+**6:27** · ...that is heavily affected by degradation due to deforestation The land is communally owned...
+
+**6:34** · ...and co-operatives of local women receive benefits for planting trees...
+
+**6:38** · ...which are protected from being harvested Empowering the local community on tree planting...
+
+**6:47** · ...contributes a lot for the sustainability of our forestation activities...
+
+**6:51** · ...because it creates a sense of ownership The local communities strongly participate...
+
+**6:58** · ...in planting, managing and conserving the sites Here conserving is just as important as planting Green Ethiopia assesses whether the condition of the land...
+
+**7:13** · ...is good enough to regenerate by itself When it is—on about a third of the area the charity runs...
+
+**7:19** · ...they leave it alone Just like Isabella Tree, back in England Perhaps the right way to think about tree planting is...
+
+**7:30** · ...just leave the land and it can do it spontaneously itself There is no need for interventions by humans in most cases But this approach brings its own challenges The problem with this kind of natural regeneration is that...
+
+###### Limits of the tree solution
+
+**7:45** · ...it’s very difficult to get funding The funding is all driven by targets...
+
+**7:51** · ...the numbers game In a regenerated landscape like this...
+
+**7:55** · ...we can’t have any idea of how many oaks there’ll be...
+
+**7:57** · ...or how many crab apples will come Monoculture plantations are often preferred because they make money So some experts are looking to a future where...
+
+**8:07** · ...carbon payments could create financial incentives for natural forests If carbon becomes much more important as a commodity...
+
+**8:16** · ...then perhaps these natural forests would become...
+
+**8:20** · ...more profitable than plantations There’s a real opportunity here to shift the incentives...
+
+**8:27** · ...towards getting benefits for the climate...
+
+**8:30** · ...and benefits for local people and benefits for local wildlife Ultimately though, the trouble with trees tackling climate change is space There’s just not enough land in the world to plant enough trees...
+
+**8:47** · ...to offset all the carbon emissions from fossil fuels We could say let’s restore forest on every single piece of land...
+
+**8:54** · ...that used to have forest on from before agriculture And if we did that it would be about 200bn tonnes of carbon Now that sounds a lot but to put it in context...
+
+**9:05** · ...that’s about 20 years’ worth of emissions at present rates Tree planting might be looked at as a saviour But it’s not It’s not an excuse not to cut fossil-fuel emissions
+
+#### Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S
+
+**60 Minutes**, *04 21, 2025*
+
+##### Video (12:51)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/hrXzY4DP_c8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Monarchs traveled to a remote part of Mexico, a journey they've made for thousands of years, and wintered there. Now tens of millions of the butterflies are on an epic aerial journey back north.
+
+"60 Minutes" is the most successful television broadcast in history. Offering hard-hitting investigative reports, interviews, feature segments and profiles of people in the news, the broadcast began in 1968 and is still a hit, over 50 seasons later, regularly making Nielsen's Top 10.
+
+Subscribe to the “60 Minutes” YouTube channel: http://bit.ly/1S7CLRu
+
+Watch full episodes: http://cbsn.ws/1Qkjo1F
+
+Get more “60 Minutes” from “60 Minutes: Overtime”: http://cbsn.ws/1KG3sdr
+
+Follow “60 Minutes” on Instagram: http://bit.ly/23Xv8Ry
+
+Like “60 Minutes” on Facebook: http://on.fb.me/1Xb1Dao
+
+Follow “60 Minutes” on Twitter: http://bit.ly/1KxUsqX
+
+Subscribe to our newsletter: http://cbsn.ws/1RqHw7T
+
+Download the CBS News app: http://cbsn.ws/1Xb1WC8
+
+Try Paramount+ free: https://bit.ly/2OiW1kZ
+
+For video licensing inquiries, contact: licensing@veritone.com
+
+##### Transcript
+
+###### The monarch migration
+
+**0:04** · One of the most remarkable and mysterious migrations in the natural world is happening right now from Mexico to the United States. Tens of millions of monarch butterflies are on an epic aerial journey home. They've spent the winter hanging out in trees in a forest on a remote mountain in Mexico, resting up after flying all the way from Canada in the northern US where they were born.
+
+**0:27** · It's believed monarchs have been making this journey for thousands of years, but there's a lot fewer of them than there used to be. The population in Mexico has declined 70% in the last 30 years. We arrived there in February, just in time to watch the monarchs emerge from their slumber and begin to take flight.
+
+**0:47** · The story will continue in a moment.
+
+###### Roosting in Mexican forests
+
+**0:54** · The monarchs come to these mountains in Mitchakan in central Mexico starting in late October. Do you still get excited going up to see them?
+
+**1:05** · Every time there's no substitute, one of our guides, Jorge Rickards, is the director of the nonprofit World Wildlife Fund in Mexico.
+
+**1:15** · We're going to leave the horses, walk a little bit very, very carefully and very quietly. So we won't just disturb the butterflies.
+
+**1:25** · The monarchs roost in patches of fur and pine trees 11,000 ft up. There are some 66 million of them here, but it's hard to see them at first. There are what appear to be clumps of dead leaves hanging from sagging branches, but those are butterflies. Tens of thousands of them clustered together in trees all around.
+
+**1:50** · There's so many of them on the branches of the trees that the the branches are all pointing toward the ground. Imagine imagine the likeness of a butterfly and they are so many of them here that they actually bend the trees and they like the fur because they have so many little leaves or spicules. So there's lots of surface to cling onto. The monarchs are in a kind of hibernation. On the way here they fattened up on nectar which helps them survive and rest through the long winter months.
+
+**2:19** · The climate on this mountain is ideal.
+
+**2:22** · The canopy of trees protects the butterflies from storms. And though the air is cool, it's relatively humid so they stay hydrated. The clusters are so drab when you're looking at them cuz they have their wings closed. In many butterflies, the on the underside is drab or less lightly colored, and that happens in nature a lot. So, it's not very inviting. It wouldn't be inviting to a predator.
+
+**2:45** · Why are we whispering? They are very sensitive to sound. They are also sensitive to CO2. So the less we talk the better.
+
+**2:55** · They relate that with a predator as other mammal. But so they can sense a like a like a mouse breathing or a bird.
+
+**3:03** · A bird breathing. That is right.
+
+**3:06** · On the forest floor all around us, monarchs litter the ground. But most are not dead. They've just fallen from trees during the night and their muscles are too cold for them to fly. Cup them in your hands. You can revive them with your breath. So, they need a certain temperature to get their m wing muscles back. They are very, very vulnerable when they're on the floor. And the birds know that and the mice know that. That's almost ready. There you go.
+
+###### Butterflies take flight
+
+**3:39** · Come on, little buddy. Maybe a little more. There you go. Yeah, he likes you.
+
+**3:49** · Wow. When the sun begins to hit the trees, flashes of orange appear. The monarchs are warming and slowly opening their wings.
+
+**4:00** · Really, as the day warms up, we're going to see more activity. So, that's Court Whan has been bringing tour groups here and photographing monarchs for more than 20 years.
+
+**4:11** · He shows us a spot where some butterflies have taken flight. Then after a few minutes, suddenly the air is filled with them.
+
+**4:25** · This is extraordinary. This is it. This is what it's all about. This is uh nature knows when to put on a show, huh?
+
+**4:33** · And how to put on a show. Why have they all now just suddenly taken off? So, it's a warm day. We're getting a lot of sunlight, so we're just ramping up.
+
+**4:40** · Ramping up. I mean, what's insane is it's not just over here. It's over there. It's over there. I mean, it's extraordinary. But yeah, it's it's all the heat. It's all the sun. You can actually hear the sound of butterfly wings. Yeah. Let's just be quiet for a second.
+
+**5:11** · Look at that. Look. Look at that. Okay.
+
+**5:13** · Oh my gosh.
+
+**5:16** · Wa. This is about as good as it possibly gets.
+
+###### The mystery of navigation
+
+**5:22** · It's like a snow globe of monarchs. You got a butterfly on you. Oh, there we go.
+
+**5:29** · It's still something of a mystery how these monarchs manage to get here. Most only live about a month. They spend their short lives eating and mating, and females lay eggs. But in late summer and early fall, what's called a super generation of monarchs appear, hatched as caterpillars. They transform into cryises and then after a week or two emerge as butterflies. And that's when they do something extraordinary.
+
+**5:56** · With winter coming, they sense the shorter days and changing temperatures and suppress a key reproductive hormone, a process called diipause, which helps them conserve their energy and live up to 9 months, nine times longer than most monarchs. It's crazy that there's this super generation of monarchs that can make it all the way and then the rest are die off after a month.
+
+**6:19** · What is amazing is how they detonate this process of not developing sexual organs but using that energy for the flight. Monarchs born west of the Rockies stay there and migrate shorter distances. It's this super generation born in Canada and east of the Rockies in the northern United States that flies to Mexico. Hundreds of millions of them join up on a journey of some 3,000 miles, which can take them 3 months or longer.
+
+**6:51** · To help them find their way, monarchs have circadian clocks in their antenna and navigate using internal compasses that respond to the position of the sun and the Earth's magnetic field. Why are they coming here? Well, that's a big mystery. Maybe it's a prehistoric route. Maybe it was determined by uh geographical conditions in terms of topography. Maybe it had to do with climate.
+
+**7:20** · You're talking about multiple generations who all have this exact same instinct and know where to go and all go to the exact same spot.
+
+**7:30** · That's that's that's one of the most magical things that can happen in the natural world. How do they know? The monarchs were discovered by researchers on this mountain range in 1975, and the Mexican government declared the area a federal reserve 11 years later. But for decades, illegal logging threatened the butterflies roosting spots, which once covered as much as 45 acres. It's now down to 4 1/2.
+
+###### Conservation and threats
+
+**7:58** · World Wildlife Fund has spent years trying to combat the destruction, assessing the health of the forest, measuring the size of butterfly colonies and planting trees. They've also worked with local communities and indigenous groups to protect the land and help them profit from tourism. The good news is the forest is rebounding cuz it's just so unusual to see this. It's like almost an optical illusion cuz everything's beating at this weird frequency. It's like the whole world's just kind of pulsing.
+
+**8:31** · So, what what are they doing here? Yeah.
+
+**8:34** · So, this is kind of a classic mud puddling of of monarch butterflies. So, mud puddling. Yeah, mud puddling. It's a real scientific term. Um, so they're mainly after hydration, but butterflies are known to need some trace elements like salts and whatnot. And it doesn't look like much, but just this little bit of water in this mud puddle is enough for them to get some water. And then what'll happen is they'll return to the roost before evening. After about 4 months in Mexico, this super generation of monarchs are near the end of their long life cycle.
+
+**9:05** · They're finally ready to mate and migrate north to lay their eggs. They'll die before they can make it back to where they were born, and their offspring might not live long enough to get there either, but future generations will. And there's an army of people trying to help them.
+
+###### Tracking and tradition
+
+**9:26** · Oh, you got one. In Kansas, volunteers come out to catch and tag monarchs so scientists can track their migration.
+
+**9:34** · Good job there.
+
+**9:36** · They're recruited by Chip Taylor, an 87year-old ecologist who's been fascinated by monarchs since he was a child. There's over 100,000 species of butterflies and and moths, but pretty much the only one people know are monarchs. What is it about monarch butterflies?
+
+**9:53** · Well, monarchs have got charisma. I mean, wait a minute. Monarch butterflies have charisma. Well, yeah, they have charisma because they are accessible.
+
+**10:02** · They're large. They're beautiful.
+
+**10:04** · They're slow. You can catch them. It involves Canada, involves Mexico. Taylor founded a nonprofit called Monarch Watch at the University of Kansas 30 years ago. Nice. And so far, it's helped tag more than two million of them. How do you tag a a butterfly that's so delicate? This is a rough butterfly and it that has to go thousands of miles.
+
+**10:26** · So, it's it's a pretty tough butterfly.
+
+**10:28** · It's resilient. Yeah, it's resilient.
+
+**10:31** · But that resilience is being tested.
+
+**10:33** · Monarchs returning to the US need milkweed plants to lay their eggs on.
+
+**10:38** · It's the only source of food their newly born caterpillars will eat. But milkweed is now hard to find. It's been virtually eradicated on agricultural land because of genetically modified corn and soybean crops that allow for mass spraying of herbicides. Monarch Watch encourages people to plant milkweed in their gardens and on public land, creating what they call monarch way stations.
+
+**11:05** · 50,000 of them have been planted so far in Mexico. Those efforts have gotten noticed. They are taking water. Eduardo Rendone, head of World Wildlife Fund's Monarch Butterfly Program, showed us a tag he recently found. So, this is a one of the tags from Monarch Watch from Chip Taylor. Exactly. I find maybe 12 m for over here. Yeah. I was measuring the colony and then I see the ground and I find this stack.
+
+**11:33** · But is the only way that we can to prove that monarch from United States and Canada come here to over winter.
+
+**11:44** · Less than 20% of the monarchs that head out on this miraculous migration actually make it to the mountains of Mitchoan. Scientists say worsening storms and rising temperatures kill off many. Though this past year, the number of monarchs that survived the trip nearly doubled.
+
+**12:03** · It was particularly welcome news in Mexico where the butterflyy's arrival in late October coincides with a deeply spiritual celebration, what's known as the day of the dead. That's when many here believe the souls of family and friends who died return to visit their loved ones. And so that's why the butterflies are returning as well.
+
+**12:27** · Local people believe that the monarchs are the returning spirits of That is correct. of the of the dead. That is correct. Yes. So, who knows? Maybe we are actually you are reviving. You're helping someone's ancestor fly back. Yes, indeed. So, it's very magical.
+
+#### New Trees Won’t Solve Global Warming
+
+**Bloomberg Originals**, *04 19, 2023*
+
+##### Video (6:12)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/NIY9kbTIawg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The idea of tree-planting to offset carbon emissions has boomed in recent years. It’s cheap, appealing to consumers and companies, and allows us to feel like we’re “taking action.” But many tree planting programs don’t actually increase forest cover, improve biodiversity or sequester carbon. In this segment from Getting Warmer, climate storyteller Jack Harries explores whether planting trees is actually the best solution to the climate crisis.
+
+---
+Getting Warmer is Bloomberg's exclusive new show about climate, clean energy and business, anchored by actor and former White House aide Kal Penn.
+
+Accompany him on his journey as he takes an up-close look at bold climate solutions and discovers new facets of the global transition to clean energy.
+
+In a hosted studio segment, Penn sifts through the overwhelming news about our climate and breaks down the facts and trends to understand with a dose of humor and optimism. Why are the recycling symbols on your plastic cups misleading? How does the carbon credit market work and does it actually help? And what is the future of water in a drought-ridden world?
+
+On the road, Penn meets the innovators, researchers, communities and businesses pivoting to new energy sources and spearheading low-carbon technologies. In documentary segments, Penn speaks to the self-declared “crypto cowboys” of Texas who claim Bitcoin mining can help stabilize the state’s troubled electrical grid, and travels to Nevada to visit the company attempting to build America’s first closed-loop supply chain for electric vehicles. In New York, Penn explores the urban designs proposed to save the city from the next Superstorm Sandy and goes inside New York’s Empire State building to investigate the challenges of decarbonizing our cities and landmarks. 
+
+The show builds on, and includes contributions from, Bloomberg Green’s award-winning team of climate journalists as well as London-based climate storytellers Jack Harries and Alice Aedy. With a focus on the most pressing questions for young viewers, Jack and Alice unpack one big idea each episode. From recycled wastewater to regenerative agriculture and the challenges of a just transition for workers in the energy sector, they’ll break down how countries across the world are finding intriguing solutions to our climate crisis, and outline the challenges ahead.
+
+Watch Getting Warmer starting February 1st at 8p EST streaming on Bloomberg channels on Connected TV Devices including Samsung TV+, LG Channels, and Fire TV. And on & Bloomberg.com.
+
+You can also watch on Bloomberg TV (BTV)  at 10p ET.
+
+--------
+Like this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Become a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join
+
+Bloomberg Originals offers bold takes for curious minds on today’s biggest topics. Hosted by experts covering stories you haven’t seen and viewpoints you haven’t heard, you’ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you’ve never seen it. 
+
+Subscribe for business news, but not as you've known it: exclusive interviews, fascinating profiles, data-driven analysis, and the latest in tech innovation from around the world.
+
+Visit our partner channel Bloomberg Quicktake for global news and insight in an instant.
+
+##### Transcript
+
+###### The tree planting craze
+
+**0:00** · People deal with anxiety in different ways.
+
+**0:02** · Some people stress clean, some people stress shop.
+
+**0:06** · And when it comes to our climate anxiety, well, we've been stress planting.
+
+**0:10** · Officials in Ethiopia say a new record has been set with more than 200 million trees planted in just one day.
+
+**0:16** · Today we will be planting 20 million trees.
+
+**0:20** · Who's against the trees?
+
+**0:21** · I mean the tree, everyone's for the trees.
+
+**0:23** · 23 year old Quebecer Antoine Moses broke the world record for the amount of trees planted.
+
+**0:29** · Important people around the world agreed and decreed that planting trees is a great path towards climate redemption.
+
+**0:36** · We can get real on coal, cars, cash and trees.
+
+**0:41** · But as we start to realize how problematic tree planting programs can be, is this path truly as redeeming as we thought?
+
+###### The appeal of simple solutions
+
+**0:55** · The idea of planting trees to solve the climate crisis has taken off in recent years.
+
+**0:59** · Everyone and their mother are behind it.
+
+**1:01** · Seriously, my mom loves planting trees.
+
+**1:04** · It's funny 'cause my mom is actually known like in the local area we grew up for as a tree planter, like a controversial tree plant planter.
+
+**1:11** · Okay.
+
+**1:12** · In the 2019 UK general election, parties fought over who can out-plant one another.
+
+**1:17** · It makes everyone look good.
+
+**1:23** · The logic is clear.
+
+**1:24** · Trees absorb a lot of carbon.
+
+**1:26** · The bigger the tree gets, the more of it there is and the more carbon is absorbed from the air.
+
+**1:31** · Exactly what we need.
+
+**1:32** · It's hard to pinpoint what started this craze.
+
+**1:35** · Some say it was the 2011 Bond Challenge.
+
+**1:37** · The largest restoration initiative the world has ever known.
+
+**1:40** · Others chalk it up to the controversial 2019 paper, which argued that planting trees is our most effective climate solution to date.
+
+**1:48** · This was picked up by almost 600 media outlets and inspired all sorts of mass initiatives.
+
+**1:54** · And here we are today, in a world where climate solutions are extremely complicated and technical.
+
+**1:59** · The simplicity of putting a tree in the ground is refreshing and reassuring.
+
+**2:03** · A breakthrough in the fight against pollution and dirt is the inimitable unique irreplaceable tree.
+
+**2:10** · But it's also the reason why we've taken this solution a little bit too far.
+
+**2:14** · If the idea that you can simply invest a little money and make your carbon footprint disappear sounds too good to be true, that's because it absolutely is.
+
+###### Problems with mass planting
+
+**2:23** · And in our quest to meet demand from individuals, governments, and corporations, we're disregarding the complicated nature of our forest ecosystem.
+
+**2:31** · And this can be hugely damaging to the environment.
+
+**2:35** · We're planting almost 2 billion trees a year around the world, and we're doing that through many tree planting programs that simply don't work.
+
+**2:43** · In 2019 in Turkey, 11 million trees were planted in just one day, but many were planted at the wrong time and in the wrong place.
+
+**2:51** · And although the government denies it the country's forestry union claims that 90% of the saplings died within months.
+
+**2:59** · Tree planting also requires way too much land and can potentially take away from land that we need to grow food and support existing ecosystems and habitats.
+
+**3:08** · And we're starting to do some frankly stupid things to find room for all the trees we need to plant.
+
+**3:13** · Like literally chopping down other trees so that we can plant new ones.
+
+**3:17** · Seriously, are we actually doing that?
+
+**3:19** · Crazy.
+
+**3:20** · Not to mention we are screwing with biodiversity along the way.
+
+**3:23** · Most large scale tree planting programs are monoculture plantations, meaning that only one or two types of trees are planted.
+
+**3:30** · Species that are often not native to the area and fast growing.
+
+**3:34** · These plantations disrupt natural ecosystems and often decreased biodiversity.
+
+**3:39** · For example, according to recent research, mass tree planting efforts in China and Brazil are responsible for actually degrading vast areas of land.
+
+**3:47** · And the legal loopholes don't help either.
+
+**3:49** · Tree plantations are technically classified as forests by the U.N., so they get blindly pushed as solutions to reverse deforestation.
+
+**3:56** · You know what else qualifies as a forest?
+
+**3:58** · London?
+
+**3:59** · Seriously.
+
+**4:00** · It has enough trees to meet the legal U.N. definition.
+
+**4:03** · We pat ourselves on the back for replacing one forest with another forest.
+
+**4:07** · Problem fixed.
+
+**4:08** · This is causing complacency which is another huge problem when it comes to the tree planting craze.
+
+**4:13** · All this work on one solution makes us think that we've solved the entire climate crisis which is a whole world of wrong.
+
+**4:20** · Because this crisis is complicated.
+
+**4:22** · And whether we like it or not the solutions are complicated too.
+
+###### Better paths forward
+
+**4:25** · Planting trees can distract from the core issues of the climate crisis like burning fossil fuels and the socioeconomic pressures that led us here in the first place.
+
+**4:33** · Let's make one thing clear.
+
+**4:34** · Planting trees is not in itself a bad thing.
+
+**4:37** · There's actually a lot of evidence that when it's done properly, it works.
+
+**4:41** · In Brazil, 2.7 million native trees have been planted in this southern region.
+
+**4:45** · This region is home to vulnerable species like this little guy.
+
+**4:49** · Isn't he cute?
+
+**4:50** · These trees ended up creating forest corridors that helped tamarin populations recover.
+
+**4:55** · But you know why it worked in this case?
+
+**4:57** · Because the trees planted were native to the land which means that they were useful to the locals who built their lives around that resource.
+
+**5:04** · Consulting indigenous communities was crucial in the success of this project.
+
+**5:09** · But ironically, what's simpler than planting trees is, well, protecting trees.
+
+**5:13** · Letting forests grow back is not only cheap and easy but also more effective at our ultimate goal.
+
+**5:19** · Sucking carbon out the atmosphere.
+
+**5:22** · Natural and biodiverse forest can store up to 40 times more carbon than plantations.
+
+**5:28** · Like a fine wine, trees only get better with age.
+
+**5:31** · They stand grand and majestic, witness to humanity's time here on earth.
+
+**5:36** · They're also efficient beings, always working to make this planet a better place for us.
+
+**5:41** · So as far as this problem is concerned, maybe the answer isn't some radical human innovation but maybe the best thing we can do is to simply get out the way and let nature do its thing.
 
 #### The salmon dilemma
 

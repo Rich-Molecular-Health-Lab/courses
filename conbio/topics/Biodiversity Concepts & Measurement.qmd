@@ -797,6 +797,127 @@ Share this with a friend!
 
 **5:01** · Finally a way to reveal an entire ecosystem worth of life in a single scoop of dirt.
 
+#### Is “Environmental DNA” the Future of Conservation  Wild Hope Explains
+
+**Nature on PBS**, *04 13, 2026*
+
+##### Video (5:28)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/WG_ryk_0zM8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+What if you could discover every animal in an ecosystem…without ever seeing them? Environmental DNA (or eDNA) does exactly that. By collecting tiny samples of soil, water, or even air, researchers can identify dozens (or even hundreds) of species from the genetic traces they leave behind. 
+
+From tracking predators in Detroit to uncovering rare species in Ecuador’s rainforests, eDNA is helping conservationists make better decisions to protect biodiversity. Learn how it works, why it matters, and how this cutting-edge science is reshaping the future of conservation.
+
+
+Follow us: https://www.instagram.com/wildhopetv/ 
+
+Join our community: https://wildhope.tv
+
+Get our newsletter: http://eepurl.com/irGMng 
+
+Share this with a friend!
+
+##### Transcript
+
+###### The challenge of biodiversity
+
+**0:00** · SPEAKER 1: To protect wildlife, conservationists need to first answer what might seem like a simple question.
+
+**0:06** · Which species actually live in the habitats they're trying to save?
+
+**0:11** · This question might be difficult to answer, especially in dense and complex habitats like rainforests or shifting landscapes around cities.
+
+**0:23** · Ecologists have a long list of methods at their disposal-- radio collars, camera traps, acoustic monitoring, and even good, old-fashioned direct observation.
+
+**0:34** · SPEAKER 2: See where it went down?
+
+**0:35** · SPEAKER 1: But the newest tool has the potential to be the most comprehensive yet.
+
+###### Introducing eDNA
+
+**0:40** · By collecting small samples of soil, water, or air, scientists can now create a genetic roster of every species that calls an environment home.
+
+**0:51** · It's a tool known as environmental DNA.
+
+**1:02** · Here in Detroit, environmental DNA, or eDNA, is revolutionizing our ability to survey wildlife.
+
+###### Urban wildlife tracking
+
+**1:10** · Dr. Nyeema Harris and Dr. Jane Hallam are tracking how predators, like coyotes, travel through the urban landscape and how their range overlaps with the other wildlife, with local pets, and with humans.
+
+**1:23** · Camera traps have been the go-to method for this type of research for decades, but now with eDNA, scientists can detect species without ever catching them on camera.
+
+**1:34** · Animal shed DNA constantly through scat or hair or skin cells.
+
+**1:40** · Samples from a single habitat might contain this so-called trace DNA from dozens or hundreds of wild species.
+
+**1:50** · NYEEMA C. HARRIS: We get that species list from the cameras because we see the images.
+
+**1:54** · When we're collecting the eDNA, we also then get a species list.
+
+**1:58** · So that means when we've collected the soil and we've done the molecular analysis, the DNA that we've detected has come from 24 different mammal species in the city of Detroit, and some of those species we don't actually see on the camera.
+
+**2:15** · SPEAKER 1: EDNA isn't new.
+
+###### Advances in DNA analysis
+
+**2:17** · It's been used to detect wildlife since the early 2000s, but the technology continues to advance.
+
+**2:23** · Today, scientists can identify species using much smaller fragments of DNA than ever before.
+
+**2:30** · Trace DNA collected in the field is replicated through a technique called Polymerase Chain Reaction, or PCR.
+
+**2:37** · It makes millions of identical copies of the genetic material, which can then be cross-checked against a DNA database of known species.
+
+**2:46** · Dr. JANE HALLAM: This is a bit like forensics.
+
+**2:47** · Environmental DNA tends to be quite broken up because it's been exposed to the elements, and it's been broken down by ultraviolet light from the sun.
+
+**2:56** · So that DNA isn't in great shape.
+
+**2:57** · It tends to be in quite small fragments, but that's enough for us to detect the species.
+
+**3:04** · SPEAKER 1: The size of those DNA fragments is key to why environmental DNA is such a powerful technique.
+
+###### Barcoding genetic sequences
+
+**3:10** · For context, the genome of an animal like a coyote includes roughly 2.5 billion base pairs.
+
+**3:16** · But you don't need a complete genome to identify a sample source.
+
+**3:20** · Certain small DNA sequences are shared among all members of a species.
+
+**3:26** · They act like the barcodes you see at the store.
+
+**3:29** · And when fragments of eDNA from the wild are cross-checked against a database of existing barcodes, we can match the fragments to the species they came from.
+
+**3:39** · Early eDNA methods required a barcode 100 base pairs or longer in order to identify a species.
+
+**3:46** · But today, with new sequencing technology and better computing power, fragments as small as 30 base pairs are often enough for a successful species match.
+
+**3:59** · This has broadened the use of eDNA to some amazing extremes.
+
+###### The future of conservation
+
+**4:03** · Even ancient, degraded DNA from soil 2 million years old can reveal extinct species, like woolly mammoths.
+
+**4:13** · And in dense environments like the rainforests of Ecuador, where vegetation makes wildlife surveys difficult, eDNA has become an essential tool.
+
+**4:23** · Traditional genetic analysis can sample just one species at a time.
+
+**4:28** · Now, eDNA can sample hundreds at once.
+
+**4:33** · To the teams on the ground, eDNA is a low-cost, low-disturbance tool that detects species that are otherwise extremely difficult to find.
+
+**4:46** · From the rainforests of Ecuador to the streets of Detroit, results from eDNA are directly impacting environmental policy.
+
+**4:54** · Conservationists everywhere are embracing eDNA, the latest powerful tool at their disposal.
+
+**5:01** · Finally a way to reveal an entire ecosystem worth of life in a single scoop of dirt.
+
 #### Measuring biodiversity made easy  short version
 
 **DW News**, *03 12, 2014*
@@ -833,6 +954,33 @@ More information: www.ideasforacoolerworld.org
 
 **3:23** · sokina
 
+#### Ocean Habitat Loss
+
+**United Nations Development Programme (UNDP)**, *06 30, 2017*
+
+##### Video (1:01)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/FnlS8k1WenE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+
+
+##### Transcript
+
+**0:00** · if this paddling pool full of mangroves represents all of the mangrove trees in the world in 1900 then over the last 100 years we've seen a dramatic loss of approximately 35% mangroves help protect coastal areas from storms soak up carbon dioxide and
+
+###### Mangroves help protect coastal areas from storms, soak up CO2
+
+**0:20** · provide refuge for many fish species to grow and Thrive coral reefs which are abundant with life and provide food and jobs for tens of millions of people have declined by 20% and seagrass which stores carbon
+
+###### Coral reefs, which are abundant with life.
+
+
+###### And seagrass, which stores carbon and protects many marine species
+
+**0:37** · and protects many marine species has been reduced by 29% in the last century and continues to decline we must reverse this trend and protect ocean habitats they are vital resources for Humanity providing food and jobs and they can be restored [Music]
+
 #### Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed
 
 **VICE News**, *06 03, 2021*
@@ -865,7 +1013,1259 @@ More videos from the VICE network: https://www.fb.com/vicevideo
 
 ##### Transcript
 
+#### They recorded a rainforest in Indonesia before it changed forever
+
+**Scientific American**, *07 15, 2026*
+
+##### Video (18:38)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nfDZhfJORVc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Indonesia is building a new capital city in the heart of Borneo to replace sinking Jakarta. As construction transforms one of the world's most biodiverse rainforests, scientists and Indigenous communities are racing to record the sounds of the forest—and preserve generations of ecological knowledge before it's lost.
+
+This story was supported by a grant from @PulitzerCenter (https://pulitzercenter.org/)
+
+It was published in partnership with  @MongabayTV (https://news.mongabay.com/) and @ProjectMultatuli (https://projectmultatuli.org/en/).
+
+##### Transcript
+
+**1:14** · My name is Abidin.
+
+**1:16** · I’ve lived in Pemaluan since I was born.
+
+**1:20** · I’ve never moved.
+
+**1:26** · This is the land of my ancestors from long ago.
+
+**1:33** · We are people who love farming in the mountains.
+
+**1:43** · I feel at peace being here, because the atmosphere is calm, safe.
+
+**1:54** · [But], after the construction of New Capital City...
+
+**1:59** · Life has slowly started to change.
+
+**3:22** · Indonesia, as a great nation must dare to take steps.
+
+**3:29** · We must be brave to have a big agenda and this is for the advancement of our country, for the progress of the nation.
+
+**3:47** · The New Capital City of Nusantara is a grand collective endeavor for the progress of the Indonesian nation.
+
+**3:54** · The forests of Ibu Kota Nusantara serve as a hub where residents and visitors can experience Indonesia’s rich biodiversity.
+
+**4:05** · This green city serves as a meeting point between Indonesia’s history and its aspirations for the future.
+
+**4:14** · A Smart Forest City.
+
+**4:27** · When we heard that Indonesia was moving the capital to Kalimantan, and I’ve been working in Kalimantan for ten years now, I knew immediately that building a new capital city there has the potential to have a huge impact on forests and animals there.
+
+**4:51** · We’re interested in documenting what’s here before all this big change happens.
+
+**5:00** · And we’re trying to do that all through soundwork.
+
+**5:22** · Sound is a unique kind of data.
+
+**5:27** · It becomes, in some ways, a time capsule of a place.
+
+**5:33** · We have recorders on top of mountains, We have recorders in mangrove areas, We have recorders right next to caves.
+
+**5:52** · We ended up sampling 20 different sites, and then from there we could do comparisons over time as we recorded across 18 months, as the capital’s being built, as this environmental change is happening, as this social change is happening, economic growth is happening.
+
+**6:12** · And could we see places where wildlife were being displaced?
+
+**6:19** · Maybe those are places where more investment could be made in conservation efforts.
+
+**6:27** · The question is, Can we tune our ears?
+
+**6:32** · Can we pay attention? Can we notice when the natural world is feeling a little sick?
+
+**6:45** · It’s a giant squirrel!
+
+**6:49** · They sound like bubblegum lasers.
+
+**7:10** · In Pemaluan, the most distinct sound is the sound of monkeys or gibbons.
+
+**7:22** · Back then, our ancestors used their sound as a sign.
+
+**7:31** · Usually, gibbons, at dawn, just before morning, they would call.
+
+**7:43** · If they call at… around nine or ten in the morning, and everything feels eerily quiet, that’s usually a sign… indicating that someone will pass away in the village.
+
+**8:09** · In the past, the most dominant sound came from the white-breasted waterhen.
+
+**8:16** · Then, hornbills, with their loud calls.
+
+**8:25** · The most iconic one is the great argus, the great argus is indeed a favorite of the Balik people.
+
+**8:38** · [Now], we can hear other sounds.
+
+**8:48** · Our people say that usually the chainsaw is the loudest.
+
+**9:13** · Personally, I’m very scared.
+
+**9:19** · because we have lost our tradition, our ancestral traditions from the past.
+
+**9:33** · For example, the great argus, even my child doesn’t know that.
+
+**9:45** · So, with these wildlife recording devices, we are preserving the knowledge of our ancestors.
+
+**9:59** · Then, from us, if possible, we’ll pass it down to our children and grandchildren.
+
+**10:07** · Swiftlets.
+
+**10:08** · -Swiftlets. -Don’t know their name.
+
+**10:10** · Because swiftlets like to eat.
+
+**10:15** · Another driving goal of our research is in the process of generating that knowledge.
+
+**10:23** · The local people are playing a central role in collecting the data, help us define the research problems, identify the research sites, understand the history of this landscape, and most importantly, the relationships between people and forest, people and place.
+
+**10:42** · This is besawan in our local language.
+
+**10:46** · In an emergency, we can...
+
+**10:50** · take the main stalk and prepare it as a side dish.
+
+**10:53** · But only in emergencies.
+
+**10:55** · Like when there’s no food in the forest.
+
+**10:58** · But does it taste good?
+
+**10:59** · -Of course, if it’s cooked. -Okay, okay.
+
+**11:04** · I think the science will be better off for it.
+
+**11:07** · And I think the local people will most importantly benefit from being a part of defining the problems and defining the solutions.
+
+**11:28** · Our ancestors once predicted something.
+
+**11:34** · The prophecy was like this.
+
+**11:42** · They said, “It’s okay.”
+
+**11:46** · Those who were once behind, one day will be ahead.
+
+**11:52** · It’s like the flow of a river.
+
+**12:04** · For so long, when the capital city was still in Jakarta, the flow from all of Indonesia converged there.
+
+**12:18** · This is the reversal.
+
+**12:22** · Our village, so to speak, has become bustling.
+
+**12:43** · What is your biggest fear when you see all this and imagine the future?
+
+**12:50** · It’s the future generations, the children and grandchildren.
+
+**12:54** · What I fear is what their fate will be later.
+
+**13:06** · In terms of education, they are far behind compared to our brothers and sisters from Sumatra, from Java.
+
+**13:17** · Especially in city life, you have to be smart, right?
+
+**13:27** · Meanwhile, they, so to speak, are still relying on the lifestyle of the past.
+
+**13:48** · What can we do in the city?
+
+**13:52** · I myself can’t live in the city.
+
+**13:57** · I don’t understand what I can do.
+
+**14:10** · If we become scavengers in our own hometown, it’s better to just die.
+
+**14:22** · As we started the research project, it looked like something but it wasn’t a city.
+
+**14:31** · Now it’s like, there’s apartment buildings, and there’s a Swiss-Belhotel, and there’s a palace.
+
+**14:39** · And, maybe this work, like, we can’t actually stop anything from happening, and sometimes that feels really sad and hard to sit with.
+
+**14:48** · Because maybe you’re like, we could do something, things could be different.
+
+**14:53** · But maybe they can’t, or maybe, like, it’s also not really our place to do that.
+
+**15:02** · Although we recognize that within our small team and our limited expertise we don’t have the ability to capture and preserve every aspect of their culture and their knowledge, there’s still a ton that we can do through this kind of soundwork, where we’re really thinking about the voices – whether that’s the voices of the forest, or whether that’s the voices of the community members who feel like nobody’s listening to them.
+
+**15:39** · I think what’s at stake is people losing their connectedness.
+
+**15:49** · My hopes for my children, when they’re my age, is that they don’t forget the culture of our tribe.
+
+**16:10** · I’ll keep trying to teach them not to let our own language disappear.
+
+**16:25** · I can teach my children… the sounds of animals in the forest.
+
+**16:39** · Even though there are changes now, I still feel that this is my home.
+
 ### Films
+
+#### Knowledge Keepers
+
+>Episode 10 of NOVA (Season 53)
+>- *Released: 2026-09-23*
+>- *Duration: 00:53:41*
+
+[***More details on pbs.org***](https://www.pbs.org/video/knowledge-keepers-fcpnsc/)
+
+<iframe width="560" height="315" title=NOVA  Knowledge Keepers  Season 53 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/knowledge-keepers-fcpnsc/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+##### Description
+
+Witness how Native North Americans have generated scientific knowledge over thousands of years.
+
+##### Transcript
+
+â™ª â™ª NARRATOR: From the frozen lakes of Canada's Barrenlands... FRED SANGRIS: My ancestors learned how to live in one of the most extreme places on Earth.
+
+NARRATOR: ...to the parched extremes of Arizona.
+
+ROBERTO NUTLOUIS: Here, we're working with the earth.
+
+It's going to be its own natural AC.
+
+NARRATOR: From the rugged coasts of the Pacific Northwest... OCTAVIO CRUZ (chuckling): Rain or shine, we'll do this!
+
+NARRATOR: ..to the forgotten bamboo forests of Oklahoma.
+
+RYAN SPRING: Really what it is, is an ecosystem.
+
+NARRATOR: Native Americans and First Nations have developed their own approach to science.
+
+KEN THOMAS: It's just unreal, like, when I think about it, how everything works.
+
+NARRATOR: This knowledge has been forged over thousands of years, built on relationships with the environment, and passed down generation to generation.
+
+SANGRIS: My grandfather was like the history book.
+
+MEGAN BAKER: Indigenous knowledge is accrued over thousands of generations of people who have lived on a landscape and intimately understood that.
+
+â™ª â™ª NARRATOR: Today, knowledge keepers fight to preserve this ancient expertise.
+
+CHILD: It looks like lava.
+
+OCTAVIO CRUZ: The youth have to learn, otherwise there won't be a future-- they are the future.
+
+BRYANT DeROY: When you combine Western science with Indigenous knowledge, it can enrich our vision.
+
+NARRATOR: Who holds this knowledge?
+
+Where does it come from?
+
+And how could it transform our future?
+
+SANGRIS: My father was right.
+
+He said, "Everything's written in the skies."
+
+NARRATOR: "Knowledge Keepers."
+
+Right now, on "NOVA."
+
+â™ª â™ª â™ª â™ª (wind blowing) â™ª â™ª NARRATOR: Canada's subarctic.
+
+Millions of square miles of glacial lakes, vast tundra and extreme weather.
+
+The traditional lands of the Northern Dene people.
+
+SANGRIS: There's no trees, it's just... rolling hills and flat.
+
+So everything looks the same.
+
+NARRATOR: Yellowknives Dene Chief, Fred Sangris, is crossing this unforgiving terrain to reach his tribe's traditional hunting grounds in the Barrenlands.
+
+SANGRIS: We depend on the caribou.
+
+Caribou migration comes from the Barrenlands.
+
+They migrate to this part of the country during the winter and then during spring, they will migrate back.
+
+The migration is about 500 miles.
+
+It's not an easy trip, it's a long trip.
+
+(drumming) (drumming and singing in WiÃ¬liÃ¬deh Yati) NARRATOR: The Yellowknives Dene are part of the wider Northern Dene people and have lived in what is now known as the Northwest Territories of Canada for thousands of years.
+
+In temperatures as low as -40 Fahrenheit, they continue their traditional livelihood-- fishing, trapping, hunting and gathering.
+
+SANGRIS: My ancestors learned how to live in one of the most extreme places on Earth: the cold North.
+
+And if you want to live in this kind of condition here, you have to learn about the environment.
+
+You have to learn it.
+
+Otherwise, you won't survive.
+
+NARRATOR: Fred is joined by anthropologist Chris Cannon, who wants to understand how the Dene are able to navigate this featureless landscape without GPS.
+
+CANNON: Most people in the world find their way off landmarks, recognizable features.
+
+But when Fred gets to the Barrenlands, that's a landscape type that's really monotonous, and it's difficult to read.
+
+You really don't have any reference mark.
+
+It looks very similar, one perspective from the next, especially when the lakes are frozen, they're covered in snow, the hills are covered in snow.
+
+SANGRIS: Just recently, I traveled with my cousins.
+
+My cousin has a GPS.
+
+He has it on his Ski-Doo.
+
+And so we're traveling across the Barrenlands the same way.
+
+And I told my cousin, "You pay attention to your GPS, I'm going to use traditional knowledge."
+
+NARRATOR: This far north, relying on GPS is risky.
+
+Ionospheric disturbances, like the Northern Lights, can interfere with satellite radio signals, reducing precision in location data.
+
+(beeping) And in the intense cold, there's the danger a GPS unit will break or lose power, a serious problem if you're out on the Barrenlands, hundreds of miles from home.
+
+What happens if they run out of batteries?
+
+That's why you got to have traditional knowledge.
+
+CANNON: You can feel that temperature dropping.
+
+SANGRIS: Yeah, it's going down.
+
+The wolves will come around pretty soon.
+
+NARRATOR: With the temperature plummeting, Fred and Chris set up their tent and wait for the sun to set in the West.
+
+Not a bad tent.
+
+NARRATOR: By placing two sticks in line with the sunset, Fred can record this bearing.
+
+SANGRIS: So when I'm crossing the Barrenlands, this will be my first stick.
+
+This is what my dad and my grandfather taught me.
+
+The second stick, it could be 50 feet, it could be a hundred feet.
+
+Right there, where the sun went down, is the marker.
+
+So now we got to wait for the stars to come out.
+
+CANNON: When the sun's setting, he'll put a stick in the ground and then he'll put that other stick in line with the sun and his first stick.
+
+And so he's marking that axis.
+
+And he'll wait for a star to be approximately aligned with those sticks, and then he'll set off following that star.
+
+NARRATOR: The Dene are able to cross the bleak Barrenlands the same way people have crossed featureless oceans: by looking to the stars.
+
+â™ª â™ª It's a skill developed thousands of years ago, passed on to Fred through stories from his grandfather.
+
+SANGRIS: My grandfather was born in 1869.
+
+He passed away in 1976.
+
+He was well over a hundred.
+
+According to my tribe, he's one of the oldest living men.
+
+So he was like the history book, the storyteller.
+
+So he was my teacher and I grew up with him.
+
+CANNON: In Western school, we're just told stuff.
+
+Memorize this-- that's knowledge.
+
+You need to know that, memorize it.
+
+Something like wayfinding with the stars is, you know, you can read about it all day, but if you're not immersed in it you're going to make mistakes.
+
+SANGRIS: When I was 18 years old, I wanted to hunt.
+
+So I went north.
+
+My father, he noticed I had a big military watch that I used to show off to my friends, you know?
+
+He said, "Take your watch off," he said.
+
+I took my watch off and I gave it to him.
+
+He chucked it way out in the snowbank.
+
+(chuckles) I said, "Dad, that's my watch.
+
+Why'd you throw my watch away?"
+
+"You don't need it," he said.
+
+"You got to learn the Dene cultural time."
+
+So, my watch is way up in a deep snowbank.
+
+I don't miss it at all.
+
+(chuckles) My father was right.
+
+He said, "Everything's written in the skies."
+
+â™ª â™ª CANNON: Indigenous people here have had a long relationship in this place.
+
+And they don't have a compass.
+
+They have the stars.
+
+NARRATOR: This far north, magnetic compasses are unreliable.
+
+And the Dene also have an unusual view of the night sky, which makes navigating a challenge.
+
+CANNON: The perspective of the sky closer to the equator is different.
+
+The stars that you follow are rising straight up off the horizon and going up.
+
+NARRATOR: At the equator, the spin of the Earth makes stars appear to rise and set perpendicular to the horizon.
+
+But at the North Pole, you're standing on top of the world.
+
+So the stars rotate above you, never crossing below the horizon.
+
+CANNON: If you're standing right at the North Pole, no stars rise or set, they're all spinning in a circle.
+
+And so that's a really unique challenge for navigation.
+
+It's really difficult to follow stars that are moving sideways.
+
+(indistinct chatter) NARRATOR: So how did the Dene solve this problem?
+
+SANGRIS: We got to go straight that way.
+
+Keep an eye on the star, we just keep going straight.
+
+NARRATOR: The answer lies in Fred's knowledge of the stars, which is rooted in stories from his elders.
+
+One of the best known constellations in the night sky-- the Big Dipper-- is part of a larger Dene constellation called Yamoozha.
+
+SANGRIS: Yamoozha was a spiritual person that came to our lives a thousand of years ago.
+
+He was a shaman.
+
+He was being hunted down by the evil one.
+
+So Yamoozha went up there.
+
+He went up there and then, the evil one took his arrow.
+
+Bow and arrow.
+
+He shot him right in the back.
+
+And that's the one you see in that area where it's bent.
+
+CANNON: Yeah.
+
+SANGRIS: That's where the arrow is.
+
+You know, you listen to your elder's story, you're always going to remember it.
+
+CANNON: One of the really elegant things of this method is you don't really have to know star names to use it because it's any star in line with those sticks that you're picking up and following.
+
+NARRATOR: Earlier, Fred placed two sticks in line with the sunset to mark the East-West axis.
+
+Now, he waits until a star lines up with the sticks, pointing the way he wants to travel.
+
+But the star itself is moving sideways.
+
+Simply following it would lead Fred off course.
+
+So throughout the night, Fred switches to a second, and then a third star.
+
+CANNON: In a time lapse, you can see the star in motion but in real life, it's a very slow thing.
+
+The stars move about 15 degrees an hour.
+
+And so if you follow that star too long, you're going to go sideways.
+
+And so the art of it is knowing when to begin kind of tracking a little bit to the left of that star.
+
+And at what point do you pick up a new star?
+
+(indistinct chatter) CANNON (voiceover): You can't really read about this and just go do it once every few years.
+
+You have to be using it.
+
+It really has to be a lived thing that you have to be immersed in to, to really be able to pull it off.
+
+And it's still there for all of us to see.
+
+Until the end of time.
+
+NARRATOR: From the moment his father threw his watch into the snowbank, Fred has lived and learned this land.
+
+He intuitively knows when to begin following a new star and avoid veering off course.
+
+CANNON: Is there a point some time we'll start to kind of shoot a little left of it?
+
+Yeah.
+
+I will stop and look at it again.
+
+Then I'll pick that one there.
+
+(engine revving) NARRATOR: Fred is one of only a few elders who can travel these lands without relying on GPS.
+
+But will his knowledge survive?
+
+CANNON: How does this keep continuing on in an age of technology where it's a lot easier to use a weather forecast or GPS and how do you keep this going?
+
+If you don't share it, or even talk about it through stories, it will be gone.
+
+Mm-hmm.
+
+Gone, so, I'm sharing the story.
+
+But this, this isn't the only one.
+
+There's a lot of other histories, you know?
+
+Hundreds of years from now, kids are going to look at it, are going to say, "I want to do it, I want to live it."
+
+CANNON: Fred has incredible knowledge that's been passed onto him very deliberately through elders, through his grandfather, having that immersive time on the Barrenlands.
+
+And in many Indigenous cultures, that's really kind of a true form of knowledge, is something that's acquired through direct experience.
+
+NARRATOR: For the Northern Dene of the Canadian subarctic, stories like those told to Fred by his grandfather have guided travelers across barren landscapes for millennia.
+
+It is a form of knowledge intricately connected to ancestral land.
+
+But what happens when a tribe is removed from their homeland?
+
+For the Choctaw in Oklahoma, traditional knowledge has helped them survive in a new home.
+
+Ryan Spring is a cultural research associate for the Choctaw Nation.
+
+He has been working to revitalize rivercane in Oklahoma.
+
+SPRING: When I was first learning about rivercane, the terminology that a lot of academics and scientists would use would be ITEK: Indigenous Traditional Ecological Knowledge.
+
+And I've also heard the term "Native science."
+
+You know, when we think about science from a Western perspective, there's a certain process, there's the scientific method.
+
+But with Native science, the knowledge that we have isn't tested through the scientific method.
+
+It's tested through generations of passing that knowledge on.
+
+â™ª â™ª NARRATOR: The Western scientific method, pioneered during the scientific revolution of the 16th century, relies on observable and measurable phenomena, often using experiments to test hypotheses in a controlled environment.
+
+Native science is also based on observation and measurable phenomena.
+
+But these time-tested insights are developed over generations, and inseparable from culture and environment.
+
+SPRING: The way that our creation stories have always been explained to me is God created us as stewards.
+
+And so when we work in these cane patches and we practice traditional land management, we're showing respect.
+
+NARRATOR: Giant rivercane, "arundinaria gigantea," is a type of bamboo indigenous to North America.
+
+It grows in a tall, dense thicket known as a canebrake.
+
+SPRING: Rivercane plays an important role in our identity as Choctaw people, just as stickball does, just as our language, just as our foods.
+
+Rivercane is a cornerstone of our identity.
+
+EVELINE STEELE: You can see these cane stakes going all the way up.
+
+NARRATOR: Part of the reason rivercane is so important is that it is the raw material for Choctaw baskets.
+
+STEELE: And these two have just a slightly different weave.
+
+NARRATOR: Eveline Steele is a basket weaver.
+
+Her family has been weaving for generations.
+
+For the longest time, there were three weavers in Oklahoma and they were my mother, my aunt and her sister-in-law.
+
+I always say, I can only prove that I'm the third generation, but I can think back, it had to come from somewhere.
+
+â™ª â™ª NARRATOR: Choctaw baskets were used for storage and trade.
+
+Some were so tightly woven, they could hold water.
+
+The geometric patterns are more than decoration.
+
+Some patterns reflect nature, or the four directions.
+
+Others have spiritual meaning, such as the sacred fire.
+
+Like Fred Sangris in Canada, Eveline grew up learning and living traditions that stretched back millennia.
+
+Now, she wants to pass her knowledge on to future generations.
+
+STEELE: That's a decent size, but you see that it's still got the sheath on there?
+
+That has to be completely off, and it can't be rained off, like, a few days ago.
+
+How many strips does one, kind of, main one get?
+
+This is a good size.
+
+You can get four good pieces out of it.
+
+NARRATOR: The students are collecting materials for their baskets, but at the same time, they are learning how to take care of this ecosystem.
+
+SPRING: You have to understand how to harvest it correctly and how not to damage the canebrake.
+
+NARRATOR: Thinning the rivercane opens up the canopy, promoting new growth and improving the overall health of the canebrake.
+
+Today, more than ever, it's a vital intervention, because rivercane is rapidly disappearing.
+
+STEELE: When I was growing up, cane used to be abundant.
+
+And they were just kind of growing wild along the rivers.
+
+But it's not like that today.
+
+NARRATOR: Rivercane once covered an estimated ten million acres of the Southeastern United States.
+
+Today, perhaps 1% survives.
+
+Canebrakes are one of the most threatened ecosystems in the United States.
+
+SPRING: As American settlers moved in, they destroyed the canebrakes, and then they destroyed the land and the soil.
+
+NARRATOR: In the 1800s, the U.S.
+
+government forcibly removed southeastern tribes from their ancestral land and relocated them, commonly referred to as the Trail of Tears.
+
+Over 20 million acres were proclaimed open to settlement.
+
+In the ensuing land rush, Western farming methods devastated rivercane.
+
+The Choctaw understood the role cane played in the environment.
+
+Its roots prevented erosion, keeping the soil in place, and the cane also filtered the water, reducing nitrogen levels.
+
+Without the cane, water quality plummeted, and flooding impacts increased.
+
+SPRING: Over the years, a lot of colonial practices in the United States, agriculture, land management, those types of things has led to rivercane being reduced.
+
+NARRATOR: So how can the Choctaw restore rivercane, and at the same time keep their culture alive?
+
+STEELE: My hope is that people learn from the ground up.
+
+And I mean going out and harvesting cane and then learning to split and peel those.
+
+It's a lot of work, but it's very fulfilling.
+
+Like this.
+
+Get as close to the point as you can.
+
+NARRATOR: After collecting the cane, Eveline shows her students how to prepare it.
+
+STEELE: Hold your hand back here.
+
+(voiceover): When I harvest, I harvest no more than 30.
+
+You split it and then you peel each one to get your fibers.
+
+It's going to take two weeks to do just 30 poles.
+
+It's really a part of the whole process.
+
+I would go so far to say that if they don't harvest, split, and peel it themselves, that basket is only partially theirs.
+
+STUDENT: Would you split this again?
+
+STEELE: I would thin it a little bit where it's thick.
+
+NARRATOR: Eveline's ancestors carried their knowledge of rivercane with them when they were relocated to Oklahoma.
+
+BAKER: Both her grandfather and her grandmother come from Louisiana.
+
+And they bring their knowledge of basketry to Indian territory.
+
+STEELE: And then you'll come and do an outside one.
+
+NARRATOR: Megan Baker is an anthropologist and an expert on Choctaw basketry.
+
+STEELE: Same type of basket.
+
+BAKER: So Eveline's grandmother is bringing over these designs and these practices that I have not seen in Oklahoma Choctaw basketry of that time period.
+
+NARRATOR: Most rectangular or square baskets start at the bottom.
+
+The pattern is counted out as moistened cane strips are woven tightly together.
+
+The simplest is a plain weave, a basic one-over-one pattern.
+
+Changing the numbering creates different patterns and designs.
+
+STEELE: The basket variations depends on that count.
+
+The numbers makes up that style.
+
+NARRATOR: Eveline doesn't write these numbers down.
+
+She holds in her head a mental map of every move ahead.
+
+STEELE: I have to have, in my mind, the pattern that I want to make because the mathematics really come into play.
+
+It's something you kind of visualize.
+
+NARRATOR: This basket will take about three days to weave, on top of the time it took Eveline to collect and prepare the cane.
+
+STEELE: It teaches you patience, and it teaches you... ...to be careful.
+
+BAKER: She is a repository of knowledge.
+
+Eveline has really helped us revitalize rivercane basketry for Choctaw people.
+
+NARRATOR: Eveline's students have finished preparing their rivercane, and their baskets are hitting social media.
+
+This new generation of Choctaw basket weavers are building on principles developed over thousands of years to take this ancient practice into the future.
+
+Revitalizing rivercane is both a way to invigorate Choctaw culture, and an opportunity to heal ecosystems that have been pushed out of balance.
+
+SPRING: Rivercane can help with our erosion problems, it can help with water quality, it can help with connecting our people with our culture.
+
+STEELE: It's important to carry on this knowledge because it makes us who we are as a people, as a tribe.
+
+SPRING: And so in the end, that basket is an archive.
+
+That basket is generations of knowledge.
+
+Generations of Choctaw people learning about the land and the ecosystem.
+
+All that is tied into that basket.
+
+BAKER: Indigenous knowledge is accrued over thousands of generations of people who have lived on a landscape and intimately understood that.
+
+That's not easily replicated.
+
+Modern science cannot keep up with what Indigenous peoples have known for centuries.
+
+NARRATOR: For the Choctaw, drawing on ancient knowledge has strengthened their connection to their culture and environment.
+
+â™ª â™ª But for some tribes, the chain of knowledge has been broken.
+
+In the Pacific Northwest, Coast Salish tribes are fighting to put ancestral knowledge back into practice, before it is lost completely.
+
+(indistinct radio chatter) Nicole Norris belongs to the XelÃ¡ltxw First Nation.
+
+NORRIS: I've worked in aquaculture for nearly 30 years now, and that's what brings me back to the beach.
+
+The Gulf Islands are sacred spaces.
+
+I feel exceptionally privileged to be able to come here.
+
+(humming) NARRATOR: Nicole is joined by Ken Thomas, a member of the Penelakut tribe who works in fish and wildlife management.
+
+They are visiting a beach on Russell Island, southwest of Vancouver.
+
+THOMAS: It's always good to be here early.
+
+NARRATOR: As the tide goes out, rock patterns appear along the shoreline.
+
+What caused these unusual formations?
+
+(helicopter whirring) WOMAN (over radio): There's one.
+
+NARRATOR: It's a question that confounded marine geologist John Harper when he did shore surveys as part of an oil spill response-planning program following the 1989 Exxon Valdez incident.
+
+MAN (over radio): There's another one of these cobble ridges.
+
+There's sand, then boulders all up along the shoreline.
+
+NARRATOR: He stopped counting at 350, with no idea what they were.
+
+(indistinct radio chatter) Until he asked the First Nations people.
+
+It was their ancestors who built them.
+
+These walls are ancient sea gardens, with some dating back 3,500 years.
+
+They are among the earliest examples of aquaculture in the world.
+
+THOMAS: It seemed like it was a discovery, you know?
+
+"Oh, that's what these walls are for."
+
+And we're like, "Yeah, yeah, they're here for a reason."
+
+You know?
+
+Our ancestors put them there.
+
+A horse clam shell... that one.
+
+They're quite a bit bigger than the butter clam.
+
+NORRIS: A clam garden, or as I call them sea gardens, it is from an eagle eye view, a pile of rocks that makes a wall.
+
+And it changes the slope of the beach to create greater growing grounds for bivalves.
+
+NARRATOR: Clams are found in the intertidal zone: where they can feed during the high tide, and take cover from predators in the sand during the low tide.
+
+Nicole's ancestors engineered a rock wall to transform the beach.
+
+Over time, sand and broken shell build up, changing the slope and expanding the intertidal zone.
+
+And it's not only clams that thrive here.
+
+THOMAS: The reason why we call it sea gardens is because there's more than just clams inside these walls.
+
+They're habitat for a lot of other aquatic life, like the rock crabs.
+
+As you can see, there's quite a bit of red rock crab juveniles and there's some mature ones.
+
+NARRATOR: Nicole and Ken have been working to restore this sea garden, one of hundreds in the area that were driven into ruins.
+
+During the gold rush of the mid-19th century, white settlers removed local First Nations from their lands.
+
+Colonial policies aimed at favoring commercial settlers effectively made it illegal for tribes to harvest clams.
+
+Then, in the 1990s, water contamination from farming and urban pollution led to the closure of beaches across the region.
+
+And for decades, federal agencies did not regularly reassess those pollution levels.
+
+THOMAS: These places were closed because they're considered contaminated, but reality was, there was no sampling done in the area, so they just said, "Well, we don't want anyone getting sick, so we'll just close the whole area down."
+
+NORRIS: Access was denied to us for about 30 years.
+
+NARRATOR: Today, Parks Canada is working with Coast Salish tribes to monitor these waters and reopen the beaches.
+
+DeROY: Every two weeks in the winter, we come out and grab a sample and send it off to the Canadian Food Inspection Agency.
+
+And they'll analyze the tissue inside these mussels for contaminants.
+
+So that we can ensure that we're bringing folks out here to harvest, that the shellfish is safe to eat.
+
+THOMAS: Working together with Parks and doing these sampling programs opened up a lot of these areas.
+
+Recently, we have been able to harvest for our communities.
+
+For me, it was a really big step up in a positive way.
+
+NARRATOR: With the beaches reopened, Nicole and her tribe are able once more to harvest these waters.
+
+But how best to maintain a sea garden?
+
+Nicole turned to her elders.
+
+NORRIS: Back when I started in aquaculture, I was a teenager and, um, I learned about all of these things from the elders that were on the beach.
+
+Got one.
+
+NORRIS (voiceover): They were teaching me how to read the beach as to where to find these clams.
+
+And they started to teach me about the substrate.
+
+I'm looking at this substrate here.
+
+We want to make sure that the water can go through here so that it can saturate and filtrate.
+
+What we're trying to create is substrate that looks like this.
+
+Look at how thick.
+
+We incorporate shell hash into this, and till it in the same way that you would in a garden.
+
+NARRATOR: Adding crushed shells breaks up the heavy sediment, creating a better habitat for young clams.
+
+THOMAS: It's just unreal, like, when I think about it, how everything works.
+
+Our ancestors are way ahead of their time.
+
+NARRATOR: Western research has confirmed what the Coast Salish already knew.
+
+Sea gardens produce 150% to 300% more clams than non-modified spawning grounds.
+
+DeROY: Indigenous knowledge is the guiding force behind all the restoration practices that happen here.
+
+When you combine Western science with Indigenous knowledge, it can enrich our vision of what's happening on the beach, and enrich the information that we're learning from the beach.
+
+NORRIS: It represents a pathway back to our natural way of being.
+
+We're coastal people.
+
+We eat from the ocean, we eat from the beach.
+
+The greatest peace for my own self is that I have an opportunity to... ...steward an area with my own hands.
+
+To prepare a table for my great-grandchildren and my great-great-grandchildren.
+
+(squawking) CRUZ: Rain or shine, we'll do this!
+
+(laughs) NARRATOR: The practice of restoring sea gardens is spreading across Canada and the U.S.
+
+CRUZ: If you can do a bucket, a bucket would be good.
+
+GERALD HENRY: It sparked us and we're building a flame that's gathering and it's gathering all over the territories.
+
+NARRATOR: But what if instead of restoring an old sea garden, you built an entirely new one?
+
+CRUZ: Rain or shine!
+
+NARRATOR: Octavio Cruz is the Marine Scientific Manager for the Pauquachin Nation.
+
+CRUZ: This is the site of one of the first new clam gardens to be built in living memory.
+
+LYLE HENRY: We've been here for thousands and thousands of years.
+
+We had our own system of governance based on respect and honor of the history, of the land and the people.
+
+GERALD HENRY: We haven't been able to harvest in our beach for pretty well 30 years now, and that's something that we've talked to our elders about and wanted to make a place, a beach harvestable again.
+
+I love this.
+
+Kind of awesome.
+
+CRUZ: This project was brought together in a lot of different conversations, really trying to think about how we can address some of the modern challenges we have in today's day and age for First Nations, for Pauquachin, for food harvest, using traditional Indigenous methods or Indigenous science.
+
+This was his, like, pen-to-paper sets of ideas, talking about boat traffic was a big consideration and where the clams could be protected between the structures.
+
+So, when we took this on... (voiceover): We built a visual picture of sea garden protocol.
+
+We started from what existed, we learned from our neighbors and then we built our own protocol that was a mix of traditional management ways and then also new ways that we're still tweaking.
+
+So when you're building, you infill with the little ones.
+
+And try to cap... ...with larger flat cap stones to hold.
+
+There's no mortar, there's nothing to stick it together.
+
+These are sites that are meant to keep being maintained and they'll shift and adjust themselves, like it's breathing.
+
+And you can see how well it's holding up.
+
+â™ª â™ª NARRATOR: After months of work, the wall begins to take shape.
+
+LYLE HENRY: When I was a child, the beach was always open to people.
+
+We had that respect for each other.
+
+If you were hungry and needed food, you were welcome to come harvest clams.
+
+NARRATOR: Octavio's hope is that by drawing on the knowledge of their ancestors, the Pauquachin will be able to harvest this coastline for generations to come.
+
+It's an approach he believes has significant advantages.
+
+CRUZ: I'm a trained Western scientist, and I think I understand the limitations of that methodology and those studies.
+
+I think sometimes we put Western science on too high of a pedestal, in that it might be good for solving one set of variables or one problem.
+
+But oftentimes scientists do get lost in the weeds.
+
+Indigenous knowledge however, is informed by both culture, spiritual practice and science woven together.
+
+There is no separation between those boundaries and the strength of that is that you get a wider holistic view of your place.
+
+NARRATOR: The Coast Salish are keeping the knowledge of sea gardens alive, despite being forcibly removed from the coast.
+
+But the potential of native science goes far beyond simply restoring what has been lost.
+
+ROBERTO NUTLOUIS: It's true that colonization has happened, but that's only a small percentage of our history, of who we are as people.
+
+We have thousands of years of ancestral knowledge that really tells us about the power that we have.
+
+NARRATOR: In the deserts of the Southwest, the Navajo are drawing on ancestral knowledge to tackle one of the greatest challenges of our time.
+
+Roberto Nutlouis believes the ideas encoded in a hogan-- the traditional Navajo home-- could help combat climate change.
+
+Americans have not fully acclimated to this place as a home.
+
+They still treat it as resources to be exploited.
+
+We're taking too much fossil fuel, emitting it and creating this global ecological disaster.
+
+But hopefully what we see as a disaster is an opportunity for us to seek solutions that will bring us back into balance.
+
+NARRATOR: Somehow, despite the extreme heat of the desert, the ancient Navajo engineered homes that keep cool; built out of wood and earth.
+
+How do hogans work?
+
+(Roberto singing in DinÃ© Navajo) NUTLOUIS: These aren't just structures.
+
+As we do our blessing songs, we activate them, we energize them, they become a living being.
+
+And so that's how we see our world, our ecology and we have relationship to them.
+
+(singing continues) (singing continues) NARRATOR: The Navajo, also referred to as DinÃ©, embody a profound cultural bond with their desert homeland.
+
+They've lived on this land for thousands of years, developing the knowledge to thrive.
+
+NUTLOUIS: The first two logs are going to come is going to be these two main pillars that, where the regular door is going to come in, but then there's going to be a beam that's going to come from here all the way to there.
+
+That's what those two logs are for.
+
+They're going to come in like that.
+
+NARRATOR: Similar to the Choctaw management of rivercane, Roberto and his team harvest the logs in nearby juniper forests through selective cutting.
+
+This sustainable process helps open up the forest floor and reduce forest fires, benefitting the ecosystem.
+
+NUTLOUIS: This hogan is a tripod.
+
+So you have three main logs that come together.
+
+That is the main frame of the entire structure.
+
+And each of them have their stories.
+
+We called them Sahdii.
+
+So those are the way the holy people put it together, these main pillars that come together up here, and that's why they call it the forked-stick hogan.
+
+NARRATOR: The hogan takes on different shapes and styles and is used for different purposes.
+
+Roberto builds four types of hogans: sweat, arbor, male and female.
+
+The male and female hogans are living and ceremonial spaces.
+
+The sweat hogan is used for healing and purification.
+
+The arbor hogan is a communal space used for food preparation and meals.
+
+NUTLOUIS: When you go into these traditional structures, it's like, wow, very mesmerizing.
+
+You create the octagon shape.
+
+And then you have the hexagon... ...the square, ...the diamond, then the last one is a rectangular shape, which brings the logs together more closely.
+
+Back in the day we didn't have screws, so they all interlock with each other, until it closes out up on top, where we can then put the chimney opening.
+
+NARRATOR: Today, Roberto and his team are building a forked-stick, or male hogan.
+
+(indistinct chatter) With the main structure complete, work begins on the plaster.
+
+NUTLOUIS: So go ahead and turn it on.
+
+(pouring cement) We'll put in the clay first.
+
+Because the clay is the one that acts as the glue.
+
+So we want the clay to mix really well before we start adding the sand.
+
+NARRATOR: The main ingredients are simple: clay, sand and water.
+
+All found nearby.
+
+NUTLOUIS (voiceover): The earth plaster that we cover it on the outside, not only does it blend in with the surrounding environment, it also gives it a thermal energy.
+
+The heat in the winter, the coolness in the summertime, it's able to retain it.
+
+NARRATOR: Clay has a high thermal mass, meaning it slows the absorption and storage of energy.
+
+During the day, as the clay walls absorb the sun's heat and slow its transfer, they keep the inside cool.
+
+Then, at night, when it is cold, the heat absorbed by the clay walls is released and the process starts over again.
+
+Through trial and error, Roberto perfected his plaster, and discovered that by adding straw, the hogan requires less maintenance.
+
+NUTLOUIS: We're adding our own ingenuity to these, uh, ancestral building techniques, and I always tell the community and the youth is that every generation contributes to the cultural evolution.
+
+NARRATOR: The result is soil that naturally regulates temperature shifts, providing a stable, comfortable environment.
+
+NUTLOUIS: Here in the Southwest, it's getting warmer and warmer.
+
+Folks down in Phoenix, they're constantly blasting their AC to remain cool.
+
+They're working against the earth.
+
+Here we're working with the earth.
+
+It's going to be its own natural AC.
+
+NARRATOR: Roberto and his team have completed the forked-stick hogan.
+
+The earthen walls allow it to withstand extreme temperatures.
+
+But how well does it work?
+
+In a hogan Roberto and his team built for DEAP Charter School, students are about to find out.
+
+So anybody else, if you want to smudge, come smudge and then we'll continue.
+
+NARRATOR: Dawnlei Ben and Roshonda Shurley lead the class, exploring the hogan with an infrared camera.
+
+So you see my hand?
+
+Yeah.
+
+BEN: I'm going to put my hand on the wall.
+
+I'm going to hold it here for a while.
+
+SHURLEY: It's 86.2 degrees right now.
+
+Okay, you ready?
+
+STUDENT: Look at that!
+
+It leaves fingerprints!
+
+STUDENT: Oh, it looks like lava.
+
+You see the handprint?
+
+Yeah.
+
+What is that reading?
+
+78.9.
+
+BEN: So you have your heat energy going into the hogan.
+
+Just like how if your mom or your relatives they hug you, I'm pretty sure you get warm, right?
+
+Yup.
+
+The hogan show us love.
+
+Now proven through science, there's some energy transfer there.
+
+NARRATOR: The wooden interior of the hogan quickly absorbs and releases energy.
+
+STUDENT: Should we try outside?
+
+BEN: Let's go see.
+
+NARRATOR: But when they try the same thing outside... BEN: All right, let's see.
+
+STUDENT: What?!
+
+SHURLEY: It didn't work.
+
+NARRATOR: ...the clay does not immediately heat up.
+
+Instead, the walls slowly absorb and store energy.
+
+It's the high thermal mass of the plaster that keeps the heat out in the summer.
+
+And seals it inside during the winter.
+
+BEN: Our ancestors didn't have a thermometer.
+
+They didn't have the iPad.
+
+But they knew that if they put a mud mixture on the outside, it would keep the cold out.
+
+Isn't that awesome?
+
+NUTLOUIS: The ancestors and the holy people thought about these things when they were designing this structure.
+
+That it works with the environment, that it's aligned with the natural laws and the teachings that are embedded in it.
+
+NARRATOR: The hogan is the perfect structure for Arizona's desert.
+
+But to the Navajo, it's more than just a building.
+
+NUTLOUIS: Hogans is our cultural compass.
+
+NARRATOR: The design reflects the Navajo worldview, symbolizing the cosmos and Mother Earth.
+
+Specific orientations and structural elements represent sacred beliefs.
+
+It's a way to embed important information to be retrieved through story.
+
+NUTLOUIS: The structure itself is an embodiment of the universe as well as the Mother Earth.
+
+And in between that, "bita' neiidÃ¡," is us that live in that.
+
+So the spiraling logs that you see represents the cosmos.
+
+Each of those layers kind of elevates you into a higher consciousness and a higher awareness as they stack on top of each other.
+
+â™ª â™ª NARRATOR: Just as Eveline Steele's baskets are archives of Choctaw knowledge, so is the hogan, embodying deep cultural, spiritual and architectural significance.
+
+NUTLOUIS: If we go back to a simplistic living, there's beauty in that.
+
+And I think this is what these structures is really about.
+
+It's so efficient.
+
+You're not spending so much money to maintain your structure.
+
+You're working with the natural forces and natural elements.
+
+NARRATOR: It's a powerful idea that is beginning to spread.
+
+Traditional Navajo hogans, with their focus on sustainability, natural materials and orientation to the environment, are influencing modern sustainable architecture.
+
+NUTLOUIS: Indigenous knowledge is human knowledge.
+
+Every culture has evolved a sense of understanding in relationship to the land and this knowledge is so critical in maintaining a healthy balance with the natural order of things.
+
+â™ª â™ª NARRATOR: Through experiments lived out over thousands of years, Indigenous communities developed technologies for wayfinding, agriculture, engineering, forestry and astronomy.
+
+And that science has been passed on through knowledge keepers.
+
+CANNON: It's really a holistic way of knowing and being in the world.
+
+But it's not fossilized in time.
+
+It's knowledge that's continuous, but it's also lived, and recreated, and passed on, and remade and personalized.
+
+CRUZ: We talk about expertise as something that's really stroven for in a Western scientific field, but I actually think the only way to have a wider knowledge base is that there are no experts.
+
+All of us are willing to learn for our whole lives and we pass off every lesson that we have and work together with place, with the environment.
+
+SHURLEY: Western knowledge and Indigenous knowledge, they both intertwine with one another.
+
+And I believe that we are able to learn from both systems.
+
+NUTLOUIS: We need to pick it up.
+
+We need to figure it out and be the solution.
+
+NARRATOR: In Canada, Fred Sangris and Chris Cannon have returned from their trip across the Barrenlands.
+
+And Fred has one last story to share.
+
+SANGRIS: In 1976, my grandfather is about 105 years old, walking with a cane.
+
+It was a full moon, so I said, "Grandfather... "...did you know that that moon over there?
+
+There's some people that went out with a big plane."
+
+We don't have a name for rockets.
+
+So I said, "They went out with a big plane to that moon."
+
+MISSION CONTROL (over radio) Oh, gee that's great.
+
+Is the lighting halfway decent?
+
+NUTLOUIS: "They walked around all over "and their footprint is on the moon.
+
+And then they came back to Earth."
+
+"EniÃ¬yah," he says, "EniÃ¬yah".
+
+"EniÃ¬yah" in my language means "awesome, awesome."
+
+"That's amazing-- plane, radio.
+
+All these new things."
+
+I want to live another hundred years."
+
+I want to know where this world is going."
+
+That's what he told me.
+
+"I want to know where the world is going."
+
+In my idea, the way the world is going... ...we shouldn't be going that way.
+
+We need to be more respectful for the environment, with the nature.
+
+CANNON: It's Dene law.
+
+SANGRIS: Yeah, the Dene law, you know?
+
+You have to live-- live, but don't destroy.
+
+â™ª â™ª â™ª â™ª â™ª â™ª â™ª â™ª â™ª â™ª
 
 #### Ocean With David Attenborough
 

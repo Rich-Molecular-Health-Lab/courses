@@ -7,7 +7,6 @@
     - "Landscape-Scale Approaches"
     - "Species-Level Approaches"
   class_days:
-    - "BIOL4120_W12D2"
     - "BIOL4120_W13D1"
     - "BIOL4120_W13D2"
     - "BIOL4120_W14D1"
@@ -16,7 +15,6 @@
     - "BIOL4120_W16D1"
     - "BIOL4120_W16D2"
   dates:
-    - "2026-11-11T16:00:00"
     - "2026-11-16T16:00:00"
     - "2026-11-18T16:00:00"
     - "2026-11-23T16:00:00"
@@ -56,9 +54,9 @@
   course_name: "Conservation Biology"
   videos:
     []
-  class_start: "BIOL4120_W12D2"
-  date_start: "2026-11-11T16:00:00"
-  week_start: 12
+  class_start: "BIOL4120_W13D1"
+  date_start: "2026-11-16T16:00:00"
+  week_start: 13
   class_end: "BIOL4120_W16D2"
   date_end: "2026-12-09T16:00:00"
   week_end: 16
@@ -277,6 +275,7 @@
     - "BIOL4120_W11D1"
     - "BIOL4120_W11D2"
     - "BIOL4120_W12D1"
+    - "BIOL4120_W12D2"
     - "BIOL4120_W4D2"
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
@@ -299,6 +298,7 @@
     - "2026-11-02T16:00:00"
     - "2026-11-04T16:00:00"
     - "2026-11-09T16:00:00"
+    - "2026-11-11T16:00:00"
   exams: null
   films:
     - "Vanishing Act"
@@ -321,6 +321,7 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
+    - "Habitat Loss & Fragmentation"
     - "Patterns & Risk of Extinction"
     - "How poaching is changing the face of African elephants"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
@@ -334,6 +335,7 @@
     - "Extinctions and the practice of preventing them"
     - "Climate Change"
   slides:
+    - "Habitat Loss & Fragmentation"
     - "Patterns & Risk of Extinction"
   course_name: "Conservation Biology"
   videos:
@@ -343,7 +345,7 @@
   class_start: "BIOL4120_W4D2"
   date_start: "2026-09-16T16:00:00"
   week_start: 4
-  class_end: "BIOL4120_W12D1"
-  date_end: "2026-11-09T16:00:00"
+  class_end: "BIOL4120_W12D2"
+  date_end: "2026-11-11T16:00:00"
   week_end: 12
   title: "Threats to Biodiversity"

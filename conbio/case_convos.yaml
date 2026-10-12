@@ -4,7 +4,10 @@
   topics: "Extinction"
   chapter: 1
   section: 8
-  leaders: null
+  leaders:
+    - "Sasha M."
+    - "Macey V."
+    - "Emily M."
   exams:
     - "Exam 1 BIOL4120"
   projects:
@@ -32,6 +35,12 @@
   week_end: 4
   assignments:
     - "Guided Case Conversation"
+  student_submission:
+    - "case_study_prep_sheet_1_extinction"
+  case_urls:
+    - "https://colossal.com/colossal-biosciences-dire-wolf-de-extinction"
+    - "https://pmc.ncbi.nlm.nih.gov/articles/PMC12248547"
+  case_project: "Colossal Biosciences Dire Wolf De-Extinction Project"
   title: "Case Conversation 1 - Extinction"
 - number: 2
   unit:
@@ -39,7 +48,10 @@
   topics: "Habitat Loss, Fragmentation, and Degradation"
   chapter: 1
   section: 9
-  leaders: null
+  leaders:
+    - "Kier L."
+    - "Jay C."
+    - "Alexander M."
   exams:
     - "Exam 1 BIOL4120"
   projects:
@@ -76,7 +88,6 @@
   topics: "Overexploitation"
   chapter: 1
   section: 10
-  days_needed: 1
   leaders: null
   exams:
     - "Final Exam BIOL4120"
@@ -103,8 +114,13 @@
   class_end: "BIOL4120_W8D1"
   date_end: "2026-10-12T16:00:00"
   week_end: 8
+  assignment_intro:
+    - "Guided Case Conversations"
   assignments:
     - "Guided Case Conversation"
+  student_submission: null
+  case_urls: null
+  case_project: null
   title: "Case Conversation 3 - Overexploitation"
 - number: 4
   unit:
@@ -112,10 +128,7 @@
   topics: "Invasive Alien Species"
   chapter: 1
   section: 11
-  days_needed: 1
-  suggested: null
   leaders: null
-  background: null
   exams:
     - "Final Exam BIOL4120"
   projects:
@@ -141,8 +154,13 @@
   class_end: "BIOL4120_W10D2"
   date_end: "2026-10-28T16:00:00"
   week_end: 10
+  assignment_intro:
+    - "Guided Case Conversations"
   assignments:
     - "Guided Case Conversation"
+  student_submission: null
+  case_urls: null
+  case_project: null
   title: "Case Conversation 4 - Invasive Alien Species"
 - number: 5
   unit:
@@ -150,10 +168,7 @@
   topics: "Climate Change & Biodiversity"
   chapter: 1
   section: 12
-  days_needed: 1
-  suggested: null
   leaders: null
-  background: null
   exams:
     - "Final Exam BIOL4120"
   projects:
@@ -179,8 +194,13 @@
   class_end: "BIOL4120_W12D1"
   date_end: "2026-11-09T16:00:00"
   week_end: 12
+  assignment_intro:
+    - "Guided Case Conversations"
   assignments:
     - "Guided Case Conversation"
+  student_submission: null
+  case_urls: null
+  case_project: null
   title: "Case Conversation 5 - Climate Change"
 - number: 6
   unit:
@@ -188,11 +208,8 @@
   topics: "Species-Level Approaches"
   chapter: 2
   section: 13
-  days_needed: 1
-  suggested: null
-  leaders: null
-  background:
-    - "Endangered species management - the US experience"
+  leaders:
+    - "Endangered S."
   exams:
     - "Final Exam BIOL4120"
   projects:
@@ -218,8 +235,13 @@
   class_end: "BIOL4120_W14D1"
   date_end: "2026-11-23T16:00:00"
   week_end: 14
+  assignment_intro:
+    - "Guided Case Conversations"
   assignments:
     - "Guided Case Conversation"
+  student_submission: null
+  case_urls: null
+  case_project: null
   title: "Case Conversation 6 - Species-Level Approaches"
 - number: 7
   unit:
@@ -227,10 +249,7 @@
   topics: "Community & Ecosystem Approaches"
   chapter: 2
   section: 14
-  days_needed: 1
-  suggested: null
   leaders: null
-  background: null
   exams:
     - "Final Exam BIOL4120"
   projects:
@@ -256,8 +275,13 @@
   class_end: "BIOL4120_W15D2"
   date_end: "2026-12-02T16:00:00"
   week_end: 15
+  assignment_intro:
+    - "Guided Case Conversations"
   assignments:
     - "Guided Case Conversation"
+  student_submission: null
+  case_urls: null
+  case_project: null
   title: "Case Conversation 7 - Community & Ecosystem Approaches"
 - number: 8
   unit:
@@ -265,10 +289,7 @@
   topics: "Landscape-Scale Approaches"
   chapter: 2
   section: 15
-  days_needed: 1
-  suggested: null
   leaders: null
-  background: null
   exams:
     - "Final Exam ENVN4320"
   projects:
@@ -294,6 +315,11 @@
   class_end: "BIOL4120_W16D2"
   date_end: "2026-12-09T16:00:00"
   week_end: 16
+  assignment_intro:
+    - "Guided Case Conversations"
   assignments:
     - "Guided Case Conversation"
+  student_submission: null
+  case_urls: null
+  case_project: null
   title: "Case Conversation 8 - Landscape-Scale Approaches"

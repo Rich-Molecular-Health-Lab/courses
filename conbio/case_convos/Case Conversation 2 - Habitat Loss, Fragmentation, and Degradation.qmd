@@ -1,6 +1,6 @@
 ---
 title: "Case Conversation 2 - Habitat Loss, Fragmentation, and Degradation"
-date: "2026-08-29"
+date: "2026-09-30T16:00:00"
 date-modified: "2026-08-29T12:19:17"
 profile:
   - "case_convo"
@@ -10,3 +10,19 @@ categories:
   - "BIOL4120"
 ---
 
+## Class Meeting
+
+**Date:** Wednesday, September 30, 2026
+
+<a class='btn btn-outline-primary p-3 m-2' href='../topics/Habitat Loss, Fragmentation, and Degradation.html'>Habitat Loss, Fragmentation, and Degradation <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../units/Threats to Biodiversity.html'>Threats to Biodiversity <i class='fa-solid fa-link'></i></a>
+
+## Discussion Leaders
+
+- Kier L.
+- Jay C.
+- Alexander M.
+
+## Assignment
+
+**Guided Case Conversation**

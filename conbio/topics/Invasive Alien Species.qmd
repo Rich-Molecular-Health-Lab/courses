@@ -1,6 +1,6 @@
 ---
 title: "Invasive Alien Species"
-date: "2026-10-26T16:00:00"
+date: "2026-11-04T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -15,7 +15,7 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-10-26T16:00:00, 2026-10-28T16:00:00
+**Dates:** 2026-11-04T16:00:00
 
 ## Assigned Background
 
@@ -33,7 +33,7 @@ listing:
 
 **Textbook:** Conservation biology for all *(see details below)*
 
-**Days Covered:** BIOL4120_W9D2, BIOL4120_W10D1
+**Days Covered:** BIOL4120_W9D2, BIOL4120_W10D1, BIOL4120_W11D1, BIOL4120_W11D2
 
 :::
 
@@ -99,7 +99,7 @@ listing:
 
 **Textbook:** Conservation biology for all *(see details below)*
 
-**Days Covered:** BIOL4120_W9D2, BIOL4120_W10D1
+**Days Covered:** BIOL4120_W9D2, BIOL4120_W10D1, BIOL4120_W11D1, BIOL4120_W11D2
 
 :::
 

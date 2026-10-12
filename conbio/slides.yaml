@@ -72,6 +72,50 @@
   profile: "slides"
   attachments:
     - "Contemporary_Conservation_Biology.jpg"
+- title: "Habitat Loss & Fragmentation"
+  image: null
+  tags:
+    - "teaching"
+    - "slides"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  dates:
+    - "2026-10-07T16:00:00"
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+  videos:
+    []
+  films:
+    []
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+  themes:
+    - "Threats to Biodiversity"
+  area: "teaching"
+  topics:
+    - "Habitat Loss, Fragmentation, and Degradation"
+  date_start: "2026-10-07T16:00:00"
+  class_start: "BIOL4120_W7D2"
+  week_start: 7
+  week_end: 10
+  class_end: "BIOL4120_W10D1"
+  date_end: "2026-10-26T16:00:00"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+    - "callouts.css"
+    - "custom-snippets.css"
+  defaultTemplate: "tpl-fig-boxflow"
+  enableOverview: "true"
+  course_name: "Conservation Biology"
+  profile: "slides"
+  attachments:
+    []
 - title: "Patterns & Risk of Extinction"
   image: "c08fig002.jpg"
   tags:

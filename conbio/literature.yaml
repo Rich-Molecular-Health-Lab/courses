@@ -41,14 +41,16 @@
   classes_assigned:
     - class_day: "BIOL4120_W12D2"
       date: "2026-11-11T16:00:00"
+    - class_day: "BIOL4120_W13D1"
+      date: "2026-11-16T16:00:00"
   themes:
     - "Approaches to Conservation"
-  class_start: "BIOL4120_W12D2"
-  date_start: "2026-11-11T16:00:00"
-  week_start: 12
-  class_end: "BIOL4120_W12D2"
-  date_end: "2026-11-11T16:00:00"
-  week_end: 12
+  class_start: "BIOL4120_W13D1"
+  date_start: "2026-11-16T16:00:00"
+  week_start: 13
+  class_end: "BIOL4120_W13D1"
+  date_end: "2026-11-16T16:00:00"
+  week_end: 13
   topics_possible:
     - "Ex Situ Conservation"
   themes_possible:
