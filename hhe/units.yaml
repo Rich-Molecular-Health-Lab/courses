@@ -86,10 +86,17 @@
     - "2026-09-22T16:00:00"
   content:
     - "Floods_&_Hurricanes"
+    - "Inside a Category 5 Hurricane Simulator"
+    - "20 years later, a look at Katrina's lasting impact and concerns over future storms"
+    - "Why is THIS the DEADLIEST river in the US"
+    - "How melting glaciers contributed to Himalayas flooding"
+    - "Why the Nepal flash flood was almost impossible to predict"
     - "Wildfires"
     - "How Are Wildfires Making Us Sick"
     - "The Most Dangerous Wildfires All Have ONE THING in Common"
     - "Climate_Change_Introduction"
+    - "What is Climate Change"
+    - "World Weather Attribution — understanding climate change and extreme weather"
   background:
     - "As the climate changes, is the deadly flooding in Nepal a sign of things to come?"
     - "Hurricane Katrina"
@@ -103,8 +110,15 @@
     - "Climate_Change_Introduction"
   course_name: "Human Health & the Environment"
   videos:
+    - "Inside a Category 5 Hurricane Simulator"
+    - "20 years later, a look at Katrina's lasting impact and concerns over future storms"
+    - "Why is THIS the DEADLIEST river in the US"
+    - "How melting glaciers contributed to Himalayas flooding"
+    - "Why the Nepal flash flood was almost impossible to predict"
     - "How Are Wildfires Making Us Sick"
     - "The Most Dangerous Wildfires All Have ONE THING in Common"
+    - "What is Climate Change"
+    - "World Weather Attribution — understanding climate change and extreme weather"
   class_start: "ENVN4320_W3D1"
   date_start: "2026-09-08T16:00:00"
   week_start: 3
@@ -208,14 +222,14 @@
 - unit: "Infrastructure"
   chapter: 3
   topics:
-    - "Healthy Housing"
     - "Heat Islands"
     - "Redlining"
+    - "Urban Infrastructure & Housing"
   exams:
     - "Exam 1 ENVN4320"
   films:
-    - "A New Inferno"
     - "The Urban Jungle"
+    - "A New Inferno"
   case_convos:
     []
   projects:
@@ -236,24 +250,39 @@
     - "ENVN4320_W6D1"
     - "ENVN4320_W6D2"
     - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
   dates:
     - "2026-09-22T16:00:00"
     - "2026-09-24T16:00:00"
     - "2026-09-29T16:00:00"
     - "2026-10-01T16:00:00"
     - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
   background:
+    - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
+    - "Nsilo Berry on making buildings healthier"
     - "How Housing Discrimination Works"
     - "From Redlining to Inclusive Planning"
     - "Climate - Fighting Extreme Heat In 2026"
     - "How The Current Heat Dome Can Affect Human Health"
-    - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
-    - "Nsilo Berry on making buildings healthier"
   slides:
+    - "Urban Infrastructure, Housing, & Public Health"
     - "Redlining & Public Health Legacies"
     - "Heat_Islands-Infrastructure_&_Health"
   course_name: "Human Health & the Environment"
   content:
+    - "Urban Infrastructure, Housing, & Public Health"
+    - "'Nutty' situation in Lincoln Park  WGN Investigates"
+    - "5 Tiny Pests That Could Be In Your Home Right Now  Deep Look"
+    - "Why managing chronic health conditions begins at home"
+    - "Neighborhood Walkability, Weight, and Diabetes"
+    - "Trash containers making a difference in NYC's war on rats"
+    - "America's deadliest road, explained"
+    - "Zoning Matters How Land-Use Policies Shape Our Lives"
+    - "How Can Walkable Cities Become the Norm  One Small Step"
+    - "The Urban Jungle"
     - "Redlining & Public Health Legacies"
     - "How systemic racism shaped the ecosystems of U.S. cities"
     - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
@@ -263,8 +292,15 @@
     - "How Urban Heat Impacts Communities of Color"
     - "Heatwave What is the urban heat island effect"
     - "A New Inferno"
-    - "The Urban Jungle"
   videos:
+    - "'Nutty' situation in Lincoln Park  WGN Investigates"
+    - "5 Tiny Pests That Could Be In Your Home Right Now  Deep Look"
+    - "Why managing chronic health conditions begins at home"
+    - "Neighborhood Walkability, Weight, and Diabetes"
+    - "Trash containers making a difference in NYC's war on rats"
+    - "America's deadliest road, explained"
+    - "Zoning Matters How Land-Use Policies Shape Our Lives"
+    - "How Can Walkable Cities Become the Norm  One Small Step"
     - "How systemic racism shaped the ecosystems of U.S. cities"
     - "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
     - "Housing Segregation and Redlining in America A Short History  Code Switch  NPR"
@@ -274,9 +310,9 @@
   class_start: "ENVN4320_W5D1"
   date_start: "2026-09-22T16:00:00"
   week_start: 5
-  class_end: "ENVN4320_W7D1"
-  date_end: "2026-10-06T16:00:00"
-  week_end: 7
+  class_end: "ENVN4320_W8D1"
+  date_end: "2026-10-13T16:00:00"
+  week_end: 8
   title: "Infrastructure"
 - unit: "Introduction"
   chapter: 1
@@ -311,14 +347,21 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
-    []
+    - "Introduction to One Health"
+    - "Evidence and Hypothesis-Testing in Epidemiology"
+    - "Trump makes announcement on autism and links condition to paracetamol"
+    - "Introduction to Environmental Justice"
+    - "A Brief History of Environmental Justice"
   background:
     []
   slides:
-    []
+    - "Introduction to One Health"
+    - "Evidence and Hypothesis-Testing in Epidemiology"
+    - "Introduction to Environmental Justice"
   course_name: "Human Health & the Environment"
   videos:
-    []
+    - "Trump makes announcement on autism and links condition to paracetamol"
+    - "A Brief History of Environmental Justice"
   class_start: "ENVN4320_W1D2"
   date_start: "2026-08-27T16:00:00"
   week_start: 1
@@ -508,12 +551,8 @@
     - "ENVN4320_W11D1"
     - "ENVN4320_W11D2"
     - "ENVN4320_W12D1"
-    - "ENVN4320_W7D2"
-    - "ENVN4320_W8D1"
     - "ENVN4320_W9D2"
   dates:
-    - "2026-10-08T16:00:00"
-    - "2026-10-13T16:00:00"
     - "2026-10-22T16:00:00"
     - "2026-10-27T16:00:00"
     - "2026-10-29T16:00:00"
@@ -529,9 +568,9 @@
   course_name: "Human Health & the Environment"
   videos:
     []
-  class_start: "ENVN4320_W7D2"
-  date_start: "2026-10-08T16:00:00"
-  week_start: 7
+  class_start: "ENVN4320_W9D2"
+  date_start: "2026-10-22T16:00:00"
+  week_start: 9
   class_end: "ENVN4320_W12D1"
   date_end: "2026-11-10T16:00:00"
   week_end: 12

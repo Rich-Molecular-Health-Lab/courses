@@ -1,0 +1,337 @@
+---
+title: "What is Climate Change"
+profile:
+  - "video"
+  - "hhe"
+categories:
+  - "video"
+  - "ENVN4320"
+---
+
+**CrashCourse**, *08 15, 2023*
+
+## Video (13:57)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Y1mPWVzaGQY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Life on Earth has weathered boiling-hot oceans and volcanic-ash-darkened skies—but that’s nothing like the climate change we’re experiencing now. In this episode of Crash Course Biology, we’ll talk about the greenhouse effect, learn why our climate is like a tangled pair of headphones, and discover that we’ve understood the science behind climate change for much longer than you might think. 
+
+Chapters: 
+
+Introduction to Climate Change 00:00
+
+The Greenhouse Effect 2:24
+
+Measuring the Greenhouse Effect 4:46
+
+Carbon Sinks 8:26
+
+Environmental Justice 10:07
+
+Review & Credits 12:09
+
+This series was produced in collaboration with HHMI BioInteractive, committed to empowering educators and inspiring students with engaging, accessible, and quality classroom resources. Visit https://BioInteractive.org/CrashCourse for more information.
+
+Are you an educator looking for what NGSS Standards are covered in this episode? Check out our Educator Standards Database for Biology here: https://www.thecrashcourse.com/biologystandards
+
+Sources: https://docs.google.com/document/d/1GLDtAXE6ekg4Chk2qN3TYbNt0pJbyaHqTqRd6QY8pd4/edit?usp=sharing 
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Tawny Whaley, Sean Saunders, Katie, Tori Thomas, DL Singfield, Ken Davidian, Stephen Akuffo, Toni Miles, Steve Segreto, Kyle & Katherine Callahan, Laurel Stevens, Burt Humburg, Aziz Y, Perry Joyce, Scott Harrison, Mark & Susan Billian, Alan Bridgeman, Rachel Creager, Breanna Bosso, Matt Curls, Jennifer Killen, Jon Allen, Sarah & Nathan Catchings, team dorsey, Trevin Beattie, Eric Koslow, Jennifer Dineen, Indija-ka Siriwardena, Jason Rostoker, Ken Penttinen, Nathan Taylor, Les Aker, William McGraw, ClareG, Rizwan Kassim, Constance Urist, Alex Hackman, Pineapples of Solidarity, Katie Dean, Stephen McCandless, Wai Jack Sin, Ian Dundore, Caleb Weeks
+
+__
+
+Want to find Crash Course elsewhere on the internet?
+
+Instagram - https://www.instagram.com/thecrashcourse/
+
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+
+Twitter - http://www.twitter.com/TheCrashCourse
+
+CC Kids: http://www.youtube.com/crashcoursekids
+
+## Transcript
+
+### Introduction to Climate Change
+
+**0:00** · Our planet has been draped in ice sheets, filled with boiling-hot oceans, and dimmed by volcanic ash – all before anything more complicated than a single-celled organism showed up.
+
+**0:10** · So climate change is nothing new around here… when it happens gradually, over millions of years.
+
+**0:17** · But something new has happened in the last few centuries.
+
+**0:20** · People like us…except, wearing hats like this… began burning fossil fuels like coal, oil, and natural gas to make energy.
+
+**0:29** · Most of us aren’t wearing hats like those anymore.
+
+**0:31** · But we’re still powering our daily lives and industries with those fuels, releasing billions of tons of carbon dioxide every year.
+
+**0:41** · And that’s caused Earth’s climate to change in the span of just a few human lifetimes, the geological blink of an eye.
+
+**0:48** · Hi! I'm Dr. Sammy, your friendly neighborhood entomologist, and this is Crash Course Biology!
+
+**0:56** · Hey, do you guys smell that?
+
+**0:58** · …smells like...
+
+**1:00** · theme music?
+
+**1:01** · [THEME MUSIC] Now, I know what you’re thinking.
+
+**1:12** · “Wait, isn’t this Crash Course Biology?”
+
+**1:15** · And yeah, this episode is heavy on the gases, low on the golgi bodies.
+
+**1:19** · And that might leave you wondering, what does climate change have to do with the science of life?
+
+**1:25** · Here’s the thing: life and climate are tied together, like that tangled pair of headphones at the bottom of your backpack.
+
+**1:30** · You know, like you tug one end and then a knot tightens, which is looped around a paperclip, somehow snagged on that tiny notebook where you drew hearts around your crush’s name, which after several tugs is now lying open on the floor and…I’m breaking into a cold sweat just thinking about it.
+
+**1:46** · But back to the point, we can’t talk about life without talking about climate —which doesn’t mean last week’s thunderstorm or a one-day temperature swing – that’s weather.
+
+**1:58** · Climate is long-term weather conditions averaged over many years.
+
+**2:03** · To understand the difference between them, just remember that knowing the weather will help you decide if you should grab an umbrella before you head out, but knowing the climate will help you decide if you should invest in a good air conditioner.
+
+**2:15** · While the weather might impact your choice of clothing for the day, the climate directly impacts where and when different kinds of life can survive.
+
+### The Greenhouse Effect
+
+**2:24** · We owe today’s climate to the fact that our little green-and-blue marble of a home isn’t just floating in space unprotected.
+
+**2:31** · It’s wrapped up in an atmosphere; a big, invisible, gassy jacket.
+
+**2:35** · Which, granted, sounds pretty weird when you put it that way.
+
+**2:38** · But without it, we wouldn’t exist.
+
+**2:40** · This jacket is made of different kinds of gases.
+
+**2:43** · And a small fraction of them, known as greenhouse gases, absorb solar energy like, super well.
+
+**2:49** · We’re talking about gases like methane, water vapor, and most importantly carbon dioxide – also known as CO2.
+
+**2:58** · They account for less than half of one percent of our atmospheric jacket.
+
+**3:03** · But they’re a part of what makes it so good at trapping heat, sort of like all the little white feathers in your puffy coat.
+
+**3:09** · When sunlight beams down from space, most of it travels through those gases with no problem.
+
+**3:14** · The energy from that sunlight gets absorbed as it strikes the Earth, warming the surface.
+
+**3:19** · That type of warming is normal and seasonal.
+
+**3:22** · The Earth naturally bounces some of that solar energy back toward space.
+
+**3:27** · Where some of it exits the atmosphere and heads right back out into the inky ether.
+
+**3:32** · But the rest of that energy gets trapped by the Earth’s gassy jacket.
+
+**3:36** · Specifically by those super absorbent greenhouse gases, which suck up heat and bounce it back down to us again.
+
+**3:44** · This warming process is called the greenhouse effect.
+
+**3:47** · Unsurprisingly, It works the same way as a greenhouse – using layers of glass to trap heat inside.
+
+**3:54** · And it keeps Earth at a nice, cozy, insulated average of 14 degrees Celsius.
+
+**4:00** · Without it, our Earth would be a chilly average of -18 degrees Celsius.
+
+**4:06** · Great for storing ice cream!
+
+**4:08** · Not so good for rainforests, swimsuits, or us for that matter.
+
+**4:13** · So, the greenhouse effect is a natural, helpful process that makes Earth habitable for all of life!
+
+**4:18** · But you can have too much of a good thing.
+
+**4:21** · When our atmospheric jacket contains more carbon dioxide, for example, it gets really good at trapping heat.
+
+**4:28** · Like, too good.
+
+**4:30** · And the hotter things get, the more water evaporates and joins the atmosphere— and remember, water vapor itself is a greenhouse gas, so that in turn absorbs even more heat, creating a looping system of cause-and-effect that just keeps reinforcing itself.
+
+### Measuring the Greenhouse Effect
+
+**4:46** · And while dressing in layers is great if you’re hiking in the Alps, it’s really hard for our planet to shed its extra coats.
+
+**4:52** · So all of that heat gets stuck going from the ground to the atmosphere like the worst game of hot potato ever played.
+
+**4:59** · When I learned about this, I was like, "Wow, what a revelation!
+
+**5:03** · I can’t believe we’ve only recently figured this out!"
+
+**5:05** · But it turns out that this isn’t new knowledge; we’ve known how, and why, this could happen for nearly 170 years.
+
+**5:16** · Let’s pay a visit to the Theater of Life… [Inquisitive music] Back in 1856, Eunice Foote, an American scientist and suffragette, was thinking about how the Sun’s warmth affected different gases.
+
+**5:27** · In those days, the scientific community was a bit like a fort with a handmade “no girls allowed” sign out front.
+
+**5:34** · But Foote wasn’t deterred, and ran her experiments anyway.
+
+**5:38** · She filled tubes with different combinations of gases, including carbon dioxide.
+
+**5:42** · After putting some tubes in the Sun and some in the shade, she compared their temperatures, trying to find the hottest gas.
+
+**5:50** · All the tubes in direct sunlight warmed up.
+
+**5:52** · But none as intensely as the tube that contained carbon dioxide.
+
+**5:57** · The temperature had soared to 51.7 degrees Celsius, hot enough to burn your fingers.
+
+**6:04** · From that insight, Foote theorized that if our atmosphere ever contained more carbon dioxide, the whole planet would warm up as a result, which would mean a lot more than a few scalded fingers.
+
+**6:16** · And sure enough, today, that’s exactly the situation we’re in.
+
+**6:20** · Foote was one of the first scientists to recognize carbon dioxide’s potential to affect Earth’s climate.
+
+**6:25** · But she wasn’t the only one to connect the dots.
+
+**6:28** · For example, just a few decades later, another scientist named Dr. Svante Arrhenius observed that burning coal releases carbon dioxide.
+
+**6:37** · As a fossil fuel, coal forms from the decomposed, carbon-based bodies of plants and animals that lived and died a long time ago.
+
+**6:46** · And I’m talking before the dinosaurs.
+
+**6:48** · So no, I’m afraid that means you aren’t gassing up your car with the remains of a T-Rex.
+
+**6:53** · When we burn those fossil fuels— whether it’s in the form of coal, oil, or natural gas— carbon dioxide gets released into the atmosphere.
+
+**7:00** · When Arrhenius ran the numbers, he predicted that carbon dioxide released by burning fossil fuels could warm our climate within a few thousand years if we kept burning them at their current rate.
+
+**7:14** · But we’ve far outpaced his estimates.
+
+**7:16** · Our emissions of carbon dioxide have grown and grown and grown — and so has the mountain of evidence that those emissions are warming our planet.
+
+**7:25** · Some oil and gas companies have worked to promote uncertainty around the existence of climate change and what’s causing it.
+
+**7:32** · While they have only very recently acknowledged its existence, as of 2023, they're still trying to deflect from what's causing it.
+
+**7:40** · But the scientific consensus on this is overwhelming.
+
+**7:44** · You can learn much more about that in our Climate &amp; Energy series.
+
+**7:47** · We’ve only been reliably taking direct measurements of Earth’s global temperature since the 19th century.
+
+**7:52** · But that measly slice of time shows a steady rise in temperature of about 1.1 degree Celsius since 1880.
+
+**8:01** · And we know that that’s unusual because we’ve learned to read Earth’s much longer climate diary, in the form of ice cores.
+
+**8:07** · See, when snow hardens into ice, tiny bubbles of air remain trapped in the gaps between snowflakes.
+
+**8:13** · These gases and water molecules stay frozen, like entries in a frosty journal.
+
+**8:19** · So by drilling deep down into polar ice, we can snoop on what the atmosphere was like hundreds of thousands of years ago.
+
+### Carbon Sinks
+
+**8:27** · Ice cores show us that carbon dioxide levels have fluctuated over the past 800,000 years.
+
+**8:32** · And temperatures have fallen and risen alongside them, too.
+
+**8:36** · But when people started burning fossil fuels, carbon dioxide levels began to spike quickly, like really, really quickly.
+
+**8:44** · And they haven’t stopped rising.
+
+**8:45** · Before the Industrial Revolution, for every million molecules of air in our atmosphere, around 280 were carbon dioxide molecules.
+
+**8:54** · But by 2022, that number had increased to 422 —the highest concentration of CO2 our planet has seen in 4 million years.
+
+**9:06** · And that surge in carbon dioxide affects more than just the temperature.
+
+**9:10** · As the amount of carbon dioxide in our atmosphere rises, it impacts all of Earth’s systems.
+
+**9:15** · Just like yanking on the end of that tangled mess of headphones impacted all of the other items in my bag (and eventually, everybody around us when stuff started falling out).
+
+**9:24** · It’s all connected, is what I’m saying.
+
+**9:26** · For example, the ocean is our planet’s largest carbon sink.
+
+**9:31** · It’s sort of like a big storage container for carbon.
+
+**9:34** · In fact, the ocean holds 50 times more carbon than the air or soil do.
+
+**9:40** · But a chemical reaction happens when carbon dioxide meets water, it creates an acid.
+
+**9:45** · So that influx of carbon has already turned the ocean 30% more acidic since the 19th century.
+
+**9:53** · As carbon dioxide and other greenhouse gases trap more heat, there’s more energy pouring into our planet than going out.
+
+**9:59** · That means more energy is pumped into the ocean, fueling hurricanes and typhoons to become more frequent and more intense.
+
+### Environmental Justice
+
+**10:07** · As the whole planet gets hotter, that triggers all kinds of changes.
+
+**10:11** · Spring arrives earlier, leading to shorter winters and longer summers.
+
+**10:15** · Rising temperatures lead to double-whammy droughts and heatwaves.
+
+**10:19** · And that leaves forest floors full of dried-up plants that serve as fuel for wildfires to ignite— spreading faster, farther, and more often.
+
+**10:28** · Plus, Earth’s polar ice caps are melting, transforming solid ice to slush and seawater.
+
+**10:34** · And that’s causing ocean levels to rise and encroach on land.
+
+**10:38** · So while some communities are already facing a problem of not enough water, others are facing a problem of too much.
+
+**10:45** · And because these adverse changes layer on top of existing social inequalities, they disproportionately affect lower-income communities and people of color, making climate change not only a scientific issue, but a matter of environmental justice that has spurred some researchers to political action.
+
+**11:02** · For example, climate scientist Nicole Hernandez Hammer witnessed first-hand, through her field research, the sea-level rise alongside Miami Beach’s Latino communities.
+
+**11:12** · But these communities were not included in conversations about climate change or the dangers of rising sea levels.
+
+**11:18** · So, Hammer took action, moving into environmental outreach and education.
+
+**11:23** · And, while the threat is still there, these communities are now in conversation about climate change, and able to plan and advocate for the future of their environment.
+
+**11:33** · And the good news more broadly is we know exactly why these tangled, complex effects are happening.
+
+**11:39** · The more we burn those fossil fuels, the more greenhouse gases we release —and that’s driving sweeping changes all over our planet.
+
+**11:47** · And these changes are impacting life at all levels from the tiniest bacterium, to the elephants of Botswana, to you and me.
+
+**11:55** · We can slow these impacts by breaking up with fossil fuels.
+
+**11:58** · But we also have to invest in nature’s carbon sinks —such as soils and forests— which pull carbon out of the atmosphere and back into the land, where it can’t keep heating things up.
+
+### Review & Credits
+
+**12:09** · It won’t be the easiest breakup.
+
+**12:12** · We’ve designed whole societies and global systems around fossil fuels.
+
+**12:16** · We should fully expect to be listening to Jazmine Sullivan on repeat with a gallon of Rocky Road.
+
+**12:21** · But this is one relationship we can't afford to stay in.
+
+**12:24** · So, in order to halt emissions, we have to both invent new systems and work more efficiently within old ones, and to do that, we’ve got to get a whole planet’s worth of people on board.
+
+**12:35** · And if you’ve ever been part of a group project, you know that last part isn’t easy.
+
+**12:39** · Thankfully, when faced with global crises, humans have one great thing going for us: we are creative.
+
+**12:46** · I mean, we’ve been to space, we’ve got electric cars, we made furbies for some reason.
+
+**12:53** · So yes, It’s going to take all of our creativity and cooperation to tackle.
+
+**12:58** · But the only way out is through, and the only way through is together.
+
+**13:04** · In our next episode, we’ll tune back into the world of living things— and see how our rapidly changing climate involves much more than the atmosphere.
+
+**13:12** · It affects every living, breathing, organism on this planet— including you and me.
+
+**13:18** · This series was produced in collaboration with HHMI BioInteractive.
+
+**13:22** · If you’re an educator, visit BioInteractive.org/CrashCourse for classroom resources and professional development related to the topics covered in this course.
+
+**13:32** · Thanks for watching this episode of Crash Course Biology, which was filmed at our studio in Indianapolis, Indiana, and was made with the help of all these nice people.
+
+**13:41** · If you want to help keep Crash Course free for everyone, forever, you can join our community on Patreon.

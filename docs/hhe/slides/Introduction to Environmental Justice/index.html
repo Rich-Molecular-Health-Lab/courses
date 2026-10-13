@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Introduction to Environmental Justice</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+    <link rel="stylesheet" href="plugin/reveal-pointer/pointer.css" />
+
+    <link rel="stylesheet" href="css/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Environmental Justice
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Introduction to Environmental Justice-3.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="presentation-subtitle" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Introduction
+
+</div>
+
+
+
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 48%; top: 80%; height: 5%; width: 50%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+September 3, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Environmental Justice Defined
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Introduction to Environmental Justice.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+> *The just treatment and meaningful involvement of all people in environmental decision-making to ensure full protection from disproportionate environmental and health impacts, and equitable access to a healthy, sustainable, and resilient environment.*
+
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+U.S. Environmental Protection Agency (EPA) (2024)
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Justice & Equity
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Everyone is a product of diverse biological and cultural histories, existing in a system that disproportionately benefits those most recently in power.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Introduction to Environmental Justice-1.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Environmental Justice
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Introduction to Environmental Justice-2.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>A landmark 2007 study found &quot;race to be more important than socioeconomic status in predicting the location of the nation&#39;s commercial hazardous waste facilities.&quot;</p>
+<p><a href="https://www.nrdc.org/sites/default/files/toxic-wastes-and-race-at-twenty-1987-2007.pdf">https://www.nrdc.org/sites/default/files/toxic-wastes-and-race-at-twenty-1987-2007.pdf</a></p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Environmental Justice
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Introduction to Environmental Justice-2.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Black children were 5x more likely to have lead poisoning than white children.
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Even Black Americans making \$50–60K/year were more likely to live in polluted areas than their white counterparts making only \$10K/year.
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>In the UK, a government report found that Black British children are exposed to up to 30% more air pollution than white children.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Environmental Justice
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Introduction to Environmental Justice-3.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The term &quot;environmental justice&quot; initially referred to the movement that arose to confront environmental racism, but it has since expanded to encompass multiple forms of environmental inequities and problems.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Environmental Justice
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/30xLg2HHg8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/reveal-pointer/pointer.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealPointer,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>

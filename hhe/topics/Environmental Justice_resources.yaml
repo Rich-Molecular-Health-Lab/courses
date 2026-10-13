@@ -1,1 +1,6 @@
-[]
+- category: "video"
+  title: "A Brief History of Environmental Justice"
+  href: "../video/A Brief History of Environmental Justice.html"
+- category: "slide"
+  title: "Introduction to Environmental Justice"
+  href: "../slides/Introduction to Environmental Justice/index.html"

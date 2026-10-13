@@ -1,0 +1,227 @@
+---
+title: "America's deadliest road, explained"
+profile:
+  - "video"
+  - "hhe"
+categories:
+  - "video"
+  - "ENVN4320"
+---
+
+**Vox**, *11 10, 2022*
+
+## Video (7:16)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/0-nthHT-J1k title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+US road design favors speed over pedestrian safety.
+
+Subscribe and turn on notifications 🔔  so you don't miss any videos: http://goo.gl/0bsAjO 
+
+Most American roads aren’t just unpleasant for pedestrians, they can be dangerous. Pedestrian fatalities have been rising in the past few years, and urban planners point to the way roads are designed as the culprit. 
+
+A group of urban planners identified 60 pedestrian fatality hot spots throughout the US, and a 1,000-meter corridor of US-19 in New Port Richey, Florida, topped their list. Seventeen pedestrians lost their lives along this short stretch of road in the study period of 2001 to 2016. 
+
+The fatality hot spots on the study’s list shared a lot of design characteristics. Many of them are  arterial thoroughfares: roads historically built to keep high-speed traffic off of nearby residential streets. But the way US communities developed in a sprawling fashion along these roads meant these roadways also became business centers that pedestrians might need to access. The number of lanes and distances between crosswalks are among other dangerous design elements. 
+
+For this video, we went to New Port Richey to walk along US-19 and document the design characteristics identified in the study. 
+
+--
+
+Correction - A previous version of this video featured an interview that spoke to a memorial at Main Street and US-19. Locals from the New Port Richey area brought to our attention that the interview misrepresented the memorial, which honors a young man who was killed during an accident between two cars, not a bicycle as stated in the interview. Our sincere apologies for including the misrepresentation of the victim's story. We have edited the video to correct that error. 
+
+This is a link to a GoFundMe for the victim's family which includes more details about the incident: https://www.gofundme.com/f/qe5jkz-funeral-expenses-for-logan-blakley
+
+--
+
+This video is an adaptation of Vox.com reporter Marin Cogan’s investigation of US-19: 
+
+https://www.vox.com/23178764/florida-us19-deadliest-pedestrian-fatality-crisis
+
+Local journalists have credited Marin’s reporting for pressuring local officials to follow through on planned improvements to US-19: 
+
+https://www.tampabay.com/news/pasco/2022/09/26/deadliest-road-pasco-county-getting-millions-safety-upgrades/
+
+The pedestrian fatality study this story is based on is below: 
+
+https://www.jtlu.org/index.php/jtlu/article/view/1825
+
+A source for this story was Eric Dumbaugh, who authored a study on arterial roads: 
+
+https://www.tandfonline.com/doi/full/10.1080/01944360902950349
+
+Make sure you never miss behind the scenes content in the Vox Video newsletter, sign up here: http://vox.com/video-newsletter
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com
+
+Support Vox's reporting with a one-time or recurring contribution: http://vox.com/contribute-now
+
+Shop the Vox merch store: http://vox.com/store
+
+Watch our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on Facebook: http://facebook.com/vox
+
+Follow Vox on Twitter: http://twitter.com/voxdotcom
+
+Follow Vox on TikTok: http://tiktok.com/@voxdotcom
+
+## Transcript
+
+**0:00** · I've just arrived at the most dangerous place to be a pedestrian in the US.
+
+**0:05** · US-19 in New Port Richey, Florida on the state's Gulf Coast.
+
+**0:10** · A group of urban planners looked at the entire US roadway network and identified 60 pedestrian fatality hotspots: 1000 meter corridors where pedestrian deaths are most common.
+
+**0:21** · And this 1000 meter stretch topped their list.
+
+**0:24** · 17 fatal crashes here in a 16 year study window.
+
+**0:28** · Pedestrian fatalities in the U.S.
+
+**0:30** · have been creeping up in the past decade thanks mostly to the way road infrastructure favors cars above all else.
+
+**0:37** · And nowhere is that more clear than right here.
+
+**0:47** · US-19 runs north to south, down Florida's Gulf Coast and bisects the small community of New Port Richey cutting off its downtown from its coastal features.
+
+**0:56** · Which means traveling east to west, or vice versa requires you to cross it.
+
+**1:00** · It's a type of roadway that would feel familiar to Americans.
+
+**1:03** · Car culture is visible everywhere from the volume of drivers to the businesses alongside it.
+
+**1:10** · And along US-19, drivers are moving fast.
+
+**1:13** · The posted speed limit on this stretch is 45 miles per hour.
+
+**1:16** · But driving speeds appear to be much faster than that.
+
+**1:19** · Traffic safety experts will tell you that speed is one of the most important factors in pedestrian safety.
+
+**1:27** · A street design report established that traveling up to 15 miles per hour drivers have a wide peripheral vision.
+
+**1:33** · They only need 25 feet to come to a full stop and the risk of fatality if they hit someone is 2%.
+
+**1:40** · Once drivers are traveling over 40 miles per hour their peripheral view narrows.
+
+**1:45** · They require more room to stop and the risk of fatality climbs to 85%.
+
+**1:50** · Enforcing speed limits can only do so much.
+
+**1:53** · The built environment, as we call it is sending a message that this is for high speed travel.
+
+**2:00** · Robert Schneider led the pedestrian safety study that found that 97% of the roadways with high pedestrian fatalities had multiple lanes.
+
+**2:08** · At its widest, US-19 spans 8 lanes which allows cars to pass and move faster than if they were stuck behind another car in a single lane.
+
+**2:17** · And the road is straight as an arrow.
+
+**2:19** · No curves that would nudge drivers to take it slow.
+
+**2:22** · The type of businesses along US-19 support a car-first fast driving environment: Big box stores and strip malls that sit far away from the road with large parking lots in between.
+
+**2:32** · And billboards displayed up high for an audience of fast drivers rather than at human scale.
+
+**2:38** · Arterial roads like US-19 not quite a street, but not quite a highway were built to keep this high speed traffic off of nearby residential neighborhoods.
+
+**2:48** · But this type of sprawling development grew along arterial roads creating a dangerous mix of car centric design with the possibility that pedestrians, cyclists, or public transit users would want to access these business centers.
+
+**3:01** · And it explains why arterial roads only make up 13% of US roadways but are the site of 59% of pedestrian deaths.
+
+**3:13** · Now, let's relate that to US-19's pedestrian design or lack thereof.
+
+**3:17** · or... lack thereof.
+
+**3:19** · Not everyone can or wants to drive but they still have to get to where they're going.
+
+**3:23** · I walk along US-19 about 3 or 4 times a week, to and from work.
+
+**3:27** · It's a lot cheaper than taking the bus.
+
+**3:29** · I was crossing the crosswalk someone was turning and just bumped right into me.
+
+**3:35** · I had a few bumps, bruises, you know, some cracked ribs.
+
+**3:38** · I have a hearing disability...
+
+**3:40** · which causes severe vertigo and issues with balance.
+
+**3:45** · So it's not wise to drive.
+
+**3:47** · Every single day...
+
+**3:52** · I am...
+
+**3:56** · afraid of either getting...
+
+**3:58** · bumped or yelled at or honked at or cut off...
+
+**4:03** · every day.
+
+**4:07** · As a pedestrian trying to cross the road I'd have to choose between this crosswalk...
+
+**4:12** · or this one, which is nearly 950 meters away.
+
+**4:16** · That's a 30 or 40 minute walk.
+
+**4:18** · A distance so far that it encourages risky jaywalking.
+
+**4:21** · There's a better term for that, it turns out.
+
+**4:23** · Cross at a location where there's no signal.
+
+**4:26** · In the profession, we tend to try to say that.
+
+**4:28** · Jaywalk is a term that was developed by the auto interests in the early 1900s to essentially shame people who were crossing in the middle of the block which had been okay socially prior to the 1920s, 1930s.
+
+**4:46** · The sidewalks are constantly interrupted by the curb cuts into parking lots which introduce more opportunities to interact with a moving car without a signal.
+
+**4:53** · I first tried this crosswalk, waited for 10 minutes only to find out it didn't work, so I tried the next crossing.
+
+**5:00** · Robert Schneider told me that the longer you wait at a crosswalk the more pedestrians are incentivized to cross before the signal.
+
+**5:07** · Finally, once you do cross you have to traverse the length of the eight lanes...
+
+**5:11** · which puts US-19 in the company of 70% of the hot spot roadways in Robert Schneider's study that force pedestrians to cross five or more lanes.
+
+**5:20** · And all of this is so much more treacherous when there is less light.
+
+**5:28** · There's a concept in urbanism called safety in numbers.
+
+**5:32** · The more pedestrians there are in an environment, the safer it is to be one.
+
+**5:36** · There aren't many pedestrians along US-19 which makes the high number of fatalities even more alarming.
+
+**5:42** · The lower the median household income in a neighborhood the more common it is for pedestrian fatalities to occur there.
+
+**5:48** · And that's because bad street design and arterial roads like US-19 are more likely to exist in those communities.
+
+**5:55** · Improving pedestrian design would invite more people to walk making it safer for people who have no other choice.
+
+**6:02** · Florida transportation officials are spending millions to improve this stretch of US-19.
+
+**6:07** · Like reducing the speed limit, adding more crosswalks adding more lights, and delaying green light to intersections.
+
+**6:14** · The mayor of New Port Richey told me he favors adding pedestrian and cyclist bridges here to get people off the road entirely.
+
+**6:22** · These are expensive solutions and unpopular among drivers.
+
+**6:25** · But not nearly as hard as the long term goal which is undoing decades of car centric design like removing lanes, adding street parking instead and developing retail and housing in parking lots.
+
+**6:36** · A built environment that will get more people on foot more drivers to slow down and will save lives.
+
+**6:43** · It's not a quick solution, but something we need to actually be starting to move towards...
+
+**6:48** · rather than continuing to build the sprawling development that we know is dangerous.
+
+**7:22** · This video is an adaptation of a Vox.com story by reporter Marin Cogan.
+
+**7:28** · Local officials and journalists have credited her reporting for raising awareness about pedestrian safety along this deadly stretch of road.
+
+**7:36** · I highly recommend you check out her story that I linked in the description below.
+
+**7:40** · Thanks so much for watching.

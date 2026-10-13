@@ -1,0 +1,2906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Evidence and Hypothesis-Testing in Epidemiology</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+    <link rel="stylesheet" href="plugin/reveal-pointer/pointer.css" />
+
+    <link rel="stylesheet" href="css/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Epidemiology
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/figures/epidemiology/epidemiological_triangle.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="presentation-subtitle" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Introduction
+
+</div>
+
+
+
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 48%; top: 80%; height: 5%; width: 50%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+August 27, 2026, September 1, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+What is Epidemiology?
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+The study of patterns, causes, and effects of health and disease conditions in populations.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Epidemiologists<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**Observe** health conditions among groups of individuals in populations at risk
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**Offer estimates** of the severity of the health condition in the population
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**Identify factors** and interventions that health programs can target to prevent and control the condition
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Recommended reading: [*The CDC Field Epidemiology Manual*](https://www.cdc.gov/field-epi-manual/php/about/index.html)
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Research Approaches
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+A Good Research Question Should<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Be **focused**
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Be **relevant**
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Be **meaningful**
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Build on what is **previously known**
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 79%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Sources of Epidemiological Data for Health Policy & Programs
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<!-- .element: style="font-size: 13px; line-height: 1.2" -->
+
+| Method | Definition | Use | Caveats |
+| --- | --- | --- | --- |
+| **Public health surveillance** | Continual, systematic monitoring of a disease/condition in a population, using data from different sources | Ongoing data on the occurrence and distribution of conditions; real-time warning of when and where an outbreak will occur | Requires rapid, efficient, long-term collaboration to collect and analyze data across health and other sectors |
+| **Disease registries** | Legally mandated registration of all individuals in an area who contract a specific chronic disease, with longitudinal follow-up | Detailed incidence, duration, treatment, and outcomes of a disease to advise prevention and control policies | Expensive; follow-up is difficult, especially in low-income countries; needs long-term collaboration across facilities |
+| **Health facility records** | Continuous, systematic reporting of health events, including mandatory reporting of notifiable diseases | Helps health departments plan control and prevention; contributes to knowledge of global disease patterns | Requires efficient, rapid information systems; trade-off between number of notifiable diseases and reporting workload |
+| **Civil registration & vital statistics** | Mandatory, continuous recording of all births and deaths (and cause) in a population | Supports planning with birth rates, death rates, and causes of death | Not fully functional in many LMICs, where causes of death are hard to ascertain |
+
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Adapted from [*The Palgrave Handbook of Global Health Data Methods for Policy and Practice*](https://link.springer.com/book/10.1057/978-1-137-54984-6)
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 79%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 70%; height: 15%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<!-- .element: class="caption-box" --> 
+
+</div>
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Scale of the Problem: Cross-sectional Study
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+*What is the prevalence of a disease/condition, where and among which groups is it prevalent?* A cross-sectional study takes random samples of individuals in a population at a point in time.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-1.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Prevalence Rate<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->The proportion of people in a population who have a condition of interest at a point in time (or, for *period prevalence*, during a period of time)
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Approach<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Describe the prevalence of the disease/condition by other characteristics of the population
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Use<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Informs about the scale, and demographic and geographical distribution of conditions
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Repeated surveys can establish trends and generate hypotheses
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Caveats<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Not useful for rare conditions of very short duration
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Hard to control for confounding or to attribute causality
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Risk Factors: Cohort (Longitudinal) Study
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+*Which are the risk groups and factors associated with the disease/condition that an intervention could target?* A cohort study follows a well-defined population over time who are exposed to risk factors of interest.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-2.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Key Measures<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**Incidence rate:** the proportion of people in a population who contract a condition during a period of time
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**Relative risk (RR):** the ratio of the incidence of the outcome in a <mark>risk group</mark> to the incidence in a <mark>comparison group</mark>
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**RR = 1** → no association; **RR > 1** → positive association; **RR < 1** → negative association
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Approach<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Compare incidence of a disease/condition in those exposed and in those who are not (relative risk)
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Use<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Describes incidence and the course of the condition (prognosis)
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Identifies risk factors to target for interventions
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Caveats<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Takes time
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Not feasible for rare conditions or diseases with long latency
+- &shy;<!-- .element: class="fragment" data-fragment-index="9" -->Suitable cohorts can be difficult to identify and costly to follow
+- &shy;<!-- .element: class="fragment" data-fragment-index="10" -->Ethical considerations include confidentiality and privacy
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Risk Factors: Case-control (Retrospective) Study
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+A case-control study selects a group of cases with a disease/condition and a group of controls without the condition (but otherwise similar), and records history of exposure to potential risk factors in both groups.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-3.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Odds Ratio (OR)<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->The ratio of the odds that an outcome occurs in a risk group to the odds that it occurs in a comparison group
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**For uncommon outcomes, the OR approximates the RR**
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Approach<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Examine the odds ratio as a measure of association
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Use<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Rapid way to establish (multiple) risk factors to target for interventions
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Especially for diseases that are rare or have long latency
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Caveats<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Information collected retrospectively
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Prone to confounding and measurement bias
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Difficult to establish a temporal relationship between risk and the condition
+- &shy;<!-- .element: class="fragment" data-fragment-index="9" -->Selecting a suitable control group can be difficult
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Choice of Intervention: Randomized Controlled Trial (RCT)
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+*Which intervention to recommend?* An RCT randomly assigns consenting participants, groups, or communities to an experimental treatment, or to a standard treatment, no treatment, or a placebo.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-4.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Approach<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Mask assignment and limit the knowledge of treatment providers where possible
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Use<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Provides the best available evidence on the efficacy of treatments
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Caveats<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Expensive and cumbersome
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Trade-off between internal and external validity due to selected samples
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Study of harm is not feasible for ethical reasons
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Findings from field interventions may not generalize beyond the study context
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Choice of Intervention: Quasi-experimental Designs
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Quasi-experimental designs use control groups that are selected, matched, or statistically simulated to be as comparable as possible to the subjects exposed to the new intervention.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-5.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Use<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Most useful when RCTs are logistically infeasible or ethically unacceptable *(e.g., evaluating the effects of legislation on entire populations)*
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Caveats<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Each design has pros and cons, especially its risk of failing to control for potential confounders
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Considerable experience is required to judge the most appropriate design for a given situation
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Research Methods & Ethics: The EQUATOR Network
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+[The EQUATOR Network](https://www.equator-network.org/) provides online resources for writing protocols and reporting for most types of epidemiological studies.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-1.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Because serious ethical considerations cut through all aspects of studies of people, investigators must gain approval from nationally approved institutional review boards.
+</div>
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Research Methods & Ethics: Epi Info
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+[Epi Info](https://www.cdc.gov/epiinfo/index.html) is open-source software developed by the CDC that provides customized tools for data entry and analysis, with excellent visualization including maps. It also supports development of small disease surveillance systems.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-6.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+<aside class="notes"><p>As of September 2025, this resource appears to be unavailable.</p>
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<p>ENVN 4320 Human Health &amp; the Environment</p>
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<p> © 2026 Alicia M. Rich, Ph.D.</p>
+</div>
+</div></aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Critical Design Aspects: Participant Selection
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-7.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Sampling Methods<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**Simple random sampling:** not often feasible or appropriate
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**Stratified sampling:** the population is stratified by variables like sex or age
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**Random stratified sampling:** random sampling within the strata described above
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->**Cluster sampling:** investigators sample clusters from a population partitioned into homogeneous groups (clusters), such as enumeration areas, villages, or schools
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Critical Design Aspects: Measurement Accuracy
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-8.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Disease Status Can Be Ascertained By<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Examining participants for symptoms and signs, using diagnostic laboratory tests
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Administering questionnaires or conducting interviews
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Reviewing medical records, sometimes by linking subjects across administrative or research databases
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Accuracy Requires<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Direct laboratory assays for exposure
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Careful interviews of cases *(or surrogate information from several sources)*
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Standardized questionnaires to minimize recall bias
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+To Ensure Data Quality, Investigators Can<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Conduct pilot studies
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Employ laboratory quality assurance
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Critical Design Aspects: Sample Size
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+[Epi Info](https://www.cdc.gov/epiinfo/index.html) includes a sample size calculator, which addresses the aim of the study, the type of study, and the chosen sampling method.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+The Investigator Provides<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->The margin of error or width of confidence interval they expect to obtain
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Estimated indicator values, via literature review or pilot investigation
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Note: Epi Info is currently unavailable.
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 79%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+The smaller the intended margin of error, the larger the required sample size.
+</div>
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+note:
+To test a hypothesis, the investigator needs to specify:
+
+- The magnitude of a minimum detectable but clinically meaningful difference in the outcome they expect between the exposed and non-exposed groups
+- The probability of wrongly concluding there is a difference (a Type I error, say 5%)
+- The probability of wrongly concluding there is no difference (a Type II error, say 20%)
+
+For cohort and case-control studies and surveys, investigators may select participants systematically or use sequential sampling: they select elements from the source population based on a random starting point, then use a fixed interval (usually based on sample size) to select all other elements. Explicit inclusion and exclusion criteria should define the target population and eligible participants. Specific working definitions for these criteria minimize misclassification of participants, particularly in designs requiring comparison with a control group.
+</script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Bias in Results
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+**Bias** is the extent to which a study systematically underestimates or overestimates the indicator described, or the association reported between exposure and the outcome.
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 79%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Bias in Results: Selection Bias
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-9.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+In Cross-sectional Studies<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Occurs when sample members do not represent the population to which the investigator hopes to make inference
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+In Case-control or Cohort Studies<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Poor representativeness may not lead to bias, unless there is differential sample distortion with respect to exposure and outcome
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+In Clinical Trials<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Arises when there are systematic differences between treatment groups in factors that can influence the outcomes being measured
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Bias in Results: Measurement Bias
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-10.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Occurs Through<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Errors in recording observations
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Participant recall bias
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Instrument bias
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Misclassification of exposure and disease status
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Confounders
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+What if we fail to account for a key explanatory variable and attribute that variable's contribution to the wrong predictor?
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-2.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+A **confounder** is an extraneous variable (not part of the purported chain of causality between exposure and outcome), often unobserved by the investigators, that distorts the relationship between exposure and the outcome of interest.
+
+**Confounding** happens when the third variable is associated with the exposure while also being a potential cause of the outcome.
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Other Common Pitfalls: Correlation and Causation
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+"X is linked to Y" ≠ "X causes Y."
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+To Establish Causality After Showing Association, Researchers Need To<!-- .element: class="divider" -->
+1. Satisfy themselves that potential biases have not importantly influenced their conclusions
+2. Demonstrate that the risk factor occurred before the health outcome
+3. Exclude spurious explanations for the association
+4. Describe a plausible chain of causality between the risk factor or treatment and the outcome
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 79%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+It is difficult to establish a temporal relationship between risk and the condition in case-control studies. RCTs provide the best evidence of causality, *but they are not always logistically or ethically feasible.*
+</div>
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Other Common Pitfalls
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Absence of Evidence ≠ Evidence of Absence<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->We cannot conclude something does not exist or occur just because we have not observed it
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Cherry-picking Studies<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->The relative weight of evidence matters
+</div>
+
+
+
+</div>
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Overgeneralization<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->One study's findings cannot be applied universally
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Relative vs. Absolute Risk<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->"Doubles your risk!" might mean from 25% to 75%, or from 0.01% to 0.02%
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 79%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-3.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" --> 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 70%; height: 15%; width: 95%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+Disseminating Results
+</div>
+
+
+<!-- .element: class="caption-box" --> 
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Misinformation
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+False information shared <mark>*without the intention*</mark> to mislead.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-4.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Disinformation
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+False information <mark>*deliberately created and spread*</mark> to deceive or cause harm.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-5.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Malinformation
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Genuine information used <mark>*out of context*</mark> to cause harm.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/43_Attachments/2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/Evidence and Hypothesis-Testing in Epidemiology-6.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Case Study
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/AayZ53_hw4M?cc_load_policy=1&cc_lang_pref=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-comment-dots"></i> Discuss
+</div> 
+
+<div class="question-box" style="position: absolute; left: 3%; top: 8%; height: 40%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<i class="fa-solid fa-question fa-2xl" style="color: #000;"></i>
+
+<div class="block">
+
+**Can you use this case study to explain at least one of the following pitfalls?**
+
+- Selection bias
+- Measurement bias
+- Confounders
+- Correlation and causation
+- Absence of evidence vs. evidence of absence
+- Cherry-picking studies
+- Overgeneralization
+- Relative vs. absolute risk
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+ 
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/reveal-pointer/pointer.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealPointer,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>

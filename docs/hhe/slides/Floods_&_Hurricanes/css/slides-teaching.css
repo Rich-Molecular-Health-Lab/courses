@@ -11,9 +11,9 @@
   --space-xl: 40px;
 
   --font-caption: 15px;
-  --font-citation: 12px;
+  --font-citation: 8px;
   --font-body: 18px;
-  --font-list: 13px;
+  --font-list: 15px;
   --font-title: 30px;
   --font-title-lg: 40px;
   --font-subtitle: 28px;
@@ -29,6 +29,8 @@
   height: 100%;
   object-fit: contain;
   display: block;
+  padding: 0px;
+  margin: 0px;
 }
 
 /* The .fit-image class above is kept for compatibility but the plugin
@@ -49,17 +51,17 @@
 }
 
 .slide-image {
-  padding: var(--space-sm);
+  padding: 8px;
   text-align: center;
 }
 
 .presentation-image {
-  padding: var(--space-sm);
+  padding: 8px;
   text-align: center;
 }
 
 .slide-graphic {
-  padding: var(--space-xs);
+  padding: 4px;
   text-align: center;
   font-size: var(--font-list);
 }
@@ -127,6 +129,113 @@
 
 .horizontal_dotted_line {
   border-bottom: 2px dotted gray;
+}
+
+.divider {
+  font-size: 20px;
+  font-weight: 600;
+  font-variant: small-caps;
+  display: flex;
+  align-items: center;
+}
+
+.divider::before {
+  flex: 0.1;
+  content: '';
+  padding: 2px;
+  background-color: #133337;
+  margin: 5px;
+}
+
+.divider::after {
+  flex: 1;
+  content: '';
+  padding: 2px;
+  background-color: #133337;
+  margin: 5px;
+}
+
+.divider-rows {
+  overflow-y: auto;
+}
+
+.divider-rows > ul {
+  list-style-type: none;
+  border-left: 3px solid #133337;
+  border-bottom: 3px solid #133337;
+  padding: 0 0 0 1em;
+  margin: -1em 0em 0em 0em;
+  font-size: var(--font-list);
+  line-height: 1;
+  text-align: justify;
+  width: 95%;
+}
+
+.divider-rows li {
+  padding: 0px 8px;
+  margin-top: -1px; /* Prevent double borders */
+}
+
+.divider-rows li:first-child {
+  font-size: var(--font-body);
+  font-weight: 600;
+  margin-top: -1px; /* Prevent double borders */
+}
+
+.divider-rows li:last-child {
+  margin-top: -1px; /* Prevent double borders */
+  padding-bottom: 10px;
+}
+
+.divider-list {
+  overflow-y: auto;
+}
+.divider-list > ul {
+  list-style-type: square;
+  border-left: 3px solid #133337;
+  border-bottom: 3px solid #133337;
+  padding: 0em 2em 0em 2em;
+  margin: -1em 0em 0em 4px;
+  font-size: var(--font-list);
+  line-height: 1.1;
+  text-align: left;
+  width: 85%;
+}
+
+.divider-list li {
+  padding: 3px 8px;
+}
+
+.divider-list li:last-child {
+  padding-bottom: 10px;
+}
+
+.def-list {
+  overflow-y: auto;
+}
+
+.def-list > ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.def-list li {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+}
+
+/* Style badges inside the list group */
+.def-list .badge {
+  background-color: red;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 5px 10px;
+  text-align: center;
+  margin-left: 5px;
 }
 
 /* ============================================================
@@ -242,7 +351,7 @@
 }
 
 .citation {
-  font-size: var(--font-citation);
+  font-size: 0.6rem;
   font-weight: 300;
 }
 
@@ -257,6 +366,19 @@
   text-align: left;
 }
 
+.sc-lead {
+  font-size: 20px;
+  font-weight: 600;
+  font-variant: small-caps;
+  border-width: 1px 1px 1px 4px;
+  border-style: solid;
+  border-color: black;
+  background: #13333780;
+  padding: var(--space-sm);
+  margin-bottom: var(--space-xl);
+  text-align: left;
+}
+
 /* ============================================================
    Video embed
    ============================================================ */
@@ -264,7 +386,6 @@
   position: relative;
   width: 100%;
   max-width: 800px;
-  height: auto;
   margin: 0 auto;
   padding-bottom: 56.25%;
   height: 0;
@@ -282,3 +403,92 @@ iframe[src*="youtube.com"] {
   border-radius: 8px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
 }
+
+
+/* ============================================================
+   URL embed
+   ============================================================ */
+
+/* target the plugin's built-in grid element */
+.slide-iframe-container {
+    display: flex !important;
+    align-items: stretch;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    width: 100% !important;
+    height: 100% !important;
+    border: none;
+    flex-grow: 1;
+}
+
+/* Force the embedded iframe to scale completely inside the grid block */
+.slide-iframe-container iframe {
+    width: 100% !important;
+    height: 100% !important;
+    border: none;
+    flex-grow: 1;
+}
+
+
+
+/* ============================================================
+   Text Styling
+   ============================================================ */
+
+.text-aside {
+  font-size: 18px;
+  font-style: oblique;
+  color: #5b5b5b;
+}
+
+.text-row {
+  font-size:16px;
+  font-style:oblique;
+  color:gray;
+  font-weight:500;
+  background: #ffffffBF;
+  padding: 0px 1px 1px 20px;
+}
+
+.source {
+  font-size:10px;
+  font-style:oblique;
+  padding: 2px 1px 1px 20px;
+  margin: 0px;
+}
+
+/* ============================================================
+   Callouts
+   ============================================================ */
+
+/*
+UPDATED FOR OBSIDIAN SLIDES EXTENDED
+Targets native Obsidian preview AND the compiled Reveal.js slide layouts
+*/
+
+.reveal .slides .callout[data-callout-metadata*="label"],
+.reveal .slides div[data-callout-metadata*="label"],
+.callout[data-callout-metadata*="label"] {
+  --block-spacing: 1rem;
+  --speaker-block-width: 20%;
+  margin: 0px !important;
+  padding: 0px !important;
+  display: grid !important;
+  grid-template-columns: var(--speaker-block-width) calc(100% - var(--speaker-block-width)) !important;
+  background-color: var(--background-primary, #ffffff) !important;
+  border: none !important;
+}
+
+.reveal .slides .callout[data-callout-metadata*="label"] .callout-title,
+.reveal .slides div[data-callout-metadata*="label"] .callout-title,
+.callout[data-callout-metadata*="label"] .callout-title {
+  display: inline-block !important;
+  height: calc(100% - var(--block-spacing)) !important;
+  text-align: right !important;
+  border-right: 3px solid !important;
+  padding-right: var(--block-spacing) !important;
+}
+
+

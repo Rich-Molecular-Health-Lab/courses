@@ -73,7 +73,7 @@
   projects:
     - "Human Health & the Environment Fall 2026"
   topics_possible:
-    - "Healthy Housing"
+    - "Urban Infrastructure & Housing"
     - "Vectors"
   genre: null
   source: "pbs.org"
@@ -91,7 +91,7 @@
   duration_string: "00:54:41"
   image: "![The Urban Jungle](https://image.pbs.org/video-assets/yCxFMAY-asset-mezzanine-16x9-cH3VGo0.jpg)"
   authors: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
-  assigned: false
+  assigned: true
   themes_possible:
     - "Infrastructure"
     - "Pathogens"
@@ -104,19 +104,77 @@
   class_days:
     - "ENVN4320_W6D2"
     - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
   topics:
-    - "Healthy Housing"
+    - "Urban Infrastructure & Housing"
   themes:
     - "Infrastructure"
   dates:
-    - "2026-10-01T16:00:00"
     - "2026-10-06T16:00:00"
-  class_start: "ENVN4320_W6D2"
-  date_start: "2026-10-01T16:00:00"
-  week_start: 6
-  class_end: "ENVN4320_W7D1"
-  date_end: "2026-10-06T16:00:00"
-  week_end: 7
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  class_start: "ENVN4320_W7D1"
+  date_start: "2026-10-06T16:00:00"
+  week_start: 7
+  class_end: "ENVN4320_W8D1"
+  date_end: "2026-10-13T16:00:00"
+  week_end: 8
+  course_name: "Human Health & the Environment"
+  profile: "film"
+  attachments:
+    []
+- title: "Why is THIS the DEADLIEST river in the US"
+  video: "https://www.pbs.org/video/why-is-this-the-deadliest-river-in-the-us-3tk2yj/"
+  description: "Why is the Guadalupe River America's deadliest? Science, \"Rain Bombs,\" and Flash Flood Alley."
+  duration: "750"
+  creator: "https://www.instagram.com/pbsterra/"
+  published_at: "2026-04-14"
+  cover: "https://image.pbs.org/video-assets/jueFgIl-asset-mezzanine-16x9-GwFaDjx.jpg"
+  embed: "https://player.pbs.org/portalplayer/why-is-this-the-deadliest-river-in-the-us-3tk2yj/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\""
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Floods"
+  genre: null
+  source: "pbs.org"
+  tags:
+    - "teaching"
+    - "resource"
+    - "film"
+    - "episode"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "3tk2yj20261013"
+  series: "Weathered"
+  episode_number: "10"
+  episode_season: "7"
+  type: "film"
+  image: "![Why is THIS the DEADLIEST river in the US](https://image.pbs.org/video-assets/jueFgIl-asset-mezzanine-16x9-GwFaDjx.jpg)"
+  duration_string: "00:12:30"
+  authors: "https://www.instagram.com/pbsterra/"
+  published: "2026-04-14T00:00:00.000Z"
+  released: "2026-04-14"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Disasters"
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+  topics:
+    - "Floods"
+  themes:
+    - "Disasters"
+  dates:
+    - "2026-09-10T16:00:00"
+    - "2026-09-15T16:00:00"
+  author_first: "https://www.instagram.com/pbsterra/"
+  author_last: "https://www.instagram.com/pbsterra/"
+  author_display: "https://www.instagram.com/pbsterra/"
   profile: "film"
   attachments:
     []

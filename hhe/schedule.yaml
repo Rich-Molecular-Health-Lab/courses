@@ -11,6 +11,8 @@ W1:
     topics:
       - title: "Epidemiology"
         path: "topics/Epidemiology.qmd"
+    slides:
+      - "slides/Evidence and Hypothesis-Testing in Epidemiology/index.html"
 W2:
   D1:
     date: "2026-09-01"
@@ -18,6 +20,8 @@ W2:
     topics:
       - title: "Epidemiology"
         path: "topics/Epidemiology.qmd"
+    slides:
+      - "slides/Evidence and Hypothesis-Testing in Epidemiology/index.html"
   D2:
     date: "2026-09-03"
     themes: "Introduction"
@@ -26,6 +30,9 @@ W2:
         path: "topics/Environmental Justice.qmd"
       - title: "One Health"
         path: "topics/One Health.qmd"
+    slides:
+      - "slides/Introduction to Environmental Justice/index.html"
+      - "slides/Introduction to One Health/index.html"
 W3:
   D1:
     date: "2026-09-08"
@@ -161,8 +168,19 @@ W6:
     date: "2026-10-01"
     themes: "Infrastructure"
     topics:
-      - title: "Healthy Housing"
-        path: "topics/Healthy Housing.qmd"
+      - title: "Redlining"
+        path: "topics/Redlining.qmd"
+    slides:
+      - "slides/Redlining & Public Health Legacies/index.html"
+W7:
+  D1:
+    date: "2026-10-06"
+    themes: "Infrastructure"
+    topics:
+      - title: "Urban Infrastructure & Housing"
+        path: "topics/Urban Infrastructure & Housing.qmd"
+    slides:
+      - "slides/Urban Infrastructure, Housing, & Public Health/index.html"
     background:
       - title: "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
         type: "podcast"
@@ -178,26 +196,23 @@ W6:
         duration_string: "00:45:57"
         released: "2023-05-31"
         series: "Agents of Change in Environmental Justice"
-W7:
-  D1:
-    date: "2026-10-06"
-    themes: "Infrastructure"
-    topics:
-      - title: "Healthy Housing"
-        path: "topics/Healthy Housing.qmd"
   D2:
     date: "2026-10-08"
-    themes: "Toxins"
+    themes: "Infrastructure"
     topics:
-      - title: "Air Pollution"
-        path: "topics/Air Pollution.qmd"
+      - title: "Urban Infrastructure & Housing"
+        path: "topics/Urban Infrastructure & Housing.qmd"
+    slides:
+      - "slides/Urban Infrastructure, Housing, & Public Health/index.html"
 W8:
   D1:
     date: "2026-10-13"
-    themes: "Toxins"
+    themes: "Infrastructure"
     topics:
-      - title: "Radiation"
-        path: "topics/Radiation.qmd"
+      - title: "Urban Infrastructure & Housing"
+        path: "topics/Urban Infrastructure & Housing.qmd"
+    slides:
+      - "slides/Urban Infrastructure, Housing, & Public Health/index.html"
   D2:
     date: "2026-10-15"
     themes: "Exams ENVN4320"
@@ -215,15 +230,17 @@ W9:
     date: "2026-10-22"
     themes: "Toxins"
     topics:
-      - title: "Endocrine Disrupting Chemicals"
-        path: "topics/Endocrine Disrupting Chemicals.qmd"
+      - title: "Air Pollution"
+        path: "topics/Air Pollution.qmd"
+      - title: "Radiation"
+        path: "topics/Radiation.qmd"
 W10:
   D1:
     date: "2026-10-27"
     themes: "Toxins"
     topics:
-      - title: "PFAS"
-        path: "topics/PFAS.qmd"
+      - title: "Endocrine Disrupting Chemicals"
+        path: "topics/Endocrine Disrupting Chemicals.qmd"
   D2:
     date: "2026-10-29"
     themes: "Toxins"

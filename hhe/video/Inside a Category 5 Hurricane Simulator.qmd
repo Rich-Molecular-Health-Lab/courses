@@ -1,0 +1,302 @@
+---
+title: "Inside a Category 5 Hurricane Simulator"
+profile:
+  - "video"
+  - "hhe"
+categories:
+  - "video"
+  - "ENVN4320"
+---
+
+**Be Smart**, *06 02, 2022*
+
+## Video (12:32)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/g4SjaZb1AIM?start=603 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+SUBSCRIBE so you don’t miss a video! ►► http://bit.ly/iotbs_sub 
+
+We’re on PATREON! Join the community https://www.patreon.com/itsokaytobesmart
+
+↓↓↓ More info and sources below ↓↓↓
+
+Hurricanes, typhoons, and tropical cyclones are Earth’s most powerful storms, capable of unleashing destruction and death on coastal areas worldwide. As climate change warms Earth’s oceans, we face more risk of storms rapidly intensifying into category 5, sometimes in less than a single day. Being able to predict these rapidly intensifying storms will save lives, but studying hurricanes in detail is difficult and dangerous. So in order to improve our understanding of hurricanes, scientists have built a machine that can create hurricane conditions indoors. weather hurricanes 
+
+Filmed at the Alfred C. Glassell, Jr. SUSTAIN Laboratory at the Rosenstiel School of Marine and Atmospheric Science at the University of Miami https://sustain.rsmas.miami.edu/ 
+
+
+
+Special thanks to our Brain Trust Patrons:
+
+Matt Clark
+
+Ali Freiburger
+
+Mehdi Damou
+
+Barbora Bei
+
+Ken Board
+
+Clinger-Hamilton Family
+
+Attila Pix
+
+Burt Humburg
+
+DeliciousKashmiri
+
+Roy Lasris
+
+dani bowman
+
+David Johnston
+
+Salih Arslan
+
+Baerbel Winkler
+
+Robert Young
+
+Amy Sowada
+
+Eric Meer
+
+Dustin
+
+Karen Haskell
+
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+## Transcript
+
+### The power of hurricanes
+
+**0:03** · This is what it's like to be in a category five hurricane.
+
+**0:07** · Deadly, deadly winds and waves here.
+
+**0:10** · This is unbelievable.
+
+**0:12** · These are Earth's most powerful storms up to a thousand miles across and capable of devastating coastal areas with massive rains, surging waves and sustained winds of more than 160 miles per hour.
+
+**0:26** · Hurricanes, also known as typhoons or tropical cyclones, form over warm tropical oceans, where they draw up huge amounts of heat, energy, and moisture.
+
+**0:36** · A hurricane's intensity depends on how much energy it can pull from warm ocean water.
+
+**0:41** · And as humans have changed the climate, the oceans have heated up creating the potential for more intense hurricanes happening more often.
+
+**0:50** · So in order to better predict the destructive impact of these swirling superstorms and to save lives, scientists have built this, a machine that can create the worst imaginable hurricane conditions indoors.
+
+**1:09** · (gentle music) Hey, smart people, Joe here.
+
+### Hurricane vulnerability
+
+**1:15** · No one knows exactly when it's gonna happen but at some point in the future, a hurricane is going to make landfall right near where I am standing right now.
+
+**1:25** · And that's a potentially disastrous scenario because this Southern tip of Florida is home to more than 6 million people.
+
+**1:34** · On August 24th, 1992, hurricane Andrew made landfall 25 miles south of Miami bringing with it a 16 foot high storm surge and 165 mile an hour winds, and leaving in its wake $25 billion worth of damage and more than 40 deaths.
+
+**1:54** · Andrew was a category five storm, the highest rating of hurricane intensity.
+
+**1:59** · Damage from a category five storm hitting Miami today could easily exceed $100 billion.
+
+**2:06** · With more people and buildings near the coast than ever before and in other densely populated coastal areas around the world, the potential for devastation is similar.
+
+**2:16** · Scientists have gotten pretty good at predicting the paths that hurricanes will take, but predicting how powerful those hurricanes will be is a much less accurate process.
+
+**2:26** · The models simply aren't refined enough.
+
+**2:29** · To create better tools to make these predictions, scientists have to get up close and study hurricanes in detail.
+
+**2:35** · Scientists have created many advanced tools to study hurricanes using remote instruments by flying into them and even following them from space.
+
+### The sustain laboratory
+
+**2:45** · But many of the mysteries they need to solve require looking at storms up close and collecting data at extremely small scales.
+
+**2:53** · Unfortunately, studying the world's most powerful storms up close and personal is pretty dangerous work.
+
+**2:59** · Unless you can make the hurricane come to you by creating a hurricane.
+
+**3:05** · Brian.
+
+**3:06** · Hi Joe.
+
+**3:07** · This is the SUSTAIN wind wave laboratory. SUSTAIN stands for surge, structure, atmosphere, interaction.
+
+**3:13** · [Joe] This has gotta be one of the coolest science toys to play with in the world.
+
+**3:17** · Is this cool?
+
+**3:18** · Well you still get a chill sometimes watching it, even though I've seen it run hundreds of times by now.
+
+**3:25** · [Joe] The SUSTAIN lab at the University of Miami is a giant wind tunnel and wave machine combo that allows scientists to study where the atmosphere meets the ocean and how they interact all the way up to category five hurricane conditions.
+
+**3:39** · The category five storm is defined by wind speed. That's about 155 miles an hour sustained winds. Obviously that's a wind that none of us, unless we are jumping out of airplanes or sports cars-- [Joe] Or F1 drivers.
+
+**3:55** · Have no experience with, but it is tremendously hazardous to life and property.
+
+**4:02** · [Joe] And you can make that in here?
+
+**4:03** · We can create the conditions right here that is equivalent to a category five hurricane. This is the largest structure in the world that like this that can blow this kind of wind speed over water. And look at the combined loads.
+
+**4:19** · [Joe] Is there like a big button that just says hurricane on?
+
+### Testing in the storm tank
+
+
+**4:22** · We have a, it's a pretty much like a Frankenstein lever. We will turn it on.
+
+**4:27** · I really wanna turn this thing on.
+
+**4:29** · You think we can do that?
+
+**4:30** · Yeah, I think we can do that.
+
+**4:31** · Okay. I'm really looking forward to this.
+
+**4:36** · For the wind.
+
+**4:38** · You make it nice and simple.
+
+**4:39** · So you're like, do this first.
+
+**4:42** · Do this second.
+
+**4:44** · Anybody can figure it out.
+
+**4:46** · When that lever is pushed, a 1500 horsepower fan draws in air from outside the facility, which is then squeezed down like a giant leaf blower increasing its velocity before it enters the tank, their giant paddles push on the water to create the waves that will flow across the surface.
+
+**5:05** · So this is a Wavemaker drive that controls the wave patterns like computer programming. These drives will send out the math algorithm and convert it to electrical signals so that Wavemaker will be able to know how we're gonna make them move.
+
+**5:20** · [Joe] So you get custom waves.
+
+**5:21** · Yes, exactly.
+
+**5:22** · [Joe] You ever have like tiny surfer toys you want to put in there?
+
+**5:25** · We did.
+
+**5:26** · We actually put some little yellow ducks. (duck quacking) So we just put a camera inside the hurricane tank so that you could see what it would be like to be in a category five.
+
+**5:37** · Do not recommend.
+
+**5:41** · You've got a big red button here.
+
+**5:43** · That's our emergency stop on the Wavemaker.
+
+**5:46** · Let's make a hurricane.
+
+**5:47** · Starting to kick up.
+
+**5:48** · We're starting out here with just wind and then as we get up to full wind we're gonna turn on the waves too.
+
+### Rapid intensification
+
+
+**5:55** · I think it's gonna get pretty hard to hear us here a a minute.
+
+**6:13** · Can you estimate how fast this is right now?
+
+**6:15** · It was at the full cat five right there.
+
+**6:17** · So more than 165?
+
+**6:20** · Yeah. More than that.
+
+**6:22** · Wow.
+
+**6:24** · I'm glad we're out here and not in there. Seeing category five hurricane winds from literal feet away was pretty awesome. And also kind of terrifying because I remember those winds are powerful enough to do stuff like this.
+
+**6:42** · Yikes.
+
+**6:43** · One of the key gaps in hurricane prediction has been the intensity.
+
+**6:48** · And that can be a huge problem if something like this happens. In 2017, hurricane Maria intensified from a category one to a category five storm in just 18 hours, leaving those in its path little time to prepare or seek shelter and ultimately causing more than 3000 deaths on the islands of Dominica and Puerto Rico. Hurricanes can grow from dangerous to potentially historic levels of destruction in basically no time flat.
+
+### Atmosphere and ocean
+
+**7:19** · So being able to predict several days in advance whether a hurricane will be powerful could allow more time for evacuation and save lives. This storm machine is already helping scientists better understand how hurricanes grow. As a hurricane's winds blow over the waves, the rough surface of the ocean exerts a drag on the storm, sucking energy out of it similar to how friction slows down a sliding object by removing its kinetic energy.
+
+**7:49** · What we'd expect is as a hurricane gets stronger, rougher seas, and bigger waves would suck out even more energy, preventing storms from growing too quickly. But what they've shown using the hurricane simulator is when wind reaches a certain high speed, that drag levels off and stops slowing the storm down.
+
+**8:09** · When you blow the wind, it makes these huge waves. The energy that was in the wind went into making those waves. As the winds get really intense, you might get the wind not really interacting as much.
+
+**8:20** · [Joe] It almost feels like if I was in a car and I started going really fast, that all of a sudden my tires would stop sticking to the road as well as they did when I was going slowly.
+
+**8:31** · Exactly.
+
+**8:32** · That's a good way of looking at it. And all of a sudden the friction just disappears on your tires and-- [Joe] As soon as you hit 60 miles an hour, it's like, oh, the road turned to ice. Findings like these are already helping scientists create more accurate models that can predict earlier and more accurately when hurricanes will rapidly intensify. What makes this giant hurricane lab so special isn't just the intense winds or crashing waves.
+
+### Weight of the storm
+
+**8:58** · It's being able to observe both of them as one interacting system.
+
+**9:02** · If we didn't have the waves coming in, then we wouldn't really be able to look at very many problems. People tend to think of, oh, a storm surge. That's you see a five foot storm surge or something like that is a forecast and think, well, my house is at eight feet, I should be fine. Well that doesn't take into account that you have 150 mile an hour winds pushing that water towards you.
+
+**9:24** · You'd have waves coming in that are huge waves breaking just giant bore of water.
+
+**9:29** · Water's heavy.
+
+**9:31** · Water is really heavy. Try to take a five gallon container of water and walk a long distance carrying it. It's a lot of weight. So water's a thousand times heavier than air. So when you get that wave hitting the structure, that's tremendously more loading than the air alone.
+
+### Resilient engineering
+
+
+**9:54** · Despite some pretty far out ideas ranging from using bubbles to cool the ocean to dropping literal nukes into the eye of a storm, it's probably impossible to stop a hurricane, but we can use engineering to make things more resilient and even turn to nature for inspiration.
+
+**10:13** · You see, before all this was here, coastlines like this were covered in mangrove forests and healthy coral reefs far offshore, both of which are nature's two best ideas to minimize the impact of hurricanes. So in addition to restoring those natural defenses, engineers are using them as inspiration for things that we can build ourself.
+
+**10:35** · So these are sea hives.
+
+**10:36** · They're called sea hives because they look like beehives with these little holes and they're designed to be artificial breakwater so that the waves will break offshore on the sea hives like a few miles offshore. It will make energy dissipate so that the waves are weaker when they reach our shoreline so we are protected by these structures.
+
+**10:58** · It comes down to this.
+
+**11:00** · Our planet is getting warmer and warmer and so are our oceans and that's creating the potential for stronger and stronger storms. So it's essential that we learn everything we can about them to minimize the risks, save lives and learn to live with some of the effects of climate change.
+
+**11:17** · If you're one of the hundreds of millions of people around the world who live in an area that could be hit by a hurricane, a typhoon or tropical cyclone, well be thankful that there are scientists getting up close and personal with hurricanes so that you don't have to one day.
+
+**11:34** · Stay curious.
+
+### Looking to the future
+
+**11:37** · Hey guys, that was an amazing thing to see. I wanna say thank you to everyone who supports the show on Patreon for helping make videos like this possible.
+
+**11:47** · If you'd like to find out how you can support the show, help us make more videos like this, see more cool stuff, also find out about videos before anybody else, and I have a bunch of other cool stuff, there's a link down a description where you can learn more and I will see you in the next video. Oh, and one more thing.
+
+**12:03** · I went this entire video without making a really bad dad joke about how this science blew me away.
+
+**12:09** · So can I get a high five?
+
+**12:15** · Oh, fantastic.
+
+**12:18** · It survived.
+
+**12:20** · Guess I made the joke after all. So it doesn't really count. Okay. Well, I tried.

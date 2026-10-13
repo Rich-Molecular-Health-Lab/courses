@@ -1,0 +1,2975 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Urban Infrastructure, Housing, & Public Health</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+    <link rel="stylesheet" href="plugin/reveal-pointer/pointer.css" />
+
+    <link rel="stylesheet" href="css/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Urban Infrastructure & Housing
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/4_dimensions_housing.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="presentation-subtitle" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Infrastructure
+
+</div>
+
+
+
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 48%; top: 80%; height: 5%; width: 50%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+October 1, 2026, October 6, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 90%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+
+
+
+<img src="4_System/40_Exports/ENVN4320/attachments/Fact-Sheet_The-Principles-of-a-Healthy-Home_Bordered.png" alt="" style="object-fit: scale-down">
+
+
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 90%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+
+
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/canva_slides/4-2_built_environments_conditions/2.png" alt="" style="object-fit: scale-down">
+
+
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Why managing chronic health conditions begins at home
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/Ws4Ir5wtHwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Total Length: 7:26</strong></p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The Housing Crisis in America
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Between 1960 and 2016, median rents rose 61% and median home values increased 112%. More than half of low-income American households now spend over 50% of their income on housing.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/cost_burdened_2017_pbs.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+The Numbers<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Median rents rose **61%** since 1960
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Median home values rose **112%** since 1960
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**>50%** of low-income households are rent-burdened (paying >30% of income on rent)
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Eviction, foreclosure, and gentrification threaten housing stability
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Affluent Black families live in neighborhoods with higher poverty rates than poor White families
+</div>
+
+
+
+Housing affordability is not just an economic issue—it is a health equity issue.<!-- .element: class="feature" -->
+
+</div>
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: [Harvard University Joint Center for Housing Studies]([https://www.statista.com/chart/27454/low-income-renters-spending-more-than-40-percent-of-income-on-housing/](https://www.jchs.harvard.edu/))
+
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Use this to establish why housing matters for the course. The data shows systemic inequality in housing access and cost.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Cost: The First Pillar
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/Harvard_JCHS_State_Nations_Housing_2026_Figure25.png" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+Rent-burdened households—those paying more than 30% of monthly income on rent—experience measurable health harms:
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Poorer self-rated health
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Higher rates of hypertension and arthritis
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Worse mental health outcomes
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Inability to afford food, medications, and child development resources
+
+When families must choose between rent and medicine, housing cost becomes a direct pathway to disease.<!-- .element: class="feature fragment" -->
+
+</div>
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: [Harvard University Joint Center for Housing Studies]([https://www.statista.com/chart/27454/low-income-renters-spending-more-than-40-percent-of-income-on-housing/](https://www.jchs.harvard.edu/))
+
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This pillar is about the economic squeeze. Emphasize that this is not about personal finance—it is about systemic inequality in wages and housing supply.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 90%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+
+
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/canva_slides/4-2_built_environments_conditions/2.png" alt="" style="object-fit: scale-down">
+
+
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Consistency: The Second Pillar
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Residential instability is a form of chronic stress with measurable health consequences.<!-- .element: class="feature" -->
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/covid_homelessness.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**26%** of households below the poverty line move each year (vs. <12% above 150% of poverty line)
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Moves disrupt social networks, health care routines, and children's schooling
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Evictions cause psychological trauma and constrain future housing options
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Natural disasters increasingly displace families, especially low-income households
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Transiency increases the risk of exposure to environmental hazards and the spread of infectious diseases *(see left)*.
+
+</div>
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Figure Source: Benfer EA, Vlahov D, Long MY, et al. Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy. _J Urban Health_. 2021;98(1):1-12. doi:[10.1007/s11524-020-00502-1](https://doi.org/10.1007/s11524-020-00502-1)
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This pillar connects to the broader theme of environmental justice. Displacement is not random—it follows patterns of race and class.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Pediatric Health Benefits of Stable, Affordable Housing
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Children in households that received vouchers for stable housing had lower rates of injury, asthma exacerbations, and victimization by crime. More recent research has corroborated the health benefits of stable housing.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/pediatric_asthma_stability.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Higher earnings and improved economic outcomes
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Fewer school absences for illness
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Fewer injuries
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Fewer asthma exacerbations *(shown in figure)*
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Improved mental health among children and caregivers
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Improved physical and mental health in children with medical complexity
+
+</div>
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: 
+Leifheit KM, Mobley TM, Murosko D, Lugo N, Sandel M. Housing and health: Evidence to act now to improve the health of children and families. _Academic Pediatrics_. Published online September 4, 2026:103424. doi:[10.1016/j.acap.2026.103424](https://doi.org/10.1016/j.acap.2026.103424)
+
+Boudreaux M, Fenelon A, Slopen N, Newman SJ. Association of Childhood Asthma With Federal Rental Assistance. _JAMA Pediatr._ 2020;174(6):592–598. doi:10.1001/jamapediatrics.2019.6242
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Figure: Adjusted Percentage Point Differences in Past-Year Asthma-Related Emergency Department Visits for Children Experiencing an Asthma Attack Until Entry Into a US Department of Housing and Urban Development Program.
+    - No discernable trend in ED use in the years before entry. 
+    - However, after HUD entry, ED use was consistently lower among current HUD participants by 10 to 18 percentage points, and the association was larger after at least 2 years of participation. 
+    - Only the point estimate for 3 or more years of participation was statistically significant (−18.0 percentage points; 95% CI, −34.5 to −1.0 percentage points). 
+    - <strong>The shape of the coefficients suggests that differences in ED use were not associated with preexisting trends leading to HUD entry.</strong></p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Pediatric Health Impacts of Housing Instability
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Housing instability arising from unaffordability—including severe housing cost burden, eviction, and foreclosure - is associated with a variety of poor health outcomes for children and their caregivers.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/child_homelessness_us_2014.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Physical Health<!-- .element: class="divider" -->
+- Chronic diseases
+- Arthropod infestations
+- Communicable diseases (respiratory and GI)
+- Limited access to healthcare and health resources
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Mental Health<!-- .element: class="divider" -->
+- Mental illness
+- Substance use disorders
+- Self-injury and suicide attempts (esp. LGBTQ+ YEH).
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Source: 
+Leifheit KM, Mobley TM, Murosko D, Lugo N, Sandel M. Housing and health: Evidence to act now to improve the health of children and families. _Academic Pediatrics_. Published online September 4, 2026:103424. doi:[10.1016/j.acap.2026.103424](https://doi.org/10.1016/j.acap.2026.103424)
+
+Bassuk EL, DeCandia CJ, Beach CA, Berman F. _America’s Youngest Outcasts: A Report Card on Child Homelessness_. American Institutes for Research: The National Center on Family Homelessness; 2014:130.
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>YEH = unaccompanied youth and young adults (ages 12–24) experiencing homelessness</p>
+<p>FEH = families experiencing homelessness with minor-aged children.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Pediatric Health Impacts of Housing Instability
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Food insecurity and poor nutrition impact children’s ability to learn, grow, and thrive. Youth and adults experiencing homelessness have poor sexual health outcomes. Frequent housing disruptions can pose significant challenges to sustaining positive learning and stimulating environments.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/child_homelessness_us_2014.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Nutrition<!-- .element: class="divider" -->
+- Childhood obesity associated with FEH.
+- Food insecurity and hunger.
+- Iron-deficiency anemia.
+- Disordered eating associated with YEH.
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Reproductive Health<!-- .element: class="divider" -->
+- Sexually transmitted infections
+- Unplanned pregnancies
+- Low birth weight
+- Higher odds of requiring NICU-level care
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Educational Outcomes<!-- .element: class="divider" -->
+- Developmental delays, learning disabilities, and behavior problems
+- Higher odds of repeating a grade
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>YEH = unaccompanied youth and young adults (ages 12–24) experiencing homelessness</p>
+<p>FEH = families experiencing homelessness with minor-aged children.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 90%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+
+
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/canva_slides/4-2_built_environments_conditions/2.png" alt="" style="object-fit: scale-down">
+
+
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Conditions: The Third Pillar
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Older, deteriorating homes may present multiple overlapping exposures, and they cluster in low-income neighborhoods.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/2023_AHS-Housing Qualities_Final.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Structural Issues<!-- .element: class="divider" -->
+- Poor thermal comfort
+- Water leaks and flooding
+- Sagging roofs and cracked walls
+</div>
+
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Biological Hazards<!-- .element: class="divider" -->
+- Rodent infestations and rodent-borne diseases
+- Cockroach allergens triggering asthma
+- Mold and moisture-related illness
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list fragment" -->
+Environmental Contaminants<!-- .element: class="divider" -->
+- Lead in paint, dust, soil, and water
+- Asbestos in insulation and tiles
+- Flame retardants in furniture and carpets
+- Formaldehyde in building materials
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This is where the Nsilo Berry podcast becomes relevant—these are the &quot;hidden toxics&quot; he discusses. Emphasize that poor housing conditions are not evenly distributed; they cluster in low-income neighborhoods.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Lead Poisoning: A Case Study in Housing Hazards
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Lead-based paint was common in homes built before 1978. As paint deteriorates, it creates dust and chips that children ingest or inhale.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/lead-poisoning-effects-diagram-scaled.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Health Effects in Children<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Reduced IQ and attention span
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Behavioral changes and increased antisocial behavior
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Anemia, hypertension, and kidney damage
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Immunotoxicity and reproductive harm
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->At high exposures: coma, convulsions, death
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Why Children Are Vulnerable<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Absorb 4–5 times more lead than adults from the same dose
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Hand-to-mouth behavior increases ingestion risk
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Malnourished children absorb even more lead
+- &shy;<!-- .element: class="fragment" data-fragment-index="9" -->Lead stored in bones can be released during pregnancy, exposing the fetus
+</div>
+
+
+
+Lead poisoning is preventable, yet it persists in low-income housing because remediation is expensive and landlords lack incentive to invest.<!-- .element: class="feature fragment" -->
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Lead is a concrete example of how housing conditions directly harm development. It also illustrates environmental justice—lead exposure is not random; it follows patterns of segregation and disinvestment.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Pests and Disease: Rodents and Cockroaches
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Pest infestations are not a sign of poor housekeeping—they are a sign of poor housing. **Structural defects and neighborhood conditions drive infestations.**
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/how-many-american-homes-have-pests-figure-5.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Cockroaches<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**3.9X more likely** in homes with sagging roofs
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Associated with cracked walls, broken windows, and water leaks
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Shed skin and feces contain allergens that trigger asthma
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Carry bacteria (salmonella, staph, strep) that contaminate food
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Rodents<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->**5.6X more likely** in homes with walls that slope, lean, or buckle
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Associated with proximity to trash and abandoned buildings
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Transmit hantavirus, rat-bite fever, tularemia, and enteric pathogens
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Transmission occurs through inhalation of aerosolized feces, urine, or saliva
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><ul>
+<li>Households with median income ~$69,000: weekly roach sightings common</li>
+<li>Households with median income &#126;$35,800: daily roach sightings common</li>
+</ul>
+<p>This connects to &quot;The Urban Jungle&quot; film—Bobby Corrigan&#39;s work on rats in New York shows how urban design, trash management, and housing quality all intersect. The income disparities are key: pests are not equally distributed.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Rodent Pests
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/UlIj0pwqroM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Total Length: 4:23</strong></p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Rodent Pests
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/JiNPbuP8a2k?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Total Length: 4:23</strong></p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Invertebrate Pests
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/xbW0dUfKOkk?si=3GAW0lp_SndlHRHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Total Length: 17:50</strong></p>
+<ul>
+<li>Dust mites @ 0:14</li>
+<li>Bed bugs @ 3:24</li>
+<li>Termites @ 7:19</li>
+<li>Drain flies @ 10:42</li>
+<li>Cockroaches @ 14:26</li>
+</ul>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Building Healthy Housing: The Healthy Building Network
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Manufacturers add chemicals to products to make them last longer on shelves—often at the cost of human health.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/Health-Impacts-and-Building-Material-Connections.jpg" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Common Toxic Materials<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Flame retardants in furniture and carpets
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Formaldehyde in drywall and insulation
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->PVC in pipes and flooring (releases phthalates)
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Persistent bioaccumulative toxics (PBTs) that don't break down
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Health Impacts<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Carcinogens and developmental toxics
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Asthma and respiratory disease
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Endocrine disruption
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Chronic exposure in homes and workplaces
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+The Equity Problem<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="9" -->Affordable housing is often built with legacy materials and poor construction
+- &shy;<!-- .element: class="fragment" data-fragment-index="10" -->Wealthy neighborhoods have newer, greener homes
+- &shy;<!-- .element: class="fragment" data-fragment-index="11" -->Low-income residents bear the burden of toxic exposure
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+<div class="block">
+
+Based on Nsilo Berry's work with the Healthy Building Network and the "Agents of Change in Environmental Justice" podcast.
+
+</div>
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This is where the Nsilo Berry podcast becomes central. He discusses how low-income housing is systematically saddled with worse materials and how this perpetuates health disparities.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Solutions: Healthy Materials & Sustainable Construction
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Healthy building is about systemic change in how we design, build, and maintain housing.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/lets-work-together-for-housing-conditions.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Research & Transparency<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Analyze safety data sheets and product declarations
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Maintain Pharos database of chemicals and hazards
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Rank materials on a "stoplight system" (green = safest, red = avoid)
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Demonstration Projects<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Work with architects and developers on low-income housing
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Show that healthy materials are feasible within budget constraints
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Build proof of concept for scaling
+</div>
+
+
+</div>
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Policy & Advocacy<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Partner with grassroots organizations and community groups
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Push for legislation requiring healthy materials in affordable housing
+- &shy;<!-- .element: class="fragment" data-fragment-index="9" -->Shift burden from residents to builders and manufacturers
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Key Principle: Start Early<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="10" -->It is cheaper and easier to use healthy materials during construction
+- &shy;<!-- .element: class="fragment" data-fragment-index="11" -->Retrofitting is expensive and disruptive
+- &shy;<!-- .element: class="fragment" data-fragment-index="12" -->Starting with good habits is more sustainable than correcting bad ones
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Nsilo Berry emphasizes that you have to meet people where they are. Don&#39;t pile solutions on communities already overwhelmed by housing instability. Work with them to identify priorities and build momentum.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 90%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+
+
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/canva_slides/4-2_built_environments_conditions/2.png" alt="" style="object-fit: scale-down">
+
+
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Context: The Fourth Pillar
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Even a well-maintained house cannot ensure health if the surrounding neighborhood lacks resources.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/healthy_cities.jpg" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Transportation & Access<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Reliable public transit enables access to health care and employment
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Walkable streets reduce car dependence and increase physical activity
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Environmental Hazards<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Proximity to highways, industrial sites, and waste facilities increases pollution exposure
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Superfund sites and contaminated soil pose ongoing risks
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Social Resources<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Neighborhood cohesion and "eyes on the street" increase safety
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Access to quality schools, libraries, and community services
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+A healthy home in an unhealthy neighborhood cannot protect residents. Context is inseparable from conditions.<!-- .element: class="feature" -->
+
+</div>
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This pillar connects to the urban design and walkability content from the archived lectures. It also sets up the next section on how cities can be designed to support health.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Neighborhood Walkability, Weight, and Diabetes
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/v0FzuypF6bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+The 9 Dimensions of Walkable Neighborhoods
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+**Streets designed for cars** prioritize speed and throughput over safety and connection. **Streets designed for people** encourage walking, cycling, and social interaction.
+
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<img src="4_System/40_Exports/ENVN4320/attachments/servlet.png" alt="" style="object-fit: scale-down">
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->**Connectivity**: Well-linked streets reduce travel distances
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->**Diversity of Land-Use**: Mixed residential, commercial, and recreational spaces
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->**Density**: Sufficient population to support transit and local services
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->**Destination Accessibility**: Everyday amenities within walking distance
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->**Parking**: Limited parking encourages walking for short trips
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->**Streets**: Narrow streets and traffic calming naturally slow vehicles
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->**Hills**: Topography affects walkability (flatter is easier)
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->**Aesthetics**: Engaging streetscapes with public art and clean sidewalks
+- &shy;<!-- .element: class="fragment" data-fragment-index="9" -->**Safety**: Natural surveillance and low crime increase comfort
+</div>
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This connects to the &quot;Curbing Urban Sprawl&quot; podcast—compact, connected cities have better health outcomes than sprawling suburbs. Use this to transition to solutions.</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+How Can Walkable Cities Become the Norm?
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/wz3OZajk2A0?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+[The Atlas of Sustainable City Transport](https://atlas.itdp.org/)
+</div>
+
+ 
+</div> 
+
+<div class="has-light-background" style="background-color: #ffffffBF; padding: 20px; box-sizing: border-box; position: absolute; left: 1%; top: 7%; height: 80%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: space-around" align="center">
+ 
+<!-- .element: class="fit-image" -->
+<div class="block">
+
+<iframe width=900 height=550 src="https://atlas.itdp.org/"></iframe>
+</div>
+
+
+4_dimensions_housing.jpg<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+ 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Traffic Calming & Pedestrian Safety
+
+</div>
+
+ 
+</div> 
+
+
+<div class="text-row" style="position: absolute; left: 1%; top: 6%; height: 10%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+All US pedestrian fatalities 2001–2019 show clustering in urban areas and along major roads. Vehicle speed is the primary determinant of injury severity.
+</div>
+
+
+
+
+</div>
+
+<div class="has-light-background stretch-row flex-even" style="background-color: #ffffffBF; padding: 1px 1px 1px 5px; box-sizing: border-box; position: absolute; left: 1%; top: 15%; height: 68%; width: 98%; display: flex; flex-direction: row; align-items: start; justify-content: start" align="stretch">
+
+
+<div class="block">
+
+<iframe title="U.S. Pedestrian Fatalities per 100,000 Population, 2025" aria-label="Choropleth map" id="datawrapper-chart-OuHAH" src="https://datawrapper.dwcdn.net/OuHAH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="447" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();__SCRIPT_END__
+
+</div>
+
+<!-- .element: class="fit-image" -->
+
+
+
+
+
+
+
+
+
+
+
+<div class="block">
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Speed Reduction<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="1" -->Narrower streets naturally slow traffic
+- &shy;<!-- .element: class="fragment" data-fragment-index="2" -->Speed bumps and roundabouts reduce vehicle speed
+- &shy;<!-- .element: class="fragment" data-fragment-index="3" -->Lower speeds = lower injury severity and fatality risk
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Road Diets<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="4" -->Narrower streets naturally slow traffic
+- &shy;<!-- .element: class="fragment" data-fragment-index="5" -->Reduce number of lanes or lane width
+- &shy;<!-- .element: class="fragment" data-fragment-index="6" -->Reallocate space to pedestrians and cyclists
+- &shy;<!-- .element: class="fragment" data-fragment-index="7" -->Decrease vehicle speeds and collision risk
+</div>
+
+
+
+<div class="block">
+
+<!-- .element: class="divider-list" -->
+Design Elements<!-- .element: class="divider" -->
+- &shy;<!-- .element: class="fragment" data-fragment-index="8" -->Curb extensions and bulbouts
+- &shy;<!-- .element: class="fragment" data-fragment-index="9" -->Raised crosswalks
+- &shy;<!-- .element: class="fragment" data-fragment-index="10" -->Median islands and refuge areas
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</div> 
+
+<div class="source" style="position: absolute; left: 1%; top: 85%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: end" >
+
+
+
+
+</div>
+
+<div class="fragment" style="padding: 1px 20px; box-sizing: border-box; position: absolute; left: 1%; top: 77%; height: 3%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Pedestrian safety is not about individual behavior—it is about street design that prioritizes human life over vehicle throughput.<!-- .element:  -->
+
+</div>
+
+
+
+
+</div>
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This is a concrete example of how infrastructure design affects health. It also connects to environmental justice—pedestrian fatalities are not evenly distributed across neighborhoods.</p>
+<p>alternative iframe: <iframe title="U.S. Pedestrian Fatalities per 100,000 Population, 2025" aria-label="Choropleth map" id="datawrapper-chart-OuHAH" src="https://datawrapper.dwcdn.net/OuHAH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="447" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(<code>message</code>,function(e){if(e.data[<code>datawrapper-height</code>]!==void 0){var t=document.querySelectorAll(<code>iframe</code>);for(var n in e.data[<code>datawrapper-height</code>])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[<code>datawrapper-height</code>][n]+<code>px</code>;i.style.height=a}}})}e()})();__SCRIPT_END__</p>
+<iframe title="U.S. Pedestrian Fatalities, 2019-2025" aria-label="Column Chart" id="datawrapper-chart-OgQoA" src="https://datawrapper.dwcdn.net/OgQoA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="444" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();__SCRIPT_END__</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+America's deadliest road, explained
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/0-nthHT-J1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Zoning Matters How Land-Use Policies Shape Our Lives
+</div>
+
+ 
+</div> 
+
+<div class="" style="position: absolute; left: 1%; top: 7%; height: 85%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+<div class="block">
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/aLMsI92crZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+
+<!-- .element: class="caption-box" -->
+
+</div> 
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><div class="slide-image" style="position: absolute; left: 0%; top: 0%; height: 90%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+
+
+
+<img src="2_Areas/24_Teaching/ENVN4320_Human_Health_the_Environment/canva_slides/4-2_built_environments_conditions/2.png" alt="" style="object-fit: scale-down">
+
+
+
+<!-- .element: class="fit-image" --> 
+
+</div> 
+
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-comment-dots"></i> Discuss
+</div> 
+
+<div class="question-box" style="position: absolute; left: 3%; top: 8%; height: 40%; width: 60%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<i class="fa-solid fa-question fa-2xl" style="color: #000;"></i>
+
+<div class="block">
+
+**Think about your own neighborhood or a neighborhood you know well. Which of the Four Pillars of Healthy Housing is most challenged in that area? What would it take to strengthen that pillar?**
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>Use this to pause for discussion. Have students think about real places and real constraints. This grounds the abstract framework in lived experience.</p>
+</aside></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/reveal-pointer/pointer.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealPointer,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>

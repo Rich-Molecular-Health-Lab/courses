@@ -17,6 +17,8 @@ listing:
 
 **Dates:** 2026-09-03T16:00:00
 
+<a class='btn btn-outline-primary p-3 m-2' href='slides/Introduction to One Health/index.html'>Introduction to One Health <i class='fa-solid fa-link'></i></a>
+
 ## Optional Material (Dive Deeper)
 
 ### Podcasts
@@ -37,7 +39,7 @@ listing:
 
 [Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
 
-PFAS are a large class of chemicals that have been used since the late 1930s. What makes them particularly hazardous is that they are persistent and difficult to break down. That means all the PFAS that have even been created still exist today. In the first episode of this ten-part series, we learned the history of how PFAS was created.  In episode two, we get a better understanding of just how dangerous PFAS chemicals are and how a series of lawsuits brought these health hazards to light. Guests featured in this episode: - Arlene Blum, ⁠⁠Green Science Policy Institute ⁠⁠ - Mike Schade, ⁠⁠Toxic Free Future⁠⁠ - Stefan Posner, ⁠⁠textile and polymer chemist⁠⁠ - Scott Wilson, ⁠⁠Regenesis Environmental Remediation⁠⁠ - James Pollock, ⁠⁠Marten Law LLP⁠ - Philippe Grandjean, ⁠environmental epidemiologist⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠Toxicfreefuture.org⁠⁠  ⁠⁠Foodandwaterwatch.org ⁠⁠ Or  ⁠⁠Pfascentral.org ⁠⁠ INSTAGRAM: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠https://gofund.me/77aac225 ⁠----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to ⁠⁠snaplincconsulting.com⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ------------------------- Sources Belisle, John. 1978. Central Analytical Laboratory Report 6867. Contributed by Sharon Lerner (The Intercept). Retrieved from ⁠⁠https://www.documentcloud.org/documents/4575547-1978-PFOS-monkey-study⁠⁠ Environmental Working Group. (n.d.). For Decades, Polluters Knew PFAS Chemicals Were Dangerous But Hid Risks From Public. Retrieved from ⁠⁠https://www.ewg.org/research/decades-polluters-knew-pfas-chemicals-were-dangerous-hid-risks-public⁠⁠ Minnesota Pollution Control Agency. (n.d.). Industrial wastewater treatment technology. Retrieved from ⁠⁠https://www.pca.state.mn.us/sites/default/files/gp3-06.pdf⁠⁠ The Intercept. (2015, August 11). The Teflon Toxin: DuPont and the Chemistry of Deception. Retrieved from ⁠https://theintercept.com/2015/08/11/dupont-chemistry-deception/⁠ Toxic-Free Future. (n.d.). Breast Milk Study. Retrieved from ⁠https://toxicfreefuture.org/research/breast-milk-study/
+PFAS are a large class of chemicals that have been used since the late 1930s. What makes them particularly hazardous is that they are persistent and difficult to break down. That means all the PFAS that have even been created still exist today. In the first episode of this ten-part series, we learned the history of how PFAS was created.  In episode two, we get a better understanding of just how dangerous PFAS chemicals are and how a series of lawsuits brought these health hazards to light. Guests featured in this episode: - Arlene Blum, ⁠⁠Green Science Policy Institute ⁠⁠ - Mike Schade, ⁠⁠Toxic Free Future⁠⁠ - Stefan Posner, ⁠⁠textile and polymer chemist⁠⁠ - Scott Wilson, ⁠⁠Regenesis Environmental Remediation⁠⁠ - James Pollock, ⁠⁠Marten Law LLP⁠ - Philippe Grandjean, ⁠environmental epidemiologist⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠Toxicfreefuture.org⁠⁠  ⁠⁠Foodandwaterwatch.org ⁠⁠ Or  ⁠⁠Pfascentral.org ⁠⁠ INSTAGRAM: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠https://gofund.me/77aac225 ⁠— Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to ⁠⁠snaplincconsulting.com⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. — Sources Belisle, John. 1978. Central Analytical Laboratory Report 6867. Contributed by Sharon Lerner (The Intercept). Retrieved from ⁠⁠https://www.documentcloud.org/documents/4575547-1978-PFOS-monkey-study⁠⁠ Environmental Working Group. (n.d.). For Decades, Polluters Knew PFAS Chemicals Were Dangerous But Hid Risks From Public. Retrieved from ⁠⁠https://www.ewg.org/research/decades-polluters-knew-pfas-chemicals-were-dangerous-hid-risks-public⁠⁠ Minnesota Pollution Control Agency. (n.d.). Industrial wastewater treatment technology. Retrieved from ⁠⁠https://www.pca.state.mn.us/sites/default/files/gp3-06.pdf⁠⁠ The Intercept. (2015, August 11). The Teflon Toxin: DuPont and the Chemistry of Deception. Retrieved from ⁠https://theintercept.com/2015/08/11/dupont-chemistry-deception/⁠ Toxic-Free Future. (n.d.). Breast Milk Study. Retrieved from ⁠https://toxicfreefuture.org/research/breast-milk-study/
 
 :::
 
@@ -3249,7 +3251,7 @@ As their name suggests, “forever chemicals” have extraordinary staying power
 
 [Open Series in Spotify](https://open.spotify.com/show/7nuI23pumd9p60u9DA3JWT)
 
-Throughout this ten-part series, scientists, lawyers, advocates, and product producers all weighed in on our worldwide PFAS problem. While, yes, we have come a long way in understanding the scope of the issue and began moving away from PFAS, at least in the outdoor industry, many questions still remain.  One of the primary questions is, what should we do with all the old PFAS already in the environment?  Guests featured in this episode: - Scott Wilson, Regenesis  - Philippe Grandjean, Environmental Epidemiologist  - Matthew Eshed, Research Fellow  - Stefan Posner, Polymer and Textile Chemist  - Kevin Myette, ⁠⁠⁠⁠⁠⁠⁠⁠Bluesign⁠⁠⁠⁠⁠⁠⁠⁠  - Greg Breitmaier, Mystery Ranch  - Alex Lauver, ⁠⁠⁠⁠Outdoor Research⁠⁠⁠ - Regina Goller, ⁠⁠⁠Jack Wolfskin⁠⁠ - Ammi Borenstein, ⁠⁠⁠⁠⁠Snaplinc Consulting⁠⁠⁠⁠ - Mike Schade,⁠⁠⁠⁠⁠ ⁠Toxic Free Future⁠⁠⁠⁠⁠⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠⁠⁠⁠⁠Toxicfreefuture.org⁠⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠⁠⁠⁠⁠ Or  ⁠⁠⁠⁠⁠⁠⁠Pfascentral.org ⁠⁠⁠⁠⁠⁠⁠ INSTAGRAM:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠⁠⁠⁠https://gofund.me/77aac225⁠⁠⁠⁠⁠ ----------------------- Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠⁠⁠⁠⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠⁠⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. ----------------------- Episode Resources Safer States: https://www.saferstates.org/priorities/pfas/ EPA Drinking Water Standards: https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas CERCLA: https://www.epa.gov/system/files/documents/2024-04/pfas-enforcement-discretion-settlement-policy-cercla.pdf
+Throughout this ten-part series, scientists, lawyers, advocates, and product producers all weighed in on our worldwide PFAS problem. While, yes, we have come a long way in understanding the scope of the issue and began moving away from PFAS, at least in the outdoor industry, many questions still remain.  One of the primary questions is, what should we do with all the old PFAS already in the environment?  Guests featured in this episode: - Scott Wilson, Regenesis  - Philippe Grandjean, Environmental Epidemiologist  - Matthew Eshed, Research Fellow  - Stefan Posner, Polymer and Textile Chemist  - Kevin Myette, ⁠⁠⁠⁠⁠⁠⁠⁠Bluesign⁠⁠⁠⁠⁠⁠⁠⁠  - Greg Breitmaier, Mystery Ranch  - Alex Lauver, ⁠⁠⁠⁠Outdoor Research⁠⁠⁠ - Regina Goller, ⁠⁠⁠Jack Wolfskin⁠⁠ - Ammi Borenstein, ⁠⁠⁠⁠⁠Snaplinc Consulting⁠⁠⁠⁠ - Mike Schade,⁠⁠⁠⁠⁠ ⁠Toxic Free Future⁠⁠⁠⁠⁠⁠ If you want to learn more about what PFAS are, where they are found, the proven health effects, how you can limit your exposure, up to date news on PFAS, and how to get involved in PFAS regulatory efforts visit  ⁠⁠⁠⁠⁠⁠⁠Toxicfreefuture.org⁠⁠⁠⁠⁠⁠⁠  ⁠⁠⁠⁠⁠⁠⁠Foodandwaterwatch.org ⁠⁠⁠⁠⁠⁠⁠ Or  ⁠⁠⁠⁠⁠⁠⁠Pfascentral.org ⁠⁠⁠⁠⁠⁠⁠ INSTAGRAM:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.instagram.com/outdoor.minimalist.book/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ WEBSITE:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.theoutdoorminimalist.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ YOUTUBE:⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/@theoutdoorminimalist⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Fund the Forever Chemicals 10-Part Podcast⁠: ⁠⁠⁠⁠⁠https://gofund.me/77aac225⁠⁠⁠⁠⁠ — Snaplinc Consulting provided expert fact checking and guidance for the creation of this podcast. Snaplinc Consulting provides corporate sustainability strategies and ESG support across a broad range of industries including apparel, footwear, home furnishings, software, cosmetics, professional services and more. Head to⁠⁠⁠⁠⁠ ⁠⁠snaplincconsulting.com⁠⁠⁠⁠⁠⁠⁠ to learn more and contact the experts to guide you through complex topics like CSRD, PFAS, greenhouse gas assessments, SBTi, CDP, EcoVadis, B Corp and many more compliance and certification frameworks. — Episode Resources Safer States: https://www.saferstates.org/priorities/pfas/ EPA Drinking Water Standards: https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas CERCLA: https://www.epa.gov/system/files/documents/2024-04/pfas-enforcement-discretion-settlement-policy-cercla.pdf
 
 :::
 
@@ -3637,6 +3639,66 @@ The phenomenon of zoonotic spillover — of viruses jumping from animals to peop
 
 ### Video Clips
 
+#### 'Nutty' situation in Lincoln Park  WGN Investigates
+
+**WGN News**, *09 29, 2026*
+
+##### Video (4:23)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/JiNPbuP8a2k?start=32 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The piles of nuts first began appearing outside a Lincoln Park home a few years ago, attracting a swarm of squirrels. Since then, workers carrying matching shoulder bags have been spotted dumping piles of nuts a few blocks away in the park, and no one can figure out why. WGN's Ben Bradley has the full story.
+
+##### Transcript
+
+**0:07** · MICAH MATERRE: WGN INVESTIGATES SOMETHING IS HAPPENING IN LINCOLN PARK. RESIDENTS REACH OUT TO INVESTIGATIVE REPORTER BEN BRADLEY FOR HELP AFTER CITY FINDS FAILED TO SOLVE A SQUIRRELLY SITUATION.
+
+**0:22** · I WAS WALKING AROUND THE PARK AND I KNOW DOZENS OF POLLS AROUND TREES AND THEN I STARTED SEEING MORE AND MORE HOLES AROUND DIFFERENT TREES.
+
+**0:28** · WHEN HERE THERE'S A DOZEN HOLES AROUND THE STREET HERE.
+
+**0:31** · AND THEN A FEW MONTHS AGO, I WENT FOR A WALK AT DUSK AND WITHIN 15 MINUTES I COUNTED 42 RATS RUNNING AROUND.
+
+**0:41** · YEAH, AS YOU CAN SEE, I MEAN, THERE'S A TON OF RAT BURROWS HERE THAT EVEN PIKE WAS SO STUNNED BY THE SWARM OF RATS IN LINCOLN PARK. HE TOOK THIS VIDEO. OTHER NEIGHBORS NOTICED YOU KNOW, YOU SEE SOME RATS IN THE ALLEY AND STUFF RIGHT NEAR THE TRASH. AND THAT'S AGAIN, COME TO BE EXPECTED. BUT THIS WAS DIFFERENT. CAN SEE HERE IS A RAT TRAIL. IT WASN'T UNTIL RECENTLY THAT THEY REALIZED HOW DIFFERENT THIS ALI IS.
+
+**1:07** · BUT I JUST GRABBED THE PEOPLE OF THIS GETS INTO THE STRANGER THAN FICTION ASPECT OF IT. IT'S LIKE A A LOT OF NICE KNOTS. I'M TALKING BRAZIL, NOT AND I WAS LOOKING AND I KNOW, YOU KNOW, ARBORIST, BUT THESE DO NOT COME FROM THE STREET. THESE ARE NOT ACORNS. YOU CAN SEE ALL THE SCATTERED KNOTS AROUND.
+
+**1:28** · YOU SEE THOSE NUTS AREN'T FALLING FROM TREES. THEY APPEAR TO BE IMPORTED.
+
+**1:34** · JI SUK YI: AND WHILE THEIR PILES BIZARRE, EXPENSIVE, NOT EVERYWHERE IN OUR PARK.
+
+**1:39** · NO ONE COULD CRACK THE NUT OF AN EXPLANATION UNTIL ONE MORNING THIS YEAR WHEN CAROLINE NOVAK WAS OUT FOR A WALK.
+
+**1:45** · AND I ACTUALLY SAW A HANDFUL OF THEM. I THINK IT WAS 5 WALKING EARLY IN THE MORNING OF THE SAME SHOULDER BAG. AND SO I JUST SAID, HEY, WHAT ARE YOU GUYS DOING?
+
+**1:52** · BECAUSE THEY WERE THROWING THE KNOT.
+
+**1:53** · SHE'S NOT THE ONLY ONE WHO WITNESSED IT. I NOTICE SOMEONE WITH A SATCHEL AND JUST THOUGHT IT WAS SOMEONE OUT THERE FEEDING SQUIRRELS.
+
+**2:04** · JI SUK YI: SO I WALKED UP AND I, YOU KNOW, JUST HAD HAND. I WAS JUST CURIOUS WHAT YOU GUYS ARE DOING WIRE 3 AND HE'S NOT GOING TO THESE TREES. AND SHE SAID WERE ALLOWED TO DO THIS. AND I SAID, OH, YEAH, I WAS JUST CURIOUS WHY YOU WERE DOING IT. SHE SAID WE'RE NOT FEELING THE WRATH UNPROMPTED. I DIDN'T EVEN BRING UP. SHE SAID WE'RE NOT PAYING HULL, OK? WELL. I THINK YOU INADVERTENTLY ARE.
+
+**2:26** · THEY AND OTHER NEIGHBORS COMPLAINED TO THE CITY WHICH DETERMINE TO A NEARBY HOMEOWNER WAS LEAVING NOTTS OUTSIDE THEIR OWN HOUSE ATTRACTING NOT ONLY SQUIRRELS, BUT THEY'RE RODENT COUSINS, RATS. THE NEIGHBORS SUSPECTED THE CREW LEAVING THE NUTS A FEW BLOCKS AWAY IN THE PARK ARE DOING SO AT THE DIRECTION OF THE HOMEOWNER.
+
+**2:45** · JOSH FRYDMAN: EVEN DOUBT WITH IT. BUT WE'VE NEVER DEALT WITH A SITUATION WHERE IT'S LIKE FEED FOR HIRE FOR BETTER OR LACK OF THE TERM WHERE SOMEONE'S PAYING SEVERAL EMPLOYEES TO FEED THE ANIMALS IN THE SURROUNDING AREA.
+
+**2:59** · BEN BRADLEY: THE ALDERMAN SAID THE CITY CONTACTED THE HOMEOWNER AND EVEN ISSUED MULTIPLE VIOLATIONS, WHICH HE SAYS HAVE BEEN PAID AND NOT CONTESTED.
+
+**3:06** · TYPICALLY WHEN YOU TICKET SOMEBODY, IT STOPS THEIR BAD BEHAVIOR. THIS IS NOT STOPPED IT. IF ANYTHING, THE BEHAVIOR IS INCREASE, THE FEEDING INCREASED SINCE WE'VE TICKETING THAT.
+
+**3:20** · LAST MONTH THE ALDERMAN'S OFFICE SENT THIS LETTER WARNING THAT MORE FINES COULD BE COMING IF THEY DON'T KNOCK IT OFF WITH A KNOTS. WE DON'T WANT TO THROW ANYONE UNDER THE BUS. WE JUST WANT TO STOP THIS FEEDING THAT'S CAUSING PROBLEMS IN A DENSE NEIGHBORHOOD.
+
+**3:34** · BEN BRADLEY: ALDERMAN KNUDTSON SAID HE ISN'T SURE HOW THIS WILL END OR EVEN WHY IT STARTED. WE WANTED TO KNOW OURSELVES. SO WE PAID THE HOME OF VISIT AND ENCOUNTERED A WOMAN WHO WOULD NOT GIVE HER NAME.
+
+**3:45** · I'M JUST TRYING BETTER UNDERSTAND LIKE WHY ARE ALL THESE KNOTS BEEN GATHERED UP?
+
+**3:47** · WHY ARE THEY BEING DISTRIBUTED IN LINCOLN PARK? I REALLY HAVE NO COMMENT FOR HIM. SORRY.
+
+**3:50** · I'D SAY MY GOAL IS TO GET RID OF THE RATS. I MEAN, I WANT TO FEEL COMFORTABLE HAVING MY KIDS PLAY IN THE PARK TOGETHER RIGHT NOW. IT'S AN ALL YOU CAN EAT BUFFET FOR THE RATS AND SQUIRRELS. MY BEN BRADLEY: NEIGHBORS SAY THEY HAVE NO PROBLEM WITH THE PROVERBIAL OLD MAN FEEDS PIGEONS IN THE PARK. BUT THEY SAY THIS. HE'S GOTTEN SO STRANGE.
+
+**4:10** · THEY'D LAUGH IF IT WEREN'T FOR ALL THE RATS AND DAMAGE IN THE PARK AFTER THE CITY ISSUED A FINAL WARNING LATE LAST MONTH, WE DID SEE A WORKER'S SWEEPING UP OUTSIDE THE PA RK THE HOU
+
 #### A Mother’s Asthma-friendly Housing Story
 
 **American Lung Association**, *12 11, 2014*
@@ -3650,166 +3712,6 @@ The phenomenon of zoonotic spillover — of viruses jumping from animals to peop
 Smoking in multi-unit housing poses serious health threats to children and adults even if no one smokes in their home. In multi-unit housing like apartment buildings and condominiums, secondhand smoke from one unit can move into other units. Smoking in multi-unit housing can also lead to fires, which can have deadly consequences. The videos below feature stories from residents, firemen, and public health advocates who have worked to make multi-unit housing properties smokefree.
 
 ##### Transcript
-
-#### A public housing project where healthy living is the foundation
-
-**PBS NewsHour**, *07 07, 2017*
-
-##### Video (6:29)
-
-<iframe width="560" height="315" src=https://www.youtube.com/embed/iXT_KYahGzQ?start=21 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-##### Description
-
-In downtown Denver, a recently built public housing project is designed to foster healthy living, with access to nutritious food, access to doctors and ease of exercise and public transportation. Jeffrey Brown reports.
-
-##### Transcript
-
-**0:00** · JUDY WOODRUFF: But first: an experiment in rethinking public housing that encourages healthier living by changing the larger environment for residents.
-
-**0:09** · Jeffrey Brown reports from Denver.
-
-**0:12** · JEFFREY BROWN: At age 71, Noel Taylor says she's become more active and health-conscious than ever before.
-
-**0:19** · NOEL TAYLOR, Denver: Every year, I improve my diet, I improve my exercise.
-
-**0:25** · JEFFREY BROWN: Her change in behavior didn't happen by accident.
-
-**0:28** · Four years ago, here in downtown Denver, Taylor joined an experiment in making healthy living part of the design and daily life of a public housing project.
-
-**0:38** · Among the amenities here, access to a garden plot.
-
-**0:42** · NOEL TAYLOR: I noticed, all summer long, I was getting healthier.
-
-**0:45** · The more of my own vegetables I was eating, the more energy I had.
-
-**0:51** · It's made a huge difference.
-
-**0:52** · JEFFREY BROWN: So, this sounds all too good to be true.
-
-**0:54** · NOEL TAYLOR: I know.
-
-**0:56** · (LAUGHTER) JEFFREY BROWN: And there's more.
-
-**0:58** · The Denver Botanic Gardens hosts a farmers market giving away free produce to residents.
-
-**1:03** · WOMAN: We're going to talk about how to shop healthy on a budget.
-
-**1:06** · JEFFREY BROWN: Another group offers classes on healthy recipes and shopping.
-
-**1:10** · MAN: Now we will take your blood pressure.
-
-**1:12** · JEFFREY BROWN: In a clinic on the ground floor of one building, public health physicians schedule regular visits to do routine checkups.
-
-**1:19** · There's a light rail stop, both for easy transportation and to get residents out of their cars.
-
-**1:25** · MAN: Do the other side now.
-
-**1:27** · JEFFREY BROWN: Plus, bike rentals and a nearby shop to teach kids how to maintain their bikes.
-
-**1:33** · Even the architecture and public art was designed to encourage residents to get outside and take a walk.
-
-**1:40** · ISMAEL GUERRERO, Director, Denver Housing Authority: We really wanted this to look like a neighborhood, not a development.
-
-**1:43** · JEFFREY BROWN: Ismael Guerrero, director of the Denver Housing Authority, says that, 10 years ago, this was a high-crime neighborhood, with 250 units of rundown public housing.
-
-**1:55** · Something had to be done.
-
-**1:56** · ISMAEL GUERRERO: What we learned in early conversations with residents in particular was, they didn't just want a new unit to move into.
-
-**2:04** · They wanted a better quality of life.
-
-**2:05** · So we really started expanding our perspective on what we were trying to accomplish here.
-
-**2:10** · JEFFREY BROWN: The result completed earlier this summer is the Mariposa development, a mixture of 800 apartments and town homes, one-third public housing, a third subsidized, and a third rented at market value.
-
-**2:24** · The overall cost was $150 million; $60 million came from federal, state and local government programs, with the rest coming through private investment.
-
-**2:34** · Already, Mariposa is becoming a model for rethinking public housing.
-
-**2:39** · ISMAEL GUERRERO: Part of it is physical health, and part of it is what we call neighborhood health.
-
-**2:45** · Right?
-
-**2:46** · How healthy is the place?
-
-**2:47** · Is it safe?
-
-**2:48** · Are there healthy activities for you to do?
-
-**2:50** · Is there healthy food in the neighborhood for you to go and eat?
-
-**2:53** · Is there a healthy economy where people can get jobs and start a business?
-
-**2:56** · JEFFREY BROWN: The Osage Cafe, located in one of the apartment buildings, is designed to meet some of those needs.
-
-**3:04** · In addition to the food, it provides culinary training and internships for young people in the neighborhood, like 20-year-old Israel Trejo.
-
-**3:12** · ISRAEL TREJO, Denver: And I think that's where I discovered I had a passion for cooking.
-
-**3:15** · JEFFREY BROWN: What did it give you?
-
-**3:16** · ISRAEL TREJO: It gave me the entire world, basically.
-
-**3:19** · Like, with the skills that I have learned now, I could go anywhere.
-
-**3:23** · I could go be anything.
-
-**3:24** · JEFFREY BROWN: Trejo now has a job at one of Denver's top restaurants, and plans to operate his own food truck soon.
-
-**3:30** · ANGELA RODRIGUEZ, Denver: Are you looking forward to helping me grow some fruits and vegetables?
-
-**3:36** · JEFFREY BROWN: Angela Rodriguez, a single mother of two teens, dreams of one day buying her own home.
-
-**3:42** · She has a full-time job at a nearby community college, but Denver's booming housing market makes ownership difficult.
-
-**3:50** · She lives in a subsidized town home at Mariposa, which she says is very different from the old-style projects she grew up in nearby.
-
-**3:57** · ANGELA RODRIGUEZ: As a new style of public housing, it did take me a little bit of time for the adjustment.
-
-**4:03** · When new tenants are mingling with other tenants that come from different walks of life, it's helping us to develop into new perspectives of modern living.
-
-**4:13** · JEFFREY BROWN: Rodriguez uses public transportation, has taken up gardening, and has fully embraced the culture of health that is promoted here.
-
-**4:22** · But is Mariposa working?
-
-**4:24** · It's too early for definitive answers.
-
-**4:27** · According to a 2015 study by the Denver Public Health Department, about half the residents had participated in health-related activities over the previous three years.
-
-**4:38** · But the study also showed the amount of exercise residents pursued had changed little.
-
-**4:43** · Just over a third said they exercised five times a week.
-
-**4:47** · About the same amount said they exercised one to four times a week, and 26 percent said they rarely or never exercised.
-
-**4:55** · Smoking rates decreased, but only slightly, from 30 percent of residents down to 24 percent.
-
-**5:01** · And these so-called active staircases, designed with a bit of whimsy...
-
-**5:05** · ISMAEL GUERRERO: It's a way to engage kids, and actually now the adults enjoy it.
-
-**5:09** · JEFFREY BROWN: ... to lure residents away from using the elevator.
-
-**5:12** · Well, so far, they're not having a big impact.
-
-**5:15** · THERESA MICKIEWICZ, Denver Public Health: We actually did observational counts, where we sat there and we counted people who used the stairs vs. people who used the elevator, and we compared it against a control staircase in the Mariposa redevelopment, and we found absolutely no difference.
-
-**5:32** · JEFFREY BROWN: Theresa Mickiewicz, an epidemiologist with Denver Public Health, is overseeing a study of the development.
-
-**5:38** · And while major improvements in health remain to be seen, she believes something important is happening here, and she expects the numbers to reflect that soon.
-
-**5:47** · THERESA MICKIEWICZ: While maintaining my objectivity as an evaluator, do I think that there is value in this type of project?
-
-**5:55** · I would say yes.
-
-**5:57** · Individually, these components have been shown in the evidence, in literature, to improve health outcomes.
-
-**6:04** · JEFFREY BROWN: The city of Denver is so confident in this new model, it's about to embark on a similar development that will be three times larger than Mariposa.
-
-**6:13** · That construction is expected to begin later next year.
-
-**6:17** · For the "PBS NewsHour," I'm Jeffrey Brown, reporting from Denver.
 
 #### America Made Its Most Toxic Lake. Now We Need What's Inside
 
@@ -4005,6 +3907,137 @@ Instagram:  https://instagram.com/pbsterra
 
 **15:04** · PBS is celebrating by releasing a ton of great new episodes across all of our channels, diving deep into our amazing planet, like the latest episode of Nine PBS's "What Do I Do with This?", "Disc Junkies." This video explores how we consume media today. A super fun topic after a superfund video. You know, insert rim shot. All right, links to that video and the full Earth Month playlist are down in the description. (gentle music)
 
+#### City Hall's plans to put out new trash bins may impact street parking
+
+**Eyewitness News ABC7NY**, *04 17, 2026*
+
+##### Video (2:52)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/8llwWGE7w5g title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Darla Miles has the latest on the new trash bins in New York City.
+
+https://abc7ny.com/post/containerized-trash-expand-6-new-districts-york-city/18905826/
+
+Check out more Eyewitness News - http://abc7ny.com/
+
+
+Find us on social media:
+
+FACEBOOK: https://www.facebook.com/ABC7NY/
+
+INSTAGRAM: https://www.instagram.com/abc7ny/
+
+TWITTER: https://twitter.com/abc7ny
+
+TIKTOK: https://www.tiktok.com/@abc7ny
+
+
+We’re abc7NY, also known as Channel 7 and WABC-TV on TV, home to Eyewitness News, New York’s Number 1 news. We hope you love us on YouTube as much as you do on television!
+
+
+NEW TIPS:
+
+Online: http://abc7ny.com/submit-a-news-tip/2599968/
+
+Email: abc7ny@abc.com
+
+
+About WABC-TV: https://abc7ny.com/about/
+
+
+
+
+##### Transcript
+
+**0:06** · BEANS WILL SOON BE HITTING THE STREETS OF NEW YORK CITY AS PART OF THE ADMINISTRATION'S PUSH TO KEEP BAGS OF TRASH OFF THE SIDEWALKS.
+
+**0:13** · BUT THESE BINS TAKE UP SPACE, ESPECIALLY PARKING SPOTS IN A CITY WHERE PARKING SPOTS ARE ALREADY HARD TO COME BY. EYEWITNESS NEWS REPORTER DARLA MILES IS LIVE THIS AFTERNOON IN CROWN HEIGHTS, WHERE THE MAYOR SPOKE JUST A SHORT TIME AGO.
+
+**0:26** · DARLA.
+
+**0:28** · THAT'S THAT'S RIGHT. SANDRA AND DAVID, WE KNOW THAT THERE IS A DIRECT CORRELATION TO TRASH TRASH CONTAINERIZATION, NOT JUST WITH THE REDUCTION OF PARKING SPACES, BUT THE BIG THING HERE IS ITS IMPACT ON THE RAT POPULATION. AND THE NUMBERS DO NOT LIE. THERE WAS A 25% DECREASE IN 311 RAT SIGHTINGS WHEN THIS PROGRAM WAS IMPLEMENTED IN WEST HARLEM.
+
+**0:50** · NOW, THIS MORNING HERE IN CROWN HEIGHTS, MAYOR MAMDANI AND NEW SANITATION COMMISSIONER GREGORY ANDERSON ANNOUNCED NEW FUNDING AND A PLAN TO CONTINUE THE IMPLEMENTATION OF CITYWIDE TRASH CONTAINERIZATION THAT STARTED BACK IN 2023. THIS IS A LOOK AT WHAT THEY CALL EMPIRE BINS THAT ARE BEING PHASED IN AT LOW DENSITY APARTMENT BUILDINGS. NOW, UNLIKE THE PHASE WHERE FOOD RELATED BUSINESSES, THESE ARE BEING PROVIDED TO PROPERTY OWNERS BY THE CITY AT NO COST TO THEM.
+
+**1:22** · AND MAYOR MAMDANI THIS MORNING SAYS HE HAS ALLOCATED $15 MILLION TO LEASE THESE BINS AND STAFFING RELATED COSTS, AS WELL AS ANOTHER $35 MILLION IN CAPITAL IN THE CAPITAL GAINS BUDGET, IN THE CAPITAL BUDGET. RATHER, TO PURCHASE THOSE SANITATION TRUCKS THAT ARE SPECIALLY DESIGNED TO LIFT THESE BINS.
+
+**1:47** · WE HAVE ABOUT. YOU CAN CORRECT ME IF I'M WRONG HERE, 70% OF TRASH IN NEW YORK CITY IS CONTAINERIZED AT THIS POINT. THIS IS ADDRESSING THE REMAINING 30%. THESE ARE THE LARGER SCALE RESIDENTIAL BUILDINGS THAT RIGHT NOW ARE PUTTING THEIR TRASH OUT IN BAGS.
+
+**2:04** · AND AS GROWING UP IN NEW YORK CITY, WE'VE BECOME ACCUSTOMED TO THIS. BUT I THINK, FRANKLY, THERE'S TOO MUCH IN OUR POLITICS THAT WE EXCEPTIONAL SAYING THAT THIS IS JUST HOW IT IS IN NEW YORK CITY. IT DOESN'T HAVE TO BE THIS WAY. WE LOOK AT CITIES ACROSS THE WORLD. THIS IS NOT HOW THEY LIVE.
+
+**2:19** · NOW LET'S ■TAKE A LOOK AT WHERE THESE EMPIRE BINS WILL BE DISTRIBUTED. FIRST, THEY'RE GOING TO BE THREE NEIGHBORHOODS IN BROOKLYN. YOU SEE HERE, THE SIX NEIGHBORHOODS IN THE BRONX.
+
+**2:29** · THERE ARE FIVE NEIGHBORHOODS IN MANHATTAN, THREE IN QUEENS AND THE NORTH SHORE OF STATEN ISLAND. NOW, AGAIN, THIS APPLIES TO LOW DENSITY APARTMENT BUILDINGS WITH 30 OR MORE UNITS AND MAY IMPACT SOME APARTMENT BUILDINGS WITH 10 TO 30 UNITS. BUT THE PLAN, THE GOAL HERE IS TO KICK THIS TRASH BAGS OFF THE CURB AND ALL RESIDENTIAL BUILDINGS BY 2031.
+
+#### Creating Climate-Resilient Communities through Vacant Lot Restoration
+
+**National Wildlife**, *06 29, 2021*
+
+##### Video (5:36)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nmXnBi5Q5K8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Over the last two years, National Wildlife Federation piloted a project with the Pennsylvania Horticultural Society’s Philadelphia LandCare program to transform a network of vacant lots into climate-resilient wildlife habitat.  We wanted to explore how cities with vacant lots can restore these sites to provide pollinator habitat, green stormwater infrastructure, equitable access to nearby nature, and create economic/job training opportunities.
+
+Learn more:
+1) https://www.nwf.org/Magazines/National-Wildlife/2021/April-May/Conservation/Lot-Revival
+2) https://blog.nwf.org/2021/02/vacant-lots-to-pollinator-habitat-in-philadelphia-pa/
+
+##### Transcript
+
+###### Transforming communities
+
+**0:00** · I mean, for me, it's inspirational and it gives me hope in seeing investment from the city, from nonprofits, from community members transforming lots that are public health hazards and eyesores, and dangerous, and turning them into usable, safe, beautiful green spaces.
+
+**0:25** · Yeah, I love it.
+
+**0:27** · It It's making a difference. It's making an impact in people's lives.
+
+###### The land care program
+
+**0:34** · The city of Philadelphia is a post-industrial city, and so we have a lot of vacant lots in the city. And unfortunately, most of them, whether they're privately owned or city-owned, don't have the capacity to maintain them.
+
+**0:47** · And so they grow heavy weeds, and, you know, people dump their trash on there, and there's debris, and it's just It's an eyesore. It's not something that people deserve to live by.
+
+**0:58** · So that's where we at PHS come in. We have our Philadelphia Land Care program, where we completely clean and green these vacant lots, so that you know, what was formerly a terrible eyesore is now a community asset, which people can use, and people can enjoy, and they feel safer around.
+
+**1:17** · Through this project, we're trying to change the narrative behind vacant lots, and switching it from a detriment and a negative to a community asset, and realizing that we have all this open, accessible land, and that it could serve as easy and equitable access to nature and to green space in urban environments, but it can also provide ecological habitat as well.
+
+###### Greening and infrastructure
+
+**1:42** · We've noticed the soil quality has improved, which helps with drainage. And we In Philadelphia, have a lot of of stormwater management issues when it rains heavily.
+
+**1:52** · PHS, their Land Care program, they'll stabilize a lot, and they'll bring in sod, and they'll plant some trees, but we are taking this awesome program to the next level, and we're installing pollinator gardens, um which serve as habitat for birds, bees, and butterflies, and all sorts of critters. These gardens are able to absorb more runoff and stormwater, preventing overflows in sewers. So we're really hoping that not only can we provide habitat, but we can provide water quality benefits as well.
+
+**2:21** · Some of our our lots, we collaborate with the Mural Arts program, which they paint these beautiful murals. And then, the National Wildlife Federation, in collaboration with the a local university, they found that it has a positive impact on the climate, as well.
+
+###### Art and wildlife impact
+
+**2:36** · So when we have the the clean lawn, the mural, and then the added texture and and beauty from the gardens, it really creates such a beautiful space for the community.
+
+###### Local economic impact
+
+**2:49** · We're also working with 12,000 lots, which is a lot. You can't manage that much through a volunteer basis. So we found it actually to be much more sustainable by hiring local contractors or working with community organizations to maintain the lot itself. And what's great is that we actively search to work with local landscape contractors to help build their capacity. And they hire community members from the neighborhoods that we're that we're working in.
+
+**3:18** · And so really, you know, we're investing a lot of dollars to clean these lots, but that money's going right back into the neighborhoods, helping to create jobs, and then it it helps kind of build ownership, as well.
+
+###### Personal perspective
+
+**3:32** · When you get up in the morning, you know, just taking your kids to daycare, school, you want your community to look right. You don't want to come out, see trash everywhere, or just a mess. I'm only like 30 days, if that, in, but it's giving me a different perspective on like everything, far as beautifying your neighborhood. Even though it's a job, when you go back home and you see like a lot on your block when you're not at work, you're going to probably want to do something to it, like, why we can't just make every block and every street in the city look good? Landscaping gave me a a different outlook about life.
+
+**4:06** · What landscaping really is not just like weed whacking, cleaning, it's a whole lot of other aspects that go into it to try to help brighten and raise awareness in different communities. I wanted a contractor to really give me like an opportunity that I never had. I'm here to just get the experience, you know, listen, observe, pay attention to details.
+
+**4:27** · You know, there's a lot of lots that need work, and if you can get a lot of positive people and people to work with you, clean the lots up, it's a mess in the beginning, but when you step back and look at it with, you know, all the heart for the community, um it'll weigh much more nice for the neighborhood.
+
+###### Future expansion goals
+
+**4:45** · We would really love to see vacant lot restoration at scale throughout the Mid-Atlantic, and so we are really using this project and this opportunity to learn as much as we can about what has worked and what hasn't, so that we can really bring this to other cities and make it a stronger priority.
+
 #### Housing and Health
 
 **Northern California Public Media**, *07 31, 2017*
@@ -4028,6 +4061,748 @@ KRCB North Bay Public Media and the Sonoma County Department of Health Services 
 **1:26** · is using the emergency room as their primary care home we have a real problem and the cost-saving measure is for the health care system to invest in housing because when we have somebody we know that within the first 90 days their dependence on the emergency rooms decreases by over 50% there is a clear relationship between good housing and good health housing along with all the
 
 **1:50** · stability that provides greatly impacts somebody's ability to live a long productive healthy life you
+
+#### How FIVE BILLION Pounds of Las Vegas Garbage Powers a City
+
+**PBS Terra**, *04 20, 2021*
+
+##### Video (9:14)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/aHzltu6Tvl8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+
+Celebrate Earth Day with our friends at PBS: https://bit.ly/3elpV1w
+
+Head over to Reactions to find out more about how they're celebrating Earth Day, and tell them Joe sent you! https://youtu.be/I1YLPfSuNXY
+
+Most of the 600 billion pounds of waste that Americans produce every year ends up in landfills. All that trash can have huge impacts on the environment. But modern landfills have found a new use for all that trash — they’re turning it into energy. In spite of their reputation as “dumps,” these landfills are feats of engineering, more akin to construction sites. 
+
+One of North America’s biggest landfills lies on the outskirts of Las Vegas. The Apex Landfill is not only one of the country’s largest, it’s also one of the busiest. Because it serves a non-stop city, the landfill must operate 24 hours a day, 7 days a week, 365 days a year. It receives upwards of 16 million pounds of trash per day or 5 billion pounds per year.  
+
+Landfills like Apex are required to deal with the toxic chemicals they produce, like methane, a greenhouse gas that’s 84 times more potent than carbon dioxide. At Apex, they capture that methane and turn it into energy that powers 11,000 homes in southern Nevada. 
+
+Subscribe to PBS Terra! - https://bit.ly/3mOfd77
+
+**********************************************
+Hosted by Joe Hanson from It's Okay to be Smart, Overview uses incredible 4k drone footage to reveal the natural phenomena shaping our planet from a 10,000-foot view—literally.
+
+##### Transcript
+
+###### Intro
+
+
+**0:02** · [Host Joe Hanson] Americans produce 4.9 pounds of waste per person per day. That's nearly 600 billion pounds per year.
+
+**0:11** · Where does it all go?
+
+**0:13** · It goes to places like this. The mountains of trash we throw away can have huge impacts on our environment and climate.
+
+**0:23** · But what if I told you that all of this waste could one day power a city?
+
+**0:29** · [synth music] ♪ [Joe] Welcome to Las Vegas, the place for glitz, glam, gambling and garbage. Three main categories of waste are solid waste, recyclables, and food waste. And here in the neon city, we're going to explore the ways they're turning each of these trash types into treasure. Las Vegas produces more than five billion pounds of waste per year, and all that trash ends up here. The Apex Landfill lies in the mountains beyond the city.
+
+###### Apex Landfill
+
+**1:12** · At 1900 acres, it's one of the largest landfills in North America, and also one of the busiest. Apex is one of the only landfills in North America that runs 24 hours a day, seven days a week, 365 days a year. As many as 250 trucks enter the landfill each day and deliver up to 16 million pounds of waste. It used to be a place like this was called a dump, and that's exactly what they were.
+
+**1:46** · trash dumped in piles with little regard for sanitation. As trash decays, it produces methane, a powerful greenhouse gas. The dumps of yesteryear all but ignored this, as well as other environmental problems. But today's landfills are feats of engineering. They are long-term storehouses for society's garbage and places where we manage its potential hazards.
+
+**2:14** · [David Vossmer]: It would be comparable to a construction site, where you're building homes in a neighborhood. We would envision an entire city being built basically as a landfill.
+
+**2:26** · [Joe]: David Vossmer has been working in the solid waste industry for 42 years and oversees operations at Apex.
+
+###### Working Phase
+
+
+**2:33** · [David]: The working face is the active area of the landfill, usually anywhere from two to three acres in size.
+
+**2:41** · [Joe]: Each truck that dumps its load carries about 30 tons of garbage. Compactors then take that trash, spread it across the working face, and mash it down.
+
+**2:57** · [David]: Each one of those machines is about 120 to 130,000 pounds. There's a lot of weight that will smash all the cardboard boxes or trash or any other material that comes in. It'll lay it down in a nice, even layer. That's what the landfill business is trying to do, get as much compacted waste into that area or that acre that we can. That's what extends the life of the landfill.
+
+**3:24** · [Joe]: As more and more trash comes in, the landfill grows in height.
+
+**3:29** · [David]: It's just like building a pyramid. The wider the base, the higher we can go with the trash here in the landfill.
+
+**3:36** · [Joe]: In some areas, the local landfill is the highest point in the region. Here in Vegas, this mountain of trash is 500 feet high and rising taller by the day. In spite of the enormous volume of garbage coming in, the landfill will be able to take in trash for another 300 plus years.
+
+**3:57** · How is that possible?
+
+**4:01** · Not only is the site large, but it's also growing. A mining company on site digs out the surrounding mountains. In the process, it expands the landfill's footprint and the space it has to operate. But the best way to keep a landfill from filling up is to waste less. Las Vegas boasts the largest residential recycling center in North America. The state-of-the-art facility takes in up to 1.8 million pounds of recyclables per day.
+
+###### Recycling
+
+**4:32** · Because Las Vegas uses single stream recycling, all the sorting happens here. These recyclables will get conveyed through a complex system of sorting machines.
+
+**4:45** · [Jeremy Walters]: We have some very unique pieces of equipment, things that do just simple mechanical separation through disks and screens, but we also have computerized machines that are physically reading the material based on its color and density. It's very smart, and it's very quick. After a machine initially separates material, people quality control what the machine did.
+
+**5:10** · They're physically looking at the material to ensure that the machine sorted correctly and there are no contaminants within that final product.
+
+**5:19** · [Joe]: A new challenge confronting recycling centers like this is the Amazon effect. Facilities around the country are being inundated with cardboard from online retailers. Here at this facility, they've had to recalibrate their machines and processes just to handle the deluge. While 1.8 million pounds of daily recyclables might sound like a lot, it's still just a fraction of the overall waste that gets created each day.
+
+**5:49** · Food is another thing that inundates the waste stream and doesn't belong in a landfill. Las Vegas is renowned buffets produce a lot of it. But here in Sin City, they've found an innovative solution. It's not just people who pig out on buffets. The residents of the Las Vegas Livestock Farm enjoy it too. The farm sits on Apex property, but is family-owned.
+
+**6:17** · [Hank Combs]: Hog farming in Nevada is not very popular, because of the access to feed. We've circumvented that by doing the food scrap route, which is a very sustainable way to raise our hogs.
+
+**6:28** · [Joe]: They take in up to 40,000 pounds per day of the casinos' food waste. Everything from lobster to ice cream gets processed in giant cookers to make it safe for the hogs to eat. This fragrant stew won't make the menu in any casino, but it's irresistible to these hogs.
+
+###### Food Waste
+
+**6:48** · I mean, yummy.
+
+**6:50** · [Hank]: They're a lot like a human, so they love their sweets and their meat and the potatoes. They're not too big on salads. They won't eat anything. They're picky.
+
+**7:00** · [Joe]: It's not just food waste that's finding a second life in Vegas. The garbage is too. In the U.S., landfills like this account for nearly 20% of the human-caused methane emissions. Some landfills capture and burn it. But here at Apex, and at a growing number of landfills around the country, they're turning it into energy. 160 wells have been drilled into this mountain of trash, some as deep as 200 feet.
+
+**7:31** · The wells siphon off the gas coming from landfill. After it's purified, it's sent to an onsite power plant where it's burned to spin turbines, which create energy. That energy is fed back into the electric grid and powers 11,000 homes here in Southern Nevada. The total amount of energy produced annually by U.S. landfills powers the equivalent of more than 1 million homes.
+
+**7:56** · [Jeremy]: We're actually able to take something that is always going to exist in a landfill, and turn it into something that the community can benefit from. Most people go day to day without thinking about the trash or the recyclables that they make. It's just a simple toss it in the bin and forget about it.
+
+**8:10** · And there's so much involved behind the scenes to make sure that we are handling all those materials in the most environmentally responsible way.
+
+**8:20** · [David]: Not everything in our world is recyclable. And as long as society throws things away, we're one of the things that take care of making sure it's done the right way.
+
+**8:33** · [Joe]: Hey guys, our PBS friends across YouTube are celebrating Earth Day with us. Follow me over to Reactions to find out why catalytic converters are being stolen from cars worldwide, and what this weird mystery has to do with the health of our environment. Tell them Joe sent you.
+
+**8:51** · And one more thing, for those of you in the U.S., you should check out "Greta Thunberg: A Year to Change the World," a new three-hour Earth Day broadcast event on your local PBS station. The special is going to premiere on Thursday, April 22nd at 8:00 pm, 7:00 pm Central, and will then repeat starting Wednesday, April 28th at 8:00 pm, 7:00 pm Central.
+
+**9:10** · See you then.
+
+#### How is Taiwan beating everyone at plastics recycling
+
+**DW Planet A**, *12 26, 2025*
+
+##### Video (10:20)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/-YnYwWiSiuE title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Taiwan used to be flooded with trash – but the country is now one of the top plastics recyclers in the world. How did they do it?  
+
+Planet A reycling taiwan 
+
+Credits: 
+
+Reporter: Beina Xu 
+
+Camera: Kaley Emerson, Shaundie Hsu, Norman Pan 
+
+Video Editor: Frederik Willmann 
+
+Supervising Editor: Adam Baheej Adada 
+
+Fact Check: Kirsten Funck 
+
+Thumbnail: Em Chabridon 
+
+Read more: 
+
+Supporting a circular economy: Insights from Taiwan's plastic waste sector and lessons for developing countries 
+
+https://www.sciencedirect.com/science/article/pii/S235255092031349X  
+
+Taiwan’s Transition – from Garbage Island to Recycling Leader 
+
+https://rapidtransition.org/stories/taiwans-transition-from-garbage-island-to-recycling-leader/ 
+
+Analysis of plastic waste reduction and recycling in Taiwan 
+
+https://journals.sagepub.com/doi/abs/10.1177/0734242X21996821 
+
+Management strategy of plastic wastes in Taiwan
+
+https://link.springer.com/article/10.1186/s42834-022-00123-0  
+
+Time series analysis of the effects of refuse collection on recycling: Taiwan’s “Keep Trash Off the Ground” measure 
+
+https://www.sciencedirect.com/science/article/abs/pii/S0956053X07000694  
+
+Chapters: 
+
+00:00 Intro 
+
+00:43 Trash in Taipei 
+
+02:09 On the recycling fleet 
+
+03:12 What about AI arms? 
+
+07:24 Pellet magic 
+
+08:32 The bigger picture
+
+We're destroying our environment at an alarming rate. But it doesn't need to be this way. Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means. We look at the big and the small: What we can do and how the system needs to change. We'll take a truly global look at how to get us out of this mess.
+
+Follow Planet A on TikTok: https://www.tiktok.com/@dw_planeta
+
+##### Transcript
+
+###### Intro
+
+**0:00** · How did a country that used to look like this – now have one of the best recycling systems in the world?
+
+**0:06** · If you want a glimpse of what the future of plastic recycling looks like, this might be it.
+
+**0:12** · Each little robot is sifting through 55 pieces of garbage per minute – and it's not humans running the machine here.
+
+**0:18** · It's AI.
+
+**0:20** · But Taiwan is also a huge plastics consumer and manufacturer – just head to a night market, or walk around...
+
+**0:27** · anywhere.
+
+**0:28** · "We're a poster child of that plastic pollution."
+
+**0:32** · The country is no longer swamped with trash like it was in the 90s, so it's obviously doing some things right.
+
+**0:38** · We went to Taipei to see for ourselves just how it's done.
+
+**0:42** · And within hours of being there, I discovered that something pretty important was missing.
+
+###### Trash in Taipei
+
+**0:47** · "So I just had my little snack, and look how much waste I already produced."
+
+**0:51** · But I couldn't find any public trash bins to put it in."
+
+**0:54** · "There aren't any trash bins on the street?"
+
+**0:57** · Turns out the city removed thousands of them about a decade ago.
+
+**1:00** · Why?
+
+**1:01** · Because in Taiwan, you have to pay for any waste that can't be recycled.
+
+**1:05** · The whole point is to make people responsible for minimizing the amount of trash that goes into incinerators.
+
+**1:10** · Everyone holds on to their own garbage, and these iconic cars come around to pick it up five days a week.
+
+**1:15** · It's a whole Taipei ritual.
+
+**1:17** · This way, people can't cheat and throw their private waste in public bins to avoid the fees.
+
+**1:22** · And they're not shy about getting shame involved.
+
+**1:37** · It's a pretty intense recycling culture that places a lot of the burden on individuals.
+
+**1:42** · But it's part of the policy structure that has gotten Taiwan in the top ranking in Asia for its waste recovery rate in last year's Environmental Performance Index.
+
+**1:50** · Although...
+
+**1:51** · it also has its flaws.
+
+**2:01** · But I wondered what happens after this supposedly recyclable trash gets picked up...
+
+**2:06** · so what did I do?
+
+**2:07** · Got on one of these myself, of course.
+
+###### On the recycling fleet
+
+**2:09** · "Ready, go!"
+
+**2:11** · These trucks belong to a private company, Da Fon, just one of the many businesses the government works with to collect, sort, and regenerate waste.
+
+**2:21** · "Not a lot of traffic, weather's really nice."
+
+**2:24** · These companies get subsidies from a centralized Recycling Management Fund.
+
+**2:28** · Their pay is guaranteed, so even if global plastic prices drop, recyclers are protected.
+
+**2:35** · "Smelling...
+
+**2:36** · It's starting to smell a little bit.
+
+**2:38** · So this is the stuff we're going to pick up, this is all residential plastic waste."
+
+**2:43** · This centralized, national fund that directly subsidizes recycling is what sets Taiwan apart from other countries.
+
+**2:49** · Who pays into this recycling fund?
+
+**2:51** · Producers and importers, so the policy also keeps manufacturers responsible for their plastic footprint from the get-go.
+
+**2:57** · "Oh my god it stinks.
+
+**2:59** · So much milk!"
+
+**3:01** · And it makes it easy and profitable for businesses to get into the recycling game.
+
+**3:05** · "Recycling is great, but I am getting heat stroke!"
+
+###### What about AI arms?
+
+**3:12** · To cool off, we went to another plant to hang out with some special robots, who have one of the most important jobs in the industry.
+
+**3:21** · "Hello!"
+
+**3:22** · "Hi!"
+
+**3:23** · "Welcome!"
+
+**3:23** · "Beina. Nice to meet you."
+
+**3:25** · " I'm Sandy!
+
+**3:26** · Welcome to our AI sorting robotic center!"
+
+**3:34** · "What are these toys here, what's going on?"
+
+**3:36** · "This is kind of like a little trinket they do 'cause toys cannot be recycled, actually."
+
+**3:40** · "Wait why can't they be recycled?"
+
+**3:42** · "So for example this, there's cushion inside, it's cotton, you cannot recycle cotton."
+
+**3:48** · "Okay, good to know.
+
+**3:49** · Toys."
+
+**3:49** · "And it's just cute, too!"
+
+**3:53** · "Save me!"
+
+**3:55** · The plant processes 40-50 tons of household recyclables every day.
+
+**4:00** · The AI sorting arms identify 17 types, from plastics and metals to paper.
+
+**4:26** · "Alright."
+
+**4:31** · "Okay, wow, hello arm."
+
+**5:11** · This facility handles recyclables from five cities around Taipei.
+
+**5:15** · And while AI improves sorting efficiency, one of its biggest flaws is that robot arms aren't as agile as human hands.
+
+**5:23** · So, we still need real people, in the end.
+
+**5:45** · ...which is exactly what happened next.
+
+**6:02** · "Don't stuff your trash bags too tight, guys.
+
+**6:06** · Jams the machine."
+
+**6:13** · "Okay I've been holding onto all of my trash.
+
+**6:16** · Can I just throw this out here?"
+
+**6:18** · "Let me see the trash first."
+
+**6:20** · "I have onigiri, destroyed...
+
+**6:27** · doujiang (soy) bottle..."
+
+**6:29** · "PET, all good. This one is good, but all these flexible little ones, these are going to be treated as trash.
+
+**6:38** · "You can just throw it overboard."
+
+**6:40** · "Bye."
+
+**6:43** · Roughly 95% of what's here is able to be recycled, so relatively little has to go to incinerators.
+
+**6:49** · "So basically this is the plastic that's been sorted.
+
+**6:52** · And then this will go into another sorting facility that sorts out specifically milk bottle for HDPE, and PP will be lunch boxes."
+
+**7:02** · "There's a flyaway wok..."
+
+**7:04** · "Wait what, where?"
+
+**7:07** · "This wok is just like..."
+
+**7:09** · "It just fell, I think."
+
+**7:11** · "Random casualties."
+
+**7:14** · "These are all woks!
+
+**7:16** · "These are all woks!"
+
+**7:17** · "Oh my god."
+
+**7:18** · You guys want a free wok?"
+
+**7:20** · "Yeah. Let's take a free wok.
+
+**7:21** · I'm taking a free wok."
+
+###### Pellet magic
+
+**7:24** · The effort to AI upgrade everything isn't just for the sorting facility – Da Fon also wants to bring it to its regeneration plant, which is where all the good plastic goes to get a chance at a second chance at life: this time as pellets.
+
+**7:37** · And it's a family affair.
+
+**7:39** · This is Da Fon's CEO, Matt Lin, who is...
+
+**7:41** · Sandy's dad.
+
+**7:45** · This is where the bales of sorted plastic are cut, washed and dried.
+
+**7:52** · In recycling, purity of material is the most important factor, so this stage is crucial.
+
+**7:57** · Then, they're molded into pellets.
+
+**8:00** · This plant employs only 50 or so people, but the AI takeover isn't far in the future.
+
+###### The bigger picture
+
+**8:32** · So how good is Taiwan at plastics recycling?
+
+**8:35** · A study showed that roughly 80% of imported and recycled plastic were used to make either finished products or pellets for export.
+
+**8:41** · Its recycling industry is larger than its domestic waste supply, so it actually imports plastic to be processed.
+
+**8:48** · But some say the metrics and good PR can be misleading.
+
+**8:53** · "Recycling means the material is being collected responsibly somehow, and then it's responsibly...
+
+**9:00** · burned."
+
+**9:02** · Arthur Huang is the CEO of Miniwiz, a Taiwanese company that converts waste materials into architectural fixtures.
+
+**9:08** · "Most people call that downcycling.
+
+**9:09** · And I call that actually just putting the particle into smaller particles into the air."
+
+**9:15** · Taiwan actually has one of the highest densities of waste incinerators in the world.
+
+**9:20** · And that's where most of the flimsier plastics like bags and straw wrappers have to be burned, since their quality is too low for recycling.
+
+**9:27** · Even if cities nail plastics recycling, there's another big pile to deal with.
+
+**9:41** · Good news is industrial waste is also cleaner and there is a lot of it.
+
+**9:45** · Taiwan has a lot of big industry, in particular semiconductors and petrochemicals.
+
+**9:50** · So there is big potential for reuse there.
+
+**9:53** · That industry is exactly what makes its recycling infrastructure work – the country already has the industrial base to handle the manufacturing processes needed in recycling, at scale.
+
+**10:04** · "What's the recycling system like where you live?
+
+**10:07** · Tell us in the comments below.
+
+**10:08** · And don't forget to click like, and subscribe.
+
+**10:10** · See you next time."
+
+#### Inside NYC's hidden RV communities
+
+**The News Movement**, *09 09, 2026*
+
+##### Video (8:40)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/wxnRwkajIVY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+New York City is the most expensive place to rent in the United States, and some working class residents have come up with their own creative solution to the housing crunch: living out of RVs in quiet, industrial corners of the city.
+
+The News Movement’s Dan Ming drove around the five boroughs, knocking on motorhome doors and meeting the people who make up NYC’s hidden network of RV dwellers.
+
+
+
+0:00 - Who is living in RVs in NYC?
+
+0:41 - NYC’s housing & homelessness crisis
+
+2:02 - Legal risks of living in RVs
+
+2:56 - Rent-free living for NYC’s working class
+
+3:44 - An alternative to unaffordable rent 
+
+4:27 - NYC’s homeless shelters vs. RVs
+
+5:16 - Why asylum seekers are living in RVs
+
+7:09 - Accessing affordable housing
+
+##### Transcript
+
+###### Who is living in RVs in NYC?
+
+**0:00** · Three people live in here? Yes.
+
+**0:01** · Wow. Can you talk a little bit about the rising cost of living in New York City?
+
+**0:05** · Oh, forget about it.
+
+**0:06** · The rich are getting richer and the poor are getting poorer.
+
+**0:08** · I had to come to the RV because I couldn't afford to pay rent.
+
+**0:11** · So I was driving in an industrial zone in the Bronx one day, and I noticed this whole row of RVs that looked like they had people living in them.
+
+**0:21** · It was this little RV community right in the middle of New York City, one of the most expensive cities in the world.
+
+**0:32** · Who were the people living in these RVs?
+
+**0:34** · What do their lives look like? And why do they do it?
+
+**0:36** · A lot of people did want to talk to me about their lives, and some even agreed to go on camera.
+
+###### NYC’s housing & homelessness crisis
+
+**0:42** · Hey, Nate.
+
+**0:43** · Hey, Dan, how are you?
+
+**0:45** · Good to see you.
+
+**0:46** · Good to see you, too.
+
+**0:47** · Nate Wilson is a 58 year old Bronx native.
+
+**0:50** · He and his wife split their time between a city run homeless shelter and this RV parked alongside an interstate.
+
+**0:57** · So we use battery operated fans to stay cool.
+
+**1:02** · The bathroom area is here.
+
+**1:03** · We don't use that because we don't have the hose in order to dump from the toilet.
+
+**1:07** · So what we use is we use a bucket and then turn the pump on.
+
+**1:11** · Unfortunately, I can't use my radio, the refrigerator, the microwave, and the TV because somebody stole my battery.
+
+**1:20** · I’ve been living in an RV now, I would say, for maybe six months.
+
+**1:25** · I lost my job, unfortunately, after 19 years.
+
+**1:28** · Me and my wife made the decision after we tried to get employment and couldn't find employment, that the best thing to do would be to have a roof over our head was to get the RV.
+
+**1:37** · I go around the RV and make sure that all of the jacks are tight and stable, because with the cars that come by here, you can feel a nice wobble.
+
+**1:46** · The challenge is finding a place where you could have your RV and not have to worry about law enforcement coming at you, but I see that being by interstates and being around where tractor trailer drivers usually park to rest, you have no problems.
+
+###### Legal risks of living in RVs
+
+**2:02** · RV living in New York City comes with risks though.
+
+**2:05** · The city limits how long motorhomes can be parked on the street.
+
+**2:09** · Just 24 hours in some cases.
+
+**2:11** · And while enforcement is limited, the NYPD occasionally cracks down, towing away entire RV encampments.
+
+**2:20** · It's just heartbreaking.
+
+**2:21** · You know what I'm saying?
+
+**2:22** · That you have people that have worked here, building New York City to make it a great place to live, being priced out.
+
+**2:28** · Being told that they have to go and find somewhere else to live is just terrible.
+
+**2:32** · The rich are getting richer and the poor is getting poorer.
+
+**2:35** · In New York City, the median rent for a one bedroom apartment has soared to $4,500 a month, making it the most expensive rental market in the United States.
+
+**2:47** · And New York's working class— rideshare drivers, delivery workers and mechanics— who keep the city running are finding themselves increasingly priced out.
+
+###### Rent-free living for NYC’s working class
+
+**2:57** · For some, RVs offer an alternative to street homelessness or the city's overburdened shelter system.
+
+**3:16** · Three people live in here?
+
+**3:18** · Wow. That’s tight.
+
+**3:37** · The city tells you you're homeless?
+
+###### An alternative to unaffordable rent
+
+
+###### NYC’s homeless shelters vs. RVs
+
+**4:29** · Most of the people I met live full time in their mobile homes, but others, like Nate, go between their RVs and homeless shelters in the city.
+
+**4:36** · The environment of being in a shelter is like almost like you're in prison.
+
+**4:40** · You're stuck in one room looking at the four walls.
+
+**4:42** · There's a bug going around.
+
+**4:43** · Like when one person gets it, it's spread around.
+
+**4:47** · So to get to the RV from Far Rockaway, the shelter, is about a two hour journey.
+
+**4:52** · In order to qualify for an affordable housing voucher from the city, Nate and his wife must maintain their spot in the shelter, though they are allowed to leave for up to 48 hours at a time.
+
+**5:03** · That's what the RV enables: a getaway, a sense of serenity.
+
+**5:07** · And then hopefully, you know, with the shelter system and getting through with that, we’ll have somewhere that we can really call home.
+
+###### Why asylum seekers are living in RVs
+
+**5:17** · One thing that struck me while driving around and meeting people in RVs, is how many of them are asylum seekers from Venezuela.
+
+**5:24** · Since 2022, more than 240,000 asylum seekers have passed through the intake system for New York City's shelters.
+
+**5:35** · Like Felix Tarazona, who came to the U.S.
+
+**5:37** · four years ago after spending months in prison for protesting against the Venezuelan government.
+
+**5:42** · This is a big TV for an RV.
+
+**5:49** · I have no idea what I'm doing.
+
+**5:50** · No FIFA?
+
+**5:52** · No FIFA.
+
+**5:52** · Anything I'm doing well is by mistake.
+
+**5:56** · Oh, congratulations.
+
+**6:01** · What's the hardest part about living in an RV in the city?
+
+**6:28** · How long do you think you'll live here?
+
+**6:29** · What's your plan for the future?
+
+**6:44** · As an asylum seeker, do you feel safer in New York than you would in another part of the country?
+
+###### Accessing affordable housing
+
+**7:11** · Each one, I believe, is going to be like 300 units. Wow.
+
+**7:15** · So like 900 affordable units?
+
+**7:18** · After we first filmed with Nate, he and his wife got some good news.
+
+**7:22** · They're one step closer to landing an apartment.
+
+**7:25** · My wife was picked out of a lottery from the Department of Homeless Services, and they sent us here to view a beautiful apartment that we actually told them that we wanted.
+
+**7:34** · Hopefully everything will go through. I hope you get it.
+
+**7:37** · Fingers crossed.
+
+**7:37** · Fingers crossed. The RV meant to me stability.
+
+**7:40** · I'm not actually in the street, but that's a recreational vehicle.
+
+**7:43** · This is what we can make our home.
+
+**8:06** · I hope for my future to get back stable.
+
+**8:08** · Get back employed because I love to work.
+
+**8:11** · And just get my life back to where I feel as though it should be at this point.
+
+**8:14** · You know, I'm 58 years old.
+
+**8:16** · I'm not no spring chicken, and being able to sustain the rest of my years here comfortably, that's all.
+
+**8:22** · If I hit the lotto, I hit the lotto.
+
+**8:26** · Hi everyone it’s Dan Ming, thanks for watching.
+
+**8:28** · I'd love to hear your thoughts in the comments below on our reporting and what you think we should cover.
+
+**8:33** · And if you like this video, subscribe to the news movement's YouTube channel for more in-depth on the ground reporting.
+
+#### Nonprofit turns vacant lots into urban farms
+
+**WBAL-TV 11 Baltimore**, *09 30, 2026*
+
+##### Video (2:42)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/SsYLnZXrTVM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+A Baltimore nonprofit founded by military veterans is revitalizing vacant lots into green spaces and urban farms, transforming communities and addressing food access challenges. The 6th Branch, established in 2010, has converted more than 23 acres of vacant lots into thriving green spaces and urban farms. The 6th Branch continues to bring hope to Baltimore neighborhoods, one seed at a time.
+
+WBAL-TV is your home for Baltimore breaking news and weather. For your latest Baltimore news and weather visit: https://www.wbaltv.com/
+
+For licensing inquiries: https://www.wbaltv.com/licensing
+
+##### Transcript
+
+**0:00** · HOW THE SIXTH BRANCH IS MAKING A DIFFERENCE.
+
+**0:05** · FROM FLOWERS TO TREES, VEGETABLES AND HONEY AND MORE, THESE URBAN FARMS ARE TRANSFORMING AREAS ACROSS THE CITY.
+
+**0:13** · I THINK IT’S REALLY HARD TO GIVE PE HOPE WHENHERE’S TRASH ALL AROUND YOU.
+
+**0:19** · THE SIXTH BRANCH IS CHANGING THAT.
+
+**0:22** · SO FAR, THEY’VE TRANSFORMED MORE THAN 23 ACRES VACANT LOTS GREEN SPACES AND URBAN FARMS.
+
+**0:27** · WE DON’T GO INTO A SPACE UNLESS RE INVITED AND ASKED TO, AND THEN WE’RE SITTING AND LISTENING SO TO UNDERSTAND WHAT THE COMMUNITY WANTS.
+
+**0:37** · THEN WE HELP MAKE THAT VISION A REALITY WITH THE COMMUNITY.
+
+**0:41** · THE NONPROFIT, FOUNDED I 2010 BY RETURNING VETERANS, HAS A MISSION TO BUILD TRUST WITHIN COMMUNITIES IN JOHNSTON SQUARE, BLOCKS OF HOMES WERE DEMOLISHED.
+
+**0:53** · NOW IT’S BRIMMING WFE.
+
+**0:55** · EVERY THURSDAY, YOU CAN GET A BAG OF, YOU KNOW, COLLARDS AND SQUASH AND G PEPPERS AND RED PEPPERS AND HOT PEPPERS, WHICH ARE MY FAVORITE.
+
+**1:05** · AND THEY’RE STR RIGHT FROM THE GROUND.
+
+**1:08** · GRACE CHAMPION MANAGES THE T URBAN FARMS,HICH ALLOWS THEM TO DISTRIBUTE THOUSANDS OF POUNDS OF FRESH PRODUCE PER YEAR.
+
+**1:15** · IN ADDITION TO LIKE KALE COLLARDS, WE DO SWISS CHARD.
+
+**1:20** · WE ALSO DO A LOT OF R VEGETABLES, TOMATOES, EGGPLANT, REALLY KIND OF LNG TO THE CLIMATE AND DOING WHAT WILL WANT TO PERFORM HERE.
+
+**1:30** · SO WE’RE GONNA PLANT SOME PURPLE TOP TURNIPS.
+
+**1:33** · SHE SAYS THEY REA FOCUS ON WHAT CAN BE HARVESTED WEEKLY AND SHARED WITH THE 100 OR SO FAMILIES THEY S EVERY WEEK IN THIS FOOD DESERT.
+
+**1:42** · I THINK IT’S REALLY POWERFUL TO INTERACT AND BE CLOSE TO GREEN SPACES AND BE MORE CONNECTED TO THE FOOD.
+
+**1:49** · IF YOU CAN, YOU NOTICE YOU’RE NOT SEEING A LOT OF AVAILABLE FRESH PRODUCE IN THESE AREAS.
+
+**1:55** · THEY ALSO SELL COMPOST AND HONEY IN ADDITION TO TILLING, FERTILIZING, AND PLANTING.
+
+**2:00** · T6B HAS SEVERAL PROGRAMS, INCLUDING FOOD ACCESS, CANOPY AND WORKFORCE DEVELOPMENT.
+
+**2:04** · DOCTOR TERRELL WILLIAMS IS A MARINE CORPS VET AND BOARD MEMBER AND SAYS ORGANIZATIONS LIKE T-6B ARE NEECAUSE THEY HELP ACTIVATE COMMUNITIES AND BRING HOPE.
+
+**2:14** · IF YOU G OVER TO THE.
+
+**2:16** · HENRIETTA LACKS EDUCATIONAL PARK, IT’S AN INCREDIBLE SPA AND IT GIVES ME JOY BECAUSEA EVERY TIME I DRIVE BY AND I DRIVE BY DAILY, THERE ARE FAMILIES IN TRK, AND I NEVER FAMILIES IN THE PARK BEFORE.
+
+**2:29** · HOPE PLANTED ONE SEED AT TIME
+
+#### Poor home air quality can increase risk of heart disease and cancer Study
+
+**ABC News**, *01 13, 2023*
+
+##### Video (3:32)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/aISqnozLDQk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+ABC News business reporter Alexis Christoforous provides tips to keep your indoor air clean as you bump up the heat this winter.
+
+##### Transcript
+
+**0:00** · welcome back winter is in full swing across the country and chilly temperatures outside mean more cozy days inside but poor air quality at home can impact your health sometimes even increasing your risk of heart disease cancer and more ABC News business reporter Alexis christopherus has some steps you can take to keep your indoor air clean this winter the weather outside is frightful but the fire inside could be problematic too according to the American Lung Association exposure to burning wood can
+
+**0:29** · cause respiratory problems and increase your cancer risk and that's not the only air pollutant in your home that can adversely affect your health as you spend more days inside this winter consider taking steps to improve the air quality in your home you can start with your fireplace try not to use it too much if you're going to use a fireplace make sure that you have the flu cleaned
+
+**0:52** · that there is a screen across your fireplace if you can afford it consider getting an EPA certified insert for your fireplace right now there is a federal tax break of 30 percent on the purchase and installation of the units gas stoves can also release pollutants such as nitrogen oxides so use your vent use an
+
+**1:12** · exhaust fan or just open a window and block that kitchen or living room smoke from entering your bedroom where you can spend hours every night by keeping bedroom doors closed if you can deal with it you can keep your pets out and so whatever is on their fur won't get on your bedding and won't be in the air in addition to dusting and vacuuming once a week to combat allergens and dust use an air purifier look for vacuums and air purifiers that have an effective HEPA filter Consumer Reports has ratings on
+
+**1:43** · air purifiers and what studies have found is that the effective ones can take out as much as half of all the bad particulates in the air which can affect people's health and to prevent mold growth that can cause Asthma and Allergy flare-ups clean bathrooms kitchens and basements regularly
+
+**2:04** · and Alexis christopherus joins me now for more on this Alexis what about mold because that can be a big issue when it comes to home air quality so how do you combat that yeah there are a few ways and and definitely if you see mold don't ignore it because it's only going to grow so what you want to do is keep the humidity levels in your home as low as you can so you can use a dehumidifier to do that in places that usually collect moisture naturally like your basement make sure that you fix any leaks in the house a roof that's leaking uh Plumbing walls where there are leaks and then you
+
+**2:37** · can use your own solution if you see mold on the wall and it's a small enough space you can use a solution of five percent bleach and water you don't want to combine bleach with other chemicals that can get dangerous but if you have a larger area say more than 10 square feet of mold in your home you should probably bring in a professional do want to make a note though on humidifiers because
+
+**2:58** · this time of year A lot of people are using those yes I was going to ask about that because it's dry outside right but humidifiers themselves can cause mold problems if you don't clean them correctly you really have to be on top of your humidifier they can be great but try to clean them thoroughly at least once a week all right Alexis Christopher's thank you you bet hi
+
+**3:17** · everyone George stephanopolis here thanks for checking out the ABC News YouTube channel if you'd like to get more videos show highlights and watch live event coverage click on the right over here to subscribe to our Channel and don't forget to download the ABC News app for breaking news alerts thanks for watching
 
 #### The Most Dangerous Wildfires All Have ONE THING in Common
 
@@ -4073,7 +4848,7 @@ Instagram:  https://instagram.com/pbsterra
 
 Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 
-#californiawildfires #palisadesfire
+
 
 ##### Transcript
 
@@ -4224,6 +4999,160 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 **11:45** · What are you doing to prepare your home?
 
 **11:47** · Let us know and we'll see you next time on Weathered.
+
+#### The traffic solution most cities haven't tried
+
+**Vox**, *05 03, 2019*
+
+##### Video (5:33)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/YX68ym4n7_c title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Congestion pricing works – just look at London.
+
+Become a Video Lab member! http://bit.ly/video-lab
+
+New York Gov. Andrew Cuomo recently announced a plan to bring congestion pricing to New York City. The goal is to raise money for the city’s crumbling public transit system and reclaim the dangerously busy city streets. But what is congestion pricing, and can it actually solve all our transit woes? 
+
+We took a look at London, a city that enacted a congestion charge in 2003, to see some of the benefits. Check out the video above to learn more.
+
+For further reading look to our sister site, Curbed: https://www.curbed.com/
+
+https://www.curbed.com/search?q=congestion+pricing
+
+For information on New York’s potential earnings and benefits:
+
+http://www.hntb.com/HNTB/media/HNTBMediaLibrary/Home/Fix-NYC-Panel-Report.pdf
+
+And a closer look at how much money is wasted sitting in traffic:
+
+http://pfnyc.org/wp-content/uploads/2018/01/2018-01-Congestion-Pricing.pdf
+
+Finally – Check out this article by Nicole Badstuber on how London congestion pricing has started to level out and the plans the city has in place to bring revenue back up:
+
+https://www.citylab.com/transportation/2018/04/londons-congestion-charge-needs-updating/557699/
+
+Note: The headline for this video has been updated since publishing.
+
+Previous headline: How London is fighting its nightmare traffic
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com.
+
+Watch our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on Facebook: http://goo.gl/U2g06o
+
+Or Twitter: http://goo.gl/XFrZ5H
+
+##### Transcript
+
+###### The problem with urban traffic
+
+**0:00** · So, it's 5 o'clock in New York City and I’m about to catch a cab about 5 miles uptown.
+
+**0:07** · Let's see how this goes.
+
+**0:24** · So it just took me 40 minutes to go about 4.5 miles which is pretty typical for New York City rush hour.
+
+**0:32** · Despite a speed limit of 25 miles per hour, the average car moving through NYC is driving at just 7.1 MPH, down from 9.1 MPH in 2010.
+
+**0:42** · And if you’re in midtown it’s even worse, with cars moving around 5 MPH.
+
+**0:47** · But it’s not just New York City – traffic in cities like LA is so bad drivers could be locked in gridlock for hours.
+
+**0:54** · Of course this sucks for drivers, but it also makes activities like biking or walking less safe because cyclists and pedestrians have to weave through an obstacle course of cars.
+
+**1:04** · Not to mention the estimated 20 billion dollars in lost revenue due to wasted time sitting in traffic.
+
+**1:10** · Now, there might be a solution, but if you commute by car, you are probably not gonna like it.
+
+###### Introducing congestion pricing
+
+**1:17** · It’s called congestion pricing. And it means charging drivers for using the roads.
+
+**1:21** · "Congestion pricing is an idea whose time has come. And I believe this is the year to actually get it done."
+
+**1:31** · New York’s plan is still in the works, and it probably won’t be enacted until 2020.
+
+**1:36** · But the end game is to reduce congestion by discouraging people from driving if they have other options like biking, or taking a train, or walking.
+
+**1:44** · And to fund public transit at the same time.
+
+**1:48** · It’s not a groundbreaking idea: congestion pricing is already old news in cities around the world.
+
+###### The London model
+
+**1:53** · London enacted a similar policy in 2003.
+
+**1:56** · This is a necessary step for us to reclaim some of the space that is currently given to a motorized vehicles without ending up with gridlock.
+
+**2:04** · Nicole Badstuber researches urban infrastructure and policy at the University of Cambridge and according to her, the system's pretty simple.
+
+**2:12** · When drivers enter the Central London congestion zone between 7 a.m. and 6 p.m., they’re charged 11 pounds 50 pence – about 15 US dollars.
+
+**2:21** · New York City's plan will be similar.
+
+**2:22** · When drivers enter Midtown or Lower Manhattan, they'll face a fee.
+
+**2:26** · There's cameras all around the roads at the edges of the congestion charging area.
+
+**2:31** · They automatically recognize the name plate of the car or the vehicle entering the zone.
+
+**2:36** · London has a few exemptions in place, like for people who live inside the congestion zone or vehicles with 9 or more seats and New York City will likely do that, too. And the system works.
+
+**2:47** · So since it was introduced, we've seen that private vehicles entering the zone have gone down by 40 percent.
+
+**2:54** · Overall vehicle traffic has gone down by 25 percent.
+
+###### Results and public space
+
+**2:57** · Cycling overall has increased 66% since the charge was instituted and bus ridership reached a 50-year high in 2011.
+
+**3:04** · And wait times for buses decreased 25%, due to increased service both on buses and on the London Underground.
+
+**3:10** · So we now, in comparison, still have much higher frequencies of London Underground services.
+
+**3:15** · We can get more people, more capacity, more people into our trains because we have newer trains.
+
+**3:20** · And like Nicole said, congestion pricing isn’t just about removing cars from specific zones, it’s about reclaiming a space for the public.
+
+**3:28** · Picture Trafalgar Square, but designed for cars – an idea that was very much a reality before congestion pricing.
+
+**3:35** · You would basically have a bus driving right past your nose as you come out of the National Gallery Reclaiming that section of road made the square safer and opened it to more public events.
+
+**3:44** · No one could imagine going back to what it was before, and having these cars and buses zoom past you.
+
+###### Resistance and future goals
+
+**3:52** · London’s plan is widely embraced today, but it was met with resistance at first, with opponents arguing that congestion pricing could cut people off from health care, shopping, and schools.
+
+**4:02** · Plus, people had to trust that the government would work efficiently and make significant improvements to their public transit system.
+
+**4:09** · But within a year, London's congestion charging had majority support.
+
+**4:13** · As New York’s plan is being finalized, some similar resistance is cropping up, which isn’t too surprising.
+
+**4:19** · After all, it’s the first US city to implement this type of congestion pricing and no one wants to pay for something they’ve gotten for free for so long.
+
+**4:27** · But the plan could generate up to a billion dollars for public transit, a system that most agree desperately needs repair.
+
+**4:33** · And the city estimates it will reduce congestion by 8 to 13 percent and increase speeds by up to 9 percent, making a ride through midtown a lot easier.
+
+**4:43** · So, like other cities where congestion pricing has been successful, it’s likely that people will end up accepting it.
+
+###### Reimagining public roads
+
+**4:49** · When we think of our roads, in particular in cities, as a sort of public good, as a public space, then if you're taking up more of it you should probably be paying for that privilege.
+
+**5:01** · If you start to think about how everyone gets around the city, charging cars begins to make a lot more sense: You pay for parking, pay for the subway, pay to take a train or a bus, so why wouldn’t we pay for a city road?
+
+**5:16** · Thanks for watching. If you haven't already heard, we've launched a paid membership program called the Vox Video Lab, right here on YouTube.
+
+**5:22** · For a monthly fee, subscribers get access to tons of exclusive content and becoming a member is the best way to support our journalism.
+
+**5:29** · So if you want to join, head over to vox.com/join and we'll see you there.
 
 #### There’s Something Living in Wildfire Smoke
 
@@ -4493,6 +5422,92 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 
 **6:14** · Ali: Erin bell with suny Albany, thank you so much for your time.
 
+#### When Mold in the Home Is a Problem
+
+**California Department of Public Health**, *01 06, 2021*
+
+##### Video (1:37)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/3umAOe1eSUg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+A first animated video in the 6-part Mold in the Home Video Series. It is an introduction to the series and explains when mold in the home rises to the level of a problem that must be addressed.
+
+The Mold in the Home Video Series is created by the Environmental Health Investigations Branch of the California Department of Public Health. It is designed to answer basic questions about mold in the home using plain language in English and Spanish.
+
+Attn: The web link at 1:26 has expired, please use go.cdph.ca.gov/mold for more information.
+
+To view this story with audio descriptions go to – https://youdescribe.org/video/3umAOe1eSUg?ad=6310fb4773ff460a05c83653
+
+If you need additional information, or are having difficulty accessing this content, please contact askehib@cdph.ca.gov to request this information in an alternate format
+
+##### Transcript
+
+###### Intro
+
+**0:06** · Mold is in the air everywhere but you can't see it It is not an issue until mold in your home finds water and starts to grow.
+
+**0:15** · Water can come into the home through roofing problems, plumbing leaks, bathroom moisture, and air gaps around windows and doors.
+
+###### Signs of Mold Problem
+
+**0:26** · You have a problem when mold appears near a leak or other dampness in the home.
+
+**0:31** · Signs of a mold problem include the smell of mold.
+
+**0:35** · Mold has a musty odor.
+
+**0:38** · Sometimes you can't see the mold because it is hidden behind wall paper, dry wall, or paneling, or is on the underside of carpets.
+
+**0:48** · The smell lets you know that it is an important problem.
+
+**0:52** · If someone cleans or paints over the mold, it will return.
+
+**0:56** · This is because the water problem causing mold to grow is not fixed.
+
+###### Prevention of Mold
+
+**1:04** · Mold is common around bathroom tiles, windows, showers, and sinks.
+
+**1:09** · It can be hard to keep these damp places completely free of it But you can usually prevent this mold from growing by cleaning it regularly and increasing the air flow.
+
+**1:21** · For more information, see the next videos in this series.
+
+**1:25** · Visit the CA Department of Public Health's website cdph.ca.gov/Mold for information about mold in the home.
+
+#### WHO Preventing disease through healthy environments
+
+**World Health Organization (WHO)**, *04 20, 2016*
+
+##### Video (2:00)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/tupJDf13jBo title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+An estimated 12.6 million people died as a result of living or working in an unhealthy environment in 2012 – nearly 1 in 4 of total global deaths, according to the World Health Organization. Environmental risk factors, such as air, water and soil pollution, chemical exposures, climate change, and ultraviolet radiation, contribute to more than 100 diseases and injuries. However, we can take actions to reverse the upward trend of environment-related diseases and improve our environments where we live and work.
+ 
+For more information visit: http://who.int/quantifying_ehimpacts/publications/preventing-disease/en/
+
+##### Transcript
+
+###### Environmental health impacts
+
+**0:03** · wherever you live your health is impacted by the environment around the world more than 50 million people die every year from disease and nearly one quarter of those deaths are directly caused by environmental factors can you imagine that's 1,400 deaths every hour
+
+**0:23** · of every day from an unhealthy environment the hardest hit are those in low and middle income countries especially in Africa Southeast Asia and the western Pacific and the young and old are most severely affected more than half the world live in urban areas and can face heavy traffic air pollution who are housing and limited access to clean water and sanitation many work in the informal
+
+**0:51** · sector under dangerous dirty and demeaning conditions we all face the impact of chemicals and poisons radiation and poor farming practices and climate change means our very uncertain future so now we are at a crossroads
+
+###### The critical crossroads
+
+**1:09** · things can continue getting worse or we can work together to improve our world simple measures can be taken immediately to protect our health and the environment we can reduce our consumption and clean our air by using sustainable fuels and walking or cycling more we can safely store toxic substances in
+
+###### Call to action for health
+
+**1:32** · our homes and workplaces we can protect our water resources by disposing of waste appropriately and introduce clean energy technologies we can bring multiple government sectors together to ensure all policies actively support health let us all work together to improve our health and well-being
+
 #### Why decades-old, toxic PFAS foam is still contaminating northern Michigan waterways
 
 **PBS NewsHour**, *11 23, 2024*
@@ -4640,6 +5655,228 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 **8:13** · It is a critical battle we are fighting here.
 
 **8:16** · For pbs news weekend.
+
+#### Why managing chronic health conditions begins at home
+
+**PBS NewsHour**, *12 07, 2018*
+
+##### Video (7:26)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Ws4Ir5wtHwM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The recognition that health care extends beyond the walls of hospitals and doctor’s offices is growing. In Greensboro, North Carolina, advocacy groups, sociologists and medical practitioners are taking a creative approach to uncovering the root causes of disease, with a particular focus on poor housing conditions that can lead to chronic illness. John Yang reports.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+
+Facebook: http://www.pbs.org/newshour
+
+Twitter: http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Snapchat: @pbsnews
+
+Subscribe:
+
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+
+Newsletters: https://www.pbs.org/newshour/subscribe
+
+##### Transcript
+
+**0:00** · JUDY WOODRUFF: Let's take a look now at an innovative approach to health care.
+
+**0:04** · John Yang tells us about an effort in North Carolina that tries to treat the housing conditions that contribute to chronic illnesses like asthma before they become health emergencies.
+
+**0:15** · KRISHNAVENI BALAKRISHNAN, Greensboro Housing Coalition: You can see mold growth all along the wall here.
+
+**0:21** · JOHN YANG: There is so much mold in the Greensboro, North Carolina, rental property that inspectors Krishnaveni Balakrishnan And Ken Cook are examining that the residents moved out after only a few weeks.
+
+**0:33** · KRISHNAVENI BALAKRISHNAN: There's mold on the children's pillows.
+
+**0:36** · The family that lives here, they have five children.
+
+**0:38** · One of them is asthmatic, and the mold in the home is causing not only that child, but also the rest of the family to become sick.
+
+**0:45** · There's a lot of moisture issues, a lot of mold on the ceiling, on the family's belongings.
+
+**0:51** · The home is not habitable.
+
+**0:52** · JOHN YANG: The residents say the landlord's suggestions for getting rid of the mold didn't work.
+
+**0:58** · They had to pay for a hotel while still paying rent here.
+
+**1:00** · KRISHNAVENI BALAKRISHNAN: You can tell where it's been wiped.
+
+**1:02** · JOHN YANG: Balakrishnan and Cook don't work for the city.
+
+**1:05** · They work for an advocacy group called the Greensboro Housing Coalition.
+
+**1:10** · They're part of an innovative approach aimed at improving the health of low-income residents.
+
+**1:14** · KRISHNAVENI BALAKRISHNAN: There's some mold in the doorsill.
+
+**1:17** · JOHN YANG: Doctors, housing advocates, and community activists say taking care of houses like this can be a form of preventive medicine.
+
+**1:25** · By getting rid of unhealthy environments, they can keep people out of the emergency room.
+
+**1:34** · Researchers say asthma accounts for 93 percent of the respiratory illnesses in Greensboro emergency rooms and clinics.
+
+**1:42** · On this day, one of them is Alveno Stanford's 14-year-old son, Jacob.
+
+**1:45** · ALVENO STANFORD, Parent: And I noticed how his chest would like come out more than usual.
+
+**1:50** · So, I could tell the chest was just, like, coming out more.
+
+**1:53** · JOHN YANG: It's not the first time Jacob's made a costly emergency room visit.
+
+**1:58** · ALVENO STANFORD: Three times a year.
+
+**1:59** · Like, this year, he may come three.
+
+**2:02** · Year before that, he may come like two or three.
+
+**2:04** · And it's been at least 10 times with him.
+
+**2:08** · JOHN YANG: Greensboro's efforts are part of a growing interdisciplinary approach, attacking the causes of conditions like asthma to try to improve health and reduce medical costs.
+
+**2:20** · Stephen Sills is a University of North Carolina-Greensboro sociologist.
+
+**2:29** · He looks for patterns in asthma cases using data from the Cone Health system, the city's major hospital operator and a partner in the project.
+
+**2:37** · Then he uses Google Maps Street View to plot substandard housing.
+
+**2:41** · STEPHEN SILLS, University of North Carolina-Greensboro: We map that, block by block, neighborhood by neighborhood.
+
+**2:45** · Where are more of these respiratory illnesses coming from?
+
+**2:49** · And we see that there's three areas in Greensboro that really are the concentration of poor roofing, absent gutters, broken and cracked foundations, cracked windows, missing shingles and siding.
+
+**3:05** · JOHN YANG: And they're the same areas where asthma cases are concentrated, underscoring the link between poor housing and poor health.
+
+**3:13** · All these conditions you just described would exacerbate or trigger asthma?
+
+**3:17** · STEPHEN SILLS: Exactly.
+
+**3:19** · Exacerbate is a good word there.
+
+**3:20** · If I'm living in a house where the roof is leaking, the pipes are leaking, there's mold and mildew, the carpet hasn't been replaced in years, all are triggers for someone who has a respiratory condition like asthma.
+
+**3:35** · JOHN YANG: Sills' students use the data to make referrals to the Greensboro Housing Coalition.
+
+**3:41** · It turns the traditional approach to delivering health care on its head.
+
+**3:44** · STEPHEN SILLS: So often, the physician is thinking about the biology of the individual?
+
+**3:49** · What's wrong with this person?
+
+**3:51** · How can I treat that problem that is a biological, medical problem?
+
+**3:55** · What drug can I give them, or what behavior can I ask them to change?
+
+**4:00** · In this case, the treatment is for the community.
+
+**4:04** · The problem isn't the individual.
+
+**4:06** · The problem is the structure around the individual.
+
+**4:08** · JOHN YANG: Sills' research provides hard data to support the coalition's work at an apartment complex in the impoverished east Greensboro neighborhood of Cottage Grove.
+
+**4:18** · JOSIE WILLIAMS, Greensboro Housing Coalition: So, you can see the roofing and all the stuff up here, very old.
+
+**4:23** · JOHN YANG: Josie Williams of the Greensboro Housing Coalition documents conditions there.
+
+**4:28** · Sewage coming up through the drain.
+
+**4:29** · JOSIE WILLIAMS: Yes, sewage was coming up in the drain.
+
+**4:32** · That's why the water is so dark.
+
+**4:34** · So, the way they were turning this on and off was by pliers.
+
+**4:37** · JOHN YANG: And the people are paying rent for this?
+
+**4:39** · JOSIE WILLIAMS: Yes.
+
+**4:41** · JOHN YANG: There were 177 apartments, and 100 cases of asthma.
+
+**4:45** · JOSIE WILLIAMS: We walked into an apartment one day, and the sewage from the bathroom had come out of the toilet onto the floor, into the living room.
+
+**4:54** · And the family had been living like that for three weeks.
+
+**4:56** · JOHN YANG: Three weeks?
+
+**4:57** · JOSIE WILLIAMS: Mm-hmm.
+
+**4:58** · We walked into another apartment complex where the ceiling was leaking, and it was raining, and the mother was catching the water with an inflatable pool in the middle of the floor.
+
+**5:09** · JOHN YANG: One of the asthma cases, 7-year-old Shah Mei (ph), whose family immigrated from Myanmar.
+
+**5:16** · Dr. Beth Mulberry is her pediatrician.
+
+**5:18** · DR.
+
+**5:19** · BETH MULBERRY, Mustard Seed Community Health: They were living without heat.
+
+**5:20** · It was below 20.
+
+**5:21** · They had a huge water problem.
+
+**5:25** · Their carpet was soaked.
+
+**5:26** · She was needing to be on maintenance medication, allergy medication, oral.
+
+**5:33** · And then she was on a rescue inhaler, which she was using fairly regularly at that point.
+
+**5:37** · JOHN YANG: The Housing Coalition helped the family find better housing, and Shah Mei quickly improved.
+
+**5:45** · DR.
+
+**5:46** · BETH MULBERRY: I think it was about two months.
+
+**5:47** · So, it's pretty quick and pretty amazing change.
+
+**5:52** · She has not used her rescue inhaler since July.
+
+**5:56** · JOHN YANG: The complex has since been sold, and the coalition is working with the new owner to improve it.
+
+**6:04** · Led by Josie Williams, the Housing Coalition holds monthly neighborhood meetings to help residents press for other changes in the area.
+
+**6:11** · At their most recent session, they discussed a corner store.
+
+**6:14** · JOSIE WILLIAMS: Anything healthy in that little store?
+
+**6:17** · Alcohol, cigarettes?
+
+**6:18** · What else you see in that little store?
+
+**6:20** · Snacks?
+
+**6:21** · What else?
+
+**6:22** · You have the power to create those changes.
+
+**6:23** · JOHN YANG: The recognition that health care extends beyond the walls of hospitals and doctors offices is growing.
+
+**6:33** · In October, federal officials approved a five-year pilot program allowing North Carolina Medicaid to pay for such services as removing mold, controlling pests and repairing heating and air conditioning.
+
+**6:46** · DR.
+
+**6:47** · BETH MULBERRY: We really need to start making an investment in what are the root causes of these chronic illnesses.
+
+**6:54** · And a lot of this has to do with our people that are living in poverty, the inability to rent a place where they expect changes to be made if it's an unhealthy environment for them.
+
+**7:08** · JOHN YANG: A prescription for good health that cannot be filled at a pharmacy.
+
+**7:12** · For the "PBS NewsHour," I'm John Yang in Greensboro, North Carolina.
 
 ### Films
 

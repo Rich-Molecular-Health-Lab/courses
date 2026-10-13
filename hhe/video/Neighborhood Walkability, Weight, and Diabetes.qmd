@@ -1,0 +1,29 @@
+---
+title: "Neighborhood Walkability, Weight, and Diabetes"
+profile:
+  - "video"
+  - "hhe"
+categories:
+  - "video"
+  - "ENVN4320"
+---
+
+**TheJAMAReport**, *05 24, 2016*
+
+## Video (1:50)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/v0FzuypF6bw title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+This study uses Canadian national health care and census data to estimate changes in overweight/obesity and diabetes prevalence by neighborhood walkability index between 2001 and 2012. Read the article at: http://bit.ly/1WM9Hk.
+
+## Transcript
+
+**0:03** · neighborhoods that are more walkable tend to be more densely populated and they tend to be zone so that there's retail and other services within the neighborhood so there's more places people can reach on foot unless walkable suburban neighborhood stores and services are harder to reach on foot people usually have to drive to get places it seems that neighborhoods that are more walkable and are designed to make it easier to walk may actually help people to be more physically active dr.
+
+**0:31** · Gillian booth from st. Michael's Hospital and co-authors studied almost 9,000 neighborhoods in southern Ontario looking at walk ability scores along with government health data and survey results during a 12 year period they examined whether rates of overweight obesity and new cases of diabetes were rising more slowly in neighborhoods that were easier to walk in rates of overweight and obesity were much lower in the most walkable neighborhoods compared to less walkable ones and we're actually stable over time in the most walkable neighborhoods whereas they were
+
+**1:02** · continuing to increase in less walkable areas the study appears in JAMA Journal of the American Medical Association rates of diabetes were actually going down and then least in terms of the number new cases in the most walkable areas where as rates were not falling in
+
+**1:19** · less walkable areas neighborhoods with lower rates of obesity and diabetes also had higher rates of walking biking and mass transit use it doesn't mean that if we build neighborhoods differently that rates of overweight and obesity will fall but it's certainly hopeful and it gives us more information and some potential solutions that we can test in the future Catherine Dolf the Jama report

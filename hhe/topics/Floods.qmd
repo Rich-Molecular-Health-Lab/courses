@@ -19,6 +19,786 @@ listing:
 
 <a class='btn btn-outline-primary p-3 m-2' href='slides/Floods_&_Hurricanes/index.html'>Floods & Hurricanes <i class='fa-solid fa-link'></i></a>
 
+### Videos or Films Watched
+
+### Inside a Category 5 Hurricane Simulator
+
+**Be Smart**, *06 02, 2022*
+
+#### Video (12:32)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/g4SjaZb1AIM?start=603 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Description
+
+SUBSCRIBE so you don’t miss a video! ►► http://bit.ly/iotbs_sub 
+
+We’re on PATREON! Join the community https://www.patreon.com/itsokaytobesmart
+
+↓↓↓ More info and sources below ↓↓↓
+
+Hurricanes, typhoons, and tropical cyclones are Earth’s most powerful storms, capable of unleashing destruction and death on coastal areas worldwide. As climate change warms Earth’s oceans, we face more risk of storms rapidly intensifying into category 5, sometimes in less than a single day. Being able to predict these rapidly intensifying storms will save lives, but studying hurricanes in detail is difficult and dangerous. So in order to improve our understanding of hurricanes, scientists have built a machine that can create hurricane conditions indoors. weather hurricanes 
+
+Filmed at the Alfred C. Glassell, Jr. SUSTAIN Laboratory at the Rosenstiel School of Marine and Atmospheric Science at the University of Miami https://sustain.rsmas.miami.edu/ 
+
+
+
+Special thanks to our Brain Trust Patrons:
+
+Matt Clark
+
+Ali Freiburger
+
+Mehdi Damou
+
+Barbora Bei
+
+Ken Board
+
+Clinger-Hamilton Family
+
+Attila Pix
+
+Burt Humburg
+
+DeliciousKashmiri
+
+Roy Lasris
+
+dani bowman
+
+David Johnston
+
+Salih Arslan
+
+Baerbel Winkler
+
+Robert Young
+
+Amy Sowada
+
+Eric Meer
+
+Dustin
+
+Karen Haskell
+
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+#### Transcript
+
+##### The power of hurricanes
+
+**0:03** · This is what it's like to be in a category five hurricane.
+
+**0:07** · Deadly, deadly winds and waves here.
+
+**0:10** · This is unbelievable.
+
+**0:12** · These are Earth's most powerful storms up to a thousand miles across and capable of devastating coastal areas with massive rains, surging waves and sustained winds of more than 160 miles per hour.
+
+**0:26** · Hurricanes, also known as typhoons or tropical cyclones, form over warm tropical oceans, where they draw up huge amounts of heat, energy, and moisture.
+
+**0:36** · A hurricane's intensity depends on how much energy it can pull from warm ocean water.
+
+**0:41** · And as humans have changed the climate, the oceans have heated up creating the potential for more intense hurricanes happening more often.
+
+**0:50** · So in order to better predict the destructive impact of these swirling superstorms and to save lives, scientists have built this, a machine that can create the worst imaginable hurricane conditions indoors.
+
+**1:09** · (gentle music) Hey, smart people, Joe here.
+
+##### Hurricane vulnerability
+
+**1:15** · No one knows exactly when it's gonna happen but at some point in the future, a hurricane is going to make landfall right near where I am standing right now.
+
+**1:25** · And that's a potentially disastrous scenario because this Southern tip of Florida is home to more than 6 million people.
+
+**1:34** · On August 24th, 1992, hurricane Andrew made landfall 25 miles south of Miami bringing with it a 16 foot high storm surge and 165 mile an hour winds, and leaving in its wake $25 billion worth of damage and more than 40 deaths.
+
+**1:54** · Andrew was a category five storm, the highest rating of hurricane intensity.
+
+**1:59** · Damage from a category five storm hitting Miami today could easily exceed $100 billion.
+
+**2:06** · With more people and buildings near the coast than ever before and in other densely populated coastal areas around the world, the potential for devastation is similar.
+
+**2:16** · Scientists have gotten pretty good at predicting the paths that hurricanes will take, but predicting how powerful those hurricanes will be is a much less accurate process.
+
+**2:26** · The models simply aren't refined enough.
+
+**2:29** · To create better tools to make these predictions, scientists have to get up close and study hurricanes in detail.
+
+**2:35** · Scientists have created many advanced tools to study hurricanes using remote instruments by flying into them and even following them from space.
+
+##### The sustain laboratory
+
+**2:45** · But many of the mysteries they need to solve require looking at storms up close and collecting data at extremely small scales.
+
+**2:53** · Unfortunately, studying the world's most powerful storms up close and personal is pretty dangerous work.
+
+**2:59** · Unless you can make the hurricane come to you by creating a hurricane.
+
+**3:05** · Brian.
+
+**3:06** · Hi Joe.
+
+**3:07** · This is the SUSTAIN wind wave laboratory. SUSTAIN stands for surge, structure, atmosphere, interaction.
+
+**3:13** · [Joe] This has gotta be one of the coolest science toys to play with in the world.
+
+**3:17** · Is this cool?
+
+**3:18** · Well you still get a chill sometimes watching it, even though I've seen it run hundreds of times by now.
+
+**3:25** · [Joe] The SUSTAIN lab at the University of Miami is a giant wind tunnel and wave machine combo that allows scientists to study where the atmosphere meets the ocean and how they interact all the way up to category five hurricane conditions.
+
+**3:39** · The category five storm is defined by wind speed. That's about 155 miles an hour sustained winds. Obviously that's a wind that none of us, unless we are jumping out of airplanes or sports cars-- [Joe] Or F1 drivers.
+
+**3:55** · Have no experience with, but it is tremendously hazardous to life and property.
+
+**4:02** · [Joe] And you can make that in here?
+
+**4:03** · We can create the conditions right here that is equivalent to a category five hurricane. This is the largest structure in the world that like this that can blow this kind of wind speed over water. And look at the combined loads.
+
+**4:19** · [Joe] Is there like a big button that just says hurricane on?
+
+##### Testing in the storm tank
+
+
+**4:22** · We have a, it's a pretty much like a Frankenstein lever. We will turn it on.
+
+**4:27** · I really wanna turn this thing on.
+
+**4:29** · You think we can do that?
+
+**4:30** · Yeah, I think we can do that.
+
+**4:31** · Okay. I'm really looking forward to this.
+
+**4:36** · For the wind.
+
+**4:38** · You make it nice and simple.
+
+**4:39** · So you're like, do this first.
+
+**4:42** · Do this second.
+
+**4:44** · Anybody can figure it out.
+
+**4:46** · When that lever is pushed, a 1500 horsepower fan draws in air from outside the facility, which is then squeezed down like a giant leaf blower increasing its velocity before it enters the tank, their giant paddles push on the water to create the waves that will flow across the surface.
+
+**5:05** · So this is a Wavemaker drive that controls the wave patterns like computer programming. These drives will send out the math algorithm and convert it to electrical signals so that Wavemaker will be able to know how we're gonna make them move.
+
+**5:20** · [Joe] So you get custom waves.
+
+**5:21** · Yes, exactly.
+
+**5:22** · [Joe] You ever have like tiny surfer toys you want to put in there?
+
+**5:25** · We did.
+
+**5:26** · We actually put some little yellow ducks. (duck quacking) So we just put a camera inside the hurricane tank so that you could see what it would be like to be in a category five.
+
+**5:37** · Do not recommend.
+
+**5:41** · You've got a big red button here.
+
+**5:43** · That's our emergency stop on the Wavemaker.
+
+**5:46** · Let's make a hurricane.
+
+**5:47** · Starting to kick up.
+
+**5:48** · We're starting out here with just wind and then as we get up to full wind we're gonna turn on the waves too.
+
+##### Rapid intensification
+
+
+**5:55** · I think it's gonna get pretty hard to hear us here a a minute.
+
+**6:13** · Can you estimate how fast this is right now?
+
+**6:15** · It was at the full cat five right there.
+
+**6:17** · So more than 165?
+
+**6:20** · Yeah. More than that.
+
+**6:22** · Wow.
+
+**6:24** · I'm glad we're out here and not in there. Seeing category five hurricane winds from literal feet away was pretty awesome. And also kind of terrifying because I remember those winds are powerful enough to do stuff like this.
+
+**6:42** · Yikes.
+
+**6:43** · One of the key gaps in hurricane prediction has been the intensity.
+
+**6:48** · And that can be a huge problem if something like this happens. In 2017, hurricane Maria intensified from a category one to a category five storm in just 18 hours, leaving those in its path little time to prepare or seek shelter and ultimately causing more than 3000 deaths on the islands of Dominica and Puerto Rico. Hurricanes can grow from dangerous to potentially historic levels of destruction in basically no time flat.
+
+##### Atmosphere and ocean
+
+**7:19** · So being able to predict several days in advance whether a hurricane will be powerful could allow more time for evacuation and save lives. This storm machine is already helping scientists better understand how hurricanes grow. As a hurricane's winds blow over the waves, the rough surface of the ocean exerts a drag on the storm, sucking energy out of it similar to how friction slows down a sliding object by removing its kinetic energy.
+
+**7:49** · What we'd expect is as a hurricane gets stronger, rougher seas, and bigger waves would suck out even more energy, preventing storms from growing too quickly. But what they've shown using the hurricane simulator is when wind reaches a certain high speed, that drag levels off and stops slowing the storm down.
+
+**8:09** · When you blow the wind, it makes these huge waves. The energy that was in the wind went into making those waves. As the winds get really intense, you might get the wind not really interacting as much.
+
+**8:20** · [Joe] It almost feels like if I was in a car and I started going really fast, that all of a sudden my tires would stop sticking to the road as well as they did when I was going slowly.
+
+**8:31** · Exactly.
+
+**8:32** · That's a good way of looking at it. And all of a sudden the friction just disappears on your tires and-- [Joe] As soon as you hit 60 miles an hour, it's like, oh, the road turned to ice. Findings like these are already helping scientists create more accurate models that can predict earlier and more accurately when hurricanes will rapidly intensify. What makes this giant hurricane lab so special isn't just the intense winds or crashing waves.
+
+##### Weight of the storm
+
+**8:58** · It's being able to observe both of them as one interacting system.
+
+**9:02** · If we didn't have the waves coming in, then we wouldn't really be able to look at very many problems. People tend to think of, oh, a storm surge. That's you see a five foot storm surge or something like that is a forecast and think, well, my house is at eight feet, I should be fine. Well that doesn't take into account that you have 150 mile an hour winds pushing that water towards you.
+
+**9:24** · You'd have waves coming in that are huge waves breaking just giant bore of water.
+
+**9:29** · Water's heavy.
+
+**9:31** · Water is really heavy. Try to take a five gallon container of water and walk a long distance carrying it. It's a lot of weight. So water's a thousand times heavier than air. So when you get that wave hitting the structure, that's tremendously more loading than the air alone.
+
+##### Resilient engineering
+
+
+**9:54** · Despite some pretty far out ideas ranging from using bubbles to cool the ocean to dropping literal nukes into the eye of a storm, it's probably impossible to stop a hurricane, but we can use engineering to make things more resilient and even turn to nature for inspiration.
+
+**10:13** · You see, before all this was here, coastlines like this were covered in mangrove forests and healthy coral reefs far offshore, both of which are nature's two best ideas to minimize the impact of hurricanes. So in addition to restoring those natural defenses, engineers are using them as inspiration for things that we can build ourself.
+
+**10:35** · So these are sea hives.
+
+**10:36** · They're called sea hives because they look like beehives with these little holes and they're designed to be artificial breakwater so that the waves will break offshore on the sea hives like a few miles offshore. It will make energy dissipate so that the waves are weaker when they reach our shoreline so we are protected by these structures.
+
+**10:58** · It comes down to this.
+
+**11:00** · Our planet is getting warmer and warmer and so are our oceans and that's creating the potential for stronger and stronger storms. So it's essential that we learn everything we can about them to minimize the risks, save lives and learn to live with some of the effects of climate change.
+
+**11:17** · If you're one of the hundreds of millions of people around the world who live in an area that could be hit by a hurricane, a typhoon or tropical cyclone, well be thankful that there are scientists getting up close and personal with hurricanes so that you don't have to one day.
+
+**11:34** · Stay curious.
+
+##### Looking to the future
+
+**11:37** · Hey guys, that was an amazing thing to see. I wanna say thank you to everyone who supports the show on Patreon for helping make videos like this possible.
+
+**11:47** · If you'd like to find out how you can support the show, help us make more videos like this, see more cool stuff, also find out about videos before anybody else, and I have a bunch of other cool stuff, there's a link down a description where you can learn more and I will see you in the next video. Oh, and one more thing.
+
+**12:03** · I went this entire video without making a really bad dad joke about how this science blew me away.
+
+**12:09** · So can I get a high five?
+
+**12:15** · Oh, fantastic.
+
+**12:18** · It survived.
+
+**12:20** · Guess I made the joke after all. So it doesn't really count. Okay. Well, I tried.
+
+### 20 years later, a look at Katrina's lasting impact and concerns over future storms
+
+**PBS NewsHour**, *08 28, 2025*
+
+#### Video (10:13)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/SX3vnnlR3Yg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Description
+
+It's been 20 years since Hurricane Katrina devastated the Louisiana, Mississippi and Alabama coasts. While Katrina remains the costliest U.S. natural disaster, the deepest impact is found in the human suffering and the difficult journey toward recovery. For our series Tipping Point, Lisa Desjardins explores the lessons learned — and what still lies ahead as weather has become more extreme.
+
+Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV news show.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+
+TikTok: https://www.tiktok.com/@pbsnews
+
+X (formerly Twitter): http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Facebook: http://www.pbs.org/newshour
+
+Subscribe:
+
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+
+Newsletters: https://www.pbs.org/newshour/subscribe
+
+#### Transcript
+
+**0:00** · GEOFF BENNETT: It has been 20 years since Hurricane Katrina devastated the Louisiana, Mississippi, and Alabama coasts. More than 1,300 lives were lost in the storm's wake, the majority in New Orleans.
+
+**0:11** · While Katrina remains the costliest natural disaster in U.S. history, the deepest impact is found in the human suffering and the long, difficult journey toward recovery.
+
+**0:21** · For our series Tipping Point, Lisa Desjardins recently traveled to the region to explore the lessons learned by the U.S. and what still lies ahead as weather has become even more extreme.
+
+**0:32** · MICHAEL WHITE, Musician: I didn't even realize how much music kind of vibrates through the city all the time until it wasn't there.
+
+**0:39** · LISA DESJARDINS: For Michael White, the most difficult part of Hurricane Katrina was the silence that came after.
+
+**0:47** · MICHAEL WHITE: Every footstep I made had a different kind of sound.
+
+**0:50** · You realize that the heartbeat of the city is this vibrant pulse of music and life and joyous expression. And that was completely gone.
+
+**1:01** · LISA DESJARDINS: White is a clarinetist and among New Orleans' most beloved musicians, dedicating his life to the rich heritage of the city he loves. For him and so many others, Katrina divided life in two, before and after.
+
+**1:18** · GWEN IFILL, Former "PBS News Hour" Anchor: Hurricane Katrina hit the Gulf Coast hard today from Louisiana to the Florida Panhandle.
+
+**1:25** · LISA DESJARDINS: On August 29, 2005, the Category 3 hurricane slammed into Southwest Louisiana. After levees failed, 80 percent of New Orleans was underwater.
+
+**1:37** · Thousands were rescued from rooftops. Tens of thousands more sought refuge in the Superdome.
+
+**1:44** · Across the region, over 1,000 people died from the storm.
+
+**1:48** · JEFFREY BROWN: You mean the line right there?
+
+**1:49** · MICHAEL WHITE: Yes, that's the highest point, and that was at least nine feet.
+
+**1:52** · LISA DESJARDINS: In 2005, White showed "News Hour" the destruction. The storm made some 300,000 homes uninhabitable. And, in 2025, some still are.
+
+**2:05** · It looks like there was some work done or has there been no work done on this house, do you think?
+
+**2:09** · MICHAEL WHITE: It's hard to tell. But one of the problems was a lot of people ran out of money to repair the houses.
+
+**2:17** · LISA DESJARDINS: Abandoned buildings and empty lots still dot the city, some to this day bearing the telltale X left by Katrina's search-and-rescue teams.
+
+**2:26** · MICHAEL WHITE: You know, a lot of this area has come back, but, as you can see...
+
+**2:29** · LISA DESJARDINS: Right.
+
+**2:30** · MICHAEL WHITE: ... we have a row of houses that are still abandoned nearly 20 years later.
+
+**2:35** · LISA DESJARDINS: White returned from evacuation to find almost nothing could be saved, not his historic photos, not his sheet music, and not his dozens of historic clarinets.
+
+**2:46** · MICHAEL WHITE: Each instrument is like a person that has its own sound, its own personality and moods almost. I couldn't bear to open those cases, because, to me, those are bodies inside.
+
+**2:57** · LISA DESJARDINS: White built a new clarinet collection, but the city is not reborn. New Orleans' population today is a quarter smaller than it was when Katrina struck. There are new levees in place, but some still question whether this city and the country are ready for the next big storm.
+
+**3:17** · That includes the man who led the Katrina response, Russel Honore. He questions the federal approach now.
+
+**3:24** · LT. GEN. RUSSEL HONORE (RET.) (U.S. Army): It doesn't make sense. It doesn't make sense. And, again, it goes back to the lessons learned from Katrina.
+
+**3:31** · LISA DESJARDINS: Few understand the complex issues and high-stakes better. The retired lieutenant general led Joint Task Force Katrina. His no-nonsense approach was credited with turning around a chaotic situation. Now he sees another tricky landscape. He's worried about federal cuts to key agencies, but assured by the new levee system.
+
+**3:52** · LT. GEN. RUSSEL HONORE (RET.): We put $114 billion into recovery in Louisiana, about $14 billion of that in a levee protection system. And we had a storm three years after Katrina came and the levees held.
+
+**4:07** · ALESSANDRA JEROLLEMAN, Loyola University New Orleans: In many ways, we are much better if we faced Katrina. But we won't face Katrina. We will face new storms that are different than Katrina.
+
+**4:16** · LISA DESJARDINS: Alessandra Jerolleman of Loyola University New Orleans lost her home, her car and much of the community she loved in Katrina. That transformed her purpose to disaster preparation and recovery. And she is concerned.
+
+**4:31** · ALESSANDRA JEROLLEMAN: It is always a big concern for me that we might see a large hurricane, we might see rapid intensification where folks can't leave.
+
+**4:43** · LISA DESJARDINS: Like Honore, she's worried about a political storm, the Trump cuts to weather and natural disaster agencies, including the Federal Emergency Management Agency.
+
+**4:53** · DONALD TRUMP, President of the United States: We want to wean off of FEMA, and we want to bring it down to the state level.
+
+**4:58** · LISA DESJARDINS: President Trump and Homeland Security Secretary Kristi Noem now say they want to reform FEMA, shifting more to the states, which they argue do a better job.
+
+**5:08** · KRISTI NOEM, U.S. Homeland Security Secretary: The president recognizes that FEMA should not exist the way that it always has been. It needs to be redeployed in a new way.
+
+**5:15** · LISA DESJARDINS: But Honore is blunt.
+
+**5:17** · LT. GEN. RUSSEL HONORE (RET.): The states aren't ready. I think the political-speak about wanting to get rid of FEMA and reducing its involvement in response is putting doubt in a lot of people's mind.
+
+**5:31** · LISA DESJARDINS: This as the Gulf Coast faces more extreme weather.
+
+**5:35** · Global temperatures and ocean temperatures are rising. And the Trump administration has made key climate data harder to access.
+
+**5:44** · But no one can deny this January New Orleans shattered its snowfall record, followed by record heat this summer.
+
+**5:51** · LT. GEN. RUSSEL HONORE (RET.): Since Katrina, scientists have done a lot of work to document these strong storms and the anomalies associated with -- and the science by why the storms appear to be stronger, or why we're having two and three 100-year storms in a 10-year period.
+
+**6:09** · ALESSANDRA JEROLLEMAN: What we see with climate change is some shifts in the parameters of weather events.
+
+**6:15** · LISA DESJARDINS: Are you worried the lessons could be forgotten?
+
+**6:18** · ALESSANDRA JEROLLEMAN: I am worried. We have to think about disasters like hurricanes in a more holistic fashion, right, because the problem in Katrina, it wasn't just the hurricane. It was certainly the problems with the maintenance of the levees, but also coastal erosion, land loss, the long history of the oil and gas canals that hadn't been closed off.
+
+**6:37** · All of these myriad factors that were just piling on risk.
+
+**6:40** · LISA DESJARDINS: There is holistic thinking on a local level here, like in the hard-hit Lower Ninth Ward.
+
+**6:46** · ARTHUR JOHNSON, Sustain the Nine: There were a lot of promises after Katrina, but not a lot of fulfillment of those promises.
+
+**6:51** · LISA DESJARDINS: Arthur Johnson helps run a group known as Sustain the Nine.
+
+**6:55** · ARTHUR JOHNSON: We lost a lot of trees from Katrina, millions of trees. And then every year you have a storm and that takes trees out.
+
+**7:01** · LISA DESJARDINS: They are now planting cypress trees and other native plants to reduce erosion and teaching sustainability in the face of increasingly wild weather like tornadoes.
+
+**7:13** · ARTHUR JOHNSON: We're no longer just dealing with hurricane and hurricane season, which is now six months out of the year.
+
+**7:20** · LISA DESJARDINS: Like many low-lying places hit by Katrina, this area is at higher risk for problems. But this group insists on rebuilding.
+
+**7:28** · WILLIAM WAITERS, Sustain the Nine: We're not going away. I mean, Katrina couldn't drown us. So we damn well ain't going to allow no politician and their failed programs to drown us. It's not going to happen.
+
+**7:42** · LISA DESJARDINS: That's not the only existential debate connected to Katrina. Musician Michael White feels it.
+
+**7:49** · MICHAEL WHITE: There is no return to normal. Life as I knew it ended with Katrina. And it took a long time for that to sink in. I feel like I'm on my second life, because everything changed. Everything was destroyed or gone. And a part of me kind of died with Katrina.
+
+**8:08** · LISA DESJARDINS: But something else was born. He rarely composed before the storm, but now writing songs has become a daily lifeline.
+
+**8:17** · MICHAEL WHITE: I just pick up my clarinet and I don't think about it. I just play a note. I don't know what comes after that, but I will just play another note. And so from there, I will go: MICHAEL WHITE: After kind of coming away from the pain and the difficulties of Katrina for many years, my mind seemed to open up. And it seems like all of the music that I have ever heard is kind of in my head simmering around, like a gumbo pot.
+
+**8:57** · And it's like if you stir the pot you never know what comes up, like, a shrimp, an oyster, hot sausage. All of those things are in gumbo, and that's kind of what it's like.
+
+**9:12** · LISA DESJARDINS: Twenty years on, New Orleans still has not recovered from Katrina. But like the music it helped create, it keeps improvising.
+
+**9:22** · For the "PBS News Hour," I'm Lisa Desjardins in New Orleans.
+
+### Why is THIS the DEADLIEST river in the US
+
+#### Weathered  Why is THIS the DEADLIEST river in the US  Season 7
+
+>Episode 10 of Weathered (Season 7)
+>- *Released: 2026-04-14*
+>- *Duration: 00:12:30*
+
+[***More details on pbs.org***](https://www.pbs.org/video/why-is-this-the-deadliest-river-in-the-us-3tk2yj/)
+
+<iframe width="560" height="315" title=Weathered  Why is THIS the DEADLIEST river in the US  Season 7 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/why-is-this-the-deadliest-river-in-the-us-3tk2yj/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+##### Description
+
+Why is the Guadalupe River America's deadliest? Science, "Rain Bombs," and Flash Flood Alley.
+
+##### Transcript
+
+### How melting glaciers contributed to Himalayas flooding
+
+>Episode  of  (Season )
+>- *Released: *
+>- *Duration: 00:08:45*
+
+[***More details on pbs.org***](https://www.pbs.org/video/deadly-floods-1787864820/)
+
+<iframe width="560" height="315" title=PBS News Hour  How melting glaciers contributed to Himalayas flooding allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/deadly-floods-1787864820/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+#### Description
+
+How melting glaciers contributed to the flooding disaster in the Himalayas
+
+#### Transcript
+
+ AMNA NAWAZ: Welcome to the "News Hour."
+
+The scale of the disaster in the Himalayas is becoming clearer tonight after catastrophic flooding tore through parts of Nepal and neighboring Tibet.
+
+Scientists now believe the disaster was likely triggered by the collapse of a glacier high in the mountains, unleashing a torrent of water, mud, and debris that swept away bridges, roads, and entire communities.
+
+GEOFF BENNETT: President Trump today called the devastation in Nepal brutal.
+
+The death toll stands at least 390, with more than 1,400 others still missing.
+
+That's as rescue crews race to reach survivors in some of the world's most difficult terrain.
+
+In the valleys that carve through the highest peaks in the world, villages are now buried in mud.
+
+This is Nepal's Nuwakot district.
+
+Yesterday's floods left behind a layer of sludge so high, it reached rooftops and trapped trucks as if in quicksand.
+
+Survivors recounted the terror as it all unfolded without warning.
+
+JANAK BAHADUR, Flood Survivor (through translator): It came in suddenly and exploded like a bomb.
+
+The river looked small from a distance, but it suddenly started overflowing and swept through this place.
+
+GEOFF BENNETT: Geological experts believe a glacier collapse some 30 miles north of Kathmandu was likely what caused the disaster.
+
+These satellite images show the glacier along those snowy peaks there at the bottom before the collapse.
+
+And this is what it looks like now, the surrounding rivers swollen by the floodwaters and debris rushing downstream.
+
+Cell phone video showed the torrent starting to barrel toward this hydroelectric dam.
+
+Within seconds, it bursts through the other side and engulfs the entire site, this border crossing between Nepal and Tibet, the autonomous region in China, now completely destroyed by the ensuing landslides.
+
+Nepalese officials say the floods have swept away dozens of bridges and damaged some 25 miles of roads.
+
+That, combined with the already treacherous terrain of the Himalayas, have made rescue efforts especially difficult.
+
+Nepal's army says it's airlifted more than 100 people to safety using helicopters.
+
+On the ground, crews trudge through knee-deep mud with the aid of search dogs to locate the missing, hoisting them onto their backs, many survivors transported to hospitals in Kathmandu.
+
+But as the search grinds on, many families have no choice but to wait for news they fear may never come.
+
+SUBINA TAMANG, Wife of Missing Man (through translator): All I want is that my husband comes back to me safely in one piece.
+
+I do not want anything else.
+
+CHAMINDI SHRESHTHA, Mother of Missing Man (through translator): My son is stuck in the floods.
+
+He is a truck driver.
+
+And he said he was driving.
+
+There is no news of him.
+
+We are not able to find out anything.
+
+GEOFF BENNETT: The scale of this catastrophe is being felt across the region.
+
+Officials in China say they're searching for hundreds of people still missing in Tibet, where floodwaters stretched for miles across the vast plateau.
+
+Authorities said a new lake was formed in the deluge.
+
+A spokesperson for China's Foreign Ministry vowed to send aid to Nepal, which has significantly fewer emergency resources than its neighbor.
+
+LIN JIAN, Chinese Foreign Ministry Spokesperson (through translator): The mudslide has caused massive casualties and left many missing in both China and Nepal.
+
+The two sides are having close communication and coordinating efforts for search-and-rescue.
+
+GEOFF BENNETT: Among the missing, some 500 foreign nationals.
+
+The U.S.
+
+State Department this morning confirmed three Americans had been rescued, but as many as 90 may have been affected by the floods.
+
+SADHGURU JAGGI VASUDEV, Indian Spiritual Leader (through translator): I wish to bring to your notice that there has been a terrible... GEOFF BENNETT: In an emotional message today, the Indian spiritual leader known as Sadhguru said a group had been on a holy pilgrimage in the area and got caught in the floods.
+
+He said 22 of them were U.S.
+
+citizens.
+
+And for more on what caused the devastating floods, we're joined now by Dan Shugar, who heads the waterSHED Lab at the University of Calgary.
+
+Thanks for being with us.
+
+DAN SHUGAR, waterSHED Lab Director, University of Calgary: Thank you.
+
+GEOFF BENNETT: So scientists believe the deadly flood in Nepal may have started when a massive chunk of ice snapped off a glacier high in the Himalayas, unleashing this devastating cascade into the valley below.
+
+Walk us through how that might have happened.
+
+DAN SHUGAR: That was certainly our initial thought as to what happened based on the information that we had yesterday from some preliminary satellite information.
+
+It's changed a little bit since then, but the general story is still the same.
+
+At about just under 5,000 meters elevation is a glacier that in the satellite imagery that we saw yesterday essentially two days ago was there, yesterday was gone, and the flood resulted downstream.
+
+Since then, we have found that glacier ice - - chunk of glacier ice that essentially disappeared downstream was part of a much larger mass of bedrock, so a gigantic chunk of the mountainside that collapsed, essentially exploding as it descended a vertical kilometer to the valley bottom, melting all that ice, and then flowing out and generating the floods that we saw in those horrific videos.
+
+GEOFF BENNETT: What makes that part of the Himalayas so vulnerable?
+
+DAN SHUGAR: That's a good question.
+
+I suppose it would be a couple of things, one, incredibly steep topography and then huge relief, so massive differences between the low points and the high points, lots of glaciers, lots of glacial lakes, which weren't an issue in this particular disaster, but certainly in other ones.
+
+A lot of seismic activity.
+
+The Gorkha earthquake wasn't that long ago, and we saw very similar sort of disasters unfold, in fact, just on the other side of this mountain.
+
+And the human part of that equation, I think, is important.
+
+Unlike in Western North America, in much of the Himalaya, you have settlements in these incredibly high, narrow valleys that essentially are putting people and infrastructure and livelihoods at risk when these landslides or these floods come down.
+
+GEOFF BENNETT: The other human element at play, it strikes me, is climate change.
+
+What role does climate change play here?
+
+What can scientists say with confidence about the connection between rising temperatures, retreating glaciers, and disasters like this one?
+
+DAN SHUGAR: We can speak in generalities, because it's a little bit hard to speak about the specific event just yet because we haven't done any sort of attribution study.
+
+As temperatures rise, glaciers will melt, will thin vertically, destabilizing the valley walls that they formerly were sort of help -- hoping -- or helping to hold up.
+
+Additionally, as air temperatures rise, the permafrost is changing, and so permafrost is just ground that remains frozen year-round year after year.
+
+But in some areas, both at high altitudes, but also in the north, permafrost is destabilizing because of warming temperatures.
+
+And that can cause large landslides like this as well.
+
+And then a third factor, I think would be changes in precipitation patterns, not only in terms of intensity, but in terms of when during the year they occurred.
+
+Water can get underneath the glaciers, allowing them to slide a little bit more rapidly, any number of ways that that extra water can sort of enhance or increase the likelihood of one of these kinds of events.
+
+GEOFF BENNETT: Dan, what lessons can be learned from this disaster?
+
+DAN SHUGAR: I think that these landscapes, these steep mountain landscapes, are continually evolving due to climate change.
+
+And the global community, not just the government of Nepal or China or India, need -- the global community, we need to be stepping up to help mitigate these risks and to enhance the resiliency of people living in these environments that are subject to these disasters that, when there's a climate change link, we in the rich West are largely responsible for.
+
+GEOFF BENNETT: Dan Shugar with the waterSHED Lab at the University of Calgary, thanks for joining us this evening.
+
+DAN SHUGAR: Thank you.
+
+### Why the Nepal flash flood was almost impossible to predict
+
+**CBC News**, *09 02, 2026*
+
+#### Video (11:52)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/TBCQP-CnEUQ?start=2 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Description
+
+A collapsed glacier in Nepal caused catastrophic flooding that killed more than a thousand people, while thousands more are still missing. Andrew Chang breaks down what accelerated the flood to such a violent degree and how factors like the scale of the Himalayan mountains and the region's climate make prediction and monitoring so challenging.
+
+Intro - 00:00
+
+A cascading disaster - 1:34
+
+A blind spot? - 5:13
+
+CORRECTION (September 3, 2026): The correct unit of measurement for the debris described going down the mountain slope at 2:39 is metres. 
+
+(Photo credits: The Canadian Press, Reuters and Getty Images)
+
+
+
+»»» Subscribe to CBC News to watch more videos: http://bit.ly/1RreYWS
+
+For breaking news, video, audio and in-depth coverage: https://www.cbc.ca/news
+
+Follow CBC News on TikTok: https://www.tiktok.com/@cbcnews
+
+Subscribe to CBC News on Snapchat: https://bit.ly/3leaWsr
+
+Subscribe to CBC News on WhatsApp: https://www.whatsapp.com/channel/0029Vb6MSjH9Bb63S9tbQa1Y
+
+Download the CBC News app for iOS: http://apple.co/25mpsUz
+
+Download the CBC News app for Android: http://bit.ly/1XxuozZ
+
+»»»»»»»»»»»»»»»»»»
+
+For more than 80 years, CBC News has been the source Canadians turn to, to keep them informed about their communities, their country and their world. Through regional and national programming on multiple platforms, including CBC Television, CBC News Network, CBC Radio, CBCNews.ca, mobile and on-demand, CBC News and its internationally recognized team of award-winning journalists deliver the breaking stories, the issues, the analyses and the personalities that matter to Canadians.
+
+#### Transcript
+
+##### Intro
+
+**0:00** · If you ever needed convincing that minutes matter, this was it.
+
+**0:04** · Quick thinking on courage saved the lives of over 1,600 school children [music] as devastating flash floods hit Nepal on Wednesday.
+
+**0:11** · A wall of earth, ice, and water comes crashing down a mountain thousands of meters high. All that debris and flash flooding barreling through the valleys of Nepal, and this school is about to be wiped off the map.
+
+**0:25** · An entire river valley along the Nepal border wiped out in seconds.
+
+**0:29** · Because absolutely everything [music] is getting destroyed.
+
+**0:33** · A monster wave crashing down from the mountains sweeping away everything in its path.
+
+**0:38** · Entire towns washed away.
+
+**0:45** · But this school, which was also destroyed, best as I can tell, not one student died.
+
+**0:52** · I was inside my classroom.
+
+**0:53** · One of my colleagues went around and came here, and he said that the flood is coming, the flood is coming. All areas washed away.
+
+**1:01** · The principal you just heard figures he had about 13, 14 minutes to get nearly a thousand students out of school and to higher ground. [music] In the chaos of the evacuation, he even had the foresight to reroute buses full of [music] younger children that were on their way to school, telling them, "Don't come. Get somewhere safe." This is one incredible outcome in a disaster full of terrible ones, but it also raises a question.
+
+**1:28** · If someone knew this flood was coming, why didn't everyone get that call?
+
+##### A cascading disaster
+
+**1:39** · Even if you knew nothing about Nepal, I could situate this for you by saying this disaster happened about a hundred or so kilometers west of Mount Everest in the Himalayas. [music] And when we think about floods in this part of the world, especially during monsoon season, which [music] it is now, we're often thinking torrential downpours of rain. That's not what this was.
+
+**2:00** · What we really saw was that the the lower part of a tongue of a glacier completely sheared off across a width of 1,300 m and it's really like someone took a knife and basically cut the lower part of a glacier and dropped it off the mountain cliff.
+
+**2:14** · Yes, this wasn't initially water, but rather the earth and its ice that came crashing down. It's here on the northern face of the Langtang Range where this massive glacier is believed to have collapsed, detaching from the mountainside more than 5,000 m above sea level, sending an enormous amount of ice, rock, force, and energy screaming thousands of kilometers down a steep slope.
+
+**2:40** · The avalanche would ultimately tear through the twists and turns of the valley, slamming into a river, sending an immense amount of water, mud, and debris into nearby Rasuwagadhi, a gateway between Nepal and China, destroying it in seconds. The flash flood continued south, gathering more water, scarring the riverbanks, swallowing entire settlements along the way. Timure and surrounding towns basically [music] disappeared.
+
+**3:09** · Further south, Sabrubesi, it was considered a hub of the region. Thousands lived on either side of the river and tourists came here, too. If you wanted to trek through Nepal's mountainside, you might start here. But the whole area absolutely ravaged. Dams, buildings, highways, bridges washed away. And the destruction this flood carved through the country would eventually reach more than 100 km away from where it started.
+
+**3:41** · It all happened very quickly, too quickly. There are warning systems in place, but they're not really designed to track this kind of disaster.
+
+**3:50** · So, one of the only monitoring systems that we have in place are river gauges that that can track when there's a sudden increase in the water level. That can trigger a siren downstream that can hopefully get to the communities that need it in time for them to evacuate.
+
+**4:10** · Water [music] is a major threat in these mountain ranges, but flooding is usually driven by rain or by melt, things you can track in real time. So, river and lake levels, [music] for example, can rise during monsoon season, or you can have glacial meltwater pool and then burst its banks.
+
+**4:30** · Point is, it tends to happen gradually in a way that these river gauges can actually measure over time and then [music] relay that data downstream to where it's useful. Except in this case, it would have been like measuring the direction of a hurricane by holding out a finger. The speed of the flood was so overwhelming, the sudden flow so catastrophic, in some cases it destroyed the monitoring systems before they could even send their alerts.
+
+**4:59** · So, we went from, you know, real-time data to all of a sudden there was no information.
+
+**5:06** · So, how do you warn people about a disaster that moves faster than the warning system itself?
+
+##### A blind spot?
+
+
+**5:16** · [music] The thing is, there's a lot we understand about how these disasters happen.
+
+**5:23** · This is absolutely an event of a type that occurs in the Himalaya. It has occurred many times in recent recorded history.
+
+**5:31** · And even in those cases where people are in danger, there are success stories, like in Switzerland. Now, don't get me wrong, what happened in the small Swiss mountain town of Blattem last year was tragic.
+
+**5:45** · [music] An entire community was buried under an avalanche of ice and rock.
+
+**5:49** · Authorities saying 90% of the village of Blatten has been covered by thousands of tons of ice, [music] mud, and rock.
+
+**5:56** · But nearly every single person survived because the town had been evacuated [music] more than a week earlier. Hundreds of people fleeing the area well in advance because of what locals and scientists had been noticing for years.
+
+**6:13** · In the European Alps, uh the mountainside collapse in Blatten, Switzerland, uh a year or so ago, uh that was known to be an issue well before it happened.
+
+**6:24** · These are photos from a Swiss natural hazard monitoring company showing radar and camera setups pointed directly at the [music] mountain, which they had believed at the time might give way at any moment. This type of precise [music] measuring equipment can reveal even the tiniest details about a mountain, its cracks, its movement, the slightest [music] changes in position. And what that equipment detected was this.
+
+**6:48** · What you're seeing here is a 26-hour time-lapse [music] from the same Swiss company, GeoPrevent, just before the glacier collapse. Maybe seemingly slow, but alarmingly fast [music] for a mountain. The Earth was moving 10 m a day.
+
+**7:09** · With this kind of information, you [music] can't predict the exact timing of the collapse itself. But this kind of observation is what allowed scientists to recognize [music] the increasing chance that something bad might happen at some point. The danger [music] was progressive and predictable.
+
+**7:27** · It's easier to access some of those cliff sides in Switzerland, get sensors and monitoring equipment in those locations so that we can keep get real-time data. Here in Nepal, um the extreme elevations we're looking at, there's just there's no trail to the top, there's not a cable car there.
+
+**7:43** · The capacity and the resources necessary are going to be very difficult to replicate in places like the Himalayas.
+
+**7:50** · It's one thing when you've been noticing changes over a long period and you decide to point a whole bunch of measuring devices at a very specific spot. But the problem with the Himalayas is scale.
+
+**8:01** · The physical scale of the range, the difficulty in working with it, the fact that it's often covered in clouds as it is due to the monsoon season now, it it presents tremendous challenge for prediction and monitoring.
+
+**8:14** · This part of the world isn't just a mountain range. It is an entire wall of mountains stretching thousands of kilometers containing some of the highest peaks and deepest valleys on Earth.
+
+**8:28** · Glaciers and the lakes they melt into are a key concern because they can overflow. But there are thousands of them across Asia and [music] scientists do their best to track every single one with reports like this one from 2020 creating a meticulous inventory of the most dangerous sites like one giant catalog of risk. There's promise there, maybe, you think. And looking in hindsight at what happened in Nepal, they are indeed finding clues that suggest maybe these types of events are predictable.
+
+**9:02** · A new report published after the collapse refers to how movement of the ice surface sped up just prior, how meltwater had turned visibly brown suggesting mountain sediment was shifting. Also, noticing a crack propagating in the days leading up to the disaster. Even learning to better track events as they occur, noticing that the mass movement caused a seismic signal at a magnitude larger than four. So, maybe there's promise in deploying more seismic sensors.
+
+**9:33** · And imagine tying all that knowledge together, pushing it to the limit using AI, combining susceptibility maps [music] with real-time data to inch closer and closer to predicting the unpredictable. But then you remember, once again, the problem of scale. I think one Washington-based think tank put [music] it best. The Himalayan region offers more slopes capable of failing at this magnitude [music] across greater vertical relief than anywhere else on Earth.
+
+**10:04** · Then it goes on to this point of how hard it can be to gauge risk even when you think you've found it. Of roughly a dozen extreme flow events in the region in the [music] past 10 years, only one originated in a place already known to be a risk. Every other one of these events also came from somewhere no one was watching.
+
+**10:26** · It's very challenging to predict exactly where and when these rock collapses are going to occur.
+
+**10:33** · It would be terrific if you could put sensors in in all the locations where events like this potentially were going to happen, but it's just not practical to monitor so many different locations all at once. As remote sensing technologies improve, as computing improves, we'll be more and more able to watch the landscape and detect small amounts of change, but that's still a work in progress.
+
+**11:01** · And that's really the key to all of this. Right now, there is no crystal ball, just small incremental ways scientists are learning how to buy precious seconds, maybe even minutes. But trying to prevent or even predict the inevitable, National Geographic referred to these glaciers as cryogenic time bombs, a reference to our changing climate and how frozen water that makes up this kind of glue that binds the Earth together, the cryosphere, it's melting.
+
+**11:33** · Is that to blame in Nepal?
+
+**11:36** · We may never know directly, but it is why scientists [music] are so certain something like this will happen again. It's just a question of when and where.
+
+**11:46** · [music]
+
 ## Assigned Background
 
 ### As the climate changes, is the deadly flooding in Nepal a sign of things to come?
@@ -369,7 +1149,7 @@ On this, our 340th Evolutionary Lens livestream, we discuss the recent flash flo
 
 [Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
 
-A small Missouri town faces a compounded catastrophe as a devastating flood follows the discovery of toxic contamination.Prelude: A mysterious illness attacks the horses and humans at Shenandoah Stables.–––-–----------------------------------------BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–----------------------------------------CONSUME: Shop.Swindled.com–––-–----------------------------------------MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–----------------------------------------FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Thanks for listening. :-)
+A small Missouri town faces a compounded catastrophe as a devastating flood follows the discovery of toxic contamination.Prelude: A mysterious illness attacks the horses and humans at Shenandoah Stables.–––-–—BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–—CONSUME: Shop.Swindled.com–––-–—MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–—FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Thanks for listening. :-)
 
 :::
 
@@ -414,6 +1194,230 @@ Superfund sites are some of the most polluted areas in the country, containing h
 :::
 
 ### Video Clips
+
+#### 20 years later, a look at Katrina's lasting impact and concerns over future storms
+
+**PBS NewsHour**, *08 28, 2025*
+
+##### Video (10:13)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/SX3vnnlR3Yg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+It's been 20 years since Hurricane Katrina devastated the Louisiana, Mississippi and Alabama coasts. While Katrina remains the costliest U.S. natural disaster, the deepest impact is found in the human suffering and the difficult journey toward recovery. For our series Tipping Point, Lisa Desjardins explores the lessons learned — and what still lies ahead as weather has become more extreme.
+
+Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV news show.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+
+TikTok: https://www.tiktok.com/@pbsnews
+
+X (formerly Twitter): http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Facebook: http://www.pbs.org/newshour
+
+Subscribe:
+
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+
+Newsletters: https://www.pbs.org/newshour/subscribe
+
+##### Transcript
+
+**0:00** · GEOFF BENNETT: It has been 20 years since Hurricane Katrina devastated the Louisiana, Mississippi, and Alabama coasts. More than 1,300 lives were lost in the storm's wake, the majority in New Orleans.
+
+**0:11** · While Katrina remains the costliest natural disaster in U.S. history, the deepest impact is found in the human suffering and the long, difficult journey toward recovery.
+
+**0:21** · For our series Tipping Point, Lisa Desjardins recently traveled to the region to explore the lessons learned by the U.S. and what still lies ahead as weather has become even more extreme.
+
+**0:32** · MICHAEL WHITE, Musician: I didn't even realize how much music kind of vibrates through the city all the time until it wasn't there.
+
+**0:39** · LISA DESJARDINS: For Michael White, the most difficult part of Hurricane Katrina was the silence that came after.
+
+**0:47** · MICHAEL WHITE: Every footstep I made had a different kind of sound.
+
+**0:50** · You realize that the heartbeat of the city is this vibrant pulse of music and life and joyous expression. And that was completely gone.
+
+**1:01** · LISA DESJARDINS: White is a clarinetist and among New Orleans' most beloved musicians, dedicating his life to the rich heritage of the city he loves. For him and so many others, Katrina divided life in two, before and after.
+
+**1:18** · GWEN IFILL, Former "PBS News Hour" Anchor: Hurricane Katrina hit the Gulf Coast hard today from Louisiana to the Florida Panhandle.
+
+**1:25** · LISA DESJARDINS: On August 29, 2005, the Category 3 hurricane slammed into Southwest Louisiana. After levees failed, 80 percent of New Orleans was underwater.
+
+**1:37** · Thousands were rescued from rooftops. Tens of thousands more sought refuge in the Superdome.
+
+**1:44** · Across the region, over 1,000 people died from the storm.
+
+**1:48** · JEFFREY BROWN: You mean the line right there?
+
+**1:49** · MICHAEL WHITE: Yes, that's the highest point, and that was at least nine feet.
+
+**1:52** · LISA DESJARDINS: In 2005, White showed "News Hour" the destruction. The storm made some 300,000 homes uninhabitable. And, in 2025, some still are.
+
+**2:05** · It looks like there was some work done or has there been no work done on this house, do you think?
+
+**2:09** · MICHAEL WHITE: It's hard to tell. But one of the problems was a lot of people ran out of money to repair the houses.
+
+**2:17** · LISA DESJARDINS: Abandoned buildings and empty lots still dot the city, some to this day bearing the telltale X left by Katrina's search-and-rescue teams.
+
+**2:26** · MICHAEL WHITE: You know, a lot of this area has come back, but, as you can see...
+
+**2:29** · LISA DESJARDINS: Right.
+
+**2:30** · MICHAEL WHITE: ... we have a row of houses that are still abandoned nearly 20 years later.
+
+**2:35** · LISA DESJARDINS: White returned from evacuation to find almost nothing could be saved, not his historic photos, not his sheet music, and not his dozens of historic clarinets.
+
+**2:46** · MICHAEL WHITE: Each instrument is like a person that has its own sound, its own personality and moods almost. I couldn't bear to open those cases, because, to me, those are bodies inside.
+
+**2:57** · LISA DESJARDINS: White built a new clarinet collection, but the city is not reborn. New Orleans' population today is a quarter smaller than it was when Katrina struck. There are new levees in place, but some still question whether this city and the country are ready for the next big storm.
+
+**3:17** · That includes the man who led the Katrina response, Russel Honore. He questions the federal approach now.
+
+**3:24** · LT. GEN. RUSSEL HONORE (RET.) (U.S. Army): It doesn't make sense. It doesn't make sense. And, again, it goes back to the lessons learned from Katrina.
+
+**3:31** · LISA DESJARDINS: Few understand the complex issues and high-stakes better. The retired lieutenant general led Joint Task Force Katrina. His no-nonsense approach was credited with turning around a chaotic situation. Now he sees another tricky landscape. He's worried about federal cuts to key agencies, but assured by the new levee system.
+
+**3:52** · LT. GEN. RUSSEL HONORE (RET.): We put $114 billion into recovery in Louisiana, about $14 billion of that in a levee protection system. And we had a storm three years after Katrina came and the levees held.
+
+**4:07** · ALESSANDRA JEROLLEMAN, Loyola University New Orleans: In many ways, we are much better if we faced Katrina. But we won't face Katrina. We will face new storms that are different than Katrina.
+
+**4:16** · LISA DESJARDINS: Alessandra Jerolleman of Loyola University New Orleans lost her home, her car and much of the community she loved in Katrina. That transformed her purpose to disaster preparation and recovery. And she is concerned.
+
+**4:31** · ALESSANDRA JEROLLEMAN: It is always a big concern for me that we might see a large hurricane, we might see rapid intensification where folks can't leave.
+
+**4:43** · LISA DESJARDINS: Like Honore, she's worried about a political storm, the Trump cuts to weather and natural disaster agencies, including the Federal Emergency Management Agency.
+
+**4:53** · DONALD TRUMP, President of the United States: We want to wean off of FEMA, and we want to bring it down to the state level.
+
+**4:58** · LISA DESJARDINS: President Trump and Homeland Security Secretary Kristi Noem now say they want to reform FEMA, shifting more to the states, which they argue do a better job.
+
+**5:08** · KRISTI NOEM, U.S. Homeland Security Secretary: The president recognizes that FEMA should not exist the way that it always has been. It needs to be redeployed in a new way.
+
+**5:15** · LISA DESJARDINS: But Honore is blunt.
+
+**5:17** · LT. GEN. RUSSEL HONORE (RET.): The states aren't ready. I think the political-speak about wanting to get rid of FEMA and reducing its involvement in response is putting doubt in a lot of people's mind.
+
+**5:31** · LISA DESJARDINS: This as the Gulf Coast faces more extreme weather.
+
+**5:35** · Global temperatures and ocean temperatures are rising. And the Trump administration has made key climate data harder to access.
+
+**5:44** · But no one can deny this January New Orleans shattered its snowfall record, followed by record heat this summer.
+
+**5:51** · LT. GEN. RUSSEL HONORE (RET.): Since Katrina, scientists have done a lot of work to document these strong storms and the anomalies associated with -- and the science by why the storms appear to be stronger, or why we're having two and three 100-year storms in a 10-year period.
+
+**6:09** · ALESSANDRA JEROLLEMAN: What we see with climate change is some shifts in the parameters of weather events.
+
+**6:15** · LISA DESJARDINS: Are you worried the lessons could be forgotten?
+
+**6:18** · ALESSANDRA JEROLLEMAN: I am worried. We have to think about disasters like hurricanes in a more holistic fashion, right, because the problem in Katrina, it wasn't just the hurricane. It was certainly the problems with the maintenance of the levees, but also coastal erosion, land loss, the long history of the oil and gas canals that hadn't been closed off.
+
+**6:37** · All of these myriad factors that were just piling on risk.
+
+**6:40** · LISA DESJARDINS: There is holistic thinking on a local level here, like in the hard-hit Lower Ninth Ward.
+
+**6:46** · ARTHUR JOHNSON, Sustain the Nine: There were a lot of promises after Katrina, but not a lot of fulfillment of those promises.
+
+**6:51** · LISA DESJARDINS: Arthur Johnson helps run a group known as Sustain the Nine.
+
+**6:55** · ARTHUR JOHNSON: We lost a lot of trees from Katrina, millions of trees. And then every year you have a storm and that takes trees out.
+
+**7:01** · LISA DESJARDINS: They are now planting cypress trees and other native plants to reduce erosion and teaching sustainability in the face of increasingly wild weather like tornadoes.
+
+**7:13** · ARTHUR JOHNSON: We're no longer just dealing with hurricane and hurricane season, which is now six months out of the year.
+
+**7:20** · LISA DESJARDINS: Like many low-lying places hit by Katrina, this area is at higher risk for problems. But this group insists on rebuilding.
+
+**7:28** · WILLIAM WAITERS, Sustain the Nine: We're not going away. I mean, Katrina couldn't drown us. So we damn well ain't going to allow no politician and their failed programs to drown us. It's not going to happen.
+
+**7:42** · LISA DESJARDINS: That's not the only existential debate connected to Katrina. Musician Michael White feels it.
+
+**7:49** · MICHAEL WHITE: There is no return to normal. Life as I knew it ended with Katrina. And it took a long time for that to sink in. I feel like I'm on my second life, because everything changed. Everything was destroyed or gone. And a part of me kind of died with Katrina.
+
+**8:08** · LISA DESJARDINS: But something else was born. He rarely composed before the storm, but now writing songs has become a daily lifeline.
+
+**8:17** · MICHAEL WHITE: I just pick up my clarinet and I don't think about it. I just play a note. I don't know what comes after that, but I will just play another note. And so from there, I will go: MICHAEL WHITE: After kind of coming away from the pain and the difficulties of Katrina for many years, my mind seemed to open up. And it seems like all of the music that I have ever heard is kind of in my head simmering around, like a gumbo pot.
+
+**8:57** · And it's like if you stir the pot you never know what comes up, like, a shrimp, an oyster, hot sausage. All of those things are in gumbo, and that's kind of what it's like.
+
+**9:12** · LISA DESJARDINS: Twenty years on, New Orleans still has not recovered from Katrina. But like the music it helped create, it keeps improvising.
+
+**9:22** · For the "PBS News Hour," I'm Lisa Desjardins in New Orleans.
+
+#### Creating Climate-Resilient Communities through Vacant Lot Restoration
+
+**National Wildlife**, *06 29, 2021*
+
+##### Video (5:36)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nmXnBi5Q5K8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Over the last two years, National Wildlife Federation piloted a project with the Pennsylvania Horticultural Society’s Philadelphia LandCare program to transform a network of vacant lots into climate-resilient wildlife habitat.  We wanted to explore how cities with vacant lots can restore these sites to provide pollinator habitat, green stormwater infrastructure, equitable access to nearby nature, and create economic/job training opportunities.
+
+Learn more:
+1) https://www.nwf.org/Magazines/National-Wildlife/2021/April-May/Conservation/Lot-Revival
+2) https://blog.nwf.org/2021/02/vacant-lots-to-pollinator-habitat-in-philadelphia-pa/
+
+##### Transcript
+
+###### Transforming communities
+
+**0:00** · I mean, for me, it's inspirational and it gives me hope in seeing investment from the city, from nonprofits, from community members transforming lots that are public health hazards and eyesores, and dangerous, and turning them into usable, safe, beautiful green spaces.
+
+**0:25** · Yeah, I love it.
+
+**0:27** · It It's making a difference. It's making an impact in people's lives.
+
+###### The land care program
+
+**0:34** · The city of Philadelphia is a post-industrial city, and so we have a lot of vacant lots in the city. And unfortunately, most of them, whether they're privately owned or city-owned, don't have the capacity to maintain them.
+
+**0:47** · And so they grow heavy weeds, and, you know, people dump their trash on there, and there's debris, and it's just It's an eyesore. It's not something that people deserve to live by.
+
+**0:58** · So that's where we at PHS come in. We have our Philadelphia Land Care program, where we completely clean and green these vacant lots, so that you know, what was formerly a terrible eyesore is now a community asset, which people can use, and people can enjoy, and they feel safer around.
+
+**1:17** · Through this project, we're trying to change the narrative behind vacant lots, and switching it from a detriment and a negative to a community asset, and realizing that we have all this open, accessible land, and that it could serve as easy and equitable access to nature and to green space in urban environments, but it can also provide ecological habitat as well.
+
+###### Greening and infrastructure
+
+**1:42** · We've noticed the soil quality has improved, which helps with drainage. And we In Philadelphia, have a lot of of stormwater management issues when it rains heavily.
+
+**1:52** · PHS, their Land Care program, they'll stabilize a lot, and they'll bring in sod, and they'll plant some trees, but we are taking this awesome program to the next level, and we're installing pollinator gardens, um which serve as habitat for birds, bees, and butterflies, and all sorts of critters. These gardens are able to absorb more runoff and stormwater, preventing overflows in sewers. So we're really hoping that not only can we provide habitat, but we can provide water quality benefits as well.
+
+**2:21** · Some of our our lots, we collaborate with the Mural Arts program, which they paint these beautiful murals. And then, the National Wildlife Federation, in collaboration with the a local university, they found that it has a positive impact on the climate, as well.
+
+###### Art and wildlife impact
+
+**2:36** · So when we have the the clean lawn, the mural, and then the added texture and and beauty from the gardens, it really creates such a beautiful space for the community.
+
+###### Local economic impact
+
+**2:49** · We're also working with 12,000 lots, which is a lot. You can't manage that much through a volunteer basis. So we found it actually to be much more sustainable by hiring local contractors or working with community organizations to maintain the lot itself. And what's great is that we actively search to work with local landscape contractors to help build their capacity. And they hire community members from the neighborhoods that we're that we're working in.
+
+**3:18** · And so really, you know, we're investing a lot of dollars to clean these lots, but that money's going right back into the neighborhoods, helping to create jobs, and then it it helps kind of build ownership, as well.
+
+###### Personal perspective
+
+**3:32** · When you get up in the morning, you know, just taking your kids to daycare, school, you want your community to look right. You don't want to come out, see trash everywhere, or just a mess. I'm only like 30 days, if that, in, but it's giving me a different perspective on like everything, far as beautifying your neighborhood. Even though it's a job, when you go back home and you see like a lot on your block when you're not at work, you're going to probably want to do something to it, like, why we can't just make every block and every street in the city look good? Landscaping gave me a a different outlook about life.
+
+**4:06** · What landscaping really is not just like weed whacking, cleaning, it's a whole lot of other aspects that go into it to try to help brighten and raise awareness in different communities. I wanted a contractor to really give me like an opportunity that I never had. I'm here to just get the experience, you know, listen, observe, pay attention to details.
+
+**4:27** · You know, there's a lot of lots that need work, and if you can get a lot of positive people and people to work with you, clean the lots up, it's a mess in the beginning, but when you step back and look at it with, you know, all the heart for the community, um it'll weigh much more nice for the neighborhood.
+
+###### Future expansion goals
+
+**4:45** · We would really love to see vacant lot restoration at scale throughout the Mid-Atlantic, and so we are really using this project and this opportunity to learn as much as we can about what has worked and what hasn't, so that we can really bring this to other cities and make it a stronger priority.
 
 #### How China is designing flood-resistant cities
 
@@ -611,7 +1615,625 @@ Listen to our podcasts: https://www.vox.com/podcasts
 
 **6:27** · They can do things to make cities better.
 
+#### How melting glaciers contributed to Himalayas flooding
+
+>Episode  of  (Season )
+>- *Released: *
+>- *Duration: 00:08:45*
+
+[***More details on pbs.org***](https://www.pbs.org/video/deadly-floods-1787864820/)
+
+<iframe width="560" height="315" title=PBS News Hour  How melting glaciers contributed to Himalayas flooding allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/deadly-floods-1787864820/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+##### Description
+
+How melting glaciers contributed to the flooding disaster in the Himalayas
+
+##### Transcript
+
+ AMNA NAWAZ: Welcome to the "News Hour."
+
+The scale of the disaster in the Himalayas is becoming clearer tonight after catastrophic flooding tore through parts of Nepal and neighboring Tibet.
+
+Scientists now believe the disaster was likely triggered by the collapse of a glacier high in the mountains, unleashing a torrent of water, mud, and debris that swept away bridges, roads, and entire communities.
+
+GEOFF BENNETT: President Trump today called the devastation in Nepal brutal.
+
+The death toll stands at least 390, with more than 1,400 others still missing.
+
+That's as rescue crews race to reach survivors in some of the world's most difficult terrain.
+
+In the valleys that carve through the highest peaks in the world, villages are now buried in mud.
+
+This is Nepal's Nuwakot district.
+
+Yesterday's floods left behind a layer of sludge so high, it reached rooftops and trapped trucks as if in quicksand.
+
+Survivors recounted the terror as it all unfolded without warning.
+
+JANAK BAHADUR, Flood Survivor (through translator): It came in suddenly and exploded like a bomb.
+
+The river looked small from a distance, but it suddenly started overflowing and swept through this place.
+
+GEOFF BENNETT: Geological experts believe a glacier collapse some 30 miles north of Kathmandu was likely what caused the disaster.
+
+These satellite images show the glacier along those snowy peaks there at the bottom before the collapse.
+
+And this is what it looks like now, the surrounding rivers swollen by the floodwaters and debris rushing downstream.
+
+Cell phone video showed the torrent starting to barrel toward this hydroelectric dam.
+
+Within seconds, it bursts through the other side and engulfs the entire site, this border crossing between Nepal and Tibet, the autonomous region in China, now completely destroyed by the ensuing landslides.
+
+Nepalese officials say the floods have swept away dozens of bridges and damaged some 25 miles of roads.
+
+That, combined with the already treacherous terrain of the Himalayas, have made rescue efforts especially difficult.
+
+Nepal's army says it's airlifted more than 100 people to safety using helicopters.
+
+On the ground, crews trudge through knee-deep mud with the aid of search dogs to locate the missing, hoisting them onto their backs, many survivors transported to hospitals in Kathmandu.
+
+But as the search grinds on, many families have no choice but to wait for news they fear may never come.
+
+SUBINA TAMANG, Wife of Missing Man (through translator): All I want is that my husband comes back to me safely in one piece.
+
+I do not want anything else.
+
+CHAMINDI SHRESHTHA, Mother of Missing Man (through translator): My son is stuck in the floods.
+
+He is a truck driver.
+
+And he said he was driving.
+
+There is no news of him.
+
+We are not able to find out anything.
+
+GEOFF BENNETT: The scale of this catastrophe is being felt across the region.
+
+Officials in China say they're searching for hundreds of people still missing in Tibet, where floodwaters stretched for miles across the vast plateau.
+
+Authorities said a new lake was formed in the deluge.
+
+A spokesperson for China's Foreign Ministry vowed to send aid to Nepal, which has significantly fewer emergency resources than its neighbor.
+
+LIN JIAN, Chinese Foreign Ministry Spokesperson (through translator): The mudslide has caused massive casualties and left many missing in both China and Nepal.
+
+The two sides are having close communication and coordinating efforts for search-and-rescue.
+
+GEOFF BENNETT: Among the missing, some 500 foreign nationals.
+
+The U.S.
+
+State Department this morning confirmed three Americans had been rescued, but as many as 90 may have been affected by the floods.
+
+SADHGURU JAGGI VASUDEV, Indian Spiritual Leader (through translator): I wish to bring to your notice that there has been a terrible... GEOFF BENNETT: In an emotional message today, the Indian spiritual leader known as Sadhguru said a group had been on a holy pilgrimage in the area and got caught in the floods.
+
+He said 22 of them were U.S.
+
+citizens.
+
+And for more on what caused the devastating floods, we're joined now by Dan Shugar, who heads the waterSHED Lab at the University of Calgary.
+
+Thanks for being with us.
+
+DAN SHUGAR, waterSHED Lab Director, University of Calgary: Thank you.
+
+GEOFF BENNETT: So scientists believe the deadly flood in Nepal may have started when a massive chunk of ice snapped off a glacier high in the Himalayas, unleashing this devastating cascade into the valley below.
+
+Walk us through how that might have happened.
+
+DAN SHUGAR: That was certainly our initial thought as to what happened based on the information that we had yesterday from some preliminary satellite information.
+
+It's changed a little bit since then, but the general story is still the same.
+
+At about just under 5,000 meters elevation is a glacier that in the satellite imagery that we saw yesterday essentially two days ago was there, yesterday was gone, and the flood resulted downstream.
+
+Since then, we have found that glacier ice - - chunk of glacier ice that essentially disappeared downstream was part of a much larger mass of bedrock, so a gigantic chunk of the mountainside that collapsed, essentially exploding as it descended a vertical kilometer to the valley bottom, melting all that ice, and then flowing out and generating the floods that we saw in those horrific videos.
+
+GEOFF BENNETT: What makes that part of the Himalayas so vulnerable?
+
+DAN SHUGAR: That's a good question.
+
+I suppose it would be a couple of things, one, incredibly steep topography and then huge relief, so massive differences between the low points and the high points, lots of glaciers, lots of glacial lakes, which weren't an issue in this particular disaster, but certainly in other ones.
+
+A lot of seismic activity.
+
+The Gorkha earthquake wasn't that long ago, and we saw very similar sort of disasters unfold, in fact, just on the other side of this mountain.
+
+And the human part of that equation, I think, is important.
+
+Unlike in Western North America, in much of the Himalaya, you have settlements in these incredibly high, narrow valleys that essentially are putting people and infrastructure and livelihoods at risk when these landslides or these floods come down.
+
+GEOFF BENNETT: The other human element at play, it strikes me, is climate change.
+
+What role does climate change play here?
+
+What can scientists say with confidence about the connection between rising temperatures, retreating glaciers, and disasters like this one?
+
+DAN SHUGAR: We can speak in generalities, because it's a little bit hard to speak about the specific event just yet because we haven't done any sort of attribution study.
+
+As temperatures rise, glaciers will melt, will thin vertically, destabilizing the valley walls that they formerly were sort of help -- hoping -- or helping to hold up.
+
+Additionally, as air temperatures rise, the permafrost is changing, and so permafrost is just ground that remains frozen year-round year after year.
+
+But in some areas, both at high altitudes, but also in the north, permafrost is destabilizing because of warming temperatures.
+
+And that can cause large landslides like this as well.
+
+And then a third factor, I think would be changes in precipitation patterns, not only in terms of intensity, but in terms of when during the year they occurred.
+
+Water can get underneath the glaciers, allowing them to slide a little bit more rapidly, any number of ways that that extra water can sort of enhance or increase the likelihood of one of these kinds of events.
+
+GEOFF BENNETT: Dan, what lessons can be learned from this disaster?
+
+DAN SHUGAR: I think that these landscapes, these steep mountain landscapes, are continually evolving due to climate change.
+
+And the global community, not just the government of Nepal or China or India, need -- the global community, we need to be stepping up to help mitigate these risks and to enhance the resiliency of people living in these environments that are subject to these disasters that, when there's a climate change link, we in the rich West are largely responsible for.
+
+GEOFF BENNETT: Dan Shugar with the waterSHED Lab at the University of Calgary, thanks for joining us this evening.
+
+DAN SHUGAR: Thank you.
+
+#### Inside a Category 5 Hurricane Simulator
+
+**Be Smart**, *06 02, 2022*
+
+##### Video (12:32)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/g4SjaZb1AIM?start=603 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+SUBSCRIBE so you don’t miss a video! ►► http://bit.ly/iotbs_sub 
+
+We’re on PATREON! Join the community https://www.patreon.com/itsokaytobesmart
+
+↓↓↓ More info and sources below ↓↓↓
+
+Hurricanes, typhoons, and tropical cyclones are Earth’s most powerful storms, capable of unleashing destruction and death on coastal areas worldwide. As climate change warms Earth’s oceans, we face more risk of storms rapidly intensifying into category 5, sometimes in less than a single day. Being able to predict these rapidly intensifying storms will save lives, but studying hurricanes in detail is difficult and dangerous. So in order to improve our understanding of hurricanes, scientists have built a machine that can create hurricane conditions indoors. weather hurricanes 
+
+Filmed at the Alfred C. Glassell, Jr. SUSTAIN Laboratory at the Rosenstiel School of Marine and Atmospheric Science at the University of Miami https://sustain.rsmas.miami.edu/ 
+
+
+
+Special thanks to our Brain Trust Patrons:
+
+Matt Clark
+
+Ali Freiburger
+
+Mehdi Damou
+
+Barbora Bei
+
+Ken Board
+
+Clinger-Hamilton Family
+
+Attila Pix
+
+Burt Humburg
+
+DeliciousKashmiri
+
+Roy Lasris
+
+dani bowman
+
+David Johnston
+
+Salih Arslan
+
+Baerbel Winkler
+
+Robert Young
+
+Amy Sowada
+
+Eric Meer
+
+Dustin
+
+Karen Haskell
+
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+##### Transcript
+
+###### The power of hurricanes
+
+**0:03** · This is what it's like to be in a category five hurricane.
+
+**0:07** · Deadly, deadly winds and waves here.
+
+**0:10** · This is unbelievable.
+
+**0:12** · These are Earth's most powerful storms up to a thousand miles across and capable of devastating coastal areas with massive rains, surging waves and sustained winds of more than 160 miles per hour.
+
+**0:26** · Hurricanes, also known as typhoons or tropical cyclones, form over warm tropical oceans, where they draw up huge amounts of heat, energy, and moisture.
+
+**0:36** · A hurricane's intensity depends on how much energy it can pull from warm ocean water.
+
+**0:41** · And as humans have changed the climate, the oceans have heated up creating the potential for more intense hurricanes happening more often.
+
+**0:50** · So in order to better predict the destructive impact of these swirling superstorms and to save lives, scientists have built this, a machine that can create the worst imaginable hurricane conditions indoors.
+
+**1:09** · (gentle music) Hey, smart people, Joe here.
+
+###### Hurricane vulnerability
+
+**1:15** · No one knows exactly when it's gonna happen but at some point in the future, a hurricane is going to make landfall right near where I am standing right now.
+
+**1:25** · And that's a potentially disastrous scenario because this Southern tip of Florida is home to more than 6 million people.
+
+**1:34** · On August 24th, 1992, hurricane Andrew made landfall 25 miles south of Miami bringing with it a 16 foot high storm surge and 165 mile an hour winds, and leaving in its wake $25 billion worth of damage and more than 40 deaths.
+
+**1:54** · Andrew was a category five storm, the highest rating of hurricane intensity.
+
+**1:59** · Damage from a category five storm hitting Miami today could easily exceed $100 billion.
+
+**2:06** · With more people and buildings near the coast than ever before and in other densely populated coastal areas around the world, the potential for devastation is similar.
+
+**2:16** · Scientists have gotten pretty good at predicting the paths that hurricanes will take, but predicting how powerful those hurricanes will be is a much less accurate process.
+
+**2:26** · The models simply aren't refined enough.
+
+**2:29** · To create better tools to make these predictions, scientists have to get up close and study hurricanes in detail.
+
+**2:35** · Scientists have created many advanced tools to study hurricanes using remote instruments by flying into them and even following them from space.
+
+###### The sustain laboratory
+
+**2:45** · But many of the mysteries they need to solve require looking at storms up close and collecting data at extremely small scales.
+
+**2:53** · Unfortunately, studying the world's most powerful storms up close and personal is pretty dangerous work.
+
+**2:59** · Unless you can make the hurricane come to you by creating a hurricane.
+
+**3:05** · Brian.
+
+**3:06** · Hi Joe.
+
+**3:07** · This is the SUSTAIN wind wave laboratory. SUSTAIN stands for surge, structure, atmosphere, interaction.
+
+**3:13** · [Joe] This has gotta be one of the coolest science toys to play with in the world.
+
+**3:17** · Is this cool?
+
+**3:18** · Well you still get a chill sometimes watching it, even though I've seen it run hundreds of times by now.
+
+**3:25** · [Joe] The SUSTAIN lab at the University of Miami is a giant wind tunnel and wave machine combo that allows scientists to study where the atmosphere meets the ocean and how they interact all the way up to category five hurricane conditions.
+
+**3:39** · The category five storm is defined by wind speed. That's about 155 miles an hour sustained winds. Obviously that's a wind that none of us, unless we are jumping out of airplanes or sports cars-- [Joe] Or F1 drivers.
+
+**3:55** · Have no experience with, but it is tremendously hazardous to life and property.
+
+**4:02** · [Joe] And you can make that in here?
+
+**4:03** · We can create the conditions right here that is equivalent to a category five hurricane. This is the largest structure in the world that like this that can blow this kind of wind speed over water. And look at the combined loads.
+
+**4:19** · [Joe] Is there like a big button that just says hurricane on?
+
+###### Testing in the storm tank
+
+
+**4:22** · We have a, it's a pretty much like a Frankenstein lever. We will turn it on.
+
+**4:27** · I really wanna turn this thing on.
+
+**4:29** · You think we can do that?
+
+**4:30** · Yeah, I think we can do that.
+
+**4:31** · Okay. I'm really looking forward to this.
+
+**4:36** · For the wind.
+
+**4:38** · You make it nice and simple.
+
+**4:39** · So you're like, do this first.
+
+**4:42** · Do this second.
+
+**4:44** · Anybody can figure it out.
+
+**4:46** · When that lever is pushed, a 1500 horsepower fan draws in air from outside the facility, which is then squeezed down like a giant leaf blower increasing its velocity before it enters the tank, their giant paddles push on the water to create the waves that will flow across the surface.
+
+**5:05** · So this is a Wavemaker drive that controls the wave patterns like computer programming. These drives will send out the math algorithm and convert it to electrical signals so that Wavemaker will be able to know how we're gonna make them move.
+
+**5:20** · [Joe] So you get custom waves.
+
+**5:21** · Yes, exactly.
+
+**5:22** · [Joe] You ever have like tiny surfer toys you want to put in there?
+
+**5:25** · We did.
+
+**5:26** · We actually put some little yellow ducks. (duck quacking) So we just put a camera inside the hurricane tank so that you could see what it would be like to be in a category five.
+
+**5:37** · Do not recommend.
+
+**5:41** · You've got a big red button here.
+
+**5:43** · That's our emergency stop on the Wavemaker.
+
+**5:46** · Let's make a hurricane.
+
+**5:47** · Starting to kick up.
+
+**5:48** · We're starting out here with just wind and then as we get up to full wind we're gonna turn on the waves too.
+
+###### Rapid intensification
+
+
+**5:55** · I think it's gonna get pretty hard to hear us here a a minute.
+
+**6:13** · Can you estimate how fast this is right now?
+
+**6:15** · It was at the full cat five right there.
+
+**6:17** · So more than 165?
+
+**6:20** · Yeah. More than that.
+
+**6:22** · Wow.
+
+**6:24** · I'm glad we're out here and not in there. Seeing category five hurricane winds from literal feet away was pretty awesome. And also kind of terrifying because I remember those winds are powerful enough to do stuff like this.
+
+**6:42** · Yikes.
+
+**6:43** · One of the key gaps in hurricane prediction has been the intensity.
+
+**6:48** · And that can be a huge problem if something like this happens. In 2017, hurricane Maria intensified from a category one to a category five storm in just 18 hours, leaving those in its path little time to prepare or seek shelter and ultimately causing more than 3000 deaths on the islands of Dominica and Puerto Rico. Hurricanes can grow from dangerous to potentially historic levels of destruction in basically no time flat.
+
+###### Atmosphere and ocean
+
+**7:19** · So being able to predict several days in advance whether a hurricane will be powerful could allow more time for evacuation and save lives. This storm machine is already helping scientists better understand how hurricanes grow. As a hurricane's winds blow over the waves, the rough surface of the ocean exerts a drag on the storm, sucking energy out of it similar to how friction slows down a sliding object by removing its kinetic energy.
+
+**7:49** · What we'd expect is as a hurricane gets stronger, rougher seas, and bigger waves would suck out even more energy, preventing storms from growing too quickly. But what they've shown using the hurricane simulator is when wind reaches a certain high speed, that drag levels off and stops slowing the storm down.
+
+**8:09** · When you blow the wind, it makes these huge waves. The energy that was in the wind went into making those waves. As the winds get really intense, you might get the wind not really interacting as much.
+
+**8:20** · [Joe] It almost feels like if I was in a car and I started going really fast, that all of a sudden my tires would stop sticking to the road as well as they did when I was going slowly.
+
+**8:31** · Exactly.
+
+**8:32** · That's a good way of looking at it. And all of a sudden the friction just disappears on your tires and-- [Joe] As soon as you hit 60 miles an hour, it's like, oh, the road turned to ice. Findings like these are already helping scientists create more accurate models that can predict earlier and more accurately when hurricanes will rapidly intensify. What makes this giant hurricane lab so special isn't just the intense winds or crashing waves.
+
+###### Weight of the storm
+
+**8:58** · It's being able to observe both of them as one interacting system.
+
+**9:02** · If we didn't have the waves coming in, then we wouldn't really be able to look at very many problems. People tend to think of, oh, a storm surge. That's you see a five foot storm surge or something like that is a forecast and think, well, my house is at eight feet, I should be fine. Well that doesn't take into account that you have 150 mile an hour winds pushing that water towards you.
+
+**9:24** · You'd have waves coming in that are huge waves breaking just giant bore of water.
+
+**9:29** · Water's heavy.
+
+**9:31** · Water is really heavy. Try to take a five gallon container of water and walk a long distance carrying it. It's a lot of weight. So water's a thousand times heavier than air. So when you get that wave hitting the structure, that's tremendously more loading than the air alone.
+
+###### Resilient engineering
+
+
+**9:54** · Despite some pretty far out ideas ranging from using bubbles to cool the ocean to dropping literal nukes into the eye of a storm, it's probably impossible to stop a hurricane, but we can use engineering to make things more resilient and even turn to nature for inspiration.
+
+**10:13** · You see, before all this was here, coastlines like this were covered in mangrove forests and healthy coral reefs far offshore, both of which are nature's two best ideas to minimize the impact of hurricanes. So in addition to restoring those natural defenses, engineers are using them as inspiration for things that we can build ourself.
+
+**10:35** · So these are sea hives.
+
+**10:36** · They're called sea hives because they look like beehives with these little holes and they're designed to be artificial breakwater so that the waves will break offshore on the sea hives like a few miles offshore. It will make energy dissipate so that the waves are weaker when they reach our shoreline so we are protected by these structures.
+
+**10:58** · It comes down to this.
+
+**11:00** · Our planet is getting warmer and warmer and so are our oceans and that's creating the potential for stronger and stronger storms. So it's essential that we learn everything we can about them to minimize the risks, save lives and learn to live with some of the effects of climate change.
+
+**11:17** · If you're one of the hundreds of millions of people around the world who live in an area that could be hit by a hurricane, a typhoon or tropical cyclone, well be thankful that there are scientists getting up close and personal with hurricanes so that you don't have to one day.
+
+**11:34** · Stay curious.
+
+###### Looking to the future
+
+**11:37** · Hey guys, that was an amazing thing to see. I wanna say thank you to everyone who supports the show on Patreon for helping make videos like this possible.
+
+**11:47** · If you'd like to find out how you can support the show, help us make more videos like this, see more cool stuff, also find out about videos before anybody else, and I have a bunch of other cool stuff, there's a link down a description where you can learn more and I will see you in the next video. Oh, and one more thing.
+
+**12:03** · I went this entire video without making a really bad dad joke about how this science blew me away.
+
+**12:09** · So can I get a high five?
+
+**12:15** · Oh, fantastic.
+
+**12:18** · It survived.
+
+**12:20** · Guess I made the joke after all. So it doesn't really count. Okay. Well, I tried.
+
+#### Why the Nepal flash flood was almost impossible to predict
+
+**CBC News**, *09 02, 2026*
+
+##### Video (11:52)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/TBCQP-CnEUQ?start=2 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+A collapsed glacier in Nepal caused catastrophic flooding that killed more than a thousand people, while thousands more are still missing. Andrew Chang breaks down what accelerated the flood to such a violent degree and how factors like the scale of the Himalayan mountains and the region's climate make prediction and monitoring so challenging.
+
+Intro - 00:00
+
+A cascading disaster - 1:34
+
+A blind spot? - 5:13
+
+CORRECTION (September 3, 2026): The correct unit of measurement for the debris described going down the mountain slope at 2:39 is metres. 
+
+(Photo credits: The Canadian Press, Reuters and Getty Images)
+
+
+
+»»» Subscribe to CBC News to watch more videos: http://bit.ly/1RreYWS
+
+For breaking news, video, audio and in-depth coverage: https://www.cbc.ca/news
+
+Follow CBC News on TikTok: https://www.tiktok.com/@cbcnews
+
+Subscribe to CBC News on Snapchat: https://bit.ly/3leaWsr
+
+Subscribe to CBC News on WhatsApp: https://www.whatsapp.com/channel/0029Vb6MSjH9Bb63S9tbQa1Y
+
+Download the CBC News app for iOS: http://apple.co/25mpsUz
+
+Download the CBC News app for Android: http://bit.ly/1XxuozZ
+
+»»»»»»»»»»»»»»»»»»
+
+For more than 80 years, CBC News has been the source Canadians turn to, to keep them informed about their communities, their country and their world. Through regional and national programming on multiple platforms, including CBC Television, CBC News Network, CBC Radio, CBCNews.ca, mobile and on-demand, CBC News and its internationally recognized team of award-winning journalists deliver the breaking stories, the issues, the analyses and the personalities that matter to Canadians.
+
+##### Transcript
+
+###### Intro
+
+**0:00** · If you ever needed convincing that minutes matter, this was it.
+
+**0:04** · Quick thinking on courage saved the lives of over 1,600 school children [music] as devastating flash floods hit Nepal on Wednesday.
+
+**0:11** · A wall of earth, ice, and water comes crashing down a mountain thousands of meters high. All that debris and flash flooding barreling through the valleys of Nepal, and this school is about to be wiped off the map.
+
+**0:25** · An entire river valley along the Nepal border wiped out in seconds.
+
+**0:29** · Because absolutely everything [music] is getting destroyed.
+
+**0:33** · A monster wave crashing down from the mountains sweeping away everything in its path.
+
+**0:38** · Entire towns washed away.
+
+**0:45** · But this school, which was also destroyed, best as I can tell, not one student died.
+
+**0:52** · I was inside my classroom.
+
+**0:53** · One of my colleagues went around and came here, and he said that the flood is coming, the flood is coming. All areas washed away.
+
+**1:01** · The principal you just heard figures he had about 13, 14 minutes to get nearly a thousand students out of school and to higher ground. [music] In the chaos of the evacuation, he even had the foresight to reroute buses full of [music] younger children that were on their way to school, telling them, "Don't come. Get somewhere safe." This is one incredible outcome in a disaster full of terrible ones, but it also raises a question.
+
+**1:28** · If someone knew this flood was coming, why didn't everyone get that call?
+
+###### A cascading disaster
+
+**1:39** · Even if you knew nothing about Nepal, I could situate this for you by saying this disaster happened about a hundred or so kilometers west of Mount Everest in the Himalayas. [music] And when we think about floods in this part of the world, especially during monsoon season, which [music] it is now, we're often thinking torrential downpours of rain. That's not what this was.
+
+**2:00** · What we really saw was that the the lower part of a tongue of a glacier completely sheared off across a width of 1,300 m and it's really like someone took a knife and basically cut the lower part of a glacier and dropped it off the mountain cliff.
+
+**2:14** · Yes, this wasn't initially water, but rather the earth and its ice that came crashing down. It's here on the northern face of the Langtang Range where this massive glacier is believed to have collapsed, detaching from the mountainside more than 5,000 m above sea level, sending an enormous amount of ice, rock, force, and energy screaming thousands of kilometers down a steep slope.
+
+**2:40** · The avalanche would ultimately tear through the twists and turns of the valley, slamming into a river, sending an immense amount of water, mud, and debris into nearby Rasuwagadhi, a gateway between Nepal and China, destroying it in seconds. The flash flood continued south, gathering more water, scarring the riverbanks, swallowing entire settlements along the way. Timure and surrounding towns basically [music] disappeared.
+
+**3:09** · Further south, Sabrubesi, it was considered a hub of the region. Thousands lived on either side of the river and tourists came here, too. If you wanted to trek through Nepal's mountainside, you might start here. But the whole area absolutely ravaged. Dams, buildings, highways, bridges washed away. And the destruction this flood carved through the country would eventually reach more than 100 km away from where it started.
+
+**3:41** · It all happened very quickly, too quickly. There are warning systems in place, but they're not really designed to track this kind of disaster.
+
+**3:50** · So, one of the only monitoring systems that we have in place are river gauges that that can track when there's a sudden increase in the water level. That can trigger a siren downstream that can hopefully get to the communities that need it in time for them to evacuate.
+
+**4:10** · Water [music] is a major threat in these mountain ranges, but flooding is usually driven by rain or by melt, things you can track in real time. So, river and lake levels, [music] for example, can rise during monsoon season, or you can have glacial meltwater pool and then burst its banks.
+
+**4:30** · Point is, it tends to happen gradually in a way that these river gauges can actually measure over time and then [music] relay that data downstream to where it's useful. Except in this case, it would have been like measuring the direction of a hurricane by holding out a finger. The speed of the flood was so overwhelming, the sudden flow so catastrophic, in some cases it destroyed the monitoring systems before they could even send their alerts.
+
+**4:59** · So, we went from, you know, real-time data to all of a sudden there was no information.
+
+**5:06** · So, how do you warn people about a disaster that moves faster than the warning system itself?
+
+###### A blind spot?
+
+
+**5:16** · [music] The thing is, there's a lot we understand about how these disasters happen.
+
+**5:23** · This is absolutely an event of a type that occurs in the Himalaya. It has occurred many times in recent recorded history.
+
+**5:31** · And even in those cases where people are in danger, there are success stories, like in Switzerland. Now, don't get me wrong, what happened in the small Swiss mountain town of Blattem last year was tragic.
+
+**5:45** · [music] An entire community was buried under an avalanche of ice and rock.
+
+**5:49** · Authorities saying 90% of the village of Blatten has been covered by thousands of tons of ice, [music] mud, and rock.
+
+**5:56** · But nearly every single person survived because the town had been evacuated [music] more than a week earlier. Hundreds of people fleeing the area well in advance because of what locals and scientists had been noticing for years.
+
+**6:13** · In the European Alps, uh the mountainside collapse in Blatten, Switzerland, uh a year or so ago, uh that was known to be an issue well before it happened.
+
+**6:24** · These are photos from a Swiss natural hazard monitoring company showing radar and camera setups pointed directly at the [music] mountain, which they had believed at the time might give way at any moment. This type of precise [music] measuring equipment can reveal even the tiniest details about a mountain, its cracks, its movement, the slightest [music] changes in position. And what that equipment detected was this.
+
+**6:48** · What you're seeing here is a 26-hour time-lapse [music] from the same Swiss company, GeoPrevent, just before the glacier collapse. Maybe seemingly slow, but alarmingly fast [music] for a mountain. The Earth was moving 10 m a day.
+
+**7:09** · With this kind of information, you [music] can't predict the exact timing of the collapse itself. But this kind of observation is what allowed scientists to recognize [music] the increasing chance that something bad might happen at some point. The danger [music] was progressive and predictable.
+
+**7:27** · It's easier to access some of those cliff sides in Switzerland, get sensors and monitoring equipment in those locations so that we can keep get real-time data. Here in Nepal, um the extreme elevations we're looking at, there's just there's no trail to the top, there's not a cable car there.
+
+**7:43** · The capacity and the resources necessary are going to be very difficult to replicate in places like the Himalayas.
+
+**7:50** · It's one thing when you've been noticing changes over a long period and you decide to point a whole bunch of measuring devices at a very specific spot. But the problem with the Himalayas is scale.
+
+**8:01** · The physical scale of the range, the difficulty in working with it, the fact that it's often covered in clouds as it is due to the monsoon season now, it it presents tremendous challenge for prediction and monitoring.
+
+**8:14** · This part of the world isn't just a mountain range. It is an entire wall of mountains stretching thousands of kilometers containing some of the highest peaks and deepest valleys on Earth.
+
+**8:28** · Glaciers and the lakes they melt into are a key concern because they can overflow. But there are thousands of them across Asia and [music] scientists do their best to track every single one with reports like this one from 2020 creating a meticulous inventory of the most dangerous sites like one giant catalog of risk. There's promise there, maybe, you think. And looking in hindsight at what happened in Nepal, they are indeed finding clues that suggest maybe these types of events are predictable.
+
+**9:02** · A new report published after the collapse refers to how movement of the ice surface sped up just prior, how meltwater had turned visibly brown suggesting mountain sediment was shifting. Also, noticing a crack propagating in the days leading up to the disaster. Even learning to better track events as they occur, noticing that the mass movement caused a seismic signal at a magnitude larger than four. So, maybe there's promise in deploying more seismic sensors.
+
+**9:33** · And imagine tying all that knowledge together, pushing it to the limit using AI, combining susceptibility maps [music] with real-time data to inch closer and closer to predicting the unpredictable. But then you remember, once again, the problem of scale. I think one Washington-based think tank put [music] it best. The Himalayan region offers more slopes capable of failing at this magnitude [music] across greater vertical relief than anywhere else on Earth.
+
+**10:04** · Then it goes on to this point of how hard it can be to gauge risk even when you think you've found it. Of roughly a dozen extreme flow events in the region in the [music] past 10 years, only one originated in a place already known to be a risk. Every other one of these events also came from somewhere no one was watching.
+
+**10:26** · It's very challenging to predict exactly where and when these rock collapses are going to occur.
+
+**10:33** · It would be terrific if you could put sensors in in all the locations where events like this potentially were going to happen, but it's just not practical to monitor so many different locations all at once. As remote sensing technologies improve, as computing improves, we'll be more and more able to watch the landscape and detect small amounts of change, but that's still a work in progress.
+
+**11:01** · And that's really the key to all of this. Right now, there is no crystal ball, just small incremental ways scientists are learning how to buy precious seconds, maybe even minutes. But trying to prevent or even predict the inevitable, National Geographic referred to these glaciers as cryogenic time bombs, a reference to our changing climate and how frozen water that makes up this kind of glue that binds the Earth together, the cryosphere, it's melting.
+
+**11:33** · Is that to blame in Nepal?
+
+**11:36** · We may never know directly, but it is why scientists [music] are so certain something like this will happen again. It's just a question of when and where.
+
+**11:46** · [music]
+
 ### Films
+
+#### ⁨Nepal’s Deadly Floods
+
+>Episode 12  of The Whole Story With Anderson Cooper (Season 4)
+>- *Released: 2026-10-11*
+>- *Duration: 00:45:00*
+
+[***More details on hbomax.com***](https://play.hbomax.com/video/watch/4954dec8-7b81-452f-8a13-2c63d4ae2e4b)
+
+<iframe width="560" height="315" title=⁨Nepal’s Deadly Floods allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=chrome-extension://cnjifjpddelmedmihgijeibhnjfabmlf/side-panel.html?context=iframe\></iframe>
+
+##### Description
+
+Anderson Cooper reports from Nepal, where rescue efforts continue after a series of deadly flash floods.
+
+##### Transcript
 
 #### We Gonna Ride It Out Like We Always Do
 
@@ -620,3 +2242,21 @@ Listen to our podcasts: https://www.vox.com/podcasts
 >[***More details on netflix.com***](https://www.netflix.com/watch/81753022?trackId=288274279)
 
 <iframe width="560" height="315" title=We Gonna Ride It Out Like We Always Do allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://www.netflix.com/watch/81753022?trackId=288274279></iframe>
+
+#### Why is THIS the DEADLIEST river in the US
+
+##### Weathered  Why is THIS the DEADLIEST river in the US  Season 7
+
+>Episode 10 of Weathered (Season 7)
+>- *Released: 2026-04-14*
+>- *Duration: 00:12:30*
+
+[***More details on pbs.org***](https://www.pbs.org/video/why-is-this-the-deadliest-river-in-the-us-3tk2yj/)
+
+<iframe width="560" height="315" title=Weathered  Why is THIS the DEADLIEST river in the US  Season 7 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/why-is-this-the-deadliest-river-in-the-us-3tk2yj/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+###### Description
+
+Why is the Guadalupe River America's deadliest? Science, "Rain Bombs," and Flash Flood Alley.
+
+###### Transcript

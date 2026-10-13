@@ -1,3 +1,338 @@
+- title: " How melting glaciers contributed to Himalayas flooding"
+  video: "https://www.pbs.org/video/deadly-floods-1787864820/"
+  description: "How melting glaciers contributed to the flooding disaster in the Himalayas"
+  duration: 525
+  creator: "PBS"
+  published_at: "2026-08-27"
+  cover: null
+  embed: "https://player.pbs.org/portalplayer/deadly-floods-1787864820/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\""
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Floods"
+  genre: "News"
+  source: "pbs.org"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+    - "episode"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "178786482020261013"
+  series: "PBS News Hour"
+  episode_number: null
+  episode_season: null
+  type: "video"
+  duration_string: "00:08:45"
+  authors: "PBS"
+  published: "2026-08-27T00:00:00.000Z"
+  released: "2026-08-27"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Disasters"
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+  topics:
+    - "Floods"
+  themes:
+    - "Disasters"
+  dates:
+    - "2026-09-10T16:00:00"
+    - "2026-09-15T16:00:00"
+  course_name: "Human Health & the Environment"
+  author_first: "PBS"
+  author_last: "PBS"
+  author_display: "PBS"
+  profile: "video"
+  attachments:
+    []
+- title: "'Nutty' situation in Lincoln Park  WGN Investigates"
+  video: "https://www.youtube.com/watch?v=JiNPbuP8a2k&t=32s"
+  description: "The piles of nuts first began appearing outside a Lincoln Park home a few years ago, attracting a swarm of squirrels. Since then, workers carrying matching shoulder bags have been spotted dumping pile"
+  duration_string: "4:23"
+  creator: "WGN News"
+  author: "WGN News"
+  published_at: "2026-09-29"
+  released: "2026-09-29"
+  cover: "https://i.ytimg.com/vi/JiNPbuP8a2k/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/JiNPbuP8a2k?start=32"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Urban Infrastructure & Housing"
+    - "One Health"
+    - "Vectors"
+    - "Zoonoses"
+    - "Epidemiology"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "JiNPbuP8a2k87741124305"
+  duration: "264"
+  type: "video"
+  image: "!['Nutty' situation in Lincoln Park  WGN Investigates](https://i.ytimg.com/vi/JiNPbuP8a2k/maxresdefault.jpg)"
+  authors: "WGN News"
+  series: "WGN News"
+  published: "2026-09-29T00:00:00.000Z"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Infrastructure"
+    - "Introduction"
+    - "Pathogens"
+  author_first: "News"
+  author_last: "News"
+  author_display: "WGN News"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "20 years later, a look at Katrina's lasting impact and concerns over future storms"
+  video: "https://www.youtube.com/watch?v=SX3vnnlR3Yg"
+  description: "It's been 20 years since Hurricane Katrina devastated the Louisiana, Mississippi and Alabama coasts. While Katrina remains the costliest U.S. natural disaster, the deepest impact is found in the human"
+  duration_string: "10:13"
+  creator: "PBS NewsHour"
+  author: "PBS NewsHour"
+  published_at: "2025-08-28"
+  released: "2025-08-28"
+  cover: "https://i.ytimg.com/vi/SX3vnnlR3Yg/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/SX3vnnlR3Yg"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Floods"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "SX3vnnlR3Yg87741124305"
+  duration: "614"
+  type: "video"
+  image: "![20 years later, a look at Katrina's lasting impact and concerns over future storms](https://i.ytimg.com/vi/SX3vnnlR3Yg/maxresdefault.jpg)"
+  authors: "PBS NewsHour"
+  series: "PBS NewsHour"
+  published: "2025-08-28T00:00:00.000Z"
+  year: 2025
+  assigned: true
+  themes_possible:
+    - "Disasters"
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+  topics:
+    - "Floods"
+  themes:
+    - "Disasters"
+  dates:
+    - "2026-09-10T16:00:00"
+    - "2026-09-15T16:00:00"
+  course_name: "Human Health & the Environment"
+  author_first: "NewsHour"
+  author_last: "NewsHour"
+  author_display: "PBS NewsHour"
+  profile: "video"
+  attachments:
+    []
+- title: "5 Tiny Pests That Could Be In Your Home Right Now  Deep Look"
+  video: "https://www.youtube.com/watch?v=xbW0dUfKOkk"
+  description: "We hope your spring cleaning doesn’t uncover bed bugs, dust mites, termites, drain flies or cockroaches.00:14 Dust mites03:24 Bed bugs07:19 Termites10:42 Drain flies14:26 Cockroaches👉 SIGN UP"
+  duration_string: "17:59"
+  creator: "Deep Look"
+  author: "Deep Look"
+  published_at: "2025-04-01"
+  released: "2025-04-01"
+  cover: "https://i.ytimg.com/vi/xbW0dUfKOkk/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/xbW0dUfKOkk"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Pest Management"
+    - "Vector Ecology"
+    - "Epidemiology"
+    - "Urban Infrastructure & Housing"
+  genre: "Science & Technology"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "xbW0dUfKOkk87741124305"
+  duration: "1080"
+  type: "video"
+  image: "![5 Tiny Pests That Could Be In Your Home Right Now  Deep Look](https://i.ytimg.com/vi/xbW0dUfKOkk/maxresdefault.jpg)"
+  authors: "Deep Look"
+  series: "Deep Look"
+  author_first: "Look"
+  author_last: "Look"
+  author_display: "Deep Look"
+  published: "2025-04-01T00:00:00.000Z"
+  year: 2025
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Infrastructure"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "A Brief History of Environmental Justice"
+  video: "https://www.youtube.com/watch?v=30xLg2HHg8Q&t=55s"
+  description: "Landfills, chemical waste facilities and power plants are more often built in poor and minority communities, which don't have the power or money to advocate for themselves. For decades, these commun"
+  duration_string: "3:35"
+  creator: "ProPublica"
+  author: "ProPublica"
+  published_at: "2017-08-04"
+  released: "2017-08-04"
+  cover: "https://i.ytimg.com/vi/30xLg2HHg8Q/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/30xLg2HHg8Q?start=55"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "30xLg2HHg8Q87741124305"
+  duration: "216"
+  type: "video"
+  image: "![A Brief History of Environmental Justice](https://i.ytimg.com/vi/30xLg2HHg8Q/maxresdefault.jpg)"
+  published: "2017-08-04T00:00:00.000Z"
+  year: 2017
+  assigned: true
+  themes_possible:
+    - "Introduction"
+  class_days:
+    - "ENVN4320_W2D2"
+  topics:
+    - "Environmental Justice"
+  themes:
+    - "Introduction"
+  dates:
+    - "2026-09-03T16:00:00"
+  course_name: "Human Health & the Environment"
+  authors: "ProPublica"
+  series: "ProPublica"
+  author_first: "ProPublica"
+  author_last: "ProPublica"
+  author_display: "ProPublica"
+  profile: "video"
+  attachments:
+    []
+- title: "America's deadliest road, explained"
+  video: "https://www.youtube.com/watch?v=0-nthHT-J1k"
+  description: "US road design favors speed over pedestrian safety.Subscribe and turn on notifications 🔔  so you don't miss any videos: http://goo.gl/0bsAjO Most American roads aren’t just unpleasant for pedestr"
+  duration_string: "7:16"
+  creator: "Vox"
+  author: "Vox"
+  published_at: "2022-11-10"
+  released: "2022-11-10"
+  cover: "https://i.ytimg.com/vi/0-nthHT-J1k/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/0-nthHT-J1k"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Transportation"
+    - "Urban Infrastructure & Housing"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "0-nthHT-J1k87741124305"
+  duration: "437"
+  type: "video"
+  image: "![America's deadliest road, explained](https://i.ytimg.com/vi/0-nthHT-J1k/maxresdefault.jpg)"
+  authors: "Vox"
+  series: "Vox"
+  published: "2022-11-10T00:00:00.000Z"
+  year: 2022
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Infrastructure"
+  author_first: "Vox"
+  author_last: "Vox"
+  author_display: "Vox"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
 - title: "Greenlining Fund Invests in Omaha’s Historically Redlined Neighborhoods"
   video: "https://www.youtube.com/watch?v=hkibb2WLq3Q"
   description: "The Omaha News streams live every Wednesday at 4 p.m. on YouTube, Facebook and The Knowledge Network (TKN) during the academic year. The half-hour newscast also airs state-wide on NET reaching all of"
@@ -15,7 +350,7 @@
   topics_possible:
     - "Environmental Justice"
     - "Redlining"
-    - "Healthy Housing"
+    - "Urban Infrastructure & Housing"
   genre: "News & Politics"
   source: "YouTube"
   tags:
@@ -41,12 +376,14 @@
     - "Infrastructure"
   class_days:
     - "ENVN4320_W6D1"
+    - "ENVN4320_W6D2"
   topics:
     - "Redlining"
   themes:
     - "Infrastructure"
   dates:
     - "2026-09-29T16:00:00"
+    - "2026-10-01T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -122,7 +459,7 @@
   topics_possible:
     - "Environmental Justice"
     - "Redlining"
-    - "Healthy Housing"
+    - "Urban Infrastructure & Housing"
   genre: "News & Politics"
   source: "YouTube"
   tags:
@@ -148,12 +485,73 @@
     - "Infrastructure"
   class_days:
     - "ENVN4320_W6D1"
+    - "ENVN4320_W6D2"
   topics:
     - "Redlining"
   themes:
     - "Infrastructure"
   dates:
     - "2026-09-29T16:00:00"
+    - "2026-10-01T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "How Can Walkable Cities Become the Norm  One Small Step"
+  video: "https://www.youtube.com/watch?v=wz3OZajk2A0&t=25s"
+  description: "Living in walkable cities is not only healthier for you, it's healthier for the environment — here’s how we can make more cities accessible and how that could benefit us in the long run. This episode"
+  duration_string: "12:45"
+  creator: "Did You See This?"
+  author: "Did You See This?"
+  published_at: "2021-11-15"
+  released: "2021-11-15"
+  cover: "https://i.ytimg.com/vi/wz3OZajk2A0/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/wz3OZajk2A0?start=25"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Transportation"
+    - "Environmental Justice"
+    - "Built Environments & Infrastructure"
+    - "Urban Infrastructure & Housing"
+  genre: "Science & Technology"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "wz3OZajk2A087741124305"
+  duration: "766"
+  type: "video"
+  image: "![How Can Walkable Cities Become the Norm  One Small Step](https://i.ytimg.com/vi/wz3OZajk2A0/maxresdefault.jpg)"
+  authors: "Did You See This?"
+  series: "Did You See This?"
+  author_first: "This?"
+  author_last: "This?"
+  author_display: "Did You See This?"
+  published: "2021-11-15T00:00:00.000Z"
+  year: 2021
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Infrastructure"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -203,12 +601,14 @@
     - "Toxins"
   class_days:
     - "ENVN4320_W6D1"
+    - "ENVN4320_W6D2"
   topics:
     - "Redlining"
   themes:
     - "Infrastructure"
   dates:
     - "2026-09-29T16:00:00"
+    - "2026-10-01T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -268,6 +668,117 @@
     - "Infrastructure"
     - "Introduction"
     - "Disasters"
+  profile: "video"
+  attachments:
+    []
+- title: "Inside a Category 5 Hurricane Simulator"
+  video: "https://www.youtube.com/watch?v=g4SjaZb1AIM&t=603s"
+  description: "SUBSCRIBE so you don’t miss a video! ►► http://bit.ly/iotbs_sub We’re on PATREON! Join the community https://www.patreon.com/itsokaytobesmart↓↓↓ More info and sources below ↓↓↓Hurricanes, typhoons"
+  duration_string: "12:32"
+  creator: "Be Smart"
+  author: "Be Smart"
+  published_at: "2022-06-02"
+  released: "2022-06-02"
+  cover: "https://i.ytimg.com/vi/g4SjaZb1AIM/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/g4SjaZb1AIM?start=603"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Floods"
+  genre: "Education"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "g4SjaZb1AIM87741124305"
+  duration: "753"
+  type: "video"
+  image: "![Inside a Category 5 Hurricane Simulator](https://i.ytimg.com/vi/g4SjaZb1AIM/maxresdefault.jpg)"
+  authors: "Be Smart"
+  series: "Be Smart"
+  published: "2022-06-02T00:00:00.000Z"
+  year: 2022
+  assigned: true
+  themes_possible:
+    - "Disasters"
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+  topics:
+    - "Floods"
+  themes:
+    - "Disasters"
+  dates:
+    - "2026-09-10T16:00:00"
+    - "2026-09-15T16:00:00"
+  course_name: "Human Health & the Environment"
+  author_first: "Smart"
+  author_last: "Smart"
+  author_display: "Be Smart"
+  profile: "video"
+  attachments:
+    []
+- title: "Neighborhood Walkability, Weight, and Diabetes"
+  video: "https://www.youtube.com/watch?v=v0FzuypF6bw"
+  description: "This study uses Canadian national health care and census data to estimate changes in overweight/obesity and diabetes prevalence by neighborhood walkability index between 2001 and 2012. Read the articl"
+  duration_string: "1:50"
+  creator: "TheJAMAReport"
+  author: "TheJAMAReport"
+  published_at: "2016-05-24"
+  released: "2016-05-24"
+  cover: "https://i.ytimg.com/vi/v0FzuypF6bw/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/v0FzuypF6bw"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Transportation"
+    - "Urban Infrastructure & Housing"
+    - "Environmental Justice"
+  genre: "Science & Technology"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "v0FzuypF6bw87741124305"
+  duration: "111"
+  type: "video"
+  image: "![Neighborhood Walkability, Weight, and Diabetes](https://i.ytimg.com/vi/v0FzuypF6bw/maxresdefault.jpg)"
+  authors: "TheJAMAReport"
+  series: "TheJAMAReport"
+  published: "2016-05-24T00:00:00.000Z"
+  year: 2016
+  assigned: true
+  themes_possible:
+    - "Infrastructure"
+    - "Introduction"
+  author_first: "TheJAMAReport"
+  author_last: "TheJAMAReport"
+  author_display: "TheJAMAReport"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
     []
@@ -346,6 +857,118 @@
   profile: "video"
   attachments:
     []
+- title: "Trash containers making a difference in NYC's war on rats"
+  video: "https://www.youtube.com/watch?v=UlIj0pwqroM"
+  description: "There have been fewer complaints about rats to 311, which appears to show trash container efforts are working. CBS News New York's Dave Carlin reports. For video licensing inquiries, contact: licens"
+  duration_string: "1:56"
+  creator: "CBS New York"
+  author: "CBS New York"
+  published_at: "2026-08-06"
+  released: "2026-08-06"
+  cover: "https://i.ytimg.com/vi/UlIj0pwqroM/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/UlIj0pwqroM"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Vectors"
+    - "Zoonoses"
+    - "One Health"
+    - "Urban Infrastructure & Housing"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "UlIj0pwqroM87741124305"
+  duration: "117"
+  type: "video"
+  image: "![Trash containers making a difference in NYC's war on rats](https://i.ytimg.com/vi/UlIj0pwqroM/maxresdefault.jpg)"
+  authors: "CBS New York"
+  series: "CBS New York"
+  author_first: "York"
+  author_last: "York"
+  author_display: "CBS New York"
+  published: "2026-08-06T00:00:00.000Z"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Pathogens"
+    - "Introduction"
+    - "Infrastructure"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "Trump makes announcement on autism and links condition to paracetamol"
+  video: "https://www.youtube.com/watch?v=AayZ53_hw4M"
+  description: "President Trump has made an announcement on autism, claiming that the use of paracetamol in pregnancy is linked to an increase risk of the condition.Americans consume more than 40% of all the world'"
+  duration_string: "4:19"
+  creator: "Sky News"
+  author: "Sky News"
+  published_at: "2025-09-22"
+  released: "2025-09-22"
+  cover: "https://i.ytimg.com/vi/AayZ53_hw4M/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/AayZ53_hw4M"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Epidemiology"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "AayZ53_hw4M87741124305"
+  duration: "260"
+  type: "video"
+  image: "![Trump makes announcement on autism and links condition to paracetamol](https://i.ytimg.com/vi/AayZ53_hw4M/maxresdefault.jpg)"
+  authors: "Sky News"
+  series: "Sky News"
+  published: "2025-09-22T00:00:00.000Z"
+  year: 2025
+  assigned: true
+  themes_possible:
+    - "Introduction"
+  class_days:
+    - "ENVN4320_W1D2"
+    - "ENVN4320_W2D1"
+  topics:
+    - "Epidemiology"
+  themes:
+    - "Introduction"
+  dates:
+    - "2026-08-27T16:00:00"
+    - "2026-09-01T16:00:00"
+  course_name: "Human Health & the Environment"
+  author_first: "News"
+  author_last: "News"
+  author_display: "Sky News"
+  profile: "video"
+  attachments:
+    []
 - title: "What Does Extreme Heat Do to the Body"
   video: "https://www.youtube.com/watch?v=wXoqEJlsKu0&t=2s"
   description: "Watch more of this series: https://to.pbs.org/4wkQIAGThe climate crisis isn't a distant threat — it's already here, and it's deadly. But keeping people cool is surprisingly complicated. In Sydney,"
@@ -396,6 +1019,284 @@
   dates:
     - "2026-09-22T16:00:00"
     - "2026-09-24T16:00:00"
+  profile: "video"
+  attachments:
+    []
+- title: "What is Climate Change"
+  video: "https://www.youtube.com/watch?v=Y1mPWVzaGQY"
+  description: "Life on Earth has weathered boiling-hot oceans and volcanic-ash-darkened skies—but that’s nothing like the climate change we’re experiencing now. In this episode of Crash Course Biology, we’ll talk ab"
+  duration_string: "13:57"
+  creator: "CrashCourse"
+  author: "CrashCourse"
+  published_at: "2023-08-15"
+  released: "2023-08-15"
+  cover: "https://i.ytimg.com/vi/Y1mPWVzaGQY/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/Y1mPWVzaGQY"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+  genre: "Education"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "Y1mPWVzaGQY87741124305"
+  duration: "838"
+  type: "video"
+  image: "![What is Climate Change](https://i.ytimg.com/vi/Y1mPWVzaGQY/maxresdefault.jpg)"
+  published: "2023-08-15T00:00:00.000Z"
+  year: 2023
+  assigned: true
+  themes_possible:
+    - "Disasters"
+  class_days:
+    - "ENVN4320_W3D1"
+  topics:
+    - "Climate Change & Extreme Weather"
+  themes:
+    - "Disasters"
+  dates:
+    - "2026-09-08T16:00:00"
+  course_name: "Human Health & the Environment"
+  authors: "CrashCourse"
+  series: "CrashCourse"
+  author_first: "CrashCourse"
+  author_last: "CrashCourse"
+  author_display: "CrashCourse"
+  profile: "video"
+  attachments:
+    []
+- title: "Why managing chronic health conditions begins at home"
+  video: "https://www.youtube.com/watch?v=Ws4Ir5wtHwM"
+  description: "The recognition that health care extends beyond the walls of hospitals and doctor’s offices is growing. In Greensboro, North Carolina, advocacy groups, sociologists and medical practitioners are takin"
+  duration_string: "7:26"
+  creator: "PBS NewsHour"
+  author: "PBS NewsHour"
+  published_at: "2018-12-07"
+  released: "2018-12-07"
+  cover: "https://i.ytimg.com/vi/Ws4Ir5wtHwM/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/Ws4Ir5wtHwM"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Urban Infrastructure & Housing"
+    - "One Health"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "Ws4Ir5wtHwM87741124305"
+  duration: "447"
+  type: "video"
+  image: "![Why managing chronic health conditions begins at home](https://i.ytimg.com/vi/Ws4Ir5wtHwM/maxresdefault.jpg)"
+  authors: "PBS NewsHour"
+  series: "PBS NewsHour"
+  author_first: "NewsHour"
+  author_last: "NewsHour"
+  author_display: "PBS NewsHour"
+  published: "2018-12-07T00:00:00.000Z"
+  year: 2018
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Infrastructure"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "Why the Nepal flash flood was almost impossible to predict"
+  video: "https://www.youtube.com/watch?v=TBCQP-CnEUQ&t=2s"
+  description: "A collapsed glacier in Nepal caused catastrophic flooding that killed more than a thousand people, while thousands more are still missing. Andrew Chang breaks down what accelerated the flood to such a"
+  duration_string: "11:52"
+  creator: "CBC News"
+  author: "CBC News"
+  published_at: "2026-09-02"
+  released: "2026-09-02"
+  cover: "https://i.ytimg.com/vi/TBCQP-CnEUQ/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/TBCQP-CnEUQ?start=2"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "Floods"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "TBCQP-CnEUQ87741124305"
+  duration: "713"
+  type: "video"
+  image: "![Why the Nepal flash flood was almost impossible to predict](https://i.ytimg.com/vi/TBCQP-CnEUQ/maxresdefault.jpg)"
+  authors: "CBC News"
+  series: "CBC News"
+  published: "2026-09-02T00:00:00.000Z"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Disasters"
+  class_days:
+    - "ENVN4320_W3D2"
+    - "ENVN4320_W4D1"
+  topics:
+    - "Floods"
+  themes:
+    - "Disasters"
+  dates:
+    - "2026-09-10T16:00:00"
+    - "2026-09-15T16:00:00"
+  course_name: "Human Health & the Environment"
+  author_first: "News"
+  author_last: "News"
+  author_display: "CBC News"
+  profile: "video"
+  attachments:
+    []
+- title: "World Weather Attribution — understanding climate change and extreme weather"
+  video: "https://www.youtube.com/watch?v=AeZbbEaLj4c"
+  description: "When an extreme weather event occurs, people often ask: is climate change to blame?For decades, climate scientists have answered that question in general terms – that as the planet warms, we can exp"
+  duration_string: "5:59"
+  creator: "World Weather Attribution"
+  author: "World Weather Attribution"
+  published_at: "2023-11-13"
+  released: "2023-11-13"
+  cover: "https://i.ytimg.com/vi/AeZbbEaLj4c/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/AeZbbEaLj4c"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Climate Change & Extreme Weather"
+    - "The Rise of Conservation Biology"
+  genre: "People & Blogs"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "AeZbbEaLj4c87741124305"
+  duration: "360"
+  type: "video"
+  image: "![World Weather Attribution — understanding climate change and extreme weather](https://i.ytimg.com/vi/AeZbbEaLj4c/maxresdefault.jpg)"
+  authors: "World Weather Attribution"
+  series: "World Weather Attribution"
+  author_first: "Attribution"
+  author_last: "Attribution"
+  author_display: "World Weather Attribution"
+  published: "2023-11-13T00:00:00.000Z"
+  year: 2023
+  assigned: true
+  themes_possible:
+    - "Disasters"
+    - "Foundations of Conservation Biology"
+  class_days:
+    - "BIOL4120_W2D1"
+    - "BIOL4120_W3D2"
+    - "ENVN4320_W3D1"
+  topics:
+    - "The Rise of Conservation Biology"
+    - "Climate Change & Extreme Weather"
+  themes:
+    - "Foundations of Conservation Biology"
+    - "Disasters"
+  dates:
+    - "2026-08-31T16:00:00"
+    - "2026-09-08T16:00:00"
+    - "2026-09-09T16:00:00"
+  course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "Zoning Matters How Land-Use Policies Shape Our Lives"
+  video: "https://www.youtube.com/watch?v=aLMsI92crZw"
+  description: "Zoning is a way for communities to separate land by use or form. But from the start, zoning has separated more than just land uses. It has also separated people. As a result, we pay the cost in public"
+  duration_string: "2:28"
+  creator: "Urban Institute"
+  author: "Urban Institute"
+  published_at: "2019-06-12"
+  released: "2019-06-12"
+  cover: "https://i.ytimg.com/vi/aLMsI92crZw/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/aLMsI92crZw"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Redlining"
+    - "Urban Infrastructure & Housing"
+  genre: "Nonprofits & Activism"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "aLMsI92crZw87741124305"
+  duration: "149"
+  type: "video"
+  image: "![Zoning Matters How Land-Use Policies Shape Our Lives](https://i.ytimg.com/vi/aLMsI92crZw/maxresdefault.jpg)"
+  authors: "Urban Institute"
+  series: "Urban Institute"
+  published: "2019-06-12T00:00:00.000Z"
+  year: 2019
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Infrastructure"
+  author_first: "Institute"
+  author_last: "Institute"
+  author_display: "Urban Institute"
+  class_days:
+    - "ENVN4320_W6D2"
+    - "ENVN4320_W7D1"
+    - "ENVN4320_W7D2"
+    - "ENVN4320_W8D1"
+  topics:
+    - "Urban Infrastructure & Housing"
+  themes:
+    - "Infrastructure"
+  dates:
+    - "2026-10-06T16:00:00"
+    - "2026-10-08T16:00:00"
+    - "2026-10-13T16:00:00"
+  course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
     []
