@@ -149,7 +149,13 @@ topic_pages <- function(topics) {
 
 content_slides <- function(slides) {
   if (is.null(slides) || length(slides) < 1) return(NA_character_)
-  links <- map(slides, \(x) icon_link(x, icon = get_icon("slides", size = "fa-lg"))) %>%
+  # Each deck gets two icons: the slides themselves, and reveal.js's
+  # printable view (?print-pdf), which opens the browser's print dialog
+  # so students can save a PDF.
+  links <- map(slides, \(x) str_c(
+    icon_link(x, icon = get_icon("slides", size = "fa-lg")),
+    icon_link(str_c(x, "?print-pdf"), icon = get_icon("pdf", size = "fa-lg"))
+  )) %>%
     unlist() %>%
     unique() %>%
     str_flatten(na.rm = TRUE)

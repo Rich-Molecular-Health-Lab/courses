@@ -17,7 +17,8 @@ listing:
 
 **Dates:** 2026-08-27T16:00:00, 2026-09-01T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Evidence and Hypothesis-Testing in Epidemiology/index.html'>Evidence and Hypothesis-Testing in Epidemiology <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Evidence and Hypothesis-Testing in Epidemiology/index.html'>Evidence and Hypothesis-Testing in Epidemiology <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Evidence and Hypothesis-Testing in Epidemiology/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
 
 ### Videos or Films Watched
 

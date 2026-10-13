@@ -17,7 +17,8 @@ listing:
 
 **Dates:** 2026-09-10T16:00:00, 2026-09-15T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Floods_&_Hurricanes/index.html'>Floods & Hurricanes <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Floods_&amp;_Hurricanes/index.html'>Floods &amp; Hurricanes <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Floods_&amp;_Hurricanes/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
 
 ### Videos or Films Watched
 

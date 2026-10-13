@@ -17,4 +17,5 @@ listing:
 
 **Dates:** 2026-10-15T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Exam 1 Review ENVN4320/index.html'>Exam 1 Review ENVN4320 <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Exam 1 Review ENVN4320/index.html'>Exam 1 Review ENVN4320 <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Exam 1 Review ENVN4320/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>

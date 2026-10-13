@@ -17,7 +17,8 @@ listing:
 
 **Dates:** 2026-09-29T16:00:00, 2026-10-01T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Redlining & Public Health Legacies/index.html'>Redlining & Public Health Legacies <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Redlining &amp; Public Health Legacies/index.html'>Redlining &amp; Public Health Legacies <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Redlining &amp; Public Health Legacies/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
 
 ### Videos or Films Watched
 

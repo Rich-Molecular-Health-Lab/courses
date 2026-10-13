@@ -17,7 +17,8 @@ listing:
 
 **Dates:** 2026-09-22T16:00:00, 2026-09-24T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Heat_Islands-Infrastructure_&_Health/index.html'>Heat Islands - Infrastructure & Health <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Heat_Islands-Infrastructure_&amp;_Health/index.html'>Heat Islands - Infrastructure &amp; Health <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Heat_Islands-Infrastructure_&amp;_Health/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
 
 ### Videos or Films Watched
 

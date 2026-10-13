@@ -67,6 +67,7 @@
   class_end: "ENVN4320_W2D1"
   date_end: "2026-09-01T16:00:00"
   week_end: 2
+  enableMenu: "true"
   profile: "slides"
   attachments:
     - "epidemiological_triangle.png"

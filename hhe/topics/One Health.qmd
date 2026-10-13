@@ -17,7 +17,8 @@ listing:
 
 **Dates:** 2026-09-03T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Introduction to One Health/index.html'>Introduction to One Health <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Introduction to One Health/index.html'>Introduction to One Health <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Introduction to One Health/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
 
 ## Optional Material (Dive Deeper)
 
