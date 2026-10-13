@@ -808,7 +808,8 @@
     - "Human Health & the Environment Fall 2026"
   background: null
   quizzes: null
-  slides: null
+  slides:
+    - "Exam 1 Review ENVN4320"
   videos: null
   films: null
   exercises: null

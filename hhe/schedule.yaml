@@ -219,6 +219,8 @@ W8:
     topics:
       - title: "Exam 1 ENVN4320"
         path: "topics/Exam 1 ENVN4320.qmd"
+    slides:
+      - "slides/Exam 1 Review ENVN4320/index.html"
 W9:
   D1:
     date: "2026-10-20"

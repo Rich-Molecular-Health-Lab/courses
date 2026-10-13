@@ -88,6 +88,41 @@
     - "Evidence and Hypothesis-Testing in Epidemiology-4.jpg"
     - "Evidence and Hypothesis-Testing in Epidemiology-5.jpg"
     - "Evidence and Hypothesis-Testing in Epidemiology-6.jpg"
+- title: "Exam 1 Review ENVN4320"
+  topics:
+    - "Exam 1 ENVN4320"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "slides"
+  dates:
+    - "2026-10-15T16:00:00"
+  themes:
+    - "Exams ENVN4320"
+  class_days:
+    - "ENVN4320_W8D1"
+    - "ENVN4320_W8D2"
+  course_name: "Human Health & the Environment"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+  defaultTemplate: "tpl-question-review"
+  class_start: "ENVN4320_W8D2"
+  date_start: "2026-10-15T16:00:00"
+  week_start: 8
+  class_end: "ENVN4320_W8D2"
+  date_end: "2026-10-15T16:00:00"
+  week_end: 8
+  keyword: "review"
+  image: "student_prof_exams.gif"
+  profile: "slides"
+  attachments:
+    - "student_prof_exams.gif"
 - title: "Floods & Hurricanes"
   topics:
     - "Floods"

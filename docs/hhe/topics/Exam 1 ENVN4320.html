@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-category','listing-title','listing-href',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-category","listing-title","listing-href"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -285,6 +285,7 @@ window.Quarto = {
 <section id="class-meetings" class="level2">
 <h2 class="anchored" data-anchor-id="class-meetings">Class Meetings</h2>
 <p><strong>Dates:</strong> 2026-10-15T16:00:00</p>
+<p><a class="btn btn-outline-primary p-3 m-2" href="slides/Exam 1 Review ENVN4320/index.html">Exam 1 Review ENVN4320 <i class="fa-solid fa-link"></i></a></p>
 
 
 
@@ -292,6 +293,11 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
 <ul class="list">
+
+  <li data-index="0">
+    <span class="badge bg-secondary listing-category">slide</span>
+    <a href="../slides/Exam 1 Review ENVN4320/index.html" class="listing-title">Exam 1 Review ENVN4320</a>
+  </li>
 
 </ul>
 <div class="listing-no-matching d-none">No matching items</div>

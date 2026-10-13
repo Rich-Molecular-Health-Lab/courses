@@ -1,0 +1,968 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Exam 1 Review ENVN4320</title>
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="css/slides-extended.css" />
+    <link rel="stylesheet" href="dist/theme/consult.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+    <link rel="stylesheet" href="plugin/customcontrols/style.css">
+    <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+    <link rel="stylesheet" href="plugin/reveal-pointer/pointer.css" />
+
+    <link rel="stylesheet" href="css/slides-teaching.css" />
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+    <script type="text/javascript">
+        function pageInIframe() {
+            return (window.location !== window.parent.location);
+        }
+
+        let forgetPop = true;
+        function onPopState(event) {
+            if(forgetPop){
+                forgetPop = false;
+            } else if( pageInIframe()) {
+                parent.postMessage(event.target.location.href, "app://obsidian.md");
+            }
+        }
+        window.onpopstate = onPopState;
+        window.onmessage = event => {
+            if(event.data == "reload"){
+                window.document.location.reload();
+            }
+            forgetPop = true;
+        }
+
+        function fitElements() {
+            const itemsToFit = document.getElementsByClassName('fitText');
+            for (const item in itemsToFit) {
+                if (Object.hasOwnProperty.call(itemsToFit, item)) {
+                    const element = itemsToFit[item];
+                    fitElement(element, 1, 1000);
+                    element.classList.remove('fitText');
+                }
+            }
+        }
+
+        function fitElement(element, start, end) {
+
+            let size = (end + start) / 2;
+            element.style.fontSize = `${size}px`;
+
+            if (Math.abs(start - end) < 1) {
+                while (element.scrollHeight > element.offsetHeight) {
+                    size--;
+                    element.style.fontSize = `${size}px`;
+                }
+                return;
+            }
+
+            if (element.scrollHeight > element.offsetHeight) {
+                fitElement(element, start, size);
+            } else {
+                fitElement(element, size, end);
+            }
+        }
+
+        document.onreadystatechange = () => {
+            fitElements();
+            if (document.readyState === 'complete') {
+                if (pageInIframe() && window.location.href.indexOf("?export") != -1){
+                    parent.postMessage(event.target.location.href, "app://obsidian.md");
+                }
+                if (window.location.href.indexOf("print-pdf") != -1){
+                    let stateCheck = setInterval(() => {
+                        clearInterval(stateCheck);
+                        window.print();
+                    }, 250);
+                }
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides"><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="presentation-title" style="position: absolute; left: 1%; top: 0%; height: 10%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Exam 1 ENVN4320
+ 
+</div>
+
+ 
+</div> 
+
+<div class="slide-image" style="position: absolute; left: 2%; top: 7%; height: 68%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+<img src="2_Areas/24_Teaching/BIOL4120_Conservation_Biology/figures/course_intro/student_prof_exams.gif" alt="" style="object-fit: scale-down">
+
+
+</div>
+
+ <!-- .element: class="fit-image" -->
+
+</div>
+
+<div class="presentation-subtitle" style="position: absolute; left: 0%; top: 80%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+Exams ENVN4320
+
+</div>
+
+
+
+
+</div>
+
+<div class="presentation-date" style="position: absolute; left: 48%; top: 80%; height: 5%; width: 50%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+
+
+<div class="block">
+
+October 15, 2026
+
+</div>
+
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+Human Health & the Environment (ENVN 4320)
+
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Which study design is most appropriate when investigating a disease that is rare and has a long latency period?
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+- Case-control study
+- Cross-sectional study
+- Cohort study
+- Randomized controlled trial
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The correct answer is <strong>&quot;Case-control study.&quot;</strong> </p>
+<p>The slides note that case-control studies are &quot;especially for diseases that are rare or have long latency,&quot; because cohort studies would be infeasible for rare conditions or diseases with long latency due to the time and cost required to follow large populations. Cross-sectional studies are not useful for rare conditions of very short duration, and RCTs are not specifically designed for studying rare diseases. (Source: Evidence and Hypothesis-Testing in Epidemiology)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+What is the key difference between misinformation and disinformation?
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* Misinformation is spread by scientists, while disinformation is spread by the general public
+* Misinformation is corrected easily, while disinformation cannot be corrected
+* Misinformation is false information shared without intent to mislead, while disinformation is deliberately created and spread to deceive
+* Misinformation affects only individuals, while disinformation affects entire populations
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The correct answer is &quot;<strong>Misinformation is false information shared without intent to mislead, while disinformation is deliberately created and spread to deceive.</strong>&quot; </p>
+<p>The slides define misinformation as &quot;False information shared without the intention to mislead&quot; and disinformation as &quot;False information deliberately created and spread to deceive or cause harm.&quot; The distinction hinges on intent, not on who spreads it, how easily it is corrected, or the scale of its impact. (Source: Evidence and Hypothesis-Testing in Epidemiology)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Randomized controlled trials provide the best available evidence on the efficacy of treatments.
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* True
+* False
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This statement is <strong>true</strong>. </p>
+<p>The slides explicitly state that RCTs &quot;Provide the best available evidence on the efficacy of treatments.&quot; This is listed as a key use of RCTs in epidemiological research. (Source: Evidence and Hypothesis-Testing in Epidemiology)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Which of the following is the primary mechanism by which climate change is increasing wildfire area burned in North American forests?
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* Increased lightning strikes are starting more fires in forest regions
+* Forest management policies have changed to suppress fewer fires
+* Higher temperatures are causing more people to use fire for land clearing
+* Vegetation becomes drier, allowing fires to burn larger areas when ignited
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Vegetation becomes drier, allowing fires to burn larger areas when ignited</strong></p>
+<p>Hausfather explicitly states that &quot;the vegetation is drier, and so when a spark catches, it&#39;s more likely to burn a larger area.&quot; This drying of vegetation is the direct mechanism linking warming temperatures to increased burned area. While other factors like fire suppression and ignition sources are discussed in the sources, Hausfather identifies vegetation dryness as the primary driver of larger fires in North American forests. (Source: Podcast: Are extreme wildfires the new normal?)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+What was the primary trigger for the catastrophic flooding in Nepal?
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* A massive chunk of glacier and bedrock collapsed high in the Himalayas, sending ice, rock, and debris down the mountainside
+* Intense monsoon rainfall caused rivers to overflow their banks
+* A glacial lake burst through its natural dam
+* A series of earthquakes destabilized the valley floor
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>The correct answer is that a <strong>massive chunk of glacier and bedrock collapsed high in the Himalayas</strong>. </p>
+<p>Multiple sources confirm that a glacier at just under 5,000 meters elevation essentially disappeared, and scientists found that glacier ice was part of a much larger mass of bedrock that collapsed, exploding as it descended a vertical kilometer to the valley bottom. This triggered the devastating floods. While monsoon season was occurring and glacial lakes are a concern in the region, the specific trigger in this disaster was the glacier and mountainside collapse. (Sources: &quot;As the climate changes, is the deadly flooding in Nepal a sign of things to come?&quot; and &quot;Why the Nepal flash flood was almost impossible to predict&quot;)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Scientists were surprised by the glacier collapse in Nepal because glaciers in the Himalayas have been stable for thousands of years and such collapses are unprecedented.
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* True
+* False
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This statement is <strong>false</strong>. </p>
+<p>While the sources note that glaciers have been around for thousands of years, they indicate that scientists were not surprised by the collapse. The podcast states: &quot;Sadly, many scientists are not so surprised that this could happen, Ailsa, and that&#39;s because of human-caused climate change. These glaciers that were once stable—they&#39;re disappearing.&quot; Additionally, the sources note that &quot;this is absolutely an event of a type that occurs in the Himalaya. It has occurred many times in recent recorded history.&quot; (Sources: &quot;As the climate changes, is the deadly flooding in Nepal a sign of things to come?&quot; and &quot;Why the Nepal flash flood was almost impossible to predict&quot;)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+New Orleans' population today is approximately the same size as it was before Hurricane Katrina struck in 2005.
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* True
+* False
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p>This statement is <strong>false</strong>. </p>
+<p>The sources indicate that New Orleans&#39; population has not recovered to pre-Katrina levels. The video states: &quot;New Orleans&#39; population today is a quarter smaller than it was when Katrina struck.&quot; (Source: &quot;20 years later, a look at Katrina&#39;s lasting impact and concerns over future storms&quot;)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Which of the following best explains why the urban heat island effect makes cities significantly hotter than surrounding rural areas?
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* Cities receive more direct sunlight because tall buildings reflect clouds away from urban centers
+* Urban surfaces such as concrete, asphalt, and brick absorb and store solar radiation as heat more effectively than natural surfaces
+* Rural areas have stronger winds that carry cooler air, while cities block these winds with buildings
+* Urban populations generate so much body heat that it raises the ambient temperature of the entire city
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>Urban surfaces such as concrete, asphalt, and brick absorb and store solar radiation as heat more effectively than natural surfaces</strong></p>
+<p>The sources explain that on a warm day with a temperature of 91°F, conventional roofing materials may reach as high as 60°F warmer than air temperatures. The other options misrepresent the mechanisms behind the urban heat island effect. (Source: Slides: Heat Islands - Infrastructure &amp; Health; Slides: ENVN4320F24_9-10)</p>
+</aside></script></section><section data-separator="?
+---?
+" data-separator-vertical="?
+--?
+" data-separator-notes="note:" data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: start; justify-content: center" absolute="true">
+
+<div class="slide-title" style="position: absolute; left: 1%; top: 0%; height: 6%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<i class="fa-solid fa-circle-question"></i> Review Question
+</div> 
+
+<div class="question-feature" style="position: absolute; left: 1%; top: 6%; height: 20%; width: 98%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="left">
+
+
+<div class="block">
+
+Which of the following was the most consistent factor that determined whether a neighborhood received a low grade on HOLC maps?
+</div>
+
+
+
+</div>
+
+<div class="answers" style="position: absolute; left: 1%; top: 30%; height: 70%; width: 90%; display: flex; flex-direction: column; align-items: start; justify-content: flex-start" align="top">
+
+
+<div class="block">
+
+* The presence of Black and Brown people in the neighborhood
+* The actual historical rates of mortgage defaults in the area
+* The distance of the neighborhood from industrial factories
+* The average income level of residents compared to the city average
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="footer-course" style="position: absolute; left: 0%; top: 85%; height: 5%; width: 100%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+<div class="block">
+
+ENVN 4320 Human Health & the Environment
+</div>
+
+
+
+</div> 
+
+<div class="footer-copyrite" style="position: absolute; left: 74%; top: 85%; height: 5%; width: 25%; display: flex; flex-direction: column; align-items: start; justify-content: center" >
+ 
+
+ © 2026 Alicia M. Rich, Ph.D.
+ 
+</div>
+</div>
+
+<aside class="notes"><p><strong>The presence of Black and Brown people in the neighborhood</strong></p>
+<p>Studies cited in the sources show that the presence of Black and Brown people was one of the most consistent criteria for redlining, regardless of actual loan default risk. Research demonstrates that residents in redlined areas were not necessarily more likely to default on mortgages—the discrimination was purely racial. (Source: Podcast &quot;How Housing Discrimination Works&quot; and Video &quot;Housing Segregation and Redlining in America&quot;)</p>
+</aside></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/obsidian-markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script src="plugin/mermaid/mermaid.js"></script>
+    <script src="plugin/chart/chart.umd.js"></script>
+    <script src="plugin/chart/plugin.js"></script>
+    <script src="plugin/menu/menu.js"></script>
+    <script src="plugin/customcontrols/plugin.js"></script>
+    <script src="plugin/chalkboard/plugin.js"></script>
+    <script src="plugin/reveal-pointer/pointer.js"></script>
+    <script src="plugin/elapsed-time-bar/elapsed-time-bar.js"></script>
+
+
+    <script>
+        function extend() {
+            const target = {};
+            for (let i = 0; i < arguments.length; i++) {
+                const source = arguments[i];
+                for (const key in source) {
+                    if (source.hasOwnProperty(key)) {
+                        target[key] = source[key];
+                    }
+                }
+            }
+            return target;
+        }
+
+        function isLight(color) {
+            // normalize to rgb(a)
+            const optionEl = document.createElement("option");
+            optionEl.style.color = color;
+            const normalizedColor = optionEl.style.color;
+
+            const match = normalizedColor.match(/(\d+), (\d+), (\d+)/);
+            if (!match) return false;
+            const [, c_r, c_g, c_b] = match;
+
+            const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+            return brightness > 155;
+        }
+
+        const bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+        if (isLight(bgColor)) {
+            document.body.classList.add('has-light-background');
+        } else {
+            document.body.classList.add('has-dark-background');
+        }
+
+        // default options to init reveal.js
+        const defaultOptions = {
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'default', // none/fade/slide/convex/concave/zoom
+            plugins: [
+                ObsidianMarkdown,
+                RevealHighlight,
+                RevealZoom,
+                RevealNotes,
+                RevealMath.KaTeX,
+                RevealMermaid,
+                RevealChart,
+                RevealCustomControls,
+                RevealMenu,
+                RevealPointer,
+                RevealChalkboard,
+                ElapsedTimeBar
+            ],
+            allottedTime: "120",
+
+            katex: {
+                local: 'plugin/math/katex',
+                extensions: ["mhchem"],
+            },
+            markdown: {
+                gfm: true,
+            },
+            mermaid: {
+                theme: isLight(bgColor) ? 'default' : 'dark',
+            },
+            customcontrols: {
+                controls: [
+                    {
+                        id: 'toggle-overview',
+                        title: 'Toggle overview (O)',
+                        icon: '<i class="fa fa-th"></i>',
+                        action: 'Reveal.toggleOverview();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen-square"></i>',
+                        title: 'Toggle chalkboard (B)',
+                        action: 'RevealChalkboard.toggleChalkboard();'
+                    },
+                    {
+                        icon: '<i class="fa fa-pen"></i>',
+                        title: 'Toggle notes canvas (C)',
+                        action: 'RevealChalkboard.toggleNotesCanvas();'
+                    },
+                ]
+            },
+            menu: {
+                loadIcons: false
+            },
+        };
+
+        if ( pageInIframe() ) {
+            defaultOptions.scrollActivationWidth = 5;
+        }
+
+        // options from URL query string
+        const queryOptions = Reveal().getQueryHash() || {};
+
+        const options = extend(defaultOptions, {"controls":true,"progress":true,"slideNumber":false,"center":false,"transition":"slide","transitionSpeed":"normal","width":960,"height":700,"margin":0,"maxScale":4}, queryOptions);
+    </script>
+
+    <script>
+      /**
+       * KaTeX Equation Numbering Note
+       *
+       * KaTeX maintains a global equation counter for \begin{equation} environments.
+       * When navigating between slides, reveal.js math plugin may re-render math, causing
+       * equation numbers to change randomly.
+       *
+       * Note: Regular $$ blocks don't have equation numbers - only \begin{equation} does.
+       *
+       * If you experience issues with equation numbers changing:
+       * Use manual \tag{} commands: \begin{equation}\tag{1} ... \end{equation}
+       */
+
+      Reveal.initialize(options);
+    </script>
+    <!-- created with Slides Extended reveal.html template -->
+</body>
+</html>
