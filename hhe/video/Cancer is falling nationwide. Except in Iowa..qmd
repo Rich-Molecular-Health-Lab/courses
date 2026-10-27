@@ -1,0 +1,118 @@
+---
+title: "Cancer is falling nationwide. Except in Iowa.  The Excerpt"
+profile:
+  - "video"
+  - "hhe"
+categories:
+  - "video"
+  - "ENVN4320"
+---
+
+**USA TODAY**, *2026-10-01*
+
+## Video (["11:22","11:22"])
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/_M3fSyDr_Yw?list=PLlvHlI3rc2tOumBquZBOeyXQ_AUY2tzfc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Cancer rates are declining across most of the United States. But Iowa is moving in the opposite direction. Iowa now has one of the nation's highest cancer incidence rates and is one of only three states where rates continue to rise. So what's different about Iowa? Nick El Hajj, reporter for the Des Moines Register, joins The Excerpt to discuss the theories researchers are investigating, from drinking water and nitrate pollution to radon exposure and other environmental factors. He also shares the stories of Iowa families searching for answers.
+
+Read more: https://tinyurl.com/4zj9fkaf
+
+Sign up for our newsletter for the day's top stories, from sports to movies to politics to world events: https://profile.usatoday.com/newsletters/daily-briefing/
+
+## Transcript
+
+### Iowa's rising cancer crisis
+
+**0:04** · Most of us think about cancer risk in terms of genetics or lifestyle [music] choices, but how much could your zip code matter? In Iowa, that question is no longer abstract. It's being asked in hospitals, in farm towns, and by families who are looking for answers.
+
+**0:21** · I'm Dana Taylor, and this is [music] The Excerpt. Join me to dig into the question of why Iowa's cancer rates are rising as the nation's fall. Is Nick El-Hajj, reporter with the Des Moines Register. It's good to speak with you.
+
+**0:34** · Hi, Dana. Thank you for having me.
+
+**0:36** · Nick, when we talk about cancer risk, how much can where you live actually matter?
+
+**0:42** · Yeah, I quite a bit, actually, Dana.
+
+**0:45** · Geography, or where you live, is essentially a proxy for everything that comes with living in a place. What you breathe, what you drink, where you work, and simply what you're exposed to over a lifetime. And those differences can be enormous sometimes. And that holds true on the national level, but also on the state level.
+
+**1:16** · Why has Iowa become such an important place for researchers and public health officials to watch?
+
+**1:23** · Iowa has really become one of the country's biggest cancer outliers. It not only ranks second in the nation for cancer incidence, but it is one of only three states where incidence is still rising. We're talking about 21,700 Iowans who are expected to be diagnosed with cancer in 2026 alone. And about 6,400 Iowans who will die from cancer. And that's because Kentucky is getting better while Iowa is getting worse.
+
+### Statewide impact and scale
+
+**2:14** · And you can see that pressure on the ground. Cass Health quadrupled the size of its cancer center in 2022. Four years later, in 2026, they are already struggling to meet demand again. And people are again having to wait for months to see a specialist.
+
+**2:40** · And so all these numbers and concerns have just made Iowa this laboratory for asking, "What are we missing?"
+
+**2:51** · You know, one of the striking things is how many Iowans say cancer has touched nearly every family they know. That's stunning. Can you talk about how that shaped communities there? I mean, those are big numbers that you just gave me, but how is that affecting communities in Iowa?
+
+**3:09** · Yeah, they're not You know, Iowans, from my experience, especially farmers and and rural Iowans, can often be very stoic in nature. They take things in stride. They push and persevere. But sitting around kitchen tables in in some of these rural communities, there becomes evident this seismic shift in how cancer is being perceived. For years, cancer was almost treated as as a way of life.
+
+### Community perspective
+
+**3:46** · But now the toll and the suffering have become too overwhelming and too visible to ignore. And there is real pain and there's a real anger and hunger and demand for answers. I spoke with Maureen Reeves Horsley, a nurse in Palo Alto County, Iowa, which is the county with the second highest rate in the state. It used to have the highest in the state.
+
+**4:10** · She told me she could name at least 40 people, 4 0, 40 people who have had cancer or had died from it within her vicinity. That is not normal. And the story repeats across Iowa. You'd be hard-pressed to find anyone in the state who doesn't know someone who has had cancer or who has died from it. And that is not normal.
+
+**4:39** · And Maureen described this crisis to me, I I think rather eloquently, as this sleeping giant that has been dormant for decades, but that has now been poked. And it's become impossible to turn a blind eye to it and to the sheer despair that exists in Iowa when it comes to cancer at the moment.
+
+**5:03** · Well, a big focus here is on water quality.
+
+### Environmental factors
+
+**5:07** · Why have nitrates become such a major concern?
+
+**5:10** · Iowa has staggering levels of nitrate pollution. And And this has been the case for for decades. Des Moines is home to the world's biggest nitrate removal facility. And research time after time has shown that those nitrates primarily come from the billions of pounds of fertilizer and the hundreds of billions of pounds of animal manure applied on Iowa fields.
+
+**5:42** · Whatever is is over-applied, either stays in the soil or it leaches through that soil and it goes into the rivers, which then supply the same water we all drink.
+
+**5:57** · Why is agriculture seen as a possible contributor? What does the evidence actually show and what's still uncertain?
+
+**6:05** · Then our researchers are really playing this elimination game.
+
+**6:11** · Uh there's three buckets. If you take behavioral factors like drinking and smoking, that's the first bucket. Those are high in Iowa. They explain a large share of the elevated incidence, but not the whole picture because compared to neighboring states with with similar behavioral factors, Iowa is is still high. Iowa has the highest levels of radon in the country, a radioactive natural gas that seeps into homes and causes lung cancer. About 84% of the state is farmland.
+
+**6:41** · There are pesticides and herbicides being sprayed across millions of acres. And research, time after time, has shown that agriculture is causing nation-leading chemical levels in Iowa.
+
+**7:00** · If we take one pollutant, nitrate, research has shown that nitrate levels as as low as 3 mg per liter in drinking water can contribute to an increased cancer risk. And by the way, that level is is three times lower than the current federal limit, which is 10, that water utilities are required to abide by.
+
+**7:22** · So you essentially you end up in a situation where those elevated nitrate levels and that level means from 2021 to 2023, you have 1.2 million Iowans, over a million Iowans, estimated to have been served by public water systems that have recorded a nitrate test above that level of three, that cancer-causing level. So, when you're trying to understand what makes Iowa different environmentally, agriculture is obviously going to be part of that conversation.
+
+**7:57** · That begs the question, why is it so difficult to prove that a specific environmental exposure caused someone's cancer?
+
+### Challenges in research
+
+
+**8:05** · Cancer can be and is so overwhelming.
+
+**8:10** · Usually, it it doesn't work like an infectious disease, where you can trace one exposure to one outcome. It can take decades between an exposure and a diagnosis. And during those decades, a person can accumulate well, thousands of other exposures alongside genetics, alongside lifestyle, and alongside random mutations. And pinpointing where in that chain things are going wrong is an enormous task.
+
+**8:46** · What are the biggest unanswered questions researchers are still trying to solve then?
+
+**8:51** · The biggest one, I think it's still the most basic one.
+
+**8:55** · Um why Iowa?
+
+**8:58** · Why did Iowa break away from the national trend around 2013? Because Iowa used to follow the national trend, which is declining. The national average is declining. Why did Iowa in 2013 start going up while the US average kept going down? And now we're at this point where they're so far apart. Why is the cancer rate still rising here when it is falling in most of the country?
+
+**9:22** · And why does Iowa still stand out even compared with nearby states that look a lot like it?
+
+**9:29** · Nicky spoke to a lot of families who still want answers.
+
+### Personal stories of survival
+
+**9:33** · What struck you the most in these conversations?
+
+**9:37** · I sat down with patients like Lavonne Schroeder. Lavonne has been battling the same cancer, ovarian cancer, for the past 23 years. She's been sent home to die three times already. And yet, here she still was, settled into one of those recliners at the cancer center. And another round of chemotherapy flowing into her veins. Three years ago, while fighting her own cancer, Lavonne cared for her husband and their farm home until he died from spinal cord cancer.
+
+**10:22** · And after all these years fighting, she told me she was tired. She said she was at peace with whatever the doctors were going to tell her. That she was at peace with whatever may happen this next year. The takeaway I got here, and from this whole reporting, is just that the sheer toll cancer has taken on Lavonne's life, and on the lives of thousands of Iowans, [music] can be unimaginable.
+
+**10:57** · Nick Colangelo is a reporter with the Des Moines Register, part of the USA Today Network. Thank you so much for sharing your reporting here, Nick.
+
+**11:04** · My pleasure. Thank you for having me, Dana.
+
+**11:07** · Our stories come from USA Today journalists across the country. I'm Dana Taylor. Tap subscribe for more [music] from The Excerpt.

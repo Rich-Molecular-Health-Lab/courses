@@ -1,9 +1,6 @@
 - topics:
-    - "Endocrine Disrupting Chemicals"
-    - "PFAS"
     - "The Rise of Conservation Biology"
   themes:
-    - "Toxins"
     - "Foundations of Conservation Biology"
   deadline: null
   semesters:
@@ -31,7 +28,7 @@
   duration: 2380
   duration_string: "00:39:40"
   topics_possible:
-    - "Endocrine Disrupting Chemicals"
+    - "Synthetic Chemicals & Pollutants"
     - "PFAS"
     - "Environmental Justice"
     - "Heavy Metals"

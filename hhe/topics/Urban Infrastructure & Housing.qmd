@@ -15,7 +15,7 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-10-06T16:00:00, 2026-10-08T16:00:00, 2026-10-13T16:00:00
+**Dates:** 2026-10-06T16:00:00, 2026-10-08T16:00:00, 2026-10-13T16:00:00, 2026-10-22T16:00:00, 2026-10-27T16:00:00
 
 <a class='btn btn-outline-primary p-3 m-2' href='../slides/Urban Infrastructure, Housing, &amp; Public Health/index.html'>Urban Infrastructure, Housing, &amp; Public Health <i class='fa-solid fa-link'></i></a>
 <a class='btn btn-outline-secondary p-3 m-2' href='../slides/Urban Infrastructure, Housing, &amp; Public Health/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
@@ -908,7 +908,7 @@ This study uses Canadian national health care and census data to estimate change
 
 #### Video (1:56)
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="700" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Description
 
@@ -2907,6 +2907,28 @@ In this week’s podcast we’ll explore how America’s streets can be redesign
 [Open Series in Spotify](https://open.spotify.com/show/1vfOw64nKjQ8LzZDPCfRaO)
 
 We know walking is good for our bodies, our communities, and our planet. But our car-centric cities and screen-filled lives keep us sitting. Can we change? This hour, ideas to get us moving. Guests include author Vybarr Cregan-Reid, computer historian Laine Nooney, exercise physiologist Keith Diaz, urban planner Jeff Speck, activists John Francis and Vanessa Garrison. TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+#### Abel Wolman, 'Friend of the Thirsty' - A Life and Legacy of Water Sanitization
+
+##### Abel Wolman, "Friend of the Thirsty": A Life and Legacy of Water Sanitization
+
+![Abel Wolman, "Friend of the Thirsty": A Life and Legacy of Water Sanitization](https://i.scdn.co/image/ab67656300005f1f914496de3226c5c4ada4bf8f)
+
+**Duration:** 00:23:30
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1TMgLMOgS7p93d6QBo0Tud)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   At the turn of the 20th century, waterborne diseases like typhoid and dysentery posed a significant threat to public health, accounting for a large part of infant mortality and overall morbidity. Enter Abel Wolman, an early graduate of Johns Hopkins' engineering program and a professor at the university's school of public health. In this episode: the story of the Baltimore-born pioneer of water sanitization and how his work in water chlorination and infrastructure set the stage for better health across the globe.  Note: This episode was produced in collaboration with the Johns Hopkins University sesquicentennial campaign.  Guest:  Graham Mooney, PhD, is an associate professor of history of medicine and epidemiology at the Johns Hopkins School of Medicine.  Host:  Ari Goldstein, MD, is a family medicine physician and a recent alum of the Johns Hopkins Bloomberg School of Public Health  General Preventive Medicine Residency program. This year, Dr. Goldstein served a one-month rotation with Public Health On Call.  Show links and related content:     Heroes of Public Health: Abel Wolman—Johns Hopkins Bloomberg School of Public Health     Friend of the Thirsty—New York Times
 
 :::
 
@@ -9523,6 +9545,67 @@ About WABC-TV: https://abc7ny.com/about/
 
 **2:29** · THERE ARE FIVE NEIGHBORHOODS IN MANHATTAN, THREE IN QUEENS AND THE NORTH SHORE OF STATEN ISLAND. NOW, AGAIN, THIS APPLIES TO LOW DENSITY APARTMENT BUILDINGS WITH 30 OR MORE UNITS AND MAY IMPACT SOME APARTMENT BUILDINGS WITH 10 TO 30 UNITS. BUT THE PLAN, THE GOAL HERE IS TO KICK THIS TRASH BAGS OFF THE CURB AND ALL RESIDENTIAL BUILDINGS BY 2031.
 
+#### Climate Change Resilience Cooling an Urban Heat Island
+
+**American Museum of Natural History**, *08 11, 2018*
+
+##### Video (1:42)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/xri0kqT-HUM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Cities tend to be much warmer than their surrounding areas, and global warming is exacerbating this heat island effect. Painting roofs white helps cool buildings and lower energy demand. In New York City, installing these reflective rooftops supports the City's goal to reduce carbon emissions by 80 percent by 2050.
+
+
+
+Visit the Museum's Gottesman Hall of Planet Earth to explore how climate works and the consequences of climate change. Find more info here: https://www.amnh.org/exhibitions/permanent-exhibitions/rose-center-for-earth-and-space/david-s.-and-ruth-l.-gottesman-hall-of-planet-earth  
+
+***
+Subscribe to our channel:
+
+http://www.youtube.com/subscription_center?add_user=AMNHOrg 
+
+Check out our full video catalog:
+
+http://www.youtube.com/user/AMNHorg 
+
+Facebook: ‪http://fb.com/naturalhistory ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+Twitter: ‪http://twitter.com/amnh ‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+Tumblr: ‪http://amnhnyc.tumblr.com/‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+Instagram: ‪http://instagram.com/amnh‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+This video and all media incorporated herein (including text, images, and audio) are the property of the American Museum of Natural History or its licensors, all rights reserved. The Museum has made this video available for your personal, educational use. You may not use this video, or any part of it, for commercial purposes, nor may you reproduce, distribute, publish, prepare derivative works from, or publicly display it without the prior written consent of the Museum.
+
+© American Museum of Natural History, New York, NY
+
+##### Transcript
+
+**0:02** · COMMISSIONER GREGG BISHOP: The "urban heat island" effect affects a lot of cities like New York. Because a tremendous amount of buildings, a lot of concrete, and little vegetation increases the overall temperature of the city. And when the city is really, really, really hot, it affects the health of our citizens, individuals who may suffer from asthma, or may be susceptible to heat waves, our elderly population. So, heat actually affects life and safety.
+
+**0:31** · One of the strategies that we have to combat the urban heat island effect is the NYC CoolRoofs initiative, which works simply by painting the roofs white.
+
+**0:39** · BRIDGET CARTER: See how the coating is going inside the seams?
+
+**0:42** · Put it on as heavy as you can get it.
+
+**0:44** · BISHOP: Many buildings, because of the black roof, absorb heat. And painting them white reduces the internal temperature of a building by 10-30 percent.
+
+**0:53** · CARTER: Remember guys, don't stretch the coating.
+
+**0:55** · Don't stretch the coating.
+
+**0:56** · Where is your bucket?
+
+**0:57** · That reflective coating is going to keep the building cooler, conserve energy for the people that live in the building— less air conditioning and less fans being run. People can save some money.
+
+**1:07** · Very energy efficient.
+
+**1:08** · BISHOP: This CoolRoofs program is really a part of the Mayor's strategy to lower New York City's emissions by 80 percent by 2050, and to really help New York City become a great partner in fighting climate change.
+
 #### Could this be a Solution to Gentrification
 
 **About Here**, *10 15, 2023*
@@ -9762,6 +9845,62 @@ Instagram- https://www.instagram.com/unomahanews/
 A major housing development in the Philippines tries to combine happy and healthy living. Pauline Chiou reports. For more CNN videos, visit our site at http://www.cnn.com/video/
 
 ##### Transcript
+
+#### Heatwave What is the urban heat island effect
+
+**Sky News**, *07 15, 2022*
+
+##### Video (2:40)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/YX3C3eq2MJY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Extreme heat is going to be felt across the country, but it's our cities that will be worst hit, as a phenomenon called the urban heat island effect drives temperatures even higher. 
+
+There are solutions but it takes time and investment. Sky's Science Correspondent Thomas Moore reports.
+
+
+
+SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews 
+
+Follow us on Twitter: https://twitter.com/skynews 
+
+Like us on Facebook: https://www.facebook.com/skynews 
+
+Follow us on Instagram: https://www.instagram.com/skynews 
+
+Follow us on TikTok: https://www.tiktok.com/@skynews
+
+For more content go to http://news.sky.com and download our apps: 
+
+Apple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 
+
+Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB 
+
+
+Sky News videos are now available in Spanish here/Los video de Sky News están disponibles en español aquí https://www.youtube.com/channel/skynewsespanol
+
+Sky News videos are also available in German here/Hier können Sie außerdem Sky News-Videos auf Deutsch finden: https://www.youtube.com/channel/UCHYg31l2xrF-Bj859nsOfnA
+
+
+To enquire about licensing Sky News content, you can find more information here:  https://news.sky.com/info/library-sales
+
+##### Transcript
+
+**0:00** · our towns and cities just weren't built to be this hot baked by the sun with little shade urban living can be stifling at mossborne parkside academy in east london the children are well drilled the school is victorian and keeping the classrooms cool is a challenge
+
+**0:18** · all our windows are open and as much as possible before and after school and during the day we have blackout blinds so we actually have them closed when the children aren't learning and just to try and keep those classrooms as cool as possible temperatures could top 40 degrees in parts of england early next week but in the cauldron of the concrete jungle the heat is intensified still further studies have shown the centers of london and manchester can be 10 degrees warmer than surrounding rural areas it's an effect called the urban
+
+**0:47** · heat island and with a thermal imaging camera you can see it in action the brick the concrete the asphalt is all glowing red hot as it absorbs the sun's radiation and stores it as heat but look at the contrast of a tree it's not just the shade beneath which is a cooler blue but the leaves themselves are kind of in between on that color spectrum as they're absorbing some of the sun's energy but evaporating water
+
+**1:13** · keeping them cool and the surrounding air data given to sky news shows how that makes a difference even in a relatively small town sensors dotted around guildford in surrey show the heat rising on monday morning by early afternoon the temperature in the built-up area was seven degrees higher than a nearby park
+
+**1:33** · and it took longer to cool still three degrees warmer at midnight you will not feel comfortable you know the thermal comfort is an issue but if you are an elderly or having any pre-existing you know the the conditions so you are higher at risk for the heat stroke or cardiovascular or the respiratory you know the impact and that can be fatal that
+
+**1:55** · can be fatal 90 of the uk population is expected to live in an urban area by 2050. the charity trees for cities is planting shade for the future but warns it can't do it fast enough there's never been more focus and funding for trees in general which is fantastic we should recognize that but a lot of that funding historically has been focused on on the the royal
+
+**2:17** · environment on the countryside and we believe that we need to shift that balance in order to invest much more into our cities the government says it wants to plant 150 000 trees in urban areas but the money for this year has already run out the sooner they go in the ground the greater the shade and the even more intense heat waves of the future thomas more sky news
 
 #### Housing and Health
 
@@ -10323,6 +10462,267 @@ https://www.youtube.com/watch?v=KECW7chv0w8
 
 **7:26** · Thanks for watching City Design. If you're enjoying these episodes, please like, share, and subscribe.
 
+#### How America's hottest city is trying to cool down
+
+**Vox**, *09 20, 2021*
+
+##### Video (6:48)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ZQ6fSHr5TJg title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Can trees help save Phoenix from extreme heat?
+
+Subscribe and turn on notifications 🔔 so you don't miss any videos: http://goo.gl/0bsAjO
+
+It’s time to stop looking at trees as a form of “beautification.” They are, instead, a living form of infrastructure, providing a variety of services that include stormwater management, air filtering, carbon sequestration, and, most importantly for a city like Phoenix, Arizona, they cool the environment around them. 
+
+Trees can lower neighborhood temperatures in three ways: 
+1) Their shade prevents solar radiation from hitting paved surfaces like concrete and asphalt, which absorb energy and rerelease it into the air as heat. 
+2) Their leaves pull heat from the immediate area in order to evapotranspirate water that’s drawn from the soil. 
+And, 3) If you’re standing under one, a tree protects your body directly from the sun’s rays. If you’ve ever made a summer visit to a dry, hot city like Phoenix, you’ll know how important shade is for making any outdoor experiences tolerable. 
+
+As Phoenix deals with a rising frequency of extreme heat waves — which aren’t only deadly, but also cause worrisome spikes in energy demand — the city is looking to trees as part of its heat mitigation strategy. Phoenix isn’t devoid of trees, but they’re distributed unevenly across the city. A quick glance at a satellite image of the metro area reveals substantial green splotches in the north and east and brown ones in the south and west, where many lower-income neighborhoods are located. 
+
+So Phoenix recently pledged to reach “tree equity” by 2030, under an agreement with American Forests, a national tree organization. I visited Phoenix recently to take a look at the current state of the city’s urban forest. In this video, we use drone imagery and thermal cameras to understand how the urban design of the city contributes to extreme heat, and what it can do to cool down. 
+
+This is the first video of five videos we're releasing on climate change. You can watch the second video, about high-voltage transmission lines ⚡️ and why the US isn't ready for clean energy, here: https://youtu.be/s3ScJ_FwaZk
+
+And the third video dives into prescribed burns, and how a decade of suppressing forest fires 🔥  may have made them worse, here: https://youtu.be/0o6ezu_h6iE
+
+Further reading:
+
+Tree Equity Score Tool by American Forests https://treeequityscore.org 
+
+Assessment of heat mitigation strategies in Phoenix by Arizona State University https://www.phoenix.gov/parkssite/Documents/PKS_Forestry/PKS_Forestry_NOAA_PHX_Urban_Spaces_Report.pdf
+
+Urban Heat Implications from Parking, Roads, and Cars https://par.nsf.gov/servlets/purl/10201112 
+
+“Phoenix pledges tree equity for all neighborhoods by 2030” by KJZZ https://kjzz.org/content/1677263/phoenix-pledges-tree-equity-all-neighborhoods-2030 
+
+Phoenix Draft Climate Action Plan: https://www.phoenix.gov/oep/cap 
+
+Phoenix tree bank https://www.phoenix.gov/sustainability/plantatree  
+
+“50 Grades of Shade” by Ariane Middel https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0193.1/BAMS-D-20-0193.1.xml 
+
+“A New Investigation About Who’s Getting Sick From Heat-Related Illness Should Be a Wakeup Call for America” by Mother Jones https://www.motherjones.com/environment/2021/01/a-new-investigation-about-who-is-dying-from-heat-related-illness-should-be-a-wakeup-call-for-america/ 
+
+“As rising heat bakes US cities, the poor often feel it most” by NPR https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most?t=1628079007286 
+
+“Can trees really cool our cities down?” by The Conversation https://theconversation.com/can-trees-really-cool-our-cities-down-44099 
+
+“Trees are key to fighting urban heat, but cities keep losing them” by NPR https://www.npr.org/2019/09/04/755349748/trees-are-key-to-fighting-urban-heat-but-cities-keep-losing-them 
+
+Watch our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on Facebook: http://goo.gl/U2g06o
+
+Or Twitter: http://goo.gl/XFrZ5H
+
+##### Transcript
+
+**0:02** · I’m looking at a map of surface temperatures in the Phoenix metro area.
+
+**0:05** · So this is in Arizona, in the southwest US and it shows how hot the ground is in June.
+
+**0:10** · And this is a map of child poverty rates.
+
+**0:13** · Darker blue means more poverty.
+
+**0:15** · So this is heat.
+
+**0:16** · And this is poverty.
+
+**0:18** · Heat.
+
+**0:19** · Poverty.
+
+**0:20** · Heat, Poverty.
+
+**0:21** · The correlation is pretty obvious.
+
+**0:24** · This is where it becomes clear that climate change and wealth inequality are not really separate issues.
+
+**0:29** · And you can probably find examples of that wherever you go in the world, but for this story, I went... there.
+
+**0:36** · "An excessive heat warning is in effect."
+
+**0:39** · "Warmer is the new normal in Phoenix."
+
+**0:41** · "The city's grappling with an increase in heat related deaths."
+
+**0:44** · "Phoenix, last year, hitting 100 degrees or higher for more than 144 days."
+
+**0:49** · "Climate change is one factor causing rising temperature.
+
+**0:53** · "Urban development is the other."
+
+**0:58** · The forecasted high that day was 112 degrees Fahrenheit.
+
+**1:02** · That's 44 degrees Celsius.
+
+**1:04** · But in reality, some areas can feel warmer or cooler than that.
+
+**1:09** · So here I am in a neighborhood with some of the hottest surface temperatures, but when I drove 8 miles north of there, I was in one of the coolest parts of Phoenix.
+
+**1:19** · And it was in the hot neighborhood where I met up with Eva Olivas.
+
+**1:23** · She's a local community advocate and Phoenix native.
+
+**1:26** · It's nice to meet you.
+
+**1:27** · OLIVAS: It's nice to meet you.
+
+**1:28** · Can you tell me a little bit about this neighborhood and who lives here?
+
+**1:31** · OLIVAS: So the community of Central City South is located just south of the downtown business district.
+
+**1:38** · OLIVAS: The average income level for a family of four is about $19,000.
+
+**1:42** · OLIVAS: The vehicle ownership rate is between 23-28% of the population.
+
+**1:45** · Oh wow.
+
+**1:46** · OLIVAS: Yes, very low.
+
+**1:47** · So they’re very dependent on public transportation.
+
+**1:50** · This zip code has the highest rate of heat-related illnesses in the city, what makes people here vulnerable to extreme heat?
+
+**1:58** · Well, I think it’s a combination of things.
+
+**2:00** · We have the freeway.
+
+**2:02** · OLIVAS: We have the railroad tracks on the north.
+
+**2:04** · OLIVAS: We have the airport on the east.
+
+**2:06** · OLIVAS: So we're like a little pocket.
+
+**2:07** · That's a lot of pavement.
+
+**2:08** · OLIVAS: A lot of concrete, a lot of industry here.
+
+**2:13** · A lot of our streets, as you can see, don't have sidewalks.
+
+**2:17** · You're having to walk in the street, like we are.
+
+**2:20** · And there's not a lot of shade.
+
+**2:22** · If you can look around, you don't see a lot of trees.
+
+**2:26** · This is the Sonoran Desert, so of course the summers are hot.
+
+**2:29** · But it also seems like this entire city was almost designed to capture heat.
+
+**2:34** · The streets are so wide.
+
+**2:36** · This isn’t a highway, this is just the Phoenix grid.
+
+**2:38** · And the buildings are so flat and set back from the sidewalk, so they don’t create much shade at all.
+
+**2:44** · And then there’s the parking lots.
+
+**2:46** · I read one estimate that there are more than 4 parking spots for every car in Phoenix.
+
+**2:52** · The sun just beams into all that pavement.
+
+**2:54** · And it doesn't just roast anyone who happens to walk across it, it’s also transferring heat to the air, day and night.
+
+**3:02** · Wow I really … did that poorly.
+
+**3:05** · Also, I promise this is not a Chevy ad, I just borrowed my dad's car.
+
+**3:09** · So what do you do to try to mitigate heat in a city like this?
+
+**3:13** · Well, reflective roofs can help a bit.
+
+**3:15** · The thermal image shows the surface temperature of the dark roof is hotter than the white ones.
+
+**3:20** · And the city has also tried painting some roads with a more reflective coating.
+
+**3:25** · But if you compare the hottest and coolest neighborhoods, it’s pretty clear that the big difference between them isn’t the black or white surfaces.
+
+**3:33** · It’s the green ones.
+
+**3:36** · Plants are the variable that connects this map of heat to this map of poverty.
+
+**3:41** · And studies have confirmed that the cooling effect of cool roofs and cool pavements is smaller than the cooling effect of trees.
+
+**3:48** · "One of the best ways to beat the urban heat."
+
+**3:50** · "The more trees you plant, the more benefits."
+
+**3:53** · "It's cleansing for the air."
+
+**3:54** · "Reduce carbon footprint."
+
+**3:55** · "Lower levels of stress."
+
+**3:56** · "Decrease energy costs."
+
+**3:58** · "Storm water management."
+
+**3:59** · "It's a very important engine of cooling."
+
+**4:01** · If you take an area that’s just parking lots and buildings, and cover at least a quarter of the space with trees, you can lower air temperatures there by around 8 degrees Fahrenheit or 4.4 degrees Celsius.
+
+**4:12** · That’s according to a study from Arizona State University.
+
+**4:15** · For those who are used to humid summers, it can be hard to understand just how much relief shade provides in a dry heat.
+
+**4:22** · You can easily see the temperature difference on my arms and on the concrete there.
+
+**4:27** · So the city of Phoenix has committed funds to planting more trees.
+
+**4:30** · They want all neighborhoods to reach a minimal level of canopy cover by 2030.
+
+**4:36** · And I love the idea of recruiting an army of trees to protect the vulnerable from extreme heat.
+
+**4:42** · But there’s a problem.
+
+**4:44** · Outside of parks and along major streets, the urban forest currently depends not on public resources, but on private ones.
+
+**4:55** · What would it take for a street like this one to become one of those shady tree-lined streets that they have uptown.
+
+**5:02** · OLIVAS: Well, any tree that’s planted in this neighborhood in front of someone’s home, they would have to maintain.
+
+**5:09** · OLIVAS: The city does not maintain them in these residential areas.
+
+**5:13** · I see, okay.
+
+**5:14** · So there are some utility companies here that will give you a couple of free trees if you agree to plant them on the west side or south side of your home, because eventually that can end up saving something like 30% on your air conditioning bill.
+
+**5:26** · But it sounds like that doesn’t really solve the maintenance issue.
+
+**5:29** · OLIVAS: Correct.
+
+**5:30** · OLIVAS: Because there’s that tradeoff between shade or increased water bill.
+
+**5:35** · But it’s the cost of maintaining the trees that is challenging, obviously in a very low income neighborhood like ours.
+
+**5:41** · And it’s not a priority for them in their family, in their home.
+
+**5:45** · Are there no programs here that are actually going to take on the watering cost?
+
+**5:50** · OLIVAS: Zero.
+
+**5:51** · That is the responsibility of the homeowner and you have to remember, what did I say?
+
+**5:54** · These are mostly renters.
+
+**5:57** · I walked with Eva along Buckeye Road where there’s a big triangular lot, it’s owned by the city, and has been left unplanted.
+
+**6:04** · She said that would probably change with the city’s new tree equity plans.
+
+**6:07** · But she also hoped for some more basic things: like sidewalks, and shade shelters for all the bus stops.
+
+**6:15** · It was a reminder that wealth already affects access to infrastructure, even infrastructure that doesn’t have to be watered and pruned.
+
+**6:22** · And that's what will have to change if cities like Phoenix want to make sure that the heaviest burdens of climate warming don’t fall on those who are least prepared to withstand them.
+
 #### How an Architect Redesigns NYC Streets  WIRED
 
 **WIRED**, *04 22, 2022*
@@ -10574,6 +10974,202 @@ http://www.youtube.com/nowthisearth
 **11:59** · to help if it's safe to do so and convenient maybe you can try walking when running nearby errands instead of hopping in the car you can also organize people in your community and attend a city council meeting and speak up about infrastructure issues that are important to you let your voice be heard i want to
 
 **12:15** · thank pikmin bloom for sponsoring this episode pikmin blue makes walking even more fun and encourages you to go out there and explore your city the game transforms your neighborhood into a world of colorful flowers where you can discover different seedlings that grow into your collection of pikmin pikmin bloom is available now that's all for this episode thank you all for watching and i'll see you next time [Music]
+
+#### How China is designing flood-resistant cities
+
+**Vox**, *10 26, 2023*
+
+##### Video (6:49)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nf-Yy3EuZi0 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+These "sponge city" designs resist floods and increase biodiversity to help us adapt to a changing climate.
+
+This episode is presented by Delta. Delta doesn’t have a say in our editorial decisions, but they make videos like this possible. For more information, visit http://www.delta.com/sustainability.
+
+Subscribe to our channel and turn on notifications (🔔) so you don't miss any videos: http://goo.gl/0bsAjO
+
+From rising sea levels in Mumbai to unbearable heat in Houston, cities around the world are feeling the effects of climate change. Unfortunately, they don’t always have the right infrastructure to handle its impacts — which is one reason why cities are beginning to reimagine urban design. One of these designs is a “sponge city.”
+
+Although one city design certainly won’t save us from the effects of climate change, “sponge cities” can help with how we live with it. 
+
+Here are some studies and articles we used to inform our reporting:
+
+Biodiversity — our strongest natural defense against climate change: https://www.un.org/en/climatechange/science/climate-issues/biodiversity
+
+Sponge City, Shenzhen Explores the Benefits of Designing with Nature: https://www.lincolninst.edu/publications/articles/sponge-city-shenzhen-explores-benefits-designing-with-nature
+
+Sponge City Practices in China: From Pilot Exploration to Systemic Demonstration: https://www.mdpi.com/2073-4441/14/10/1531
+
+The ocean is rising — and so is Miami’s skyline: https://www.vox.com/climate/23872640/coastal-climate-ocean-rising-miami-florida-building
+
+Sponge Cities: Integrating Green and Gray Infrastructure to Build Climate Change Resilience in the People’s Republic of China: https://www.adb.org/sites/default/files/publication/838386/adb-brief-222-sponge-cities-prc.pdf
+
+How Is Climate Change Affecting Floods?: https://www.nytimes.com/article/flooding-climate-change.html
+
+Vox is on a mission is to help everyone, regardless of income or status, understand our complicated world so that we can all help shape it. Part of that mission is keeping our work free. 
+
+Watch our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on TikTok: http://tiktok.com/@voxdotcom
+
+Check out our articles: https://www.vox.com/
+
+Listen to our podcasts: https://www.vox.com/podcasts
+
+##### Transcript
+
+**0:02** · This isn't a forest.
+
+**0:04** · Not really.
+
+**0:05** · It's actually an urban park in the densely populated city of Nanchang, China.
+
+**0:11** · Filled with birds, native trees...
+
+**0:14** · and volcanic rock on 137 acres of urban land.
+
+**0:19** · It's called a sponge city.
+
+**0:21** · And it's a type of natural infrastructure that architects around the world are designing to help us combat and withstand a changing climate.
+
+**0:29** · So what does it mean for a city to become spongy?
+
+**0:38** · This video is presented by Delta Airlines.
+
+**0:42** · Today, like everywhere else on the globe cities are feeling the effects of climate change.
+
+**0:46** · And they often don't have the right infrastructure to help them survive its impacts.
+
+**0:52** · Some neighborhoods in Houston don't have enough trees to provide shade and relief from rising temperatures.
+
+**0:58** · Meanwhile, rising sea levels threaten coastal cities, like Mumbai and Seoul that don't often have the infrastructure to handle more frequent flooding.
+
+**1:06** · This is only made worse by the fact that cities are covered with pavement and other surfaces that can't absorb water.
+
+**1:13** · Urbanization changes habitat.
+
+**1:15** · So, when you build on a place it removes vegetation and alters hydrology.
+
+**1:22** · That's Dr. Charlie Nilon.
+
+**1:24** · He told me that cities play a complicated role in the climate crisis...
+
+**1:28** · especially when it comes to maintaining biodiversity.
+
+**1:31** · Biodiversity is, simply put the total number of plants and animals that occur someplace.
+
+**1:39** · Biodiversity is one of our main support systems for human life on earth.
+
+**1:44** · We rely on natural ecosystems full of diverse plants, animals, and organisms for essential things like clean water, food, and medicine.
+
+**1:54** · And biodiversity is critical to defending the Earth against climate change.
+
+**1:59** · We need healthy forests to absorb carbon dioxide from the air and enough native plants for pollinators to help crops flourish.
+
+**2:07** · But studies show that as urban expansion continues it can drive habitat losses that directly put some species in danger...
+
+**2:13** · profoundly impacting global biodiversity.
+
+**2:16** · Cities have a big impact on what happens locally.
+
+**2:19** · Cities capture a significant number of plant and animal species...
+
+**2:23** · which are native.
+
+**2:24** · So that, even in cities, there's a significant amount of biodiversity.
+
+**2:28** · Which means they can play a role in saving these local plant and animal species.
+
+**2:33** · The really important thing to think about is not so much how urbanization...
+
+**2:38** · reduces biodiversity, but really how in cities you can conserve biodiversity.
+
+**2:43** · One way to do this is by creating environments where nature can flourish.
+
+**2:47** · Environments that can also help cities soak up excess water.
+
+**2:52** · And that's where sponge cities come in.
+
+**2:55** · In 2015, China launched a sponge city pilot program in 30 cities across the country.
+
+**3:01** · The goal of the program was to coordinate and promote the construction of sponge cities...
+
+**3:06** · which would improve urban drainage and flood prevention and create a diverse biological environment.
+
+**3:13** · Architects did this by supplementing the existing grey infrastructure that relied on concrete pipes and dams with natural solutions like gardens that are designed to capture rain and native trees that suck up excess water through their roots.
+
+**3:27** · In China, these ideas were taken from ancient drainage systems.
+
+**3:31** · That's because for centuries Chinese cities actually handled water pretty well in part because they were built with nature in mind.
+
+**3:39** · A study from the scientific journal Water recreated some of these old practices.
+
+**3:44** · Building roofs designed with sloped eaves allowed rainwater to fall onto the permeable pavement below...
+
+**3:50** · and exterior walls were lined with flowers and trees to absorb rain and stormwater.
+
+**3:55** · Today, natural solutions like these have been reimplemented in major cities across China.
+
+**4:04** · In Qian’an, a sewage pipe was replaced with this natural infiltration system...
+
+**4:09** · that uses vegetation beds to purify storm and rainwater.
+
+**4:13** · Shanghai replaced concrete roads and sidewalks with this permeable pavement which is lined with vegetation to absorb excess water into the soil underground.
+
+**4:23** · And across Wuhan, dozens of urban gardens like these were planted to absorb water before it overwhelms communities.
+
+**4:31** · Most of these projects rely on introducing vegetation in an urban area to soak up excess water.
+
+**4:37** · This is a really great way to handle flooding and it also supports urban biodiversity.
+
+**4:43** · Because you're providing habitat for additional groups...
+
+**4:46** · Plant and animal species.
+
+**4:47** · Sometimes you can restore habitats that have been lost.
+
+**4:50** · Despite these benefits, sponge cities can't fix everything.
+
+**4:54** · The connection between climate change and flooding is still being studied.
+
+**4:58** · But when floods do happen these spongy cities are only able to absorb excess water up to a certain point.
+
+**5:05** · In 2021, sponge city designs in Zhengzhou failed when historic rainfall drenched the city.
+
+**5:11** · More than 300 people died from the catastrophic flooding.
+
+**5:15** · There are other limitations, too.
+
+**5:17** · One review of sponge cities in Guian New District found that national standards and codes for spongy infrastructure are really difficult to enforce because climate, hydrology, and even socio-economics are vastly different from one city to the next.
+
+**5:33** · So what might work in some cities won't necessarily solve climate-related problems in others.
+
+**5:39** · Plus, ambitious sponge city designs like the sprawling parks built in China are expensive and require a lot of space...
+
+**5:45** · which most cities don't have.
+
+**5:47** · So some US cities experimenting with natural infrastructure like LA and Boston are using the green space they already have.
+
+**5:56** · By trying things like planting vegetation on curbs...
+
+**5:59** · and creating green spaces along median strips.
+
+**6:03** · One type of city design certainly won't save us from climate change...
+
+**6:07** · but they can make a difference in how we live with it.
+
+**6:10** · We often talk about biodiversity like it's far away, but it's actually right there.
+
+**6:16** · And I think the more that people understand that the kinds of things they do around where they live that really matters.
+
+**6:21** · People can do things to change cities.
+
+**6:24** · They can do things to make cities different.
+
+**6:27** · They can do things to make cities better.
 
 #### How FIVE BILLION Pounds of Las Vegas Garbage Powers a City
 
@@ -10833,6 +11429,92 @@ temperature by nearly two degrees Fahrenheit and absorb over 10 billion
 gallons of stormwater each year.
 
 **3:27** · As cities continue to grow, all that empty roof space starts to look more and more like an opportunity, an untapped resource, a future ecosystem of problem-solving meadows in the sky.
+
+#### How highways make traffic worse
+
+**Vox**, *02 12, 2021*
+
+##### Video (6:04)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/2z7o3sRxA5g title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Expanding highways doesn't do what you think it does.
+
+Subscribe and turn on notifications (🔔 ) so you don't miss any videos: http://goo.gl/0bsAjO
+
+Big, expensive highway expansion projects are the source of a lot US transportation funding — but they aren't a silver bullet for congestion relief. In communities that were built for cars, solving traffic problems requires much more holistic problem-solving. 
+
+At 1:00,  we show a bar graph of travel times on the Katy Freeway that was originally put together by City Observatory, which has covered the Katy Freeway expansion project at length: 
+
+https://cityobservatory.org/reducing-congestion-katy-didnt/
+
+This video was based in large part on research by Gilles Duranton and Matthew A. Turner: 
+
+https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2616
+
+For more reading on induced demand: 
+
+https://www.wired.com/2014/06/wuwt-traffic-induced-demand/
+
+https://www.bloomberg.com/news/articles/2018-09-06/traffic-jam-blame-induced-demand?sref=PxYB8Mnq
+
+For Kyle Shelton's work on urbanism: 
+
+https://kinder.rice.edu/urban-edge/author/541
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com.
+
+Watch our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on Facebook: http://goo.gl/U2g06o
+
+Or Twitter: http://goo.gl/XFrZ5H
+
+##### Transcript
+
+###### The Katy Freeway's scale
+
+**0:01** · The Katy Freeway in Texas connects Houston’s western suburbs with the city’s downtown.
+
+**0:08** · At its widest point, right here, it spans 26 lanes including parallel roads, before it intersects with another freeway, creating this massive web of pavement. The Katy Freeway is among the widest in the world. But it didn’t start out this big. The freeway was initially built in the 1960’s with 6 lanes in most places. But as the suburbs and office space around Houston started growing in the 1980’ s and 90’s and more people began using the freeway— it became a traffic nightmare. By 2004, it was ranked the second worst bottleneck in the country.
+
+###### Expansion and continued traffic
+
+**0:40** · To accommodate the growing commuter class, the city began a nearly 3 billion dollar expansion project, to add the additional lanes. The solution seems natural — more lanes equals less congestion. But traffic didn’t get any better. In fact, it got worse, in both the morning and afternoon commutes.
+
+###### Economic theory of traffic
+
+**1:02** · The reason why hinges on a simple economic theory. One that is often overlooked, because actually reducing traffic is far from simple. Highway expansion has gone hand in hand with the suburbanization of American cities like Houston. It becomes a self-fulfilling recipe for urban sprawl: a highway gets built to connect suburbs to a city center, which encourages more development along it, which necessitates even more highways when those get congested — and on and on and on.
+
+**1:33** · The instinct to widen highways to relieve traffic makes sense—but there’s a reason it doesn’t work: due to a concept called “induced demand.” These represent 3 highway lanes. And these balls are the commuters that drive on them. These particular commuters — the red ones — will sit in traffic no matter how bad it gets, because they have to. Driving to work on the highway is their only option. Let’s say this is what congestion looks like, during peak rush hours. Once a certain number of cars get on the highway, traffic slows to a crawl. Now let’s add a new lane.
+
+###### Understanding induced demand
+
+**2:04** · These drivers now have more room to spread out — which should make traffic flow better. That might happen at first, but it doesn’t stay that way. That’s because there’s another set of people who will take the highway under the right conditions — even though they have other commuting options. When a highway is congested, they might take local roads instead. Or be able to drive during off-peak hours. They might use other modes of transportation, like public transit or biking.
+
+**2:34** · Or maybe they can work from home that day and skip the commute altogether. In a few years, these people will start taking the highway, enticed by less congestion. This is induced demand at play: the more supply there is, the more demand will follow, to exhaustion. And in this case, the supply is highway lanes. And sometimes, like on the Katy freeway, congestion gets even worse after a highway expansion, until some of those people with more options go back to their old ways. But in the end, you’re still left with more drivers, and congestion that’s at least as bad as it was before.
+
+**3:02** · When our transportation system is so reliant on highways and private automobiles, there's almost no way around it because that's the system that we've created. This is Kyle Shelton, an urbanist based in Houston. The endless reduction of congestion… should that be...the driving, honestly the driving policy question for a lot of our transportation funding? Big expensive highway infrastructure projects are still the prevailing band-aid to congestion in the US.
+
+###### Challenges to the system
+
+**3:32** · The transit advocacy group Transportation for America found that between 1993 and 2017, the US added over 30,000 miles of new freeway lanes in 100 metro areas. Building more highways may provide some short-term relief. And it’s easier than most infrastructure projects to get federal funding to do a highway expansion. But if we want less traffic and fewer drivers, giving flexible commuters better choices is a good place to start. Like by improving public transit by adding more and better bus routes or trains.
+
+**4:06** · That alone might not be a silver bullet for congestion relief, for the same reason that adding another lane isn’t: new drivers will take the place of transit commuters on the highway. And for many people living off highways in sprawling US cities, public transit may never be an adequate solution.
+
+**4:23** · ‘Cause it’s not just about the infrastructure. It's also about individual behaviors. It's about where job opportunities are located. And most of our cities have now been constructed in this way where the car is the prime mode. Another option is to enact policies that actively disincentivize people from using the highway. Like congestion pricing, which charges people who drive on highways during rush hours. Or remote work programs that deter people from traveling during the highest traffic times — or make it so they don’t have to commute at all.
+
+###### Alternative solutions
+
+**4:54** · And in the long-term, better land use policies can help as well, like by building communities that put people closer to where they need to go. And if building more highways results in more drivers and congestion, then removing them could have the opposite effect.
+
+###### Highway removal and future
+
+**5:10** · For example, the city of Boston removed a freeway in its city center in the 1990s, and replaced it with a boulevard with biking and bus lanes and more space to walk. It reduced congestion by 62%. And now the Democratically controlled Senate is considering nearly $10 billion in funding for similar highway-removal projects in other cities. What we build and invest in in the world of transportation truly changes our behavior.
+
+**5:38** · If building more roads makes us drive on them more. Then giving people better choices by investing in the right things, will make us drive less. Because, if we build it, they will come.
 
 #### How Indoor Air Quality Impacts Your Lungs
 
@@ -11193,6 +11875,329 @@ Follow Planet A on TikTok: https://www.tiktok.com/@dw_planeta
 **10:08** · And don't forget to click like, and subscribe.
 
 **10:10** · See you next time."
+
+#### How redlining prevented Black and Brown families from becoming home owners
+
+**Harvard Kennedy School**, *09 19, 2023*
+
+##### Video (4:28)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/cUl3l4w5CYw?start=5 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The term "redlining" refers to the practice by banks of excluding Black and Brown Americans from receiving loans to buy homes and make improvements to their communities. Redlining arose during the Great Depression, when the federal government sought to boost homeownership by encouraging banks to lend to more Americans. Many neighborhoods, specifically those with majority Black and Brown residents, were deemed undeserving of these loans. Though redlining was made illegal by the Fair Housing Act, the effects of this practice still reverberate to this day. 
+
+In this video, Khalil Gibran Muhammad, Ford Foundation Professor of History, Race, and Public Policy at Harvard Kennedy School and director of the Institutional Antiracism and Accountability Project, provides background on the history and legacy of redlining.
+
+
+About Harvard Kennedy School:
+
+The John F. Kennedy School of Government at Harvard University is a graduate and professional school that brings together students, scholars, and practitioners who combine thought and action to make the world a better place.
+
+Our mission is to improve public policy and public leadership across the United States and around the world so that people can lead safer, freer, and more prosperous lives. Harvard Kennedy School teaches current and future leaders the skills they need to effectively advance the public purpose in the public, nonprofit, and private sectors. Our renowned faculty and trailblazing research centers pioneer bold new ideas. And as the most international school at Harvard, we convene global leaders in the Forum, host visiting experts in the classroom, and attract a diverse community of faculty, students, and staff.
+
+##### Transcript
+
+**0:00** · In every way imaginable, the consequences of redlining to many black and brown communities across America meant that those communities had the least and the last of everything.
+
+**0:16** · So I want to talk about redlining, because this is a term you may have heard, but most people don't actually know the history.
+
+**0:24** · In 1933, in the midst of America's Great Depression, when unemployment rates were 25% and millions of people were not only out of work, but many of them were houseless, the federal government under President Franklin Delano Roosevelt established an agency called the Home Owners Loan Corporation.
+
+**0:42** · Basically, it tried to make home buying much more affordable by subsidizing the cost of building and lending such that people would be able to afford to buy for the first time.
+
+**0:55** · Millions of Americans participated, except that when the Home Owners Loan Corporation began to issue mortgages, it came up with a scheme to decide which communities were deserving of loans and which ones weren't.
+
+**1:10** · They made maps and used a color coded scheme.
+
+**1:14** · Green meant this was a community that you could lend to and red you could not.
+
+**1:19** · The basic decision they made was to determine that any community with the presence of black people or brown people or people who, perhaps, spoke Italian, in certain parts of the country could not receive support from the Home Owners Loan Corporation.
+
+**1:36** · This created a system that came to be known as redlining because communities that were deemed risky by the mere presence of people of color, most especially black people, were disqualified from getting direct support from the federal government to purchase homes.
+
+**1:53** · This policy lasted until 1968, when the federal government passed the Fair Housing Act, which made all forms of discrimination in the buying and selling or renting of homes illegal.
+
+**2:08** · But the truth is that the legacies of redlining from that moment to the present meant that black people were subjected to other forms of exploitative lending.
+
+**2:18** · A system called contract buying grew up as a way to sell black people homes on a layaway plan.
+
+**2:26** · You made set payments over an extended period of time, but you never owned the home until the very last payment.
+
+**2:34** · It was very common for unscrupulous sellers to withhold that final payment in an effort to take back the home from a person who had worked incredibly hard to buy it.
+
+**2:45** · Home ownership has been the most important asset that a typical white family has in order to do simple things like borrow money to send a child to college.
+
+**2:58** · But most importantly, they have financial freedom.
+
+**3:01** · But for communities that have been subjected to redlining, they didn't have those advantages.
+
+**3:08** · Not only that, the very communities that they lived in suffered from divestment, including the lack of grocery stores, the lack of businesses, the imposition of federal highways that often bisected their communities.
+
+**3:24** · In every way imaginable, the consequences of redlining to many black and brown communities across America meant that those communities had the least and the last of everything.
+
+**3:38** · And to this day, the median wages and income of those communities, and the financial insecurity that people who live in redlined communities face, has long term health consequences for families, has educational consequences for young people whose schools often don't have the tax basis to give them the same resources that communities that were never redlined actually have.
+
+#### How Singapore Uses Science to Stay Cool
+
+**Bloomberg Originals**, *03 17, 2021*
+
+##### Video (9:49)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/PM101DvvG4Q?start=96 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Heat waves kill more people than any other extreme weather event: more than tornados, hurricanes, and even floods. That’s why scientists are coming up with novel, new designs to help keep temperatures down in Singapore.
+
+
+
+Like this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Become a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join
+
+QuickTake Originals is Bloomberg's official premium video channel. We bring you insights and analysis from business, science, and technology experts who are shaping our future. We’re home to Hello World, Giant Leap, Storylines, and the series powering CityLab, Bloomberg Businessweek, Bloomberg Green, and much more.
+
+Subscribe for business news, but not as you've known it: exclusive interviews, fascinating profiles, data-driven analysis, and the latest in tech innovation from around the world.
+
+Visit our partner channel QuickTake News for breaking global news and insight in an instant.
+
+##### Transcript
+
+###### Intro
+
+**0:01** · If you look at a thermal image of a city and then compare that to a map of vegetation, you'll find that where there's greenery, the temperature is lower.
+
+**0:11** · That's because things like asphalt, concrete and shingled roofs absorb more heat from the sun than trees.
+
+**0:19** · This is the urban heat island effect, and it accounts for the higher temperatures in cities, often by several degrees compared with their surroundings.
+
+**0:28** · It's becoming a huge risk to human health as growing urban populations exacerbate the heating effects of climate change.
+
+**0:36** · Heat waves kill more people than any other extreme weather event, more than tornadoes, hurricanes and even floods.
+
+**0:47** · That's why urban heat island mitigation strategies are being studied in Singapore by a group of researchers.
+
+**0:54** · The government-backed project called Cooling Singapore is now in the process of combining everything they've learned to create a digital tool that can help cities all over the world, starting with Singapore.
+
+###### Cooling Singapore
+
+**1:10** · In Singapore, close to the equator, temperatures regularly rise above 32 degrees Celsius or 90 degrees Fahrenheit.
+
+**1:19** · And the city structures only make it worse.
+
+**1:22** · And that is also the case for Singapore, which is basically a concrete jungle, more urbanized, more developed city.
+
+**1:29** · And even in Singapore, what you have is a situation whereby there's a temperature difference of 7 degrees Celsius between the more urbanized and the more rural areas.
+
+**1:41** · The government has taken drastic steps to keep temperatures down.
+
+**1:46** · This is Gardens by the Bay, an award-winning park.
+
+**1:50** · And inside this greenhouse it's a pleasant 24 degrees.
+
+**1:54** · That's because the dome, along with two dozen nearby towers full of thousands of people, is chilled by what's probably the world's largest underground district cooling system.
+
+**2:04** · It uses a large central plant that cools water and then pipes it into banks, residential towers, an exhibition center, shopping malls and the city's iconic Marina Bay Sands hotel and casino complex.
+
+**2:18** · So one of the biggest perks of using this system for the buildings is that they can save 40% in terms of electricity usage compared to your traditional air conditioners.
+
+**2:32** · And with Singapore relying on natural gas for most of its power, this new system means emissions savings equivalent to removing 10,000 cars from the city's roads.
+
+**2:43** · That has big implications for the rest of the world.
+
+**2:45** · If things stay as they are, more than a third of the world's electricity could end up being used to cool buildings and vehicles by 2050.
+
+**2:55** · As the world gets hotter, gets warmer, there is a greater need for air conditioning and as well as refrigerators, for instance.
+
+**3:03** · And the more people are buying these household appliances, the more energy usage they use and they release heat more, and that then exacerbates climate change.
+
+**3:18** · It's a vicious circle.
+
+###### Vegetation
+
+**3:20** · And so since 2017, researchers at Cooling Singapore have been identifying design solutions that reduce our need for so much cool air in the first place.
+
+**3:31** · One thing many cities have in common, and that's the importance of vegetation.
+
+**3:36** · That's a very important measure to mitigate the urban heat because of the shading effect, of course, and deep psychological effects of the vegetation.
+
+**3:46** · And also because of the possible evaporative cooling effect of the vegetation.
+
+**3:53** · Vegetation can be, of course, on the ground floor in form of trees and shrubs.
+
+**3:58** · And you can walk under them.
+
+**4:00** · This is the so-called canopy layer that the vegetation forms above us.
+
+**4:05** · But vegetation can also go up the facades of buildings and it can go to the roof of the buildings.
+
+###### Garden City Feel
+
+**4:14** · Luckily, Singapore has been striving for the Garden City feel for quite some time.
+
+**4:20** · It was a vision initially introduced by then Prime Minister Lee Kuan Yew in 1967 to make life more pleasant for people.
+
+**4:28** · And today, Singapore is one of the world's greenest cities in terms of urban vegetation.
+
+**4:33** · Kampung Admiralty, a community center that contains health facilities and social spaces, now provides more green space than the plot of land it was originally built on.
+
+**4:44** · It's topped by a roofscape of staggered terraces covered in local plants, which functions as a community park, and a village green in the center that contains farm plots for residents to tend to.
+
+**4:56** · Parkroyal on Pickering was designed as a hotel in a garden that doubled the green-growing potential of its site.
+
+**5:04** · There's now 15,000 meters of sky gardens, reflecting pools, waterfalls, planter terraces and green walls.
+
+**5:12** · And the government has big plans as well.
+
+**5:17** · Singapore actually has a plan to plant 1 million trees and add more green spaces over the next 10 years.
+
+**5:24** · It is actually a mix of one thing to reduce the urban heat island effect.
+
+**5:30** · But on the other hand, it's also to to get the people to be more connected to nature.
+
+**5:39** · But it's not enough.
+
+###### Heat Mitigation
+
+**5:41** · The city-state has still been warming twice as quickly as the world average over the past six decades.
+
+**5:47** · That's why Cooling Singapore has developed a catalog of other potential heat-mitigation measures.
+
+**5:54** · When you try to mitigate the urban heat island effect in a city or in any building, in a village as well, the first place to start is by shading of the windows.
+
+**6:05** · You have to keep areas clear so that the wind can move through it.
+
+**6:11** · Water of a certain depth can act as a very good thermal buffer.
+
+**6:15** · If you have to construct heavy buildings, such as high rises, at least you can make the surface, the facade less heavy.
+
+**6:24** · And you can protect it from direct sun penetration.
+
+**6:27** · We have to make sure that no combustion engines will be in the city in the middle, in the medium- to long-term range.
+
+**6:35** · So ideally, the electricity production is outside of the city.
+
+**6:39** · And you bring just the clean electricity into the city.
+
+**6:43** · You can at least minimize the use of energy in the city.
+
+**6:48** · And you can start to slowly convert the roofs, the facades of the city, into production areas for renewable energy.
+
+**6:58** · In Singapore, unfortunately, this is a limited option.
+
+**7:01** · But in the long run, it could produce up to 20%, 25% of the energy, of the electricity needed in Singapore.
+
+**7:10** · If all the roofs and the areas in the buildings, on the buildings, on the facades would be used to do that.
+
+###### Urban Climate Twin
+
+**7:20** · With so many different ideas, Cooling Singapore is also designing a virtual model of the city to test them out.
+
+**7:26** · It's called a Digital Urban Climate Twin, or DUCT, that will calculate how each element of the city's design will impact the urban heat island effect.
+
+**7:37** · That means we model not only the geometry of the buildings digitally, but also we model the transportation, the insulation, the temperature, the radiation coming from the sun, the weather, the local weather, the local climate, the even very, very microclimate of the city, the water, the movement of people in the city.
+
+**8:01** · We can invent scenarios.
+
+**8:04** · We can design scenarios, test them before we actually build them.
+
+**8:09** · And if they test very well and we are sure that they will function, then we can start to build them and put them into reality.
+
+###### Conclusion
+
+**8:23** · Singapore will be using this new tool to figure out which actions it should take next.
+
+**8:28** · And the model can be applied to any city, whether it needs to keep heat out or keep heat in, which will ultimately save energy, slow climate change and improve our quality of life.
+
+**8:41** · So this is something that Singapore will be able to export, maybe even together with its city development systems that it already has.
+
+**8:51** · Singapore is one of the very few cities in the world that really combined this scientific approach with a very well-established urban redesign and urban design approach.
+
+**9:03** · Through its agencies and the combination of its agencies, it has achieved a lot in the past.
+
+**9:10** · If it keeps following the scientific path and the combination with the other knowledge in the city already, we think that it will be a very comfortable and very livable city in the future, even more than today.
+
+#### How the U.S. Government Segregated Chicago  Inside Chicago, Part 1
+
+**AJ+**, *05 25, 2017*
+
+##### Video (8:24)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/LN_8KIpmZXs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Chicago has a long history of racist housing policies that have led to a racially divided city – a major factor behind the city's reputation of violence. 
+
+Check out this similar video from AJ+: https://www.youtube.com/watch?v=ert_qPXQGQA 
+
+Senior Producer: Maggie Beidelman
+
+Producers: Jun Stinson, Omar Duwaji, Emily Gibson
+
+Executive Producer and Narration: Sarah Nasr 
+
+Editor: Michael Ngyuen
+
+Animator: Kai Tang
+
+Subscribe to see more videos: https://www.youtube.com/channel/UCV3Nm3T-XAgVhKH9jT0ViRg?sub_confirmation=1 
+
+
+
+Like us on Facebook: https://www.facebook.com/ajplusenglish
+
+Download the AJ+ app at http://www.ajplus.net/
+
+Follow us on Twitter: https://twitter.com/ajplus
+
+##### Transcript
+
+**0:00** · there are two faces to the city of Chicago first you see its spectacular downtown next to Lake Michigan with its famous theaters and incredible architecture top that off with some of the most passionate sports fans in the country you get the picture but the other face of Chicago is known for its violence and the thousands of lives lost in recent years one child is killed in Chicago every week and this is the face of Chicago that seems to dominate the headlines and the national conversations surrounding the city you walk down the street you get shot in Chicago they've
+
+**0:33** · had thousands of shootings thousands and I'm saying where is this is this a war torn country but this Narrative of Carnage of endemic violence is incomplete I know this because I'm from Chicago it's a beautifully diverse place with a population almost evenly split between black white and Latino Americans
+
+**0:52** · but chai toown is also one of the most racially divided cities in the United States most of these ethnic groups live in different neighborhoods seated by geography segregation is like air and water we just live it we just breathe it we don't really think about it it's just sort of how things are I wanted to find out how Chicago got this way and how its segregation led to so many of its [Music]
+
+**1:19** · problems Chicago segregation is best explained on a map you have your North Side you have your south side and you have your west side to the east is the lake those terms North South and West have subtle meanings that relate to the racial segregation of Chicago and so when you say the north side people are sometimes subtly meaning the white side and the South Side especially today is
+
+**1:44** · predominantly black and so when you say the South Side you are subtly meaning the black Side Chicago is very territorial like for me growing up it was okay I know not to go to Bridgeport like this is a place that's not really welcoming to African-Americans this graphic segregation is no accident it was engineered over years of deliberate policies in the early 1900 Chicago was
+
+**2:09** · largely a city of white immigrants The Great Migration of the 20th century brought millions of black Americans out of the violent gym Crow South hoping for a better life by the end of the 1940s nearly half a million black Americans lived in Chicago mostly in a small Corridor on the South Side called the black belt as the black population
+
+**2:27** · increased they faced housing practices that were completely racist and yet completely legal one of the worst was a practice called redlining which allowed Banks to refuse Home Loans to Black residents wanting to move into mostly white neighborhoods this happened to cities Nationwide from Chicago to Oakland to Baltimore Realtors and
+
+**2:46** · homeowners signed restrictive covenants saying they wouldn't sell to black families in those white neighborhoods and after World War II the federal government subsidized white veterans with low interest loans for fresh new homes in Suburbia complete with big yard yards and highways to get there the federal government was basically saying neighborhoods that are racially integrated are a high are highrisk neighborhoods and so we're not going to ensure those mortgages in those neighborhoods um so they were um supporting a suburbanization that led to
+
+**3:16** · predominantly white suburbs and predominantly black urban neighborhoods meanwhile Realtors often participated in Shady practices there were Brokers that would go into a block and they may move move a minority female
+
+**3:32** · with her four five or six children into a two-bedroom house and they would go down to block telling folks well they're here your values are going to depreciate your daughters will be raped and which meant now what we can do is we can help you get out of here before it's too late Brokers would cheat those white homeowners by buying those Homes at a low price and then turn around and cheat
+
+**3:56** · the black homeowners by selling them those same Homes at an in at ated rate these practices continued even after the Fair Housing Act of 1968 which made it illegal to refuse to sell or finance a home based on someone's race but not all Realtors were so deceptive Frank who opened his real estate office in 1971 has often been credited with integrating the Beverly neighborhood on Chicago South Side our office windows were being broken and there was demonstrations uh and that very year the community
+
+**4:26** · organization was asking that I would sign a anti an solicitation list which meant that I would not solicit nor sell within those communities but Frank refused to back down and continued to sell to black families the neighborhood retaliated
+
+**4:43** · mobs marched on his real estate office neighborhood ladies would call and tie up his phone lines all day long so he couldn't get business Frank was investigated multiple times over the years in an effort to stop his work and things got worse when Frank and his wife who's white decided to buy their own home I was prepared to do what was necessary to buy it but we rejected for
+
+**5:06** · our loan they still managed to buy it and a year later in 1975 that home was targeted it was one evening uh I guess about about 8:00 you know the sun was going down Etc and uh you know my wife and I and the two girls and and our and our number two son was in the house number one son had not gotten home yet and boom at the front door that was a bomb a moltov cocktail you know that was placed
+
+**5:35** · you know within the mailbox and boom Frank's family survived the incident but the front of the house was destroyed and the kids who placed the bomb they were never prosecuted so if black families couldn't get loans to move to the suburbs or white neighborhoods in the city what was left for them black folks were living in the older parts of the city where overcrowding had very much led to the
+
+**5:58** · deterioration of hous housing in black neighborhoods and so black Chicagoans needed decent safe affordable housing the answer in the post-war era was public housing public housing was welcome these were brand new buildings built in a style that at that time was awesome these highrises with elevators
+
+**6:16** · and with big green spaces in in front of them so public housing began as Paradise for many families it was an escape from what was deteriorating housing after many decades of overcrowding um so that was the Golden Age of public housing in the 194 40s 50s early 60s but these
+
+**6:32** · paradises were also isolating and by the 70s and ' 80s these highrises became as bad as the housing they sought to replace with a concentration of poverty that led to violence gangs and drug abuse as a result support for public housing waned through their sheer force of humanity had to maintain their own
+
+**6:51** · Community because the city and the federal government had very much abandoned them I remember these high-rise buildings like Cabrini Green and the Robert Taylor homes which everyone called the projects family and friends told us not to go there my high school English teacher called them prisons for the poor in 2000 the city started demolishing them to try to clean up the neighborhoods but today while the projects may be gone many of the people who lived in them are still suffering from the effects of poverty what happens is that people think that this is only a Chicago issue you know Baltimore Detroit
+
+**7:23** · Philadelphia urban places in this country are all dealing with these same issues of leg Legacy of segregation that has roots in housing inequity and violence comes along with that these cities continueed to suffer from their divisions from 1955 to 1970 62% of
+
+**7:42** · blacks and only 4% of whites Across America were raised in poor neighborhoods half a century later those numbers haven't changed yes the whites only signs are gone and the rate of black poverty has decreased but the scars of a segregated City Run Deep from poor healthare access to of jobs and yes violence and all of this makes me wonder how do these color lines affect the city's most vulnerable its
+
+**8:09** · kids Chicago is so segregated that more than half of the city's black population lives in 20 of its 77 communities in the next video we'll take a look at what segregation does to a city and how it affects the lives of those living there
 
 #### How the US made affordable homes illegal
 
@@ -11982,6 +12987,112 @@ https://share.hsforms.com/1X79TznHYRCWc-8xE3hty7Q9opt
 
 **15:42** · So, I'll just close by saying that the point of this game, again, is about people coming into their agency and realizing that anything is possible, and what we thought was boring and mundane is actually potentially a context or a palette for rediscovering the ancient village that still lives inside of all of us.
 
+#### How urban heat islands make the impacts of excessive heat worse
+
+**PBS NewsHour**, *07 27, 2023*
+
+##### Video (6:11)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/WAqNDArb70M title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Living in certain parts of a city can make the impacts of extreme heat worse. That’s because of a phenomenon called the urban heat island effect. A recent report by the research group Climate Central showed that more than 40 million Americans live in these hot spots. William Brangham discussed what this means for those residents with Michael Mendez of the University of California, Irvine.
+
+Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG
+
+Find more from PBS NewsHour at https://www.pbs.org/newshour
+
+Subscribe to our YouTube channel: https://bit.ly/2HfsCD6
+
+Follow us:
+
+TikTok: https://www.tiktok.com/@pbsnews
+
+Twitter: http://www.twitter.com/newshour
+
+Instagram: http://www.instagram.com/newshour
+
+Facebook: http://www.pbs.org/newshour
+
+Subscribe:
+
+PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts
+
+Newsletters: https://www.pbs.org/newshour/subscribe
+
+##### Transcript
+
+###### What is an urban heat island
+
+**0:00** · WILLIAM BRANGHAM: So, in addition to the dangers faced by where someone works, sometimes, where you live can also make the impacts of extreme heat worse, like living in certain parts of a city.
+
+**0:10** · That's because of a phenomenon called the urban heat island effect. A recent report by the research group Climate Central showed that more than 40 million Americans live in these hot spots.
+
+**0:22** · So, what does this mean for those residents? And is there any way that they can get relief?
+
+**0:26** · For that we turn to Michael Mendez. He's assistant professor of environmental planning and policy at the University of California, Irvine, Professor Mendez, very good to have you on the "NewsHour."
+
+**0:38** · Can you help us understand, what is the urban heat island effect?
+
+**0:43** · MICHAEL MENDEZ, University of California, Irvine: Thank you for having me here today.
+
+**0:45** · It's a pleasure to be here to talk to you about this important issue that is affecting many people across the nation of -- 40 percent of residents in the United States are under a heat advisory.
+
+**0:56** · And many of them are living in urban areas that don't have adequate infrastructure, let alone environmental amenities like trees and other forms of greenery that provide shade. So, an urban heat island effect is where you have a lot of urbanized and suburban areas that are paved over with asphalt, concrete, other -- other types of building materials that absorb the heat.
+
+**1:20** · And with little vegetation and trees for shade, and other types of cooling material, these areas and communities could be anywhere between five and even 20 degrees hotter than other neighborhoods that have more green space for shade.
+
+**1:36** · WILLIAM BRANGHAM: That is such a shocking difference in temperature, simply that can be driven by how a certain area is built and what the structures are made of?
+
+**1:45** · MICHAEL MENDEZ: Most definitely.
+
+**1:47** · I think many of us that are millennials, Gen Z or even older remember being on the hot turf, asphalt, in schools and see the steam actually permeate out of these hard heat-trapping surfaces. So imagine not just a schoolyard, which is just, unfortunately, an urban heat island, but an entire neighborhood, and how that can really change how you experience an extreme heat event, and let alone if you're living in an older home that's 100 years old.
+
+**2:19** · You may experience it even more inside of a home that isn't climate-resilient, can have even hotter temperatures than the ambient air outside.
+
+**2:29** · WILLIAM BRANGHAM: I cited this study that says that millions of Americans are living in -- under these types of conditions that you're describing.
+
+###### Can you explain why certain people are more vulnerable
+
+**2:36** · But I also understand that it is not equally spread across demographics, that certain people are more vulnerable than others. Can you explain?
+
+**2:46** · MICHAEL MENDEZ: Yes, this phenomenon of the heat waves, extreme climate events have disparate impact. It does not affect everyone equally.
+
+**2:55** · And this is because a heat wave is a natural phenomenon -- phenomenon in some part, but there's been political choices have been -- have been made over the decades, if not centuries, that have withheld vital resources and infrastructure from communities, primarily low income-communities of color, African American and Latino communities.
+
+**3:16** · So it's no surprise, when a heat wave or other type of extreme weather event strikes these communities, they're the least prepared and often suffered the most impacts, because they don't have -- they have crumbling infrastructure, and they don't have the amenities that will protect them and make them more resilient from our changing and extreme climate.
+
+###### What are the possible solutions
+
+**3:36** · WILLIAM BRANGHAM: You have been describing or hinting at a few of what seem like the possible solutions here.
+
+**3:42** · Walk me through those things. If I were a city planner, what are the things that I can do to try to reduce the urban heat island effect?
+
+**3:50** · MICHAEL MENDEZ: First is, a lot of these campaigns, we hear about the million-dollar campaigns that a lot of urban mayors are trying to institute in their cities, planting trees.
+
+**4:02** · Climate-resilient trees that are resilient to drought as well can help cool down are cities, cool roofs, rooftops, making sure that we're able to reflect some of the sun's rays and ensure that our houses that are cooler, having more climate weatherization in our homes, and, of course, having more cool pavements, moving away from that black asphalt and concrete that is absorbing and retaining the heat.
+
+**4:32** · And other types of green spaces, watershed management practices are multibenefit.
+
+**4:38** · They can clean our water, recharge our groundwater, but also provide green space and recreational spaces. So, we need to look for multibenefit policies and projects that attack multiple problems that climate change is causing our urban areas and throughout our nation.
+
+###### What communities are doing
+
+**4:56** · WILLIAM BRANGHAM: I mean, some of these things you're talking about seem quite quick. I mean, you can paint a roof a different color quite quickly. Trees, we know, take longer to grow.
+
+**5:04** · Are there communities that you would point to in the country that are doing some of these things, that are taking this initiative head on and trying to do these things?
+
+**5:15** · MICHAEL MENDEZ: Well, in my in my hometown of Los Angeles, it's often named -- thought of as very suburban, very asphalt, concrete-driven area.
+
+**5:24** · But they're really leading the way in terms of creating an Office of Climate Emergency and Resilience, where they have hired a full-time person and staff to understand these issues and try to target resources to the most immediate communities, those that are lacking these trees and green spaces.
+
+**5:44** · So, places like Los Angeles, Portland, of course, Seattle have been at the forefront of enacting climate action, but also having a strong equity and justice lens.
+
+**5:58** · WILLIAM BRANGHAM: All right, Professor Michael Mendez, U.C. Irvine, thank you so much for being here.
+
+**6:02** · MICHAEL MENDEZ: Thank you for having me.
+
 #### How zoning can restrict, or even prevent, affordable housing
 
 **PBS NewsHour**, *01 30, 2021*
@@ -12247,6 +13358,56 @@ The News Movement’s Dan Ming drove around the five boroughs, knocking on motor
 **8:28** · I'd love to hear your thoughts in the comments below on our reporting and what you think we should cover.
 
 **8:33** · And if you like this video, subscribe to the news movement's YouTube channel for more in-depth on the ground reporting.
+
+#### NASA  Urban Heat Islands
+
+**NASA Goddard**, *12 10, 2010*
+
+##### Video (2:23)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/lnBO4vX82Fs title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+At the 2010 American Geophysical Union (AGU) conference in San Francisco, Dr. Ping Zhang will present her findings on the Urban Heat Island effect.  The data collected spans from 1995 to 2005 and will give scientists an idea of why cities are warmer than their surrounding areas, as well as what effect this will have on the planet.
+
+This video is public domain and can be downloaded at: ‪http://svs.gsfc.nasa.gov/goto?10699
+
+Like our videos? Subscribe to NASA's Goddard Shorts HD podcast:
+
+‪http://svs.gsfc.nasa.gov/vis/iTunes/f0004_index.html‬
+
+Or find NASA Goddard Space Flight Center on facebook:
+
+‪http://www.facebook.com/NASA.GSFC‬
+
+Or find us on Twitter:
+
+‪http://twitter.com/NASAGoddard‬
+
+##### Transcript
+
+###### Intro
+
+**0:08** · Urban heat islands affect human health and it affects energy consumption. Those two things alone are enough to drive worldwide interest. (Zhang) When we build an urban area, we're replacing the vegetated surface and also the soil surface with this imperious surface like the paving material and the building material. By doing this, we're basically warming the urban areas, and this will generate a temperature difference.
+
+###### What is Urban Heat Island
+
+**0:36** · And that's what we can the urban heat island. We find out that the urban heat island affected by several factors.
+
+###### Factors affecting Urban Heat Island
+
+**0:44** · The first factor will be the surrounding ecological context.
+
+**0:48** · And then will be the size of the city. When talking about size, we can we mean both the area of the city and also the population size of the city. And then will be the shape of the city and also the development patterns of the city.
+
+###### Urban Heat Island
+
+**1:04** · (Imhoff) We used a variety of satellite data, both land surface data from MODIS and also impervious surface data from the Landsat satellite. Inpervious surface data essentially tells us how much building material is on the land surface in order to study the urban heat island. The urban heat island is much larger if you convert a forested area into an urban. And this is because the urban heat island is a relative measure. So, urban areas in forests are much warmer than the surrounding landscape than they are in deserts for example, because the surrounding landscape is already warm.
+
+**1:40** · I think the general public should be interested in urban heat islands because of the fact that it's where most of the people live and in the next 50 years, we're going to see 80% of the global population living in cities. And the urban heat island matters for everything from health, like asthma and heart conditions, to how much heating and air conditioning you need to use to cool or heat your living space.
+
+**2:09** · (beeping)
 
 #### Neighborhood Walkability, Weight, and Diabetes
 
@@ -12730,6 +13891,126 @@ ABC News business reporter Alexis Christoforous provides tips to keep your indoo
 
 **3:17** · everyone George stephanopolis here thanks for checking out the ABC News YouTube channel if you'd like to get more videos show highlights and watch live event coverage click on the right over here to subscribe to our Channel and don't forget to download the ABC News app for breaking news alerts thanks for watching
 
+#### Redlining and the Hidden History of White-Only Suburbs
+
+**TIME**, *11 03, 2022*
+
+##### Video (10:31)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/geD6kYpGlmw title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Race-based federal lending rules from New Deal programs in the 1930s kept Black families locked out of suburban neighborhoods, a policy that continues to  slow economic mobility. Video by TIME & Retro Report
+
+Read more History You Didn't Learn: https://ti.me/3gYspaQ
+
+Subscribe to TIME’s YouTube channel ►► http://ti.me/subscribe-time
+
+Subscribe to TIME: https://ti.me/3yJj5Nw
+
+Get the day’s top headlines to your inbox, curated by TIME editors: http://ti.me/the-brief
+
+Follow us:
+
+Twitter: https://ti.me/3P5N5Kl
+
+Facebook: https://ti.me/3yBoPIP
+
+Instagram: https://ti.me/3P7bMpA
+
+0:13 Racist Housing Covenants in California Suburbs
+
+1:23 How New Deal Housing Policies Fueled Segregation
+
+2:11 Redlining and the Federal Government’s Role
+
+2:51 How Ladera Became a White-Only Community
+
+4:08 Hidden Housing Discrimination in Silicon Valley
+
+5:15 East Palo Alto and the “Wrong Side of the Freeway”
+
+6:29 The Lasting Economic Divide Between Suburbs
+
+7:01 Homeownership and America’s Racial Wealth Gap
+
+9:00 Can the Legacy of Housing Segregation Be Reversed?
+
+9:38 Removing White-Only Language From Ladera’s Deeds
+
+
+
+##### Transcript
+
+###### Racist Housing Covenants in California Suburbs
+
+**0:13** · thank you when Sanu sadani is Rani bought a house in this neighborhood in California's Silicon Valley she found something disturbing in the fine print of her home deed the language that I read basically said the only people allowed to live in this community in these homes are white
+
+**0:35** · unless you're a servant the subdivision is called Ladera and the racist covenants were attached to the Deeds of all 500 some homes here the rules are no longer enforceable or even legal but they've been on the books since the neighborhood was laid out 70 years ago and they help illustrate how so many of America's suburbs ended up segregated it hurts it hurts to be told you're not welcome forget welcome you're not allowed it so
+
+**1:05** · offended me I thought well this has to be offending everyone who buys property here [Music]
+
+###### How New Deal Housing Policies Fueled Segregation
+
+**1:23** · some of ladera's residents set out to understand how this happened and it turned out these relics of segregation grew out of a historical moment more often remembered for progressivism and inclusion to a new deal for the American people
+
+**1:41** · the New Deal programs launched between 1933 and the end of the second world war transformed Society but black Americans reaped far fewer benefits from these programs than white Americans the New Deal expanded government capacities in a
+
+**1:56** · way that provided economic rights for people the right to Capital the right to a job the right to Health Care the right to old age pension what was problematic is that that right was not inclusive one of the clearest examples of this came when New Deal agencies began ensuring affordable home loans before backing the loans agencies mapped communities across the country dividing them into zones judged to be higher or lower risk for banks records show a key
+
+###### Redlining and the Federal Government’s Role
+
+**2:27** · factor Federal map makers used to determine this perceived risk was race this practice called redlining largely cut people of color off from affordable borrowing it's not a case that you just had these bigoted bankers and these bigoted homeowners the federal government was culpable black people by Design were excluded from this benefit
+
+###### How Ladera Became a White-Only Community
+
+**2:51** · it's exactly what happened in Ladera in the late 1940s a mixed race group of about a hundred families banded together to build cheap homes near Stanford University workers teachers and professors including the novelist Wallace stegner formed a Cooperative to buy and transform attractive hilly Ranch Land into an affordable suburb named Ladera but the project soon stalled no bank would give them the loan to build these
+
+**3:22** · homes the banks wouldn't do it because the federal housing Administration wouldn't insure their loans because of these hundred members of The Cooperative three were African Americans at the time the federal housing Administration explicitly recommended that race restrictions be used in new Suburban developments its lending manual even included instructions for Banning buyers who weren't the race for which new homes were intended the segregation that this program alone created is
+
+**3:52** · responsible for much of the racial inequality we have in this country today unable to find financing the Ladera Cooperative disbanded and sold the land to a private developer who built Ladera as a whites only community by the 1950s this mix of federal policy
+
+###### Hidden Housing Discrimination in Silicon Valley
+
+**4:11** · and private discrimination left few options for black Americans seeking homes in this part of California my dad got involved with the palette of Stanford branch of the NAACP they were proving that there was housing discrimination and it was Notorious here very subtle but it was Notorious my dad could easily
+
+**4:33** · pass for white my mom was was brown skinned you knew who she was it was actually something that that was very painful for my mother because my dad would go to rent an apartment or to buy property they'd say wonderful he'd say let me bring my wife and as soon as she came back with him they would say no this is no longer available when my parents came here from Alabama they figured okay this is a nice area we
+
+**5:02** · don't have to worry about our kids getting lynched there's not open racism but they didn't factor in that there was a slew of hidden racism about nine miles from Ladera Elwyn raynor's family opened up this service station in one of the only areas open to Black American Property buyers now known as East Palo Alto the African-Americans were guided to this area any houses on
+
+###### East Palo Alto and the “Wrong Side of the Freeway”
+
+**5:31** · the other side of the freeway were considered to be out of their price range or the interest rate alone would kill that dream of them owning a house because they couldn't afford it it's like they say you're on the wrong side of the tracks for us it was the wrong side of the freeway for decades East
+
+**5:50** · Palo Alto and neighboring Belhaven were unincorporated communities without a city government where housing shared space with heavy industry and residents enjoyed few of the amenities available to the majority white suburbs like Palo Alto Menlo Park or Ladera we had roads
+
+**6:07** · that were that were you know badly paved we had many many a neighborhood that did not have sidewalks we had a school district that was grossly underfunded you know we were walking in the middle of the street instead of walking on sidewalks we were had bad lighting we had bad water we didn't even have a city we didn't have a place where we could go and complain even today East Palo Alto is 70 black and
+
+###### The Lasting Economic Divide Between Suburbs
+
+**6:32** · Latino the median family income is eighty three thousand dollars half the households rent and more than 10 percent of families live in poverty compare this to Ladera 75 percent white the median family income stands just below 200 000 the poverty rate is one percent and nobody rents and it doesn't
+
+**6:54** · take a rocket scientist to figure that one out you know what that's really all about what's it all about that well it's about race what is critical to note is that a white asset-based middle class didn't simply emerge it was structured and was structured largely through home ownership it was structured largely through policy that facilitated white people to acquire homes that appreciated over their lifetime that could be passed down to Future Generations as well
+
+###### Homeownership and America’s Racial Wealth Gap
+
+**7:25** · the considerable Gap in education and income between America's black families and white families has slowly narrowed since the Civil Rights era but the Gap in wealth what families own has been a different story throughout American history the racial wealth Gap has been dramatic for every dollar held by a typical white family at the median the typical black family has had about a dime so this asset-based wealth-based white middle class that was generated from New Deal and post-war policies was
+
+**7:59** · never extended to black people and economists say one of the most significant factors creating the wealth gap between white and black Americans is home ownership much of a middle-class family's net worth is determined by the value of their home and whether you or your ancestors could buy one in the first place a home also facilitates your ability to generate wealth to do other
+
+**8:23** · things you can finance an expensive college degree with wealth if you want to change jobs you can pursue Your Dreams a home provides access to Neighborhood resources a home provides access to in the American context with public schooling good schools my father's family was a group of seven that lived in one room so when I look at the opportunities my children had by living in this neighborhood function of purely geography
+
+**8:54** · that zip code it's a huge amount of privilege to have grown up in this neighborhood there's no quick fix for the inequality that's grown out of residential segregation but researchers say it's worth considering what history can teach us [Music] the problems that exist today what it's important to note they're not insurmountable the New Deal was about jobs it was about income it was about pension it was about health there are certain enabling goods and services that
+
+###### Can the Legacy of Housing Segregation Be Reversed?
+
+**9:24** · people need in order to thrive that's a reality and just like government facilitated it in the past they can facilitate it today only this time they can do it in a way that is inclusive in the meantime a group of Volunteers in Ladera gathered enough signatures to formally strike the whites only language from all 534 deeds in the subdivision we
+
+###### Removing White-Only Language From Ladera’s Deeds
+
+**9:49** · didn't have a statue of Robert E Lee in our neighborhood but we did have this and we had the power to get rid of it and I would say that if the pendulum had to go from you are not allowed to taking them down we now need to say you are welcome
+
 #### Residential streets are too wide. Here's why
 
 **City Beautiful**, *09 12, 2017*
@@ -13066,6 +14347,69 @@ Or on Facebook: http://goo.gl/U2g06o
 
 **5:11** · You know, being able to get around and work and play in live and have enjoyable lives without cars.
 
+#### The Dutch Solution for Safer Sidewalks - Continuous Sidewalks
+
+**Not Just Bikes**, *12 02, 2019*
+
+##### Video (3:44)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/9OfBpQgLXUc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Watch this video ad-free on Nebula: https://nebula.tv/videos/not-just-bikes-the-dutch-solution-for-safer-sidewalks-continuous-sidewalks
+
+Time to get excited about SIDEWALKS! The Netherlands does a lot to ensure a safe environment for pedestrians and cyclists, but the one that stands out the most for me is continuous sidewalks. 
+
+This video explores the basic concept of these safer sidewalks that are used everywhere in the Netherlands, but extremely rare (or poorly implemented) in other countries. This is an important part of the sustainable safety / vision zero efforts of the Netherlands to make streets safer for vulnerable road users.
+
+Sign up to Nebula and watch ad-free and sponsor-free: https://go.nebula.tv/notjustbikes
+
+Patreon: https://patreon.com/notjustbikes
+
+Twitter: https://twitter.com/notjustbikes
+
+Reddit: https://reddit.com/r/notjustbikes
+
+One-time donations: https://notjustbikes.com/donate
+
+NJB Live (my bicycle livestream channel):
+
+https://www.youtube.com/channel/UC9v57F4xz46KaDsvWfCv8yw
+
+##### Transcript
+
+###### North American design
+
+**0:00** · 如果你把鏡頭帶到美、加的十字路口 看起來大約會像是這樣 人行道在路緣中斷 然後降到車道的高度 你會明顯感覺到自己穿過一段給車走的路 車上的駕駛經過 也會覺得看起來跟其他車道相差無幾 劃出行人穿越範圍的 只有跟慢車道一樣單薄的那條「神奇白線」 但它對減緩車速似乎沒有多大的效果 即使加掛一塊「停車再開」也差不多 嘿！老兄！這裡要「停車再開」！
+
+**0:29** · 唉…… 再看看阿姆斯特丹的路口 行人經過路口時，人行道是沒有中斷的 高度也不會下降 這個設計的內在語言就是說「這裡是給人走的」 駕駛經過時 這裡的路面鋪設和坡度 都能清楚告訴駕駛該要減速 連續型人行道不是荷蘭的專利
+
+###### The Dutch approach
+
+**0:57** · 但沒有哪個國家做得跟荷蘭一樣完善 這是英國倫敦的案例 如你所見，路口跟人行道一樣被抬高 但是有兩條黃色線 而且穿越道的顏色和其他車道一致 而不是和人行道一致 這表示它仍然屬於車道的一部份 雖然它還是有減速丘的功能 但從其他的設計上，它還是給車走的
+
+###### London's design
+
+
+###### Copenhagen's crossings
+
+**1:28** · 接著來看看丹麥哥本哈根 這個方案肯定比較優越 它看起來更像是人行道而不是車道 當有自行車道時 車輛經過路口會有二階段的下降 但如果我是駕駛的話 還是很有可能會直接衝過路口
+
+**1:45** · 卻完全沒有注意到這個行人穿越道 而且還有更多路口根本沒有這種設計 回到荷蘭看看 穿越道的顏色與人行道一致 車輛駕駛可以很明確感受到 自己即將經過一段「給人走的路」 坡道的抬升也會從離路口遠一點的地方開始 車輛在經過時就可以更早知道要減速
+
+###### Principles of Dutch design
+
+**2:04** · 車道的轉彎處有時候還是扇形的 但是曲率半徑會做得很小 路緣會截止得很急促，讓路口呈90度角 車輛必須幾乎停止才能轉得過去 減速一來可以讓駕駛比較不容易撞上別人 一來是即使撞上了也不會造成太嚴重的傷害
+
+**2:27** · 除此之外還有一個優點是 經過無中斷人行道進入巷子的車輛 會感覺跨過界線進入一個不同的區域 這個區域速限較低，也會有更多行人在活動 當然，這種方式只適用於支道和幹道交會的路口
+
+###### Application and context
+
+**2:43** · 幹道路口會使用不同的設計 也會有行人專用號誌 當街道與街道交會時 整個路口會像是一個巨大的減速丘 這我會在後續的影片中詳細介紹 如果有自行車專用道 它會跟人行道一樣抬高 它會與人行道高度相同自行車騎士就不需要先下坡再上坡 也不太需要減速 這也還蠻合理的，因為自行車騎士還是騎在主要道路上 不應該在行經巷口時還得減速
+
+**3:10** · 你很難用言語描述 在這種環境下步行有多舒適 就好像人才是城市的主角 而車輛只是過客 不會像以往那樣喧賓奪主 在荷蘭道路的許多優秀設計中 我認為這點是全世界的城市都該馬上執行 來改善道路環境的 這不只讓行人更安全 也讓步行這個選項更加的怡人 人們會因此更常選擇步行
+
 #### The Hidden Cause of Traffic Jams—and How to Solve Them
 
 **NOVA PBS Official**, *08 17, 2022*
@@ -13163,6 +14507,52 @@ Any opinions, findings, and conclusions or recommendations expressed in this mat
 **5:26** · And so, in these restricted domains this is still rather narrow, but this, I think, will allow the designers and engineers to test out the technology, adjust for risk, gradually build consumer acceptance and trust.
 
 **5:40** · One of the things I like to tell people about autonomous vehicles is that it's perfect if we can get it right, but we should also understand the things that arise that we as a society need to come to before we release them all on the road. (light electronic music)
+
+#### The Problem of New York City Trash
+
+**The New York Times**, *08 13, 2024*
+
+##### Video (2:19)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Hcj4rsjth3U title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Is this how one of the world’s greatest cities still deals with garbage? Larry Buchanan, one of the New York Times reporters who walked miles around the city pondering trash for this story, explains what will be required to take New York’s trash bags off the street.
+
+Video by Larry Buchanan, Karen Hanley and Ruru Kuo
+
+Read the story here: https://nyti.ms/4dCL3Nw
+
+Subscribe: http://bit.ly/U8Ys7n
+
+More from The New York Times Video:  http://nytimes.com/video
+
+Whether it's reporting on conflicts abroad and political divisions at home, or covering the latest style trends and scientific developments, New York Times video journalists provide a revealing and unforgettable view of the world. It's all the news that's fit to watch.
+
+##### Transcript
+
+###### Intro
+
+**0:00** · what you see when you look at the street in New York closely is trash there's trash um all over the place when you watch sanitation workers pick up trash you realize how many things they're dealing with all the time like the cars are parked very tight so they have to like drag bags between cars often times they can't roll bins between cars or they're dragging trash kind of through tree pits part of the you know problem
+
+###### The Problem
+
+**0:23** · here is that like if you've ever been driving in New York City and you're stuck behind a trash truck you just got to sit and you sit and you wait and then people start to get impatient and then they honk and the car's back up in 1968 there was a sanitation workers strike this strike uh went from on for more than a week and while this was happening
+
+###### The History
+
+**0:39** · the Plastics industry dropped a whole bunch of plastic bags on the city it was like a new invention at the time you used to have to put your trash in a can in a kind of metal loud Oscar the Grouch trash can um but after the strike sanitation workers thought the bags were easier to sling uh you know they could drag them between cars easier they weren't loud and so you know we are
+
+**0:58** · stuck with these plastic bags the hope now with this new plan is to use the street if you're a big building you get an on Street container that's dedicated to your building the super of the building has the key they unlock it they put the trash in these kind of like you know Street on Street containers the trash truck is fitted with this little arm that you drive down the street it kind of like picks up the bin it like
+
+###### The New Plan
+
+**1:19** · dumps it in and it's very nice and cute and they do it in Barcelona and you know other European cities except in New York City when you you know uh want to put something somewhere you have to take something away from somebody else so this will essentially take away street parking um on the order of you know tens of thousands of parking spots all across the city the other parts of the plan are for small buildings and mediumsized buildings small buildings will use kind of like wheeled bins which maybe sounds
+
+**1:44** · fine uh except in some cases again it's just very tough to find places to kind of put these things uh and then the mediumsized buildings will have a choice between kind of these wheeled bins or between um an on Street container they put out a proposal to get companies to bid on the design of what the container looks like they have like finished the a prototype of this like new trash truck they debuted it you know um like concrete jungles where dreams are made it was like playing and then like the trash and but anyway so they're starting this pilot program in West Harlem um and
+
+**2:13** · they'll see how it works and try to work out any issues gradually I would say you know roll it out to the rest of the city
 
 #### The real reason streetcars are making a comeback
 
@@ -13748,7 +15138,7 @@ Our mission is to improve public policy and public leadership across the United 
 
 ##### Video (1:56)
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="700" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Description
 
@@ -14157,6 +15547,194 @@ Nguyên Khoi Nguyên
 
 **2:19** · That, they say, would put the decision-making power into the hands of locals who can determine if proposed access roads will accommodate their priorities, then reroute them accordingly.
 
+#### Urbanization and the future of cities - Vance Kite
+
+**TED-Ed**, *09 12, 2013*
+
+##### Video (4:08)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/fKnAJCSGSdk title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+View full lesson: http://ed.ted.com/lessons/urbanization-and-the-future-of-cities-vance-kite
+
+About 10,000 years ago, hunter-gatherers, aided by rudimentary agriculture, moved to semi-permanent villages and never looked back. With further developments came food surpluses, leading to commerce, specialization and, many years later with the Industrial Revolution, the modern city. Vance Kite plots our urban past and how we can expect future cities to adapt to our growing populations. 
+
+Lesson by Vance Kite, animation by ATMG Studio.
+
+##### Transcript
+
+**0:06** · Today ,more than half of all people in the world live in an urban area.
+
+**0:11** · By mid-century, this will increase to 70%.
+
+**0:14** · But as recently as 100 years ago, only two out of ten people lived in a city, and before that, it was even less.
+
+**0:21** · How have we reached such a high degree of urbanization, and what does it mean for our future?
+
+**0:27** · In the earliest days of human history, humans were hunter-gatherers, often moving from place to place in search of food.
+
+**0:35** · But about 10,000 years ago, our ancestors began to learn the secrets of selective breeding and early agricultural techniques.
+
+**0:42** · For the first time, people could raise food rather than search for it, and this led to the development of semi-permanent villages for the first time in history.
+
+**0:51** · "Why only semi-permanent?" you might ask.
+
+**0:54** · Well, at first, the villages still had to relocate every few years as the soil became depleted.
+
+**1:00** · It was only with the advent of techniques like irrigation and soil tilling about 5,000 years ago that people could rely on a steady and long-term supply of food, making permanent settlements possible.
+
+**1:11** · And with the food surpluses that these techniques produced, it was no longer necessary for everyone to farm.
+
+**1:17** · This allowed the development of other specialized trades, and, by extension, cities.
+
+**1:23** · With cities now producing surplus food, as well as tools, crafts, and other goods, there was now the possibility of commerce and interaction over longer distances.
+
+**1:33** · And as trade flourished, so did technologies that facilitated it, like carts, ships, roads, and ports.
+
+**1:43** · Of course, these things required even more labor to build and maintain, so more people were drawn from the countryside to the cities as more jobs and opportunities became available.
+
+**1:52** · If you think modern cities are overcrowded, you may be surprised to learn that some cities in 2000 B.C. had population densities nearly twice as high as that of Shanghai or Calcutta.
+
+**2:03** · One reason for this was that transportation was not widely available, so everything had to be within walking distance, including the few sources of clean water that existed then.
+
+**2:13** · And the land area of the city was further restricted by the need for walls to defend against attacks.
+
+**2:20** · The Roman Empire was able to develop infrastructure to overcome these limitations, but other than that, modern cities as we know them, didn't really get their start until the Industrial Revolution, when new technology deployed on a mass scale allowed cities to expand and integrate further, establishing police, fire, and sanitation departments, as well as road networks, and later electricity distribution.
+
+###### Industrial Revolution
+
+
+###### What Is the Future of Cities
+
+**2:43** · So, what is the future of cities?
+
+**2:46** · Global population is currently more than 7 billion and is predicted to top out around 10 billion.
+
+**2:52** · Most of this growth will occur in the urban areas of the world's poorest countries.
+
+**2:57** · So, how will cities need to change to accommodate this growth?
+
+**3:01** · First, the world will need to seek ways to provide adequate food, sanitation, and education for all people.
+
+**3:07** · Second, growth will need to happen in a way that does not damage the land that provides us with the goods and services that support the human population.
+
+**3:17** · Food production might move to vertical farms and skyscrapers, rooftop gardens, or vacant lots in city centers, while power will increasingly come from multiple sources of renewable energy.
+
+**3:28** · Instead of single-family homes, more residences will be built vertically.
+
+**3:33** · We may see buildings that contain everything that people need for their daily life, as well as a smaller, self-sufficient cities focused on local and sustainable production.
+
+###### The Future of Cities
+
+**3:42** · The future of cities is diverse, malleable, and creative, no longer built around a single industry, but reflecting an increasingly connected and global world.
+
+#### US Streets Are Dangerous. We Can Fix Them! (feat. @CityBeautiful)  Overview
+
+**PBS Terra**, *07 15, 2021*
+
+##### Video (8:19)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/TXbUlQ9Yjk4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Check out Otherwords! https://youtu.be/d2UccTPnl4w
+
+The @CityBeautiful episode can be found here! https://youtu.be/8mh-GTlvf0w. Please watch! We're so grateful for their collaboration on this story.
+
+Cars dominate US city streets, and there’s no better example than Atlanta, GA. Streets in Atlanta are designed for getting cars around as fast as possible. The result? Pedestrian deaths in ATL are twice the national average. But the city is trying to change that, starting with Peachtree Street.
+
+Subscribe to PBS Terra! - https://bit.ly/3mOfd77
+
+To learn more about Atlanta's city vision, visit https://www.atlcitystudio.org/
+
+**********************************************
+Hosted by Joe Hanson from It's Okay to be Smart, Overview uses incredible 4k drone footage to reveal the natural phenomena shaping our planet from a 10,000-foot view—literally.
+*****
+PBS Member Stations rely on viewers like you. To support your local station, go to: http://to.pbs.org/DonateTerra
+*****
+
+##### Transcript
+
+###### The danger of U.S. streets
+
+
+**0:01** · [host Joe Hanson] Think about the last time you drove down a street in the US. You probably didn't have this nice of a view. At best, American streets are forgettable. At worst, they're deadly. But surprisingly, some Americans are at higher risk than others. In the US, black pedestrians are struck and killed by drivers at an 82% higher rate than white pedestrians. And here in Atlanta, Georgia, the number of pedestrian fatalities is twice the national average.
+
+**0:33** · Living in poorer neighborhoods without sidewalks, bike lanes and crosswalks increases your chances of getting hit. That's why the city of Atlanta is trying to make one street a little more livable, so people have an example of what streets could be like, if we prioritized safety over cars. In many US cities, cars are a nearly essential part of life. And there is no better example than Atlanta, Georgia. Streets in Atlanta are made for automobiles.
+
+###### Atlanta's car-centric history
+
+**1:11** · In a sprawling city like this, it's hard to get around without one. But Nedra is a cycling advocate, and she still manages to get around by bike.
+
+**1:21** · [Nedra] It's more pleasant.
+
+**1:23** · I feel like I'm a part of a place. I understand it, versus if I was in a vehicle.
+
+**1:29** · [Joe] For most Atlantans though, the car remains king. But it wasn't always that way.
+
+**1:37** · [Nedra] I am from here, so I'm well aware of all the neighborhoods that are bisected, and have been destroyed either by highways or stadiums. That really has destroyed communities. It destroyed the social cohesion, the fabric of culture, the continuity of even what your eye looks at.
+
+**1:58** · [Joe] In the 50s and 60s, the connector between I-75 and I-85 gutted dense, mostly black neighborhoods in Atlanta's urban core. And the construction of I-20 deliberately separated black and white communities. But highways also encouraged sprawl by making it easier for people to move to the suburbs. It's a story in cities across America. And it's also one of the reasons Atlanta is one of the 10 most populated regions in the US, but the 316th in density.
+
+###### Design principles of danger
+
+**2:31** · Highways also changed the city's streets, because their design started to shape how streets looked. And our friend from the YouTube channel, City Beautiful, is the perfect one to explain that.
+
+**2:43** · Thanks City Beautiful.
+
+**2:46** · [Man] This is Northside Drive.
+
+**2:48** · It runs through neighborhoods and shopping areas. There are four lanes, two going both directions, no bike lane, and some spotty sidewalk coverage. And here's Buford Highway. Three lanes in each direction, no bike lanes and really lame and dangerous bus stops. These are classic, car-first streets. They were designed according to The American Association of State Highway and Transportation Officials book, "The Geometric Design of Highways and Streets." Mercifully, it's referred to simply as "The Green Book."
+
+**3:18** · This book details how roadways should be designed, recommending characteristics like lane widths, curb radii and intersection geometry. "The Green Book" gets updated fairly regularly. And for a long time, this was a manual about how to apply highway design principles to city streets. It's right there in the title, "Highways" come first.
+
+**3:36** · For example, in the 2001 edition, "The Green Book" recommends lane widths of 11 feet as the standard, with no discussion of the relationship between lane width and speeding. Wide lanes make it comfortable for drivers to go fast. Faster speeds mean more deaths. Most pedestrians can survive a collision with a car going 20 miles per hour. But if a car is going 40 miles an hour, the chances of survival for cyclists and pedestrians are low.
+
+**4:02** · This is just one example of the influence "The Green Book" has had on city streets. These policies have resulted in rural highway thinking applied to urban areas. Pedestrians are seen as obstacles to the free flow of traffic, the primary goal of traffic engineers in the past, and not so distant past. Any accommodations for pedestrians are seen as an exception, not the rule.
+
+**4:22** · That's why streets like Northside Drive and Buford Highway have incomplete sidewalk networks, missing crosswalks and dangerous right turn slip lanes.
+
+**4:31** · [Nedra] It's designed for speed, It's not designed for a neighborhood. So the design fails the people who live there.
+
+###### Missing community connections
+
+
+**4:39** · [Joe] For example, let's say you lived here and worked here. The closest crosswalk is 0.3 miles down the road, making your total commute more than half a mile. Unless you're some kind of huge rule follower, you're gonna cross here. But the speed limit is 35 miles per hour, making your short walk, potentially deadly. Car-first streets also have a more subtle impact. They don't build community.
+
+**5:06** · Fast speeds with no places to interact, doesn't create pleasant places to chat with your neighbors.
+
+**5:13** · [Sonia] And something really, that has stuck out to me in this job, is streets are actually our biggest resource of public space. Anything that is owned by the city and owned by its citizens, those are your streets.
+
+**5:27** · [Joe] Sonia works for the city on re-imagining what public streets could be, if we designed them for more than just cars.
+
+**5:35** · [Sonia] Our tagline is, designing an Atlanta that Atlantans can fall in love with. It is experiencing the city, its identity, its history. Whatever walk of life you're in, in Atlanta, that public space should be for you.
+
+**5:49** · [Joe] Atlanta's highways and streets aren't going anywhere anytime soon. But Atlanta city planners are hoping to claw back at least one street from the dictatorship of cars.
+
+###### Re-imagining urban spaces
+
+
+**6:01** · [Sonia] So this is a demonstration project on Peachtree Street, and it's really to test what it looks like to have a public space in Atlanta designed for people. Peachtree, in the past, has only really been about moving cars, and so we are looking at this concept of what if we increased the sidewalk space, just had more room for people.
+
+**6:23** · Recognizing some of our past mistakes, especially how highways have come through and erased entire communities, I think a lot of our projects are acknowledging that, and trying to correct for them, but it's a long path.
+
+**6:37** · [Joe] Volunteers with the city made a few alterations to Peachtree to make it safer for all users. The biggest alteration, taking a lane on either side of the road, and giving that space back to pedestrians and bikers. They created a buffer out of planters, and extended the curbs on the streets so pedestrians had more space, and added another crosswalk. Restaurants along the street can also install outdoor dining on parking spaces.
+
+**7:04** · [Nedra] Really Atlanta is a blank slate to try a lot of new things, from neighborhood streets, safer streets.
+
+**7:12** · But even just inviting spaces where people can connect to each other, connect to place, and figuring out how do we, you know, heal some of our history?
+
+**7:22** · We have a great opportunity right now. ♪ {Joe] One more thing before you go.
+
+###### Conclusion and promotions
+
+**7:30** · Have you ever wondered, what makes words, well, words?
+
+**7:34** · Other Words, PBS' newest show about language and linguistics has you covered. From determining the origins of language, to whether or not computers can actually talk, Other Words dives into languages around the world to uncover the fascinating, unexpected, and sometimes weird stories behind the human trait we all take for granted. Check it out on Storied and make sure to let them know that Overview sent you. ♪
+
 #### Vancouver's Streetcar Drama  CBC Short Film by Uytae Lee
 
 **CBC British Columbia**, *01 27, 2020*
@@ -14232,6 +15810,315 @@ The 'About Here' YouTube channel: https://www.youtube.com/channel/UCpA8SRNrqDpq3
 **5:17** · year well now I'm staring down to my phone like everyone else I still take the sky train because it's the fastest way downtown but I honestly wouldn't go out of my way to use it and that's a lesson many cities are learning the hard way there are many examples of streetcars across North America that were constructed under this same premise and are now struggling to attract enough users some
 
 **5:39** · even after offering rides for free and don't get me wrong here streetcars are very much a transit solution that can work really well under the right circumstances but at the end of the day people take transit because it's a useful service because it's reliable convenient and fast I think that's the truth regardless of whether you're on the roads or on tracks and the more we forget that the more we run the risk of building a transit service that's just bells and whistles [Music]
+
+#### Voices on Accessibility Challenges in Cities
+
+**ITDP**, *11 26, 2024*
+
+##### Video (10:12)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/XeJO7-pwbyo title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+This video compilation captures the lived experiences of people with disabilities navigating cities. Through personal stories, it highlights the hidden barriers in urban design and advocates for inclusive, accessible infrastructure.  
+
+Cities featured: 
+
+- Jakarta, Indonesia 
+- Mexico City, Mexico 
+- Bangalore, India 
+- Nairobi, Kenya 
+
+Produced by ITDP and TUMI
+
+##### Transcript
+
+###### The challenge of accessibility
+
+**0:11** · d [Music]
+
+**0:50** · I was not born with a disability uh about 27 years now I was involved in a road crash a
+
+**1:23** · [Music] ES
+
+**2:10** · whe
+
+###### Barriers in transit systems
+
+**2:32** · uh usually um I like to Uber most of the time for reasons that public transport is still not accessible for me uh occasionally I drive before I go to any building I call and I find out and people will say we accessible but you get to the doorway and there's a step just one step is enough to make me not go in for
+
+**3:34** · sometimes there's a semblance of a walkway it's rough you can't navigate with the wheelchair it has Port holes uh sometimes they are vendors that use the walkways for selling their goods so you still can't access to all passengers please check your belongings and step carefully thank you
+
+**4:15** · bassi
+
+**4:37** · Google Maps life Maps
+
+###### Principles of urban design
+
+**5:15** · the
+
+**5:58** · or for
+
+**6:16** · [Music]
+
+###### Advocacy and implementation
+
+**6:33** · I've been a wheelchair user since the past 10 years a bad fall in an under construction building and I was introduced uh to my new life the life after a spinal cord injury a life of no motor movement a complete paralysis below the waist a life where I became wheelchair dependent in a country which had accessibility issues so the whole idea of rasi U came to me in 201 18 when
+
+**7:00** · I started to go out as a wheelchair user in order to make use of these public places I realized I could not go anywhere because this huge problem of inaccessibility that India has and it started right from my home the the tower
+
+**7:15** · that I stain is not accessible then the public transport is not accessible then if you want to go to a school a college a bank a park uh nothing in India is really accessible and I think uh that really pushed me to think that isn't there any law uh which is governing this
+
+**7:36** · um uh isn't the government doing anything about it um that is when I came to know there is a law called rights of person with Disabilities Act rpwd act 2016 as per which all public buildings should follow uh certain guidelines in order to be accessible for everybody but all of this was very idealistic in nature if there were some activist some NGO some organization working it was very superficial at surface level even the government did not have too much clue as as a country as a developing country we are still learning how to be accessible and I think that is
+
+**8:07** · where I found a gap between the policy and the implementation and I thought why not start something which is very professional in its nature uh which really hits the target which directly does the implementation on ground rather than making complaints at the policy level and that is when the idea of ramma City came in where we thought we are going to be the organization that is going to provide the infrastructural interventions to make public places disable friendly and that is where it all started
+
+###### Empowerment through mobility
+
+**8:57** · [Music] AB [Music]
+
+**9:37** · transport yeah yeah yeah [Music]
+
+#### What happens to traffic when you tear down a freeway
+
+**Grist**, *04 09, 2019*
+
+##### Video (6:10)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/O6WtYTThkdU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The compelling case for removing urban freeways. 
+
+
+Further Reading:
+
+CityLab University: Induced Demand:
+
+https://www.citylab.com/transportation/2018/09/citylab-university-induced-demand/569455/
+
+Norman Garrick in Citylab:
+
+https://www.citylab.com/transportation/2016/11/reimagining-the-urban-freeway-holding-back-providence/508373/
+
+Vox: How Highways Wrecked Urban American Cities
+
+https://www.youtube.com/watch?v=odF4GSX1y3c
+
+Congress for New Urbanism – Highways to Boulevards
+
+https://www.cnu.org/resources/project-database?tags[182]=182
+
+Harbor Drive
+
+https://www.cnu.org/highways-boulevards/model-cities/portland
+
+Embarcadero Freeway
+
+https://www.cnu.org/what-we-do/build-great-places/embarcadero-freeway
+
+Governor Tom McCall – Oregon Historical Society:
+
+https://www.ohs.org/education/tom-mccall-better-oregon/resources.cfm
+
+Law of Peak Hour Expressway Congestion
+
+https://babel.hathitrust.org/cgi/pt?id=uc1.$b3477;view=1up;seq=467
+
+“From elevated freeways to surface boulevards: neighborhood and housing price impacts in San Francisco” by Robert Cervero , et al.
+
+https://rsa.tandfonline.com/doi/full/10.1080/17549170902833899?scroll=top&needAccess=true&#aHR0cHM6Ly9yc2EudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNzU0OTE3MDkwMjgzMzg5OT9uZWVkQWNjZXNzPXRydWVAQEAw
+
+Portland State University
+
+https://www.pdx.edu/sites/www.pdx.edu.ims/files/ims_mscape10winriverfront.pdf
+
+Impacts of Road Capacity Removal
+
+https://opencommons.uconn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1103&context=gs_theses
+
+FHWA – Interstate History
+
+https://www.fhwa.dot.gov/infrastructure/50interstate.cfm
+
+https://www.fhwa.dot.gov/interstate/faq.cfm
+
+Case studies in Urban Freeway Removal:
+
+https://www.cnu.org/sites/default/files/Nashville%20Case%20Study%202%20-%20Seattle.pdf
+
+
+Seattle Data
+
+SDOT:
+
+https://sdotblog.seattle.gov/2019/03/20/chapter-1-seattlesqueeze-less-driving-more-transit-more-biking-data/
+
+King County Metro:
+
+https://kingcountymetro.blog/2019/03/08/water-taxi-surged-bus-ridership-climbed-during-the-epic-sr-99-closure/
+
+Office of the Mayor:
+
+https://durkan.seattle.gov/2019/03/what-the-data-tells-us-about-chapter-1-of-the-seattle-squeeze-people-drove-less-took-transit-and-biked-more/
+
+Bike counters:
+
+https://www.seattle.gov/transportation/projects-and-programs/programs/bike-program/bike-counters
+
+##### Transcript
+
+###### The Seattle viaduct closure
+
+**0:01** · This is the view from my office window. It’s Seattle’s Alaskan Way Viaduct.
+
+**0:06** · A few months ago, this double-decker freeway carried 90,000 cars over the city’s downtown waterfront every day.
+
+**0:13** · Now, it carries zero cars, because they’re tearing it down and replacing it with a tunnel.
+
+**0:20** · But for three weeks, we got a glance into what it's like to go without a big downtown freeway.
+
+**0:25** · But … could you do that … forever? Just get rid of a freeway?
+
+**0:29** · To answer that, we’re gonna take a road trip … through history.
+
+###### History of induced demand
+
+**0:37** · U.S. freeway mania really kicked off during the 1950s when President Eisenhower created the interstate highway system.
+
+**0:44** · But even he was shocked when he saw construction crews building the Capital Beltway in D.C.
+
+**0:50** · "Even he recognized how destructive freeways would be in cities."
+
+**0:56** · Before long, people were using the freeways to drive everywhere.
+
+**1:00** · They were crowded, expensive, and bad for the environment.
+
+**1:03** · They cut through urban communities and fueled neighborhood segregation.
+
+**1:07** · And making them wider wasn’t helping congestion.
+
+**1:10** · See, roads don’t really follow the normal rules of the universe.
+
+**1:14** · Take this freeway: It has a traffic problem.
+
+**1:17** · And so the seemingly obvious solution would be to widen the road.
+
+**1:22** · But that original traffic was also acting as a kind of driving deterrent.
+
+**1:27** · New space would give people a reason to get back in their cars.
+
+**1:32** · This is real phenomenon. It’s called induced demand, a law of economics since 1962!
+
+**1:39** · So more lanes attract more drivers, and soon you wind up with the same traffic you started with.
+
+**1:45** · Which brings us to our first stop in our dead freeway tour: Portland, Oregon.
+
+###### Portland's freeway removal
+
+**1:51** · The freeway carried traffic along Portland’s downtown riverfront.
+
+**1:54** · And the highway department had plans to expand it.
+
+**1:58** · “Some highway engineers have a mentality, engineeringly speaking, that would run an 8-lane freeway through the Taj Mahal.”
+
+**2:08** · That’s Tom McCall. He was Oregon’s Republican governor.
+
+**2:10** · He came up with a kind of crazy idea for the time: What if they tore down the freeway, and replaced it with ... a park?
+
+**2:19** · This was the nation’s first big freeway removal.
+
+**2:25** · Oregon was building two interstates in the area, so this downtown freeway just wasn’t that necessary anymore.
+
+**2:32** · And it didn’t end up creating the traffic nightmare that some had predicted.
+
+**2:36** · It was basically the 1960s version of this: Ugh, cars, man. Why?!
+
+###### San Francisco's rebirth
+
+**2:42** · Next stop: San Francisco; The '90s.
+
+**2:49** · From the beginning, activists fought this freeway, which blocked off the city’s iconic waterfront views.
+
+**2:55** · There was even this 1955 editorial in the San Francisco Chronicle that roasted Seattle’s viaduct as a warning against the proposed freeway.
+
+**3:04** · “Ugly structure dominates architectural features in its vicinity.”
+
+**3:10** · ... Yeah, that's fair.
+
+**3:11** · The thing that finally sealed the freeway’s fate was the big 1989 earthquake.
+
+**3:17** · It damaged the Embarcadero, and several other freeways in the area.
+
+**3:21** · Suddenly, San Francisco was faced with a choice: If you want to keep the freeway, you’ll have to pay to fix it.
+
+**3:28** · And that did the trick!
+
+**3:31** · In 1991, the Embarcadero Freeway came down.
+
+**3:34** · In its place: a surface boulevard with big, walkable sidewalks.
+
+**3:39** · The traffic impacts were pretty minimal: City streets absorbed some traffic, and without the freeway, some traffic just disappeared.
+
+**3:48** · The area around the Embarcadero became a waterfront destination.
+
+**3:52** · It saw higher property values, more economic activity, and more jobs.
+
+**3:57** · Some say the freeway removal added to the Bay Area’s rapid gentrification.
+
+**4:02** · And while that area was expensive to start, housing prices did go up.
+
+**4:07** · For other places, there's a real lesson there: How to remove a freeway and make sure the people who live there can stick around for the benefit.
+
+**4:16** · And so here we are. Seattle, 2019.
+
+###### Seattle's lessons learned
+
+**4:20** · Here's a little background: A 2001 earthquake damaged the viaduct.
+
+**4:24** · Eighteen years later, the city’s tearing it down and replacing it with tunnel -- but not before the final challenge!
+
+**4:30** · Before the new tunnel could open, they had to close the old viaduct for three weeks.
+
+**4:35** · It was officially called the Period of Maximum Constraint.
+
+**4:40** · Also: “Viadoom, carmageddon… there was a few other ones I probably shouldn’t mention.”
+
+**4:45** · So, best case: People change their habits.
+
+**4:48** · Everyone who doesn’t have to drive doesn’t drive.
+
+**4:52** · Worst case: “Unreasonable congestion that nobody would tolerate.
+
+**4:55** · It would take you hours to get into downtown.”
+
+**4:57** · So what happened?
+
+**4:58** · For the most part, people found other ways to get around.
+
+**5:02** · “We had about a 10 percent decrease in vehicles coming into downtown” Here’s a typical bike count in Seattle this time of year.
+
+**5:11** · And here’s what happened during the viaduct closure.
+
+**5:14** · "I never would’ve predicted it, because January is generally not just cold, but rainy!”
+
+**5:20** · Transit ridership spiked too. And the Light Rail and commuter trains added more than 15,000 new riders.
+
+**5:27** · And finally: some of the trips just didn’t happen.
+
+**5:31** · “And everybody goes: what happened to the trips? Well it’s not a finite amount of trips. People have brains, and people make choices.”
+
+**5:37** · And then… the tunnel opened. And things started to go back to normal.
+
+**5:41** · But those three weeks gave us a small window into how a city might respond to losing a freeway.
+
+**5:48** · Now could Seattle have kept this up? It’s hard to say, but history suggests that cities can lose a little freeway and not lose their minds.
+
+**5:58** · Thanks for watching.There's a lot of history out there that we didn't get to cover.
+
+**6:02** · We're going to leave some links in the description below if you want to learn more.
 
 #### When Mold in the Home Is a Problem
 
@@ -14801,6 +16688,182 @@ This film was made possible by funding from the TELUS Originals Digital Series P
 **17:52** · So, let me leave you with this conclusion instead. When it comes to making space for sports in our cities, I actually don't think we're limited by the amount of land we have, just our imagination.
 
 **18:04** · Ooh la ooh la la daddy wah, gonna ring [music] it on down down down. Ooh la ooh la la daddy wah, gonna ring it on down down ooh la ooh la la daddy wah, gonna ring it on down down down. Ooh la ooh [music] la la daddy wah, gonna ring it on down down.
+
+#### Why cities should plant more trees
+
+**Vox**, *12 22, 2016*
+
+##### Video (3:10)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/aKyvGHycngM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Over 3 million people die annually from air pollution. Planting trees can help lower that number.
+
+Read more: http://www.vox.com/energy-and-environment/2016/11/4/13510352/planting-trees-pollution-heat-waves
+
+Check out The Nature Conservancy report, "Planting Healthy Air": https://global.nature.org/content/healthyair
+
+///
+
+Trees help improve public health by cleaning and cooling the air around them. As the threat of climate change steadily increases, planting trees is a fairly simple way city leaders can help stem the negative consequences of rising temperatures and increasing population density.
+
+Subscribe to our channel! http://goo.gl/0bsAjO
+
+Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com to get up to speed on everything from Kurdistan to the Kim Kardashian app. 
+
+Check out our full video catalog: http://goo.gl/IZONyE
+
+Follow Vox on Twitter: http://goo.gl/XFrZ5H
+
+Or on Facebook: http://goo.gl/U2g06o
+
+##### Transcript
+
+###### Intro
+
+**0:00** · Search Google Earth for China and you’ll see this.
+
+**0:03** · But an unedited satellite photo might look more like this.
+
+**0:08** · That gray smudge is air pollution and it’s coming from Chinese cars, factories, and power plants.
+
+**0:13** · But it’s not only here.
+
+**0:14** · In cities around the world, air pollution is a big problem.
+
+**0:18** · A majority of humans now live in cities and that number is only going to rise, which means more cars, more factories, and more power plants.
+
+**0:25** · As officials explore options for fighting air pollution, there is one tool that is often overlooked: trees.
+
+###### Air pollution
+
+**0:35** · Cities are centers of industry, but the resulting pollution is filling our lungs and making us sick.
+
+**0:41** · One major culprit is particulate matter: airborne particles of dust, soot and smoke that are released when we burn fossil fuels or kicked up during construction and farming.
+
+**0:49** · When we inhale them, they can cause asthma and they can also enter our bloodstream to cause strokes and even death.
+
+**0:54** · Experts estimate that outdoor air pollution kills over three million people a year and as cities grow, leaders are funding creative—and often expensive—solutions for the problem.
+
+**1:04** · In London, the mayor spent over a million pounds spraying city streets with an adhesive that was supposed to glue pollutants to the road.
+
+**1:10** · and in the Netherlands, designers have created a giant air purifier they call "The Smog Free Tower", which is cool, but there is another, simpler solution… A new report from The Nature Conservancy shows that planting trees can be a cost-effective way to improve public health, which they do in two ways: First, a tree removes particulate matter when polluted air blows through its branches.
+
+###### Planting trees
+
+**1:31** · The particulate matter settles on the leaves and when it rains the dust is washed down the gutter so we don’t inhale it.
+
+**1:37** · Second, trees cool temperatures by providing shade and releasing water through photosynthesis, which cools summer temperatures by about two to four degrees fahrenheit.
+
+**1:46** · But there is a catch!
+
+**1:47** · Trees can only clean and cool the air within a close radius: about one hundred feet, so city officials need to be careful where they plant.
+
+**1:54** · Officials can maximize pollution reduction by planting trees where population density and air pollution overlap.
+
+**1:59** · The Nature Conservancy report uses data from Washington D.C. to create a map showing where planting trees will have the highest return on investment.
+
+**2:06** · And some trees work better than others: trees with larger, stickier leaves, like maples and elms are more effective, but they also need to be considered within the larger ecosystem.
+
+**2:15** · Compared to DC, many cities around the world have even more to gain from planting trees: this map shows where return on investment is highest for reducing particulate matter.
+
+**2:23** · With proper targeting, planting trees can be just as cost-effective as other strategies like converting public transportation to use less diesel fuel.
+
+**2:30** · But there is one major limiting factor: water access.
+
+**2:34** · What might work in Boston, will be less feasible in a city like Doha, Qatar, where water is a scarce resource.
+
+**2:39** · And on top of that, many mayors don’t yet think of trees as a public health resource.
+
+**2:44** · Trees might not look like giant air filters, but that’s exactly what they are, and the sooner we start thinking of them that way, the sooner the air we breathe might be cooler and cleaner in cities around the world.
+
+#### Why did Kids Stop Walking to School
+
+**About Here**, *05 04, 2023*
+
+##### Video (12:38)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/DqvQ-5784po title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Thank you so much to @TransLink for partnering with me on this video. Check out their new TravelSmart for Kids Strategy at TransLink.ca/TravelSmartforKids
+
+##### Transcript
+
+###### The decline of walking
+
+**0:00** · [Music] this traffic isn't the result of a car accident or lane closure it's not the lineup to go see Coachella or head out of town for a long weekend no this is the traffic every morning to drop off students at a school and to me this is a great example of why we need to widen our roads add more Lanes of traffic make more room for cars and just kidding to
+
+**0:22** · me this traffic is an example of a problem all over North America if you look at the numbers much more children are being driven to school and much fewer of them are walking or cycling so for this video I just want to understand why is this [Music]
+
+**0:49** · [Music] happening all right let's start with some numbers the decline in children walking or Cy to school is frankly astonishing this change happened in most Western countries and it happened fast in 1969 about 48% of students walked or cycled to school in the United States today that figure is about 11% and this
+
+###### Impacts of driving to school
+
+**1:15** · decline wasn't just in the US you can find the same Trend in Australia England and Canada today the majority of students are driven to school in a car one of the larger studies we have on this issue in BC found that 58% of fourth graders and 50% of seventh graders were driven to school by their parents so why should we care well it's
+
+**1:37** · about building character and back in my day we used to walk 50 m to school through the rain the snow no this is actually a problem and a lot of people who aren't your grandpa have done research on it Studies have found that children who don't use active Transportation are missing out on improving their health building Independence and even doing better academically and all students are impacted by the worse air quality caused by car exhaust around their schools even
+
+**2:04** · if you don't have kids you're still impacted by the extra pollution climate change the general loss of social capital in a neighborhood and congestion yes School traffic is actually a huge contributor to overall traffic in Metro Vancouver School drop offs are responsible for up to a fifth of traffic in the morning but ultimately there's a bigger picture here as a society we are generally trying to get more people to walk and cycle for a lot of reasons and
+
+###### Sprawl and distance factors
+
+**2:33** · if that's what we really want shouldn't we be concerned that the majority of children today are learning to commute on SUVs and minivans so how do we change that so at first I thought the answer was obvious children are just living too far away from their schools and you can blame that on suburban sprawl you know
+
+**2:54** · the story in the 20th century most North American cities saw the growth of the suburbs sprawling falling C theck fied neighborhoods where you have to drive to get anywhere and spal is part of the story children are on average living further away from their schools a pretty standard walking distance for children is about 1,600 M or 1 mile well in the 1960s nearly 35% of children lived within 1 mile from their school in the US but by the year 2000 this had declined to just under 20% but what I was surprised to discover
+
+**3:27** · is that distance actually isn't the main issue here in fact there are plenty of children today who live within walking distance of their schools but still take a car to class take the city of Vancouver for example known for its cyclists and walkable neighborhoods its school catchment areas are designed so that every Elementary student is within walking distance to their local public school but nearly 40% of those students
+
+**3:51** · are still driven to school and this is the trend you see right across the country according to the health behavior and school age children study only about half of students who live less than 5 minutes from their school walk or cycle to get there so the good news is that there are plenty of children who could theoretically walk and cycle to school but they don't and the reason why is a
+
+**4:14** · bit more complicated so we have to start with safety Road Safety is perhaps the most common concern that's brought up around children walking or cycling to school and those concerns do have some validity a study in Montreal found that children who walked to school were 4.5 times more likely to be injured than children being driven for children who biked they were 22 times more likely to be injured now it's important to mention here that the vast majority of these injuries are minor however severe accidents can
+
+###### Safety concerns and reality
+
+**4:44** · happen as well but walking and cycling aren't inherently dangerous the reason they're unsafe is because of cars here in North America the vast majority of serious pedestrian and cyclist collisions involve a vehicle okay I got
+
+**4:59** · to get out of here you'll find a completely different picture in cities that are designed to prioritize active transportation in the Netherlands after major improvements to the country's cycling and pedestrian networks fatality rates for all modes of transportation have fallen to near zero levels meanwhile in the United States pedestrian and cycling fatalities are consistently higher than vehicles around schools this can create a vicious cycle when more and more students are driven to school it makes the roads less safe for others to walk and cycle with only
+
+**5:30** · compels more parents to drive so this is a huge argument for building better infrastructure for active Transportation such as generous sidewalks crosswalks separated bike lanes and traffic calming measures like bananas no these bananas but of course Road Safety isn't the only concern here there are also concerns about people strangers bullies
+
+**5:53** · kidnappers and other characters you hear about on the news growing man all contribute to the feeling toap walking to school is less safe the suspect considered extremely dangerous now child abductions and Other Extreme incidents are exceedingly rare but nevertheless it's understandable that people feel more protected from these threats when they're inside a vehicle and with the right vehicle you might even feel like your ego's protected as well but with all that being said I'm not sure that safety is
+
+**6:23** · actually the main issue here either because none of those concerns whether it's kidnappings or car accident are new as terrible as they are the statistics behind those risks haven't changed significantly over the decades so there's something else at play here that's causing fewer kids to walk in cycle in 2011 sociologist marel
+
+###### Changing parent norms
+
+**6:45** · Rutherford published one of the most comprehensive studies on how parenting expectations have changed over the past Century analyzing literally hundreds of Articles and guides on parenting over the decades she found that since the 1970s children have increasing ly been losing their independence for example
+
+**7:02** · this parenting guide from the 80s recommends letting children as young as 6 years old walk by themselves to school local corner stores or a friend's home but today it's not uncommon for parents to face scrutiny for simply letting their children be unsupervised such as walking home from school taking the bus and even playing in their own backyard the reasons behind this trend are complex new parenting Norms less trust within communities media narratives and countless other factors but the result of all that is very clear
+
+**7:33** · parents increasingly do not want their children to leave their home unsupervised and this brings up another really important factor parents commuting schedules unlike past decades today a majority of households have two working parents who commute to their own jobs in the morning and if the expectation is that children need their parents supervision wherever they go well then their school commutes have to revolve around their parents' work commutes and it's often just most convenient to pile everyone into a car in the morning so rigid work schedules
+
+**8:05** · are a huge Factor here in fact a study in Toronto found that flexible work hours could play a more significant role than even addressing safety concerns in convincing more parents to walk their kids to school the influence of work commutes is so strong that it actually creates an interesting effect in BC significantly more students arrive at school by car than leaving school by car but there's another more unsettled Factor here a lot of this has to do with
+
+###### Equity and financial issues
+
+**8:33** · money driving isn't cheap and for parents who don't have the means to drive a car to work they often have to let their children walk to school by themselves not because they care any less about safety they just don't have a choice a study from Quebec found that children with lower income parents were two to three times more likely to walk or cycle to school when you couple this with the fact that lower inome neighborhoods are less likely to have pedestrian infrastructure and more likely to contain high-speed arterial roads you quickly realize that this is a
+
+**9:03** · huge Equity issue and the statistics show that a report from the CBC in Toronto found that lower inome neighborhoods had 50% more fatal or serious pedestrian collisions compared to more affluent areas to me this is the real tragedy behind this issue more children being driven to school makes their roads less safe for others to walk in cycle and it's the students who don't have the luxury of choice who disproportionately suffer the
+
+**9:30** · consequences now the purpose of this video isn't to shame people about their commuting habits to a large extent the decline in active Transportation among kids is rooted in broader issues that aren't the fault of anyone individual or parent but what has become apparent to me is that changing this pattern seems a
+
+###### Solutions and new programs
+
+**9:48** · lot more doable than I thought before making this video I assume that reversing this trend could only be done through significant structural changes to the layout and density of our cities and don't get me wrong that is still very important to do but what I've learned is that this issue is just as cultural as it is structural there are many children right now who live within walking and cycling distance of their schools but don't and I think that's
+
+**10:16** · something we can change we can start by simply addressing traffic safety concerns around schools improving certain crosswalks roads and intersection along school walking routes can help parents feel confident that kids on foot are just as safe as kid kids and cars and the other thing we can do is to create programs that encourage a culture of active Transportation among
+
+**10:35** · students I partnered with TransLink to put this video together and in the process I learned about a variety of programs they support to do just that for example TransLink has partnered with the BC Ministry of Transportation and hub cycling to offer cycling classes in public schools which teach thousands of students how to ride a bike each year then there's TransLink and the transportation Ministries get on board program to let children ear 12 and underride transit for free which has given out over 3 million free trips since it's launch in 2021 but one of my
+
+**11:06** · favorite initiatives is the walking School Bus how it works is that an adult or older student coordinates with families to pick up their children and walk as a group to their school and that's just the tip of the Ice Break for Solutions there are many many other programs out there that encourage active travel to and from schools and I'd like to highlight just a couple more first the school streets program which closes down streets in front of schools to car traffic during drop off and pickup times to create a welcoming space for children while reducing car fumes outside the school entrance and second drive to five
+
+**11:38** · a program that asks parents to drop their kids off at designated locations that are a 5minute walk away from their school what I love about this idea is that it makes it possible for children who live further away from their schools to still participate in active travel if you want to learn more about these sorts of initiatives I'd recommend checking out translink's new travel smart for kids strategy which creates a comprehensive plan plan to encourage more active Transportation among kids 12 and under you can find that and other resources on their website at the end of the day students
+
+**12:08** · are the next generation of citizens and commuters in our cities and I think encouraging them to bike or walk to school could help them get started on the right foot we criss cross baby when you're all the things I need you're song somewhere here CR baby CR
 
 #### Why did we build high-rise public housing projects
 
@@ -15785,6 +17848,104 @@ Chapters:
 **10:59** · What do you think about buses or trains where you are?
 
 **11:02** · Leave us a comment and subscribe, we post a new video every Friday.
+
+#### Why It’s Usually Hotter In A City  Let's Talk  NPR
+
+**NPR**, *08 14, 2018*
+
+##### Video (2:29)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Y-bVwPRy_no title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The way cities are designed and inhabited can make actually make them hotter. So what's the solution? We explore a few ideas for beating the urban heat. 
+
+Subscribe to NPR - http://bit.ly/NPRsubscribe
+
+• NPR explores how to cope with a warming world: https://n.pr/2AdziQ3
+
+• Phoenix tries to reverse its 'silent storm' of heat deaths. https://n.pr/2zmQ6nb
+
+Editor's Note: A previous version of this video used a map of Phoenix, New York, rather than Phoenix, Ariz. and misspelled the cities of Phoenix and Washington, D.C. 
+
+
+
+Follow NPR elsewhere, too:
+
+• Twitter: https://twitter.com/npr
+
+• Facebook: https://www.facebook.com/NPR
+
+• Instagram: https://www.instagram.com/npr/
+
+• Tumblr: http://npr.tumblr.com/
+
+• Snapchat: https://www.snapchat.com/add/npr
+
+ABOUT NPR
+
+NPR connects to audiences on the air, on demand, online, and in person. More than 26 million radio listeners tune in to NPR stations each week and more than 36 million unique visitors access NPR.org each month making NPR one of the most trusted sources of news and insights on life and the arts. NPR is also the leading publisher of podcasts, with 36 original shows and an average of 4 million listeners per week. NPR shares compelling stories, audio and photos with millions of social media users on Facebook, Twitter, Instagram, Pinterest, YouTube and Snapchat; NPR News and NPR One apps, online streaming, podcasts, iTunes radio and connected car dashboards help meet audiences where they are. NPR's live events bring to the stage two-way conversations between NPR hosts and the audience in collaboration with the public radio Member Station community. This robust access to public service journalism makes NPR an indispensable resource in the media landscape.
+
+##### Transcript
+
+**0:04** · There’s a reason that summers in the city are so hot, and it’s probably easiest to explain why with thermal vision.
+
+**0:11** · It shows the heat all around me and also the coldness of this ice cream cone.
+
+**0:16** · Cities are often hotter than their suburbs due to a phenomenon known as “the heat island effect.”
+
+###### The Heat Island Effect
+
+**0:24** · All of that asphalt, concrete, dark rooftops and tall buildings— they absorb and store heat.
+
+**0:31** · And there are a lot of people using a lot of energy— driving cars, riding subways, running the AC.
+
+**0:38** · All of these materials and activities either create or retain heat.
+
+**0:44** · And all that stored heat causes steeper nighttime highs … when people would otherwise have a chance to cool down.
+
+**0:52** · The way all these heat-storing elements are laid out matters quite a bit.
+
+**0:57** · In cities laid out in grids, like Phoenix, Chicago, or Washington, D.C., the buildings are closer together, like closely packed coals in a fire, keeping heat in.
+
+**1:07** · More space between buildings creates more circulation.
+
+**1:11** · Another way to combat this heat island effect is through green space.
+
+**1:15** · Parks, trees, plants— they don’t absorb as much heat … they actually send water back in the atmosphere.
+
+**1:21** · Between all those hot buildings, that cools things off.
+
+**1:25** · Another solution is color.
+
+###### Color Light
+
+**1:27** · Light colors reflect sunlight back into the atmosphere instead of storing it as heat.
+
+**1:31** · It's easiest to see in crosswalks, and it's true for the color of buildings and other urban surfaces, too.
+
+**1:39** · And one long-game way to combat the heat island effect is to avoid using air conditioning when you don’t need it.
+
+###### Avoid Using Air Conditioning
+
+**1:45** · AC uses a ton of electricity and creates a feedback loop.
+
+**1:49** · When we get that electricity from coal or natural gas, that puts more carbon dioxide into the atmosphere … which warms the planet … making cities even hotter.
+
+**2:00** · But this isn’t just about comfort.
+
+**2:02** · Today, heat waves kill more people than any other extreme weather event.
+
+**2:07** · More than tornadoes, hurricanes and even floods.
+
+**2:11** · City populations keep growing, and those cities are only getting hotter.
+
+**2:17** · This is Let's Talk, NPR's news explainer show.
+
+**2:20** · Make sure to subscribe to our YouTube channel and check out other shows.
+
+**2:25** · I'm Christopher Joyce, and this is NPR.
 
 #### Why managing chronic health conditions begins at home
 

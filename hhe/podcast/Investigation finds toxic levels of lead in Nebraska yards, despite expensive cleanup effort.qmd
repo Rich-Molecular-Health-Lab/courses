@@ -1,0 +1,19 @@
+---
+title: "Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort"
+profile:
+  - "podcast"
+  - "hhe"
+categories:
+  - "podcast"
+  - "ENVN4320"
+---
+
+**Released:** 2026-08-12
+
+[**Visit Source to Listen**](https://www.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead)
+
+<iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead"></iframe>
+
+## Description
+
+The Environmental Protection Agency spent millions of dollars cleaning up a massive residential lead superfund site in Omaha, Nebraska, starting in 1999.

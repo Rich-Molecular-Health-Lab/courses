@@ -86,6 +86,28 @@ About this episode:   A group of students from suburban Atlanta has developed 
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/41665130/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/fb5600/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+#### Abel Wolman, 'Friend of the Thirsty' - A Life and Legacy of Water Sanitization
+
+##### Abel Wolman, "Friend of the Thirsty": A Life and Legacy of Water Sanitization
+
+![Abel Wolman, "Friend of the Thirsty": A Life and Legacy of Water Sanitization](https://i.scdn.co/image/ab67656300005f1f914496de3226c5c4ada4bf8f)
+
+**Duration:** 00:23:30
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1TMgLMOgS7p93d6QBo0Tud)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   At the turn of the 20th century, waterborne diseases like typhoid and dysentery posed a significant threat to public health, accounting for a large part of infant mortality and overall morbidity. Enter Abel Wolman, an early graduate of Johns Hopkins' engineering program and a professor at the university's school of public health. In this episode: the story of the Baltimore-born pioneer of water sanitization and how his work in water chlorination and infrastructure set the stage for better health across the globe.  Note: This episode was produced in collaboration with the Johns Hopkins University sesquicentennial campaign.  Guest:  Graham Mooney, PhD, is an associate professor of history of medicine and epidemiology at the Johns Hopkins School of Medicine.  Host:  Ari Goldstein, MD, is a family medicine physician and a recent alum of the Johns Hopkins Bloomberg School of Public Health  General Preventive Medicine Residency program. This year, Dr. Goldstein served a one-month rotation with Public Health On Call.  Show links and related content:     Heroes of Public Health: Abel Wolman—Johns Hopkins Bloomberg School of Public Health     Friend of the Thirsty—New York Times
+
+:::
+
 #### Acaropathology (TICKS + LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
 
 ##### Acaropathology (TICKS & LYME DISEASE) Updated Mega Encore with Neeta Pardanani Connally & Andrea Swei
@@ -170,6 +192,26 @@ About this episode:   Headlines about sick sloths in Florida and the reemergen
 
 
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/41794810/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/fb5600/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+#### Bird Flu - The Next Pandemic?
+
+![Bird Flu: The Next Pandemic?](https://i.scdn.co/image/ab67656300005f1fab4a0a1241885bc663c01796)
+
+**Duration:** 00:39:58
+
+**Released:** 2025
+
+**Series:** Science Vs
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/5qnSNMFmQk1nKHP0ZxUrPi)
+
+[Open Series in Spotify](https://open.spotify.com/show/5lY4b5PGOvMuOYOjOVEcb9)
+
+Bird flu has been in the headlines for ages, with scientists warning that we could be headed for a pandemic. But we’ve been hearing about this H5N1 virus for so long that it’s kind of starting to feel like the boy who cried wolf. So — what’s really going on with H5N1 bird flu? How scary is it, and how likely is it that we’re going to end up in a bird flu pandemic? We talk to virologists Dr. Seema Lakdawala and Dr. Richard Webby.  Find our transcript here: https://bit.ly/ScienceVsBirdFlu  (00:00) Tons of people are freaked out about H5N1 bird flu (03:38) Why H5N1 bird flu is scary (05:01) Birds are falling out of the sky dead (07:32) Things get weird when bird flu gets into mammals (18:34) What happens when humans start getting this bird flu (23:26) Is bird flu mutating? (29:11) Should I worry about bird flu? (30:50) Do we have anything to fight bird flu? (32:14) We have had some silent cases of bird flu already This episode was produced by Blythe Terrell, with help from Wendy Zukerman, Michelle Dang, Rose Rimler, Meryl Horn and Ekedi Fausther-Keeys. We’re edited by Blythe Terrell with help from Wendy Zukerman. Mix and sound design by Bobby Lord and Sam Bair. Fact checking by Erica Akiko Howard. Music written by Bumi Hidaka, Peter Leonard, Emma Munger, So Wylie, and Bobby Lord. Thanks so much to all the researchers we spoke to for this episode, including Dr. Louise Moncla, Dr. Ted Elsasser, Dr. John Korslund, Victoria Rosado and Lindsey Adams. Thanks to Jeff DelViscio. Science Vs is a Spotify Studios Original. Listen for free on Spotify or wherever you get your podcasts. Follow us and tap the bell for episode notifications.  Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
 
 #### Can we end chronic homelessness?
 
@@ -535,26 +577,6 @@ The powerful gene editing tool CRISPR is already being tested on animal and plan
 
 :::
 
-#### Cyclospora - Explosive Diarrhea Everywhere
-
-![Ep 216 Cyclospora: Explosive Diarrhea Everywhere](https://i.scdn.co/image/ab67656300005f1f64e30177c9c99e8f03afcf6f)
-
-**Duration:** 00:54:38
-
-**Released:** 2026
-
-**Series:** This Podcast Will Kill You
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/0dJph65xpSIikwCluEaM8p)
-
-[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
-
-You’ve seen the headlines: a food-borne parasite is infecting people across the US, leaving them chained to the toilet sometimes for weeks on end, as they are ravaged by wave after wave of gastrointestinal upset. What the heck is cyclosporiasis and where did it come from? How scared should we be of our raspberries or lettuce or cilantro? To dish out the answers as fast we could, we put together this fact-filled episode about the biology of Cyclospora cayetanensis, how this parasite makes you sick, when we first learned about it (more recently than you might think), and what we know about this current outbreak (or outbreaks). We also probe how recent changes to foodborne pathogen surveillance on a national scale are contributing to the challenges in understanding the scope and origin of outbreaks such as this. You don’t want to miss this one! Support this podcast by shopping our latest sponsor deals and promotions at this link: https://bit.ly/3WwtIAuSee omnystudio.com/listener for privacy information.
-
-:::
-
 #### Disease Ecology (LYME + TICK-BORNE ILLNESSES) with Andrea Swei
 
 ##### Disease Ecology (LYME/TICK-BORNE ILLNESSES) with Andrea Swei
@@ -597,25 +619,23 @@ Mosquitoes are the deadliest animal on the planet, and some of them may be on th
 
 :::
 
-#### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
+#### Eating the Wild - Bushmeat, Game, and the Fuzzy Line Between Them
 
-##### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
+![Eating the Wild: Bushmeat, Game, and the Fuzzy Line Between Them](https://i.scdn.co/image/ab67656300005f1f1d4fb215c2567468d645a004)
 
-![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
+**Duration:** 00:43:06
 
-**Duration:** 01:19:15
+**Released:** 2020
 
-**Released:** 2023
-
-**Series:** Ologies with Alie Ward
+**Series:** Gastropod
 
 ::: {.callout-description collapse="true"}
 
-[Open Episode in Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr)
+[Open Episode in Spotify](https://open.spotify.com/episode/0l6w33WVJG5elmigane0ku)
 
-[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
 
-Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+It's a safe bet that your recent media diet has included the words "wet market," "zoonotic disease," and "pangolin," as experts take a pause from discussing COVID-19's spread and impact to speculate on the virus's origins. This episode, we're digging into the larger story behind those words, that of our relationship to eating wild animals: how and why have our attitudes to wild meat shifted over time? Why is it that deer shot by a hunter in the U.S. is game, but monkey caught in the Democratic Republic of Congo is bushmeat? With the help of Gina Rae La Cerva, author of the new book, Feasting Wild, we explore what we gain and lose by eating wild, from the lost primeval forests of Europe to Robin Hood, and from smoked monkey to bird spit. Learn more about your ad choices. Visit podcastchoices.com/adchoices
 
 :::
 
@@ -661,6 +681,26 @@ Amid nationwide Black Lives Matter protests, some climate activists have been sa
 
 :::
 
+#### Good Shit - How Humanure Could Save Agriculture—and the Planet
+
+![Good Shit: How Humanure Could Save Agriculture—and the Planet](https://i.scdn.co/image/ab67656300005f1ff45e75d8ccf0c5243333cd98)
+
+**Duration:** 00:51:07
+
+**Released:** 2023
+
+**Series:** Gastropod
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/52TfOnwPmdlGv1aocs0zsV)
+
+[Open Series in Spotify](https://open.spotify.com/show/2bB44RWKrgs1jhylH1NBtL)
+
+For most of us, when we sit on the porcelain throne to drop the deuce, priority number one is flushing and never having to think about it again. But it might be time to rethink our stink: all around the world, people are talking about using human waste for good, applying it as fertilizer to grow our food instead of just washing it down the miles of pipes that undergird urban sewage systems. "Ew" is a common response, along with "yuck!" Is using poop to grow food a good idea—or even safe? We’re getting our shit together to find out! On this episode of Gastropod, how human waste went from being so valuable you could go to jail for stealing it, to causing such a stench it shut down Parliament in Victorian London and led to the invention of the modern sewage system—and why figuring out how to start saving our poop (and pee!) once again could give us cleaner energy, healthier waterways, and lots of delicious food. Listen in now: if you like to eat, it's time to start giving a crap about your crap. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+:::
+
 #### Hantavirus - The Real Rat Race
 
 ![Ep 18 Hantavirus: The Real Rat Race](https://i.scdn.co/image/ab67656300005f1f08651534ce12173c3f0f0d99)
@@ -701,6 +741,28 @@ On May 2, the World Health Organization got an alarming report: People aboard a 
 
 :::
 
+#### Hawaiʻi Wildfire Survivors Join Health Study - Wind Turbine Blade Sinks Off Massachusetts Coast
+
+##### Hawaiʻi Wildfire Survivors Join Health Study | Wind Turbine Blade Sinks Off Massachusetts Coast
+
+![Hawaiʻi Wildfire Survivors Join Health Study | Wind Turbine Blade Sinks Off Massachusetts Coast](https://i.scdn.co/image/ab67656300005f1ff6a34042fe0d25ae43d0a258)
+
+**Duration:** 00:20:35
+
+**Released:** 2024
+
+**Series:** Science Friday
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4lOTnPBGyzttWA4ojN93EC)
+
+[Open Series in Spotify](https://open.spotify.com/show/5UpA5Uw23B6bukC0TABffC)
+
+The University of Hawaiʻi study will be the largest of its kind to investigate the health and social impacts of the Maui wildfires. Also, fiberglass is washing up on Nantucket’s shores, and residents are concerned about the long-term environmental impact of this debris.Hawaiʻi Wildfire Survivors To Join Long-Term Health StudyNearly a year ago, Maui experienced a series of wildfires that caused major destruction and anguish for residents. More than 100 people died and thousands of structures were destroyed in what was the fifth deadliest wildland fire in U.S. history.Survivors of those fires are now taking part in the largest study of its kind to understand the health and social impacts of the Maui wildfires. The research team will sample the blood, DNA, and urine of participants over at least a decade to see if they develop conditions such as cancer. Researchers say this information will be essential as the island and its residents continue to recover.Casey Crownhart, climate reporter for the MIT Technology Review joins guest host Kathleen Davis to talk about this story and other top science news of the week, including California’s Park Fire.Damaged Wind Turbine Blade Sinks Off Massachusetts CoastA large piece of fiberglass debris from the damaged Vineyard Wind turbine blade has sunk to the ocean floor, as the debris cleanup continues, according to press release from the town of Nantucket that’s timestamped for 9:10 a.m.Town officials said that about half of the fiberglass shell of the blade remains attached and crews will continue to monitor it until a removal plan is developed. Most of the green and white foam fill dislodged during the initial failure last Saturday.They added that Vineyard wind is also developing a plan to test water quality around the island.“This complex undertaking involves engaging experts to determine the best path forward. To conduct the testing, specific information from GE’s Safety Data Sheets is required, which is expected to be delivered to Vineyard Wind today,” according to the press release.To read the full story, visit our website. Transcripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
+
+:::
+
 #### Health - Searching For The Source Of Cyclospora
 
 ![Health: Searching For The Source Of Cyclospora](https://i.scdn.co/image/ab67656300005f1fc6be451cb776a3eebfebc9e5)
@@ -718,26 +780,6 @@ On May 2, the World Health Organization got an alarming report: People aboard a 
 [Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
 
 You may have heard of a parasite that’s causing some gastrointestinal distress.Cyclospora has sickened thousands of people across 34 states this summer – more than six times the number reported at this point last year. The CDC has linked a major cluster to shredded iceberg lettuce at Taco Bell in some states. And Taylor Farms de Mexico has now pulled all of its iceberg lettuce from the U.S. market despite an FDA finding that reports that its product contained the parasite were a false positive.We answer your questions about what cyclosporiasis is, how you get it, and why investigators have had such a hard time finding the source.Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
-
-:::
-
-#### Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
-
-![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
-
-**Duration:** 00:45:54
-
-**Released:** 2026
-
-**Series:** 1A
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV)
-
-[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
-
-The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
 
 :::
 
@@ -3236,6 +3278,77 @@ As their name suggests, “forever chemicals” have extraordinary staying power
 
 :::
 
+
+##### Source Content 
+
+<a href="https://bigpicturescience.org/episodes/some-chemicals-are-forever"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+
+[Download episode](https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/1E7F5E/mgln.ai/e/211/traffic.megaphone.fm/ARML2077319332.mp3?updated=1757892031)
+
+As their name suggests, “forever chemicals” have extraordinary staying power. When these nearly indestructible compounds find their way into our soil and water, they don’t break down for hundreds or thousands of years. PFAS – the name for these synthetic chemicals – isn’t just in our natural environment. Scientists have found it everywhere, including in the blood of nearly every living being.
+
+In this episode, we talk to the reporter who broke open the story about a decades-long corporate coverup regarding forever chemicals, look at what we know about their health effects, and consider how a kneecapping of the EPA’s regulatory power may weaken the best tool we have for protecting ourselves from PFAS contamination.
+
+**Guests:**
+
+**[Nathaniel Rich](https://nathanielrich.com/)** – Author of “ [Second Nature: Scenes from a World Remade](https://bookshop.org/p/books/second-nature-scenes-from-a-world-remade-nathaniel-rich/ced7f351cb7854eb),” and the New York Times Magazine article, “ [The Lawyer Who Became Dupont’s Worst Nightmare](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html) ”
+
+– Energy and Environment Policy reporter for The Hill, co-author of “ [Poisoning the Well: How Forever Chemicals Contaminated America](https://bookshop.org/p/books/poisoning-the-well-how-forever-chemicals-contaminated-america-rachel-frazin/0f77a39df5bd45fb) ”
+
+**[Janet McCabe](https://oneill.indianapolis.iu.edu/contact/people-directory/mccabe-janet.html)** – visiting professor at the Robert McKinney School of Law at Indiana University, former deputy administrator of the United States Environmental Protection Agency
+
+[Descripción en español](https://bigpicturescience.org/es/episodes/algunas-sustancias-quimicas-son-permanentes)
+
+Featuring music by [Dewey Dellay](http://www.deweydellay.com/) and [Jun Miyake](https://www.junmiyake.com/biographyenglish)
+
+You can get early access to ad-free versions of every episode by joining us on [Patreon](https://www.patreon.com/bigpicturescience). Thanks for your support!
+
+Big Picture Science is part of the [Airwave Media](http://airwavemedia.com/) podcast network. Please contact [advertising@airwavemedia.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=advertising@airwavemedia.com) to inquire about advertising on Big Picture Science.
+
+>[!view-source]- View Here
+><iframe height=700 src=https://bigpicturescience.org/episodes/some-chemicals-are-forever></iframe>
+
+#### The Devil They Knew
+
+![The Devil They Knew](https://i.scdn.co/image/ab67656300005f1fb7ecd80346c0d9ee233f1648)
+
+**Duration:** 00:48:58
+
+**Released:** 2024
+
+**Series:** The Poison Detectives
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/10zhQs0qgBsh9Boe94cRxA)
+
+[Open Series in Spotify](https://open.spotify.com/show/1mz3wHvjlOgkE4gXxVDeA3)
+
+We learn about the contamination of military bases in the U.S. and Canada from PFAS chemicals in firefighting foam. And how the foam residue has poisoned drinking water sources in both countries. We hear about one community in Quebec that was faced with a big problem finding a new source of drinking water.And a group of firefighters who decided to create a safe alternative to the foam. But because it is a gel instead of a foam, they ran into roadblocks getting it certified for firefighters to use.The issue was a big one for a congressional committee looking into PFAS. It called the military, the Environmental Protection Agency and the companies making the PFAS chemicals to testify and explain their actions. The members of Congress were looking for clear answers and weren’t happy when they didn’t get them. Hosted on Acast. See acast.com/privacy for more information.
+
+:::
+
+#### The Latest On Bird Flu
+
+![The Latest On Bird Flu](https://i.scdn.co/image/ab67656300005f1f15bb6ed10b5cd7ff9cdac7d9)
+
+**Duration:** 00:13:18
+
+**Released:** 2025
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/2kUcnoam1pHpE80KOhPysA)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Bird flu, or avian influenza, is spreading among livestock and other mammals in the United States, raising concerns that another pandemic may be looming. Last month, California declared a state of emergency due to rising cases in dairy cattle, and there have been over 65 human cases in the U.S. during this outbreak. While cases have been largely mild and risk to the public is still considered low, scientists warn it could evolve and become more dangerous. Curious about other health updates? Email us at shortwave@npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
 #### The Path Ahead - Remediation and Clean-Up
 
 ![10. The Path Ahead: Remediation and Clean-Up](https://i.scdn.co/image/ab67656300005f1f126dae4b658badb3e644df4d)
@@ -3293,26 +3406,6 @@ About this episode:   Vaccines for the Zaire ebolavirus have been licensed sin
 [Open Series in Spotify](https://open.spotify.com/show/1mz3wHvjlOgkE4gXxVDeA3)
 
 For more than thirty years, scientists, regulators, and one of the world’s most powerful chemical companies have been locked in a battle over the active ingredient in Roundup -- a chemical called glyphosate.A battle fought over the soil itself -- and over what we believe keeps us safe.Episode eight tells that story. Hosted on Acast. See acast.com/privacy for more information.
-
-:::
-
-#### Up in Smoke
-
-![Up in Smoke](https://i.scdn.co/image/ab67656300005f1fd835bc33162bda04bd2b77e9)
-
-**Duration:** 00:29:57
-
-**Released:** 2024
-
-**Series:** Radiolab
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/2oShwZuOUsJ64ElWTYZIc5)
-
-[Open Series in Spotify](https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL)
-
-Two scenes. In the first, a doctor gets a call — the hospital she works at is having an outbreak of unknown origin, in the middle of the worst wildfire season on record. In the second, an ecologist stands in a forest, watching it burn. Through very different circumstances, they both find themselves asking the same question: is there something in the smoke? This question will bring them together, and reveal – to all of us – a world we never saw before. This is the first episode in an ongoing series hosted by Molly Webster, in conversation with scientists and science-y people, doing work at the furthest edges of what we know. More to come! Special thanks to Leda Kobziar, at the University of Idaho, and Naomi Hauser, at the University of California, Davis. Plus, James and Shelby Kaemmerer, and Paula and John Troche.We have some exciting news! In the “Zoozve” episode, Radiolab named its first-ever quasi-moon, and now it's your turn! Radiolab has teamed up with The International Astronomical Union to launch a global naming contest for one of Earth’s quasi-moons. This is your chance to make your mark on the heavens. Submit your name ideas now through September, or vote on your favorites starting in November: https://radiolab.org/moonEPISODE CREDITS: Hosted and Reported by - Molly WebsterProduced by - Sindhu GnanasambandanFact-checking by - Diane A. Kellyand Edited by  - Pat WaltersEPISODE CITATIONS:Articles - And lastly, wanna learn more about bacteria in snow-making machines – check out this New York Times article (https://zpr.io/t6HKi7HMuHMZ), or this science-explainer (https://zpr.io/VygRVBb5vspq)! Scientific Papers - Read Leda’s paper on microbes in smoke (https://zpr.io/d3JVm7gEf2dc)!For more details on the outbreak at Naomi’s hospital, you can check out this abstract of her findings (https://zpr.io/DGgS9UCFicpJ). Leda was inspired to stick petri dishes into smoke after reading a science research paper written by a father-daughter team, as part of a high school science project in Texas. Go read it (https://zpr.io/D3LVMy2raLr9)! Audio - For further fungal listening, Radiolab and Molly have covered fungus and hospital outbreaks (https://radiolab.org/podcast/fungus-amungus) before (plus: dinosuars!), in our episode Fungus Amungus.You can also listen to Super Cool (https://radiolab.org/podcast/super-cool-2017), a Radiolab episode about wild horses, microbes, and things freezing instantaneously. (It’s seriously one of Molly’s favorite Radiolab episodes and it has a moment of such SPONTANEOUS joy, she re-plays it at least once a year to smile.)Signup for our newsletter!! It includes short essays, recommendations, and details about other ways to interact with the show. Sign up (https://radiolab.org/newsletter)!Radiolab is supported by listeners like you. Support Radiolab by becoming a member of The Lab (https://members.radiolab.org/) today.Follow our show on Instagram, Twitter and Facebook @radiolab, and share your thoughts with us by emailing radiolab@wnyc.org.Leadership support for Radiolab’s science programming is provided by the Gordon and Betty Moore Foundation, Science Sandbox, a Simons Foundation Initiative, and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
 
 :::
 
@@ -3714,6 +3807,166 @@ Smoking in multi-unit housing poses serious health threats to children and adult
 
 ##### Transcript
 
+#### A public housing project where healthy living is the foundation
+
+**PBS NewsHour**, *07 07, 2017*
+
+##### Video (6:29)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/iXT_KYahGzQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+In downtown Denver, a recently built public housing project is designed to foster healthy living, with access to nutritious food, access to doctors and ease of exercise and public transportation. Jeffrey Brown reports.
+
+##### Transcript
+
+**0:00** · JUDY WOODRUFF: But first: an experiment in rethinking public housing that encourages healthier living by changing the larger environment for residents.
+
+**0:09** · Jeffrey Brown reports from Denver.
+
+**0:12** · JEFFREY BROWN: At age 71, Noel Taylor says she's become more active and health-conscious than ever before.
+
+**0:19** · NOEL TAYLOR, Denver: Every year, I improve my diet, I improve my exercise.
+
+**0:25** · JEFFREY BROWN: Her change in behavior didn't happen by accident.
+
+**0:28** · Four years ago, here in downtown Denver, Taylor joined an experiment in making healthy living part of the design and daily life of a public housing project.
+
+**0:38** · Among the amenities here, access to a garden plot.
+
+**0:42** · NOEL TAYLOR: I noticed, all summer long, I was getting healthier.
+
+**0:45** · The more of my own vegetables I was eating, the more energy I had.
+
+**0:51** · It's made a huge difference.
+
+**0:52** · JEFFREY BROWN: So, this sounds all too good to be true.
+
+**0:54** · NOEL TAYLOR: I know.
+
+**0:56** · (LAUGHTER) JEFFREY BROWN: And there's more.
+
+**0:58** · The Denver Botanic Gardens hosts a farmers market giving away free produce to residents.
+
+**1:03** · WOMAN: We're going to talk about how to shop healthy on a budget.
+
+**1:06** · JEFFREY BROWN: Another group offers classes on healthy recipes and shopping.
+
+**1:10** · MAN: Now we will take your blood pressure.
+
+**1:12** · JEFFREY BROWN: In a clinic on the ground floor of one building, public health physicians schedule regular visits to do routine checkups.
+
+**1:19** · There's a light rail stop, both for easy transportation and to get residents out of their cars.
+
+**1:25** · MAN: Do the other side now.
+
+**1:27** · JEFFREY BROWN: Plus, bike rentals and a nearby shop to teach kids how to maintain their bikes.
+
+**1:33** · Even the architecture and public art was designed to encourage residents to get outside and take a walk.
+
+**1:40** · ISMAEL GUERRERO, Director, Denver Housing Authority: We really wanted this to look like a neighborhood, not a development.
+
+**1:43** · JEFFREY BROWN: Ismael Guerrero, director of the Denver Housing Authority, says that, 10 years ago, this was a high-crime neighborhood, with 250 units of rundown public housing.
+
+**1:55** · Something had to be done.
+
+**1:56** · ISMAEL GUERRERO: What we learned in early conversations with residents in particular was, they didn't just want a new unit to move into.
+
+**2:04** · They wanted a better quality of life.
+
+**2:05** · So we really started expanding our perspective on what we were trying to accomplish here.
+
+**2:10** · JEFFREY BROWN: The result completed earlier this summer is the Mariposa development, a mixture of 800 apartments and town homes, one-third public housing, a third subsidized, and a third rented at market value.
+
+**2:24** · The overall cost was $150 million; $60 million came from federal, state and local government programs, with the rest coming through private investment.
+
+**2:34** · Already, Mariposa is becoming a model for rethinking public housing.
+
+**2:39** · ISMAEL GUERRERO: Part of it is physical health, and part of it is what we call neighborhood health.
+
+**2:45** · Right?
+
+**2:46** · How healthy is the place?
+
+**2:47** · Is it safe?
+
+**2:48** · Are there healthy activities for you to do?
+
+**2:50** · Is there healthy food in the neighborhood for you to go and eat?
+
+**2:53** · Is there a healthy economy where people can get jobs and start a business?
+
+**2:56** · JEFFREY BROWN: The Osage Cafe, located in one of the apartment buildings, is designed to meet some of those needs.
+
+**3:04** · In addition to the food, it provides culinary training and internships for young people in the neighborhood, like 20-year-old Israel Trejo.
+
+**3:12** · ISRAEL TREJO, Denver: And I think that's where I discovered I had a passion for cooking.
+
+**3:15** · JEFFREY BROWN: What did it give you?
+
+**3:16** · ISRAEL TREJO: It gave me the entire world, basically.
+
+**3:19** · Like, with the skills that I have learned now, I could go anywhere.
+
+**3:23** · I could go be anything.
+
+**3:24** · JEFFREY BROWN: Trejo now has a job at one of Denver's top restaurants, and plans to operate his own food truck soon.
+
+**3:30** · ANGELA RODRIGUEZ, Denver: Are you looking forward to helping me grow some fruits and vegetables?
+
+**3:36** · JEFFREY BROWN: Angela Rodriguez, a single mother of two teens, dreams of one day buying her own home.
+
+**3:42** · She has a full-time job at a nearby community college, but Denver's booming housing market makes ownership difficult.
+
+**3:50** · She lives in a subsidized town home at Mariposa, which she says is very different from the old-style projects she grew up in nearby.
+
+**3:57** · ANGELA RODRIGUEZ: As a new style of public housing, it did take me a little bit of time for the adjustment.
+
+**4:03** · When new tenants are mingling with other tenants that come from different walks of life, it's helping us to develop into new perspectives of modern living.
+
+**4:13** · JEFFREY BROWN: Rodriguez uses public transportation, has taken up gardening, and has fully embraced the culture of health that is promoted here.
+
+**4:22** · But is Mariposa working?
+
+**4:24** · It's too early for definitive answers.
+
+**4:27** · According to a 2015 study by the Denver Public Health Department, about half the residents had participated in health-related activities over the previous three years.
+
+**4:38** · But the study also showed the amount of exercise residents pursued had changed little.
+
+**4:43** · Just over a third said they exercised five times a week.
+
+**4:47** · About the same amount said they exercised one to four times a week, and 26 percent said they rarely or never exercised.
+
+**4:55** · Smoking rates decreased, but only slightly, from 30 percent of residents down to 24 percent.
+
+**5:01** · And these so-called active staircases, designed with a bit of whimsy...
+
+**5:05** · ISMAEL GUERRERO: It's a way to engage kids, and actually now the adults enjoy it.
+
+**5:09** · JEFFREY BROWN: ... to lure residents away from using the elevator.
+
+**5:12** · Well, so far, they're not having a big impact.
+
+**5:15** · THERESA MICKIEWICZ, Denver Public Health: We actually did observational counts, where we sat there and we counted people who used the stairs vs. people who used the elevator, and we compared it against a control staircase in the Mariposa redevelopment, and we found absolutely no difference.
+
+**5:32** · JEFFREY BROWN: Theresa Mickiewicz, an epidemiologist with Denver Public Health, is overseeing a study of the development.
+
+**5:38** · And while major improvements in health remain to be seen, she believes something important is happening here, and she expects the numbers to reflect that soon.
+
+**5:47** · THERESA MICKIEWICZ: While maintaining my objectivity as an evaluator, do I think that there is value in this type of project?
+
+**5:55** · I would say yes.
+
+**5:57** · Individually, these components have been shown in the evidence, in literature, to improve health outcomes.
+
+**6:04** · JEFFREY BROWN: The city of Denver is so confident in this new model, it's about to embark on a similar development that will be three times larger than Mariposa.
+
+**6:13** · That construction is expected to begin later next year.
+
+**6:17** · For the "PBS NewsHour," I'm Jeffrey Brown, reporting from Denver.
+
 #### America Made Its Most Toxic Lake. Now We Need What's Inside
 
 **PBS Terra**, *04 16, 2026*
@@ -3907,6 +4160,52 @@ Instagram:  https://instagram.com/pbsterra
 **15:02** · Happy Earth Month.
 
 **15:04** · PBS is celebrating by releasing a ton of great new episodes across all of our channels, diving deep into our amazing planet, like the latest episode of Nine PBS's "What Do I Do with This?", "Disc Junkies." This video explores how we consume media today. A super fun topic after a superfund video. You know, insert rim shot. All right, links to that video and the full Earth Month playlist are down in the description. (gentle music)
+
+#### Chicago trials rat birth control in Lincoln Park alleys to curb rat population
+
+**WGN News**, *09 09, 2026*
+
+##### Video (3:59)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/NsQbznQ5o0s title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Chicago has spent decades trying to get rid of rats. 
+
+Traps, poison, you name it. None of it has changed our title as the rattiest city in America, but in the alleys of Lincoln Park, a new experiment is asking a very different question: What is, instead of trying to kill the rats, we get them to stop making more?
+
+##### Transcript
+
+**0:05** · TRAFFIC UPDATE TO CHICAGO HAS SPENT DECADES TRYING TO GET RID OF RATS. THEY'VE USED WRAPS POISON. YOU NAME IT.
+
+**0:11** · NONE OF IT HAS CHANGED OUR TITLE AS THE READY. A CITY IN AMERICA.
+
+**0:18** · LOURDES DUARTE: WGN'S ERIN MCELROY IS HERE WITH THE STORY OF THE LATEST QUEST TO MAKE MAYBE FIGHT THIS PROBLEM, RIGHT? YOU'RE IN REPORT ON WE THAT TITLE, THOUGH, FOR LIKE 10 YEARS BREAKING WRITES, I YEARS ANYWAY TONIGHT, ALONG WITH THE WIND COME WITH ME TO THE ALLEYS OF LINCOLN PARK WHERE A NEW EXPERIMENT IS ASKING A VERY DIFFERENT QUESTION. WHAT IF INSTEAD OF TRYING TO KILL THE RATS, WE GET THEM TO STOP MAKING MORE.
+
+**0:50** · CHICAGO AND RATS HAVE BEEN SHARING ALLEYS FOR A VERY LONG TIME. NOT PARTICULARLY HAPPILY.
+
+**0:58** · JI SUK YI: THE CITY'S POLICE AND THEN TRAPPED IN COLLAPSED. THEIR BURROWS, EVEN PUMPED DRY ICE UNDERGROUND AND STILL.
+
+**1:01** · HERE WE ARE FOR 10 STRAIGHT YEARS. CHICAGO SENT A TOP ONE PEST CONTROL COMPANIES LIST OF AMERICA'S READY U.S. CITIES. WE FINALLY DROPPED TO NUMBER 2 LAST YEAR. NOT EXACTLY A SILVER MEDAL THAT ANYBODY WANTS. BUT TUCKED INTO 5 BLOCKS OF LINCOLN PARK, RESEARCHERS ARE TRYING SOMETHING NOVEL. THIS IS ALLY NUMBER ONE. JUST THREW TO THE TIME A JUDGE HERE AND WE HAVE.
+
+**1:29** · 3 BAIT STATIONS IN THIS ALLEY. THIS IS ONE OF GAYNOR HALL: 15 BAIT STATIONS. 5 ALLEYS MOTION ACTIVATED INSIDE THE BOXES OUR SAUSAGE IS YES, SAUSAGES THAT THESE GUYS COME WITH A LITTLE SOMETHING EXTRA BIRTH CONTROL. A LOT OF CARS AND A LOT OF SO IT'S VERY APPEALING TO THE ARREST, WHICH IS RELIABLE.
+
+**1:55** · THAT'S URBAN WILDLIFE ASSOCIATION LEAD RESEARCHER MAUREEN MURRAY, WHO SAYS THE CONTRACEPTIVE IS ACTUALLY COTTONSEED SINCE JUNE. A TEAM OF ROUGHLY 10 VOLUNTEERS HAS BEEN MONITORING THE BOXES AND CAMERAS.
+
+**2:07** · GAYNOR HALL: PART OF A COMMUNITY FUNDED PROJECT THAT'S RAISED MORE THAN $30,000 TO SEE WHETHER CONTROLLING REPRODUCTION MIGHT DO WHAT DECADES OF KILLING RATS HASN'T. EVERY FEW WEEKS RESEARCHER SARA JACOBSON COMES LOOKING FOR EVIDENCE IN KIND OF MEASURE. HOW THINGS ARE AT COME SOMETIMES THE RATS APPROACHED THE STATION AND NEVER GO IN.
+
+**2:26** · SOMETIMES THEY GO IN BUT SKIPPED DINNER AND EVERY ONCE IN AWHILE. OKAY. WE GOT SOME ACTION. ONE OF THESE SAUSAGES HAS RATS REPRODUCE. SO INCREDIBLY QUICKLY. THAT IS EXTREMELY HARD TO KILL FASTER THAN THEY CAN AGREE. THERE'S ANOTHER REASON THIS EXPERIMENT LANDED HERE. A FAMILY OF GREAT HORNED OWLS AND NORTH POND DIED AFTER EXPOSURE TO RAT POISON WAS MOTHER AND A FATHER AND JEW LIKE A BABY ALL AND ONE BY ONE.
+
+**2:55** · THEY ALL DIED OF RAT POISON. 70 1% OF THE RAT STRAPPED HAD VERDANT ASIDE IN THEIR BLOODSTREAM, BUT THEY WERE STILL RUNNING AROUND.
+
+**3:02** · JI SUK YI: SO THAT MEANS THAT, YOU KNOW, THEY WERE AVAILABLE TO BE PRAY FOR BIRDS.
+
+**3:11** · THEIR DEATHS HELPED GALVANIZE A PARTNERSHIP AMONG LINCOLN PARK ZOO CHICAGO BIRD ALLIANCE AND ALDERMAN TO MICAH KNUTSON. WE HAVE TO MOVE AWAY FROM RAT POISON BECAUSE IT'S KILLING OUR LOVE. LIKE WHICH IS WHY MOST OF VOLUNTEERS CHECKING THESE BIRTH CONTROL BAIT STATIONS ARE FROM THE CHICAGO BIRD ALLIANCE.
+
+**3:28** · THE REAL TEST FOR THE BIRTH CONTROL PROJECT COMES THIS SPRING WHEN RENT NUMBERS BEGAN CLIMBING AGAIN BECAUSE AFTER DECADES OF TRYING TO MAKE THREATS DISAPPEAR, THIS EXPERIMENT IS TRYING SOMETHING DECIDEDLY LESS DRAMATIC. IF YOU ARE RATS IN THE FIRST PLACE.
+
+**3:48** · AND RESEARCHERS WILL BE COMPARING THE FIVE-BLOCK AREA WITH THE CONTROL AREA WHERE CONTRACEPTIVE IS NOT BEING USED. THE LONG GAME IS NOT JUST THESE LOWER NUMBERS, BUT HERE WE GO FAR LESS
 
 #### City Hall's plans to put out new trash bins may impact street parking
 
@@ -5205,7 +5504,7 @@ TikTok: https://www.tiktok.com/@novapbs
 
 ##### Video (1:56)
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="700" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Description
 
@@ -5250,6 +5549,336 @@ For video licensing inquiries, contact: licensing@veritone.com
 **1:50** · SO WE'RE ESTIMATING AROUND 60,000 BINS.
 
 **1:53** · LOOK FOR THE PARTS OF BROOKLYN TO BE COMPLETELY CONTAINE
+
+#### What is Climate Change
+
+**CrashCourse**, *08 15, 2023*
+
+##### Video (13:57)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/Y1mPWVzaGQY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Life on Earth has weathered boiling-hot oceans and volcanic-ash-darkened skies—but that’s nothing like the climate change we’re experiencing now. In this episode of Crash Course Biology, we’ll talk about the greenhouse effect, learn why our climate is like a tangled pair of headphones, and discover that we’ve understood the science behind climate change for much longer than you might think. 
+
+Chapters: 
+
+Introduction to Climate Change 00:00
+
+The Greenhouse Effect 2:24
+
+Measuring the Greenhouse Effect 4:46
+
+Carbon Sinks 8:26
+
+Environmental Justice 10:07
+
+Review & Credits 12:09
+
+This series was produced in collaboration with HHMI BioInteractive, committed to empowering educators and inspiring students with engaging, accessible, and quality classroom resources. Visit https://BioInteractive.org/CrashCourse for more information.
+
+Are you an educator looking for what NGSS Standards are covered in this episode? Check out our Educator Standards Database for Biology here: https://www.thecrashcourse.com/biologystandards
+
+Sources: https://docs.google.com/document/d/1GLDtAXE6ekg4Chk2qN3TYbNt0pJbyaHqTqRd6QY8pd4/edit?usp=sharing 
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Tawny Whaley, Sean Saunders, Katie, Tori Thomas, DL Singfield, Ken Davidian, Stephen Akuffo, Toni Miles, Steve Segreto, Kyle & Katherine Callahan, Laurel Stevens, Burt Humburg, Aziz Y, Perry Joyce, Scott Harrison, Mark & Susan Billian, Alan Bridgeman, Rachel Creager, Breanna Bosso, Matt Curls, Jennifer Killen, Jon Allen, Sarah & Nathan Catchings, team dorsey, Trevin Beattie, Eric Koslow, Jennifer Dineen, Indija-ka Siriwardena, Jason Rostoker, Ken Penttinen, Nathan Taylor, Les Aker, William McGraw, ClareG, Rizwan Kassim, Constance Urist, Alex Hackman, Pineapples of Solidarity, Katie Dean, Stephen McCandless, Wai Jack Sin, Ian Dundore, Caleb Weeks
+
+__
+
+Want to find Crash Course elsewhere on the internet?
+
+Instagram - https://www.instagram.com/thecrashcourse/
+
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+
+Twitter - http://www.twitter.com/TheCrashCourse
+
+CC Kids: http://www.youtube.com/crashcoursekids
+
+##### Transcript
+
+###### Introduction to Climate Change
+
+**0:00** · Our planet has been draped in ice sheets, filled with boiling-hot oceans, and dimmed by volcanic ash – all before anything more complicated than a single-celled organism showed up.
+
+**0:10** · So climate change is nothing new around here… when it happens gradually, over millions of years.
+
+**0:17** · But something new has happened in the last few centuries.
+
+**0:20** · People like us…except, wearing hats like this… began burning fossil fuels like coal, oil, and natural gas to make energy.
+
+**0:29** · Most of us aren’t wearing hats like those anymore.
+
+**0:31** · But we’re still powering our daily lives and industries with those fuels, releasing billions of tons of carbon dioxide every year.
+
+**0:41** · And that’s caused Earth’s climate to change in the span of just a few human lifetimes, the geological blink of an eye.
+
+**0:48** · Hi! I'm Dr. Sammy, your friendly neighborhood entomologist, and this is Crash Course Biology!
+
+**0:56** · Hey, do you guys smell that?
+
+**0:58** · …smells like...
+
+**1:00** · theme music?
+
+**1:01** · [THEME MUSIC] Now, I know what you’re thinking.
+
+**1:12** · “Wait, isn’t this Crash Course Biology?”
+
+**1:15** · And yeah, this episode is heavy on the gases, low on the golgi bodies.
+
+**1:19** · And that might leave you wondering, what does climate change have to do with the science of life?
+
+**1:25** · Here’s the thing: life and climate are tied together, like that tangled pair of headphones at the bottom of your backpack.
+
+**1:30** · You know, like you tug one end and then a knot tightens, which is looped around a paperclip, somehow snagged on that tiny notebook where you drew hearts around your crush’s name, which after several tugs is now lying open on the floor and…I’m breaking into a cold sweat just thinking about it.
+
+**1:46** · But back to the point, we can’t talk about life without talking about climate —which doesn’t mean last week’s thunderstorm or a one-day temperature swing – that’s weather.
+
+**1:58** · Climate is long-term weather conditions averaged over many years.
+
+**2:03** · To understand the difference between them, just remember that knowing the weather will help you decide if you should grab an umbrella before you head out, but knowing the climate will help you decide if you should invest in a good air conditioner.
+
+**2:15** · While the weather might impact your choice of clothing for the day, the climate directly impacts where and when different kinds of life can survive.
+
+###### The Greenhouse Effect
+
+**2:24** · We owe today’s climate to the fact that our little green-and-blue marble of a home isn’t just floating in space unprotected.
+
+**2:31** · It’s wrapped up in an atmosphere; a big, invisible, gassy jacket.
+
+**2:35** · Which, granted, sounds pretty weird when you put it that way.
+
+**2:38** · But without it, we wouldn’t exist.
+
+**2:40** · This jacket is made of different kinds of gases.
+
+**2:43** · And a small fraction of them, known as greenhouse gases, absorb solar energy like, super well.
+
+**2:49** · We’re talking about gases like methane, water vapor, and most importantly carbon dioxide – also known as CO2.
+
+**2:58** · They account for less than half of one percent of our atmospheric jacket.
+
+**3:03** · But they’re a part of what makes it so good at trapping heat, sort of like all the little white feathers in your puffy coat.
+
+**3:09** · When sunlight beams down from space, most of it travels through those gases with no problem.
+
+**3:14** · The energy from that sunlight gets absorbed as it strikes the Earth, warming the surface.
+
+**3:19** · That type of warming is normal and seasonal.
+
+**3:22** · The Earth naturally bounces some of that solar energy back toward space.
+
+**3:27** · Where some of it exits the atmosphere and heads right back out into the inky ether.
+
+**3:32** · But the rest of that energy gets trapped by the Earth’s gassy jacket.
+
+**3:36** · Specifically by those super absorbent greenhouse gases, which suck up heat and bounce it back down to us again.
+
+**3:44** · This warming process is called the greenhouse effect.
+
+**3:47** · Unsurprisingly, It works the same way as a greenhouse – using layers of glass to trap heat inside.
+
+**3:54** · And it keeps Earth at a nice, cozy, insulated average of 14 degrees Celsius.
+
+**4:00** · Without it, our Earth would be a chilly average of -18 degrees Celsius.
+
+**4:06** · Great for storing ice cream!
+
+**4:08** · Not so good for rainforests, swimsuits, or us for that matter.
+
+**4:13** · So, the greenhouse effect is a natural, helpful process that makes Earth habitable for all of life!
+
+**4:18** · But you can have too much of a good thing.
+
+**4:21** · When our atmospheric jacket contains more carbon dioxide, for example, it gets really good at trapping heat.
+
+**4:28** · Like, too good.
+
+**4:30** · And the hotter things get, the more water evaporates and joins the atmosphere— and remember, water vapor itself is a greenhouse gas, so that in turn absorbs even more heat, creating a looping system of cause-and-effect that just keeps reinforcing itself.
+
+###### Measuring the Greenhouse Effect
+
+**4:46** · And while dressing in layers is great if you’re hiking in the Alps, it’s really hard for our planet to shed its extra coats.
+
+**4:52** · So all of that heat gets stuck going from the ground to the atmosphere like the worst game of hot potato ever played.
+
+**4:59** · When I learned about this, I was like, "Wow, what a revelation!
+
+**5:03** · I can’t believe we’ve only recently figured this out!"
+
+**5:05** · But it turns out that this isn’t new knowledge; we’ve known how, and why, this could happen for nearly 170 years.
+
+**5:16** · Let’s pay a visit to the Theater of Life… [Inquisitive music] Back in 1856, Eunice Foote, an American scientist and suffragette, was thinking about how the Sun’s warmth affected different gases.
+
+**5:27** · In those days, the scientific community was a bit like a fort with a handmade “no girls allowed” sign out front.
+
+**5:34** · But Foote wasn’t deterred, and ran her experiments anyway.
+
+**5:38** · She filled tubes with different combinations of gases, including carbon dioxide.
+
+**5:42** · After putting some tubes in the Sun and some in the shade, she compared their temperatures, trying to find the hottest gas.
+
+**5:50** · All the tubes in direct sunlight warmed up.
+
+**5:52** · But none as intensely as the tube that contained carbon dioxide.
+
+**5:57** · The temperature had soared to 51.7 degrees Celsius, hot enough to burn your fingers.
+
+**6:04** · From that insight, Foote theorized that if our atmosphere ever contained more carbon dioxide, the whole planet would warm up as a result, which would mean a lot more than a few scalded fingers.
+
+**6:16** · And sure enough, today, that’s exactly the situation we’re in.
+
+**6:20** · Foote was one of the first scientists to recognize carbon dioxide’s potential to affect Earth’s climate.
+
+**6:25** · But she wasn’t the only one to connect the dots.
+
+**6:28** · For example, just a few decades later, another scientist named Dr. Svante Arrhenius observed that burning coal releases carbon dioxide.
+
+**6:37** · As a fossil fuel, coal forms from the decomposed, carbon-based bodies of plants and animals that lived and died a long time ago.
+
+**6:46** · And I’m talking before the dinosaurs.
+
+**6:48** · So no, I’m afraid that means you aren’t gassing up your car with the remains of a T-Rex.
+
+**6:53** · When we burn those fossil fuels— whether it’s in the form of coal, oil, or natural gas— carbon dioxide gets released into the atmosphere.
+
+**7:00** · When Arrhenius ran the numbers, he predicted that carbon dioxide released by burning fossil fuels could warm our climate within a few thousand years if we kept burning them at their current rate.
+
+**7:14** · But we’ve far outpaced his estimates.
+
+**7:16** · Our emissions of carbon dioxide have grown and grown and grown — and so has the mountain of evidence that those emissions are warming our planet.
+
+**7:25** · Some oil and gas companies have worked to promote uncertainty around the existence of climate change and what’s causing it.
+
+**7:32** · While they have only very recently acknowledged its existence, as of 2023, they're still trying to deflect from what's causing it.
+
+**7:40** · But the scientific consensus on this is overwhelming.
+
+**7:44** · You can learn much more about that in our Climate &amp; Energy series.
+
+**7:47** · We’ve only been reliably taking direct measurements of Earth’s global temperature since the 19th century.
+
+**7:52** · But that measly slice of time shows a steady rise in temperature of about 1.1 degree Celsius since 1880.
+
+**8:01** · And we know that that’s unusual because we’ve learned to read Earth’s much longer climate diary, in the form of ice cores.
+
+**8:07** · See, when snow hardens into ice, tiny bubbles of air remain trapped in the gaps between snowflakes.
+
+**8:13** · These gases and water molecules stay frozen, like entries in a frosty journal.
+
+**8:19** · So by drilling deep down into polar ice, we can snoop on what the atmosphere was like hundreds of thousands of years ago.
+
+###### Carbon Sinks
+
+**8:27** · Ice cores show us that carbon dioxide levels have fluctuated over the past 800,000 years.
+
+**8:32** · And temperatures have fallen and risen alongside them, too.
+
+**8:36** · But when people started burning fossil fuels, carbon dioxide levels began to spike quickly, like really, really quickly.
+
+**8:44** · And they haven’t stopped rising.
+
+**8:45** · Before the Industrial Revolution, for every million molecules of air in our atmosphere, around 280 were carbon dioxide molecules.
+
+**8:54** · But by 2022, that number had increased to 422 —the highest concentration of CO2 our planet has seen in 4 million years.
+
+**9:06** · And that surge in carbon dioxide affects more than just the temperature.
+
+**9:10** · As the amount of carbon dioxide in our atmosphere rises, it impacts all of Earth’s systems.
+
+**9:15** · Just like yanking on the end of that tangled mess of headphones impacted all of the other items in my bag (and eventually, everybody around us when stuff started falling out).
+
+**9:24** · It’s all connected, is what I’m saying.
+
+**9:26** · For example, the ocean is our planet’s largest carbon sink.
+
+**9:31** · It’s sort of like a big storage container for carbon.
+
+**9:34** · In fact, the ocean holds 50 times more carbon than the air or soil do.
+
+**9:40** · But a chemical reaction happens when carbon dioxide meets water, it creates an acid.
+
+**9:45** · So that influx of carbon has already turned the ocean 30% more acidic since the 19th century.
+
+**9:53** · As carbon dioxide and other greenhouse gases trap more heat, there’s more energy pouring into our planet than going out.
+
+**9:59** · That means more energy is pumped into the ocean, fueling hurricanes and typhoons to become more frequent and more intense.
+
+###### Environmental Justice
+
+**10:07** · As the whole planet gets hotter, that triggers all kinds of changes.
+
+**10:11** · Spring arrives earlier, leading to shorter winters and longer summers.
+
+**10:15** · Rising temperatures lead to double-whammy droughts and heatwaves.
+
+**10:19** · And that leaves forest floors full of dried-up plants that serve as fuel for wildfires to ignite— spreading faster, farther, and more often.
+
+**10:28** · Plus, Earth’s polar ice caps are melting, transforming solid ice to slush and seawater.
+
+**10:34** · And that’s causing ocean levels to rise and encroach on land.
+
+**10:38** · So while some communities are already facing a problem of not enough water, others are facing a problem of too much.
+
+**10:45** · And because these adverse changes layer on top of existing social inequalities, they disproportionately affect lower-income communities and people of color, making climate change not only a scientific issue, but a matter of environmental justice that has spurred some researchers to political action.
+
+**11:02** · For example, climate scientist Nicole Hernandez Hammer witnessed first-hand, through her field research, the sea-level rise alongside Miami Beach’s Latino communities.
+
+**11:12** · But these communities were not included in conversations about climate change or the dangers of rising sea levels.
+
+**11:18** · So, Hammer took action, moving into environmental outreach and education.
+
+**11:23** · And, while the threat is still there, these communities are now in conversation about climate change, and able to plan and advocate for the future of their environment.
+
+**11:33** · And the good news more broadly is we know exactly why these tangled, complex effects are happening.
+
+**11:39** · The more we burn those fossil fuels, the more greenhouse gases we release —and that’s driving sweeping changes all over our planet.
+
+**11:47** · And these changes are impacting life at all levels from the tiniest bacterium, to the elephants of Botswana, to you and me.
+
+**11:55** · We can slow these impacts by breaking up with fossil fuels.
+
+**11:58** · But we also have to invest in nature’s carbon sinks —such as soils and forests— which pull carbon out of the atmosphere and back into the land, where it can’t keep heating things up.
+
+###### Review & Credits
+
+**12:09** · It won’t be the easiest breakup.
+
+**12:12** · We’ve designed whole societies and global systems around fossil fuels.
+
+**12:16** · We should fully expect to be listening to Jazmine Sullivan on repeat with a gallon of Rocky Road.
+
+**12:21** · But this is one relationship we can't afford to stay in.
+
+**12:24** · So, in order to halt emissions, we have to both invent new systems and work more efficiently within old ones, and to do that, we’ve got to get a whole planet’s worth of people on board.
+
+**12:35** · And if you’ve ever been part of a group project, you know that last part isn’t easy.
+
+**12:39** · Thankfully, when faced with global crises, humans have one great thing going for us: we are creative.
+
+**12:46** · I mean, we’ve been to space, we’ve got electric cars, we made furbies for some reason.
+
+**12:53** · So yes, It’s going to take all of our creativity and cooperation to tackle.
+
+**12:58** · But the only way out is through, and the only way through is together.
+
+**13:04** · In our next episode, we’ll tune back into the world of living things— and see how our rapidly changing climate involves much more than the atmosphere.
+
+**13:12** · It affects every living, breathing, organism on this planet— including you and me.
+
+**13:18** · This series was produced in collaboration with HHMI BioInteractive.
+
+**13:22** · If you’re an educator, visit BioInteractive.org/CrashCourse for classroom resources and professional development related to the topics covered in this course.
+
+**13:32** · Thanks for watching this episode of Crash Course Biology, which was filmed at our studio in Indianapolis, Indiana, and was made with the help of all these nice people.
+
+**13:41** · If you want to help keep Crash Course free for everyone, forever, you can join our community on Patreon.
 
 #### What we know about toxic ‘forever chemicals’ and how to reduce our exposure
 
@@ -5894,3 +6523,1317 @@ Newsletters: https://www.pbs.org/newshour/subscribe
 Filmed during the hottest days of Phoenix, Arizona’s summer heatwave, A NEW INFERNO follows paramedics as they race to save the lives of heatstroke victims using a radical new treatment: ice immersion therapy.  As featured on the NY Times Op Docs — We Are Living in a New Inferno  World Premiere SXSW Film Festival, 2026  Featuring Jason Smith, Jake West, Roy Lewis, & Colter Fosdick Directed & Produced by Nita Blum-Reddick & Jonathan Pickett Executive Producers Sam Osborn, Alejandra Vasquez, & Jesse Ray Sheps Cinematographer Ryan Dent  Editor Jonathan Pickett  Composer Jack Gillette Production Sound Mixer Daniel Reddick  Grips Stephane Strande & Brian Osback Sound Design & Mix Hansdale Hsu Colorist Keyhan Bayegan Production Assistant Camden Smith Title & Poster Designer Jason Cryer Weather Consultant Jorge Torres Advisors Dr. Charles Finch, Medical Director, Phoenix Fire Department & Maki Lloyd, Deputy Chief, Phoenix Fire Department  For The New York Times Op-Docs: Associate Producers Ingrid Homquist & Rebecca Shaid Producer Yvonne Ashley Kouadjo Senior Producer Andrew Blackwell Executive Producer Alexandra Garcia  Please consider supporting the ongoing work of Circle the City: www.circlethecity.org  Festivals: • Tribeca x NYT Op-Docs • Mountainfilm • Rooftop Films • Palm Springs International ShortFest • Indy Shorts Film Festival • HollyShorts Film Festival • Nashville Film Festival • Bend Film Festival • Mill Valley Film Festival • Sidewalk Film Festival • deadCenter Film Festival • Ouray International Film Festival • Cinema Columbus • AfterImage Film Festival • Coast Film Festival
 
 ##### Transcript
+
+#### The Urban Jungle
+
+##### Human Footprint  The Urban Jungle  Season 1
+
+>Episode 5 of Human Footprint (Season 1)
+>- *Released: 2023-08-02*
+>- *Duration: 00:54:41*
+
+[***More details on pbs.org***](https://www.pbs.org/video/the-urban-jungle-7grk9d/)
+
+<iframe width="560" height="315" title=Human Footprint  The Urban Jungle  Season 1 allow="autoplay; encrypted-media; fullscreen" allowfullscreen="" src=https://player.pbs.org/portalplayer/the-urban-jungle-7grk9d/?uid=2486c076-d951-436d-bf82-bac59b0b60f5&amp;userPassportStatus=yes&amp;callsign=KUON&amp;station_id=b107784d-680c-48d5-8d48-ccb870cbb9dc&amp;unsafeDisableUpsellHref=true&amp;autoplay=true&amp;unsafeDisableContinuousPlay=true\></iframe>
+
+###### Description
+
+Shane explores three thriving urban species and envisions a wilder future for our cities.
+
+###### Transcript
+
+Shane, voice-over: Once upon a time, the Lenape called this place "Manahatta."
+
+A land of densely forested hills and slow-flowing streams... ...it was, as Henry Hudson wrote in 1609, "as pleasant a land as one need tread upon."
+
+Today, all that remains of that place is the ground I'm standing on.
+
+Rakim: If you was born in New York City Let me year you say, "You know that" Crowd: You know that!
+
+In just a few hundred years, we cut down the forests, rerouted the streams, and leveled the hills.
+
+In their place, we constructed a labyrinth of tunnels and pipes beneath a grid of asphalt streets lined with towers of concrete, glass, and steel.
+
+In the blink of an eye, "Manahatta" became Manhattan.
+
+Nas: Yeah, yeah Nas: Yo, black it's time word?
+
+Today, half of all humans-- more than 4 billion people-- live in cities.
+
+But they're not just a place to live.
+
+Cities are a new ecosystem spreading across our planet.
+
+One made by us, for us.
+
+So how is this purpose-built human habitat treating us?
+
+And what will it take to keep these urban jungles wild?
+
+Nas: To the New York state of mind [Horns honking] Welcome to the Age of Humans... where one species can change everything and what we do reveals who we truly are.
+
+This is "Human Footprint."
+
+The idyllic Manhattan of yesteryear was shaped by beavers, hydrological engineers whose vast earthworks transformed the entire ecosystem.
+
+We humans alter the landscape, too.
+
+We just do it bigger.
+
+Humans have been called the ultimate ecosystem engineers.
+
+And here in New York City, our talents are on full display.
+
+Chorus: In Napoli where love is king When boy meets girl Simmering beneath this iconic skyline is a melting pot of more than 8 million people who speak 200 different languages and eat at over 1,400 pizzerias.
+
+Man: As a New Yorker, I always lean towards pepperoni.
+
+Shane: I can respect that.
+
+Shane, voice-over: Bobby Corrigan is one of those 8 million New Yorkers.
+
+He loves everything about this place: a good slice of pepperoni, the city lights, and, oh, yeah...rats.
+
+In college, I had to save money, so I took a job as an exterminator.
+
+They put me in the sewers right away... and I thought, "Oh, this is cool."
+
+Literally working your way from the bottom up.
+
+Exactly.
+
+Shane, voice-over: Bobby spends his free time writing poetry on the street, but by day, he's a world-renowned urban rodentologist.
+
+Are rats the scourge that people make them out to be?
+
+I admire them.
+
+I respect them.
+
+However, they live in dirty areas.
+
+Shane, voice-over: And, uh, that dirt got cooties.
+
+It's viruses, bacteria, fungi, protozoans.
+
+55 different diseases.
+
+55?
+
+55.
+
+Wow.
+
+OK. And think of the plague, Shane.
+
+You know, I mean, 25 million people go down with the black rat and their fleas.
+
+Yeah.
+
+Shane, voice-over: No place needs Bobby's expertise more than New York, where it seems like rats are pretty much everywhere.
+
+Here we are, sitting at a restaurant.
+
+If that door over there is not pest proof into the pizza shop, across the kitchen counter, and urinates and defecates and leaves a film, and then someone touches the film the next morning, and then, you know, boom.
+
+This pizza's tasting a little less good now.
+
+Ha!
+
+Yeah.
+
+Shane, voice-over: It was time to walk off that pizza on what Bobby calls a rat safari.
+
+We're gonna cross over here, Shane.
+
+There's a park here.
+
+Here we are, almost at the end of June.
+
+You know, their breeding season is in full swing.
+
+Love is in the air.
+
+Love is totally in the air, and families are growing.
+
+Narrator: We know that rats are the most prolific of all mammals.
+
+A single pair of rats would become 360 million in the short space of 3 years.
+
+As the sidewalks begin to deteriorate, the rats will move below the sidewalks for their burrows.
+
+You're literally sometimes walking right over the tops of the heads of rats.
+
+Sometimes, rats will go right up the tree if there's a bird nest up there.
+
+They're predacious on those birds.
+
+Is the reason why you're wearing the hard hat because a rat might jump out of the tree onto you, and is that something I need to worry about?
+
+Actually, that would be cool if they would jump onto me.
+
+I'd like that a lot.
+
+[Laughs] Shane, voice-over: The longer rats live in our cities, the better they get at it... and the harder we try to keep them out.
+
+Here we have something that's very common: the bait box.
+
+The rats will go inside that box and find the poison bait.
+
+And 8, 9, 10 days later, they die.
+
+Shane, voice-over: But no matter how much poison we throw at the problem, we're also throwing rats a lifeline.
+
+Bobby: The rats are gonna be where the food is easy to get to.
+
+All they have to do-- 50 feet away, right there.
+
+Shane, voice-over: New York City has 25,000 restaurants-- not counting the pizzerias-- and millions of home chefs.
+
+3 nights a week, every one of them puts their trash not in a dumpster, not in a can with a lid, but right on the curb.
+
+Bobby: Food in a big city of high-density humans?
+
+Extremely reliable.
+
+So this becomes, like, basically the rat buffet.
+
+It does.
+
+Shane, voice-over: They say if you can make it here, you can make it anywhere.
+
+And rats...well, they made it.
+
+But how did they get here in the first place?
+
+[Squeaking] Man: If we want to know the story of rats in New York City, we have to know what were they doing before they got here.
+
+Shane, voice-over: This is Jason Munshi-South.
+
+He's a biologist who loves New York City almost as much as he loves rats.
+
+[Ships' horns blare] When the brown rat made it here, it sort of hit the jackpot.
+
+Shane, voice-over: The brown rat, or Rattus norvegicus, probably originated in East Asia, where it was first drawn to human settlements by agriculture.
+
+But as people around the world moved into dense cities full of trash, human waste, and safe hiding places, rat populations soared.
+
+Without meaning to, we built a rat paradise.
+
+Narrator: Rats don't have to go to much trouble to find homes because we provide these for them, made to order, everything but the welcome mat.
+
+It's like, "Oh.
+
+There's this massive free food here now, and all I gotta do is hang around these people."
+
+Shane, voice-over: At the height of European imperialism, rats were already entrenched in cities and ports across the Old World.
+
+So when European explorers sailed west into the unknown, rats did what they've always done and came along.
+
+Where we are now is where the Dutch bought the island or stole the island.
+
+I put my money on stole, but go ahead.
+
+But the original... Shane, voice-over: By the early 1900s, it wasn't just white human settlers who'd colonized all of North America.
+
+It was also rats.
+
+But not all rat habitat is created equal.
+
+I'm gonna show you some different pressures in different parts of the city.
+
+OK. We're gonna go get that New York City tour.
+
+Yeah, let's do it.
+
+All right, awesome.
+
+[Engine revving] [Woman singing indistinctly] Jason: Yeah, as you're driving from Battery Park, where the rats first came in, up to here, you know, this is one of the great rat neighborhoods of the world.
+
+[Shane laughs] Shane, voice-over: But if you keep rolling north, the whole vibe changes.
+
+And Jason's got the data to prove it.
+
+Jason: We got basically about 70,000 points where rats have been identified.
+
+And this is the outcome of the map, where the green areas are really good rat neighborhoods, like where we are right now, right about there, near Tompkins Square.
+
+But then see this red area here south of Central Park?
+
+-Uh-huh.
+
+-That's Midtown, where there isn't a lot of residential.
+
+The companies pay extra money to have the streets cleaned up.
+
+And it seems to create this almost, like, dead zone for rats.
+
+Shane, voice-over: Jason can predict the size of rat populations in different neighborhoods by looking at data on humans.
+
+Jason: Areas that are highly residential and mixed commercial that have a lot of restaurants, super predictive of rats, not surprisingly.
+
+And older neighborhoods with older buildings, they really like that.
+
+Shane, voice-over: The places where rats have food to eat and places to hide are the places they thrive.
+
+On the flip side, take those things away and the rats disappear, too.
+
+It seems so simple.
+
+And yet, somehow... Bobby: Go to any city around the world and it's plagued with rats.
+
+We are not winning this war.
+
+Shane, voice-over: Rodenticides, or rat poisons, have become a go-to weapon in the war on rats.
+
+But rats are becoming resistant, pushing people to switch up the formula and apply even more rodenticides to keep rat populations in check.
+
+And it's not just poisons.
+
+Our campaign against rats has grown into a $3 billion-a-year effort, involving legions of people around the world.
+
+We've even conscripted other species into the war effort.
+
+[Indistinct chatter] All right.
+
+So this is our service center.
+
+Shane: It's like the gym, playhouse, sauna, exercise room, all together.
+
+OK. All together, all together.
+
+Shane, voice-over: When Scott Mullaney and his wife Angie aren't cruising down a scenic highway... [Revving] ...they're training little dogs to do a big job.
+
+[Engine revs, tires squeal] Instead of poison or traps, their company uses dogs to kill rats.
+
+It's actually nothing new.
+
+As cities grew bigger and denser in the 19th century, rat populations exploded, and people created whole new dog breeds just to kill them.
+
+We've worked them on top of 12-story buildings.
+
+We've worked them in supermarkets.
+
+We've worked them on airplanes.
+
+We've worked them on trains, on trains, planes, and automobiles.
+
+I mean, really, any environment you can think of.
+
+Shane, voice-over: Over the years, Scott and Angie's small team has killed more than 30,000 rats.
+
+Scott: All right, you're gonna leash up.
+
+Here ya go, kid.
+
+There ya go.
+
+Dogs always give 100%.
+
+They just love what they do.
+
+We're just gonna finish up so we can close up and go.
+
+Last but not least.
+
+[Engine starts, revs] [Distant siren] [Squeaking] OK, guys, so what we're gonna do is, we're just gonna take the leashes off the dogs.
+
+I want to start right over here.
+
+And you can see his kinetic energy.
+
+He just-- he's on point right now.
+
+He knows what the deal is.
+
+Take the leash off and unleash them now.
+
+Shane: It's game time.
+
+Scott: OK, we got something over here!
+
+[Growling] Angie: Wooo!
+
+Shane: Wow!
+
+Scott: Good job.
+
+This is bananas.
+
+Shane, voice-over: It looks like chaos, but this is actually highly coordinated.
+
+The dogs find the rats with their keen noses.
+
+The handlers move dumpsters and pallets to expose them, and the dogs finish the job.
+
+Yep.
+
+Inside the bait box.
+
+Shane, voice-over: Oh, and the hockey sticks?
+
+Those are for cutting off escape routes.
+
+Angie: Wooo!
+
+Ohh!
+
+Shane, voice-over: The dogs look like they're having a blast.
+
+The rats?
+
+Well, not so much.
+
+Scott: It's still alive.
+
+Hold on for a second.
+
+Shane: Oh, my God!
+
+Angie: Hey!
+
+Scott: Yep.
+
+Yeah, just make sure that nothing takes off the other way.
+
+Angie: Good job, guys!
+
+Scott: OK, we've got something over here, I think.
+
+[Soft crunching] There are things that I have seen that I cannot unsee, and I will be having a whole different kind of nightmare from now on.
+
+[Both laugh] What do you think our situation with rats says about us?
+
+I think it's pathetic.
+
+As long as human beings continue with their sanita-- poor sanitation habits, OK, and their lack of concern, we will never get rid of rats.
+
+They're here to stay.
+
+Shane, voice-over: When people come together to live in cities, we create the perfect environment for rats.
+
+They've been living with us for centuries.
+
+When European settlers brought them to the New World, rats just had to keep doing what they were best at to thrive here, too.
+
+But further south, in the Caribbean, another species is evolving before our very eyes to fit into an ever-more-urbanized world.
+
+[Horn blares] Juan Ponce De Leon founded the settlement that became San Juan, Puerto Rico, in 1508, making it one of the oldest colonial cities in the Americas.
+
+500 years later, that tiny colony has grown into the third-largest city in the Caribbean Islands.
+
+But amazingly, you can still see native wildlife here.
+
+If you walk through the city, you'll just see them on everything.
+
+Shane, voice-over: Kristin Winchell is an expert in urban evolution.
+
+She studies lizards called anoles, which live all over the American tropics.
+
+For Kristin, anoles aren't just a scientific inspiration.
+
+They're also her artistic muse.
+
+[Foamer sputtering] So for you, I guess first of all, what is the greatest animal, and why is it anoles?
+
+Ha ha!
+
+I don't know.
+
+They're just fantastic, little critters.
+
+They're so expressive and so charismatic.
+
+And, I mean, they're also great for scientific study.
+
+Shane, voice-over: If you can't tell, I'm a big anole fan, too.
+
+I used to catch them as a kid in South Carolina and I've been studying them since grad school.
+
+In fact, Kristin and I actually work together on anole research here in Puerto Rico.
+
+So of all the places to study these lizards, why cities?
+
+But I feel like most people, they're like, "OK, I want to study them, like, in forests," and things like that.
+
+You decided to go study them in the city.
+
+It was because I was looking for a species that might be adapting to urban environments.
+
+I came across anoles and started reading about their rich evolutionary history and rapid change after you modify the environment.
+
+Shane, voice-over: Anoles might seem like unlikely science heroes, but biologists have been studying them for decades and published literally thousands of papers on them.
+
+There are more than 400 species of anoles that live throughout the Caribbean, Central and South America, and the Southeastern U.S. And I just had this moment where I was like, "If this is happening, it's in these guys."
+
+Shane, voice-over: Once you know what you're looking for, anole adaptations can be easy to spot.
+
+You see, species that live in different habitats have different traits: big toe pads that help them stick to leaves in the treetops; long legs that allow them to run fast on the ground; short legs that help them climb without falling on the tiniest twigs; and so on.
+
+Kristin's question was, which of these traits, if any, would help anoles survive in the city?
+
+Kristin: All right, let's find some lizards.
+
+Shane, voice-over: Kristin and I study the Puerto Rican crested anole.
+
+Step one is to find out whether urban and forest anoles are different from one another.
+
+Kristin: Say it, and the lizard gods will deliver.
+
+Yeah, there's a female right there.
+
+Shane, voice-over: So we hit the streets to catch some lizards.
+
+Kristin: Oh, she's squirrely.
+
+Shane: You're too slow, K. Stop embarrassing yourself on TV.
+
+I had one and then I let--yeah, OK.
+
+Thanks, Shane.
+
+Ha ha ha ha!
+
+That's real nice.
+
+Invite me on your show and then make fun of me.
+
+Shane: Ha ha ha ha!
+
+Shane, voice-over: Catching anoles is a delicate scientific process involving a fishing pole and some string.
+
+Luckily, I came prepared... maybe a little too prepared.
+
+Who comes out catching anoles in flip-flops?
+
+This is how you catch urban anoles!
+
+You don't need those big boots.
+
+[Laughs] You go out in your hiking boots and your field clothes, well, you're gonna get a lot of looks.
+
+You dress casual like you're going out on-- for a little walk, even bring a little boom box with you.
+
+That helps a lot, 'cause no one walks around doing sketchy stuff listening to reggaeton.
+
+Kristin: Got him first.
+
+Shane: Ha ha ha!
+
+Hey, bud.
+
+We measure with a digital X-ray the--all the bones in the body.
+
+And you can see that they have these enlarged toe pads on the fore and the hind feet.
+
+And so if you were to zoom way in on those, you'd be able to see these tiny scales, and those let the lizards cling to the smooth surfaces.
+
+Shane: So for the Puerto Rican crested anole, what did you find?
+
+One of my initial findings was that in the city, the lizards had longer limbs relative to their body length, larger toe pads with more of these specialized scales on the toe pads.
+
+OK. Shane, voice-over: These are exactly the kinds of adaptations you might expect to see in cities, based on what we already know about anoles living elsewhere.
+
+Kristin: They're clinging to things like glass and metal and even painted concrete, which is a lot smoother than anything you find in the forest.
+
+And so there's kind of this combined selective pressure on toe pads, making them able to cling better, and limb length, making them able to navigate the structural environment better.
+
+OK. Shane, voice-over: The urban lizards were different, but the real test was whether they could actually outperform their forest-dwelling counterparts when facing a uniquely urban challenge.
+
+So I set up a lizard racetrack, and I fitted the racetrack with different surfaces.
+
+One was tree bark, one was metal, like fence post metal, and then one was painted concrete.
+
+And then I took high-speed video of these lizards racing up the racetracks.
+
+And what I found was-- or what I expected, rather, I should start there, is that the urban lizards would be able to run faster on the concrete and the metal and the urban substrates.
+
+Those are the environments that they were living in.
+
+Yeah, exactly.
+
+And so they'd be better at doing that than the forest lizards.
+
+What I found, though, was that the urban lizard's just faster overall.
+
+On anything.
+
+On anything.
+
+Even, like, bark and stuff that's in forests.
+
+Yeah, even bark, no matter what angle, no matter what structure we put on the track surface, they were faster.
+
+They're just hot rods.
+
+Mm-hmm.
+
+Shane, voice-over: In grad school, I studied how anoles in Texas-- where the Polar Vortex causes rare but intense cold snaps-- were adapting to the cold.
+
+When I found out about Kristin's work in cities, I realized her urban anoles could be facing a different kind of extreme.
+
+Kristin: When I came down and tried out this big idea of "are anoles adapting to cities," one of the things that I measured was body temperature and air temperature.
+
+Shane, voice-over: Cities create what scientists call "urban heat islands," areas with much hotter temperatures than the surrounding landscape.
+
+So a few years ago, Kristin and I decided to find out how urban and forest anoles responded to extreme heat.
+
+Sure enough, urban anoles could take the heat better than forest anoles, and we even found a few of the genes that affect heat tolerance.
+
+These adaptations aren't unique to any one city.
+
+We found the same differences between urban and forest anoles again and again, all over Puerto Rico.
+
+We can think of cities as the big Petri dishes that are replicated on a much larger scale.
+
+Shane, voice-over: No two cities are exactly alike.
+
+But for anoles, all cities have some things in common.
+
+To survive on the streets, crested anoles evolved longer legs, bigger toe pads, and better heat tolerance than their forest relatives.
+
+And it happened fast.
+
+Some of our urban study locations have only been cities for 30 years.
+
+That's evolution in overdrive, even in lizard time.
+
+So is this a feel-good story of animal adaptability?
+
+Kristin: I think it's a big mistake for us to think that all animals are gonna be able to adapt their way out of this.
+
+We still are going to lose a lot of species as urbanization progresses.
+
+OK. Shane, voice-over: Only two of Puerto Rico's 10 anole species are found in cities, and just one, the crested anole, is really thriving.
+
+So yes, some species can adapt, but the ones that don't get squeezed out.
+
+Kristin: I mean, that's another reason why we should be studying the plants and animals that are doing well here, so that we can maybe engineer cities to be a little more favorable to wildlife.
+
+Shane: So typically, when we think of ecosystems, right, we think of things like forests or deserts.
+
+Should we consider cities as ecosystems as well?
+
+Yes, absolutely.
+
+And we should consider them as distinct ecosystems, just like we do all those others.
+
+Shane, voice-over: Some folks aren't as comfortable as Kristin with calling cities ecosystems.
+
+But the more I learn about urban biology, the harder I find it to think of them as anything else.
+
+Still, San Juan is no Serengeti.
+
+For one thing, I don't see any big predators in the streets.
+
+But in major U.S. cities, that's beginning to change.
+
+With the second-highest population density in the U.S., right after New York City, San Francisco doesn't seem like the ideal place for a large, wild predator.
+
+But coyotes are full of surprises.
+
+Just ask Officer Stephanie Pone.
+
+One of the many things that I really love about this job is that every single day is a surprise.
+
+Yeah.
+
+It's different.
+
+There's never a shortage of ways for animals to get themselves into conundrums.
+
+OK. Nate Rose: Don't you ever come up out the cracks And try to tell me how to get it Shane, voice-over: Stephanie's sopapillas are the stuff of legend.
+
+Rose: Spending any time just talking with me Shane: When she isn't practicing her culinary craft, Stephanie patrols the streets for San Francisco's Department of Animal Care and Control.
+
+Rose: Tell me how to get it poppin' really Stephanie: The most succinct way to describe it is that we are responsible for public safety as it relates to animals.
+
+One time, I had a coyote call at Fisherman's Wharf where the coyote was just chilling but being kind of a weirdo.
+
+And I tried to approach to see if maybe there was something wrong, and the coyote got so scared that it jumped into the bay.
+
+Oh, wow.
+
+And then I had to do a boat rescue to rescue the coyote out of the bay.
+
+And I was like, if I had just stayed out of it, the coyote would've been fine.
+
+So it wasn't like, "You'll never get me, copper!"
+
+And then he jumps into the-- I mean, maybe.
+
+I wouldn't blame him.
+
+[Laughter] Shane, voice-over: Stephanie's department gets quite a few calls about coyotes.
+
+I get it.
+
+There's something about seeing a predator walking down your sidewalk that would be very alarming.
+
+Shane, voice-over: Coyote sightings are becoming increasingly common here, and not just in the city's green spaces.
+
+We see a lot of coyotes here.
+
+We get a lot of reports in this area, but also in the neighborhood, which is part of the issue.
+
+Shane, voice-over: It's rare that a coyote actually harms a human or pet.
+
+Still, public opinion of these predators is... let's just say mixed.
+
+Just like our beautiful city, the response is very diverse.
+
+We get people that on one end, love animals, but they treat them like dogs, and that is terrible for the coyotes and it's terrible for public safety.
+
+And then we have the complete other end, where people think that they have no business being here and that they should all be killed.
+
+Most people are somewhere in the middle.
+
+Speaking as myself and not as a representative of the city, I'm quite fond of them.
+
+I think it's magical.
+
+I never get tired of seeing them.
+
+I also am a dog owner, and I have a teeny-tiny little dog who would be the perfect size for a coyote snack.
+
+Shane, voice-over: For many people, it's fear for their pets that tips the scales against coyotes.
+
+It was 2015 when we started having coyote attacks.
+
+Shane, voice-over: Karin Hu has lived in this neighborhood for 30 years.
+
+I understand why people want coyotes in the city.
+
+We love to look at wildlife, you know?
+
+Maybe teaching people to appreciate the other types of, you know, things we have, like...
+
+This last winter, I saw over 25 species of mushrooms.
+
+I mean, that's fascinating!
+
+Shane, voice-over: When Karin isn't teaching a course on psychoactive drugs at the local university, she's out walking her dog.
+
+And where coyotes are concerned, Karin's vote is a "no."
+
+At least, not in her neighborhood.
+
+Is your main concern the safety of your dog, or do you have other concerns as well?
+
+Oh, yeah.
+
+Oh, it's-- It's all--OK.
+
+If I didn't have little dogs, I wouldn't-- this wouldn't be my issue at all.
+
+How do you go about deciding what belongs and what doesn't belong?
+
+It's all values.
+
+So my pets, the small dogs in this neighborhood, the cats in the neighborhood, are very high value.
+
+And, yeah, there is value to having, you know, wildlife like coyotes around, but that's a lower value, as soon as you start being a risk to our family members.
+
+Some people feel uncomfortable and they try to, like, make a rationalization.
+
+I just say, "No, that's how we are."
+
+It just is what it is.
+
+Yeah, we're speciesists, you know?
+
+We value some species more than others.
+
+OK. Shane, voice-over: Historically, we've never valued coyotes much in the U.S. To this day, we kill almost half a million of them every year.
+
+But it doesn't seem to faze them.
+
+Today, coyotes inhabit more of the continent than ever, including thriving populations in major cities.
+
+So researchers want to know, what's the secret sauce?
+
+Why are coyotes so good at living in the habitat we've built for ourselves?
+
+Woman: A big part of what I've done is walk around the city looking for coyote scat.
+
+Scat, which is poop, just to be clear.
+
+It is poop, yep.
+
+OK. When I had you to myself Shane, voice-over: This is Tali Caspi.
+
+If she isn't playing one of my all-time favorite tunes on her upright bass, you might find her scouring the sidewalks for scientific treasure.
+
+You ever have somebody walk by and just look at you like you're an absolute maniac?
+
+All the time, but actually, San Francisco is full of weird people.
+
+So a lot of people just walk by and they're just like-- Makes sense.
+
+Normal day, yeah.
+
+Sometimes, you just gotta pick up some poop.
+
+Totally, but when I do have those conversations with people, what's really cool about it is everyone has something to share or contribute.
+
+Yeah.
+
+It's pretty hard to be a resident of this city and not have had some kind of interaction or story with an urban coyote.
+
+It's so foggy.
+
+Ha ha!
+
+At this point, I've walked around 950 kilometers of urban trails in the city over the span of two years-- Your Fitbit must be lighting up!
+
+Tali: Oh yeah, it is.
+
+Basically walking around, trying to find signs of coyote activity to help me find scat that I then pick up and bring into the lab.
+
+And speaking of the devil... Shane: It's coyote poop!
+
+Tali: Fresh coyote scat right here.
+
+Shane, voice-over: In the last two years, Tali has collected more than 1,300 scat samples.
+
+In the scat are clues about the urban lifestyle of coyotes.
+
+Everything they eat leaves trace evidence behind in the form of DNA.
+
+It's the DNA of the coyote, but then everything that the coyote ate as well.
+
+Can you tell from the work that you've done, you know, like, how much cat DNA or, you know, Chihuahua DNA is in a coyote poop?
+
+Yeah, so unfortunately, I can't tell how much Chihuahua DNA is in a coyote poop, because coyotes and dogs are actually pretty similar, but I've definitely found some cat reads in the scat, but it is by no means the majority or most significant component of their diet.
+
+OK.
+
+The parts of their diet that have come out thus far as sort of the biggest contributors are pocket gophers, pigeons are pretty common, and then these livestock breeds.
+
+so cow, chicken and turkey, pig.
+
+And these are obviously not animals that the coyotes are hunting in San Francisco.
+
+God, I hope not.
+
+Yeah, these are either foods that people are giving to the coyotes or are sort of foraged from garbage bins, from trash, or from cat food and dog food that people leave out.
+
+OK. Shane, voice-over: So coyotes are doing some hunting in the city, but like the rats I met in New York, they're also making use of what we leave behind.
+
+It may just be that city life is easy living if you're a coyote.
+
+From somebody who has been studying these animals, what is your take on coyotes in the city?
+
+They're here.
+
+They've been here.
+
+And they're going to stay here.
+
+Let's say, tomorrow I could snap my fingers and take all of the coyotes out of the city.
+
+They'd come back, because in all the surrounding areas, there are so many coyotes ready to just colonize an open territory.
+
+The best thing we can do is think about coexistence with coyotes and how can we coexist with them as neighbors in our cities.
+
+Shane, voice-over: That can be hard, because we build cities for ourselves.
+
+These places are supposed to be for us, but coyotes shatter that illusion.
+
+Maybe that's why so many people have strong feelings about them, both negative and positive.
+
+[Howling] Man: I love them to death.
+
+I think they're-- they--yeah.
+
+They are such a fantastic species.
+
+Yeah.
+
+They give us so many lessons.
+
+Mm.
+
+Shane, voice-over: Meet my friend Chris Schell.
+
+This man can grill up a mouth-watering rack of ribs.
+
+He's also a professor at UC Berkeley, where he studies how coyotes and other animals live in cities.
+
+How do you go about studying coyotes in this kind of environment?
+
+We use techniques that we use in traditional ecological studies.
+
+Everything from camera traps to fecal transects to GPS collars on the animals.
+
+Shane, voice-over: This camera trap is one of dozens that Chris and his team have placed to observe wildlife in the city.
+
+Chris: So we want to try and put the camera in places where we know wildlife are likely going to be, even though we know people are in the general area.
+
+So let's go ahead and just go out and view out and see, OK, did we get anything that is for us noteworthy?
+
+Now, we're super biased.
+
+We're always thinking about the carnivores.
+
+OK. Chris: And here I already see we got a gray fox.
+
+Shane: Oh, yeah!
+
+Chris: If we continue to scroll, more skunks, another person, more deer.
+
+Man, it's a higher density of animals than I would expect.
+
+Like, this is just over the course of a few days.
+
+Right.
+
+Wow.
+
+Shane, voice-over: Here in the lush Berkeley Hills, carnivores like foxes and coyotes flourish.
+
+But cities aren't monoliths.
+
+Just down the hill in Emeryville, the habitat-- if you want to call it that-- doesn't look as inviting.
+
+Chris: There's a lot of concrete here.
+
+Mm-hmm.
+
+As we're driving through, I'm seeing more built structures.
+
+I'm seeing less vegetation.
+
+I'm seeing less ways for animals to get from point A to point B. Shane, voice-over: But Chris' team set up a camera anyway...just to see.
+
+Shane: Are you getting coyotes in as dense a number here as you would elsewhere in the city?
+
+So no, we're not.
+
+And the only species we've really caught on that camera have been ground squirrels or raccoons.
+
+OK. OK. And that's it.
+
+So a good chunk of the wildlife that we saw up at some of the other sites up in the hills, gray foxes, for instance, they aren't here.
+
+Shane, voice-over: Animals know good habitat when they see it, and wealthy neighborhoods can be brimming with the things wild species need-- trees, water, safe places to hide.
+
+Chris: So property values can positively correlate with the likelihood that you're going to see a coyote or other wildlife species in an area.
+
+And that's called the luxury effect.
+
+Oh, OK.
+
+So urban species trying to live bougie, too, is what you're saying?
+
+Oh, yeah!
+
+Right, they're trying to make it work, like, "Oh, but this neighborhood over here, though?"
+
+So many of the historical processes that have happened in cities... think residential segregation via redlining, or urban renewal programs that then led to displacement, gentrification also, leading to socioeconomic disparities in and across this urban landscape, right?
+
+This entire landscape is constructed, and when we understand how its construction leads to amenities and disamenities therein, we start to understand that we aren't the only organisms that are being affected by this.
+
+Mm.
+
+That history, right, you're talking about things, the discrimination, racism, redlining.
+
+Basically, what you're saying is, more than social, more than economic, they're tangibly biological.
+
+Right.
+
+Simply put, the past is present.
+
+Shane, voice-over: The noise, the air pollution, the heat, the toxic byproducts of industry, the impacts of urban living hit harder in some places than others.
+
+Chris: Even cities as close as San Francisco and the East Bay or Berkeley and Oakland are so separate from each other.
+
+And the animals, they give us these lessons through how they move, through what they do, through what they eat.
+
+Some organisms, like raccoons, for instance, if they eat too many human foods, develop diabetes.
+
+They develop diabetes!
+
+Oh, wow.
+
+Right?
+
+Just 'cause they're there doesn't mean that they're doing well.
+
+Yeah.
+
+So does the way that animals interact with their environment in a city teach us anything new about how we exist in a city as a species?
+
+They serve as the beacons.
+
+The "bioindicators" is the term we often use.
+
+They are the conduits to allow us to better understand that many of these disparities that hit communities of color, low-income communities really hard are also the same things that are destroying the natural world.
+
+The policies that separate us from us are also those same policies that separate us from the natural world.
+
+Shane, voice-over: Many animals living in our cities don't know anything else.
+
+So they learn to survive against all odds, even if they can't really thrive.
+
+It kind of makes me wonder: What if we humans are the same way?
+
+We are impoverishing ourselves, and that's just the hard truth, that we are hurting ourselves and we don't know it.
+
+Shane, voice-over: This is Peter Kahn.
+
+When he isn't serenading the wild on his homemade flute, he studies our species' shifting relationship with nature.
+
+Peter's interest in cities dates back to the nineties, when he asked kids in Houston, Texas a couple of simple questions.
+
+We just asked this kind of preliminary question, "Do you know what air pollution is?"
+
+And they said, "Yeah, yeah," all of them.
+
+Then we asked the second question, which was, "Does Houston have air pollution?"
+
+And the significant number of children went from, "Yes.
+
+Yeah, I understand what air pollution is," to "No, Houston doesn't have air pollution," which completely blew us away.
+
+Because, at the time, Houston was the most polluted city in the United States.
+
+How could these kids growing up in the most polluted city in the United States, how could they not know about that their city was polluted?
+
+And that's the start, for me, some 30 years ago, in thinking about this issue, about environmental generational amnesia.
+
+That the children are coming of age, and they're constructing a baseline of what normal is.
+
+Shane, voice-over: That mouthful of a phrase, "environmental generational amnesia," refers to the way that each generation grows up thinking that their experience of the world is normal.
+
+So in our urbanizing world, the less nature we experience, the less we think we need.
+
+With each generation, nature becomes smaller.
+
+Wilderness becomes a city park and then a row of trees in a median and then...nothing at all.
+
+And thanks to this so-called amnesia, most of us never notice.
+
+Peter: I think we're building urban prisons.
+
+I think we're imprisoning ourselves.
+
+Shane, voice-over: Peter's concerns are rooted in real data.
+
+Depression and anxiety are more common in cities than outside them.
+
+And some studies show that exposure to nature can help, not just with mental health, but physical health, too.
+
+It reduces stress, reduces obesity, helps eyesight, reduces depression.
+
+I mean, the list is on and on.
+
+Can modern cities be transformed into something that allows us to sort of reconnect in that ancestral way with our environment while still having all of the functional components of a city?
+
+Yeah.
+
+There's some marvelous parts of cities, and I think we both appreciate them so much.
+
+And it's the coming together of different groups and different energies, different knowledge.
+
+The creativity is so amazing in cities.
+
+We can make them better and we should make them better.
+
+Yeah.
+
+Um... but here's the thing.
+
+They can get a lot worse, and unless we push back, try to make them better, they will get worse.
+
+Shane, voice-over: We haven't reached "peak city" yet, not even close.
+
+By 2050, 2/3 of us will live in urban areas.
+
+So as cities continue to grow, how can we create a less dystopian urban future?
+
+Halfway around the world, architects and urban planners are pushing back and reimagining what city living can be, for us and the rest of nature.
+
+In every city I've ever lived in, green spaces felt like an escape.
+
+They were in the city but not of the city.
+
+Singapore is different.
+
+Here, nature is never more than a few blocks away.
+
+Everywhere you look, buildings are exploding with life.
+
+[Rooster crows] It feels like a miracle.
+
+Woman: Is it your first time in Singapore?
+
+Shane: It is.
+
+Man, this place, it's-- I've never seen anything like it.
+
+It's incredible.
+
+Shane, voice-over: If you ask Pearl Chee, she'll tell you it's no miracle.
+
+It's all part of the plan.
+
+Pearl: We are challenging ourselves as architects whether we can design better.
+
+We are creating a lot of concrete buildings, it's like a concrete jungle, but we really want to bring the jungle in.
+
+Shane, voice-over: Pearl is the architect who designed the Kampung Admiralty, the building we're standing in now.
+
+Pearl: Our design concept, it's a very unique combination.
+
+We actually have elderly housing, public housing, combined with healthcare, which is a medical center, commercial and some social programs, and a food court, yeah.
+
+Shane: Oh, wow.
+
+So that's why it's not gated.
+
+It's very open.
+
+Anybody can actually come in and use the facilities here.
+
+Shane, voice-over: Singapore is the third most densely populated city in the world.
+
+The entire country is an island with only 281 square miles of land, but 5.5 million people live here.
+
+In a city this dense, you wouldn't expect much room for nature.
+
+But it's like they say: where there's a will, there's a way.
+
+And by will, I mean law.
+
+Legislation enables it to happen.
+
+The building took the land.
+
+So we need to do replacement.
+
+The legislation actually requires a building to give back 100% landscape.
+
+Oh!
+
+100% of the site footprint has to be replaced into the building.
+
+Every square inch of, like, green space that you take up, you have to put back in...
+
+Put back in, yeah.
+
+into the building somehow.
+
+Into the building.
+
+Shane, voice-over: A few years after completing the building, Pearl's firm surveyed the animal life in Kampung Admiralty's gardens.
+
+50 different species had moved in.
+
+Pearl: The species in this building is higher than the species on the ground park.
+
+Oh, really?
+
+Yeah, which is right nearby.
+
+So...
+
+Wait, so there's more species within this construction than in, like, a natural space of the same amount of greenery?
+
+Yeah, correct.
+
+That's incredible.
+
+Thinking about an entire city built like this, basically, you're talking about reforestation and urbanization as sort of one and the same.
+
+Correct.
+
+[Crows] Shane, voice-over: This development is a microcosm of what's happening all over Singapore.
+
+It's not just one building or designer or architecture firm.
+
+The whole city is teeming with life.
+
+Narrator: It's hard to believe that not so long ago, war surged around it and even in it.
+
+Singapore, cosmopolis of the East.
+
+Malays, Chinese, Indians, and British have taken time by the forelock, and the shops and market stalls dazzle the eye and make our mouths water.
+
+As you sort of, like, move around the city now, you know, do you, you know, like, do you go to places and you're like, "Oh, this is my baby"?
+
+Yeah, yeah.
+
+All the time.
+
+[Laughter] Shane, voice-over: Professor Cheong Koon Hean is a music lover and life-long Singaporean.
+
+She's also a legendary urban planner.
+
+A lot of folks credit her with shaping Singapore's singular urban landscape.
+
+BAER: Raise a toast to the GOAT, yeah Cheong: This is one of my favorite neighborhood centers in a public housing estate.
+
+Because in Singapore, 80% of the people live in public housing in estates like this.
+
+Oh, wow.
+
+In highly affordable housing.
+
+Shane, voice-over: Kampung Admiralty, the building Pearl Chee designed, is public housing, too.
+
+And these places are cush.
+
+The apartments are modern and clean, the amenities are incredible, and most developments are a 10-minute or less walk from public transportation.
+
+And, of course, everything is draped in greenery, from the street level to the tops of the skyscrapers.
+
+Where I come from, when we say "public housing," basically, like, we call it "the projects."
+
+And I was actually raised a lot in public housing.
+
+And that public housing and this public housing are not the same thing.
+
+Well, you can't believe it when you come to Singapore today, but, say, about 60, 70 years ago, actually, Singapore was a nation of slums and squatters.
+
+It was also polluted and lots of traffic congestion.
+
+Shane, voice-over: When Singapore gained its sovereignty from Britain in 1959, it was a city of 1.5 million people and massive, unplanned sprawl.
+
+Tens of thousands of people had no place to live.
+
+So the newly elected government created the HDB, or Housing and Development Board.
+
+Cheong: And within 5 years, the HDB, they already built 51,000 units of flats.
+
+It started from very basic housing, but now, of course, the quality is a lot better, as you can see around you.
+
+Yeah.
+
+Shane, voice-over: And public housing is just the beginning.
+
+Singapore is a very small city-state.
+
+It's actually only half the size of metropolitan London.
+
+Oh, wow.
+
+But we are a country.
+
+We're not just a city.
+
+So everything you need about a country, whether it's for water, power generation, ports, airports, plus housing, shops, offices, industry, all has to be built within this tiny island city-state.
+
+And so biodiversity and ecological balance became really quite an important concept.
+
+Now, as we developed the land, of course we start to lose space for planting.
+
+So what did we do?
+
+We decided to move the greenery upwards into the sky.
+
+And so, what you did is you just created new space.
+
+And suddenly, you bring back all the biodiversity.
+
+Back in the States, urban areas and wildlife are sort of like oil and water.
+
+They don't mix very well.
+
+But what you've done here is something very, very different.
+
+Over the years, we moved from being a garden city to a city in the garden because we started to plant so extensively.
+
+And in the last decade or so, we moved from a city in a garden to city in nature.
+
+In a place where you have limited space and you have this growing population that there are two very sort of competing needs.
+
+Shane, absolutely, there's always competing needs, right?
+
+So it's really this very important balancing act of allocating the right amount of land for different uses to create this type of an environment.
+
+Shane, voice-over: And who orchestrates this balancing act?
+
+It's the Singaporean government, with their comprehensive "Master Plan" for managing the city-state's ongoing growth.
+
+By centralizing the control of urban development, Singapore paves the way-- you see what I did there-- for projects that fuse function and form.
+
+Cheong: If you look behind us, the Punggol Waterway is actually a man-made river.
+
+We dammed up two rivers to become freshwater reservoirs.
+
+Now, the engineers wanted to connect the two reservoirs with a pipe-- very functional.
+
+But then the architects and the planners say, "Why do a pipe?
+
+Why don't we make a river?"
+
+And so, this river connected the two reservoirs to balance and optimize the storage of water, but at the same time, it became a leisure facility.
+
+So Punggol has a nickname.
+
+It's the Venice of Singapore.
+
+Oh, that's amazing.
+
+Because we brought in water, right?
+
+It has its aesthetics, but everything also serves... Function, yes, a function.
+
+a very specific function.
+
+Even the Punggol Waterway, there's a family of otters that have come back.
+
+Oh, that's incredible.
+
+They live on the Punggol Waterway.
+
+Shane, voice-over: Singapore challenges a lot of what I thought I knew about cities.
+
+No one's saying that we should all be like Singapore, or even that we could be.
+
+This place is unique.
+
+90% of Singapore's land is publicly owned.
+
+The government determines what gets built and where.
+
+And with everyone sharing the same tiny island, by definition, they're all in this together.
+
+Most places don't have all that.
+
+But I'm not sure we need it to re-imagine what cities can be.
+
+I think the thing that stands out to me about Singapore is the intentionality.
+
+I'm not sure if this specific model can be applied anywhere or everywhere, but I think they're doing things that I think other cities can learn from.
+
+We have to get our act together to make cities effective.
+
+Creativity, innovation, and that will to survive and to want to do well are very, very strong drivers.
+
+That's human beings, right?
+
+That's what we are.
+
+Shane, voice-over: Cities might just be humankind's most remarkable invention.
+
+Because we thought we were building ourselves a place to live, but we were really creating a new ecosystem, a place where nature has to adapt to live alongside us and some of our urban neighbors are more welcome than others.
+
+City living brings challenges-- for us and all the species that share our urban spaces.
+
+But we shouldn't forget that cities can also help us flourish.
+
+In Oakland, Chris said something that stuck with me.
+
+We are a communal species.
+
+So for folks to think, "Well, if you just get outside the city, you'll be OK," nah, nah, nah, it doesn't work like that.
+
+We need to be able to have connection.
+
+Shane, voice-over: That's why cities aren't going anywhere and why we need to make them better.
+
+With a little creativity and vision, they can deliver that connection-- to each other and maybe to the rest of our incredible planet, too.
+
+Human Footprint is available with PBS Passport and on Amazon Prime Video.

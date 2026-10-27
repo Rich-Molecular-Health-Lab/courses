@@ -1,6 +1,5 @@
 ---
 title: "Agricultural Pollution"
-date: "2026-11-10T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -12,10 +11,6 @@ listing:
   template: "resources.ejs.md"
   contents: "Agricultural Pollution_resources.yaml"
 ---
-
-## Class Meetings
-
-**Dates:** 2026-11-10T16:00:00
 
 ## Optional Material (Dive Deeper)
 
@@ -41,6 +36,129 @@ Move over, beef: there’s a new burger in town. Plant-based meats are sizzling 
 
 :::
 
+#### Cancer is falling nationwide. Except in Iowa.
+
+![Cancer is falling nationwide. Except in Iowa.](https://i.scdn.co/image/ab67656300005f1f35bb739af4bea6b3e521ae70)
+
+**Duration:** 00:12:31
+
+**Released:** 2026
+
+**Series:** The Excerpt
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/1yl8QT0Cibhi22f1s4PQYx)
+
+[Open Series in Spotify](https://open.spotify.com/show/01lfF43JXe9yW6AKxxwhUC)
+
+Cancer rates are declining across most of the United States. But Iowa is moving in the opposite direction. Iowa now has one of the nation's highest cancer incidence rates and is one of only three states where rates continue to rise. So what's different about Iowa? Nick El Hajj, reporter for the Des Moines Register, joins The Excerpt to discuss the theories researchers are investigating, from drinking water and nitrate pollution to radon exposure and other environmental factors. He also shares the stories of Iowa families searching for answers.Let us know what you think of this episode by sending an email to podcasts@usatoday.com. See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
+
+:::
+
+##### Description
+
+Cancer rates are declining across most of the United States. But Iowa is moving in the opposite direction. Iowa now has one of the nation's highest cancer incidence rates and is one of only three states where rates continue to rise. So what's different about Iowa? Nick El Hajj, reporter for the Des Moines Register, joins The Excerpt to discuss the theories researchers are investigating, from drinking water and nitrate pollution to radon exposure and other environmental factors. He also shares the stories of Iowa families searching for answers.
+
+Read more: https://tinyurl.com/4zj9fkaf
+
+Sign up for our newsletter for the day's top stories, from sports to movies to politics to world events: https://profile.usatoday.com/newsletters/daily-briefing/
+
+##### Transcript
+
+###### Iowa's rising cancer crisis
+
+**0:04** · Most of us think about cancer risk in terms of genetics or lifestyle [music] choices, but how much could your zip code matter? In Iowa, that question is no longer abstract. It's being asked in hospitals, in farm towns, and by families who are looking for answers.
+
+**0:21** · I'm Dana Taylor, and this is [music] The Excerpt. Join me to dig into the question of why Iowa's cancer rates are rising as the nation's fall. Is Nick El-Hajj, reporter with the Des Moines Register. It's good to speak with you.
+
+**0:34** · Hi, Dana. Thank you for having me.
+
+**0:36** · Nick, when we talk about cancer risk, how much can where you live actually matter?
+
+**0:42** · Yeah, I quite a bit, actually, Dana.
+
+**0:45** · Geography, or where you live, is essentially a proxy for everything that comes with living in a place. What you breathe, what you drink, where you work, and simply what you're exposed to over a lifetime. And those differences can be enormous sometimes. And that holds true on the national level, but also on the state level.
+
+**1:16** · Why has Iowa become such an important place for researchers and public health officials to watch?
+
+**1:23** · Iowa has really become one of the country's biggest cancer outliers. It not only ranks second in the nation for cancer incidence, but it is one of only three states where incidence is still rising. We're talking about 21,700 Iowans who are expected to be diagnosed with cancer in 2026 alone. And about 6,400 Iowans who will die from cancer. And that's because Kentucky is getting better while Iowa is getting worse.
+
+###### Statewide impact and scale
+
+**2:14** · And you can see that pressure on the ground. Cass Health quadrupled the size of its cancer center in 2022. Four years later, in 2026, they are already struggling to meet demand again. And people are again having to wait for months to see a specialist.
+
+**2:40** · And so all these numbers and concerns have just made Iowa this laboratory for asking, "What are we missing?"
+
+**2:51** · You know, one of the striking things is how many Iowans say cancer has touched nearly every family they know. That's stunning. Can you talk about how that shaped communities there? I mean, those are big numbers that you just gave me, but how is that affecting communities in Iowa?
+
+**3:09** · Yeah, they're not You know, Iowans, from my experience, especially farmers and and rural Iowans, can often be very stoic in nature. They take things in stride. They push and persevere. But sitting around kitchen tables in in some of these rural communities, there becomes evident this seismic shift in how cancer is being perceived. For years, cancer was almost treated as as a way of life.
+
+###### Community perspective
+
+**3:46** · But now the toll and the suffering have become too overwhelming and too visible to ignore. And there is real pain and there's a real anger and hunger and demand for answers. I spoke with Maureen Reeves Horsley, a nurse in Palo Alto County, Iowa, which is the county with the second highest rate in the state. It used to have the highest in the state.
+
+**4:10** · She told me she could name at least 40 people, 4 0, 40 people who have had cancer or had died from it within her vicinity. That is not normal. And the story repeats across Iowa. You'd be hard-pressed to find anyone in the state who doesn't know someone who has had cancer or who has died from it. And that is not normal.
+
+**4:39** · And Maureen described this crisis to me, I I think rather eloquently, as this sleeping giant that has been dormant for decades, but that has now been poked. And it's become impossible to turn a blind eye to it and to the sheer despair that exists in Iowa when it comes to cancer at the moment.
+
+**5:03** · Well, a big focus here is on water quality.
+
+###### Environmental factors
+
+**5:07** · Why have nitrates become such a major concern?
+
+**5:10** · Iowa has staggering levels of nitrate pollution. And And this has been the case for for decades. Des Moines is home to the world's biggest nitrate removal facility. And research time after time has shown that those nitrates primarily come from the billions of pounds of fertilizer and the hundreds of billions of pounds of animal manure applied on Iowa fields.
+
+**5:42** · Whatever is is over-applied, either stays in the soil or it leaches through that soil and it goes into the rivers, which then supply the same water we all drink.
+
+**5:57** · Why is agriculture seen as a possible contributor? What does the evidence actually show and what's still uncertain?
+
+**6:05** · Then our researchers are really playing this elimination game.
+
+**6:11** · Uh there's three buckets. If you take behavioral factors like drinking and smoking, that's the first bucket. Those are high in Iowa. They explain a large share of the elevated incidence, but not the whole picture because compared to neighboring states with with similar behavioral factors, Iowa is is still high. Iowa has the highest levels of radon in the country, a radioactive natural gas that seeps into homes and causes lung cancer. About 84% of the state is farmland.
+
+**6:41** · There are pesticides and herbicides being sprayed across millions of acres. And research, time after time, has shown that agriculture is causing nation-leading chemical levels in Iowa.
+
+**7:00** · If we take one pollutant, nitrate, research has shown that nitrate levels as as low as 3 mg per liter in drinking water can contribute to an increased cancer risk. And by the way, that level is is three times lower than the current federal limit, which is 10, that water utilities are required to abide by.
+
+**7:22** · So you essentially you end up in a situation where those elevated nitrate levels and that level means from 2021 to 2023, you have 1.2 million Iowans, over a million Iowans, estimated to have been served by public water systems that have recorded a nitrate test above that level of three, that cancer-causing level. So, when you're trying to understand what makes Iowa different environmentally, agriculture is obviously going to be part of that conversation.
+
+**7:57** · That begs the question, why is it so difficult to prove that a specific environmental exposure caused someone's cancer?
+
+###### Challenges in research
+
+
+**8:05** · Cancer can be and is so overwhelming.
+
+**8:10** · Usually, it it doesn't work like an infectious disease, where you can trace one exposure to one outcome. It can take decades between an exposure and a diagnosis. And during those decades, a person can accumulate well, thousands of other exposures alongside genetics, alongside lifestyle, and alongside random mutations. And pinpointing where in that chain things are going wrong is an enormous task.
+
+**8:46** · What are the biggest unanswered questions researchers are still trying to solve then?
+
+**8:51** · The biggest one, I think it's still the most basic one.
+
+**8:55** · Um why Iowa?
+
+**8:58** · Why did Iowa break away from the national trend around 2013? Because Iowa used to follow the national trend, which is declining. The national average is declining. Why did Iowa in 2013 start going up while the US average kept going down? And now we're at this point where they're so far apart. Why is the cancer rate still rising here when it is falling in most of the country?
+
+**9:22** · And why does Iowa still stand out even compared with nearby states that look a lot like it?
+
+**9:29** · Nicky spoke to a lot of families who still want answers.
+
+###### Personal stories of survival
+
+**9:33** · What struck you the most in these conversations?
+
+**9:37** · I sat down with patients like Lavonne Schroeder. Lavonne has been battling the same cancer, ovarian cancer, for the past 23 years. She's been sent home to die three times already. And yet, here she still was, settled into one of those recliners at the cancer center. And another round of chemotherapy flowing into her veins. Three years ago, while fighting her own cancer, Lavonne cared for her husband and their farm home until he died from spinal cord cancer.
+
+**10:22** · And after all these years fighting, she told me she was tired. She said she was at peace with whatever the doctors were going to tell her. That she was at peace with whatever may happen this next year. The takeaway I got here, and from this whole reporting, is just that the sheer toll cancer has taken on Lavonne's life, and on the lives of thousands of Iowans, [music] can be unimaginable.
+
+**10:57** · Nick Colangelo is a reporter with the Des Moines Register, part of the USA Today Network. Thank you so much for sharing your reporting here, Nick.
+
+**11:04** · My pleasure. Thank you for having me, Dana.
+
+**11:07** · Our stories come from USA Today journalists across the country. I'm Dana Taylor. Tap subscribe for more [music] from The Excerpt.
+
 #### Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture
 
 ![1033 - Chemical Contaminants and Fungal Fixes in Wastewater and Agriculture](https://i.scdn.co/image/ab67656300005f1fefaffe37a746200f9af25327)
@@ -58,28 +176,6 @@ Move over, beef: there’s a new burger in town. Plant-based meats are sizzling 
 [Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
 
 About this episode: Biosolids created by the wastewater treatment process are useful fertilizers in agriculture, but they often contain chemical compounds from the pharmaceutical and personal care products we send down our drains. In this episode: Researcher Carsten Prasse details new findings that suggest that fungi could reduce our risk of exposure to these compounds in our drinking water and food. Guest: Carsten Prasse, PhD, MSc, is an associate professor of Environmental Health and Engineering at the Johns Hopkins Bloomberg School of Public Health, where he studies organic contaminants in the urban water cycle and their impact on environmental and human health. Host:  Stephanie Desmon, MA, is a former journalist, author, and the director of public relations and communications for the Johns Hopkins Center for Communication Programs. Show links and related content:   White-Rot Fungi Show Promise for Reducing Pharmaceutical Residues in Biosolids—Johns Hopkins Bloomberg School of Public Health   Magic Mushrooms? White-Rot Fungal Degradation of Psychoactive Pharmaceuticals in Biosolids—ACS Environmental Au   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
-
-:::
-
-#### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
-
-##### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
-
-![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
-
-**Duration:** 01:19:15
-
-**Released:** 2023
-
-**Series:** Ologies with Alie Ward
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr)
-
-[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
-
-Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
 
 :::
 
@@ -162,6 +258,249 @@ In this episode, we sit down with Professor Meredith Niles to explore how climat
 Climate change is having a profound effect on agriculture. Farmers over the past decade have faced intensifying drought and heat stress on crops, leading many to wonder, what will agriculture look like 50 years from now?In May, at SciFri Live at Iowa State University in Ames, Iowa, Ira Flatow discussed the future of agriculture, and potential solutions to these problems, from innovative farming techniques, to ensuring that Iowa’s farmers of color have the resources they need to succeed. He was joined by Todd Western III, a sixth-generation Iowan farmer with Western Family Farms and senior donor advisor at Greater Twin Cities United Way, and Dr. Patrick Schnable, a distinguished professor at Iowa State University and co-founder of Dryland Genetics.Transcripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
 
 :::
+
+
+##### Transcript
+
+IRA FLATOW: This is Science Friday. I’m Ira Flatow. Climate change is having a profound effect on agriculture. Farmers are facing intensifying drought and heat stress on crops, leading many to wonder what will agriculture look like 50 years from now.
+
+As you know, we like to focus on solutions to climate change. In May, we took the show to Ames, Iowa, where we know a lot of farmers live and where we talked about those solutions from innovative farming techniques to ensuring that Iowa’s farmers of color have the resources they need to succeed. It was an eye-opening discussion. Have a listen.
+
+Here to tell us about how they do all of that are my guests. Let me introduce them to you. Todd Western III, a sixth-generation Iowan farmer and Senior Donor Advisor at Greater Twin Cities United Way, and Dr. Patrick Schnabel, a distinguished professor at Iowa State University and co-founder of Dryland Genetics. Welcome, all of you, to Science Friday.
+
+TODD WESTERN III: Thank you.
+
+PATRICK SCHNABEL: Thank you.
+
+\[APPLAUSE\]
+
+IRA FLATOW: Yes.
+
+\[APPLAUSE\]
+
+Dr. Schnabel, let me talk to you first. Climate change is, like we would maybe say in Iowa, fertile ground– sorry– for agricultural innovation. Let’s start by talking about some of the biggest effects of climate change on farming over the last decade. What’s at stake here?
+
+PATRICK SCHNABEL: OK. So agriculture is one of the human species’ greatest inventions. We depend on about a handful of crops for civilization. Something goes wrong with those, we’re in real trouble. And the crops we developed were tuned for the environment of the last 10,000 years. Now that that’s changing, the crops are going to need to change too, or we’re going to have significant problems.
+
+So you laid some of this out. It’s going to be hotter. There’ll be more variable rainfall. So we’ll have floods. We’ll have droughts. We’ll have frosts at different periods. We’ll have new insects and diseases coming in. The challenges are enormous.
+
+What’s exciting is I think if we put our minds to this, we can solve many of them. What worries me is whether we will get our act together and do what needs to be done.
+
+IRA FLATOW: And why would we not get our– what would be some of the hindrances to that?
+
+PATRICK SCHNABEL: Well, one of them is until recently, a lot of people didn’t believe it was happening. It’s real. The USDA just put out a new plant hardiness map which shows that I can grow things in my garden in Ames that I couldn’t have grown when I first moved here 40 years ago because it’s warmer.
+
+IRA FLATOW: Right. I’ve noticed that in my own garden back in the Northeast. And the season’s like two weeks longer.
+
+PATRICK SCHNABEL: Right.
+
+IRA FLATOW: And Todd, I know you’re a farmer. Sixth generation?
+
+TODD WESTERN III: Yes.
+
+IRA FLATOW: Ah. Congratulations to you right here. Have you noticed these changes over the time you’ve been a farmer?
+
+TODD WESTERN III: Yes, absolutely. Every farmer has noticed that. It’s drier. The conditions are not conducive for the crops that we used to grow. So we have to make modifications and things of that nature.
+
+IRA FLATOW: And most farms in Iowa grow corn and soybeans. Those are the two main crops. It’s a two-crop state. But you and your son, Patrick, made an accidental discovery a while back that led to a third potentially great solution. Tell us about that.
+
+PATRICK SCHNABEL: Yeah. So this is a fun story. So my son is also a plant scientist. And he was doing an experiment in the greenhouse growing maybe 100 different species of grasses, and he was going to study the gene expression in those grasses. And he grew them to the seedling stage, harvested his tissue, did the experiment and left the plants in the greenhouse. Forgot about them. Didn’t water them.
+
+Eventually, the greenhouse manager came by and said, you’ve got to clean that mess out. And he went over there, and everything was, in fact, dead except for one plant. And he said, what’s that? And it turns out to be a crop called proso millet.
+
+And he did a great deal of research about the crop. Came back for Christmas time. We celebrated Christmas together. And we spent the entire week talking about proso millet.
+
+It’s the most water-efficient crop on the planet. It uses less water for each pound of grain produced. And that’s how it was able to do this. It survived, and it actually produced grain without being watered for a month or two.
+
+IRA FLATOW: Can I buy this millet on a store shelves?
+
+PATRICK SCHNABEL: Yeah. It’s a global crop. A lot of it’s grown in India, China. In the US, it’s grown in Northwest Colorado, Western Nebraska, South Dakota, and so forth.
+
+IRA FLATOW: So if you continue to do research on it, is that– what we’re looking at here is this millet– what else could you do with it? What kind of potential does it have?
+
+PATRICK SCHNABEL: Well, this is the thing. So maybe just give a little context here, which is we know there are going to be droughts, as Todd was saying. We’re going to have less water. You can try to make a high-yielding crop like corn more water efficient, or you can take a water-efficient crop and try to increase its yield. So that’s what we’ve been doing. We’ve increased the yield.
+
+So where does it go I think is your question. A lot of it’s used for human food in Asia, and some in here– in the US– it’s used– granola bars and stuff. It’s gluten free. But I think the big opportunity is are animal feed– it’s sustainable animal feed and sustainable fuel, like ethanol.
+
+IRA FLATOW: Like Ethanol.
+
+PATRICK SCHNABEL: Yeah. Sustainable aviation fuel is the new one.
+
+IRA FLATOW: Has it gone in that direction yet?
+
+PATRICK SCHNABEL: We’ve done the tests. We’ve done animal feeding studies. It’s basically a drop-in substitute for corn. We’ve done ethanol conversions, and it is very similar to corn for that. So we’re doing scale-ups now with an ethanol plant down in Kansas.
+
+IRA FLATOW: Chicken feed, too?
+
+PATRICK SCHNABEL: Chicken feed is a really interesting one. So I told you it’s water efficient. If you take laying hens, and you feed them with proso millet instead of corn, you save 10 to 15 gallons of water for every egg.
+
+IRA FLATOW: Per egg.
+
+PATRICK SCHNABEL: Per egg. So we can print things on eggs now. Maybe you’ve seen this, is could imagine a water drop printed on the egg with the number 10 on the inside of it, and you’re fixing breakfast for the kids. Every egg you feed them, save 10 to 15 gallons of water.
+
+IRA FLATOW: Wow. Wow. That’s amazing.
+
+\[APPLAUSE\]
+
+So let’s say you’re interested in this as a farmer.
+
+TODD WESTERN III: I’m already going to sign up.
+
+IRA FLATOW: Well, that was my next question. Can he sign up, or other farmers, sign up for this stuff? Where?
+
+PATRICK SCHNABEL: Yeah. So there’s an established market out in the Western plains. There’s not a great solution for Iowa yet. We’re working on that. Once we get it into the ethanol plants, you’ll be customer number seven or something. I mean, we’ll get you on it.
+
+IRA FLATOW: Well, what’s keeping it? Do you need extra equipment, new kinds of equipment?
+
+PATRICK SCHNABEL: No. That’s another thing. So this crop is– anybody who grows corn or soybeans already has all the equipment they need. It’s the same planters, the same harvesters. Everything’s there. And there are supply chains built. But what we’ll need to do is have markets for Todd so he doesn’t have to haul the grain all the way out to Colorado to get it sold.
+
+IRA FLATOW: Can we move him up to number five, maybe, instead of seven?
+
+PATRICK SCHNABEL: You know, everything’s negotiable.
+
+\[LAUGHTER\]
+
+IRA FLATOW: Todd, I know we’re talking about new solutions for farmers and your family. I mentioned six generations.
+
+TODD WESTERN III: Yes.
+
+IRA FLATOW: Has deep history.
+
+TODD WESTERN III: Deep history.
+
+IRA FLATOW: Deep history. Tell us about. How far back do you go, and tell us about that family history.
+
+TODD WESTERN III: So it’s a long history. And so the way I do it is I put it in chapters because it is a long, rich history. And so I put it in chapters.
+
+So our family bought their way out of slavery in 1790 in Virginia.
+
+IRA FLATOW: Wow.
+
+TODD WESTERN III: 1790. And they made the move across the country, and they settled in Iowa in 1864. And then from 1790, we settled in 1864 in Mahaska County. And you got to remember at that time in Mahaska County, there were a lot of things going on in the 1800s. And so for the next 110 years, from 1864 to 1974, the legacy was born. The foundation was made. And so the Western legacy of farming began.
+
+At that time, there were only 524 black people in Mahaska County, and so we were one of those 524. So at that point is when we built legacy, family. And it was built on resiliency.
+
+And so the last– when I became involved, if you look at the last 30 years leading up to 1974, my father and his sisters farmed that farm, created a legacy, created a community. They were well respected.
+
+And so from 1974, that’s when we took over the farm. Because at that point, my dad, when he got out of the army, he was the first Black supervisor at John Deere in 1968, where he worked for 41 years at John Deere.
+
+And then tragedy strikes in 2008. My father was training for his 13th Chicago Marathon, and he had a bicycle accident. And so he was one week from his birthday and nine months from retirement. And yeah, it was rough. And so that put a big hole in our family. And so it was in July.
+
+And so about three weeks after the funeral, you got all the shock and awe and disbelief. And then me and my brothers looked at each other and was like, holy crap, there’s still a crop in the field. Like, we got to–
+
+So at that point, you think, OK, now, where did dad put the keys? What did he do with this? How did he do this? How did he do this? And so you’re thinking this is going to happen 20 years from now.
+
+And so we banded together, and we got that crop out of the field. And so from 2008 to 2015, we were pretty much on autopilot. And we just did whatever dad did. And so whatever dad did, that’s what we did.
+
+So in 2015, what we realized is we have to be better stewards of the land, and we have to create better efficiencies in the farm. So my mom comes out of retirement. Now, you have to understand, my mom is like 5 foot 4, but walks 8 foot tall. So she is a go-getter.
+
+And now, remember, my mom was a city girl from Chicago. She knows nothing about farming. She knows how to help, but she knows nothing about farming. So in 2015, seeing the need to improve the soil health of our farm, she jumps full bore into farming and learning agriculture.
+
+She’s a woman of faith. And so because of her faith, God led that path, and they put a lot of angels in her path. And she really was the heroine there, where she created the relationships with all the state agencies– FSA, USDA, NRCS, Iowa State Extension office. They were all very welcoming to her and helped her understand the programs. And that’s when we found out about regenerative agriculture.
+
+IRA FLATOW: Well, let me stop you there because I get asked more times by people who come up to me and say, I want to pitch a story to you. Why don’t you talk about regenerative agriculture? And so now, I’ve got the guy sitting in the chair. Tell me how you do that and what that is.
+
+TODD WESTERN III: So regenerative agriculture– first of all, it’s up and coming. It’s not well known, especially in 2015 when we tried to get into it. Thankfully, Iowa State Extension Office and all the great offices helped us get into it.
+
+And what we do is– there’s many variations of it. But the core of it is we do no till, which, by the way, is not fun. When you grow up tilling, and you want to tear up the dirt.
+
+IRA FLATOW: It means you don’t plow the–
+
+TODD WESTERN III: We don’t plow. We don’t disc. We don’t do anything. That was a huge disappointment with regenerative agriculture, let me tell you.
+
+\[LAUGHTER\]
+
+So now we got–
+
+IRA FLATOW: How do you plant the seeds if you don’t plow? Tell me.
+
+TODD WESTERN III: I’ll tell you.
+
+IRA FLATOW: Yeah. Go in the weeds on this, so to speak. Go in– you know.
+
+TODD WESTERN III: So the main thing to remember, and they’ll probably agree with this, the soil doesn’t need your help. The soil has its own mechanism. The soil has its own time to do things. We just do it as humans to get it bigger, better, and greener.
+
+And so what we do is we do no till. We do cereal rye cover crops, and we do nutrient management, and we let Mother Earth do the rest. And so what happens is, is when you plant that cereal rye, it holds that earth together. It creates a mechanism, it creates the biomass in there. It creates the worms to get in there. And the earth does its magic. And so by the time you go to plant it, it’s ready for you. And you plant right into the cereal rye.
+
+Now, I don’t recommend– we plant our cereal rye, and we let us get to 5, 6, 7 feet tall, and it works. So if you ever wondered how high you can get it, we let ours get about 7 feet tall, and we plant right into it.
+
+IRA FLATOW: We like to talk about the microbiome that’s in our gut. So there’s this microbiome in the soil, too, that keeps it healthy. And that’s what you’re talking about, not ripping it up with plowing, but letting the microbiome flourish.
+
+TODD WESTERN III: Right. Right. Exactly.
+
+IRA FLATOW: And this is successful. The yield is successful.
+
+TODD WESTERN III: So, yeah. So then what happens is, is that we began to see the soil health improve. And how we knew that is because every year we see less and less weeds in the field when we go to plant.
+
+And also, you see the remnants of the cereal rye still there because we haven’t actually planted the cereal rye in the last two years for various reasons, but the natural habitation started to grow itself. And so we saw better soil health. We saw better yields. Consequently, we saw better profits.
+
+IRA FLATOW: Wow. And how hard is it for other farmers to adopt this kind of technique?
+
+TODD WESTERN III: I would say the biggest thing is they have to want to get the information, and the state agencies have to be able to get that information to them. And so once that information is there, there is step-by-step on how to do that.
+
+And also, reach out to your farmers. I mean, I’m– we were the test dummy in our area. And we worked with other farmers, and it was very well.
+
+IRA FLATOW: And you were in the papers in the headlines last December about a conference. Tell us about that.
+
+TODD WESTERN III: So the– being that in 2017, there were only seven Black farmers in the state of Iowa. So think about that. There’s only seven Black farmers in the state of Iowa. And I knew of one other one, and that was our neighbor, Mike Cook.
+
+So Mike Cook and the Western family were very, very close. I made some network connections with the Iowa– with the Black farmers down South. And down there, there’s 400 strong farmers down there.
+
+And you got to remember 1944, there were 14% of the farming community was Black. Today, there’s less than 1.4%. And I dare say, 1% of that is down South. The other 0.4% is up North.
+
+So I wanted to create a community where we knew each other, number one. Number two, to be able to share information, and number three, to be able to highlight our contributions to farming because farming transcends any race, creed, or color. It’s all hard work. And we just want to make sure–
+
+So the Iowa Farmers of Color was put together last year. It was a success. I thought I was going to find those seven. I’m happy to say that we found over 116 farmers of color– black, white, Asian. You name it. We had it there. We had interpreters.
+
+And it went so well that the US Secretary of Agriculture, Mr. Vilsack, came to visit with us and asked us what all the hubbub was about. And so he was very impressed with what we had. So I’m very happy about that.
+
+\[APPLAUSE\]
+
+IRA FLATOW: Very impressive. Very impressive. I only have a few minutes left in this segment, but I want to think about– I mentioned at the top– what the future of agriculture looks like. And Pat, let me start with you. How will– let’s say, 20, 30, 50 years from now– maybe not that far ahead.
+
+PATRICK SCHNABEL: Yeah, I hope it’s faster than that. And what I’d like to see– the cover crops that Todd mentioned. We need to start using those more. We need to get a diversity of crops in the landscape. It’s like a retirement fund. You don’t put your entire retirement fund in one stock. You need to have some diversification to reduce risk.
+
+So we need multiple crops in Iowa, both to reduce risk, but also so farmers can rotate multiple crops and break up disease and insect cycles. And farmers want this. They’re hungry for another crop, but we need to build the markets for that.
+
+IRA FLATOW: And let me ask you, Todd, what do you think– because you went through six generations of families. What’s your next two generations going to see different on the farm?
+
+TODD WESTERN III: Well, actually, I have the next generations here out in the audience. I have a 10-year-old, a 11-year-old, and a one-year-old. There they are.
+
+\[APPLAUSE\]
+
+So yeah. So that’s why I thought it was important for them to come to this, to see this, so that they grow into this. And the future of agriculture is just communication, platforms like this. And then I hope to grow the Iowa Farmers of Color Conference to make sure that all people of color come together in a safe space to learn from each other and to know each other.
+
+IRA FLATOW: So you’re hopeful. I mean, a lot of people are worried about the future, but you’re sounding very hopeful.
+
+TODD WESTERN III: You have to be hopeful. When you’re a farmer, that’s all hope, right? A farmer’s– right? It’s all hope. You throw that seed in the ground, and it’s all hope from there.
+
+IRA FLATOW: You want to give it a little boost, though.
+
+TODD WESTERN III: Yeah, you want to give it a little boost, but it’s a lot of hope.
+
+IRA FLATOW: And Pat, you think the same thing?
+
+PATRICK SCHNABEL: Absolutely. We can solve this technologically. We just have to decide to do it.
+
+IRA FLATOW: Well, I want to thank all of you for taking time to be with us today. Todd Western III, who is a sixth-generation Iowan farmer and Senior Donor Advisor at Greater Twin Cities United Way, and Dr. Patrick Schnabel, a distinguished professor at Iowa State and co-founder of Dryland Genetics. Thank you for what you do and for taking time to be with us today.
+
+TODD WESTERN III: Thank you.
+
+PATRICK SCHNABEL: Thank you.
+
+\[APPLAUSE\]
+
+*Copyright © 2024 Science Friday Initiative. All rights reserved. Science Friday transcripts are produced on a tight deadline by 3Play Media. Fidelity to the original aired/published audio or video file might vary, and text might be updated or amended in the future. For the authoritative record of Science Friday’s programming, please visit the original aired/published recording. For terms of use and more information, visit our policies pages at* [***http://www.sciencefriday.com/about/policies/***](https://www.sciencefriday.com/about/policies/)
+
+##### Meet the Producers and Host
+
+###### About Dee Peterschmidt
+
+Dee Peterschmidt is Science Friday’s audio production manager, hosted the podcast [Universe of Art](https://www.sciencefriday.com/articles/introducing-universe-of-art/), and composes music for Science Friday’s podcasts. Their D&D character is a clumsy bard named Chip Chap Chopman.
+
+###### About Ira Flatow
+
+Ira Flatow is the founder and host of Science Friday*.* His green thumb has revived many an office plant at death’s door.
 
 #### Is alternative meat the recipe for a healthier planet?
 
@@ -260,26 +599,6 @@ Your pantry's sweetest ingredient has an extremely bitter history. The sap-produ
 [Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
 
 About this episode: In late 2025, the EPA approved two pesticides for agricultural use that opponents argue contain PFAS—"forever chemicals" that pose hazards to human health. In this episode: the debate around what constitutes PFAS and the EPA's role in regulating these harmful chemicals. Guest: Rachel Frazin covers energy and environmental policy for The Hill and is the co-author of the book "Poisoning the Well: How Forever Chemicals Contaminated America". Host:  Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health. Show links and related content:   E.P.A. Moves to Weaken Limits on a Cancer-Causing Gas—New York Times   EPA just approved new 'forever chemical' pesticides for use on food—Washington Post   Trump EPA will defend Biden rule forcing polluters to pay for 'forever chemical' cleanup—The Hill   Uncovering America's Decades-Long PFAS Contamination—Public Health On Call (June 2025)   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
-
-:::
-
-#### The Ghost Town (Times Beach, Missouri)
-
-![S10 Ep140: The Ghost Town (Times Beach, Missouri)](https://i.scdn.co/image/ab67656300005f1fd352f167cf2d28d9d9fa1fd9)
-
-**Duration:** 01:07:19
-
-**Released:** 2026
-
-**Series:** Swindled
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/0DHeY6fmPJRovMGaTr9H4O)
-
-[Open Series in Spotify](https://open.spotify.com/show/2G5o4eDDl8dg4ONVTVlEmq)
-
-A small Missouri town faces a compounded catastrophe as a devastating flood follows the discovery of toxic contamination.Prelude: A mysterious illness attacks the horses and humans at Shenandoah Stables.–––-–—BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–—CONSUME: Shop.Swindled.com–––-–—MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–—FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Thanks for listening. :-)
 
 :::
 
@@ -386,6 +705,28 @@ In 2021, a survey of over 1,000 Americans found that nearly two-thirds had eaten
 :::
 
 ### Video Clips
+
+#### As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses
+
+**PBS News**, *2026-06-16*
+
+[***More details on pbs.org***](https://www.pbs.org/newshour/show/as-cancer-rates-fall-nationally-iowa-sees-a-troubling-rise-in-diagnoses)
+
+##### Video (00:08:19)
+
+<iframe width="560" height="315" src=https://player.pbs.org/viralplayer/3111589187 title=As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+For years, national conversations about cancer have often focused on the so-called “Cancer Alley” in the Deep South or Appalachian states with high smoking rates. But recently, a different state has grabbed headlines. Iowa has the second-highest cancer incidence in the country and is one of only three states where rates are rising. Special correspondent Fred de Sam Lazaro reports.
+
+##### Article
+
+For years, national conversations about cancer have often focused on the so-called “Cancer Alley” in the Deep South or Appalachian states with high smoking rates. But recently, a different state has grabbed headlines. Iowa has the second-highest cancer incidence in the country and is one of only three states where rates are rising. Special correspondent Fred de Sam Lazaro reports. Amna Nawaz: For years, national conversations about cancer often focused on the so-called Cancer Alley in the Deep South or Appalachian states with high smoking rates. But, recently, a different state has grabbed headlines. Iowa. It now has the second highest cancer incidence in the country, and is one of only three states where rates are rising. Special correspondent Fred De Sam Lazaro went to Iowa and has this report on the search for answers. Fred De Sam Lazaro: For 35-year-old Becca Mataloni, it started in 2019 with a crackling noise every time she inhaled. Becca Mataloni, Iowa Resident: Kind of like dial-up Internet, is how I always describe what it sounded like. Fred De Sam Lazaro: In 2022, she developed pneumonia, in 2024, another bout of pneumonia. Mataloni, who lives in the Des Moines area, had multiple scans and met with a pulmonologist, who delivered the diagnosis, a cancerous tumor on her lung. Becca Mataloni: It's really devastating to get a cancer diagnosis in your 30s. And even though my pulmonologist told me that I was going to be OK, it sucks, and hearing I'm going to lose two-thirds of my lung. Like, one of the first questions I asked was, am I still going to be able to do the things I love? Fred De Sam Lazaro: In rural Northern Iowa, Shelley Phelps lost her sister to breast cancer in 2015. Two years later, her husband, Michael, was diagnosed with stage four colon cancer. Shelley Phelps, Iowa Resident: You think, how can I go through this again? And how can my kids go through this again? Fred De Sam Lazaro: They had to drive at least an hour any time Michael needed treatment. In 2020, he died at the age of 50. Shelley Phelps: I have always said that, if it wasn't for my faith, I would not have gotten through this, because you're always waiting for that next shoe to fall. Who's going to be diagnosed next? Fred De Sam Lazaro: The stories represent a grim reality for Iowa, which was following national cancer trends until about 2013, when rates began to rise, driven by prostate, breast and lung cancer, as well as melanoma. Now, for the third year in a row, it's got the second highest cancer incidence in the country. Its rate among young people is also near the top. As Iowa's high cancer rates have persisted in recent years, there's been growing public concern, with key unanswered questions. What's to blame for them and what are state officials doing about it? Mary Charlton, Iowa Cancer Registry: As much as we would love to reduce it down to one thing and figure this out and change Iowa's rates, we would do that. But that's not how cancer works. Fred De Sam Lazaro: Mary Charlton leads the Iowa Cancer Registry, which has tracked the state's cancer data for over 50 years. Charlton and her staff have been traveling Iowa's 99 counties, meeting with residents. Mary Charlton: A lot of people that come to the meetings have had cancer, had a loved one diagnosed with cancer, and they want to know why. That's a really maddening thing about cancer too is, people can be exposed to the same things and their immune system might process them differently. It's not an excuse to not try to figure out what's causing the cancer and do something about it, but it kind of explains why it's kind of a slow slog to figure out what's causing our rates to be higher than the rest of the country. Fred De Sam Lazaro: Charlton does talk about some potential culprits and solutions. Iowa has among the nation's worst binge-drinking rates. It hasn't raised its cigarette tax, proven to reduce smoking, in almost 20 years. And the entire state is labeled high risk for radon, a radioactive gas found naturally in the earth that can seep into homes and cause lung cancer. Adam Shriver is the director of wellness and nutrition policy at The Harkin Institute of Drake University in Des Moines. Adam Shriver, The Harkin Institute, Drake University: We felt like a lot of the discussions in the state had been focusing on behavioral factors and genetic factors, but there was sort of this big elephant in the room in Iowa, which is the fact that we are one of the most intensively farmed states in the country. Fred De Sam Lazaro: Agriculture accounts for over 80 percent of Iowa's total land. The state produces more corn, eggs, and pork than anywhere else in the country. In March, Shriver and a team of researchers released a report that showed links between Iowa's most common cancers and certain environmental risk factors like pesticide use and nitrate run-off from fertilizers. Dan Voss is a fifth-generation corn and soybean farmer near Cedar Rapids. In 2012, Voss' wife, Susan, was having a routine checkup when doctors found a mass in her abdomen. It was liver cancer. She underwent treatment and surgery and is now cancer-free. In 2024, after experiencing some issues with his hands, Dan was diagnosed with non-Hodgkin's lymphoma. He's currently undergoing maintenance chemotherapy. Have you wrestled with the mystery of what -- you know, what got you here? Dan Voss, Iowa Farmer: Well in my case, could it be ag? Well, I think there's a chance. Can I say it is with 100 percent certainty? No. I think the state needs to have a good honest discussion about where we're at, what we can do. There are some things we can do on the ag side that would probably help. Fred De Sam Lazaro: For years, Voss has used farming techniques that reduce the amount of nitrates in the water. Dan Voss: Just because you talk about it, that's not an indictment of agriculture. Adam Shriver: I would definitely argue that, right now, public health is not part of the equation when we're deciding on agricultural policy. And it seems like it really should be. Fred De Sam Lazaro: You are convinced that the fertilizers that you use today and the insecticides are safe if applied as directed on the label? Steve Kuiper, Vice President, Iowa Corn Growers Association: Yes. Fred De Sam Lazaro: Steve Kuiper is vice president of the Iowa Corn Growers Association, a major industry group in the state. Steve Kuiper: Too many people are poking farmers in the chest and saying, you're polluting, you're polluting, you're polluting. Farmers are more than willing to make changes and make adjustments to their operations, but they need some data to support that. A lot of products have gone -- had years and years of testing before they ever went to market. So then, all of a sudden, everybody's like, well, this has got to be the problem. Fred De Sam Lazaro: Iowa Corn has joined a coalition mostly made up of health organizations working to solve the state's cancer crisis. Dr. Daniel Kollmorgen, Mahaska Health: When a patient comes to see me with a new cancer, they typically aren't asking about, why are the cancer rates in Iowa so high? They're asking about, what do I do for mine. It does pick up stuff. Fred De Sam Lazaro: Daniel Kollmorgen is the medical director of oncology at Mahaska Health in Oskaloosa, a city of about 12,000 about an hour east of Des Moines. Dr. Daniel Kollmorgen: Oftentimes, in a rural location, there can be delay from onset of symptoms to accessibility of diagnosis, getting a biopsy, getting scheduled. I try to move them off the bubble of not knowing what's going on, I have a cancer and I'm going crazy, but they don't know what comes next, and to reassure them that there is treatment, that there's a pathway forward. Fred De Sam Lazaro: Although the incidence of cancer in Iowa is high, mortality rates so far are in line with the rest of the country. It's one reason Kollmorgen says he'd like to see better cancer screening in rural areas, but also tighter regulation of farm chemicals and more water quality monitoring. Zach Lahn (R), Iowa Gubernatorial Candidate: It's about stopping the cancer crisis that is plaguing our state. Fred De Sam Lazaro: In November, Iowans will vote for a governor, U.S. senator and agriculture secretary. Tackling the state's cancer problem has already come up repeatedly on the campaign trail. And while many residents want more action from lawmakers, people like Shelley Phelps are filling in the gaps where they can. She's part of a foundation that's helped over 700 people in her county dealing with cancer. More requests come every week. For the "PBS News Hour," I'm Fred De Sam Lazaro in Iowa.
+
+##### Transcript
+
+\*Notice: Transcripts are machine and human generated and lightly edited for accuracy. They may contain errors.\* \*\*Amna Nawaz:\*\* For years, national conversations about cancer often focused on the so-called Cancer Alley in the Deep South or Appalachian states with high smoking rates. But, recently, a different state has grabbed headlines. Iowa. It now has the second highest cancer incidence in the country, and is one of only three states where rates are rising. Special correspondent Fred De Sam Lazaro went to Iowa and has this report on the search for answers. \*\*Fred De Sam Lazaro:\*\* For 35-year-old Becca Mataloni, it started in 2019 with a crackling noise every time she inhaled. \*\*Becca Mataloni, Iowa Resident:\*\* Kind of like dial-up Internet, is how I always describe what it sounded like. \*\*Fred De Sam Lazaro:\*\* In 2022, she developed pneumonia, in 2024, another bout of pneumonia. Mataloni, who lives in the Des Moines area, had multiple scans and met with a pulmonologist, who delivered the diagnosis, a cancerous tumor on her lung. \*\*Becca Mataloni:\*\* It's really devastating to get a cancer diagnosis in your 30s. And even though my pulmonologist told me that I was going to be OK, it sucks, and hearing I'm going to lose two-thirds of my lung. Like, one of the first questions I asked was, am I still going to be able to do the things I love? \*\*Fred De Sam Lazaro:\*\* In rural Northern Iowa, Shelley Phelps lost her sister to breast cancer in 2015. Two years later, her husband, Michael, was diagnosed with stage four colon cancer. \*\*Shelley Phelps, Iowa Resident:\*\* You think, how can I go through this again? And how can my kids go through this again? \*\*Fred De Sam Lazaro:\*\* They had to drive at least an hour any time Michael needed treatment. In 2020, he died at the age of 50. \*\*Shelley Phelps:\*\* I have always said that, if it wasn't for my faith, I would not have gotten through this, because you're always waiting for that next shoe to fall. Who's going to be diagnosed next? \*\*Fred De Sam Lazaro:\*\* The stories represent a grim reality for Iowa, which was following national cancer trends until about 2013, when rates began to rise, driven by prostate, breast and lung cancer, as well as melanoma. Now, for the third year in a row, it's got the second highest cancer incidence in the country. Its rate among young people is also near the top. As Iowa's high cancer rates have persisted in recent years, there's been growing public concern, with key unanswered questions. What's to blame for them and what are state officials doing about it? \*\*Mary Charlton, Iowa Cancer Registry:\*\* As much as we would love to reduce it down to one thing and figure this out and change Iowa's rates, we would do that. But that's not how cancer works. \*\*Fred De Sam Lazaro:\*\* Mary Charlton leads the Iowa Cancer Registry, which has tracked the state's cancer data for over 50 years. Charlton and her staff have been traveling Iowa's 99 counties, meeting with residents. \*\*Mary Charlton:\*\* A lot of people that come to the meetings have had cancer, had a loved one diagnosed with cancer, and they want to know why. That's a really maddening thing about cancer too is, people can be exposed to the same things and their immune system might process them differently. It's not an excuse to not try to figure out what's causing the cancer and do something about it, but it kind of explains why it's kind of a slow slog to figure out what's causing our rates to be higher than the rest of the country. \*\*Fred De Sam Lazaro:\*\* Charlton does talk about some potential culprits and solutions. Iowa has among the nation's worst binge-drinking rates. It hasn't raised its cigarette tax, proven to reduce smoking, in almost 20 years. And the entire state is labeled high risk for radon, a radioactive gas found naturally in the earth that can seep into homes and cause lung cancer. Adam Shriver is the director of wellness and nutrition policy at The Harkin Institute of Drake University in Des Moines. \*\*Adam Shriver, The Harkin Institute, Drake University:\*\* We felt like a lot of the discussions in the state had been focusing on behavioral factors and genetic factors, but there was sort of this big elephant in the room in Iowa, which is the fact that we are one of the most intensively farmed states in the country. \*\*Fred De Sam Lazaro:\*\* Agriculture accounts for over 80 percent of Iowa's total land. The state produces more corn, eggs, and pork than anywhere else in the country. In March, Shriver and a team of researchers released a report that showed links between Iowa's most common cancers and certain environmental risk factors like pesticide use and nitrate run-off from fertilizers. Dan Voss is a fifth-generation corn and soybean farmer near Cedar Rapids. In 2012, Voss' wife, Susan, was having a routine checkup when doctors found a mass in her abdomen. It was liver cancer. She underwent treatment and surgery and is now cancer-free. In 2024, after experiencing some issues with his hands, Dan was diagnosed with non-Hodgkin's lymphoma. He's currently undergoing maintenance chemotherapy. Have you wrestled with the mystery of what -- you know, what got you here? \*\*Dan Voss, Iowa Farmer:\*\* Well in my case, could it be ag? Well, I think there's a chance. Can I say it is with 100 percent certainty? No. I think the state needs to have a good honest discussion about where we're at, what we can do. There are some things we can do on the ag side that would probably help. \*\*Fred De Sam Lazaro:\*\* For years, Voss has used farming techniques that reduce the amount of nitrates in the water. \*\*Dan Voss:\*\* Just because you talk about it, that's not an indictment of agriculture. \*\*Adam Shriver:\*\* I would definitely argue that, right now, public health is not part of the equation when we're deciding on agricultural policy. And it seems like it really should be. \*\*Fred De Sam Lazaro:\*\* You are convinced that the fertilizers that you use today and the insecticides are safe if applied as directed on the label? \*\*Steve Kuiper, Vice President, Iowa Corn Growers Association:\*\* Yes. \*\*Fred De Sam Lazaro:\*\* Steve Kuiper is vice president of the Iowa Corn Growers Association, a major industry group in the state. \*\*Steve Kuiper:\*\* Too many people are poking farmers in the chest and saying, you're polluting, you're polluting, you're polluting. Farmers are more than willing to make changes and make adjustments to their operations, but they need some data to support that. A lot of products have gone -- had years and years of testing before they ever went to market. So then, all of a sudden, everybody's like, well, this has got to be the problem. \*\*Fred De Sam Lazaro:\*\* Iowa Corn has joined a coalition mostly made up of health organizations working to solve the state's cancer crisis. \*\*Dr. Daniel Kollmorgen, Mahaska Health:\*\* When a patient comes to see me with a new cancer, they typically aren't asking about, why are the cancer rates in Iowa so high? They're asking about, what do I do for mine. It does pick up stuff. \*\*Fred De Sam Lazaro:\*\* Daniel Kollmorgen is the medical director of oncology at Mahaska Health in Oskaloosa, a city of about 12,000 about an hour east of Des Moines. \*\*Dr. Daniel Kollmorgen:\*\* Oftentimes, in a rural location, there can be delay from onset of symptoms to accessibility of diagnosis, getting a biopsy, getting scheduled. I try to move them off the bubble of not knowing what's going on, I have a cancer and I'm going crazy, but they don't know what comes next, and to reassure them that there is treatment, that there's a pathway forward. \*\*Fred De Sam Lazaro:\*\* Although the incidence of cancer in Iowa is high, mortality rates so far are in line with the rest of the country. It's one reason Kollmorgen says he'd like to see better cancer screening in rural areas, but also tighter regulation of farm chemicals and more water quality monitoring. Zach Lahn (R), Iowa Gubernatorial Candidate: It's about stopping the cancer crisis that is plaguing our state. \*\*Fred De Sam Lazaro:\*\* In November, Iowans will vote for a governor, U.S. senator and agriculture secretary. Tackling the state's cancer problem has already come up repeatedly on the campaign trail. And while many residents want more action from lawmakers, people like Shelley Phelps are filling in the gaps where they can. She's part of a foundation that's helped over 700 people in her county dealing with cancer. More requests come every week. For the "PBS News Hour," I'm Fred De Sam Lazaro in Iowa.
 
 #### Drowning in seaweed How to stop invasive Sargassum
 

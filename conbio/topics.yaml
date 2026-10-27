@@ -57,8 +57,15 @@
     - "Measuring biodiversity made easy  short version"
     - "Ocean Habitat Loss"
     - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
+    - "The Surprising Species That Everything Else Depends On  IN OUR NATURE"
     - "They recorded a rainforest in Indonesia before it changed forever"
   keyword: "biodiversity"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 252
+  video_duration_string: "00:04:12"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Climate Change & Biodiversity"
   unit:
     - "Threats to Biodiversity"
@@ -110,7 +117,14 @@
     - "Climate change the trouble with trees"
     - "Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S"
     - "New Trees Won’t Solve Global Warming"
+    - "One fifth of the Amazon rainforest lost to deforestation  BBC News"
     - "The salmon dilemma"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Community & Ecosystem Approaches"
   unit:
     - "Approaches to Conservation"
@@ -176,6 +190,12 @@
     - "What Is Rewilding"
     - "Why This Unusual Pattern May Save the Rainforests 1"
     - "Why we should be destroying more dams"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Ex Situ Conservation"
   unit:
     - "Approaches to Conservation"
@@ -224,10 +244,19 @@
     - "Rebuilding The Herd Rewilding The Future"
     - "Vanishing Act"
   videos_possible:
+    - "Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S"
     - "Search ongoing for extinct Tasmanian tiger amid efforts to revive species  60 Minutes"
     - "Should zoos exist  BBC Ideas"
+    - "Thornforest Restoring the Wildlands of South Texas"
     - "We Let Beavers Transform an Old Farm"
+    - "We’re Building a Continent-Wide Wildlife Corridor - Differently"
     - "Why This Unusual Pattern May Save the Rainforests"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Exam 1 BIOL4120"
   unit:
     - "Exams BIOL4120"
@@ -275,6 +304,12 @@
     []
   videos_possible:
     []
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Extinction"
   unit:
     - "Threats to Biodiversity"
@@ -340,6 +375,12 @@
   films:
     - "Vanishing Act"
   keyword: "extinction"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 1043
+  video_duration_string: "00:17:23"
+  film_duration: 3339
+  film_duration_string: "00:55:39"
 - title: "Fall Break BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -383,6 +424,12 @@
     []
   videos_possible:
     []
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Final Exam BIOL4120"
   unit:
     - "Exams BIOL4120"
@@ -425,6 +472,12 @@
     []
   videos_possible:
     []
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Habitat Loss, Fragmentation, and Degradation"
   unit:
     - "Threats to Biodiversity"
@@ -444,14 +497,10 @@
   background:
     - "Habitat fragmentation and landscape change"
     - "Habitat destruction - death by a thousand cuts"
-  quizzes: null
   slides:
-    - "Habitat Loss & Fragmentation"
-  videos: null
-  films: null
-  exercises: null
-  handouts: null
-  assignments: null
+    - "Habitat Loss"
+  videos:
+    - "The Everyday Ingredient Destroying the Planet"
   area: "teaching"
   tags:
     - "teaching"
@@ -482,12 +531,15 @@
     - "Climate change the trouble with trees"
     - "Four years ago we flooded a forest - the results are insane"
     - "Giant Pythons Have Overrun Florida. Here’s Why"
+    - "How one scientist took on the chemical industry"
     - "How Otters Are Saving Earth’s Underwater Forests"
+    - "Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S"
     - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains 1"
     - "New Trees Won’t Solve Global Warming"
     - "Ocean Habitat Loss"
     - "One fifth of the Amazon rainforest lost to deforestation  BBC News"
     - "Seed Dispersal and Habitat Fragmentation  HHMI BioInteractive Video"
+    - "The Cuyahoga River Fire Don't Fall in the River"
     - "The Everyday Ingredient Destroying the Planet"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
     - "The story of Knepp A rewilding success  Field Studies"
@@ -505,6 +557,26 @@
   lecture_archive:
     - "9-1_habitat_loss"
     - "9-2_habitat_fragmentation"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 717
+  video_duration_string: "00:11:57"
+  film_duration: 0
+  film_duration_string: "00:00:00"
+  keyword: "habitat"
+  question_bank:
+    - "habitat_mc_1"
+    - "habitat_mc_2"
+    - "habitat_mc_3"
+    - "habitat_mc_4"
+    - "habitat_mc_5"
+    - "habitat_mc_6"
+    - "habitat_mc_7"
+    - "habitat_mc_8"
+    - "habitat_tf_1"
+    - "habitat_tf_2"
+    - "habitat_tf_3"
+    - "habitat_tf_4"
 - title: "Invasive Alien Species"
   unit:
     - "Threats to Biodiversity"
@@ -554,6 +626,12 @@
     - "Pablo Escobar's 'Cocaine Hippos' Might Finally Need to Be Killed"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
     - "Wild Horses America's Most Beloved Invasive Species"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Labor Day"
   unit:
     - "Breaks BIOL4120"
@@ -597,6 +675,12 @@
     []
   videos_possible:
     []
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Landscape-Scale Approaches"
   unit:
     - "Approaches to Conservation"
@@ -650,6 +734,7 @@
     - "Four years ago we flooded a forest - the results are insane"
     - "How Wolves Change Rivers"
     - "New Trees Won’t Solve Global Warming"
+    - "Seed Dispersal and Habitat Fragmentation  HHMI BioInteractive Video"
     - "The Everyday Ingredient Destroying the Planet"
     - "The story of Knepp A rewilding success  Field Studies"
     - "The Surprising Species That Everything Else Depends On  IN OUR NATURE"
@@ -662,6 +747,12 @@
     - "Why This Unusual Pattern May Save the Rainforests"
     - "Why This Unusual Pattern May Save the Rainforests 1"
     - "Why we should be destroying more dams"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "No Class BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -707,6 +798,12 @@
     []
   videos_possible:
     []
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Overexploitation"
   unit:
     - "Threats to Biodiversity"
@@ -718,7 +815,6 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W10D1"
     - "BIOL4120_W10D2"
     - "BIOL4120_W11D1"
   projects:
@@ -739,12 +835,11 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-10-26T16:00:00"
     - "2026-10-28T16:00:00"
     - "2026-11-02T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W10D1"
-  date_start: "2026-10-26T16:00:00"
+  class_start: "BIOL4120_W10D2"
+  date_start: "2026-10-28T16:00:00"
   week_start: 10
   class_end: "BIOL4120_W11D1"
   date_end: "2026-11-02T16:00:00"
@@ -755,6 +850,7 @@
   films_possible:
     - "Knowledge Keepers"
   videos_possible:
+    - "AI-powered camera traps are protecting Gabon wildlife from poachers"
     - "Are We Living In the Sixth Extinction"
     - "Climate change can money stop deforestation"
     - "Climate change the trouble with trees"
@@ -764,6 +860,12 @@
     - "The Everyday Ingredient Destroying the Planet"
     - "The salmon dilemma"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Overview & Syllabus BIOL4120"
   unit:
     - "Overview BIOL4120"
@@ -807,6 +909,12 @@
     []
   videos_possible:
     []
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Species-Level Approaches"
   unit:
     - "Approaches to Conservation"
@@ -863,8 +971,11 @@
     - "How Otters Are Saving Earth’s Underwater Forests"
     - "How poaching is changing the face of African elephants"
     - "Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S"
+    - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains"
+    - "Is “Environmental DNA” the Future of Conservation  Wild Hope Explains 1"
     - "Project aims to count Africa's shrinking elephant population"
     - "Search ongoing for extinct Tasmanian tiger amid efforts to revive species  60 Minutes"
+    - "Seed Dispersal and Habitat Fragmentation  HHMI BioInteractive Video"
     - "Selection for Tuskless Elephants  HHMI BioInteractive Video"
     - "Should zoos exist  BBC Ideas"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
@@ -872,6 +983,12 @@
     - "The Surprising Species That Everything Else Depends On  IN OUR NATURE"
     - "We Let Beavers Transform an Old Farm"
     - "We’re Building a Continent-Wide Wildlife Corridor - Differently"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "Thanksgiving Break BIOL4120"
   unit:
     - "Breaks BIOL4120"
@@ -915,6 +1032,12 @@
     []
   videos_possible:
     []
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
 - title: "The Rise of Conservation Biology"
   unit:
     - "Foundations of Conservation Biology"
@@ -955,6 +1078,7 @@
     - "Conservation biology - past and present"
     - "The Canal (Love Canal)"
   films_possible:
+    - "Knowledge Keepers"
     - "Rebuilding The Herd Rewilding The Future"
   videos_possible:
     - "Earth Day 1970"
@@ -969,3 +1093,9 @@
     - "Earth Day 1970"
     - "World Weather Attribution — understanding climate change and extreme weather"
   keyword: "foundation"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 3307
+  video_duration_string: "00:55:07"
+  film_duration: 0
+  film_duration_string: "00:00:00"

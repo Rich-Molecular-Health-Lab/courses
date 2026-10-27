@@ -1,6 +1,5 @@
 ---
 title: "PFAS"
-date: "2026-10-29T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -12,10 +11,6 @@ listing:
   template: "resources.ejs.md"
   contents: "PFAS_resources.yaml"
 ---
-
-## Class Meetings
-
-**Dates:** 2026-10-29T16:00:00
 
 ## Optional Material (Dive Deeper)
 
@@ -102,6 +97,128 @@ According to the CDC, virtually all Americans have PFAS, or "forever chemicals,"
 Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
 
 :::
+
+
+###### Source Content 
+
+<a href="https://www.alieward.com/ologies/environmentaltoxicology"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+![](https://images.squarespace-cdn.com/content/v1/5998d8226f4ca3396027aae2/fbd54743-264a-4dc1-870d-01915c564403/environmentaltoxicology-kimberlygarrett.jpg?format=2500w)
+
+Photo credit: Pat Healy
+
+Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time?
+
+Listen via [Stitcher](https://www.stitcher.com/show/ologies/episode/environmental-toxicology-poisons-train-derailment-with-kimberly-k-garrett-212201163), [Apple](https://podcasts.apple.com/us/podcast/environmental-toxicology-poisons-train-derailment-with/id1278815517?i=1000601069783), [Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9PbG9naWVz/episode/MjhkNTdkODgtZTM2ZS00OWJmLTg4ZjItMjBlZWZjODYyNjc2?sa=X&ved=0CAQQ8qgGahcKEwjYoJGN56j9AhUAAAAAHQAAAAAQAQ), [Podbay](https://podbay.fm/p/ologies-with-alie-ward/e/1677057042), [Podcast Addict](https://podcastaddict.com/episode/153534498), Overcast, or wherever you listen to podcasts.
+
+[Transcript](https://www.alieward.com/s/Ologies-Environmental-Toxicology.pdf)
+
+<iframe height="200px" width="100%" frameborder="no" src="https://player.simplecast.com/6678a110-a450-4871-bf23-9a1f69ef3f97?dark=true"></iframe>
+
+Visit Dr. Kimberly K. Garrett’s [website](https://www.kkgarrett.com/) and follow her on [Twitter](https://twitter.com/kimkgarrett)
+
+A donation went to [Group Against Smog & Pollution](https://www.gasp-pgh.org/) (GASP)
+
+Follow [GASP on Twitter](https://twitter.com/gasppgh)
+
+**Links to things we discussed:**
+
+[History of Toxicology](https://toxedfoundation.org/history-of-toxicology/)
+
+[Her Twitter thread](https://twitter.com/kimkgarrett/status/1622647109093662720?lang=en)
+
+[History of Taxol or Paclitaxel](https://en.wikipedia.org/wiki/Paclitaxel)
+
+[Paracelsus history](https://www.britannica.com/biography/Paracelsus)
+
+[The Origins of EPA](https://www.epa.gov/history/origins-epa)
+
+[Rachel Carlson’s 1962 book, “Silent Spring”](https://bookshop.org/p/books/silent-spring-rachel-carson/11844360?gclid=CjwKCAiA9NGfBhBvEiwAq5vSyw9S0C3J0czx64xf_P_aASKa-NGexVy3jjkrog4fl9iV9muLf8CaIBoC-iEQAvD_BwE)
+
+[Donora Smog event of 1948](https://en.wikipedia.org/wiki/1948_Donora_smog)
+
+[Deadly Donora smog via Smithsonian](https://www.smithsonianmag.com/history/deadly-donora-smog-1948-spurred-environmental-protection-have-we-forgotten-lesson-180970533/)
+
+[Donora Smog News Reel](https://www.youtube.com/watch?ab_channel=BritishPath%C3%A9&v=pKZVw5YL0sQ)
+
+[Great Smog of London](https://www.britannica.com/event/Great-Smog-of-London)
+
+[London Fog coats: Israel Meyers obituary from 1999](https://www.nytimes.com/1999/12/31/business/israel-myers-is-dead-at-93-originated-london-fog-coat.html)
+
+[The Lorax (1972)](https://www.youtube.com/watch?ab_channel=TanyaToon&v=P0vwxKyceJ4)
+
+[Breaking Bad Pilot: Phosphine Gas Caper](https://youtu.be/a058jcG_hao)
+
+[White Noise Trailer](https://youtu.be/SgwKZAMx_gM)
+
+[Fact Check: Was Journalist Arrested in Ohio for Covering Train Derailment?](https://www.newsweek.com/fact-check-journalist-arrested-ohio-covering-train-derailment-1780787)
+
+[green science policy institute's consumer resources](https://greensciencepolicy.org/resources/consumer-resources/)
+
+[June 2022: US Supreme Court hobbles the EPA’s authority over climate emissions](https://www.nature.com/articles/d41586-022-01796-8)
+
+[Learn about Polychlorinated Biphenyls (PCBs)](https://www.epa.gov/pcbs/learn-about-polychlorinated-biphenyls-pcbs)
+
+[Did Control Burn of Toxic Chemicals Make Ohio Train Derailment Worse? – Newsweek](https://www.newsweek.com/did-control-burn-toxic-chemicals-make-ohio-train-derailment-worse-1781273)
+
+[What’s causing the oil sheen in East Palestine streams?](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/whats-causing-the-oil-sheen-in-east-palestine-streams/)
+
+[Phthalates on Wiki](https://en.wikipedia.org/wiki/Phthalate)
+
+[NIH’s info on Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS)](https://www.niehs.nih.gov/health/topics/agents/pfc/index.cfm)
+
+[The Adverse Impact of Incense Smoke on Human Health: From Mechanisms to Implications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548258/)
+
+[The Impact of Candle Burning During All Saints’ Day Ceremonies on Ambient Alkyl-Substituted Benzene Concentrations](https://link.springer.com/article/10.1007/s00128-013-1104-6)
+
+[Lead in lipsticks – FDA report](https://www.fda.gov/cosmetics/cosmetic-products/limiting-lead-lipstick-and-other-cosmetics)
+
+[Maybelline’s Pink Petal lipstick](https://www.amazon.com/Maybelline-ColorSensational-Lipcolor-Pink-Petal/dp/B002LFPZBQ)
+
+**Other episodes you may enjoy:**
+
+[Conservation Technology (EARTH SAVING)](https://www.alieward.com/ologies/conservation-technology)
+
+[Forensic Ecology (NATURE DETECTIVE)](https://www.alieward.com/ologies/forensicecology)
+
+[Oceanology (OCEANS)](https://www.alieward.com/ologies/oceanology)
+
+[Meteorology (WEATHER & CLIMATE)](https://www.alieward.com/ologies/meteorology)
+
+[Melaninology (SKIN/HAIR PIGMENT)](https://www.alieward.com/ologies/melaninology)
+
+[Environmental Microbiology (TESTING WASTEWATER)](https://www.alieward.com/ologies/environmentalmicrobiology)
+
+[Secrets, Advice + AMA (LANTERNS, ETC.)](https://www.alieward.com/ologies/bonusama)
+
+**Ologies info:**
+
+[Sponsors of Ologies](https://alieward.com/ologies-sponsors)
+
+[Transcripts and bleeped episodes](https://alieward.com/ologies-extras)
+
+[Smologies (short, classroom-safe) episodes](https://alieward.com/smologies)
+
+[Become a patron of Ologies](https://www.patreon.com/ologies) for as little as a buck a month
+
+[OlogiesMerch.com](https://www.ologiesmerch.com/) has hats, shirts, masks, totes!
+
+Follow @AlieWard on [Twitter](https://www.twitter.com/alieward) and [Instagram](https://www.instagram.com/alieward)
+
+Editing by Mercedes Maitland of [Maitland Audio Productions](http://maitlandaudio.com/) and [Jarrett Sleeper](https://www.jarrettsleeper.com/) of [MindJam Media](https://www.mindjammedia.com/)
+
+Transcripts by Emily White of [The Wordary](https://www.thewordary.com/)
+
+Website by [Kelly R. Dwyer](https://www.kellyrdwyer.com/photo)
+
+Theme song by Nick Thorburn
+
+>[!view-source]- View Here
+><iframe height=700 src=https://www.alieward.com/ologies/environmentaltoxicology></iframe>
+
+###### Transcript
+
+![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett.pdf](../attachments/Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett.pdf)
 
 #### European Companies Are Far Ahead
 
@@ -303,6 +420,37 @@ As their name suggests, “forever chemicals” have extraordinary staying power
 
 :::
 
+
+##### Source Content 
+
+<a href="https://bigpicturescience.org/episodes/some-chemicals-are-forever"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+
+[Download episode](https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/1E7F5E/mgln.ai/e/211/traffic.megaphone.fm/ARML2077319332.mp3?updated=1757892031)
+
+As their name suggests, “forever chemicals” have extraordinary staying power. When these nearly indestructible compounds find their way into our soil and water, they don’t break down for hundreds or thousands of years. PFAS – the name for these synthetic chemicals – isn’t just in our natural environment. Scientists have found it everywhere, including in the blood of nearly every living being.
+
+In this episode, we talk to the reporter who broke open the story about a decades-long corporate coverup regarding forever chemicals, look at what we know about their health effects, and consider how a kneecapping of the EPA’s regulatory power may weaken the best tool we have for protecting ourselves from PFAS contamination.
+
+**Guests:**
+
+**[Nathaniel Rich](https://nathanielrich.com/)** – Author of “ [Second Nature: Scenes from a World Remade](https://bookshop.org/p/books/second-nature-scenes-from-a-world-remade-nathaniel-rich/ced7f351cb7854eb),” and the New York Times Magazine article, “ [The Lawyer Who Became Dupont’s Worst Nightmare](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html) ”
+
+– Energy and Environment Policy reporter for The Hill, co-author of “ [Poisoning the Well: How Forever Chemicals Contaminated America](https://bookshop.org/p/books/poisoning-the-well-how-forever-chemicals-contaminated-america-rachel-frazin/0f77a39df5bd45fb) ”
+
+**[Janet McCabe](https://oneill.indianapolis.iu.edu/contact/people-directory/mccabe-janet.html)** – visiting professor at the Robert McKinney School of Law at Indiana University, former deputy administrator of the United States Environmental Protection Agency
+
+[Descripción en español](https://bigpicturescience.org/es/episodes/algunas-sustancias-quimicas-son-permanentes)
+
+Featuring music by [Dewey Dellay](http://www.deweydellay.com/) and [Jun Miyake](https://www.junmiyake.com/biographyenglish)
+
+You can get early access to ad-free versions of every episode by joining us on [Patreon](https://www.patreon.com/bigpicturescience). Thanks for your support!
+
+Big Picture Science is part of the [Airwave Media](http://airwavemedia.com/) podcast network. Please contact [advertising@airwavemedia.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=advertising@airwavemedia.com) to inquire about advertising on Big Picture Science.
+
+>[!view-source]- View Here
+><iframe height=700 src=https://bigpicturescience.org/episodes/some-chemicals-are-forever></iframe>
+
 #### The Canal (Love Canal)
 
 ![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
@@ -442,6 +590,14 @@ Superfund sites are some of the most polluted areas in the country, containing h
 The EPA defines a brownfield as land that is abandoned because redevelopment is complicated by possible environmental contamination. Tune in as Chuck and Josh examine the process of redeveloping a brownfield in this podcast from HowStuffWorks.com.  Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.
 
 :::
+
+
+##### Source Content 
+
+<a href="https://stuffyoushouldknow.com/episode/whats-a-brownfield-remediation-project/"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+>[!view-source]- View Here
+><iframe height=700 src=https://stuffyoushouldknow.com/episode/whats-a-brownfield-remediation-project/></iframe>
 
 ### Video Clips
 

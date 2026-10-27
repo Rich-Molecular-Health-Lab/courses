@@ -10,7 +10,9 @@
       "/hhe/topics/Agricultural Pollution.html",
       "/hhe/topics/Air Pollution.html",
       "/hhe/video/America's deadliest road, explained.html",
+      "/hhe/video/As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses.html",
       "/hhe/topics/Biotoxins & Microbes.html",
+      "/hhe/video/Cancer is falling nationwide. Except in Iowa..html",
       "/hhe/case_convos/Case Conversation 1 - Disasters.html",
       "/hhe/case_convos/Case Conversation 2 - Disasters.html",
       "/hhe/case_convos/Case Conversation 3 - Infrastructure.html",
@@ -46,8 +48,10 @@
       "/hhe/video/How melting glaciers contributed to Himalayas flooding.html",
       "/hhe/video/How systemic racism shaped the ecosystems of U.S. cities.html",
       "/hhe/index.html",
+      "/hhe/topics/Infectious Disease.html",
       "/hhe/video/Inside a Category 5 Hurricane Simulator.html",
       "/hhe/video/Neighborhood Walkability, Weight, and Diabetes.html",
+      "/hhe/topics/No Class - VOTE!.html",
       "/hhe/topics/One Health.html",
       "/hhe/topics/Overview & Syllabus ENVN4320.html",
       "/hhe/topics/PFAS.html",
@@ -55,6 +59,7 @@
       "/hhe/topics/Radiation.html",
       "/hhe/topics/Redlining.html",
       "/hhe/topics/Review.html",
+      "/hhe/topics/Synthetic Chemicals & Pollutants.html",
       "/hhe/topics/Thanksgiving Break ENVN4320.html",
       "/hhe/video/The Most Dangerous Wildfires All Have ONE THING in Common.html",
       "/hhe/film/The Urban Jungle.html",
@@ -105,6 +110,7 @@
       "/conbio/topics/Species-Level Approaches.html",
       "/conbio/topics/Thanksgiving Break BIOL4120.html",
       "/conbio/video/The Cuyahoga River Fire Don't Fall in the River.html",
+      "/conbio/video/The Everyday Ingredient Destroying the Planet.html",
       "/conbio/topics/The Rise of Conservation Biology.html",
       "/conbio/video/This Is Martha, the World's Last-Known Passenger Pigeon.html",
       "/conbio/film/Vanishing Act.html",
@@ -197,6 +203,7 @@
       "/conbio/topics/Thanksgiving Break BIOL4120.html",
       "/conbio/podcast/The Canal (Love Canal).html",
       "/conbio/video/The Cuyahoga River Fire Don't Fall in the River.html",
+      "/conbio/video/The Everyday Ingredient Destroying the Planet.html",
       "/conbio/other/The Rise of Conservation Biology.html",
       "/conbio/textbook/The Rise of Conservation Biology.html",
       "/conbio/topics/The Rise of Conservation Biology.html",
@@ -218,179 +225,11 @@
     "items": []
   },
   {
-    "listing": "/hhe/topics/Review.html",
+    "listing": "/hhe/topics/Synthetic Chemicals & Pollutants.html",
     "items": []
   },
   {
-    "listing": "/hhe/topics/Radiation.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/PFAS.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/One Health.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Heat Islands.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Floods.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Final Exam.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Fall Break.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Epidemiology.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Environmental Justice.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Drought.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Climate Change & Extreme Weather.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Biotoxins & Microbes.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Agricultural Pollution.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Thanksgiving Break BIOL4120.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Overview & Syllabus BIOL4120.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/No Class BIOL4120.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Labor Day.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Fall Break BIOL4120.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Exam 1 BIOL4120.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Community & Ecosystem Approaches.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Climate Change & Biodiversity.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Biodiversity Concepts & Measurement.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Climate Change.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Ex Situ Conservation.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Extinction.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Final Exam BIOL4120.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Invasive Alien Species.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Landscape-Scale Approaches.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Overexploitation.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Species-Level Approaches.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/The Rise of Conservation Biology.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Air Pollution.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Cattle.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Crops.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Endocrine Disrupting Chemicals.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Epidemics & Pandemics.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Exam 1 ENVN4320.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Final Exam ENVN4320.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Fires.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Healthy Housing.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Heavy Metals.html",
-    "items": []
-  },
-  {
-    "listing": "/hhe/topics/Overview & Syllabus ENVN4320.html",
+    "listing": "/hhe/topics/Redlining.html",
     "items": []
   },
   {
@@ -398,7 +237,187 @@
     "items": []
   },
   {
-    "listing": "/hhe/topics/Redlining.html",
+    "listing": "/hhe/topics/Overview & Syllabus ENVN4320.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/No Class - VOTE!.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Heavy Metals.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Healthy Housing.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Fires.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Final Exam ENVN4320.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Exam 1 ENVN4320.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Epidemics & Pandemics.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Endocrine Disrupting Chemicals.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Crops.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Cattle.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Air Pollution.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/The Rise of Conservation Biology.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Species-Level Approaches.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Overexploitation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Landscape-Scale Approaches.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Invasive Alien Species.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Final Exam BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Extinction.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Ex Situ Conservation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Climate Change.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Biodiversity Concepts & Measurement.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Climate Change & Biodiversity.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Community & Ecosystem Approaches.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Exam 1 BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Fall Break BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Labor Day.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/No Class BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Overview & Syllabus BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Thanksgiving Break BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Agricultural Pollution.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Biotoxins & Microbes.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Climate Change & Extreme Weather.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Drought.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Environmental Justice.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Epidemiology.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Fall Break.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Final Exam.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Floods.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Heat Islands.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Infectious Disease.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/One Health.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/PFAS.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Radiation.html",
+    "items": []
+  },
+  {
+    "listing": "/hhe/topics/Review.html",
     "items": []
   },
   {
@@ -424,9 +443,11 @@
       "/hhe/video/America's deadliest road, explained.html",
       "/hhe/podcast/Animal Diseases and Human Health - The Sloth and Screwworm Episode.html",
       "/hhe/podcast/Are extreme wildfires the new normal?.html",
+      "/hhe/video/As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses.html",
       "/hhe/podcast/As the climate changes, is the deadly flooding in Nepal a sign of things to come?.html",
       "/hhe/topics/Biotoxins & Microbes.html",
       "/hhe/units/Breaks ENVN4320.html",
+      "/hhe/video/Cancer is falling nationwide. Except in Iowa..html",
       "/hhe/case_convos/Case Conversation 1 - Disasters.html",
       "/hhe/case_convos/Case Conversation 2 - Disasters.html",
       "/hhe/case_convos/Case Conversation 3 - Infrastructure.html",
@@ -446,6 +467,7 @@
       "/hhe/topics/Drought.html",
       "/hhe/topics/Endocrine Disrupting Chemicals.html",
       "/hhe/topics/Environmental Justice.html",
+      "/hhe/podcast/Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett.html",
       "/hhe/topics/Epidemics & Pandemics.html",
       "/hhe/topics/Epidemiology.html",
       "/hhe/topics/Exam 1 ENVN4320.html",
@@ -472,10 +494,14 @@
       "/hhe/video/How melting glaciers contributed to Himalayas flooding.html",
       "/hhe/video/How systemic racism shaped the ecosystems of U.S. cities.html",
       "/hhe/podcast/Hurricane Katrina.html",
+      "/hhe/topics/Infectious Disease.html",
       "/hhe/units/Infrastructure.html",
       "/hhe/video/Inside a Category 5 Hurricane Simulator.html",
       "/hhe/units/Introduction.html",
+      "/hhe/podcast/Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort.html",
+      "/hhe/podcast/Lead Poisoning - Heavy Metal Episode.html",
       "/hhe/video/Neighborhood Walkability, Weight, and Diabetes.html",
+      "/hhe/topics/No Class - VOTE!.html",
       "/hhe/podcast/Nsilo Berry on making buildings healthier.html",
       "/hhe/topics/One Health.html",
       "/hhe/podcast/Our tick nightmare.html",
@@ -492,7 +518,9 @@
       "/hhe/units/Review Days.html",
       "/hhe/units/Review Days ENVN4320.html",
       "/hhe/podcast/Should we reengineer the world's deadliest animal?.html",
+      "/hhe/topics/Synthetic Chemicals & Pollutants.html",
       "/hhe/topics/Thanksgiving Break ENVN4320.html",
+      "/hhe/podcast/The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?.html",
       "/hhe/video/The Most Dangerous Wildfires All Have ONE THING in Common.html",
       "/hhe/film/The Urban Jungle.html",
       "/hhe/podcast/Ticks are a growing problem, no matter where you live.html",

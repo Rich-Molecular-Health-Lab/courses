@@ -73,8 +73,8 @@
   profile: "slides"
   attachments:
     - "Contemporary_Conservation_Biology.jpg"
-- title: "Habitat Loss & Fragmentation"
-  image: null
+- title: "Habitat Loss"
+  image: "loss_drivers.png"
   tags:
     - "teaching"
     - "slides"
@@ -114,9 +114,17 @@
   defaultTemplate: "tpl-fig-boxflow"
   enableOverview: "true"
   course_name: "Conservation Biology"
+  keyword: "habitat_loss"
   profile: "slides"
   attachments:
-    []
+    - "loss_drivers.png"
+    - "Habitat Loss-1.png"
+    - "Habitat Loss-2.png"
+    - "Habitat Loss-3.png"
+    - "Habitat Loss-4.png"
+    - "Habitat Loss-5.png"
+    - "Habitat Loss-6.png"
+    - "Habitat Loss-7.png"
 - title: "Patterns & Risk of Extinction"
   image: "c08fig002.jpg"
   tags:

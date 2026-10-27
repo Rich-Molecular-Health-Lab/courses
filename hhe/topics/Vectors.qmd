@@ -1,6 +1,6 @@
 ---
 title: "Vectors"
-date: "2026-11-12T16:00:00"
+date: "2026-11-17T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -15,7 +15,7 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-11-12T16:00:00, 2026-11-17T16:00:00, 2026-11-19T16:00:00
+**Dates:** 2026-11-17T16:00:00, 2026-11-19T16:00:00
 
 ## Assigned Background
 
@@ -2175,7 +2175,7 @@ For licensing inquiries: https://www.wbaltv.com/licensing
 
 ##### Video (1:56)
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="700" src=https://www.youtube.com/embed/UlIj0pwqroM title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Description
 

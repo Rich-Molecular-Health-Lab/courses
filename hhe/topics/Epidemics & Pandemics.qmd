@@ -1,6 +1,5 @@
 ---
 title: "Epidemics & Pandemics"
-date: "2026-12-03T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -13,13 +12,9 @@ listing:
   contents: "Epidemics & Pandemics_resources.yaml"
 ---
 
-## Class Meetings
-
-**Dates:** 2026-12-03T16:00:00, 2026-12-08T16:00:00
-
 ## Assigned Background
 
-### Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
+### The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
 
 ![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
 
@@ -38,6 +33,31 @@ listing:
 The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
 
 :::
+
+
+#### Source Content 
+
+The current Ebola outbreak in the Democratic Republic of the Congo [is the deadliest in the country’s history.](https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%E2%81%A0%E2%81%A0wider-as-drc-death-toll-passes-2500-un)
+
+With over [2,500 deaths and more than 5,000 confirmed cases,](https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak) it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing [the West Africa outbreak](https://www.who.int/emergencies/situations/ebola-outbreak-2014-2016-West-Africa) that killed more than 11,000 people between 2014 and 2016.
+
+What do we know about why this outbreak is moving so quickly?
+
+::: {.callout-examples title="Guests"}
+
+- infectious disease specialist and epidemiologist; editor-at-large for public health, KFF Health News
+- East Africa bureau chief, The New York Times
+-president, Refugees International
+- country representative for FHI 360 in the Democratic Republic of the Congo
+- nurse, Doctors Without Borders
+
+:::
+
+
+<a href="https://the1a.org/segments/the-drc-ebola-outbreak-is-spreading-at-a-rapid-pace-why/"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+>[!view-source]- View Here
+><iframe height=700 src=https://the1a.org/segments/the-drc-ebola-outbreak-is-spreading-at-a-rapid-pace-why/></iframe>
 
 ### Preventing Future Pandemics
 
@@ -250,6 +270,26 @@ You’ve seen the headlines: a food-borne parasite is infecting people across th
 
 :::
 
+#### Does It Feel Like Mosquitoes Are Getting Worse?
+
+![Does It Feel Like Mosquitoes Are Getting Worse?](https://i.scdn.co/image/ab67656300005f1f3282450f01d1e10beed29b66)
+
+**Duration:** 00:13:19
+
+**Released:** 2025
+
+**Series:** Short Wave
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/7EP3BRxM78QjbVaIcY3vwk)
+
+[Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
+
+Mosquitoes are the deadliest animal on the planet, and some of them may be on the rise. At least in listener Abigail Krich-Starr's area, that's due to warmer, wetter weather — which, yes, is linked to climate change. But it doesn't stop there: Ecologists and entomologists say increased heat could also alter mosquito behavior, shift their natural habitat, and even change how pathogens incubate and spread inside their bodies.So how do you protect yourself against the (mosquito) masses? Our experts suggested several things:- Assess your risk by checking local mosquito surveillance efforts, like this one for the state of Massachusetts- Consider rescheduling outdoor events happening between dusk and dawn, which is peak biting time for multiple mosquito species- Wear long-sleeved shirts and pants, weather-permitting, to limit exposed skin- Use an EPA-approved DEET repellent, and/or a permethrin spray for clothing and outdoor gearThis episode is part of Nature Quest, a monthly Short Wave segment that answers listener questions about the local environment.Got a question about changes in your local environment? Send a voice memo to shortwave@npr.org with your name, where you live and your question. We might make it into our next Nature Quest episode! Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
 #### Eating the Wild - Bushmeat, Game, and the Fuzzy Line Between Them
 
 ![Eating the Wild: Bushmeat, Game, and the Fuzzy Line Between Them](https://i.scdn.co/image/ab67656300005f1f1d4fb215c2567468d645a004)
@@ -350,26 +390,6 @@ You may have heard of a parasite that’s causing some gastrointestinal distress
 
 :::
 
-#### Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
-
-![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
-
-**Duration:** 00:45:54
-
-**Released:** 2026
-
-**Series:** 1A
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV)
-
-[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
-
-The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
-
-:::
-
 #### How Do You Kill a Mosquito?
 
 ![How Do You Kill a Mosquito?](https://i.scdn.co/image/ab67656300005f1fdcb86b6f8a4a93e27259d570)
@@ -387,26 +407,6 @@ The current Ebola outbreak in the Democratic Republic of the Congo is the deadli
 [Open Series in Spotify](https://open.spotify.com/show/5zO1JRIY0pon3rxHEEbm8X)
 
 Mosquitoes are little jerks. They suck your blood to make more mosquitoes, spread deadly diseases like malaria and dengue, and have killed more humans than any other creature in the history of Earth. But now, we can fight back. Gene-editing technology (CRISPR, gene drives) could temporarily wipe out disease-carrying mosquitoes in whole regions — potentially saving millions of lives. A miracle, but with an unsettling question of its own: Who gets to decide when humanity rewrites nature?Also: radiation-blasted flies, Australian rabbit smoothies, and … Mosquito Jurassic Park.Support Are We Doomed?, get bonus episodes, and more: https://doompod.com/support/  To manage podcast ad preferences, review the links below:See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences. NPR Privacy Policy
-
-:::
-
-#### Hurricane Katrina
-
-![Hurricane Katrina](https://i.scdn.co/image/ab67656300005f1f581ef9fe2503090c1daecb9f)
-
-**Duration:** 00:47:42
-
-**Released:** 2026
-
-**Series:** Short History Of...
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/6g8p84wcEdYgxaR7nvLBeJ)
-
-[Open Series in Spotify](https://open.spotify.com/show/2mcJ0sFMn4TdKCQrxoLPgO)
-
-In August 2005, one of the most powerful storms ever recorded in the Gulf of Mexico barrelled toward the United States. When Hurricane Katrina finally struck land, it devastated hundreds of miles of shoreline, but the disaster that captured the world’s attention unfolded in one place above all: the city of New Orleans.     Within hours of the storm passing, the flood defence levees meant to protect the city broke, and it began to fill with water. What followed the natural disaster was a crisis that raised profound questions about preparedness, inequality, and the ability and willingness of a modern nation to protect one of its own great cities.     But why was New Orleans so vulnerable in the first place? What was the response in the wake of the hurricane and flooding? And what did the disaster reveal about the systems of engineering, government and society that were supposed to protect it?    This is a Short History Of Hurricane Katrina.    A Noiser podcast production. Hosted by John Hopkins. With thanks to Jed Horne, a Pulitzer Prize-winning reporter and author of Breach of Faith: Hurricane Katrina and the Near Death of a Great American City.    Written by Sean Coleman | Produced by Kate Simants | Production Assistant: Chris McDonald | Exec produced by Katrina Hughes | Sound supervisor: Tom Pink | Sound design by Mirianna Pitman-Latham and Matthew Peaty | Assembly edit by Dorry Macaulay | Compositions by Oliver Baines, Dorry Macaulay, Tom Pink | Mix & mastering: Cody Reynolds-Shaw    Unlock the next two episodes of Short History Of… right now by subscribing to Noiser+. You’ll also get ad-free listening and early access to shows across the Noiser podcast network, including Real Survival Stories and Sherlock Holmes Short Stories. Just click the subscription banner at the top of the feed, or head to www.noiser.com/subscriptions to get started. Learn more about your ad choices. Visit podcastchoices.com/adchoices
 
 :::
 
@@ -2052,6 +2052,51 @@ KWONG: Mm. Ben Bradford, your podcast Are We Doomed? is out now. Thank you so mu
 BRADFORD: Thank you for having me.
 
 KWONG: Check out the show. It's really good. You can find it all the places you typically get your podcasts. And also, if you haven't already, download the NPR app. My bosses really want you to do it, and you will honestly get great journalism from it. Thank you. This episode was produced by Rachel Carlson and edited by our showrunner Rebecca Ramirez. Tyler Jones checked the facts. Kwesi Lee was the audio engineer. I'm Emily Kwong. Thank you for listening to Short Wave from NPR.
+
+#### The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?
+
+![Health: The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)
+
+**Duration:** 00:45:54
+
+**Released:** 2026
+
+**Series:** 1A
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV)
+
+[Open Series in Spotify](https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK)
+
+The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
+
+:::
+
+
+##### Source Content 
+
+The current Ebola outbreak in the Democratic Republic of the Congo [is the deadliest in the country’s history.](https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%E2%81%A0%E2%81%A0wider-as-drc-death-toll-passes-2500-un)
+
+With over [2,500 deaths and more than 5,000 confirmed cases,](https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak) it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing [the West Africa outbreak](https://www.who.int/emergencies/situations/ebola-outbreak-2014-2016-West-Africa) that killed more than 11,000 people between 2014 and 2016.
+
+What do we know about why this outbreak is moving so quickly?
+
+::: {.callout-examples title="Guests"}
+
+- infectious disease specialist and epidemiologist; editor-at-large for public health, KFF Health News
+- East Africa bureau chief, The New York Times
+-president, Refugees International
+- country representative for FHI 360 in the Democratic Republic of the Congo
+- nurse, Doctors Without Borders
+
+:::
+
+
+<a href="https://the1a.org/segments/the-drc-ebola-outbreak-is-spreading-at-a-rapid-pace-why/"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+>[!view-source]- View Here
+><iframe height=700 src=https://the1a.org/segments/the-drc-ebola-outbreak-is-spreading-at-a-rapid-pace-why/></iframe>
 
 #### The Latest On Bird Flu
 

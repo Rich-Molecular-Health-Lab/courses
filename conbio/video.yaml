@@ -127,6 +127,7 @@
   topics_possible:
     - "The Rise of Conservation Biology"
     - "Habitat Degradation"
+    - "Habitat Loss, Fragmentation, and Degradation"
   genre: "Education"
   source: "YouTube"
   tags:
@@ -149,6 +150,7 @@
   assigned: true
   themes_possible:
     - "Foundations of Conservation Biology"
+    - "Threats to Biodiversity"
   class_days:
     - "BIOL4120_W2D1"
     - "BIOL4120_W3D2"
@@ -293,6 +295,7 @@
   topics_possible:
     - "The Rise of Conservation Biology"
     - "Habitat Degradation"
+    - "Habitat Loss, Fragmentation, and Degradation"
   genre: "Education"
   source: "YouTube"
   tags:
@@ -315,6 +318,7 @@
   assigned: true
   themes_possible:
     - "Foundations of Conservation Biology"
+    - "Threats to Biodiversity"
   class_days:
     - "BIOL4120_W2D1"
     - "BIOL4120_W3D2"
@@ -325,6 +329,63 @@
   dates:
     - "2026-08-31T16:00:00"
     - "2026-09-09T16:00:00"
+  course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
+- title: "The Everyday Ingredient Destroying the Planet"
+  video: "https://www.youtube.com/watch?v=8Nj_kIiyrwQ"
+  description: "Kal Penn investigates the damage being done by the palm oil industry in Indonesia. The product is used in everything from cookies to shampoo, but its production has laid waste to forests all over the"
+  duration_string: "11:56"
+  creator: "Bloomberg Originals"
+  author: "Bloomberg Originals"
+  published_at: "2023-04-05"
+  released: "2023-04-05"
+  cover: "https://i.ytimg.com/vi/8Nj_kIiyrwQ/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/8Nj_kIiyrwQ"
+  course_prefix: "BIOL"
+  course_number: 4120
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Habitat Loss, Fragmentation, and Degradation"
+    - "Overexploitation"
+    - "Landscape-Scale Approaches"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "8Nj_kIiyrwQ87741124305"
+  duration: "717"
+  type: "video"
+  image: "![The Everyday Ingredient Destroying the Planet](https://i.ytimg.com/vi/8Nj_kIiyrwQ/maxresdefault.jpg)"
+  authors: "Bloomberg Originals"
+  series: "Bloomberg Originals"
+  author_first: "Originals"
+  author_last: "Originals"
+  author_display: "Bloomberg Originals"
+  published: "2023-04-05T00:00:00.000Z"
+  year: 2023
+  assigned: true
+  themes_possible:
+    - "Threats to Biodiversity"
+    - "Approaches to Conservation"
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+  topics:
+    - "Habitat Loss, Fragmentation, and Degradation"
+  themes:
+    - "Threats to Biodiversity"
+  dates:
+    - "2026-10-07T16:00:00"
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:
@@ -431,12 +492,16 @@
   class_days:
     - "BIOL4120_W2D1"
     - "BIOL4120_W3D2"
+    - "ENVN4320_W3D1"
   topics:
     - "The Rise of Conservation Biology"
+    - "Climate Change & Extreme Weather"
   themes:
     - "Foundations of Conservation Biology"
+    - "Disasters"
   dates:
     - "2026-08-31T16:00:00"
+    - "2026-09-08T16:00:00"
     - "2026-09-09T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"

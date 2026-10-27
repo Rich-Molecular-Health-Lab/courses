@@ -70,7 +70,7 @@
     - "Urban Infrastructure & Housing"
     - "One Health"
     - "Vectors"
-    - "Zoonoses"
+    - "Infectious Disease"
     - "Epidemiology"
   genre: "News & Politics"
   source: "YouTube"
@@ -101,6 +101,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -109,6 +111,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -130,6 +134,7 @@
   topics_possible:
     - "Climate Change & Extreme Weather"
     - "Floods"
+    - "Environmental Justice"
   genre: "News & Politics"
   source: "YouTube"
   tags:
@@ -149,6 +154,7 @@
   assigned: true
   themes_possible:
     - "Disasters"
+    - "Introduction"
   class_days:
     - "ENVN4320_W3D2"
     - "ENVN4320_W4D1"
@@ -185,6 +191,7 @@
     - "Vector Ecology"
     - "Epidemiology"
     - "Urban Infrastructure & Housing"
+    - "Infectious Disease"
   genre: "Science & Technology"
   source: "YouTube"
   tags:
@@ -208,11 +215,14 @@
   themes_possible:
     - "Introduction"
     - "Infrastructure"
+    - "Pathogens"
   class_days:
     - "ENVN4320_W6D2"
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -221,6 +231,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -241,6 +253,8 @@
     - "Human Health & the Environment Fall 2026"
   topics_possible:
     - "Environmental Justice"
+    - "Synthetic Chemicals & Pollutants"
+    - "Heavy Metals"
   genre: "News & Politics"
   source: "YouTube"
   tags:
@@ -258,6 +272,7 @@
   assigned: true
   themes_possible:
     - "Introduction"
+    - "Toxins"
   class_days:
     - "ENVN4320_W2D2"
   topics:
@@ -321,6 +336,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -329,7 +346,121 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
+  profile: "video"
+  attachments:
+    []
+- title: "As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses"
+  video: "https://www.pbs.org/newshour/show/as-cancer-rates-fall-nationally-iowa-sees-a-troubling-rise-in-diagnoses"
+  description: "For years, national conversations about cancer have often focused on the so-called “Cancer Alley” in the Deep South or Appalachian states with high smoking rates. But recently, a different state has grabbed headlines. Iowa has the second-highest"
+  duration_string: "00:08:19"
+  creator: "Fred de Sam Lazaro, Sam Lane, Simeon Lancaster"
+  published_at: "2026-06-16"
+  cover: "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/CancerontheRise-1024x576.jpg"
+  embed: "https://player.pbs.org/viralplayer/3111589187"
+  course_prefix: "ENVN"
+  course_number: "4130"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Agricultural Pollution"
+    - "Synthetic Chemicals & Pollutants"
+    - "Environmental Justice"
+  genre: "Health"
+  source: "PBS News"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+    - "segment"
+    - "cancer"
+    - "health"
+    - "iowa"
+    - "science"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "diagnoses20261025"
+  type: "video"
+  image: "![As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses](https://d3i6fh83elv35t.cloudfront.net/static/2026/06/CancerontheRise-1024x576.jpg)"
+  duration: 499
+  authors: "Fred de Sam Lazaro, Sam Lane, Simeon Lancaster"
+  series: "Fred de Sam Lazaro, Sam Lane, Simeon Lancaster"
+  author_first: "Lazaro"
+  author_last: "Lancaster"
+  author_display: "Fred de Sam Lazaro, Sam Lane, Simeon Lancaster"
+  published: "2026-06-16T00:00:00.000Z"
+  released: "2026-06-16"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Toxins"
+    - "Introduction"
+  class_days:
+    - "ENVN4320_W12D2"
+    - "ENVN4320_W12D1"
+  topics:
+    - "Synthetic Chemicals & Pollutants"
+  themes:
+    - "Toxins"
+  dates:
+    - "2026-11-10T16:00:00"
+    - "2026-11-12T16:00:00"
+  profile: "video"
+  attachments:
+    []
+- title: "Cancer is falling nationwide. Except in Iowa.  The Excerpt"
+  video: "https://www.youtube.com/watch?v=_M3fSyDr_Yw&list=PLlvHlI3rc2tOumBquZBOeyXQ_AUY2tzfc&index=18"
+  description: "Cancer rates are declining across most of the United States. But Iowa is moving in the opposite direction. Iowa now has one of the nation's highest cancer incidence rates and is one of only three stat"
+  duration_string: "[\"11:22\",\"11:22\"]"
+  creator: "USA TODAY"
+  author: "USA TODAY"
+  published_at: "2026-10-01"
+  released: "2026-10-01"
+  cover: "https://i.ytimg.com/vi/_M3fSyDr_Yw/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/_M3fSyDr_Yw?list=PLlvHlI3rc2tOumBquZBOeyXQ_AUY2tzfc"
+  course_prefix: "ENVN"
+  course_number: "4320"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Synthetic Chemicals & Pollutants"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "_M3fSyDr_Yw87741124305"
+  duration: "683"
+  type: "video"
+  image: "![Cancer is falling nationwide. Except in Iowa.  The Excerpt](https://i.ytimg.com/vi/_M3fSyDr_Yw/maxresdefault.jpg)"
+  authors: "USA TODAY"
+  series: "USA TODAY"
+  author_first: "TODAY"
+  author_last: "TODAY"
+  author_display: "USA TODAY"
+  published: "2026-10-01T00:00:00.000Z"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Toxins"
+  classes_assigned:
+    - class_day: "ENVN4320_W12D1"
+      date: "2026-11-10T16:00:00"
+  topics:
+    - "Synthetic Chemicals & Pollutants"
+  themes:
+    - "Toxins"
+  class_start: "ENVN4320_W12D1"
+  date_start: "2026-11-10T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D1"
+  date_end: "2026-11-10T16:00:00"
+  week_end: 12
   profile: "video"
   attachments:
     []
@@ -405,6 +536,7 @@
   topics_possible:
     - "Climate Change & Extreme Weather"
     - "Heat Islands"
+    - "Urban Infrastructure & Housing"
   genre: "News & Politics"
   source: "YouTube"
   tags:
@@ -544,6 +676,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -552,6 +686,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -770,6 +906,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -778,6 +916,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -873,7 +1013,7 @@
     - "Human Health & the Environment Fall 2026"
   topics_possible:
     - "Vectors"
-    - "Zoonoses"
+    - "Infectious Disease"
     - "One Health"
     - "Urban Infrastructure & Housing"
   genre: "News & Politics"
@@ -905,6 +1045,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -913,6 +1055,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -1038,6 +1182,8 @@
     - "Human Health & the Environment Fall 2026"
   topics_possible:
     - "Climate Change & Extreme Weather"
+    - "Environmental Justice"
+    - "One Health"
   genre: "Education"
   source: "YouTube"
   tags:
@@ -1055,6 +1201,7 @@
   assigned: true
   themes_possible:
     - "Disasters"
+    - "Introduction"
   class_days:
     - "ENVN4320_W3D1"
   topics:
@@ -1118,6 +1265,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -1126,6 +1275,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:
@@ -1288,6 +1439,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -1296,6 +1449,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   course_name: "Human Health & the Environment"
   profile: "video"
   attachments:

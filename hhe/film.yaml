@@ -75,6 +75,8 @@
   topics_possible:
     - "Urban Infrastructure & Housing"
     - "Vectors"
+    - "One Health"
+    - "Infectious Disease"
   genre: null
   source: "pbs.org"
   tags:
@@ -95,6 +97,7 @@
   themes_possible:
     - "Infrastructure"
     - "Pathogens"
+    - "Introduction"
   author_first: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
   author_last: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
   author_display: "https://tv.apple.com/season/season-1/umc.cmc.6je3x6w5z9a3c8ps14p96sxk5?showId=umc.cmc.6lkr62hibpa5lo1w6wn4nhjw6&itsct=tv_box_link&itscg=30200"
@@ -106,6 +109,8 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
+    - "ENVN4320_W10D1"
   topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -114,12 +119,14 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   class_start: "ENVN4320_W7D1"
   date_start: "2026-10-06T16:00:00"
   week_start: 7
-  class_end: "ENVN4320_W8D1"
-  date_end: "2026-10-13T16:00:00"
-  week_end: 8
+  class_end: "ENVN4320_W10D1"
+  date_end: "2026-10-27T16:00:00"
+  week_end: 10
   course_name: "Human Health & the Environment"
   profile: "film"
   attachments:

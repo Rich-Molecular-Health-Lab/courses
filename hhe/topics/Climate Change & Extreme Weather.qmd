@@ -782,6 +782,26 @@ ROTT: The audio engineer was Robert Rodriguez. Special thanks to science corresp
 
 BARBER: And I'm Regina Barber. Thank you so much for listening to Short Wave from NPR.
 
+#### Are Humans Hot Enough to Survive a Fungal Apocalypse?
+
+![Are Humans Hot Enough to Survive a Fungal Apocalypse?](https://i.scdn.co/image/ab67656300005f1fa2cb686d7dd7747fbf00ecc4)
+
+**Duration:** 00:14:03
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/4kaFTj3tMj9mi7xNQ6V5io)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   New research has identified massive fungal blooms in North America in the Cretaceous period, suggesting significant ecological upheaval before and after the asteroid wiped out the dinosaurs. In this episode: Arturo Casadevall, senior author of the study, explains why these findings are so significant and his hypothesis that fungi gave mammals an evolutionary leg-up over reptiles. Guest:  Dr. Arturo Casadevall, PhD, MS, is chair of the department of Molecular Microbiology and Immunology at the Johns Hopkins Bloomberg School of Public Health and a global expert in host defense mechanisms, fungi, and antibody-based therapies. He is also co-author of the book What If Fungi Win? with Stephanie Desmon. Host:   Stephanie Desmon, MA, is a former journalist, author, and the director of public relations and communications for the Johns Hopkins Center for Communication Programs. Show links and related content:    Fungal Surges Marked Cretaceous Mass Extinction that Ended Age of Dinosaurs—Johns Hopkins Bloomberg School of Public Health   What zombie show 'The Last of Us' gets right about fungus in a warming world—Washington Post   What If Fungi Win?—Johns Hopkins University Press   The Discovery of a New Clade of Candida Auris—A "Critical Pathogen"—Public Health On Call (August 2024)   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
 #### As the climate changes, is the deadly flooding in Nepal a sign of things to come?
 
 ![As the climate changes, is the deadly flooding in Nepal a sign of things to come?](https://i.scdn.co/image/ab67656300005f1f23230ce0bbbc07e603c6ae01)
@@ -1431,6 +1451,249 @@ Climate change will mean more extreme weather, including heat waves. And it’s 
 Climate change is having a profound effect on agriculture. Farmers over the past decade have faced intensifying drought and heat stress on crops, leading many to wonder, what will agriculture look like 50 years from now?In May, at SciFri Live at Iowa State University in Ames, Iowa, Ira Flatow discussed the future of agriculture, and potential solutions to these problems, from innovative farming techniques, to ensuring that Iowa’s farmers of color have the resources they need to succeed. He was joined by Todd Western III, a sixth-generation Iowan farmer with Western Family Farms and senior donor advisor at Greater Twin Cities United Way, and Dr. Patrick Schnable, a distinguished professor at Iowa State University and co-founder of Dryland Genetics.Transcripts for each segment will be available after the show airs on sciencefriday.com. Subscribe to this podcast. Follow our show on Instagram, TikTok, Facebook, and Bluesky @scifri and sign up for our newsletters. Got a science question that’s keeping you up at night? Call us: 877-472-4374 Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
 
 :::
+
+
+##### Transcript
+
+IRA FLATOW: This is Science Friday. I’m Ira Flatow. Climate change is having a profound effect on agriculture. Farmers are facing intensifying drought and heat stress on crops, leading many to wonder what will agriculture look like 50 years from now.
+
+As you know, we like to focus on solutions to climate change. In May, we took the show to Ames, Iowa, where we know a lot of farmers live and where we talked about those solutions from innovative farming techniques to ensuring that Iowa’s farmers of color have the resources they need to succeed. It was an eye-opening discussion. Have a listen.
+
+Here to tell us about how they do all of that are my guests. Let me introduce them to you. Todd Western III, a sixth-generation Iowan farmer and Senior Donor Advisor at Greater Twin Cities United Way, and Dr. Patrick Schnabel, a distinguished professor at Iowa State University and co-founder of Dryland Genetics. Welcome, all of you, to Science Friday.
+
+TODD WESTERN III: Thank you.
+
+PATRICK SCHNABEL: Thank you.
+
+\[APPLAUSE\]
+
+IRA FLATOW: Yes.
+
+\[APPLAUSE\]
+
+Dr. Schnabel, let me talk to you first. Climate change is, like we would maybe say in Iowa, fertile ground– sorry– for agricultural innovation. Let’s start by talking about some of the biggest effects of climate change on farming over the last decade. What’s at stake here?
+
+PATRICK SCHNABEL: OK. So agriculture is one of the human species’ greatest inventions. We depend on about a handful of crops for civilization. Something goes wrong with those, we’re in real trouble. And the crops we developed were tuned for the environment of the last 10,000 years. Now that that’s changing, the crops are going to need to change too, or we’re going to have significant problems.
+
+So you laid some of this out. It’s going to be hotter. There’ll be more variable rainfall. So we’ll have floods. We’ll have droughts. We’ll have frosts at different periods. We’ll have new insects and diseases coming in. The challenges are enormous.
+
+What’s exciting is I think if we put our minds to this, we can solve many of them. What worries me is whether we will get our act together and do what needs to be done.
+
+IRA FLATOW: And why would we not get our– what would be some of the hindrances to that?
+
+PATRICK SCHNABEL: Well, one of them is until recently, a lot of people didn’t believe it was happening. It’s real. The USDA just put out a new plant hardiness map which shows that I can grow things in my garden in Ames that I couldn’t have grown when I first moved here 40 years ago because it’s warmer.
+
+IRA FLATOW: Right. I’ve noticed that in my own garden back in the Northeast. And the season’s like two weeks longer.
+
+PATRICK SCHNABEL: Right.
+
+IRA FLATOW: And Todd, I know you’re a farmer. Sixth generation?
+
+TODD WESTERN III: Yes.
+
+IRA FLATOW: Ah. Congratulations to you right here. Have you noticed these changes over the time you’ve been a farmer?
+
+TODD WESTERN III: Yes, absolutely. Every farmer has noticed that. It’s drier. The conditions are not conducive for the crops that we used to grow. So we have to make modifications and things of that nature.
+
+IRA FLATOW: And most farms in Iowa grow corn and soybeans. Those are the two main crops. It’s a two-crop state. But you and your son, Patrick, made an accidental discovery a while back that led to a third potentially great solution. Tell us about that.
+
+PATRICK SCHNABEL: Yeah. So this is a fun story. So my son is also a plant scientist. And he was doing an experiment in the greenhouse growing maybe 100 different species of grasses, and he was going to study the gene expression in those grasses. And he grew them to the seedling stage, harvested his tissue, did the experiment and left the plants in the greenhouse. Forgot about them. Didn’t water them.
+
+Eventually, the greenhouse manager came by and said, you’ve got to clean that mess out. And he went over there, and everything was, in fact, dead except for one plant. And he said, what’s that? And it turns out to be a crop called proso millet.
+
+And he did a great deal of research about the crop. Came back for Christmas time. We celebrated Christmas together. And we spent the entire week talking about proso millet.
+
+It’s the most water-efficient crop on the planet. It uses less water for each pound of grain produced. And that’s how it was able to do this. It survived, and it actually produced grain without being watered for a month or two.
+
+IRA FLATOW: Can I buy this millet on a store shelves?
+
+PATRICK SCHNABEL: Yeah. It’s a global crop. A lot of it’s grown in India, China. In the US, it’s grown in Northwest Colorado, Western Nebraska, South Dakota, and so forth.
+
+IRA FLATOW: So if you continue to do research on it, is that– what we’re looking at here is this millet– what else could you do with it? What kind of potential does it have?
+
+PATRICK SCHNABEL: Well, this is the thing. So maybe just give a little context here, which is we know there are going to be droughts, as Todd was saying. We’re going to have less water. You can try to make a high-yielding crop like corn more water efficient, or you can take a water-efficient crop and try to increase its yield. So that’s what we’ve been doing. We’ve increased the yield.
+
+So where does it go I think is your question. A lot of it’s used for human food in Asia, and some in here– in the US– it’s used– granola bars and stuff. It’s gluten free. But I think the big opportunity is are animal feed– it’s sustainable animal feed and sustainable fuel, like ethanol.
+
+IRA FLATOW: Like Ethanol.
+
+PATRICK SCHNABEL: Yeah. Sustainable aviation fuel is the new one.
+
+IRA FLATOW: Has it gone in that direction yet?
+
+PATRICK SCHNABEL: We’ve done the tests. We’ve done animal feeding studies. It’s basically a drop-in substitute for corn. We’ve done ethanol conversions, and it is very similar to corn for that. So we’re doing scale-ups now with an ethanol plant down in Kansas.
+
+IRA FLATOW: Chicken feed, too?
+
+PATRICK SCHNABEL: Chicken feed is a really interesting one. So I told you it’s water efficient. If you take laying hens, and you feed them with proso millet instead of corn, you save 10 to 15 gallons of water for every egg.
+
+IRA FLATOW: Per egg.
+
+PATRICK SCHNABEL: Per egg. So we can print things on eggs now. Maybe you’ve seen this, is could imagine a water drop printed on the egg with the number 10 on the inside of it, and you’re fixing breakfast for the kids. Every egg you feed them, save 10 to 15 gallons of water.
+
+IRA FLATOW: Wow. Wow. That’s amazing.
+
+\[APPLAUSE\]
+
+So let’s say you’re interested in this as a farmer.
+
+TODD WESTERN III: I’m already going to sign up.
+
+IRA FLATOW: Well, that was my next question. Can he sign up, or other farmers, sign up for this stuff? Where?
+
+PATRICK SCHNABEL: Yeah. So there’s an established market out in the Western plains. There’s not a great solution for Iowa yet. We’re working on that. Once we get it into the ethanol plants, you’ll be customer number seven or something. I mean, we’ll get you on it.
+
+IRA FLATOW: Well, what’s keeping it? Do you need extra equipment, new kinds of equipment?
+
+PATRICK SCHNABEL: No. That’s another thing. So this crop is– anybody who grows corn or soybeans already has all the equipment they need. It’s the same planters, the same harvesters. Everything’s there. And there are supply chains built. But what we’ll need to do is have markets for Todd so he doesn’t have to haul the grain all the way out to Colorado to get it sold.
+
+IRA FLATOW: Can we move him up to number five, maybe, instead of seven?
+
+PATRICK SCHNABEL: You know, everything’s negotiable.
+
+\[LAUGHTER\]
+
+IRA FLATOW: Todd, I know we’re talking about new solutions for farmers and your family. I mentioned six generations.
+
+TODD WESTERN III: Yes.
+
+IRA FLATOW: Has deep history.
+
+TODD WESTERN III: Deep history.
+
+IRA FLATOW: Deep history. Tell us about. How far back do you go, and tell us about that family history.
+
+TODD WESTERN III: So it’s a long history. And so the way I do it is I put it in chapters because it is a long, rich history. And so I put it in chapters.
+
+So our family bought their way out of slavery in 1790 in Virginia.
+
+IRA FLATOW: Wow.
+
+TODD WESTERN III: 1790. And they made the move across the country, and they settled in Iowa in 1864. And then from 1790, we settled in 1864 in Mahaska County. And you got to remember at that time in Mahaska County, there were a lot of things going on in the 1800s. And so for the next 110 years, from 1864 to 1974, the legacy was born. The foundation was made. And so the Western legacy of farming began.
+
+At that time, there were only 524 black people in Mahaska County, and so we were one of those 524. So at that point is when we built legacy, family. And it was built on resiliency.
+
+And so the last– when I became involved, if you look at the last 30 years leading up to 1974, my father and his sisters farmed that farm, created a legacy, created a community. They were well respected.
+
+And so from 1974, that’s when we took over the farm. Because at that point, my dad, when he got out of the army, he was the first Black supervisor at John Deere in 1968, where he worked for 41 years at John Deere.
+
+And then tragedy strikes in 2008. My father was training for his 13th Chicago Marathon, and he had a bicycle accident. And so he was one week from his birthday and nine months from retirement. And yeah, it was rough. And so that put a big hole in our family. And so it was in July.
+
+And so about three weeks after the funeral, you got all the shock and awe and disbelief. And then me and my brothers looked at each other and was like, holy crap, there’s still a crop in the field. Like, we got to–
+
+So at that point, you think, OK, now, where did dad put the keys? What did he do with this? How did he do this? How did he do this? And so you’re thinking this is going to happen 20 years from now.
+
+And so we banded together, and we got that crop out of the field. And so from 2008 to 2015, we were pretty much on autopilot. And we just did whatever dad did. And so whatever dad did, that’s what we did.
+
+So in 2015, what we realized is we have to be better stewards of the land, and we have to create better efficiencies in the farm. So my mom comes out of retirement. Now, you have to understand, my mom is like 5 foot 4, but walks 8 foot tall. So she is a go-getter.
+
+And now, remember, my mom was a city girl from Chicago. She knows nothing about farming. She knows how to help, but she knows nothing about farming. So in 2015, seeing the need to improve the soil health of our farm, she jumps full bore into farming and learning agriculture.
+
+She’s a woman of faith. And so because of her faith, God led that path, and they put a lot of angels in her path. And she really was the heroine there, where she created the relationships with all the state agencies– FSA, USDA, NRCS, Iowa State Extension office. They were all very welcoming to her and helped her understand the programs. And that’s when we found out about regenerative agriculture.
+
+IRA FLATOW: Well, let me stop you there because I get asked more times by people who come up to me and say, I want to pitch a story to you. Why don’t you talk about regenerative agriculture? And so now, I’ve got the guy sitting in the chair. Tell me how you do that and what that is.
+
+TODD WESTERN III: So regenerative agriculture– first of all, it’s up and coming. It’s not well known, especially in 2015 when we tried to get into it. Thankfully, Iowa State Extension Office and all the great offices helped us get into it.
+
+And what we do is– there’s many variations of it. But the core of it is we do no till, which, by the way, is not fun. When you grow up tilling, and you want to tear up the dirt.
+
+IRA FLATOW: It means you don’t plow the–
+
+TODD WESTERN III: We don’t plow. We don’t disc. We don’t do anything. That was a huge disappointment with regenerative agriculture, let me tell you.
+
+\[LAUGHTER\]
+
+So now we got–
+
+IRA FLATOW: How do you plant the seeds if you don’t plow? Tell me.
+
+TODD WESTERN III: I’ll tell you.
+
+IRA FLATOW: Yeah. Go in the weeds on this, so to speak. Go in– you know.
+
+TODD WESTERN III: So the main thing to remember, and they’ll probably agree with this, the soil doesn’t need your help. The soil has its own mechanism. The soil has its own time to do things. We just do it as humans to get it bigger, better, and greener.
+
+And so what we do is we do no till. We do cereal rye cover crops, and we do nutrient management, and we let Mother Earth do the rest. And so what happens is, is when you plant that cereal rye, it holds that earth together. It creates a mechanism, it creates the biomass in there. It creates the worms to get in there. And the earth does its magic. And so by the time you go to plant it, it’s ready for you. And you plant right into the cereal rye.
+
+Now, I don’t recommend– we plant our cereal rye, and we let us get to 5, 6, 7 feet tall, and it works. So if you ever wondered how high you can get it, we let ours get about 7 feet tall, and we plant right into it.
+
+IRA FLATOW: We like to talk about the microbiome that’s in our gut. So there’s this microbiome in the soil, too, that keeps it healthy. And that’s what you’re talking about, not ripping it up with plowing, but letting the microbiome flourish.
+
+TODD WESTERN III: Right. Right. Exactly.
+
+IRA FLATOW: And this is successful. The yield is successful.
+
+TODD WESTERN III: So, yeah. So then what happens is, is that we began to see the soil health improve. And how we knew that is because every year we see less and less weeds in the field when we go to plant.
+
+And also, you see the remnants of the cereal rye still there because we haven’t actually planted the cereal rye in the last two years for various reasons, but the natural habitation started to grow itself. And so we saw better soil health. We saw better yields. Consequently, we saw better profits.
+
+IRA FLATOW: Wow. And how hard is it for other farmers to adopt this kind of technique?
+
+TODD WESTERN III: I would say the biggest thing is they have to want to get the information, and the state agencies have to be able to get that information to them. And so once that information is there, there is step-by-step on how to do that.
+
+And also, reach out to your farmers. I mean, I’m– we were the test dummy in our area. And we worked with other farmers, and it was very well.
+
+IRA FLATOW: And you were in the papers in the headlines last December about a conference. Tell us about that.
+
+TODD WESTERN III: So the– being that in 2017, there were only seven Black farmers in the state of Iowa. So think about that. There’s only seven Black farmers in the state of Iowa. And I knew of one other one, and that was our neighbor, Mike Cook.
+
+So Mike Cook and the Western family were very, very close. I made some network connections with the Iowa– with the Black farmers down South. And down there, there’s 400 strong farmers down there.
+
+And you got to remember 1944, there were 14% of the farming community was Black. Today, there’s less than 1.4%. And I dare say, 1% of that is down South. The other 0.4% is up North.
+
+So I wanted to create a community where we knew each other, number one. Number two, to be able to share information, and number three, to be able to highlight our contributions to farming because farming transcends any race, creed, or color. It’s all hard work. And we just want to make sure–
+
+So the Iowa Farmers of Color was put together last year. It was a success. I thought I was going to find those seven. I’m happy to say that we found over 116 farmers of color– black, white, Asian. You name it. We had it there. We had interpreters.
+
+And it went so well that the US Secretary of Agriculture, Mr. Vilsack, came to visit with us and asked us what all the hubbub was about. And so he was very impressed with what we had. So I’m very happy about that.
+
+\[APPLAUSE\]
+
+IRA FLATOW: Very impressive. Very impressive. I only have a few minutes left in this segment, but I want to think about– I mentioned at the top– what the future of agriculture looks like. And Pat, let me start with you. How will– let’s say, 20, 30, 50 years from now– maybe not that far ahead.
+
+PATRICK SCHNABEL: Yeah, I hope it’s faster than that. And what I’d like to see– the cover crops that Todd mentioned. We need to start using those more. We need to get a diversity of crops in the landscape. It’s like a retirement fund. You don’t put your entire retirement fund in one stock. You need to have some diversification to reduce risk.
+
+So we need multiple crops in Iowa, both to reduce risk, but also so farmers can rotate multiple crops and break up disease and insect cycles. And farmers want this. They’re hungry for another crop, but we need to build the markets for that.
+
+IRA FLATOW: And let me ask you, Todd, what do you think– because you went through six generations of families. What’s your next two generations going to see different on the farm?
+
+TODD WESTERN III: Well, actually, I have the next generations here out in the audience. I have a 10-year-old, a 11-year-old, and a one-year-old. There they are.
+
+\[APPLAUSE\]
+
+So yeah. So that’s why I thought it was important for them to come to this, to see this, so that they grow into this. And the future of agriculture is just communication, platforms like this. And then I hope to grow the Iowa Farmers of Color Conference to make sure that all people of color come together in a safe space to learn from each other and to know each other.
+
+IRA FLATOW: So you’re hopeful. I mean, a lot of people are worried about the future, but you’re sounding very hopeful.
+
+TODD WESTERN III: You have to be hopeful. When you’re a farmer, that’s all hope, right? A farmer’s– right? It’s all hope. You throw that seed in the ground, and it’s all hope from there.
+
+IRA FLATOW: You want to give it a little boost, though.
+
+TODD WESTERN III: Yeah, you want to give it a little boost, but it’s a lot of hope.
+
+IRA FLATOW: And Pat, you think the same thing?
+
+PATRICK SCHNABEL: Absolutely. We can solve this technologically. We just have to decide to do it.
+
+IRA FLATOW: Well, I want to thank all of you for taking time to be with us today. Todd Western III, who is a sixth-generation Iowan farmer and Senior Donor Advisor at Greater Twin Cities United Way, and Dr. Patrick Schnabel, a distinguished professor at Iowa State and co-founder of Dryland Genetics. Thank you for what you do and for taking time to be with us today.
+
+TODD WESTERN III: Thank you.
+
+PATRICK SCHNABEL: Thank you.
+
+\[APPLAUSE\]
+
+*Copyright © 2024 Science Friday Initiative. All rights reserved. Science Friday transcripts are produced on a tight deadline by 3Play Media. Fidelity to the original aired/published audio or video file might vary, and text might be updated or amended in the future. For the authoritative record of Science Friday’s programming, please visit the original aired/published recording. For terms of use and more information, visit our policies pages at* [***http://www.sciencefriday.com/about/policies/***](https://www.sciencefriday.com/about/policies/)
+
+##### Meet the Producers and Host
+
+###### About Dee Peterschmidt
+
+Dee Peterschmidt is Science Friday’s audio production manager, hosted the podcast [Universe of Art](https://www.sciencefriday.com/articles/introducing-universe-of-art/), and composes music for Science Friday’s podcasts. Their D&D character is a clumsy bard named Chip Chap Chopman.
+
+###### About Ira Flatow
+
+Ira Flatow is the founder and host of Science Friday*.* His green thumb has revived many an office plant at death’s door.
 
 #### How The Current Heat Dome Can Affect Human Health
 
@@ -5644,6 +5907,128 @@ https://www.facebook.com/itsokaytobesmartpbs/
 
 **12:20** · Guess I made the joke after all. So it doesn't really count. Okay. Well, I tried.
 
+#### Mexico’s Caribbean beaches overwhelmed by record sargassum influx I Inside Latin America
+
+**Al Jazeera English**, *09 05, 2026*
+
+##### Video (10:02)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/6PHfReEbjcA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The Caribbean is facing a growing sargassum seaweed crisis, with huge quantities washing onto beaches across the region and threatening tourism, ecosystems and public health.
+
+Mexico’s Riviera Maya has been particularly affected, with the influx reaching thousands of tonnes of seaweed each day.
+
+As the algae decomposes on beaches, it can release toxic gases, raising health concerns for residents and tourists. Scientists also warn that the accumulation of sargassum can damage seagrass ecosystems and affect beach stability.
+
+The crisis is putting pressure on Mexico’s tourism industry, while the Mexican Navy has stepped up efforts to collect the seaweed before it reaches the shore.
+
+But some businesses are looking at sargassum differently.
+
+Companies including Carbonwave and Sargablock are developing ways to transform the invasive algae into products such as bio-fertilizers, footwear and construction materials.
+
+Could an environmental crisis become a new source of sustainable materials?
+
+Subscribe to our channel: http://bit.ly/AJSubscribe
+
+Follow us on X : https://twitter.com/AJEnglish
+
+Find us on Facebook: https://www.facebook.com/aljazeera
+
+Check our website: http://www.aljazeera.com/
+
+Check out our Instagram page: https://www.instagram.com/aljazeeraenglish/
+
+Download AJE Mobile App: https://aje.news/AJEMobile
+
+##### Transcript
+
+**0:04** · [music] Welcome to Inside Latin America and to Mexico's Riviera Maya. For the last decade, growing amounts of algae called sargassum have been washing up on beaches across the Caribbean, transforming once pristine coastlines and threatening the communities that depend on them.
+
+**0:25** · From the beaches of Puerto Rico to the fishing villages of the Dominican Republic, this phenomenon is taking a toll. And 2026 brought record quantities with more than 12 million tons detected across the region. But where is it all coming from and why now?
+
+**0:42** · This is the Sargasso Sea. Scientists say around 2010, changing currents began moving seaweed from here into warmer waters, forming the Great Atlantic Sargasso Belt, a vast band of floating algae stretching from West Africa across the Atlantic. Then, nutrient pollution, including fertilizer runoff carried by rivers, helped fuel its explosive growth.
+
+**1:06** · Experts agree the regional response still doesn't match the scale of the problem. But with so much sargassum arriving, governments are being forced to act while private citizens are looking to upcycle this seaweed in an effort to turn this new reality into an opportunity.
+
+**1:25** · 9,000 tons a day. That's how much sargassum washed up on Mexico's Caribbean coast at the height of this year's season.
+
+**1:34** · With its main tourist beaches under threat, the Mexican government has invested resources in tackling the problem.
+
+**1:41** · It enlisted the Navy in a process that starts with sea monitoring.
+
+**1:45** · Once blooms are located, especially designed vessels collect as much as they can.
+
+**1:51** · Barriers redirect what the ships miss, and divers work daily setting up additional nets and anchoring them beneath the surface.
+
+**2:00** · Every part of this process is extremely labor-intensive. If this ship has to be continuously repositioning itself so it can drag in all that sargassum. Once it's full, it will go back to land and it will have to all be unloaded again before being taken to a processing plant.
+
+**2:17** · The goal is to keep the sargassum from reaching the beaches where growing evidence shows prolonged exposure to the decomposing seaweed can be toxic.
+
+**2:26** · And if you were to like hang around it for a long time, it would probably cause like respiratory distress and some other issues, but um in some places in the Caribbean, like it's it's very strong and it persists for weeks at a time and they are actually seeing adverse human health effects from the hydrogen sulfide.
+
+**2:41** · But removing sargassum is also expensive.
+
+**2:44** · Putting this option out of reach for many island nations in the Caribbean. The result is beaches that look like this. And when beaches become unusable, people whose livelihoods depend on tourism and fishing suffer, too.
+
+**2:59** · People come here, see this, and turn right around and leave.
+
+**3:05** · From Guadeloupe to Puerto Rico, more than 70% of people in the Caribbean live along the coast and depend on it to survive. And experts agree, without a joint international approach to sargassum and soon, the human and economic toll will only grow.
+
+**3:22** · This phenomenon can fundamentally change how people interact with the beach. For more on that, we spoke to Brigitta van Tussenbroek, a biologist with Mexico's National Autonomous University, who's been researching how sargassum is affecting communities along the coasts.
+
+**3:38** · Well, if you just think of the village community, of course, their connection with the sea is getting less because you don't want to go to the beach on the Sunday afternoon with your family when you've got the what the amounts of sargassum there. If it's a fishing community, um it's more difficult for the boats to go out. Of course, for the tourist industry, it's a disaster. And a lot of them, the tourist complex which have money, they can attend it to a certain degree. They can put up barriers.
+
+**4:08** · They can put small boats which collect the sargassum. They can try to replenish the beach which is eroded.
+
+**4:15** · You just mentioned erosion. Can you tell me a little bit about how sargassum is having an effect on what's already a problem?
+
+**4:23** · Sargassum just being there causes erosion. Then sometimes bad practices. So, they remove the sargassum from the beach, but they take a lot of sand with it, which is another problem. And the other problem the major, I think, which I think was one of the major problem because it's my area of research, it kills the sea grasses in the nearshore. And sea grasses are very important to maintain stable beaches.
+
+**4:49** · Do you think of sargassum as a plague?
+
+**4:51** · It's a marvelous seaweed. I I'm still amazed by it. It's a a seaweed which spends its whole life floating in the ocean. It forms these enormous rafts in the open sea. And the open sea is a desert, basically, for a lot of organisms. And then in the middle of the desert, you have this really biodiverse a raft with small critters, with a lot of bacteria, with epibionts which which grow on the sargassum. It's beautiful.
+
+**5:23** · But having these huge masses of biomass decaying, getting on the beach, and then getting into the sea, it it causes a enormous disequilibrium of of whole life here in these systems.
+
+**5:36** · We've spent the last few days looking at all the efforts on various different scales of trying to get rid of the sargassum, take it out of the sea, uh clean it from the beaches. It feels like a titanic effort.
+
+**5:49** · I think at least the people who make the decisions I I think they still don't understand the scale they have to work at. But we should do 100 times more or 1,000 times more. So, it should be so much more and I think this should be a really, uh, coherent strategy of managing the sargassum.
+
+**6:09** · Are you concerned?
+
+**6:10** · Well, I think it's very difficult to be positive in the in the scenario, isn't that?
+
+**6:16** · Because, as I say, most likely, um, this is not going to stop. This ecosystem is already damaged, uh, beyond the level I won't ever see it recovering.
+
+**6:29** · So, I think we we have to be realistic in this this scenario and I think it it's very difficult to be realistic, of course, because it it doesn't look very nice. But, either really scale up a lot and invert a lot and and I really try to diminish the quantity of sargassum getting to the shore or adapt.
+
+**6:50** · But what does adapting look like? For a series of entrepreneurs in this region, the answer lies in turning this sargassum into products that can have life beyond the sea. Today's sargassum harvest in Puerto Morelos, on Mexico's Caribbean coast, ready to be processed and turned into bio-fertilizer. It's a time-sensitive operation. Tons of seaweed must be weighed, cleaned, and pressed before it starts to decompose.
+
+**7:21** · Carbonwave is a company specializing in upcycling sargassum, filtering it in multiple steps to extract nutrients that boost crop yields and reduce the need for chemical fertilizer. After years of development, its creators say they have finally secured export agreements with the US, Colombia, and Ecuador.
+
+**7:40** · We already prove that sargassum can be turned into something that is reliable financially that can create incomes, right? That can create economy along the communities here.
+
+**7:54** · In fact, the process sargassum that Carbonwave doesn't use for agricultural products ends up on people's feet. Sargasso Sandals mixes sargassum powder with EVA foam, the same material Nike and Adidas use in sneakers to make its soles. Each pair is between 10 and 15% sargassum.
+
+**8:14** · This is the fiber that I need.
+
+**8:16** · And not far from Carbonwave's plant, Omar Vasquez is using sargassum to make building blocks.
+
+**8:22** · Sargablock is an artisanal process. Each block contains 40% sargassum. The rest is other organic materials. They can make up to 6,500 blocks per day [music] using some 40 tons of sargassum. Sargablock says they've already donated 21 small homes made of this material to poor families in this community. And they say interest in this product is growing, certainly locally. This truck is going to a local business around here that's just starting a construction project.
+
+**8:54** · But Omar dreams of taking this product far beyond Mexico's coasts.
+
+**8:59** · And I went to Africa, I went to Ghana, and the problem that they have with sargassum it's major. Nobody talks about those countries because they don't have the money that we have in Mexico because tourism they don't go there as here. So, where I see myself bringing Sargablock all over the world and donating houses to all over the people.
+
+**9:17** · In Mexico alone, at least 200 projects are now looking for ways to turn a growing environmental problem into an economic opportunity. And while none of these solutions can single-handedly absorb the millions of tons of sargassum washing ashore each year, they are showing that this unwanted seaweed may have value beyond the beach.
+
+**9:40** · Governments and citizens alike are rushing to adapt the best they can to a phenomenon that is no longer just a seasonal nuisance, but rather an increasingly permanent fixture of coastal communities along the Caribbean. Thanks for watching Inside Latin America. Now back to Doha with more news.
+
+**9:58** · Still ahead on Al Jazeera, from buried underpants. Yes, you heard that
+
 #### NASA  Urban Heat Islands
 
 **NASA Goddard**, *12 10, 2010*
@@ -6131,6 +6516,142 @@ Thank you Margaret A. Carghill Philanthropies for supporting PBS.
 **11:45** · What are you doing to prepare your home?
 
 **11:47** · Let us know and we'll see you next time on Weathered.
+
+#### Trains, planes and automobiles The state of U.S. infrastructure and why it's hard to build things
+
+**Harvard Kennedy School**, *11 25, 2025*
+
+##### Video (6:07)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/59IYXSv9218 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The state of U.S. infrastructure is improving, but not great, according to Samantha Silverberg MPP 2012, a former Biden administration official and visiting fellow at the Taubman Center for State and Local Government at Harvard Kennedy School. In this video, Silverberg discusses the challenges that face federal, state and local government officials who endeavor to fix the country's infrastructure, from roads and bridges to tap water and transmission lines. Topics covered include:
+
+• The importance of infrastructure to our daily lives
+
+• Why it's often challenging to get new infrastructure built
+
+• What infrastructure priorities policymakers should focus on in the coming years.
+
+You can read more about Ms. Silverberg's thoughts on our website: https://www.hks.harvard.edu/centers/taubman/state-and-local-perspectives/interview-samantha-silverberg-mpp-2012-taubman-center
+
+
+
+About Harvard Kennedy School:
+
+The John F. Kennedy School of Government at Harvard University is a graduate and professional school that brings together students, scholars, and practitioners who combine thought and action to make the world a better place.
+
+Our mission is to improve public policy and public leadership across the United States and around the world so that people can lead safer, freer, and more prosperous lives. Harvard Kennedy School teaches current and future leaders the skills they need to effectively advance the public purpose in the public, nonprofit, and private sectors. Our renowned faculty and trailblazing research centers pioneer bold new ideas. And as the most international school at Harvard, we convene global leaders in the Forum, host visiting experts in the classroom, and attract a diverse community of faculty, students, and staff.
+
+##### Transcript
+
+###### The importance of infrastructure
+
+**0:00** · Listen, right now it takes too long and it costs too much to build infrastructure in the United States, and we need to do something about that.
+
+**0:10** · Infrastructure is so important for everything we do in our daily lives.
+
+**0:15** · Think about the roads you drove on or the train that you took to get to school or work today, the tap you turned on and the water you drank, the internet that you use, even the electricity that powers everything in our homes.
+
+**0:28** · But infrastructure is something that we really only pay attention to when it fails.
+
+###### Current state and challenges
+
+**0:33** · The state of infrastructure in the US right now is better than it was, but still not great.
+
+**0:40** · The American Society of Civil Engineers gave US infrastructure a grade of C in its most recent infrastructure report card, and that's really because of decades of underinvestment in our infrastructure that has led to crumbling roads and bridges, unreliable transit systems, power networks that are unable to withstand the impacts of climate change and so much more.
+
+**1:06** · There are tens of thousands of bridges in this country that are in poor condition.
+
+**1:12** · There are millions of Americans that still don't have access to high-speed internet, which is far worse in rural America.
+
+**1:20** · Our airports and ports lag their peers in other parts of the world, and the list goes on and on.
+
+**1:27** · Infrastructure is funded and financed in a shared way through both the federal, state, and local government, primarily through taxes and user fees.
+
+###### Funding and historical context
+
+**1:38** · There are some privately-funded projects, particularly things like power plants or electricity transmission.
+
+**1:44** · And then there are some that are a mix of private and public funding.
+
+**1:48** · You can think of airports or ports or toll roads are often common examples of public-private partnerships.
+
+**1:56** · Some of the most remarkable investments in infrastructure were accomplished by the United States government.
+
+**2:03** · You could think about the Hoover Dam, the Bay Bridge, LaGuardia Airport.
+
+**2:12** · These were all built during the New Deal.
+
+**2:15** · When there was a real national effort that provided the resources, the trust, and the commitment of the entire American population behind what the government is doing.
+
+**2:25** · I think there's a real and meaningful tension between efficiency and democracy.
+
+###### Overcoming bureaucracy
+
+**2:32** · When you want communities and the public to have a voice, which is a necessary and appropriate thing of any democratic process, there are often many veto points.
+
+**2:43** · That process can be exploited by actors who are trying to stop good things from getting done.
+
+**2:50** · The system right now is overly litigious.
+
+**2:53** · Things like environmental permitting, which have an important and good purpose, have been used as a tool to stop good projects, even clean energy projects that have an overall positive benefit on the environment.
+
+**3:05** · And as a result, these systems are getting in the way of progress.
+
+**3:09** · If we want to get things done, we need to take a hard look at the way things are currently done within our governments and within our companies.
+
+**3:17** · This means re-looking at rules and regulations and requirements that maybe each individually made sense, but when layered over years have created a process where well-intentioned public servants can't get anything done.
+
+###### Investing in public capacity
+
+**3:31** · The same time, we need to make sure that those public servants have the resources they need to do their jobs.
+
+**3:37** · My colleague and friend Zach Liscow at Yale Law School has recently published research that shows how state departments of transportation have actually shrunk over time.
+
+**3:47** · And those reduced staff have real impacts on the cost of projects.
+
+**3:52** · Zach has shown that as staffs have declined, prices have gone up.
+
+**3:57** · His team has also shown that experienced engineers actually save money on projects.
+
+**4:03** · So if we're going to get things done, we need to invest in our public institutions, we need to invest in public servants, and we need to make sure that they have the tools to get their jobs done.
+
+###### Successful projects and efforts
+
+**4:13** · When we think about infrastructure projects, it's important to think of both the mega projects and the backyard projects because both of those types of projects have meaningful impacts on our communities.
+
+**4:23** · On the mega project side, one of the examples that many people raise is the Mario Cuomo Bridge in New York.
+
+**4:29** · This was the replacement of the Tappan Zee Bridge.
+
+**4:31** · It was executed using an innovative procurement method at the time.
+
+**4:36** · It also went through an expedited environmental permitting process, and as a result of both of those activities, it was delivered on time, on budget, and, by some estimates, saved billions of dollars for the taxpayer.
+
+**4:49** · At the same time, I think it's really important to think about those smaller backyard projects.
+
+**4:55** · In the Biden Administration, one of our priorities was to replace lead pipes.
+
+**4:59** · There are still 9 million lead pipes serving our homes, which are a source of toxic chemicals.
+
+**5:05** · Through money provided by the federal government, the city of Milwaukee has already replaced thousands of lead pipes.
+
+###### Future priorities
+
+**5:12** · I think the top three infrastructure priorities for the next 10 years are, number one, climate resilience.
+
+**5:18** · We need to protect our communities from the impacts of climate change.
+
+**5:21** · The second is clean energy generation and transmission so that we could power our future.
+
+**5:26** · And the third is to close the digital divide, because we know that affordable, reliable high-speed internet is important for everything from remote school to work to accessing telehealth.
+
+**5:37** · I also want to say, though, that every community knows what their own priorities are and they can't just be told by Washington where they need to invest.
+
+**5:45** · And so the feds need to continue to invest in infrastructure carrying forward the legacy of the 2021 Infrastructure Investment and Jobs Act so that our communities can invest in what they need.
 
 #### Urbanization and the future of cities - Vance Kite
 
@@ -7042,6 +7563,640 @@ Or on Facebook: http://goo.gl/U2g06o
 **2:39** · And on top of that, many mayors don’t yet think of trees as a public health resource.
 
 **2:44** · Trees might not look like giant air filters, but that’s exactly what they are, and the sooner we start thinking of them that way, the sooner the air we breathe might be cooler and cleaner in cities around the world.
+
+#### Why don't we just turn empty offices into housing
+
+**DW Planet A**, *12 01, 2023*
+
+##### Video (12:13)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/FQOgOhheSi4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Many offices are sitting empty following the rise of working from home, while cities around the world face housing crises. Building new housing is extremely carbon intensive. Could converting unused offices into housing help solve both problems? 
+
+
+
+We're destroying our environment at an alarming rate. But it doesn't need to be this way. Our new channel Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means. We look at the big and the small: What we can do and how the system needs to change. Every Friday we'll take a truly global look at how to get us out of this mess.
+
+Credits:
+
+Reporter: Dave Braneck 
+
+Camera: Henning Goll 
+
+Video Editor: Frederik Willmann 
+
+Supervising Editor: Joanna Gottschalk 
+
+Factcheck: Jeannette Cwienk 
+
+Thumbnail:  Em Chabridon
+
+Interviewees:
+
+Steven Paynter, Principal Architect, Gensler
+
+Lily Langois, City Planner, San Francisco Planning Dept.
+
+Pernilla Hagbert, KTH Royal Institute of Technology
+
+Benjamin Albrecht, Director of Development, International Campus
+
+Marcus Gwechenberger, Head of Planning, Frankfurt
+
+For important background information, thanks to also:
+
+Stefan Bürger, GWH Housing Association
+
+Darwn Gafori, International Campus
+
+Read more:
+
+US federal government incentivizing office to housing conversions: https://www.whitehouse.gov/cea/written-materials/2023/10/27/commercial-to-residential-conversion-addressing-office-vacancies/ 
+
+Some of the physical challenges of converting offices into housing: https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html 
+ 
+Chapters:
+
+0:00 Intro 
+
+0:51 The Vacancy Problem 
+
+2:31 Housing’s environmental Impact 
+
+4:12 Adaptive Reuse 
+
+6:55 Improving City Planning 
+
+8:53 Cutting Red Tape 
+
+10:38 Potential
+
+##### Transcript
+
+###### Intro
+
+**0:00** · If you live in a city, there's a pretty good chance you're living through a housing crisis.
+
+**0:05** · Rents in major cities are skyrocketing...
+
+**0:10** · And this is happening all around the world.
+
+**0:15** · At the same time housing has grown scarce, some buildings stand empty.
+
+**0:22** · Downtown Frankfurt looks like just about any other big city's central business district.
+
+**0:26** · But the gleaming high-rises do hide an alarming fact — nearly 10% of the city's offices are vacant.
+
+**0:35** · Other major cities around the globe have vacancy rates that high...
+
+**0:38** · or even higher.
+
+**0:41** · So why don't we just convert empty offices into housing for people worldwide?
+
+###### The Vacancy Problem
+
+**0:52** · While many of us are back in the office, working from home is here to stay.
+
+**0:56** · For instance, 35% of US workers who can work from home still do.
+
+**1:01** · And plenty only come into the office on occasion.
+
+**1:04** · But vacant workspaces aren't a new problem.
+
+**1:07** · Long before the pandemic, aging offices were already becoming less desirable.
+
+**1:11** · "There's been for about the last 10 years a trend that we called 'flight to quality.'"
+
+**1:17** · Steven Paynter, an architect at one of the world's biggest firms, focuses on adaptive reuse.
+
+**1:22** · "People weren't renewing their leases in older buildings, they were going to the new ones that were being built, because they offered the kind of amenities and kind of locations people wanted."
+
+**1:32** · All these empty offices aren't just a waste of space: they mean less rent for owners, lower tax revenue for cities, and the decline of entire neighborhoods.
+
+**1:42** · "We have beautiful buildings, we have the wonderful plazas, we have sort of all of the physical assets – we just have vacant buildings.
+
+**1:49** · And so you don't see that vibrancy.
+
+**1:51** · You used to, you know, kind of look down these key corridors, and you would see just streams of people, you know, coming down the street, and you don't see that as much anymore."
+
+**2:00** · Lily Langlois is a planner in San Francisco, another city addressing high vacancies.
+
+**2:06** · "Almost 95% of our tax revenue comes from business tax, from downtown.
+
+**2:12** · About 80% of our GDP came from downtown companies in 2021.
+
+**2:17** · It is our economic engine.
+
+**2:19** · And so, it needs to thrive so the city can thrive."
+
+**2:24** · Roughly 1/3rd of offices are vacant in San Francisco – the third-most expensive housing market in the US.
+
+###### Housing’s environmental Impact
+
+**2:31** · At the same time, the ongoing construction of new housing is causing a whole different host of problems.
+
+**2:37** · Construction accounts for 13% of global energy-related carbon emissions, more than five times that of the aviation industry.
+
+**2:44** · "In order to meet climate targets, but also other sustainability targets, we will need to actually stick with what's already built."
+
+**2:53** · Pernilla Hagbert researches urban sustainability at Stockholm's Royal Institute of Technology.
+
+**2:59** · "Even if this new production of housing and buildings is done with very energy efficient and optimized technologies, this won't be enough.
+
+**3:10** · We will also need to reduce the total amount of new production."
+
+**3:16** · And this is what brings us to Frankfurt.
+
+**3:18** · I checked out an ongoing conversion project – an office tower built in the 90s will soon be reborn as around 150 furnished apartments.
+
+**3:28** · Benjamin Albrecht, the developer's regional European head, is excited about adaptive reuse.
+
+**3:50** · But it doesn't only save on emissions.
+
+**3:53** · Revamping an office building can be up to 30 percent cheaper and construction can be done in half the time...
+
+**3:59** · Though that depends on the project.
+
+**4:00** · This one wasn't much cheaper than a new build, but speed played a big part.
+
+###### Adaptive Reuse
+
+**4:13** · Repurposing an old building to serve a new function is called adaptive reuse, and can extend a structure's life.
+
+**4:19** · Think of turning old factories into artists' lofts, or warehouses into ubiquitous street food halls.
+
+**4:25** · There are plenty of empty offices, tons of people need housing – it seems like a pretty simple solution.
+
+**4:32** · Plus it's environmentally friendly.
+
+**4:33** · So why isn't this constantly happening?
+
+**4:37** · Retrofitting an existing structure is a lot more complicated than planning everything from scratch.
+
+**4:43** · As developers have found out, apartments and offices aren't always a 1-1 fit – it depends on when and where they were built.
+
+**4:52** · Modern open-plan offices weren't built for living in.
+
+**4:54** · First, you must divide up large areas while ensuring rooms get enough sunlight.
+
+**4:59** · And you can't just have one big bathroom for a whole floor.
+
+**5:03** · Each room needs ventilation, heating and power, too.
+
+**5:08** · And for all you know the old building is full of asbestos – not every challenge is clear before renovations start.
+
+**5:26** · Steven Paynter, the adaptive reuse specialist, has even developed an algorithm to measure whether offices are good candidates to be reincarnated as housing.
+
+**5:36** · "So it looks at say, over 100 different aspects.
+
+**5:38** · Some of the key ones are things like the distance between the elevators and the windows.
+
+**5:44** · You want your one-bedroom apartment to have a nice bedroom with a window and a nice living space with a window, and then have maybe the kitchen and the bathroom at the back.
+
+**5:54** · That's great.
+
+**5:55** · A lot of office buildings actually have way too much space between the elevators and the glazing to make that happen."
+
+**6:02** · This means to end up with shiny new apartments, many conversions essentially rebuild everything except existing foundations and facades.
+
+**6:10** · Turns out its just slightly more complicated than just clearing out some cubicles and throwing up a bit of sheetrock – especially if you like luxury amenities like bathrooms in every apartment and windows in every bedroom.
+
+**6:23** · These constraints make many offices just too much work to convert.
+
+**6:27** · According to Paynter's research, roughly 30% of offices are ideal candidates.
+
+**6:33** · And while not every office building is ripe for conversion, adding up all of those that would be a good fit would still make a massive difference.
+
+**6:40** · "If you look at the US market where we're doing a lot of this work, there's about 100 billion square feet of office space.
+
+**6:47** · And if you've converted just the vacancy, or about seven precent of that, you could create between six and seven million new homes."
+
+###### Improving City Planning
+
+**6:55** · But just turning offices into apartments isn't going to be enough.
+
+**7:00** · Neighborhoods that are just office blocks can be a bit inhospitable – crawling with finance bros by day, morphing into ghost towns outside of business hours.
+
+**7:08** · Ensuring people live, not just work there could change that.
+
+**7:14** · As we saw for ourselves...
+
+**7:18** · This neighborhood of Frankfurt, Niederrad, was a sprawling set of offices in the 60s and 70s with the wildly creative nickname of the 'Bürostadt' or office city.
+
+**7:28** · But by the mid-2000s, nearly one in three of the offices was sitting empty.
+
+**7:43** · In 2006, the city began converting the empty office towers into housing, creating true mixed-use development.
+
+**7:50** · Now it's filled with places to live, shop, eat and go to school, instead of just places to work.
+
+**7:58** · Frankfurt rezoned the area, and turned parking lots into green spaces and kindergartens.
+
+**8:02** · It brought in developers to build apartments and shops.
+
+**8:06** · When they're done, there'll be 6,000 apartments here.
+
+**8:19** · We took a tour of one of the converted office buildings, a 20-story tower turned into 150 apartments in 2020.
+
+**8:26** · Its former life made for some quirks.
+
+**8:28** · Every room has sprinklers and architects built around load-bearing beams.
+
+**8:32** · But they boasts high ceilings and great views, too.
+
+**8:36** · As you can see, many conversions end up as relatively upscale housing.
+
+**8:41** · That might take a bit of pressure off the housing market, but it's not going to bring relief to the masses.
+
+**8:45** · If we want this to be more than just some kind of luxury niche we don't need anything crazy – just a bit of political will.
+
+###### Cutting Red Tape
+
+**8:53** · The Canadian city of Calgary, which started working with Paynter to revitalize its downtown in 2021, is a case in point.
+
+**9:01** · "Calgary had about a 38% vacancy in their office market.
+
+**9:04** · And that was at the time one of the worst in the world.
+
+**9:07** · They very quickly put a program together, which gives you $75 a square foot to convert the building, and moved all of the red tape out of the way to make these projects move more quickly.
+
+**9:17** · The first five projects are now under construction.
+
+**9:20** · That represents about 750 new homes, and they have 10 more approved."
+
+**9:26** · Paynter says much of this housing will be affordable and built with families in mind, thanks to the financial incentives provided by the city.
+
+**9:35** · Adaptive reuse often has even more red tape than new builds – that will have to change if we're going to use its potential to curb emissions.
+
+**9:42** · "If you take Toronto where I am, as an example, there's a rule in all of downtown that you cannot remove office space: it's protected as employment lands.
+
+**9:51** · That was created in the '70s, and it just never got updated because there was no need to change it.
+
+**9:56** · But now there's a desperate need to change it and it's kind of holding up these projects happening."
+
+**10:02** · Such arbitrary regulations are quite common.
+
+**10:04** · And approval for conversions often takes as long as it would for a new build, even though the structure's already in place.
+
+**10:11** · Ideally, it'd be the other way around.
+
+**10:14** · "In both legislative and sort of from a governance perspective, we need to think of how to actually make it difficult to, for example, tear down a building and build a new building, through zoning and through harder legislation.
+
+**10:32** · But also through sort of soft legislation like taxation and financial incentives."
+
+###### Potential
+
+**10:41** · Frankfurt's leading the way in Germany, converting offices to nearly 10,000 houses in the last decade.
+
+**10:47** · And according to recent studies, there's room for plenty more in cities all over the map.
+
+**10:52** · Frankfurt did it with careful city planning, like in Niederrad.
+
+**10:56** · Plus, the more we learn implementing such projects, the greater the savings.
+
+**11:01** · Since their first office conversion projects have gone well, Benjamin Albrecht thinks his firm will focus more on adaptive reuse.
+
+**11:10** · Many developers have shown interest in these projects, and cities like San Francisco are supporting office conversions.
+
+**11:17** · "I don't think that we're naive in any way, thinking that we're going to build hundreds of 1000s of units downtown.
+
+**11:23** · But I think it's, you know, part of the solution.
+
+**11:26** · And it is an amazing opportunity, to take advantage of these existing assets."
+
+**11:31** · The kind of support offered may determine the type of housing we get.
+
+**11:35** · Flipping offices into housing is clearly no quick fix, and it's not going to solve the global housing crisis overnight.
+
+**11:42** · But Frankfurt and Calgary do show it can make cities vastly more livable and it can drastically reduce the environmental impact of relying solely on new builds.
+
+**11:51** · Let us know in the comments if your city has started converting offices to housing.
+
+**11:55** · And don't forget to subscribe, we've got new videos for you every Friday.
+
+#### Why free public transport doesn't fix traffic (and what does)
+
+**DW Planet A**, *11 08, 2024*
+
+##### Video (11:19)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/K6md7gny4pY title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+If cars are bad for the climate, and public transport good, what makes people switch? From Jakarta to Tallinn, cities are trying to motivate people by eliminating fares. Let’s check if that works.
+
+
+
+We're destroying our environment at an alarming rate. But it doesn't need to be this way. Planet A explores the shift towards an eco-friendly world — and challenges our ideas about what dealing with climate change means. We look at the big and the small: What we can do and how the system needs to change. Every Friday we'll take a truly global look at how to get us out of this mess.
+
+Follow Planet A on TikTok: https://www.tiktok.com/@dw_planeta?lang=en
+
+Credits:
+
+Reporter: Jonas Mayer 
+
+Video Editor: Neven Hillebrands 
+
+Supervising Editors: Malte Rohwer-Kahlmann, Joanna Gottschalk, Michael Trobridge 
+
+Factcheck: Kirsten Funck 
+
+Thumbnail: Em Chabridon 
+
+Read more: 
+
+C40 guide for attractive public transport: https://www.c40knowledgehub.org/s/article/How-to-make-public-transport-an-attractive-option-in-your-city?language=en_US  
+
+The case of public transport for the climate: https://www.wri.org/insights/current-state-of-public-transport-climate-goals  
+
+EU case study on whether free public transport works: https://urban-mobility-observatory.transport.ec.europa.eu/resources/case-studies/free-passenger-transport-exploring-benefits-and-disadvantages_en  
+
+More on car traffic reduction strategies: https://itdp.org/wp-content/uploads/2021/03/ITDP_TamingTraffic_2021.pdf  
+
+How ‘induced traffic’ works: https://www.sciencedirect.com/science/article/abs/pii/S0191261510000226  
+
+More on Transit-Oriented Development (TOD): https://www.worldbank.org/en/topic/transport/publication/transforming-the-urban-space-through-transit-oriented-development-the-3v-approach  
+
+Chapters: 
+
+00:00 Intro 
+
+01:01 Why we like driving car 
+
+04:29  Taking the bus in Jakarta 
+
+07:17 Making car use harder 
+
+09:34 What now?
+
+##### Transcript
+
+###### Intro
+
+**0:00** · In 2012, something remarkable happened in the Estonian capital, Tallinn.
+
+**0:06** · Cars were congesting the city's streets - so the local government asked residents: "Do you want free public transport?"
+
+**0:13** · They said: "Jah"(Yes).
+
+**0:15** · So Tallinn made it free.
+
+**0:16** · Since 2013, every resident can just hop on and off trams and buses - without having to buy a ticket.
+
+**0:23** · Did this unclog the city?
+
+**0:25** · Well...
+
+**0:25** · buses were fuller than before.
+
+**0:27** · But at the same time, the share of public transit compared to other means of transport dropped.
+
+**0:34** · "Ridership has fallen dramatically, from 42% to now like 30%.
+
+**0:41** · And in the same time, car use has risen about 5%."
+
+**0:47** · Despite free public transport, people used their cars more.
+
+**0:51** · If not money, what does it take to convince people to switch from cars to public transportation?
+
+###### Why we like driving car
+
+**1:01** · "Try to imagine what this country would be like without automobiles."
+
+**1:06** · This General Electric film is from 1948, but our sentiment towards cars hasn't changed much since.
+
+**1:13** · "...there is nothing like a car."
+
+**1:16** · "When people look at the psychological aspects of car ownership, they typically look at areas of status and of pride."
+
+**1:23** · Pete Dyson is a behavioral scientist.
+
+**1:26** · He researches why people travel the way they do.
+
+**1:29** · "The nature of the tool that it plays in our life provides some freedom to go places and to do things that have some unique aspects."
+
+**1:40** · Cars are about way more than just getting from A to B.
+
+**1:43** · They fulfill a lot of what we desire.
+
+**1:46** · Take a look at this "pyramid of needs".
+
+**1:49** · It's a concept from the world of psychology that ranks what we need from basic things like food and safety, to belonging and self-esteem up to self-actualization, so, becoming the best version of yourself.
+
+**2:02** · A car covers a whole lot of those needs.
+
+**2:05** · Not only does it take you wherever you want to go, whenever you want to go.
+
+**2:09** · It's also relatively safe and comfortable.
+
+**2:11** · And friends and colleagues, who see your car as a sign of success, may admire you.
+
+**2:17** · Sure, a bus gets you from A to B as well.
+
+**2:19** · But forget about glamour or comfort, once you get off a subway, covered in sweat and super late for your business lunch.
+
+**2:28** · The thing is just...
+
+**2:29** · while driving might be great for those inside the car, it's actually pretty bad for everyone else.
+
+**2:34** · Cars, vans and motorbikes kill around two million people each year - through air pollution or road accidents.
+
+**2:42** · Plus, they emit around 10% of global carbon emissions into the air, because most of them still run on fossil fuels.
+
+**2:51** · Yes, public transport also emits carbon, but per person it's much less.
+
+**2:57** · Having many people share a vehicle makes the trip more efficient in this respect.
+
+**3:02** · That's why governments want people to switch.
+
+**3:04** · After Tallinn, other cities and countries have also tried to bait them with the simplest thing - money - and made public transit free.
+
+**3:12** · Like Luxembourg, the island of Malta, Kansas City and Albuquerque.
+
+**3:16** · Their experience was largely the same as in Tallinn.
+
+**3:20** · "The people who were using public transport anyways, uh, are now using it more often, taking more rides."
+
+**3:27** · Merlin Rehema is a sustainable city researcher based in Tallinn.
+
+**3:32** · "To some extent also like short walks and bicycle trips, that were taken before, became then bus trips."
+
+**3:40** · But just very few give up their car.
+
+**3:42** · The cost is 40 euros per resident per year to make public transport free in Tallinn.
+
+**3:47** · But if buses are packed and not well connected, residents are reluctant to switch.
+
+**3:52** · You also need to make the public transport system better.
+
+**3:56** · "There are ways in which you can make journeys smoother, more punctual, more reliable by improving, say signaling, giving bus priority to public transport.
+
+**4:09** · A safer environment, a more comfortable environment.
+
+**4:12** · The access to a seat or a table, or the ability to do useful or meaningful things whilst travelling."
+
+**4:20** · Some cities have understood this and are working hard to improve their public transport system.
+
+**4:25** · Like Jakarta, the capital of Indonesia.
+
+###### Taking the bus in Jakarta
+
+**4:29** · There are almost 11 million people there, almost 4 million cars, 17 million motorbikes.
+
+**4:36** · People spend hours in traffic.
+
+**4:38** · Air pollution has gotten really unhealthy.
+
+**4:41** · But the city also has invested a lot in public transport.
+
+**4:45** · Here's what a trip can look like.
+
+**4:47** · Within 500 meters of your home, you find a stop for a free minibus that's part of the "MikroTrans" network.
+
+**4:54** · This takes you to a bus station.
+
+**4:56** · From there you catch a bus that drives on a separate lane, past all the cars stuck in traffic.
+
+**5:01** · The whole trip costs 3,500 Rupiah, as much as a small bottle of water.
+
+**5:07** · That's affordable.
+
+**5:09** · The bus is air-conditioned, which is a nice relief.
+
+**5:13** · It has service staff on board, and a separate, supposedly safe area for women.
+
+**5:18** · These pink busses are women only.
+
+**5:22** · BRT, short for Bus Rapid Transit, has become popular in big cities in Latin America and Asia.
+
+**5:29** · Jakarta has the largest network, with 14 of these corridors spanning over more than 250 km.
+
+**5:36** · They call it "TransJakarta".
+
+**5:38** · The concept of BRT is to give more space to public buses.
+
+**5:42** · This way they're supposed to travel quickly and reliably - without building much new infrastructure.
+
+**5:48** · "And it is attractive because it is integrated with MicroTrans, it is integrated with the minibuses or medium buses.
+
+**5:57** · We call it first mile and last mile connectivity."
+
+**5:59** · Gonggomtua Sitanggang is the Southeast Asia Director of a non-profit transport institute.
+
+**6:05** · He lives in Jakarta and advises the transit operators.
+
+**6:09** · The first and last mile connectivity he just spoke about is important to let people access public transport in the first place.
+
+**6:16** · That can work with bikes or e-scooters, in Jakarta it's these minibuses.
+
+**6:21** · They used to be informal and privately operated but then got integrated into the public system.
+
+**6:28** · 20 years after the first bus corridor was built, Jakarta's bus network now covers most of the city and is connected to the local train network.
+
+**6:39** · Overall about 10% of trips are made by public transport.
+
+**6:43** · That might not sound like a lot yet.
+
+**6:45** · But the government is thinking big.
+
+**6:47** · It wants to increase that number sixfold by 2030.
+
+**6:51** · Seems like Jakarta is taking user needs seriously.
+
+**6:55** · But they also haven't found the secret formula yet.
+
+**6:58** · Because as public transit has been growing, so has car and motorcycle traffic.
+
+**7:04** · It seems that nudging people into public transport is one thing.
+
+**7:08** · But...
+
+**7:09** · "the major challenge here, or the major homework here, is that to push people to use public transport."
+
+###### Making car use harder
+
+**7:18** · For decades the solution to too much traffic has been to build more lanes, more roads, more flyovers, more free parking..
+
+**7:26** · And Jakarta has done just that.
+
+**7:29** · The thing is: that's not how you unclog your streets.
+
+**7:33** · Today we know: More space for cars only attracts more cars.
+
+**7:38** · And after a few years, roads are congested again, with more vehicles than before.
+
+**7:43** · This is called "induced traffic".
+
+**7:46** · If you want fewer cars, you're better off doing the opposite: make it harder and more inconvenient to drive a car.
+
+**7:55** · Again, the most obvious tool is money.
+
+**7:58** · From 2025, car owners in Estonia will have to pay two kinds of taxes.
+
+**8:04** · One when they buy a car and one when they use it.
+
+**8:07** · They aren't big fans of that new tax, of course.
+
+**8:11** · London has established a congestion charge zone.
+
+**8:14** · Everyone driving into it during the day has to pay 15 pounds.
+
+**8:19** · Car traffic dropped significantly, while bus and metro use went up.
+
+**8:25** · But simply making it expensive to drive might hit poorer people particularly hard.
+
+**8:30** · There are other options too.
+
+**8:32** · "They can also be like non-monetary measures, like really redesigning your cities in order to favor public transport use and, and active modes."
+
+**8:45** · Paris for example has been removing tens of thousands of parking lots, closing entire roads to cars and tripling parking fees for big and polluting SUVs.
+
+**8:54** · Jakarta is starting to redesign as well in an area with tens of thousands of parking spaces.
+
+**9:01** · Gongomtua Sitangang is advising the pilot project.
+
+**9:06** · "We start by improving the connectivity, the pedestrian facilities and also cycling facilities, and then we also develop a strategy of how to reduce the parking space within the area.
+
+**9:22** · What is important here is that the neighborhood sits at a major public transport hub with bus and rail connections.
+
+**9:28** · You can only put pressure on car drivers if you have good public transport alternatives ready.
+
+###### What now?
+
+**9:35** · Just like with cars, people have very different needs and expectations when it comes to good public transport.
+
+**9:41** · It must be...
+
+**9:42** · "easy and enjoyable" "in between affordable and accessible" "Reliable and comfortable" And just like that, each city starts from a different point.
+
+**9:54** · In terms of traffic, infrastructure, budget, mobility behavior, and so on.
+
+**10:00** · There's no single formula for public transport that applies to everyone.
+
+**10:04** · Whether you're "nudging" or "pushing" residents into transit, it still looks different in each place.
+
+**10:09** · But the goal is the same: to reduce traffic, carbon emissions and air pollution.
+
+**10:16** · The challenge is that new public transit has to be built within existing cities, in between houses, cars and people.
+
+**10:23** · Unless you want chaos and frustrated citizens, room for private vehicles can only be reduced step by step as well.
+
+**10:31** · And we haven't even talked about rural areas yet, where routes are longer and buses scarcer.
+
+**10:36** · But a few quick fixes could make public transport more convenient almost immediately.
+
+**10:42** · Like an app that shows in real-time where the bus is and when it'll arrive.
+
+**10:47** · Or a uniform, maybe cheap fare system that works for different types of transit.
+
+**10:52** · Little things that reduce stress and give a sense of control.
+
+**10:59** · What do you think about buses or trains where you are?
+
+**11:02** · Leave us a comment and subscribe, we post a new video every Friday.
 
 #### Why It’s Usually Hotter In A City  Let's Talk  NPR
 

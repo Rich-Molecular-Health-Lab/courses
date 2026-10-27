@@ -1,0 +1,18 @@
+---
+title: "No Class - VOTE!"
+date: "2026-11-03T16:00:00"
+date-modified: "2026-08-29T11:15:01"
+profile:
+  - "topic"
+  - "hhe"
+categories:
+  - "topic"
+  - "ENVN4320"
+listing:
+  template: "resources.ejs.md"
+  contents: "No Class - VOTE!_resources.yaml"
+---
+
+## Class Meetings
+
+**Dates:** 2026-11-03T16:00:00

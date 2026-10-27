@@ -143,7 +143,7 @@ W7:
       - title: "Habitat Loss, Fragmentation, and Degradation"
         path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
     slides:
-      - "slides/Habitat Loss & Fragmentation/index.html"
+      - "slides/Habitat Loss/index.html"
     background:
       - title: "Habitat fragmentation and landscape change"
         type: "textbook"
@@ -185,7 +185,7 @@ W9:
       - title: "Habitat Loss, Fragmentation, and Degradation"
         path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
     slides:
-      - "slides/Habitat Loss & Fragmentation/index.html"
+      - "slides/Habitat Loss/index.html"
 W10:
   D1:
     date: "2026-10-26"
@@ -193,10 +193,14 @@ W10:
     topics:
       - title: "Habitat Loss, Fragmentation, and Degradation"
         path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
+    slides:
+      - "slides/Habitat Loss/index.html"
+  D2:
+    date: "2026-10-28"
+    themes: "Threats to Biodiversity"
+    topics:
       - title: "Overexploitation"
         path: "topics/Overexploitation.qmd"
-    slides:
-      - "slides/Habitat Loss & Fragmentation/index.html"
     background:
       - title: "Overharvesting"
         type: "textbook"
@@ -204,12 +208,6 @@ W10:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 6
         duration_string: "23 pages"
-  D2:
-    date: "2026-10-28"
-    themes: "Threats to Biodiversity"
-    topics:
-      - title: "Overexploitation"
-        path: "topics/Overexploitation.qmd"
     case_convo:
       - number: 4
         topic: "Invasive Alien Species"

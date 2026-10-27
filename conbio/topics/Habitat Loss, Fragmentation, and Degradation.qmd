@@ -17,7 +17,226 @@ listing:
 
 **Dates:** 2026-10-07T16:00:00, 2026-10-21T16:00:00, 2026-10-26T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Habitat Loss & Fragmentation/index.html'>Habitat Loss & Fragmentation <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Habitat Loss/index.html'>Habitat Loss <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Habitat Loss/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
+
+### Videos or Films Watched
+
+### The Everyday Ingredient Destroying the Planet
+
+**Bloomberg Originals**, *04 05, 2023*
+
+#### Video (11:56)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/8Nj_kIiyrwQ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Description
+
+Kal Penn investigates the damage being done by the palm oil industry in Indonesia. The product is used in everything from cookies to shampoo, but its production has laid waste to forests all over the globe. With only 20% of palm oil deemed sustainable, Penn looks for solutions, including a UK startup with a lab-made version. But can fake palm oil compete with nature in quality and price?
+
+
+Getting Warmer is Bloomberg's exclusive new show about climate, clean energy and business, anchored by actor and former White House aide Kal Penn.
+
+Accompany him on his journey as he takes an up-close look at bold climate solutions and discovers new facets of the global transition to clean energy.
+
+In a hosted studio segment, Penn sifts through the overwhelming news about our climate and breaks down the facts and trends to understand with a dose of humor and optimism. Why are the recycling symbols on your plastic cups misleading? How does the carbon credit market work and does it actually help? And what is the future of water in a drought-ridden world?
+
+On the road, Penn meets the innovators, researchers, communities and businesses pivoting to new energy sources and spearheading low-carbon technologies. In documentary segments, Penn speaks to the self-declared “crypto cowboys” of Texas who claim Bitcoin mining can help stabilize the state’s troubled electrical grid, and travels to Nevada to visit the company attempting to build America’s first closed-loop supply chain for electric vehicles. In New York, Penn explores the urban designs proposed to save the city from the next Superstorm Sandy and goes inside New York’s Empire State building to investigate the challenges of decarbonizing our cities and landmarks. 
+
+The show builds on, and includes contributions from, Bloomberg Green’s award-winning team of climate journalists as well as London-based climate storytellers Jack Harries and Alice Aedy. With a focus on the most pressing questions for young viewers, Jack and Alice unpack one big idea each episode. From recycled wastewater to regenerative agriculture and the challenges of a just transition for workers in the energy sector, they’ll break down how countries across the world are finding intriguing solutions to our climate crisis, and outline the challenges ahead.
+
+Watch Getting Warmer starting February 1st at 8p EST streaming on Bloomberg channels on Connected TV Devices including Samsung TV+, LG Channels, and Fire TV. And on & Bloomberg.com.
+
+You can also watch on Bloomberg TV (BTV)  at 10p ET.
+
+
+Like this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1
+
+Become a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join
+
+Bloomberg Originals offers bold takes for curious minds on today’s biggest topics. Hosted by experts covering stories you haven’t seen and viewpoints you haven’t heard, you’ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you’ve never seen it. 
+
+Subscribe for business news, but not as you've known it: exclusive interviews, fascinating profiles, data-driven analysis, and the latest in tech innovation from around the world.
+
+Visit our partner channel Bloomberg Quicktake for global news and insight in an instant.
+
+#### Transcript
+
+##### The ubiquitous palm oil
+
+**0:03** · Palm oil.
+
+**0:04** · You've probably heard of it, yet don't know exactly what it is.
+
+**0:08** · But unless you're on an exclusive nut and berry diet you're probably eating some today.
+
+**0:13** · Or at least rubbed some on your body this morning.
+
+**0:18** · The miraculous, versatile substance is used in thousands of everyday products, from chips and ice cream to shampoo and fuel.
+
+**0:27** · On average, we consume about eight kilograms, or around 18 pounds of palm oil every year.
+
+**0:35** · It comes from the red fruits of an oil palm tree.
+
+**0:43** · Palm is usually not a whole ingredient in something, with the exception of cooking oil.
+
+**0:50** · We're often using a fraction.
+
+**0:52** · It's a part of the fruit, a part of the oil, so it's really easy for that to be invisible within a product.
+
+**1:01** · Seems like the ultimate natural resource, right?
+
+**1:03** · Just pick the fruit off the tree and make stuff with it.
+
+**1:06** · But palm oil has become very controversial in recent years for its cost on the environment.
+
+##### Environmental controversy
+
+**1:12** · Vast swaths of forests have been burned by farmers to make way for oil palm plantations, causing the wholesale destruction of natural habitats, and ultimately contributing to climate change.
+
+**1:24** · There have also been reports of serious labor rights abuses in the industry.
+
+**1:57** · Despite public and private sector efforts to mitigate palm oil's environmental impact, only 20% of the world's palm oil is certified as sustainable today.
+
+##### Seeking sustainable solutions
+
+**2:07** · Like most problems related to the climate crisis there doesn't seem to be one clear solution.
+
+**2:13** · The damage being done by the palm oil industry is significant and not going away anytime soon.
+
+**2:19** · But farmers, big companies, and scientists are working in their own ways to try to chip away at its negative effects.
+
+**2:27** · The way that we produce food now is a modern miracle, but it's also having an enormous impact on the environment.
+
+**2:33** · We have to create changes.
+
+**2:34** · We have to work towards creating these novel foodstuffs, which have much lower impact, which are healthy, and delicious, and different to what we had before.
+
+##### Smallholder farmer challenges
+
+**3:26** · Edy is one of 16 million people working in the palm oil industry in Indonesia, the world's biggest palm oil producer, churning out about 47 million tons in 2020 alone.
+
+**4:00** · About 40% of the oil palm plantations in Indonesia are owned by small scale farmers like Edy, who have less than 25 hectares of land.
+
+**4:10** · But many small holders didn't have an understanding of sustainable farming.
+
+**4:14** · Slashing and burning the forest was common because it was the cheapest and fastest way to make land to grow oil palm trees.
+
+**4:22** · Between 2005 and 2013, almost half of the deforestation in Indonesia was linked to oil palm cultivation.
+
+**4:30** · 2015 was the worst year.
+
+**4:32** · Between June and October, fires burned an area roughly the size of Rwanda, or the US state of Maryland.
+
+**4:40** · Researchers linked the toxic haze, which lingered for weeks, to more than 100,000 premature deaths in Indonesia, and in neighboring countries like Malaysia and Singapore.
+
+**5:07** · In 2016, Indonesian president Joko Widodo imposed a moratorium on new permits for clearing forest and peatland for oil palm cultivation.
+
+**5:18** · Deforestation linked to palm oil is still happening, but educational campaigns and stricter law enforcement have reduced it significantly.
+
+**5:28** · More farmers like Edy have joined small holders associations like this one.
+
+**5:32** · With financial support from NGOs and big companies, they've got certification from institutes like the Roundtable on Sustainable Palm Oil, or RSPO.
+
+**5:42** · Sustainable palm oil has to meet strict standards, such as using best farming practices, conserving the environment, and considering employees benefits and rights.
+
+**5:52** · But Edy's only one of a tiny number of certified small holders because many farmers don't have the resources or access to get certified.
+
+**6:00** · And challenges still remain after being certified.
+
+##### Big oil industry impact
+
+**6:28** · The other piece of the puzzle is big palm oil companies.
+
+**6:35** · Here at Golden Agri-Resources, we have more than 500,000 hectares of palm oil plantations across Indonesia, but we also buy fresh fruit bunches from other producers of palm.
+
+**6:48** · And so we actually trade and process closer to around six to eight million tons of what's called crude palm oil, or palm related products.
+
+**7:00** · Harvested fruit bunches are sent to mills and then refineries for processing.
+
+**7:06** · The outer orange part of the fruit creates crude palm oil, which can be turned into many different products, like cooking oil and biofuel.
+
+**7:14** · The white creamy substance inside the kernel creates palm kernel oil, which is used in cosmetics, soaps, and hand sanitizers.
+
+**7:24** · In the past, criticism of the industry in terms of its impact on forests, wildlife, and even on local communities, sadly, was justified.
+
+**7:41** · We wanna be able to produce the equivalent of a million hectares of land on that half a million hectares of land.
+
+**7:48** · So focusing on using biotechnology techniques, but also really good farming practices.
+
+**7:56** · But full traceability of the supply chain still remains a challenge.
+
+**8:00** · Third party plantations are usually in remote locations spanning millions of hectares.
+
+**8:06** · Another challenge is consumer commitment.
+
+**8:08** · About 20% of the world's palm oil was certified as sustainable, but buyers only bought half of it.
+
+**8:15** · So the greatest demand still comes from buyers in Europe and the US, to a certain extent Australia.
+
+**8:22** · However, the largest volumes are sold in countries like Indonesia, Malaysia, India, and China, where demand for a sustainable product is still very low.
+
+##### Developing lab alternatives
+
+**8:40** · Making palm oil production sustainable is crucial, but some scientists are hoping we could stop using it completely.
+
+**8:46** · But the researchers working on an alternative to palm oil will need to ensure their products are competitive in quality and price.
+
+**8:54** · Ultimately, there's no mystery to palm oil.
+
+**8:56** · It's a relatively simple group of compounds of which other organisms can make as well.
+
+**9:01** · And that's what we've been able to mimic with the yeast.
+
+**9:04** · So this process is very similar to brewing beer, technology we've known about for thousands of years.
+
+**9:10** · Where, when you brew beer, you take sugars and grow a brewing yeast on them, which produces ethanol, which we can drink.
+
+**9:18** · In our process, we're using natural yeast, which naturally make edible oils.
+
+**9:24** · Finding the right yeast is key.
+
+**9:26** · After a few years of researching and experimenting, the team found metschnikowia pulcherrima, a yeast that grows on the surface of grapes all over the world.
+
+**9:35** · And then they spent another eight years developing the yeast and the process to grow it.
+
+**9:40** · Here, we have to use large drums of eight kilograms of the sugar.
+
+**9:44** · It's dragged into the reactor here and then fed to the yeast.
+
+**9:47** · Now here we have 50 liters of culture, and this is enough to make kilograms of yeast in a week.
+
+**9:54** · This is also a really good mimic to demonstrate what an industrial process will truly look like on the large scale.
+
+**10:02** · So the yeast we selected at first didn't make much oil, but it had a number of other attributes which allow us to produce it on the large scale.
+
+**10:10** · So it could be produced under a wide temperature range.
+
+**10:14** · It could be produced under a wide range of pHs.
+
+**10:17** · It also can use a whole range of sugars, saccharides, and proteins to grow, which allows us to use waste resources very efficiently.
+
+**10:25** · The team has completed research and development, successfully fed the yeast with waste food like coffee grounds, and agricultural leftovers like wheat straw and sawdust.
+
+**10:35** · Now, they're running a pilot, producing kilograms of palm oil substitute per week.
+
+**10:40** · And aim to increase that to tons per week within a year.
+
+**10:44** · So here we have the yeast.
+
+**10:45** · And you have these giant cells, which are then full of oil, which we can extract.
+
+**10:51** · A startup has been spun out from the project, raising over $2.5 million, with the goal to bring the product to grocery store shelves.
+
+**10:59** · In the last few decades, we've seen people really starting to choose alternative products, alternative analogs to meat, for example.
+
+**11:06** · Products like yeast protein from corn.
+
+**11:09** · We see ourselves as continuing that journey and being the next generation of novel foods.
+
+##### Future of the industry
+
+**11:15** · Regardless of what the future holds, the palm oil industry needs to make serious changes today.
 
 ## Assigned Background
 
@@ -1498,6 +1717,132 @@ PBS Member Stations rely on viewers like you. To support your local station, go 
 
 **13:23** · Check out the link in the description to watch a full episode and to find out more about the show.
 
+#### How one scientist took on the chemical industry
+
+**TED-Ed**, *03 17, 2020*
+
+##### Video (5:22)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/ezVEzCmiXM4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Discover the groundbreaking environmental work of Rachel Carson, whose book “Silent Spring” explores how human actions threaten the balance of nature. 
+
+--
+
+In 1958, after receiving a letter describing the deaths of songbirds due to the pesticide known as DDT, Rachel Carson began an investigation into the misuse of chemicals and their toll on nature. In 1962, she published her findings in “Silent Spring,” which immediately drew both applause and impassioned dissent. How did this biologist and writer ignite such controversy? Mark Lytle investigates.
+
+Lesson by Mark Lytle, directed by Héloïse Dorsan Rachet.
+
+Animator's website: https://www.heloisedr.com/ and https://www.instagram.com/helo.dr/?hl=fr
+
+Sign up for our newsletter: http://bit.ly/TEDEdNewsletter
+
+Support us on Patreon: http://bit.ly/TEDEdPatreon
+
+Follow us on Facebook: http://bit.ly/TEDEdFacebook
+
+Find us on Twitter: http://bit.ly/TEDEdTwitter
+
+Peep us on Instagram: http://bit.ly/TEDEdInstagram
+
+View full lesson: https://ed.ted.com/lessons/how-one-scientist-took-on-the-chemical-industry-mark-lytle
+
+Thank you so much to our patrons for your support! Without you this video would not be possible! Angelo Urzua-Milla, Tommy Lewis, leorene, Mahina Bachiller, Marcus Andre Nery, Bruce Vieira Lopes, Chef, Charmaine Hanson, Michael Goldberg, Lydia Pflieger, Paul Aldred-Bann, Manav parmar, Susan Wang, Utkarsh Dubey, Thawsitt, Xuebicoco, Jezabel, Maeve, Kim Humphrey, Kristen Damas, JackKeyton, Matthew D. Vigil, Amin Shahril, Adriano Fontes, Xiao Yu, Fatima Kried, Aravind Battaje, Melissa Suarez, Jason Duncan, Brian A. Dunn, Francisco Amaya, Daisuke Goto, Matt Switzler, Chhunheng Veng, Leonardo Monrroy, Sumedh Ghaisas, Guhten, Amer Harb, Dowey Baothman, Norbert Orgován, Shafeeq Ansari, Gabriel Balsa, Maryam Sultan, Bethany Connor, Jeremy Shimanek, Adam Foreman, Sebastiaan Vleugels, Lâm Nguyễn, Mark Byers and Bradley Heinold.
+
+##### Transcript
+
+###### Intro
+
+**0:06** · In 1958, Rachel Carson received a letter describing songbirds suddenly dropping from tree branches.
+
+**0:13** · The writer blamed their deaths on a pesticide called DDT that exterminators had sprayed on a nearby marsh.
+
+**0:19** · The letter was the push Carson needed to investigate DDT.
+
+**0:23** · She had already heard from scientists and conservationists who were worried that rampant use of the pesticide posed a threat to fish, birds, and possibly humans.
+
+**0:33** · She began to make inquiries through government contacts from her years working in the United States Bureau of Fisheries.
+
+**0:40** · She asked: “what has already silenced the voices of spring?”
+
+###### Silent Spring
+
+**0:45** · In 1962, Carson published her findings in "Silent Spring."
+
+**0:50** · Her book documented the misuse of chemicals and their toll on nature and human health.
+
+**0:56** · "Silent Spring" immediately drew both applause and impassioned dissent— along with vicious personal attacks on the author.
+
+**1:04** · How did this mild-mannered biologist and writer ignite such controversy?
+
+**1:10** · Carson began her career as a hardworking graduate student, balancing her studies in biology at John Hopkins University with part time jobs.
+
+**1:18** · Still, she had to leave school before completing her doctorate to provide for her ailing father and sister.
+
+**1:25** · Carson found part time work with the Bureau of Fisheries writing for a radio program on marine biology.
+
+**1:31** · Her ability to write materials that could hold the general public’s attention impressed her superiors, and in 1936, she became the second woman to be hired at the Bureau full time.
+
+**1:43** · In 1941, she published the first of three books on the ocean, combining science with lyrical meditations on underwater worlds.
+
+**1:52** · These explorations resonated with a wide audience.
+
+**1:56** · In "Silent Spring," Carson turned her attention to the ways human actions threaten the balance of nature.
+
+**2:03** · DDT was originally used during World War II to shield crops from insects and protect soldiers from insect-borne diseases.
+
+**2:12** · After the war, it was routinely sprayed in wide swaths to fight pests, often with unforeseen results.
+
+**2:19** · One attempt to eradicate fire ants in the southern U.S.
+
+**2:22** · killed wildlife indiscriminately, but did little to eliminate the ants.
+
+###### DDT
+
+**2:29** · In spite of this and other mishaps, the US Department of Agriculture and chemical companies extolled the benefits of DDT.
+
+**2:37** · There was little regulation or public awareness about its potential harm.
+
+**2:41** · But Carson showed how the overuse of chemicals led to the evolution of resistant species— which, in turn, encouraged the development of deadlier chemicals.
+
+**2:51** · Since DDT does not dissolve in water, she asserted that over time it would accumulate in the environment, the bodies of insects, the tissues of animals who consume those insects, and eventually humans.
+
+**3:04** · She suggested that exposure to DDT might alter the structure of genes, with unknown consequences for future generations.
+
+**3:13** · The response to "Silent Spring" was explosive.
+
+**3:17** · For many people the book was a call to regulate substances capable of catastrophic harm.
+
+**3:22** · Others objected that Carson hadn’t mentioned DDT’s role controlling the threat insects posed to human health.
+
+**3:30** · Former Secretary of Agriculture Ezra Taft Benson demanded to know “why a spinster with no children was so concerned about genetics?”
+
+**3:40** · and dismissed Carson as “probably a Communist.”
+
+**3:44** · A lawyer for a pesticide manufacturer alluded to Carson and her supporters as “sinister influences” aiming to paint businesses as “immoral.”
+
+**3:55** · In reality, Carson had focused on the dangers of chemicals because they weren’t widely understood, while the merits were well publicized.
+
+**4:03** · She rejected the prevailing belief that humans should and could control nature.
+
+**4:08** · Instead, she challenged people to cultivate “maturity and mastery, not of nature, but of ourselves.”
+
+###### Environmentalists
+
+**4:16** · Carson died of cancer in 1964, only two years after the publication of "Silent Spring."
+
+**4:23** · Her work galvanized a generation of environmental activists.
+
+**4:28** · In 1969, under pressure from environmentalists, Congress passed the National Environmental Policy Act that required federal agencies to evaluate environmental impacts of their actions.
+
+**4:41** · To enforce the act, President Richard Nixon created the Environmental Protection Agency.
+
+**4:47** · And in 1972, the EPA issued a partial ban on the use of DDT.
+
+**4:53** · Long after her death, Rachel Carson continued to advocate for nature through the lingering impact of her writing.
+
 #### How Otters Are Saving Earth’s Underwater Forests
 
 **PBS Terra**, *08 15, 2024*
@@ -1649,6 +1994,156 @@ Instagram:  https://instagram.com/pbsterra
 **9:13** · Yes, very, very much so.
 
 **9:14** · 956, wherever you are, I hope that you're getting lots of good urchin snacks. (gentle music) The kelp forest reminds us of the wonder that's out there in nature, sometimes literally right beneath the surface. It's also precious and so fragile. We just have to take it one breath at a time. (gentle music continues)
+
+#### Inside the monarch butterfly migration mystery flying to Mexico from Canada, the U.S
+
+**60 Minutes**, *04 21, 2025*
+
+##### Video (12:51)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/hrXzY4DP_c8 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Monarchs traveled to a remote part of Mexico, a journey they've made for thousands of years, and wintered there. Now tens of millions of the butterflies are on an epic aerial journey back north.
+
+"60 Minutes" is the most successful television broadcast in history. Offering hard-hitting investigative reports, interviews, feature segments and profiles of people in the news, the broadcast began in 1968 and is still a hit, over 50 seasons later, regularly making Nielsen's Top 10.
+
+Subscribe to the “60 Minutes” YouTube channel: http://bit.ly/1S7CLRu
+
+Watch full episodes: http://cbsn.ws/1Qkjo1F
+
+Get more “60 Minutes” from “60 Minutes: Overtime”: http://cbsn.ws/1KG3sdr
+
+Follow “60 Minutes” on Instagram: http://bit.ly/23Xv8Ry
+
+Like “60 Minutes” on Facebook: http://on.fb.me/1Xb1Dao
+
+Follow “60 Minutes” on Twitter: http://bit.ly/1KxUsqX
+
+Subscribe to our newsletter: http://cbsn.ws/1RqHw7T
+
+Download the CBS News app: http://cbsn.ws/1Xb1WC8
+
+Try Paramount+ free: https://bit.ly/2OiW1kZ
+
+For video licensing inquiries, contact: licensing@veritone.com
+
+##### Transcript
+
+###### The monarch migration
+
+**0:04** · One of the most remarkable and mysterious migrations in the natural world is happening right now from Mexico to the United States. Tens of millions of monarch butterflies are on an epic aerial journey home. They've spent the winter hanging out in trees in a forest on a remote mountain in Mexico, resting up after flying all the way from Canada in the northern US where they were born.
+
+**0:27** · It's believed monarchs have been making this journey for thousands of years, but there's a lot fewer of them than there used to be. The population in Mexico has declined 70% in the last 30 years. We arrived there in February, just in time to watch the monarchs emerge from their slumber and begin to take flight.
+
+**0:47** · The story will continue in a moment.
+
+###### Roosting in Mexican forests
+
+**0:54** · The monarchs come to these mountains in Mitchakan in central Mexico starting in late October. Do you still get excited going up to see them?
+
+**1:05** · Every time there's no substitute, one of our guides, Jorge Rickards, is the director of the nonprofit World Wildlife Fund in Mexico.
+
+**1:15** · We're going to leave the horses, walk a little bit very, very carefully and very quietly. So we won't just disturb the butterflies.
+
+**1:25** · The monarchs roost in patches of fur and pine trees 11,000 ft up. There are some 66 million of them here, but it's hard to see them at first. There are what appear to be clumps of dead leaves hanging from sagging branches, but those are butterflies. Tens of thousands of them clustered together in trees all around.
+
+**1:50** · There's so many of them on the branches of the trees that the the branches are all pointing toward the ground. Imagine imagine the likeness of a butterfly and they are so many of them here that they actually bend the trees and they like the fur because they have so many little leaves or spicules. So there's lots of surface to cling onto. The monarchs are in a kind of hibernation. On the way here they fattened up on nectar which helps them survive and rest through the long winter months.
+
+**2:19** · The climate on this mountain is ideal.
+
+**2:22** · The canopy of trees protects the butterflies from storms. And though the air is cool, it's relatively humid so they stay hydrated. The clusters are so drab when you're looking at them cuz they have their wings closed. In many butterflies, the on the underside is drab or less lightly colored, and that happens in nature a lot. So, it's not very inviting. It wouldn't be inviting to a predator.
+
+**2:45** · Why are we whispering? They are very sensitive to sound. They are also sensitive to CO2. So the less we talk the better.
+
+**2:55** · They relate that with a predator as other mammal. But so they can sense a like a like a mouse breathing or a bird.
+
+**3:03** · A bird breathing. That is right.
+
+**3:06** · On the forest floor all around us, monarchs litter the ground. But most are not dead. They've just fallen from trees during the night and their muscles are too cold for them to fly. Cup them in your hands. You can revive them with your breath. So, they need a certain temperature to get their m wing muscles back. They are very, very vulnerable when they're on the floor. And the birds know that and the mice know that. That's almost ready. There you go.
+
+###### Butterflies take flight
+
+**3:39** · Come on, little buddy. Maybe a little more. There you go. Yeah, he likes you.
+
+**3:49** · Wow. When the sun begins to hit the trees, flashes of orange appear. The monarchs are warming and slowly opening their wings.
+
+**4:00** · Really, as the day warms up, we're going to see more activity. So, that's Court Whan has been bringing tour groups here and photographing monarchs for more than 20 years.
+
+**4:11** · He shows us a spot where some butterflies have taken flight. Then after a few minutes, suddenly the air is filled with them.
+
+**4:25** · This is extraordinary. This is it. This is what it's all about. This is uh nature knows when to put on a show, huh?
+
+**4:33** · And how to put on a show. Why have they all now just suddenly taken off? So, it's a warm day. We're getting a lot of sunlight, so we're just ramping up.
+
+**4:40** · Ramping up. I mean, what's insane is it's not just over here. It's over there. It's over there. I mean, it's extraordinary. But yeah, it's it's all the heat. It's all the sun. You can actually hear the sound of butterfly wings. Yeah. Let's just be quiet for a second.
+
+**5:11** · Look at that. Look. Look at that. Okay.
+
+**5:13** · Oh my gosh.
+
+**5:16** · Wa. This is about as good as it possibly gets.
+
+###### The mystery of navigation
+
+**5:22** · It's like a snow globe of monarchs. You got a butterfly on you. Oh, there we go.
+
+**5:29** · It's still something of a mystery how these monarchs manage to get here. Most only live about a month. They spend their short lives eating and mating, and females lay eggs. But in late summer and early fall, what's called a super generation of monarchs appear, hatched as caterpillars. They transform into cryises and then after a week or two emerge as butterflies. And that's when they do something extraordinary.
+
+**5:56** · With winter coming, they sense the shorter days and changing temperatures and suppress a key reproductive hormone, a process called diipause, which helps them conserve their energy and live up to 9 months, nine times longer than most monarchs. It's crazy that there's this super generation of monarchs that can make it all the way and then the rest are die off after a month.
+
+**6:19** · What is amazing is how they detonate this process of not developing sexual organs but using that energy for the flight. Monarchs born west of the Rockies stay there and migrate shorter distances. It's this super generation born in Canada and east of the Rockies in the northern United States that flies to Mexico. Hundreds of millions of them join up on a journey of some 3,000 miles, which can take them 3 months or longer.
+
+**6:51** · To help them find their way, monarchs have circadian clocks in their antenna and navigate using internal compasses that respond to the position of the sun and the Earth's magnetic field. Why are they coming here? Well, that's a big mystery. Maybe it's a prehistoric route. Maybe it was determined by uh geographical conditions in terms of topography. Maybe it had to do with climate.
+
+**7:20** · You're talking about multiple generations who all have this exact same instinct and know where to go and all go to the exact same spot.
+
+**7:30** · That's that's that's one of the most magical things that can happen in the natural world. How do they know? The monarchs were discovered by researchers on this mountain range in 1975, and the Mexican government declared the area a federal reserve 11 years later. But for decades, illegal logging threatened the butterflies roosting spots, which once covered as much as 45 acres. It's now down to 4 1/2.
+
+###### Conservation and threats
+
+**7:58** · World Wildlife Fund has spent years trying to combat the destruction, assessing the health of the forest, measuring the size of butterfly colonies and planting trees. They've also worked with local communities and indigenous groups to protect the land and help them profit from tourism. The good news is the forest is rebounding cuz it's just so unusual to see this. It's like almost an optical illusion cuz everything's beating at this weird frequency. It's like the whole world's just kind of pulsing.
+
+**8:31** · So, what what are they doing here? Yeah.
+
+**8:34** · So, this is kind of a classic mud puddling of of monarch butterflies. So, mud puddling. Yeah, mud puddling. It's a real scientific term. Um, so they're mainly after hydration, but butterflies are known to need some trace elements like salts and whatnot. And it doesn't look like much, but just this little bit of water in this mud puddle is enough for them to get some water. And then what'll happen is they'll return to the roost before evening. After about 4 months in Mexico, this super generation of monarchs are near the end of their long life cycle.
+
+**9:05** · They're finally ready to mate and migrate north to lay their eggs. They'll die before they can make it back to where they were born, and their offspring might not live long enough to get there either, but future generations will. And there's an army of people trying to help them.
+
+###### Tracking and tradition
+
+**9:26** · Oh, you got one. In Kansas, volunteers come out to catch and tag monarchs so scientists can track their migration.
+
+**9:34** · Good job there.
+
+**9:36** · They're recruited by Chip Taylor, an 87year-old ecologist who's been fascinated by monarchs since he was a child. There's over 100,000 species of butterflies and and moths, but pretty much the only one people know are monarchs. What is it about monarch butterflies?
+
+**9:53** · Well, monarchs have got charisma. I mean, wait a minute. Monarch butterflies have charisma. Well, yeah, they have charisma because they are accessible.
+
+**10:02** · They're large. They're beautiful.
+
+**10:04** · They're slow. You can catch them. It involves Canada, involves Mexico. Taylor founded a nonprofit called Monarch Watch at the University of Kansas 30 years ago. Nice. And so far, it's helped tag more than two million of them. How do you tag a a butterfly that's so delicate? This is a rough butterfly and it that has to go thousands of miles.
+
+**10:26** · So, it's it's a pretty tough butterfly.
+
+**10:28** · It's resilient. Yeah, it's resilient.
+
+**10:31** · But that resilience is being tested.
+
+**10:33** · Monarchs returning to the US need milkweed plants to lay their eggs on.
+
+**10:38** · It's the only source of food their newly born caterpillars will eat. But milkweed is now hard to find. It's been virtually eradicated on agricultural land because of genetically modified corn and soybean crops that allow for mass spraying of herbicides. Monarch Watch encourages people to plant milkweed in their gardens and on public land, creating what they call monarch way stations.
+
+**11:05** · 50,000 of them have been planted so far in Mexico. Those efforts have gotten noticed. They are taking water. Eduardo Rendone, head of World Wildlife Fund's Monarch Butterfly Program, showed us a tag he recently found. So, this is a one of the tags from Monarch Watch from Chip Taylor. Exactly. I find maybe 12 m for over here. Yeah. I was measuring the colony and then I see the ground and I find this stack.
+
+**11:33** · But is the only way that we can to prove that monarch from United States and Canada come here to over winter.
+
+**11:44** · Less than 20% of the monarchs that head out on this miraculous migration actually make it to the mountains of Mitchoan. Scientists say worsening storms and rising temperatures kill off many. Though this past year, the number of monarchs that survived the trip nearly doubled.
+
+**12:03** · It was particularly welcome news in Mexico where the butterflyy's arrival in late October coincides with a deeply spiritual celebration, what's known as the day of the dead. That's when many here believe the souls of family and friends who died return to visit their loved ones. And so that's why the butterflies are returning as well.
+
+**12:27** · Local people believe that the monarchs are the returning spirits of That is correct. of the of the dead. That is correct. Yes. So, who knows? Maybe we are actually you are reviving. You're helping someone's ancestor fly back. Yes, indeed. So, it's very magical.
 
 #### Is “Environmental DNA” the Future of Conservation  Wild Hope Explains
 
@@ -2211,6 +2706,34 @@ For more information and related materials, visit HHMI BioInteractive: https://w
 **7:11** · ANDRES LINK: We really think this process of restoration and connecting these forests will provide a future scenario that is much nicer.
 
 **7:19** · A future scenario in which monkeys will not depend on us to have a viable population going on there and surviving without the need of our assistance.
+
+#### The Cuyahoga River Fire Don't Fall in the River
+
+**CSU Digital Humanities**, *08 06, 2010*
+
+##### Video (1:23)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/nlHiaZFvcXA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Tim Donovan recalls working on the Cuyahoga River the day that it caught fire in 1969.
+
+To learn more about the Cuyahoga River fire, visit:
+
+http://clevelandhistorical.org/items/show/63
+
+To download the Cleveland Historical smart phone app, go to:
+
+http://app.clevelandhistorical.org/
+
+##### Transcript
+
+**0:08** · and we all know about the river fire of 69 and as as somebody who's interested in the history of Cleveland and kyoga River I know that wasn't the best fire you know I know there was other fires that could have burned down Cleveland had not the wind shifted to from the north I remember a 52 fire I think that
+
+**0:25** · was uh I think that one probably would have won the prize for the best fire I was actually working the day that the river caught on fire actually working as a hatch tender on the ships so it's kind of unusual when somebody would yell fire and tell you to run away from the river cu the river is generally water but when you were working down on the river at that time the river was like a cauldron it would just Bubble Up oxygen trying to get out of the river it had a coat of oil on it and you'd see
+
+**0:52** · rats float down the river the size of dogs bloated from whatever it was that they ingested and there was a rule that if you fell in the river you immediately went to the emergency room in the hospital so the idea that the idea here was don't fall in the river
 
 #### The Everyday Ingredient Destroying the Planet
 

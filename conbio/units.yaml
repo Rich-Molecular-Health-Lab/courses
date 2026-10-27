@@ -333,7 +333,8 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
-    - "Habitat Loss & Fragmentation"
+    - "Habitat Loss"
+    - "The Everyday Ingredient Destroying the Planet"
     - "Patterns & Risk of Extinction"
     - "How poaching is changing the face of African elephants"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
@@ -347,10 +348,11 @@
     - "Extinctions and the practice of preventing them"
     - "Climate Change"
   slides:
-    - "Habitat Loss & Fragmentation"
+    - "Habitat Loss"
     - "Patterns & Risk of Extinction"
   course_name: "Conservation Biology"
   videos:
+    - "The Everyday Ingredient Destroying the Planet"
     - "How poaching is changing the face of African elephants"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
     - "Are We Living In the Sixth Extinction"

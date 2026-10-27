@@ -17,7 +17,8 @@ listing:
 
 **Dates:** 2026-09-09T16:00:00, 2026-09-14T16:00:00
 
-<a class='btn btn-outline-primary p-3 m-2' href='slides/Biodiversity_Concepts_&_Measurement/index.html'>Biodiversity Concepts & Measurement <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Biodiversity_Concepts_&amp;_Measurement/index.html'>Biodiversity Concepts &amp; Measurement <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Biodiversity_Concepts_&amp;_Measurement/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
 
 ### Videos or Films Watched
 
@@ -1270,6 +1271,286 @@ More videos from the VICE network: https://www.fb.com/vicevideo
 
 
 ##### Transcript
+
+#### The Surprising Species That Everything Else Depends On  IN OUR NATURE
+
+**Be Smart**, *07 08, 2021*
+
+##### Video (25:55)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/i8wrAkixfHc title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+“In Our Nature” is a NEW special limited series on It’s Okay To Be Smart!
+
+SUBSCRIBE so you don’t miss the next episode! ►► http://bit.ly/iotbs_sub
+
+↓↓↓ More info and sources below ↓↓↓
+
+Seemingly distant ecosystems, even half a world apart, are connected in surprising ways. In this special limited series, Emily Graslie and Trace Dominguez join me as we explore the universal rules of life that tie together Earth’s living systems. In episode 1, we travel from Africa’s Serengeti plains to the nearly extinct prairies of the western United States to discover the unexpected species that determine the very existence of these places. Can an ecosystem survive without its keystone species? And can we restore endangered human cultures by bringing back a nearly-extinct ecosystem?
+
+Co-hosted by:
+
+Trace Dominguez  @TraceDominguez 
+
+Emily Graslie   @EmilyGraslie 
+
+References: https://sites.google.com/view/inournature-ep1-references/home 
+
+In Our Nature is a special miniseries produced by It’s Okay To Be Smart for PBS. Stay tuned for more episodes coming this summer, here on our YouTube channel!
+
+Original Production Funding provided by: Anne Ray Foundation, a Margaret A. Cargill Philanthropy
+
+
+
+We’re on PATREON! Join the community ►► https://www.patreon.com/itsokaytobesmart
+
+Special thanks to our Brain Trust Patrons:
+
+DeliciousKashmiri
+
+Mario Orso
+
+Brian Chang
+
+Roy Lasris
+
+Javier Soto
+
+dani bowman
+
+David Johnston
+
+Zenimal
+
+Salih Arslan
+
+Baerbel Winkler
+
+Robert Young
+
+Amy Sowada
+
+Benjamin Teinby
+
+Eric Meer
+
+Peter Ehrnstrom
+
+Dustin
+
+Marcus Tuepker
+
+Karen Haskell
+
+AlecZero
+
+Join us on Patreon! 
+
+https://patreon.com/itsokaytobesmart
+
+Twitter 
+
+http://www.twitter.com/DrJoeHanson
+
+http://www.twitter.com/okaytobesmart 
+
+Instagram 
+
+http://www.instagram.com/DrJoeHanson 
+
+http://www.instagram.com/okaytobesmart 
+
+Merch
+
+https://store.dftba.com/collections/its-okay-to-be-smart
+
+Facebook
+
+https://www.facebook.com/itsokaytobesmartpbs/
+
+##### Transcript
+
+###### Introduction to ecosystems
+
+**0:00** · This is a story about lions, and giraffes, and a microscopic little virus. It's also a story about grass, and fire, and a bunch of these funny looking guys and what all of that has to do with bombs, extermination and restoring ancient traditions and extinct ecosystems.
+
+**0:22** · There's one big idea that ties all of these together, that even in a place overflowing with life, there's one species that keeps the whole thing from crumbling down. And what happens if we take an ecosystem that's fallen apart and we add that one key species back.
+
+**0:39** · Can we fix it? Trace, and Emily and myself, we're going to be bringing you a series of stories, featuring some incredible storytellers, some really passionate scientists and a bunch of people who just really care about wild places. We're exploring the rules of life that connect ecosystems, even half a world apart like Africa's Serengeti and a Native American Tribal Community in South Dakota. And while we're at it, we're going to find out a little more about our place in all of this. Hey, hi, Trace Dominguez Emily Grasley.
+
+**1:24** · It is so good to see your faces. I am really excited to tell people about this thing, this thing we've been working on, I don't know what to call it. Well, I guess it all started with an idea that there's a different way to tell stories about nature that maybe we've been doing it all wrong. A way to look at the, Yeah, I feel like when I'm looking at a science story, I tend to get like hyper focused and you get sort of a narrow lens on what you're looking at, and you have a tendency to miss the other stuff that's around you, Because really everything in nature is connected to so many other bits in nature. And often in ways that you don't even expect if you're not looking, That's what this is all about.
+
+###### The Serengeti wildebeest
+
+**2:00** · And what we're going to do is show you how these big ideas, The rules of life Are all connected and how we fit into that. I figured we'd start in the Serengeti. It's an amazing place, but to tell all the stories that happen in that place, I feel like you need to understand why it even exists in the first place. Wow. Wow. Yeah. That is Jahawi Bertolli. He is this photographer and filmmaker from Kenya.
+
+**2:30** · I met up with him out in the Serengeti because he's been going out there his whole life.
+
+**2:38** · I mean, just look at the scope of this. Absolutely incredible. When you think of big drama in a place like the African Serengeti, what's the first thing that pops into your head. Dung beetles, cheetahs.
+
+**2:51** · Those are not the answers I'm looking for. The answer is these guys. No, seriously, you are looking at the most important event on the entire Serengeti ecosystem.
+
+**3:05** · It's eating grass, Joe. I don't, I don't. Okay. Okay.
+
+**3:07** · I get it will, they are kind of goofy. They got that whole goatee thing going on. They have that funny rear end kind of looks like somebody forgot to finish them, but they might be the reason that the African Serengeti even exists.
+
+**3:21** · Um, excuse me. I learned from the documentary Lion King that that is not the case.
+
+**3:26** · I don't know how to tell you this, but, um, your childhood might've been a lie. Hey, have you guys ever seen this pyramid thing? It's kind of a zoomed out way of looking at how ecosystems are organized. So down at the bottom, you've got all the stuff that does photosynthesis, the plants and everything like that. And here in the middle, you've got the stuff that the plants and at the top, you've got the stuff that eats the stuff that eats the plants, Everything at the top that kind of regulates everything underneath it. Right?
+
+###### Population dynamics
+
+**3:55** · That is what I thought, but that is not how the Serengeti works. One thing you got to understand about wildebeests, okay, is just how many of them there are, I mean wildebeests everywhere.
+
+**4:07** · Joe, you went to Africa like one time. Okay. Yeah.
+
+**4:11** · Jahawi helped. So not far from us, it's a big herd of wildebeest.
+
+**4:15** · Is this all of them? Like all of them, Can you imagine? Not even a tiny bit.
+
+**4:22** · Every direction that we look is wildebeests, as far as we can see.
+
+**4:27** · Just in this little area, how many do you think there are.
+
+**4:32** · Easily at thousands without turning my head. And then in the distance, we see this massive group of zebra, several thousand zebra, which migrate with them. It looks like the horizon is made of tiny black and white shapes, thousands and thousands. I mean, it's one of those things.
+
+**4:48** · It's just, you can just keep counting. You took all of the zebras and the giraffes and the antelope and the gazelle. If you took the next 12, most abundant herbivores on the Serengeti, wildebeests would outweigh all of them.
+
+**5:02** · How is that possible? That's the big question. That's what scientists wanted to know. How can this place support so many of those funny looking wildebeests. Yeah. I don't understand.
+
+**5:13** · Well, I'm going to tell you, but to do that, we have to go back in time to when the Serengeti was not like this to the 1950s. So back then nobody really studied the Serengeti and scientists were like, you know, maybe the first thing we should do is just count everything. So they started with the wildebeests and the first year they counted like 250,000 wildebeests.
+
+**5:34** · Then a few years go by and all of a sudden there's 400,000 wildebeests. I would say that's a lot of new gnus. Emily, I love it. Gnu news, cause with the G love it. Right. And then just a few years after that there's 700,000. Fast forward a few more years, there's 1.4 million wildebeests. This is totally weird because based on everything scientists knew up to this point, like large animal populations just don't do this. I mean sure.
+
+###### Impact of rinderpest
+
+**6:04** · Like fish, rabbits, plankton, they have these huge rapid population explosions, but giant mammalian herbivores, that just doesn't happen. And actually people started to get worried, like maybe this is too many wildebeests. Sure. The Serengeti is pretty great, but maybe it can't support all of them, but then they realized something. You weren't looking at a population explosion they're were looking at a rebound.
+
+**6:27** · Okay. But rebounding from what? Like over-hunting or like an ice-age extinction? How many viruses have humans completely eradicated from the earth? Like in the history of ever? The answer is just two, smallpox and a virus called rinderpest. Rinderpest was this cattle virus. That's like thousands of years caused civilization level plagues and famines that infecting and killing cattle and other ruminants. Thanks to massive vaccination efforts, the last reported case was in 2001, but if you go back a hundred years before that, rinderpest was accidentally introduced to Africa in the 1890s.
+
+**7:02** · And by the 1900s it killed like 90% of the wild wildebeest and Buffalo in east Africa, early to passed the vaccine came the 1950s. And by the 1960s, this virus was basically under control. This virus had been keeping wildebeest populations down for like 70 years. And it wasn't just wildebeests. When they came back, scientists started seeing a whole bunch of other changes in the ecosystem, changes that were pretty surprising. Are there lions in this part? you know I'm going to want to see some lions.
+
+###### Regulating the Serengeti
+
+**7:37** · Okay. Yes, there are lions in this park, but we're not done with grass yet. Okay. So one wildebeest doesn't eat that much, but a million and a half wildebeest eat more than 9 million pounds of grass every single day.
+
+**7:50** · And that's enough to shape a whole ecosystem. You know, wildebeests are quite picky eaters and they basically like short grass, you know? So like now here on the short grass plains, this is perfect for them, but they also like new shoots. That's like, it's like a child, like children are aren't even that picky. Zebra, they're not so picky. So they tend to actually come through first and clear, clear the way. And then, then the wildebeests can get what they want. Wow, exactly. Cooperative eating.
+
+**8:20** · So if you eliminate this virus, you get more wildebeests, more hungry wildebeests means less grass. And because more grass is being eaten, that means less fuel for fires and less wildfire means that more young trees get to grow and more trees growing means more food for giraffes and elephants and birds too. And of course more wildebeests means more food for predators. Hey, now we're at the lion part, right?
+
+**8:47** · Yes. Lion numbers went up and so did hyenas and other predators too. They are the Keystone species of this ecosystem. Ding, ding, ding. He said the name of the episode in the episode! It's a $6 million word. It's incredible to think of enormous groups like this, just moving across this land, eating and pooping.
+
+**9:12** · I mean, you can imagine the effect on the ecosystem. I've seen the migration and then I've been lucky enough to see it quite a few times, but I can't help, but be blown away every time by the sheer size, the number there's very few places left that can support these kinds of herds. People had always just assumed that a Keystone species had to be a predator, but here you've got these funny plant eaters, keeping an entire ecosystem from collapsing. And, in fact, they're making it better. And today this million and a half wildebeests are the largest herd of plant eating mammals on earth.
+
+###### Migration and survival
+
+**9:47** · The population it's not still growing. I mean that wouldn't be sustainable, right?
+
+**9:51** · No. I mean, you can't have wildebeests growing and like slowly taking over the universe, they remain remarkably stable. That's the next mystery the scientist had to solve. I mean, why? Oh, Trace. There are definitely lots of lions in this part. I was going to say, we're at the top of the pyramid. We're getting to the lions. We're getting predators, its going to be great. Oh and hyenas too. Okay. So a lot of stuff gets eaten in the Serengeti by those guys at the top of the pyramid, the predators.
+
+**10:18** · But some animals get eaten more than others. Let's say you're something small, like an Impala. Well, chances are, you're going to die at the hands of something with fang, claws.
+
+**10:29** · The pokey parts.
+
+**10:31** · They have what scientists call a high prediction rate. But if you're something big, like an elephant or a giraffe, not a lot is going to mess with you.
+
+**10:40** · All right. All that makes sense. But where exactly are wildebeests then cause they're big, but they're not elephant. Okay. The answer that Scientists looked at, something that Emily knows a thing or two about bones, dead bones.
+
+**10:52** · Oh yeah. Well actually bone marrow to be more specific sick. So here's the other thing you got to know about wildebeests. They move a lot in the rainy season. The wildebeest are down in these grassy Plains where there's plenty to eat. But as the dry season begins, the, see a wildebeest moves north this thousand kilometer cycle repeats itself every year. It's one of the greatest animal migrations on Earth. So, you know, when, when a lot of people think about the migration, they, they think wildebeests cause they call it the Great Wildebeest Migration. But in reality, there's a lot of other animals that actually go along parts of the migration.
+
+**11:32** · I mean, you've got Thompson gazelle, you've got a lot of zebra. What's the, what's the, the advantage of, of them traveling with the migration. If we were zebra and things, it is a part getting to the best grazing. And then you've got safety and numbers and lots and lots of eyes. The wildebeests migrate, but their predators don't. So that helps them get eaten less and moving gives wildebeests access to more food than if they stayed in one place. Migration is why this population is so big, but even a place as vast as the Serengeti, it's not infinite. Okay.
+
+###### Bottom-up regulation
+
+**12:04** · So when there's plenty to eat, you know, when the rainy season is happening, well, the bone marrow of those wildebeests is nice and fatty, but in the dry season, when there isn't as much to eat, bone marrow gets kind of gross. And when scientists looked at the bones of most dead wildebeests, it was pretty nasty inside. So they think that most wildebeests starved to death. Okay.
+
+**12:31** · But some of them do get eaten by lions, hyenas predators.
+
+**12:35** · Yes. Some lions are definitely having lunch, but predators are not what keeps this population from growing. It's how much food there is to eat during the dry season. They aren't regulated from the top down. They're regulated from the bottom up, scientists call this kind of population limit the carrying capacity. It's basically how much life and ecosystem.
+
+**12:56** · So The grass is regulating the wildebeests and the wildebeests are regulating everything else.
+
+**13:01** · Yeah. Yeah. And if there's too many wildebeests one year, then more of them die, and if the numbers get too low, next year, there's extra food to go around the numbers come back up.
+
+**13:10** · It's like a boom and bust economy. Yeah, exactly. And what is so amazing to me is that this ecosystem is regulating itself. We're going to be telling a lot more stories from this place. I don't think you can really appreciate the Serengeti without understanding why it exists. And if the species at the middle of everything disappears, if their migration is disrupted by climate change or other human development, would this whole place collapse with them? I mean, Serengeti has rebounded once before, but without the wildebeests, could it do it again?
+
+**13:42** · You know, there are so many aspects of this story that remind me of the history of bison in north America, bison, bison, are like the national mammal. Right? Right. Yeah. So bison are these Pleistocene giants that have been in North America for over a hundred thousand years. But as settlers arrived between the 1700s in the 1900s, the US Army sanctioned these huge eradication programs targeting the bison, but also in an effort to eradicate the people here, millions of these bison were slaughtered many for just their coats or their skulls.
+
+###### North American bison
+
+**14:16** · And the population went from an estimated 30 to 60 million individuals to just a few hundred in the course of a couple of centuries.
+
+**14:28** · That must've had some impact on the ecosystem. Yeah. It's hard to find a comparison and cows graze too, but bison graze differently. They love grasses and they pass on most of the other shrubs. So that increases biodiversity by providing food and shelter for all the other animals. They create these huge wallows in these pits, compact soil.
+
+**14:50** · So they're, microhabitats for resilient plants, bison even impact other soil and plant processes through the ingestion and expulsion of their waste. Love a good poop story. Yeah. Good old species feces note for you. Anyway, I can totally see where 30 million bison pooping would leave a distinct ecological mark, a skid mark. Right. So anyway, there's a lot of different groups that are trying to reintroduce bison to their historic ranges.
+
+**15:16** · But here's the bigger question that I have, are these restoration efforts more about healing, a landscape and ecosystem or about healing people? I thought we were talking about the biology and like, you know, animals. Right. I mean, but we don't live in a vacuum, Joe. It's about both. Okay. You're right. You're right. So prairie's used to be the biggest ecosystems in north America. They covered 170 million acres, 20 times bigger than the Serengeti. That is wow. Right. But by now prairie's have been so heavily cultivated and developed.
+
+**15:52** · They're one of the most endangered ecosystems in the world, but there happens to be one not far from where I am, outside of Chicago.
+
+###### Prairie restoration
+
+**16:03** · So we are standing in this green field, which is the site of a prairie restoration project between the 1930s and 70s. This area looked nothing like this. We went to Midewin National Tall Grass Prairie. Today, it's the only federally protected tall grass prairie in the United States. But before it was a prairie, it was something else entirely. We are going to see a war ammunition storage bunker. What is this doing out here? Well, before Midewin was taken over by the US forest service, it was an army property. And it was used during the middle part of the 1900s to manufacture and store military ordinance.
+
+**16:38** · They produced them onsite and then they stored them in buildings like this.
+
+**16:48** · Whoa. Wow. It is just like a giant cement tube. Yeah.
+
+**16:57** · Sounds like a shotgun in there. That's so cool. And there used to be like 400 of these bunkers. They stored over a billion pounds of TNT. It was a huge operation.
+
+**17:07** · So what happened, once they took the bombs and the explosives out of the bunkers? What did they do? So that is when the real work began. They transferred the land from the Army to the US Forest Service in the 90s, but it was pretty polluted and overgrown. So they had to start pulling the invasive species and reintroducing native plants, but they were still missing one key element. We’re talking about bison, right? I mean, the bison are the real environmental engineers here. They are the prairie's Keystone species, Ding, ding, ding, ding, ding, ding, ding.
+
+**17:38** · Many of the plants and grasses, the birds and the insects that once called this area home can't return until the bison do too. But it's all part of a big experiment at Midewin, trying to understand these plant animal interactions and the model organism was not easy to find. So we got word earlier today that the herd of bison is somewhere in the area. Emily, I was told there would be bison in this episode.
+
+###### Bison as engineers
+
+**18:10** · We just got a call that someone has spotted them over this Ridge. There are bison out there.
+
+**18:16** · Yep. You can see them there. They're kind of just below the horizon there with those trees. Oh yeah. I can see them. They're pretty far out there. They are far out. Can you ask them to come a little closer? Uh, I could ask him, uh, they, they do what they want though. That's fair.
+
+**18:31** · Okay. So you take this incredibly polluted place and you get rid of the invasive species, bring back the bison and you get prairie. I mean, that's part of it, but you have to remember that bison didn't live here in isolation. They lived here alongside people for tens of thousands of years. People that relied on the bison for every part of their livelihood, for food and shelter, ceremonial objects, weapons. The removal of bison was a direct assault on the people. The people who played a major role in the ecosystem to today, there's a huge effort on part of indigenous nations to reintroduce bison to tribal land.
+
+**19:02** · And one of those groups is the Intertribal Buffalo Council. The Intertribal Buffalo Council actually was originated in 1992, a group of people out of native American fish and wildlife services decided why are we not doing something to return Buffalo to our tribes?
+
+###### Healing land and people
+
+**19:24** · That's Arnell Abold. She's the executive director of the ITBC. And talking to her, you really get a sense of how passionately she feels about this project.
+
+**19:33** · We look at all of our tribes as individuals, but together we're force, you know, to be reckoned with. There's so much heartbeat to it. And there's so much soul to it, you know, and there's just that real connection to the Buffalo. But you know, our core has always been returning the Buffalo to tribal lands. And in some ways they're helping with the literal health of their kids. Diabetes is such a big disease on all of our reservations and Buffalo meat, bison meat is one of the most healthy alternatives you can eat. And that kind of puts it back, you know, back into our hands a little bit.
+
+**20:03** · If we can do that What have been some of your proudest achievements. When we bring new herds onto tribal land, if you can heal the Buffalo, the land and the people and make that circular connection, imagine the changes that can happen. Maybe they can't happen today, but we're seeing positive changes across Indian country, no matter what, maybe it's just adding three Buffalo onto their lands.
+
+**20:33** · That's a change that's positive that gives that community something to find a little hope in. It was actually super touching. Not only it restoring the bison is helping the ecosystem. It's actually helping so many other things as well. Yeah. And you know, it was cool. We were invited to go see the bison on the Pine Ridge reservation in South Dakota. But unlike our visit to Midewin, this, this was really different.
+
+###### A circular connection
+
+**21:00** · The Oglala Sioux that manage the herd in pine Ridge hold a Buffalo dance ceremony once a year, where they sing, they do dances and they honor their spiritual connection to the bison. But when they heard that we were coming, they offered to hold a special Buffalo ceremony just for us as a way of welcoming our visit to the herd. And it was one of the coolest, most touching things that I've ever been in.
+
+**21:37** · It's really meaningful because these are first relatives come out. They're nervous. Look at the ground. They're going to come in afraid. They don't know what kind of energy that we carry. Including us in the ceremony. It was a way of demonstrating that we're bringing good vibes. And then Robert Goodman, the biologist for Oglala Sioux Parks and Recreation took us out to see the herd. There they are.
+
+**22:08** · Yeah. I think I even see like a little baby bison out there. How many bison did you say you had here? Today? Probably around a thousand.
+
+**22:17** · So when you imagine sort of the historic numbers of like, you know, estimates of 30 million Buffalo on the landscape, do you have some kind of idea for like the impact those numbers would have had? I don't know. It's hard to wrap your mind around herds that are majored in square miles. Instead of numbers, Buffalo are kind of known as a Keystone species. They really do impact a lot of other animals like the prairie dogs.
+
+**22:41** · They graze down the grass and that takes away cover for the predators of the prairie dog.
+
+**22:46** · So they like it. And then the prairie dogs actually, where they've cropped it off, they've produced different types of plants that the Buffalo liked to graze, so it kind of works back and forth. Antelope are known to rely on Buffalo too. In the winter time when it's snow is really deep, they can't push the snow out in forage as well as the Buffalo. So they'll follow right in Buffalo tracks and grays behind them. And you know, just about all of the species that you think of when you think of prairie species are related to the Buffalo or rely on the Buffalo. Robert told me that the Buffalo will distribute seeds of native plants that get caught in their shaggy coats.
+
+**23:17** · And even the hoof prints that they leave behind holds water for prairie birds. So it's easy to see that with the removal of bison, everything gets out of whack. I mean, that's amazing to think about, but these are, these are relationships, ecological relationships that have existed for hundreds of thousands of years. I mean, these things have evolved together. They've really, um, become to rely on one another in that landscape.
+
+**23:41** · You know, at the center of these landscapes, you've got such surprising species and in a way, the entire ecosystem is resting on their shoulders. So if we remove them or if they die, then these entire ecosystems can come crashing down with them. And what's more if we try to rebuild that if we try to put it back together, but we can't do that without this key piece. But I think this teaches us a super important lesson about how we fit into this.
+
+**24:19** · So, you know, we talk about this whole Serengeti ecosystem as this wild place, but we have to remember that humans also played a part in creating this ecosystem. So when you kind of look at this system, it's not to look at it as a wildlife and two and two opposing sides. They are together, you know, and it's, and it's understanding that balance.
+
+**24:42** · All of these relationships, all these complex webs that these ecosystems rely on from the largest animal to the smallest blade of grass. We're not watching that from the outside.
+
+**24:55** · We are part of it too. Our species touches this on every level and we can make a real difference for better, or for worse. So yeah, everything is connected by these big ideas. And this isn't the only idea we have to share with you guys.
+
+**25:22** · I'm super pumped to get to the other species that we're going to cover and all the different stories we're going to put together. This is going to be so great.
+
+**25:28** · The next one is going to blow your mind, put down the tick talks for a minute and join us in the next episode of, In Our Nature.
 
 #### They recorded a rainforest in Indonesia before it changed forever
 

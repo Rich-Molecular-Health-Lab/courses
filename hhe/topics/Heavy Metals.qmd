@@ -1,6 +1,6 @@
 ---
 title: "Heavy Metals"
-date: "2026-11-03T16:00:00"
+date: "2026-10-29T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -15,7 +15,45 @@ listing:
 
 ## Class Meetings
 
-**Dates:** 2026-11-03T16:00:00, 2026-11-05T16:00:00
+**Dates:** 2026-10-29T16:00:00, 2026-11-05T16:00:00
+
+## Assigned Background
+
+### Lead Poisoning - Heavy Metal Episode
+
+![Ep 38 Lead Poisoning: Heavy Metal Episode](https://i.scdn.co/image/ab67656300005f1fadae557c8d2d5669ac257463)
+
+**Duration:** 01:11:59
+
+**Released:** 2019
+
+**Series:** This Podcast Will Kill You
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/3f8mBjnoI2RiBjKxdaQFaD)
+
+[Open Series in Spotify](https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu)
+
+This episode, our first foray into toxic metals, is heavy in all kinds of ways - metallically, emotionally, informationally, politically. Lead poisoning has been around for about as long humans have been working with lead, but despite its extensive history, it still poses an incredibly huge public health problem today, especially for children. Tune in to hear us chat about the multitude of effects lead exposure can have on your body, the dark and often strange history of lead poisoning (ancient Rome, anyone?), and the alarming extent to which lead exposure affects people around the world today.  See omnystudio.com/listener for privacy information.
+
+:::
+
+#### Transcript
+
+![Lead Poisoning - Heavy Metal Episode.pdf](../attachments/Lead Poisoning - Heavy Metal Episode.pdf)
+
+### Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort
+
+**Released:** 2026-08-12
+
+[**Visit Source to Listen**](https://www.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead)
+
+<iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead"></iframe>
+
+#### Description
+
+The Environmental Protection Agency spent millions of dollars cleaning up a massive residential lead superfund site in Omaha, Nebraska, starting in 1999.
 
 ## Optional Material (Dive Deeper)
 
@@ -233,6 +271,46 @@ Copyright © 2024 NPR. All rights reserved. Visit our website [terms of use](\"h
 
 "\]
 
+#### All About Legionnaires' Disease
+
+![All About Legionnaires' Disease](https://i.scdn.co/image/ab67656300005f1f7ef027aba112b83f18179e16)
+
+**Duration:** 00:13:09
+
+**Released:** 2026
+
+**Series:** Public Health On Call
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/24zYdlARUyJkKsINVaxbiQ)
+
+[Open Series in Spotify](https://open.spotify.com/show/0ipz4Jv2D7utXXzaQ7wKzU)
+
+About this episode:   Cooling towers rife with Legionella bacteria are fueling an outbreak of a serious respiratory disease in New York City. Legionnaires' disease is common in the summer months as the water we use to shower and cool our air conditioning systems warms, creating a breeding ground for bacteria. In this episode: Environmental scientist Natalie Exum details the symptoms of Legionnaires' disease, who is most at risk of infection, and how cities can monitor and treat water systems to reduce exposure. Guest:  Natalie Exum, PhD, MS, is an assistant professor of Environmental Health and Engineering at the Johns Hopkins Bloomberg School of Public Health. Host:   Lindsay Smith Rogers, MA, is the producer of the Public Health On Call podcast, an editor for Expert Insights, and the director of content strategy for the Johns Hopkins Bloomberg School of Public Health.  Show links and related content:    Fourth death confirmed in NYC Legionnaires' disease outbreak—NBC News   Legionnaires' Disease—NYC Health   Two-Year Evaluation of Legionella in an Aging Residential Building: Assessment of Multiple Potable Water Remediation Approaches—Science of the Total Environment   Transcript information: Looking for episode transcripts? Open our podcast on the Apple Podcasts app (desktop or mobile) or the Spotify mobile app to access an auto-generated transcript of any episode. Closed captioning is also available for every episode on our YouTube channel. Contact us: Have a question about something you heard? Looking for a transcript? Want to suggest a topic or guest? Contact us via email or visit our website. Follow us:   @‌PublicHealthPod on Bluesky   @‌PublicHealthPod on Instagram   @‌JohnsHopkinsSPH on Facebook   @‌PublicHealthOnCall on YouTube   Here's our RSS feed   Note: These podcasts are a conversation between the participants, and do not represent the position of Johns Hopkins University.
+
+:::
+
+#### CODA - Leah Keinama & Chris Bowling on the persistent legacy of lead in Omaha, the EPA & Nebraska Documenters
+
+![CODA: Leah Keinama & Chris Bowling on the persistent legacy of lead in Omaha, the EPA & Nebraska Documenters](https://i.scdn.co/image/ab67656300005f1fff598e05ee76ec04076e2631)
+
+**Duration:** 00:11:20
+
+**Released:** 2026
+
+**Series:** OMAPOD
+
+::: {.callout-description collapse="true"}
+
+[Open Episode in Spotify](https://open.spotify.com/episode/25onzoYYBVQTRB7Nd4N0ih)
+
+[Open Series in Spotify](https://open.spotify.com/show/0AsR2V7Mn6MS9bufDrHc85)
+
+Leah Keinama is Director of Civic Journalism for Nebraska Journalism Trust.Chris Bowling is Omaha Reporter for Flatwater Free Press.To listen to the previous parts of this episode: click here for part one, and here for part two.To read the ‘Buried Truth’ series from Flatwater Free Press that’s discussed, click here.For more information on Nebraska Documenters, click here.ALSO…* Omaha man arrested on suspicion of running over teen on dirt bike - from Omaha World-Herald* Abandoned Westmont Inn torn down after years-long fight: ‘I’m just glad it’s gone’ - from KMTV* Salvation Army seeks volunteers for Omaha Metro Christmas Assistance sign-ups - from KETV Get full access to OMAPOD  at www.omapod.com/subscribe
+
+:::
+
 #### Daniel Stone & American Poison
 
 ##### Special Episode: Daniel Stone & American Poison
@@ -277,6 +355,128 @@ Chemical spills, historical disasters, water quality, airborne toxic events, cle
 
 :::
 
+
+###### Source Content 
+
+<a href="https://www.alieward.com/ologies/environmentaltoxicology"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+![](https://images.squarespace-cdn.com/content/v1/5998d8226f4ca3396027aae2/fbd54743-264a-4dc1-870d-01915c564403/environmentaltoxicology-kimberlygarrett.jpg?format=2500w)
+
+Photo credit: Pat Healy
+
+Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time?
+
+Listen via [Stitcher](https://www.stitcher.com/show/ologies/episode/environmental-toxicology-poisons-train-derailment-with-kimberly-k-garrett-212201163), [Apple](https://podcasts.apple.com/us/podcast/environmental-toxicology-poisons-train-derailment-with/id1278815517?i=1000601069783), [Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9PbG9naWVz/episode/MjhkNTdkODgtZTM2ZS00OWJmLTg4ZjItMjBlZWZjODYyNjc2?sa=X&ved=0CAQQ8qgGahcKEwjYoJGN56j9AhUAAAAAHQAAAAAQAQ), [Podbay](https://podbay.fm/p/ologies-with-alie-ward/e/1677057042), [Podcast Addict](https://podcastaddict.com/episode/153534498), Overcast, or wherever you listen to podcasts.
+
+[Transcript](https://www.alieward.com/s/Ologies-Environmental-Toxicology.pdf)
+
+<iframe height="200px" width="100%" frameborder="no" src="https://player.simplecast.com/6678a110-a450-4871-bf23-9a1f69ef3f97?dark=true"></iframe>
+
+Visit Dr. Kimberly K. Garrett’s [website](https://www.kkgarrett.com/) and follow her on [Twitter](https://twitter.com/kimkgarrett)
+
+A donation went to [Group Against Smog & Pollution](https://www.gasp-pgh.org/) (GASP)
+
+Follow [GASP on Twitter](https://twitter.com/gasppgh)
+
+**Links to things we discussed:**
+
+[History of Toxicology](https://toxedfoundation.org/history-of-toxicology/)
+
+[Her Twitter thread](https://twitter.com/kimkgarrett/status/1622647109093662720?lang=en)
+
+[History of Taxol or Paclitaxel](https://en.wikipedia.org/wiki/Paclitaxel)
+
+[Paracelsus history](https://www.britannica.com/biography/Paracelsus)
+
+[The Origins of EPA](https://www.epa.gov/history/origins-epa)
+
+[Rachel Carlson’s 1962 book, “Silent Spring”](https://bookshop.org/p/books/silent-spring-rachel-carson/11844360?gclid=CjwKCAiA9NGfBhBvEiwAq5vSyw9S0C3J0czx64xf_P_aASKa-NGexVy3jjkrog4fl9iV9muLf8CaIBoC-iEQAvD_BwE)
+
+[Donora Smog event of 1948](https://en.wikipedia.org/wiki/1948_Donora_smog)
+
+[Deadly Donora smog via Smithsonian](https://www.smithsonianmag.com/history/deadly-donora-smog-1948-spurred-environmental-protection-have-we-forgotten-lesson-180970533/)
+
+[Donora Smog News Reel](https://www.youtube.com/watch?ab_channel=BritishPath%C3%A9&v=pKZVw5YL0sQ)
+
+[Great Smog of London](https://www.britannica.com/event/Great-Smog-of-London)
+
+[London Fog coats: Israel Meyers obituary from 1999](https://www.nytimes.com/1999/12/31/business/israel-myers-is-dead-at-93-originated-london-fog-coat.html)
+
+[The Lorax (1972)](https://www.youtube.com/watch?ab_channel=TanyaToon&v=P0vwxKyceJ4)
+
+[Breaking Bad Pilot: Phosphine Gas Caper](https://youtu.be/a058jcG_hao)
+
+[White Noise Trailer](https://youtu.be/SgwKZAMx_gM)
+
+[Fact Check: Was Journalist Arrested in Ohio for Covering Train Derailment?](https://www.newsweek.com/fact-check-journalist-arrested-ohio-covering-train-derailment-1780787)
+
+[green science policy institute's consumer resources](https://greensciencepolicy.org/resources/consumer-resources/)
+
+[June 2022: US Supreme Court hobbles the EPA’s authority over climate emissions](https://www.nature.com/articles/d41586-022-01796-8)
+
+[Learn about Polychlorinated Biphenyls (PCBs)](https://www.epa.gov/pcbs/learn-about-polychlorinated-biphenyls-pcbs)
+
+[Did Control Burn of Toxic Chemicals Make Ohio Train Derailment Worse? – Newsweek](https://www.newsweek.com/did-control-burn-toxic-chemicals-make-ohio-train-derailment-worse-1781273)
+
+[What’s causing the oil sheen in East Palestine streams?](https://www.wkbn.com/news/local-news/east-palestine-train-derailment/whats-causing-the-oil-sheen-in-east-palestine-streams/)
+
+[Phthalates on Wiki](https://en.wikipedia.org/wiki/Phthalate)
+
+[NIH’s info on Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS)](https://www.niehs.nih.gov/health/topics/agents/pfc/index.cfm)
+
+[The Adverse Impact of Incense Smoke on Human Health: From Mechanisms to Implications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8548258/)
+
+[The Impact of Candle Burning During All Saints’ Day Ceremonies on Ambient Alkyl-Substituted Benzene Concentrations](https://link.springer.com/article/10.1007/s00128-013-1104-6)
+
+[Lead in lipsticks – FDA report](https://www.fda.gov/cosmetics/cosmetic-products/limiting-lead-lipstick-and-other-cosmetics)
+
+[Maybelline’s Pink Petal lipstick](https://www.amazon.com/Maybelline-ColorSensational-Lipcolor-Pink-Petal/dp/B002LFPZBQ)
+
+**Other episodes you may enjoy:**
+
+[Conservation Technology (EARTH SAVING)](https://www.alieward.com/ologies/conservation-technology)
+
+[Forensic Ecology (NATURE DETECTIVE)](https://www.alieward.com/ologies/forensicecology)
+
+[Oceanology (OCEANS)](https://www.alieward.com/ologies/oceanology)
+
+[Meteorology (WEATHER & CLIMATE)](https://www.alieward.com/ologies/meteorology)
+
+[Melaninology (SKIN/HAIR PIGMENT)](https://www.alieward.com/ologies/melaninology)
+
+[Environmental Microbiology (TESTING WASTEWATER)](https://www.alieward.com/ologies/environmentalmicrobiology)
+
+[Secrets, Advice + AMA (LANTERNS, ETC.)](https://www.alieward.com/ologies/bonusama)
+
+**Ologies info:**
+
+[Sponsors of Ologies](https://alieward.com/ologies-sponsors)
+
+[Transcripts and bleeped episodes](https://alieward.com/ologies-extras)
+
+[Smologies (short, classroom-safe) episodes](https://alieward.com/smologies)
+
+[Become a patron of Ologies](https://www.patreon.com/ologies) for as little as a buck a month
+
+[OlogiesMerch.com](https://www.ologiesmerch.com/) has hats, shirts, masks, totes!
+
+Follow @AlieWard on [Twitter](https://www.twitter.com/alieward) and [Instagram](https://www.instagram.com/alieward)
+
+Editing by Mercedes Maitland of [Maitland Audio Productions](http://maitlandaudio.com/) and [Jarrett Sleeper](https://www.jarrettsleeper.com/) of [MindJam Media](https://www.mindjammedia.com/)
+
+Transcripts by Emily White of [The Wordary](https://www.thewordary.com/)
+
+Website by [Kelly R. Dwyer](https://www.kellyrdwyer.com/photo)
+
+Theme song by Nick Thorburn
+
+>[!view-source]- View Here
+><iframe height=700 src=https://www.alieward.com/ologies/environmentaltoxicology></iframe>
+
+###### Transcript
+
+![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett.pdf](../attachments/Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett.pdf)
+
 #### Growing a Healthier Climate
 
 ![Growing a Healthier Climate](https://i.scdn.co/image/ab67656300005f1f9a2a0c5e0c7e9bbc6d6ed2af)
@@ -296,6 +496,18 @@ Chemical spills, historical disasters, water quality, airborne toxic events, cle
 In this episode, we sit down with Professor Meredith Niles to explore how climate-friendly agriculture—from methane-reducing rice irrigation to no-till farming—is actually a quiet powerhouse for public health. While traditional environmental messaging has hit a wall, shifting the narrative to human health benefits (like keeping heavy metals out of baby food and clearing our air) might be the key to finally getting farmers, consumers and policymakers on board. It’s time to take off the carbon goggles and look at the health potential of sustainable farming.
 
 :::
+
+#### Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort
+
+**Released:** 2026-08-12
+
+[**Visit Source to Listen**](https://www.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead)
+
+<iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead"></iframe>
+
+##### Description
+
+The Environmental Protection Agency spent millions of dollars cleaning up a massive residential lead superfund site in Omaha, Nebraska, starting in 1999.
 
 #### Kevin Patterson on Indigenous communities’ heavy metal exposure
 
@@ -337,6 +549,10 @@ This episode, our first foray into toxic metals, is heavy in all kinds of ways -
 
 :::
 
+##### Transcript
+
+![Lead Poisoning - Heavy Metal Episode.pdf](../attachments/Lead Poisoning - Heavy Metal Episode.pdf)
+
 #### The Canal (Love Canal)
 
 ![S1 Ep4: The Canal (Love Canal)](https://i.scdn.co/image/ab67656300005f1ffcb3ef236aeb4087c2b67b56)
@@ -356,6 +572,22 @@ This episode, our first foray into toxic metals, is heavy in all kinds of ways -
 Once envisioned as a model community, the neighborhood of Love Canal in Niagara Falls, New York, became the victim of a massive, man-made environmental disaster. Prelude: James Denney, a Missouri farmer, makes a deal for a local chemical company to bury its waste on his property.–––-–—BECOME A VALUEDLISTENER™ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Spotify⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Apple Podcasts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ –––-–—CONSUME: Shop.Swindled.com–––-–—MUSIC: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Deformr⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠–––-–—FOLLOW: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠SwindledPodcast.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠  Thanks for listening. :-)
 
 :::
+
+#### The EPA Spent Millions Cleaning Up a Massive Superfund Site. Our Tests Found Toxic Levels of Lead in Many Yards
+
+**ProPublica**, *2026-08-04*
+
+[***More details on propublica.org***](https://www.propublica.org/article/lead-contamination-epa-superfund-omaha-nebraska-analysis)
+
+<iframe width="560" height="315" src="https://www.propublica.org/article/lead-contamination-epa-superfund-omaha-nebraska-analysis#news-over-audio-player" title=The EPA Spent Millions Cleaning Up a Massive Superfund Site. Our Tests Found Toxic Levels of Lead in Many Yards frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+The agency spent hundreds of millions on lead remediation in Omaha, Nebraska, home of the nation’s largest residential Superfund site. New soil tests by the Flatwater Free Press and ProPublica show that many yards still have harmful levels of lead.
+
+##### Article
+
+\### Reporting Highlights - \*\*Over the Limit:\*\* One in 10 Omaha yards we tested that the EPA cleaned up still has enough lead in the dirt to be over the agency’s threshold. - \*\*Nearby Toxins:\*\* Nearly all previously remediated homes the news organizations’ testing found to have excessive levels had a neighbor whose yard tested high but was never cleaned up. - \*\*New Levels:\*\* Nearly a quarter of east Omaha yards we tested surpass a new lead level set by Trump’s EPA that could trigger more cleanup. Shortly after buying her house in 2022, Mary Royers learned from a man across the street that her Omaha, Nebraska, neighborhood was contaminated with lead. But her yard, like thousands of others, had been cleaned up, the neighbor said. Royers wanted to be sure. So the 36-year-old educator checked a website where the city tracks the soil test results of every home in a 27-square-mile area surrounding the site of an old lead smelter. She saw “remediated” written in bright green letters. The federal government had completed the work two decades ago. An expert must have tested the dirt and determined the problem was solved, she thought. Relieved, Royers set about sowing the garden of her dreams. Hours disappeared as she thrust her hands into the soil, tearing up the grass and planting purple coneflower for bees to harvest and prairie grass to sway in the breeze. “You have the green light from the city. That means everything’s safe,” she said. “I remember thinking, ‘Thank God I don’t have to worry about that.’” But a soil test conducted last fall by the Flatwater Free Press and ProPublica found otherwise: Royers’ yard still has more than 1.5 times the level of lead that the Environmental Protection Agency’s cleanup was supposed to have eliminated. Reading the emailed results, she felt “gut-wrenching disbelief,” she said. “All I could think about was the dirt under my nails and all over my face,” said Royers, who has largely given up gardening for now. She explained later, “It felt like a betrayal of that trust.” Since 1999, the EPA has spent $273 million digging up and backfilling nearly 14,000 yards across east Omaha to address contamination left from the smelter and other factories downtown. It’s the largest residential lead cleanup in the country. And the agency’s Superfund program has repeatedly heralded it as a success. But, it turns out, Omaha’s soil might not be as safe as officials have advertised. The news organizations tested soil from more than 600 properties, including 150 that the EPA said had been cleaned up. In those tests, 1 in 10 yards marked as remediated still had enough lead to qualify for cleanup under the original guidelines. And nearly a quarter of the properties we tested in east Omaha could qualify for further study under \[new guidance released by the Trump administration\](https://www.propublica.org/article/omaha-nebraska-lead-superfund-epa-trump) last fall. The results suggest the EPA has more work to do, said Howard Mielke, a longtime researcher of lead-contaminated soil who’s considered one of the field’s foremost experts. Not only should the agency clean up the areas that tested above the remediation level, he said, but it also should test other homes. “If you find a couple of high results, chances are many high results will be nearby,” said Mielke, an adjunct professor at the Tulane University School of Medicine. Some experts and environmental advocates said our findings reflect weaknesses in the EPA’s approach to cleaning up residential lead sites, which can leave a lot of lead behind. ### Series Timeline ### April 16, 2026 We published a guide to inform the public about \[what they should know about lead contamination\](https://www.propublica.org/article/lead-contamination-omaha-nebraska-faq) in Omaha. ### April 15, 2026 We reported that despite Omaha being home to the largest residential lead Superfund site in the country, \[most kids living there aren’t tested\](https://www.propublica.org/article/omaha-nebraska-lead-kids-blood-tests) for the toxic metal. ### Oct. 20, 2025 The Trump administration issued guidance tripling the amount of lead that has to be in soil to warrant potential cleanup. Before that, the EPA had been discussing \[expanding the Omaha cleanup\](https://www.propublica.org/article/omaha-nebraska-lead-superfund-epa-trump), which could have included nearly 27,000 properties. ### August 2025 The Flatwater Free Press in partnership with ProPublica began testing Omaha yards for lead to find out \[how effective the cleanup has been\](https://flatwaterfreepress.org/lead-testing/). ### December 2015 The EPA finished the cleanup of more than 13,000 residential properties and passed the remaining work to the city of Omaha. ### March 1999 The Environmental Protection Agency \[began testing soil\](https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0703481) from Omaha yards after concerns about elevated blood lead levels in children. The contamination was eventually tied to a smelter and factories that spewed lead dust for over a century. Jeff Tittel, former director of the Sierra Club in New Jersey, the state with the most Superfund sites, said he repeatedly watched the EPA declare its work done after wrongly assuming everything had been cleaned up. “On paper, everything’s wonderful,” he said, “but at the sites, there’s still chaos.” !\[A woman with brown hair pulled back in a bun and a single tattoo on the underside of each forearm washes her hands in a tidy, white kitchen. She wears a red T-shirt and sage green shorts.\](https://www.propublica.org/wp-content/uploads/2026/07/20260528-Gratz-NE-Lead-30.jpg?w=3000) Mary Royers washes her hands in her kitchen after being outside in her garden. She has largely stopped gardening after a Flatwater Free Press and ProPublica soil test found high levels of lead contamination. Rebecca S. Gratz for ProPublica The EPA declined an interview request with senior officials overseeing the Omaha cleanup. In an emailed response, spokesperson Kellen Ashford said the EPA is committed to cleaning up contaminated sites to protect residents and the environment. “The diligent cleanup efforts have led to a dramatic decrease in elevated blood lead levels” in Omaha, he said. (While the percentage of kids testing high for lead has dropped significantly, as it has nationally, \[kids in the Omaha site still test high for lead at rates above the national average\](https://flatwaterfreepress.org/omaha-is-home-to-a-massive-superfund-site-most-kids-living-there-arent-tested-for-lead/).) Ashford said the EPA could not assess the news organizations’ results without further investigation, but property owners can reach out to the EPA or the city of Omaha, which now manages the site for the federal government, if they have concerns. “Because it would not be possible to completely remove all lead,” Ashford said, the EPA and the city also try to educate the community about lead risks and precautions. The city is already responding to the news organization’s findings. The day after receiving her results, Royers forwarded them to the city’s lead office, asking if anything could be done. An employee tested her dirt and found even higher levels than the news organizations did. The city plans to clean the yard up again in August, Royers said. But the EPA and the city have refused to clean up or test properties of others who have reached out about their high lead results. The agency has also not said what it plans to do about properties that are below the current cleanup level but above President Donald Trump’s new screening level, which could prompt further action. Any update would come after a new site study the agency plans to release in October 2027, Ashford said. Royers and her partner, Stephen Matthews, are thankful for the new cleanup, but they wonder: How many other Omahans may be misled or unaware about lead contamination in their yards? “We’re one house out of thousands,” Matthews said. !\[A man with black hair and gold-rimmed glasses wears a muted pink T-shirt and gardening gloves. His arms are crossed, and he leans on a wooden pole as he looks off frame toward the right. Behind him are green plants out of focus.\](https://www.propublica.org/wp-content/uploads/2026/07/20260528-Gratz-NE-Lead-12.jpg?w=3000) Stephen Matthews, Royers’ partner, in their wildflower garden. Though the soil outside their home was remediated years ago, a recent test by Flatwater Free Press and ProPublica indicated a high level of lead. Rebecca S. Gratz for ProPublica ### What Might Have Gone Wrong It’s difficult to identify why some cleaned-up properties still test high for lead. That’s in part because Omaha’s lead problem is almost as old as the city itself. The American Smelting and Refining Company produced lead to make batteries, cover cables and enrich gasoline for more than a century. After the smelter closed in 1997, the EPA estimated the plant and other factories had dumped 200,000 tons of lead dust — enough to fill at least 1,600 rail cars — across Omaha’s east side. At the time, the Superfund program, which had started only a decade before, was still trying to figure out how to clean up residential sites like Omaha’s, then home to 125,000 people. Old factory sites could be bulldozed and excavated, the contaminated material carted away. But the Omaha site involved people’s homes and yards. The agency tested nearly every yard in east Omaha and came up with a plan: It would dig up and replace parts of yards that had a concentration of more than 400 parts per million of lead — the equivalent of a marble in a 10-pound bucket of dirt. But that meant that some properties were cleaned up while neighboring ones that had only slightly lower levels of lead were not. Hewing to that kind of strict standard doesn’t make sense, said Gabriel Filippelli, an Indiana University earth sciences professor and longtime lead researcher. “From a scientific standpoint, a 390 is the same as a 410,” Filippelli said. “It’s the same as a 400. They’re all about the same value.” Failing to clean up neighboring properties can also lead to recontamination over time. When it’s windy and the ground is dry, tiny lead particles in the dirt — generally about one-hundredth the width of a human hair — become airborne and spread, Filippelli said. When the Superfund program started, the agency cleaned an entire yard if its average lead level among multiple samples was over the limit. But by the time the Omaha cleanup started, the method had changed. In Omaha, it divided yards into five sections: two in the backyard, two in the front yard and a thin ring around the home’s perimeter called the dripline, which often contains the most contaminated dirt but can also contain remnants of lead paint. The agency took multiple samples per section of yard and replaced a section’s soil only if the average was over 400 parts per million. This approach could lead them to miss hot spots or leave behind areas that have high lead levels but are just under the cleanup threshold. Contractors also did not dig up the driplines if another part of the yard wasn’t over the limit. This could explain why the Flatwater Free Press and ProPublica’s testing found that about 1 in 20 homes that didn’t qualify for cleanup originally now tested above the cleanup threshold. In addition, the news outlets found several properties outside the Superfund site that were over the limit. !\[A pair of hands hold a brown glass jar and pick small white flowers.\](https://www.propublica.org/wp-content/uploads/2026/07/20260528-Gratz-NE-Lead-03.jpg?w=3000) Royers saves seeds from flowers in her garden before the soil is scraped away for remediation. Royers considered gardening to be something healing, so she was frustrated to learn it might actually have been harmful. Rebecca S. Gratz for ProPublica !\[A pair of hands hold a brown glass jar and pick small white flowers.\](https://www.propublica.org/wp-content/uploads/2026/07/20260528-Gratz-NE-Lead-03.jpg?w=3000) Royers saves seeds from flowers in her garden before the soil is scraped away for remediation. Royers considered gardening to be something healing, so she was frustrated to learn it might actually have been harmful. Rebecca S. Gratz for ProPublica In the early days of the cleanup, Don Preister, a longtime Omaha lead advocate and former state senator, argued for the EPA to clean up entire yards and to lower the level of lead that would qualify for remediation, calling the agency’s solution a half-measure. But the EPA decided that its approach made the most of limited money and prioritized the highest-risk areas. One EPA manager told Omahans in 2004 that the choice to remove only sections of yards was “economical,” according to meeting records. “It brought out feelings of hurt,” Preister said of the EPA’s choice. “Children are likely to still be impacted, and their health affected.” The EPA’s national guidelines did advise against “‘patchwork clean-up’ patterns which are prone to recontamination” when adjacent sections are high. But the agency didn’t give clear guidance on how to implement that, several former site managers said, and some felt they had to follow the rules strictly or risk violating federal law or agreements with companies paying to clean up their pollution. Ashford acknowledged that the agency has to adhere strictly to its cleanup plans but said in some cases, like an industrial site near a residential area, the EPA may clean up to a lower level to prevent recontamination. Another problem was that east Omaha was full of older homes that contained lead paint that could recontaminate cleaned soil over time. Following local pressure, the EPA agreed to test homes’ paint. If it contained lead, the agency repainted the outside. But the EPA did not repaint houses whose soil did not also qualify for cleanup. Studies in urban areas have found homes with deteriorating paint have contaminated nearby gardens. Ashford said an EPA study found most lead-based paint contamination in Omaha was within 6 feet of the house. Brenda González Rocha, who has lived in her south Omaha home since 2020, thinks both soil and paint are to blame for the lead that doctors found in her 4-year-old daughter’s blood. Her basement had lead paint, which she hired a company to fix. But although the EPA cleaned up her yard in 2012, the Flatwater Free Press and ProPublica tests found levels of lead that are higher than before the agency remediated it. González is surrounded by properties with lingering lead. A yard down the street that had high lead levels was never remediated. The banks of the nearby highway were never dug up and replaced. The house next door has lead paint on it, according to the city lead website. Ashford said it’s unlikely that wind-blown dust from one house to another would recontaminate cleaned areas with enough lead to surpass the cleanup level. But nearly all the remediated properties the newsrooms tested that were over the cleanup threshold are within 100 yards of a property that originally qualified for remediation but wasn’t cleaned up. A third had two such neighboring properties. González’s eight kids, between 8 months and 22 years old, love to play outside. They jump on the trampoline, ride bikes and play soccer. Now González is anxious whenever they’re in the yard. “I worry that this could affect their quality of life,” she said. “I would feel bad if something happened to them during their development. I would feel responsible.” !\[A woman with long black hair wearing a gray T-shirt and glasses stirs a spoon in a bowl of soup. She is leaning over a small child wearing pink glasses, a pink shirt and black headband. The child is touching a baby seated at the table. There is a yellow wall, window and refrigerator behind them. A plate of food is next to the woman’s arm on the table.\](https://www.propublica.org/wp-content/uploads/2026/07/20260624-Gratz-NE-Lead-30\_preview\_maxWidth\_3000\_maxHeight\_3000\_ppi\_72\_embedColorProfile\_true\_quality\_95.jpg?w=3000) González and her daughter Camila help feed soup to Isaías at home. González’s front yard tested high for lead, and she is worried about letting her children play outside. Rebecca S. Gratz for ProPublica ### “Benign Neglect” Once the EPA chooses a fix for a Superfund site, it is generally required to review the site every five years to update the public on the progress of the cleanup. But the ways those reviews are done leave unanswered questions about whether the solution is working and how much lead is in Omaha today, said experts who examined the reports for the Flatwater Free Press and ProPublica. In their reviews, government officials in Omaha track how intact the grass is on top of the new soil. If it is exposed or has been disturbed, it could be a sign that any remaining lead is no longer safely underground and could blow around. But they don’t retest a representative sample of properties. An Omaha lead smelter spread dust that seeped into the soil and bodies of many residents. The EPA spent decades cleaning up the surrounding area — but not Council Bluffs, Carter Lake or Bellevue. Cleanups often take several tries to get right, said Tittel, the former New Jersey Sierra Club director, and recontamination or missed contamination can be a huge problem. Tittel said he has seen similar patterns in New Jersey. In 1979, Tittel helped show EPA employees where the Ford Motor Company dumped industrial waste into abandoned mine pits. Since then, he has seen the mess declared a Superfund site, marked safe, become a Superfund site again and spawn a lawsuit that Ford settled in 2009 as locals continued discovering more hazards. “It’s sort of a benign neglect when it comes to these sites,” Tittel said. “Government just wants to get it over with because it’s taking so long. They end up cutting corners or looking the other way.” A Ford spokesperson said the company takes its environmental responsibility seriously and has been working with state and federal officials to clean up the site. Retesting soil does not appear to be standard at other sites, according to reviews examined by the Flatwater Free Press and ProPublica. But it should be, said Debbie Chizewer, a managing attorney with the environmental law group Earthjustice. Without ongoing testing, the EPA can’t really know if its solution is working, she said, and residents won’t know how toxins in the environment are impacting their health. “I think for the five-year review to be meaningful, you need to do testing,” she said. Ashford said the EPA retests properties on a case-by-case basis, such as when construction disturbs the soil. The periodic reviews, which in Omaha have led to an ongoing reevaluation of the site’s cleanup level, allow the EPA to ensure these unique, complex sites protect people and the environment over time, he said. Steve Zivny, who leads Omaha’s Lead Information Office, also said new testing and cleanup decisions depend on factors such as whether kids live at the home and whether they have tested for a high lead exposure. !\[Two small children look at a baby in a yellow and red toy car inside a gray, tidy living room. There is a crucifix on the wall with red and blue medallions hanging from it. A painting of the Virgin of Guadalupe also decorates the wall.\](https://www.propublica.org/wp-content/uploads/2026/07/20260624-Gratz-NE-Lead-42\_preview\_maxWidth\_3000\_maxHeight\_3000\_ppi\_72\_embedColorProfile\_true\_quality\_95.jpg?w=3000) Camila, Carolina and Isaías play together at home. Their mother keeps indoor toys inside and outdoor toys outside to avoid lead contamination inside the house. Rebecca S. Gratz for ProPublica The EPA’s reviews of the Omaha site do point to some potential problems. In 2024, inspectors found 98% of the lawns had been disturbed, indicating a risk that buried lead could be exposed. That includes having weeds, bare soil or demolished buildings. But the EPA tested only 32 sites where homes had been demolished and found six exceeded the cleanup level. To them, that indicated the solution was “generally protective; however, more data should be collected to support this conclusion,” according to the report. Those figures, however, trouble Ian von Lindern, who oversaw lead cleanup at an Idaho Superfund site for more than 30 years. He doesn’t doubt the federal government did a good job hauling away tons of toxins in Omaha. But he’s sure they couldn’t get all of it. At the Idaho site, the EPA requires people to request permits from a local health district before digging in their yards. Local health employees can also test residents’ dirt, and, if it’s above the cleanup level, it may qualify for further remediation. Without someone keeping a close eye on the fixes, recontamination can occur as people dig up lead-contaminated soil or unremediated soil is allowed to blow around. “Those remedies are, I don’t want to use the word failing, but they’re becoming less effective,” he said. Royers worries many homes in Omaha fit that description. This summer, the educator is letting the weeds grow freely in her garden. Pretty soon, the city is going to replace it anyway. The thought makes her feel guilty. More people should know about potential lead in their yard and have access to tests and cleanups. But that would require acknowledging that after decades and hundreds of millions of dollars spent, there are cracks in the cleanup. Royers isn’t sure that will happen. “The priority is pretending like things are OK,” she said. “Clearly it’s not.” !\[A woman wearing a red T-shirt, green shorts and brown boots walks down a dirt path. Bushes and grass line the sides of the path, and trees grow in the distance.\](https://www.propublica.org/wp-content/uploads/2026/07/20260528-Gratz-NE-Lead-09.jpg?w=3000) Royers walks to her garage. She and Matthews wonder how many other Omahans may be misled or unaware about lead contamination in their yards. Rebecca S. Gratz for ProPublica
 
 #### The Ghost Town (Times Beach, Missouri)
 
@@ -437,7 +669,121 @@ The EPA defines a brownfield as land that is abandoned because redevelopment is 
 
 :::
 
+
+##### Source Content 
+
+<a href="https://stuffyoushouldknow.com/episode/whats-a-brownfield-remediation-project/"><button style="cursor: pointer;transition-duration: 0.4s;width:200px;color:white;background:#660066;font-size:18px;font-weight:800;padding:20px 40px;border-radius: 4px;box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)">Visit Source</button></a>
+
+>[!view-source]- View Here
+><iframe height=700 src=https://stuffyoushouldknow.com/episode/whats-a-brownfield-remediation-project/></iframe>
+
 ### Video Clips
+
+#### A Brief History of Environmental Justice
+
+**ProPublica**, *08 04, 2017*
+
+##### Video (3:35)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/30xLg2HHg8Q?start=55 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Description
+
+Landfills, chemical waste facilities and power plants are more often built in poor and minority communities, which don't have the power or money to advocate for themselves.
+ 
+For decades, these communities have called for environmental justice: the idea that people shouldn't be forced to deal with more pollution because they belong to a certain race, national origin or income bracket.
+ 
+It's a simple notion, but America has struggled for decades to implement any policies that actually protect poor and minority communities from environmental toxins. Now, President Trump's budget seeks to end the Office of Environmental Justice and cut overall funding to the EPA by 31%. What will happen to the marginalized communities that most need a government advocate?
+
+Images:
+
+CNN, Fox News, MTV, AP, The EcoLogic Channel, José da Vede, Chicago Sun Times, St. Louis Public Radio, Leroy Woodson via The Atlantic, Frank J Aleksandrowicz via The Atlantic, Harry Shaefer via The Atlantic, U.S. Environmental Protection Agency, Julie Dermanksy, CBS News
+
+Music:
+
+“Climbing the Mountain” - Podington Bear
+
+“Falcon Hood Tight” - Podington Bear
+
+##### Transcript
+
+###### Environmental justice concept
+
+**0:06** · Nationally the facilities where we dump our garbage and process dangerous chemicals tend to be located in poor and minority communities.
+
+**0:14** · The people who live there have little or no protection from the industries around them.
+
+**0:18** · And things could get worse.
+
+**0:22** · So, there's this idea of environmental justice.
+
+**0:24** · It's pretty simple: Communities shouldn’t be forced to deal with more pollution because they belong to a certain race, national origin or income bracket.
+
+**0:33** · Yet, America has struggled over the years to implement any serious policy that actually protects these communities.
+
+**0:38** · So, let's lay out the ways the government has failed them.
+
+###### The fight for justice
+
+**0:42** · "We will not allow Warren County to become a dump site."
+
+**0:47** · The fight for environmental justice took off in 1982 when residents of Warren County, North Carolina mounted mass demonstrations against a plan to dump contaminated soil in a landfill in their community.
+
+**0:59** · The EPA investigated four similar landfills in southern states and found that they were all located in black or low-income neighborhoods.
+
+**1:07** · In 1987, the United Church of Christ Racial Justice Commission found that around the country, hazardous waste facilities were more likely to be located in mostly minority communities.
+
+**1:18** · Amid mounting proof, the federal government was forced to act.
+
+###### Government action and policy
+
+**1:23** · So, in 1992 President George H.W. Bush founded the Office of Environmental Justice inside the EPA.
+
+**1:30** · Two years later, President Bill Clinton signed an executive order requiring federal agencies to consider environmental justice in all of their policies, as well as extending civil rights protection to environmental discrimination.
+
+**1:42** · But Congress never passed a bill to make Clinton's executive order law.
+
+###### Political shifts and delays
+
+**1:47** · Then came George W. Bush.
+
+**1:50** · His administration shifted the focus of the Office of Environmental Justice from protecting low-income and minority communities to "all people," Leaving vulnerable populations without a federal environmental advocate.
+
+**2:02** · "80% of New Orleans, including much of downtown, is under water."
+
+**2:05** · Under Bush, many environmental civil rights claims were rejected or delayed for years.
+
+**2:11** · In 2009, after President Barack Obama's election, his administration recommitted to environmental justice.
+
+###### Congressional inaction
+
+**2:18** · Generally speaking, in this country a lot of environmentally problematic facilities tend to be located in places where poor folks live.
+
+**2:30** · Yet, during the two years Democrats controlled the House, the Senate and the White House they didn't file a single bill focused on strengthening environmental justice protections.
+
+**2:40** · Passing major environmental legislation faded further when Republicans took control of Congress in the 2010 midterm elections.
+
+###### Current EPA threats
+
+**2:47** · Now, President Donald J. Trump is making good on his vow to weaken the EPA.
+
+**2:52** · "Environmental protection, what they do is a disgrace."
+
+**2:55** · "Every week they come out with new regulations."
+
+**2:57** · "Who's going to protect the environment?"
+
+**2:59** · "We'll be fine with the environment."
+
+**3:00** · "We can leave a little bit."
+
+**3:04** · This budget–a 31% cut to the EPA, $2.6 billion cut away from the EPA, that's what the president wants.
+
+**3:10** · As the EPA loses funding and regulations are rolled back, vulnerable communities may very likely fall through the cracks.
+
+**3:18** · I'm Talia Buford. I'll be covering these communities and digging into systemic environmental injustice.
+
+**3:23** · If you have something to tell me, email me at Talia.Buford@ProPublica.org.
 
 #### America Made Its Most Toxic Lake. Now We Need What's Inside
 

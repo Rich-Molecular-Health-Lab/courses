@@ -3,13 +3,16 @@
   chapter: null
   topics:
     - "Fall Break"
+    - "No Class - VOTE!"
     - "Thanksgiving Break ENVN4320"
   class_days:
+    - "ENVN4320_W11D1"
     - "ENVN4320_W14D1"
     - "ENVN4320_W14D2"
     - "ENVN4320_W9D1"
   dates:
     - "2026-10-20T16:00:00"
+    - "2026-11-03T16:00:00"
     - "2026-11-24T16:00:00"
     - "2026-11-26T16:00:00"
   exams: null
@@ -245,6 +248,7 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   class_days:
+    - "ENVN4320_W10D1"
     - "ENVN4320_W5D1"
     - "ENVN4320_W5D2"
     - "ENVN4320_W6D1"
@@ -252,6 +256,7 @@
     - "ENVN4320_W7D1"
     - "ENVN4320_W7D2"
     - "ENVN4320_W8D1"
+    - "ENVN4320_W9D2"
   dates:
     - "2026-09-22T16:00:00"
     - "2026-09-24T16:00:00"
@@ -260,6 +265,8 @@
     - "2026-10-06T16:00:00"
     - "2026-10-08T16:00:00"
     - "2026-10-13T16:00:00"
+    - "2026-10-22T16:00:00"
+    - "2026-10-27T16:00:00"
   background:
     - "Curbing Urban Sprawl - Why Better City Planning Could Mean Better Health"
     - "Nsilo Berry on making buildings healthier"
@@ -310,9 +317,9 @@
   class_start: "ENVN4320_W5D1"
   date_start: "2026-09-22T16:00:00"
   week_start: 5
-  class_end: "ENVN4320_W8D1"
-  date_end: "2026-10-13T16:00:00"
-  week_end: 8
+  class_end: "ENVN4320_W10D1"
+  date_end: "2026-10-27T16:00:00"
+  week_end: 10
   title: "Infrastructure"
 - unit: "Introduction"
   chapter: 1
@@ -415,8 +422,8 @@
   chapter: 5
   topics:
     - "Epidemics & Pandemics"
+    - "Infectious Disease"
     - "Vectors"
-    - "Zoonoses"
   exams:
     - "Exam 1 ENVN4320"
   keywords: null
@@ -437,14 +444,12 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   class_days:
-    - "ENVN4320_W12D2"
     - "ENVN4320_W13D1"
     - "ENVN4320_W13D2"
     - "ENVN4320_W15D1"
     - "ENVN4320_W15D2"
     - "ENVN4320_W16D1"
   dates:
-    - "2026-11-12T16:00:00"
     - "2026-11-17T16:00:00"
     - "2026-11-19T16:00:00"
     - "2026-12-01T16:00:00"
@@ -459,16 +464,16 @@
     - "Ticks are a growing problem, no matter where you live"
     - "Should we reengineer the world's deadliest animal?"
     - "A New Test for Lyme Disease, Developed by High Schoolers"
-    - "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?"
+    - "The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?"
     - "Preventing Future Pandemics"
   slides:
     []
   course_name: "Human Health & the Environment"
   videos:
     []
-  class_start: "ENVN4320_W12D2"
-  date_start: "2026-11-12T16:00:00"
-  week_start: 12
+  class_start: "ENVN4320_W13D1"
+  date_start: "2026-11-17T16:00:00"
+  week_start: 13
   class_end: "ENVN4320_W16D1"
   date_end: "2026-12-08T16:00:00"
   week_end: 16
@@ -523,10 +528,10 @@
     - "Agricultural Pollution"
     - "Air Pollution"
     - "Biotoxins & Microbes"
-    - "Endocrine Disrupting Chemicals"
     - "Heavy Metals"
     - "PFAS"
     - "Radiation"
+    - "Synthetic Chemicals & Pollutants"
   exams:
     - "Final Exam ENVN4320"
   films:
@@ -546,32 +551,31 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   class_days:
-    - "ENVN4320_W10D1"
     - "ENVN4320_W10D2"
-    - "ENVN4320_W11D1"
     - "ENVN4320_W11D2"
     - "ENVN4320_W12D1"
-    - "ENVN4320_W9D2"
+    - "ENVN4320_W12D2"
   dates:
-    - "2026-10-22T16:00:00"
-    - "2026-10-27T16:00:00"
     - "2026-10-29T16:00:00"
-    - "2026-11-03T16:00:00"
     - "2026-11-05T16:00:00"
     - "2026-11-10T16:00:00"
+    - "2026-11-12T16:00:00"
   content:
-    []
+    - "As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses"
   background:
-    []
+    - "Cancer is falling nationwide. Except in Iowa."
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+    - "Lead Poisoning - Heavy Metal Episode"
+    - "Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort"
   slides:
     []
   course_name: "Human Health & the Environment"
   videos:
-    []
-  class_start: "ENVN4320_W9D2"
-  date_start: "2026-10-22T16:00:00"
-  week_start: 9
-  class_end: "ENVN4320_W12D1"
-  date_end: "2026-11-10T16:00:00"
+    - "As cancer rates fall nationally, Iowa sees a troubling rise in diagnoses"
+  class_start: "ENVN4320_W10D2"
+  date_start: "2026-10-29T16:00:00"
+  week_start: 10
+  class_end: "ENVN4320_W12D2"
+  date_end: "2026-11-12T16:00:00"
   week_end: 12
   title: "Toxins"

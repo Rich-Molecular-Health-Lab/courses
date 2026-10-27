@@ -230,32 +230,48 @@ W9:
         path: "topics/Fall Break.qmd"
   D2:
     date: "2026-10-22"
-    themes: "Toxins"
+    themes: "Infrastructure"
     topics:
-      - title: "Air Pollution"
-        path: "topics/Air Pollution.qmd"
-      - title: "Radiation"
-        path: "topics/Radiation.qmd"
+      - title: "Urban Infrastructure & Housing"
+        path: "topics/Urban Infrastructure & Housing.qmd"
+    slides:
+      - "slides/Urban Infrastructure, Housing, & Public Health/index.html"
 W10:
   D1:
     date: "2026-10-27"
-    themes: "Toxins"
+    themes: "Infrastructure"
     topics:
-      - title: "Endocrine Disrupting Chemicals"
-        path: "topics/Endocrine Disrupting Chemicals.qmd"
+      - title: "Urban Infrastructure & Housing"
+        path: "topics/Urban Infrastructure & Housing.qmd"
+    slides:
+      - "slides/Urban Infrastructure, Housing, & Public Health/index.html"
   D2:
     date: "2026-10-29"
     themes: "Toxins"
     topics:
-      - title: "PFAS"
-        path: "topics/PFAS.qmd"
+      - title: "Heavy Metals"
+        path: "topics/Heavy Metals.qmd"
+    background:
+      - title: "Lead Poisoning - Heavy Metal Episode"
+        type: "podcast"
+        path_spotify: "https://open.spotify.com/episode/3f8mBjnoI2RiBjKxdaQFaD"
+        path_page: "podcast/Lead Poisoning - Heavy Metal Episode.qmd"
+        duration_string: "01:11:59"
+        released: "2019-11-26"
+        series: "This Podcast Will Kill You"
+      - title: "Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort"
+        type: "podcast"
+        path_page: "podcast/Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort.qmd"
+        duration_string: "00:06:58"
+        released: "2026-08-12"
+        series: "WBUR"
 W11:
   D1:
     date: "2026-11-03"
-    themes: "Toxins"
+    themes: "Breaks ENVN4320"
     topics:
-      - title: "Heavy Metals"
-        path: "topics/Heavy Metals.qmd"
+      - title: "No Class - VOTE!"
+        path: "topics/No Class - VOTE!.qmd"
   D2:
     date: "2026-11-05"
     themes: "Toxins"
@@ -267,12 +283,27 @@ W12:
     date: "2026-11-10"
     themes: "Toxins"
     topics:
-      - title: "Agricultural Pollution"
-        path: "topics/Agricultural Pollution.qmd"
-      - title: "Biotoxins & Microbes"
-        path: "topics/Biotoxins & Microbes.qmd"
+      - title: "Synthetic Chemicals & Pollutants"
+        path: "topics/Synthetic Chemicals & Pollutants.qmd"
+    background:
+      - title: "Cancer is falling nationwide. Except in Iowa.  The Excerpt"
+        type: "video"
+      - title: "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+        type: "podcast"
+        path_spotify: "https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr"
+        path_page: "podcast/Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett.qmd"
+        duration_string: "01:19:15"
+        released: "2023-02-22"
+        series: "Ologies with Alie Ward"
   D2:
     date: "2026-11-12"
+    themes: "Toxins"
+    topics:
+      - title: "Synthetic Chemicals & Pollutants"
+        path: "topics/Synthetic Chemicals & Pollutants.qmd"
+W13:
+  D1:
+    date: "2026-11-17"
     themes: "Pathogens"
     topics:
       - title: "Vectors"
@@ -306,13 +337,6 @@ W12:
         duration_string: "00:11:50"
         released: "2026-06-17"
         series: "Public Health On Call"
-W13:
-  D1:
-    date: "2026-11-17"
-    themes: "Pathogens"
-    topics:
-      - title: "Vectors"
-        path: "topics/Vectors.qmd"
   D2:
     date: "2026-11-19"
     themes: "Pathogens"
@@ -337,8 +361,8 @@ W15:
     date: "2026-12-01"
     themes: "Pathogens"
     topics:
-      - title: "Zoonoses"
-        path: "topics/Zoonoses.qmd"
+      - title: "Infectious Disease"
+        path: "topics/Infectious Disease.qmd"
     background:
       - title: "Animal Diseases and Human Health - The Sloth and Screwworm Episode"
         type: "podcast"
@@ -358,30 +382,15 @@ W15:
     date: "2026-12-03"
     themes: "Pathogens"
     topics:
-      - title: "Epidemics & Pandemics"
-        path: "topics/Epidemics & Pandemics.qmd"
-    background:
-      - title: "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?"
-        type: "podcast"
-        path_spotify: "https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV"
-        path_page: "podcast/Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace - Why?.qmd"
-        duration_string: "00:45:54"
-        released: "2026-08-25"
-        series: "1A"
-      - title: "Preventing Future Pandemics"
-        type: "podcast"
-        path_spotify: "https://open.spotify.com/episode/5VIUXP2GLfOITKOogyXgHv"
-        path_page: "podcast/Preventing Future Pandemics.qmd"
-        duration_string: "00:59:55"
-        released: "2026-05-11"
-        series: "Big Picture Science"
+      - title: "Infectious Disease"
+        path: "topics/Infectious Disease.qmd"
 W16:
   D1:
     date: "2026-12-08"
     themes: "Pathogens"
     topics:
-      - title: "Epidemics & Pandemics"
-        path: "topics/Epidemics & Pandemics.qmd"
+      - title: "Infectious Disease"
+        path: "topics/Infectious Disease.qmd"
   D2:
     date: "2026-12-10"
     themes: "Review Days ENVN4320"

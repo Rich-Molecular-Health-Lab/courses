@@ -31,16 +31,17 @@
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
   duration_string: "00:11:50"
-  class_start: "ENVN4320_W12D2"
-  date_start: "2026-11-12T16:00:00"
-  week_start: 12
-  class_end: "ENVN4320_W12D2"
-  date_end: "2026-11-12T16:00:00"
-  week_end: 12
+  class_start: "ENVN4320_W13D1"
+  date_start: "2026-11-17T16:00:00"
+  week_start: 13
+  class_end: "ENVN4320_W13D1"
+  date_end: "2026-11-17T16:00:00"
+  week_end: 13
   topics_possible:
     - "Vectors"
     - "Epidemiology"
     - "One Health"
+    - "Infectious Disease"
   themes_possible:
     - "Pathogens"
     - "Introduction"
@@ -130,7 +131,7 @@
   attachments:
     []
 - topics:
-    - "Zoonoses"
+    - "Infectious Disease"
   themes:
     - "Pathogens"
   deadline: "2026-12-01T16:00:00"
@@ -167,7 +168,7 @@
   date_end: "2026-12-01T16:00:00"
   week_end: 15
   topics_possible:
-    - "Zoonoses"
+    - "Infectious Disease"
     - "One Health"
     - "Epidemics & Pandemics"
   themes_possible:
@@ -525,6 +526,68 @@
   attachments:
     []
 - topics:
+    - "Synthetic Chemicals & Pollutants"
+  themes:
+    - "Toxins"
+  deadline: null
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "podcast"
+  created: "2026-08-28"
+  title: "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett"
+  url_spotify: "https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr"
+  description: "Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising."
+  released: "2023-02-22"
+  image: "![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)"
+  series: "Ologies with Alie Ward"
+  series_description: "Volcanoes. Trees. Drunk butterflies. Mars missions. Slug sex. Death. Beauty standards. Anxiety busters. Beer science. Bee drama. Take away a pocket full of science knowledge and charming, bizarre stories about what fuels these professional -ologists' obsessions. Humorist and science correspondent Alie Ward asks smart people stupid questions and the answers might change your life."
+  series_spotify: "https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S"
+  duration: 4755
+  duration_string: "01:19:15"
+  topics_possible:
+    - "PFAS"
+    - "Heavy Metals"
+    - "Synthetic Chemicals & Pollutants"
+    - "Environmental Justice"
+  themes_possible:
+    - "Toxins"
+    - "Introduction"
+  type: "podcast"
+  duration_ms: "4755121"
+  course_name: "Human Health & the Environment"
+  published_at: "2023-02-22"
+  published: "2023-02-22"
+  year: "2023"
+  cover: "https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3"
+  assigned: false
+  authors: "Ologies with Alie Ward"
+  creator: "Ologies with Alie Ward"
+  author_first: "Ward"
+  author_last: "Ward"
+  author_display: "Ologies with Alie Ward"
+  url_direct: "https://www.alieward.com/ologies/environmentaltoxicology"
+  classes_assigned:
+    - class_day: "ENVN4320_W12D1"
+      date: "2026-11-10T16:00:00"
+  class_start: "ENVN4320_W12D1"
+  date_start: "2026-11-10T16:00:00"
+  week_start: 12
+  class_end: "ENVN4320_W12D1"
+  date_end: "2026-11-10T16:00:00"
+  week_end: 12
+  profile: "podcast"
+  attachments:
+    - "Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett.pdf"
+- topics:
     - "Environmental Justice"
     - "Redlining"
   themes:
@@ -588,69 +651,6 @@
   author_last: "Foundations"
   author_display: "Urban Planning Foundations "
   url_direct: null
-  profile: "podcast"
-  attachments:
-    []
-- topics:
-    - "Epidemics & Pandemics"
-  themes:
-    - "Pathogens"
-  deadline: "2026-12-03T16:00:00"
-  semesters:
-    - "26f"
-  course_prefix: "ENVN"
-  course_number: 4320
-  projects:
-    - "Human Health & the Environment Fall 2026"
-  area: "teaching"
-  tags:
-    - "teaching"
-    - "resource"
-    - "background"
-    - "podcast"
-  created: "2026-08-28"
-  title: "Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?"
-  url_spotify: "https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV"
-  description: "The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-  released: "2026-08-25"
-  image: "![Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)"
-  series: "1A"
-  series_description: "Listening to the news can feel like a journey. But 1A guides you beyond the headlines – and cuts through the noise. Let's get to the heart of the story, together – on 1A. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for 1A."
-  series_spotify: "https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK"
-  duration: 2754
-  classes_assigned:
-    - class_day: "ENVN4320_W15D2"
-      date: "2026-12-03T16:00:00"
-  duration_string: "00:45:54"
-  class_start: "ENVN4320_W15D2"
-  date_start: "2026-12-03T16:00:00"
-  week_start: 15
-  class_end: "ENVN4320_W15D2"
-  date_end: "2026-12-03T16:00:00"
-  week_end: 15
-  topics_possible:
-    - "Epidemics & Pandemics"
-    - "Zoonoses"
-    - "One Health"
-  themes_possible:
-    - "Pathogens"
-    - "Introduction"
-  type: "podcast"
-  duration_ms: "2754638"
-  course_name: "Human Health & the Environment"
-  published_at: "2026-08-25"
-  published: "2026-08-25"
-  year: "2026"
-  cover: "https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602"
-  assigned: true
-  class_days:
-    - "ENVN4320_W15D2"
-  authors: "1A"
-  creator: "1A"
-  author_first: "1A"
-  author_last: "1A"
-  author_display: "1A"
-  url_direct: "https://the1a.org/segments/the-drc-ebola-outbreak-is-spreading-at-a-rapid-pace-why/"
   profile: "podcast"
   attachments:
     []
@@ -827,7 +827,6 @@
   topics_possible:
     - "Floods"
     - "Environmental Justice"
-    - "Epidemics & Pandemics"
   themes_possible:
     - "Disasters"
     - "Introduction"
@@ -851,6 +850,123 @@
   profile: "podcast"
   attachments:
     []
+- title: "Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort"
+  url_direct: "https://www.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead"
+  description: "The Environmental Protection Agency spent millions of dollars cleaning up a massive residential lead superfund site in Omaha, Nebraska, starting in 1999."
+  creator: "Here & Now Newsroom"
+  author: "Here & Now Newsroom"
+  published: "2026-08-12"
+  released: "2026-08-12"
+  cover: "https://media.wbur.org/wp/2016/06/HereandNow-3000b-1000x1000.jpg"
+  embed: "https://player.wbur.org/hereandnow/2026/08/12/omaha-toxic-lead"
+  course_prefix: "ENVN"
+  course_number: "4130"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Synthetic Chemicals & Pollutants"
+    - "Heavy Metals"
+  genre: "news"
+  source: "WBUR"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "podcast"
+  area: "teaching"
+  mx-uid: "134067973330252"
+  duration: 418
+  duration_string: "00:06:58"
+  type: "podcast"
+  series: "WBUR"
+  episode_number: null
+  episode_season: null
+  image: "![Investigation finds toxic levels of lead in Nebraska yards, despite expensive cleanup effort](https://media.wbur.org/wp/2016/06/HereandNow-3000b-1000x1000.jpg)"
+  authors: "Here & Now Newsroom"
+  author_first: "Newsroom"
+  author_last: "Newsroom"
+  author_display: "Here & Now Newsroom"
+  published_at: "2026-08-12T00:00:00.000Z"
+  year: 2026
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Toxins"
+  classes_assigned:
+    - class_day: "ENVN4320_W10D2"
+      date: "2026-10-29T16:00:00"
+  topics:
+    - "Heavy Metals"
+  themes:
+    - "Toxins"
+  class_start: "ENVN4320_W10D2"
+  date_start: "2026-10-29T16:00:00"
+  week_start: 10
+  class_end: "ENVN4320_W10D2"
+  date_end: "2026-10-29T16:00:00"
+  week_end: 10
+  profile: "podcast"
+  attachments:
+    []
+- topics:
+    - "Heavy Metals"
+  themes:
+    - "Toxins"
+  deadline: null
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "podcast"
+  created: "2026-08-29"
+  title: "Lead Poisoning - Heavy Metal Episode"
+  url_spotify: "https://open.spotify.com/episode/3f8mBjnoI2RiBjKxdaQFaD"
+  description: "This episode, our first foray into toxic metals, is heavy in all kinds of ways - metallically, emotionally, informationally, politically. Lead poisoning has been around for about as long humans have been working with lead, but despite its extensive history, it still poses an incredibly huge public health problem today, especially for children. Tune in to hear us chat about the multitude of effects lead exposure can have on your body, the dark and often strange history of lead poisoning (ancient Rome, anyone?), and the alarming extent to which lead exposure affects people around the world today.  See omnystudio.com/listener for privacy information."
+  released: "2019-11-26"
+  image: "![Lead Poisoning: Heavy Metal Episode](https://i.scdn.co/image/ab67656300005f1fadae557c8d2d5669ac257463)"
+  series: "This Podcast Will Kill You"
+  series_description: "This podcast might not actually kill you, but Erin Welsh and Erin Allmann Updyke cover so many things that can. In each episode, they tackle a different topic, teaching listeners about the biology, history, and epidemiology of a different disease or medical mystery. They do the scientific research, so you don’t have to.   Since 2017, Erin and Erin have explored chronic and infectious diseases, medications, poisons, viruses, bacteria and scientific discoveries. They’ve researched public health subjects including plague, Zika, COVID-19, lupus, asbestos, endometriosis and more.  Each episode is accompanied by a creative quarantini cocktail recipe and a non-alcoholic placeborita.  Erin Welsh, Ph.D. is a co-host of the This Podcast Will Kill You. She is a disease ecologist and epidemiologist and works full-time as a science communicator through her work on the podcast. Erin Allmann Updyke, MD, Ph.D. is a co-host of This Podcast Will Kill You. She’s an epidemiologist and disease ecologist currently in the final stretch of her family medicine residency program.  This Podcast Will Kill You is part of the Exactly Right podcast network that provides a platform for bold, creative voices to bring to life provocative, entertaining and relatable stories for audiences everywhere. The Exactly Right roster of podcasts covers a variety of topics including science, true crime, comedic interviews, news, pop culture and more. Podcasts on the network include My Favorite Murder with Karen Kilgariff and Georgia Hardstark, Buried Bones, That's Messed Up: An SVU Podcast and more."
+  series_spotify: "https://open.spotify.com/show/7cujpkzRygYyLylnv5SVFu"
+  duration: 4319
+  duration_string: "01:11:59"
+  topics_possible:
+    - "Heavy Metals"
+  themes_possible:
+    - "Toxins"
+  type: "podcast"
+  duration_ms: "4319686"
+  course_name: "Human Health & the Environment"
+  episode_number: "38"
+  published_at: "2019-11-26"
+  published: "2019-11-26"
+  year: "2019"
+  cover: "https://i.scdn.co/image/ab67656300005f1fadae557c8d2d5669ac257463"
+  assigned: true
+  authors: "This Podcast Will Kill You"
+  creator: "This Podcast Will Kill You"
+  author_first: "You"
+  author_last: "You"
+  author_display: "This Podcast Will Kill You"
+  classes_assigned:
+    - class_day: "ENVN4320_W10D2"
+      date: "2026-10-29T16:00:00"
+  class_start: "ENVN4320_W10D2"
+  date_start: "2026-10-29T16:00:00"
+  week_start: 10
+  class_end: "ENVN4320_W10D2"
+  date_end: "2026-10-29T16:00:00"
+  week_end: 10
+  profile: "podcast"
+  attachments:
+    - "Lead Poisoning - Heavy Metal Episode.pdf"
 - topics:
     - "Urban Infrastructure & Housing"
   themes:
@@ -895,10 +1011,12 @@
   topics_possible:
     - "Urban Infrastructure & Housing"
     - "Environmental Justice"
+    - "Synthetic Chemicals & Pollutants"
     - "One Health"
   themes_possible:
     - "Infrastructure"
     - "Introduction"
+    - "Toxins"
   type: "podcast"
   duration_ms: "2757381"
   course_name: "Human Health & the Environment"
@@ -951,16 +1069,16 @@
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
   duration_string: "00:28:42"
-  class_start: "ENVN4320_W12D2"
-  date_start: "2026-11-12T16:00:00"
-  week_start: 12
-  class_end: "ENVN4320_W12D2"
-  date_end: "2026-11-12T16:00:00"
-  week_end: 12
+  class_start: "ENVN4320_W13D1"
+  date_start: "2026-11-17T16:00:00"
+  week_start: 13
+  class_end: "ENVN4320_W13D1"
+  date_end: "2026-11-17T16:00:00"
+  week_end: 13
   topics_possible:
     - "Vectors"
     - "Epidemiology"
-    - "Zoonoses"
+    - "Infectious Disease"
     - "One Health"
   themes_possible:
     - "Pathogens"
@@ -985,8 +1103,7 @@
   attachments:
     []
 - topics:
-    - "Epidemics & Pandemics"
-    - "Zoonoses"
+    - "Infectious Disease"
   themes:
     - "Pathogens"
   classes_assigned:
@@ -1023,9 +1140,9 @@
   week_end: 15
   topics_possible:
     - "Epidemics & Pandemics"
-    - "Zoonoses"
-    - "One Health"
+    - "Infectious Disease"
     - "Epidemiology"
+    - "One Health"
   themes_possible:
     - "Pathogens"
     - "Introduction"
@@ -1080,16 +1197,16 @@
     - class_day: "ENVN4320_W15D2"
       date: "2026-12-03T16:00:00"
   duration_string: "00:59:55"
-  class_start: "ENVN4320_W15D2"
-  date_start: "2026-12-03T16:00:00"
-  week_start: 15
-  class_end: "ENVN4320_W15D2"
-  date_end: "2026-12-03T16:00:00"
-  week_end: 15
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
   topics_possible:
     - "Epidemics & Pandemics"
     - "One Health"
-    - "Zoonoses"
+    - "Infectious Disease"
   themes_possible:
     - "Pathogens"
     - "Introduction"
@@ -1144,12 +1261,12 @@
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
   duration_string: "00:11:59"
-  class_start: "ENVN4320_W12D2"
-  date_start: "2026-11-12T16:00:00"
-  week_start: 12
-  class_end: "ENVN4320_W12D2"
-  date_end: "2026-11-12T16:00:00"
-  week_end: 12
+  class_start: "ENVN4320_W13D1"
+  date_start: "2026-11-17T16:00:00"
+  week_start: 13
+  class_end: "ENVN4320_W13D1"
+  date_end: "2026-11-17T16:00:00"
+  week_end: 13
   topics_possible:
     - "Vectors"
     - "Epidemics & Pandemics"
@@ -1174,6 +1291,68 @@
   author_last: "Wave"
   author_display: "Short Wave"
   url_direct: "https://www.npr.org/2026/05/27/nx-s1-5806598/disease-science-mosquito-genetic"
+  profile: "podcast"
+  attachments:
+    []
+- topics:
+    - "Epidemics & Pandemics"
+  themes:
+    - "Pathogens"
+  deadline: "2026-12-03T16:00:00"
+  semesters:
+    - "26f"
+  course_prefix: "ENVN"
+  course_number: 4320
+  projects:
+    - "Human Health & the Environment Fall 2026"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "resource"
+    - "background"
+    - "podcast"
+  created: "2026-08-28"
+  title: "The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?"
+  url_spotify: "https://open.spotify.com/episode/4Up6LGnlGwm3f23Fsb5MtV"
+  description: "The current Ebola outbreak in the Democratic Republic of the Congo is the deadliest in the country’s history.With over 2,500 deaths and more than 5,000 confirmed cases, it’s now the second largest ever worldwide. And it’s spreading at record speed. It’s even outpacing the West Africa outbreak that killed more than 11,000 people between 2014 and 2016.What do we know about why this outbreak is moving so quickly?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+  released: "2026-08-25"
+  image: "![Health - The DRC Ebola Outbreak Is Spreading At A Rapid Pace. Why?](https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602)"
+  series: "1A"
+  series_description: "Listening to the news can feel like a journey. But 1A guides you beyond the headlines – and cuts through the noise. Let's get to the heart of the story, together – on 1A. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for 1A."
+  series_spotify: "https://open.spotify.com/show/5vBjKl7N8ZmfKrjjTvATeK"
+  duration: 2754
+  classes_assigned:
+    - class_day: "ENVN4320_W15D2"
+      date: "2026-12-03T16:00:00"
+  duration_string: "00:45:54"
+  class_start: null
+  date_start: null
+  week_start: null
+  class_end: null
+  date_end: null
+  week_end: null
+  topics_possible:
+    - "Epidemics & Pandemics"
+    - "Infectious Disease"
+  themes_possible:
+    - "Pathogens"
+    - "Introduction"
+  type: "podcast"
+  duration_ms: "2754638"
+  course_name: "Human Health & the Environment"
+  published_at: "2026-08-25"
+  published: "2026-08-25"
+  year: "2026"
+  cover: "https://i.scdn.co/image/ab67656300005f1f38c4ce95a15f0b393934e602"
+  assigned: true
+  class_days:
+    - "ENVN4320_W15D2"
+  authors: "1A"
+  creator: "1A"
+  author_first: "1A"
+  author_last: "1A"
+  author_display: "1A"
+  url_direct: "https://the1a.org/segments/the-drc-ebola-outbreak-is-spreading-at-a-rapid-pace-why/"
   profile: "podcast"
   attachments:
     []
@@ -1210,15 +1389,15 @@
     - class_day: "ENVN4320_W12D2"
       date: "2026-11-12T16:00:00"
   duration_string: "00:13:14"
-  class_start: "ENVN4320_W12D2"
-  date_start: "2026-11-12T16:00:00"
-  week_start: 12
-  class_end: "ENVN4320_W12D2"
-  date_end: "2026-11-12T16:00:00"
-  week_end: 12
+  class_start: "ENVN4320_W13D1"
+  date_start: "2026-11-17T16:00:00"
+  week_start: 13
+  class_end: "ENVN4320_W13D1"
+  date_end: "2026-11-17T16:00:00"
+  week_end: 13
   topics_possible:
     - "Vectors"
-    - "Zoonoses"
+    - "Infectious Disease"
     - "Climate Change & Extreme Weather"
     - "Epidemiology"
   themes_possible:
@@ -1286,7 +1465,6 @@
   topics_possible:
     - "Drought"
     - "Climate Change & Extreme Weather"
-    - "Environmental Justice"
     - "One Health"
   themes_possible:
     - "Disasters"

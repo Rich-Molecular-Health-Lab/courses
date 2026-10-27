@@ -1,6 +1,5 @@
 ---
 title: "Air Pollution"
-date: "2026-10-22T16:00:00"
 date-modified: "2026-08-29T11:15:01"
 profile:
   - "topic"
@@ -12,10 +11,6 @@ listing:
   template: "resources.ejs.md"
   contents: "Air Pollution_resources.yaml"
 ---
-
-## Class Meetings
-
-**Dates:** 2026-10-22T16:00:00
 
 ## Optional Material (Dive Deeper)
 
@@ -370,28 +365,6 @@ Dr. Carlos Gould joins the Agents of Change in Environmental Justice podcast to 
 [Open Series in Spotify](https://open.spotify.com/show/2rTT1klKUoQNuaW2Ah19Pa)
 
 Summer is here, your windows are open and the smell of…car exhaust and the latest wildfire are wafting in. This air pollution is harmful to almost every organ, including the brain. Today on Short Wave, we talk about one way air pollution may cloud your memory.Interested in more episodes about how where we live affects us? Email us your question at shortwave@npr.org and we may turn it into an episode!Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy
-
-:::
-
-#### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K Garrett
-
-##### Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett
-
-![Environmental Toxicology (POISONS + TRAIN DERAILMENT)  with Kimberly K. Garrett](https://i.scdn.co/image/ab67656300005f1fce54de8da4c5935c915c48a3)
-
-**Duration:** 01:19:15
-
-**Released:** 2023
-
-**Series:** Ologies with Alie Ward
-
-::: {.callout-description collapse="true"}
-
-[Open Episode in Spotify](https://open.spotify.com/episode/1AItn0j70q8FPouz0FHdcr)
-
-[Open Series in Spotify](https://open.spotify.com/show/5nvRkVMH58SelKZYZFZx1S)
-
-Chemical spills, historical disasters, water quality, airborne toxic events, clear gasses, White Noise, dead fish, dark clouds, chemistry tests, trench coats, PFAS, phthalates, and the Ohio train derailment that plumed vinyl chloride into the skies of a small Ohio town. The lovely and informative Environmental Toxicologist Dr. Kimberly K. Garrett works at the intersection of chemical safety, public health and environmental justice — and she has cool science tattoos. Also: should I burn incense all the time? Visit Dr. Kimberly K. Garrett’s website and follow her on TwitterA donation went to Group Against Smog & Pollution (GASP)Follow GASP on TwitterMore episode sources and linksOther episodes you may enjoy: Conservation Technology (EARTH SAVING), Forensic Ecology (NATURE DETECTIVE), Oceanology (OCEANS), Meteorology (WEATHER & CLIMATE), Melaninology (SKIN/HAIR PIGMENT), Environmental Microbiology (TESTING WASTEWATER), Secrets, Advice + AMA (LANTERNS, ETC.)Sponsors of OlogiesTranscripts and bleeped episodesSmologies (short, classroom-safe) episodesBecome a patron of Ologies for as little as a buck a monthOlogiesMerch.com has hats, shirts, masks, totes!Follow @Ologies on Twitter and InstagramFollow @AlieWard on Twitter and InstagramEditing by Mercedes Maitland of Maitland Audio Productions and Jarrett Sleeper of MindJam MediaTranscripts by Emily White of The WordaryWebsite by Kelly R. DwyerTheme song by Nick Thorburn Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.
 
 :::
 
