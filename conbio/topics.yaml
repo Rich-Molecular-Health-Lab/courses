@@ -77,8 +77,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W12D1"
-    - "BIOL4120_W12D2"
+    - "BIOL4120_W13D1"
+    - "BIOL4120_W13D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -97,15 +97,15 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-11-09T16:00:00"
-    - "2026-11-11T16:00:00"
+    - "2026-11-16T16:00:00"
+    - "2026-11-18T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W12D1"
-  date_start: "2026-11-09T16:00:00"
-  week_start: 12
-  class_end: "BIOL4120_W12D2"
-  date_end: "2026-11-11T16:00:00"
-  week_end: 12
+  class_start: "BIOL4120_W13D1"
+  date_start: "2026-11-16T16:00:00"
+  week_start: 13
+  class_end: "BIOL4120_W13D2"
+  date_end: "2026-11-18T16:00:00"
+  week_end: 13
   background_possible:
     - "Ch 12 Climate Change"
     - "Climate Change"
@@ -136,7 +136,6 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W15D2"
     - "BIOL4120_W16D1"
   projects:
     - "Conservation Biology Fall 2026"
@@ -157,12 +156,11 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-12-02T16:00:00"
     - "2026-12-07T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W15D2"
-  date_start: "2026-12-02T16:00:00"
-  week_start: 15
+  class_start: "BIOL4120_W16D1"
+  date_start: "2026-12-07T16:00:00"
+  week_start: 16
   class_end: "BIOL4120_W16D1"
   date_end: "2026-12-07T16:00:00"
   week_end: 16
@@ -207,8 +205,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W13D1"
-    - "BIOL4120_W13D2"
+    - "BIOL4120_W14D1"
+    - "BIOL4120_W15D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -227,15 +225,15 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-11-16T16:00:00"
-    - "2026-11-18T16:00:00"
+    - "2026-11-23T16:00:00"
+    - "2026-11-30T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W13D1"
-  date_start: "2026-11-16T16:00:00"
-  week_start: 13
-  class_end: "BIOL4120_W13D2"
-  date_end: "2026-11-18T16:00:00"
-  week_end: 13
+  class_start: "BIOL4120_W14D1"
+  date_start: "2026-11-23T16:00:00"
+  week_start: 14
+  class_end: "BIOL4120_W15D1"
+  date_end: "2026-11-30T16:00:00"
+  week_end: 15
   background_possible:
     - "Ch 16 Ex Situ Conservation"
     - "miranda_etal_2023a"
@@ -323,6 +321,8 @@
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
     - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W8D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -343,13 +343,15 @@
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+    - "2026-10-12T16:00:00"
   course_name: "Conservation Biology"
   class_start: "BIOL4120_W5D2"
   date_start: "2026-09-23T16:00:00"
   week_start: 5
-  class_end: "BIOL4120_W7D1"
-  date_end: "2026-10-05T16:00:00"
-  week_end: 7
+  class_end: "BIOL4120_W8D1"
+  date_end: "2026-10-12T16:00:00"
+  week_end: 8
   background_possible:
     - "Ch 8 Extinction"
     - "Extinctions and the practice of preventing them"
@@ -377,8 +379,8 @@
   keyword: "extinction"
   background_duration: 0
   background_duration_string: "00:00:00"
-  video_duration: 1043
-  video_duration_string: "00:17:23"
+  video_duration: 874
+  video_duration_string: "00:14:34"
   film_duration: 3339
   film_duration_string: "00:55:39"
 - title: "Fall Break BIOL4120"
@@ -478,7 +480,7 @@
   video_duration_string: "00:00:00"
   film_duration: 0
   film_duration_string: "00:00:00"
-- title: "Habitat Loss, Fragmentation, and Degradation"
+- title: "Habitat Fragmentation"
   unit:
     - "Threats to Biodiversity"
   chapter: 3
@@ -489,18 +491,14 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W7D2"
-    - "BIOL4120_W9D2"
-    - "BIOL4120_W10D1"
+    - "BIOL4120_W11D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
     - "Habitat fragmentation and landscape change"
-    - "Habitat destruction - death by a thousand cuts"
   slides:
-    - "Habitat Loss"
-  videos:
-    - "The Everyday Ingredient Destroying the Planet"
+    - "Habitat Fragmentation and Metapopulations"
+  videos: null
   area: "teaching"
   tags:
     - "teaching"
@@ -508,15 +506,74 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-10-07T16:00:00"
+    - "2026-11-02T16:00:00"
+  course_name: "Conservation Biology"
+  class_start: "BIOL4120_W11D1"
+  date_start: "2026-11-02T16:00:00"
+  week_start: 11
+  class_end: "BIOL4120_W11D1"
+  date_end: "2026-11-02T16:00:00"
+  week_end: 11
+  background_possible:
+    - "Habitat fragmentation and landscape change"
+  films_possible:
+    []
+  videos_possible:
+    []
+  lecture_archive:
+    - "habitat_fragmentation"
+  background_duration: 0
+  background_duration_string: "00:00:00"
+  video_duration: 0
+  video_duration_string: "00:00:00"
+  film_duration: 0
+  film_duration_string: "00:00:00"
+  keyword: "fragmentation"
+  question_bank: null
+- title: "Habitat Loss and Degradation"
+  unit:
+    - "Threats to Biodiversity"
+  chapter: 3
+  section: 9
+  days_needed: 1
+  semesters:
+    - "26f"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  class_days:
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+  projects:
+    - "Conservation Biology Fall 2026"
+  background:
+    - "Habitat destruction - death by a thousand cuts"
+  slides:
+    - "Habitat Loss and Degradation Slides"
+  videos:
+    - "What Causes Desertification, and How Can We Restore Land"
+    - "Shrimp Farming in Extensive to Intensive Ponds"
+    - "Game changer for small shrimp farmers"
+    - "What Are Wild Coyotes Doing in the Big City"
+    - "The Everyday Ingredient Destroying the Planet"
+    - "What's a Superfund Site and Why Should You Know About Them"
+    - "Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima"
+  area: "teaching"
+  tags:
+    - "teaching"
+    - "lesson"
+  created: "2026-08-29"
+  datetimeModified: "Saturday 29th August 2026 11:15:01"
+  dates:
     - "2026-10-21T16:00:00"
     - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W7D2"
-  date_start: "2026-10-07T16:00:00"
-  week_start: 7
-  class_end: "BIOL4120_W10D1"
-  date_end: "2026-10-26T16:00:00"
+  class_start: "BIOL4120_W9D2"
+  date_start: "2026-10-21T16:00:00"
+  week_start: 9
+  class_end: "BIOL4120_W10D2"
+  date_end: "2026-10-28T16:00:00"
   week_end: 10
   background_possible:
     - "Ch 9 Habitat Loss, Fragmentation, and Degradation"
@@ -530,6 +587,7 @@
     - "Climate change can money stop deforestation"
     - "Climate change the trouble with trees"
     - "Four years ago we flooded a forest - the results are insane"
+    - "Game changer for small shrimp farmers"
     - "Giant Pythons Have Overrun Florida. Here’s Why"
     - "How one scientist took on the chemical industry"
     - "How Otters Are Saving Earth’s Underwater Forests"
@@ -538,7 +596,9 @@
     - "New Trees Won’t Solve Global Warming"
     - "Ocean Habitat Loss"
     - "One fifth of the Amazon rainforest lost to deforestation  BBC News"
+    - "Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima"
     - "Seed Dispersal and Habitat Fragmentation  HHMI BioInteractive Video"
+    - "Shrimp Farming in Extensive to Intensive Ponds"
     - "The Cuyahoga River Fire Don't Fall in the River"
     - "The Everyday Ingredient Destroying the Planet"
     - "The Florida River Becoming a Refuge for Manatees  WILD HOPE"
@@ -549,35 +609,36 @@
     - "We Let Beavers Transform an Old Farm"
     - "We’re Building a Continent-Wide Wildlife Corridor - Differently"
     - "We’re creating the world’s biggest wildlife corridor"
+    - "What Causes Desertification, and How Can We Restore Land"
     - "What happens when you set a river free  BBC News"
+    - "What's a Superfund Site and Why Should You Know About Them"
     - "Why This Unusual Pattern May Save the Rainforests"
     - "Why This Unusual Pattern May Save the Rainforests 1"
     - "Why we should be destroying more dams"
     - "Wild Horses America's Most Beloved Invasive Species"
   lecture_archive:
-    - "9-1_habitat_loss"
-    - "9-2_habitat_fragmentation"
+    - "habitat_loss_degradation"
   background_duration: 0
   background_duration_string: "00:00:00"
-  video_duration: 717
-  video_duration_string: "00:11:57"
+  video_duration: 2426
+  video_duration_string: "00:40:26"
   film_duration: 0
   film_duration_string: "00:00:00"
   keyword: "habitat"
   question_bank:
-    - "habitat_mc_1"
-    - "habitat_mc_2"
-    - "habitat_mc_3"
-    - "habitat_mc_4"
-    - "habitat_mc_5"
-    - "habitat_mc_6"
-    - "habitat_mc_7"
-    - "habitat_mc_8"
-    - "habitat_tf_1"
-    - "habitat_tf_2"
-    - "habitat_tf_3"
-    - "habitat_tf_4"
-- title: "Invasive Alien Species"
+    - "Habitat Loss and Degradation"
+    - "Habitat Loss and Degradation-1"
+    - "Habitat Loss and Degradation-2"
+    - "Habitat Loss and Degradation-3"
+    - "Habitat Loss and Degradation-4"
+    - "Habitat Loss and Degradation-5"
+    - "Habitat Loss and Degradation-6"
+    - "Habitat Loss and Degradation-7"
+    - "Habitat Loss and Degradation-8"
+    - "Habitat Loss and Degradation-9"
+    - "Habitat Loss and Degradation-10"
+    - "Habitat Loss and Degradation-11"
+- title: "Invasive Alien Species (REMOTE ASYNCHRONOUS)"
   unit:
     - "Threats to Biodiversity"
   chapter: 3
@@ -588,7 +649,7 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W11D2"
+    - "BIOL4120_W12D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -607,14 +668,14 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-11-04T16:00:00"
+    - "2026-11-11T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W11D2"
-  date_start: "2026-11-04T16:00:00"
-  week_start: 11
-  class_end: "BIOL4120_W11D2"
-  date_end: "2026-11-04T16:00:00"
-  week_end: 11
+  class_start: "BIOL4120_W12D2"
+  date_start: "2026-11-11T16:00:00"
+  week_start: 12
+  class_end: "BIOL4120_W12D2"
+  date_end: "2026-11-11T16:00:00"
+  week_end: 12
   background_possible:
     - "Ch 11 Invasive Alien Species"
     - "Invasive Species"
@@ -815,8 +876,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W10D2"
-    - "BIOL4120_W11D1"
+    - "BIOL4120_W11D2"
+    - "BIOL4120_W12D1"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -835,15 +896,15 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-10-28T16:00:00"
-    - "2026-11-02T16:00:00"
+    - "2026-11-04T16:00:00"
+    - "2026-11-09T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W10D2"
-  date_start: "2026-10-28T16:00:00"
-  week_start: 10
-  class_end: "BIOL4120_W11D1"
-  date_end: "2026-11-02T16:00:00"
-  week_end: 11
+  class_start: "BIOL4120_W11D2"
+  date_start: "2026-11-04T16:00:00"
+  week_start: 11
+  class_end: "BIOL4120_W12D1"
+  date_end: "2026-11-09T16:00:00"
+  week_end: 12
   background_possible:
     - "Ch 10 Overexploitation"
     - "Overharvesting"
@@ -926,9 +987,8 @@
   course_prefix: "BIOL"
   course_number: "4120"
   class_days:
-    - "BIOL4120_W14D1"
     - "BIOL4120_W15D1"
-    - "BIOL4120_W13D2"
+    - "BIOL4120_W15D2"
   projects:
     - "Conservation Biology Fall 2026"
   background:
@@ -947,15 +1007,14 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:15:01"
   dates:
-    - "2026-11-18T16:00:00"
-    - "2026-11-23T16:00:00"
     - "2026-11-30T16:00:00"
+    - "2026-12-02T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W13D2"
-  date_start: "2026-11-18T16:00:00"
-  week_start: 13
-  class_end: "BIOL4120_W15D1"
-  date_end: "2026-11-30T16:00:00"
+  class_start: "BIOL4120_W15D1"
+  date_start: "2026-11-30T16:00:00"
+  week_start: 15
+  class_end: "BIOL4120_W15D2"
+  date_end: "2026-12-02T16:00:00"
   week_end: 15
   background_possible:
     - "Ch 13 Species-Level Conservation"

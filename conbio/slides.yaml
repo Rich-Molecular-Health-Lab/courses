@@ -73,8 +73,8 @@
   profile: "slides"
   attachments:
     - "Contemporary_Conservation_Biology.jpg"
-- title: "Habitat Loss"
-  image: "loss_drivers.png"
+- title: "Habitat Fragmentation and Metapopulations"
+  image: "c09fig009.jpg"
   tags:
     - "teaching"
     - "slides"
@@ -83,48 +83,153 @@
   projects:
     - "Conservation Biology Fall 2026"
   dates:
-    - "2026-10-07T16:00:00"
-    - "2026-10-21T16:00:00"
-    - "2026-10-26T16:00:00"
+    - "2026-11-02T16:00:00"
   videos:
     []
-  films:
-    []
   class_days:
-    - "BIOL4120_W7D2"
-    - "BIOL4120_W9D2"
-    - "BIOL4120_W10D1"
+    - "BIOL4120_W11D1"
   themes:
     - "Threats to Biodiversity"
   area: "teaching"
   topics:
-    - "Habitat Loss, Fragmentation, and Degradation"
-  date_start: "2026-10-07T16:00:00"
-  class_start: "BIOL4120_W7D2"
-  week_start: 7
-  week_end: 10
-  class_end: "BIOL4120_W10D1"
-  date_end: "2026-10-26T16:00:00"
+    - "Habitat Fragmentation"
+  date_start: "2026-11-02T16:00:00"
+  class_start: "BIOL4120_W11D1"
+  week_start: 11
+  week_end: 11
+  class_end: "BIOL4120_W11D1"
+  date_end: "2026-11-02T16:00:00"
   margin: 0
   maxScale: 4
   css:
     - "slides-teaching.css"
     - "callouts.css"
     - "custom-snippets.css"
-  defaultTemplate: "tpl-fig-boxflow"
+  defaultTemplate: "tpl-canva-slide"
   enableOverview: "true"
   course_name: "Conservation Biology"
-  keyword: "habitat_loss"
   profile: "slides"
   attachments:
-    - "loss_drivers.png"
-    - "Habitat Loss-1.png"
-    - "Habitat Loss-2.png"
-    - "Habitat Loss-3.png"
-    - "Habitat Loss-4.png"
-    - "Habitat Loss-5.png"
-    - "Habitat Loss-6.png"
-    - "Habitat Loss-7.png"
+    - "c09fig009.jpg"
+    - "Habitat Fragmentation and Metapopulations-1.png"
+    - "Habitat Fragmentation and Metapopulations-2.png"
+    - "Habitat Fragmentation and Metapopulations-3.png"
+    - "Habitat Fragmentation and Metapopulations-4.png"
+    - "Habitat Fragmentation and Metapopulations-5.png"
+    - "Habitat Fragmentation and Metapopulations-6.png"
+    - "Habitat Fragmentation and Metapopulations-7.png"
+    - "Habitat Fragmentation and Metapopulations-8.png"
+    - "Habitat Fragmentation and Metapopulations-9.png"
+    - "Habitat Fragmentation and Metapopulations-10.png"
+    - "Habitat Fragmentation and Metapopulations-11.png"
+    - "Habitat Fragmentation and Metapopulations-12.png"
+    - "Habitat Fragmentation and Metapopulations-15.png"
+    - "Habitat Fragmentation and Metapopulations-16.png"
+    - "Habitat Fragmentation and Metapopulations-17.png"
+    - "Habitat Fragmentation and Metapopulations-18.png"
+    - "Habitat Fragmentation and Metapopulations-19.png"
+    - "Habitat Fragmentation and Metapopulations-20.png"
+    - "Habitat Fragmentation and Metapopulations-21.png"
+    - "Habitat Fragmentation and Metapopulations-22.png"
+    - "Habitat Fragmentation and Metapopulations-23.png"
+    - "Habitat Fragmentation and Metapopulations-24.png"
+    - "Habitat Fragmentation and Metapopulations-25.png"
+    - "Habitat Fragmentation and Metapopulations-26.png"
+    - "Habitat Fragmentation and Metapopulations-27.png"
+    - "Habitat Fragmentation and Metapopulations-28.png"
+- title: "Habitat Loss and Degradation Slides"
+  image: "c09fig008.jpg"
+  tags:
+    - "teaching"
+    - "slides"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  dates:
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
+  videos:
+    - "What Causes Desertification, and How Can We Restore Land"
+    - "Shrimp Farming in Extensive to Intensive Ponds"
+    - "Game changer for small shrimp farmers"
+    - "What Are Wild Coyotes Doing in the Big City"
+    - "The Everyday Ingredient Destroying the Planet"
+    - "What's a Superfund Site and Why Should You Know About Them"
+    - "Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima"
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+  themes:
+    - "Threats to Biodiversity"
+  area: "teaching"
+  topics:
+    - "Habitat Loss and Degradation"
+  date_start: "2026-10-21T16:00:00"
+  class_start: "BIOL4120_W9D2"
+  week_start: 9
+  week_end: 10
+  class_end: "BIOL4120_W10D2"
+  date_end: "2026-10-28T16:00:00"
+  margin: 0
+  maxScale: 4
+  css:
+    - "slides-teaching.css"
+    - "callouts.css"
+    - "custom-snippets.css"
+  defaultTemplate: "tpl-canva-slide"
+  enableOverview: "true"
+  course_name: "Conservation Biology"
+  profile: "slides"
+  attachments:
+    - "c09fig008.jpg"
+    - "02.png"
+    - "03.png"
+    - "04.png"
+    - "05.png"
+    - "06.png"
+    - "07.png"
+    - "08.png"
+    - "09.png"
+    - "10.png"
+    - "11.png"
+    - "12.png"
+    - "14.png"
+    - "15.png"
+    - "16.png"
+    - "17.png"
+    - "18.png"
+    - "19.png"
+    - "20.png"
+    - "22.png"
+    - "23.png"
+    - "24.png"
+    - "25.png"
+    - "26.png"
+    - "27.png"
+    - "28.png"
+    - "31.png"
+    - "32.png"
+    - "33.png"
+    - "34.png"
+    - "35.png"
+    - "37.png"
+    - "38.png"
+    - "39.png"
+    - "40.png"
+    - "41.png"
+    - "42.png"
+    - "43.png"
+    - "46.png"
+    - "47.png"
+    - "48.png"
+    - "49.png"
+    - "50.png"
+    - "51.png"
+    - "52.png"
 - title: "Patterns & Risk of Extinction"
   image: "c08fig002.jpg"
   tags:
@@ -138,6 +243,8 @@
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+    - "2026-10-12T16:00:00"
   videos:
     - "How poaching is changing the face of African elephants"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
@@ -149,6 +256,8 @@
     - "BIOL4120_W6D1"
     - "BIOL4120_W6D2"
     - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W8D1"
   themes:
     - "Threats to Biodiversity"
   area: "teaching"
@@ -157,9 +266,9 @@
   date_start: "2026-09-23T16:00:00"
   class_start: "BIOL4120_W5D2"
   week_start: 5
-  week_end: 7
-  class_end: "BIOL4120_W7D1"
-  date_end: "2026-10-05T16:00:00"
+  week_end: 8
+  class_end: "BIOL4120_W8D1"
+  date_end: "2026-10-12T16:00:00"
   margin: 0
   maxScale: 4
   css:

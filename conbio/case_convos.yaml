@@ -45,7 +45,7 @@
 - number: 2
   unit:
     - "Threats to Biodiversity"
-  topics: "Habitat Loss, Fragmentation, and Degradation"
+  topics: "Habitat Loss and Degradation"
   chapter: 1
   section: 9
   leaders:
@@ -125,7 +125,7 @@
 - number: 4
   unit:
     - "Threats to Biodiversity"
-  topics: "Invasive Alien Species"
+  topics: "Invasive Alien Species (REMOTE ASYNCHRONOUS)"
   chapter: 1
   section: 11
   leaders: null
@@ -134,7 +134,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   class_days:
-    - "BIOL4120_W10D2"
+    - "BIOL4120_W11D1"
   course_prefix: "BIOL"
   course_number: "4120"
   semesters:
@@ -146,14 +146,14 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 12:19:17"
   dates:
-    - "2026-10-28T16:00:00"
+    - "2026-11-02T16:00:00"
   course_name: "Conservation Biology"
-  class_start: "BIOL4120_W10D2"
-  date_start: "2026-10-28T16:00:00"
-  week_start: 10
-  class_end: "BIOL4120_W10D2"
-  date_end: "2026-10-28T16:00:00"
-  week_end: 10
+  class_start: "BIOL4120_W11D1"
+  date_start: "2026-11-02T16:00:00"
+  week_start: 11
+  class_end: "BIOL4120_W11D1"
+  date_end: "2026-11-02T16:00:00"
+  week_end: 11
   assignment_intro:
     - "Guided Case Conversations"
   assignments:

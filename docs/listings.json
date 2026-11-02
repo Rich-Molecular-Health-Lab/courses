@@ -97,16 +97,22 @@
       "/conbio/topics/Extinction.html",
       "/conbio/topics/Fall Break BIOL4120.html",
       "/conbio/topics/Final Exam BIOL4120.html",
+      "/conbio/video/Game changer for small shrimp farmers.html",
+      "/conbio/topics/Habitat Fragmentation.html",
+      "/conbio/topics/Habitat Loss and Degradation.html",
       "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
       "/conbio/video/How Wolves Change Rivers.html",
       "/conbio/video/How one scientist took on the chemical industry.html",
       "/conbio/video/How poaching is changing the face of African elephants.html",
       "/conbio/topics/Invasive Alien Species.html",
+      "/conbio/topics/Invasive Alien Species (REMOTE ASYNCHRONOUS).html",
       "/conbio/topics/Labor Day.html",
       "/conbio/topics/Landscape-Scale Approaches.html",
       "/conbio/topics/No Class BIOL4120.html",
       "/conbio/topics/Overexploitation.html",
       "/conbio/topics/Overview & Syllabus BIOL4120.html",
+      "/conbio/video/Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima.html",
+      "/conbio/video/Shrimp Farming in Extensive to Intensive Ponds.html",
       "/conbio/topics/Species-Level Approaches.html",
       "/conbio/topics/Thanksgiving Break BIOL4120.html",
       "/conbio/video/The Cuyahoga River Fire Don't Fall in the River.html",
@@ -114,6 +120,8 @@
       "/conbio/topics/The Rise of Conservation Biology.html",
       "/conbio/video/This Is Martha, the World's Last-Known Passenger Pigeon.html",
       "/conbio/film/Vanishing Act.html",
+      "/conbio/video/What Causes Desertification, and How Can We Restore Land.html",
+      "/conbio/video/What's a Superfund Site and Why Should You Know About Them.html",
       "/conbio/video/World Weather Attribution — understanding climate change and extreme weather.html",
       "/conbio/schedule.html"
     ]
@@ -174,6 +182,9 @@
       "/conbio/topics/Final Exam BIOL4120.html",
       "/conbio/units/Foundations of Conservation Biology.html",
       "/conbio/textbook/From conservation theory to practice - crossing the divide.html",
+      "/conbio/video/Game changer for small shrimp farmers.html",
+      "/conbio/topics/Habitat Fragmentation.html",
+      "/conbio/topics/Habitat Loss and Degradation.html",
       "/conbio/other/Habitat Loss, Fragmentation, and Degradation.html",
       "/conbio/textbook/Habitat Loss, Fragmentation, and Degradation.html",
       "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
@@ -185,6 +196,7 @@
       "/conbio/other/Invasive Alien Species.html",
       "/conbio/textbook/Invasive Alien Species.html",
       "/conbio/topics/Invasive Alien Species.html",
+      "/conbio/topics/Invasive Alien Species (REMOTE ASYNCHRONOUS).html",
       "/conbio/textbook/Invasive Species.html",
       "/conbio/topics/Labor Day.html",
       "/conbio/topics/Landscape-Scale Approaches.html",
@@ -197,6 +209,8 @@
       "/conbio/textbook/Overharvesting.html",
       "/conbio/topics/Overview & Syllabus BIOL4120.html",
       "/conbio/units/Overview BIOL4120.html",
+      "/conbio/video/Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima.html",
+      "/conbio/video/Shrimp Farming in Extensive to Intensive Ponds.html",
       "/conbio/topics/Species-Level Approaches.html",
       "/conbio/other/Species-Level Conservation.html",
       "/conbio/textbook/Species-Level Conservation.html",
@@ -212,6 +226,9 @@
       "/conbio/video/This Is Martha, the World's Last-Known Passenger Pigeon.html",
       "/conbio/units/Threats to Biodiversity.html",
       "/conbio/film/Vanishing Act.html",
+      "/conbio/other/What Are Wild Coyotes Doing in the Big City.html",
+      "/conbio/video/What Causes Desertification, and How Can We Restore Land.html",
+      "/conbio/video/What's a Superfund Site and Why Should You Know About Them.html",
       "/conbio/video/World Weather Attribution — understanding climate change and extreme weather.html",
       "/conbio/schedule.html"
     ]
@@ -305,35 +322,11 @@
     "items": []
   },
   {
-    "listing": "/conbio/topics/Final Exam BIOL4120.html",
+    "listing": "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
     "items": []
   },
   {
-    "listing": "/conbio/topics/Extinction.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Ex Situ Conservation.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Climate Change.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Biodiversity Concepts & Measurement.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Climate Change & Biodiversity.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Community & Ecosystem Approaches.html",
-    "items": []
-  },
-  {
-    "listing": "/conbio/topics/Exam 1 BIOL4120.html",
+    "listing": "/conbio/topics/Habitat Fragmentation.html",
     "items": []
   },
   {
@@ -341,7 +334,43 @@
     "items": []
   },
   {
-    "listing": "/conbio/topics/Habitat Loss, Fragmentation, and Degradation.html",
+    "listing": "/conbio/topics/Exam 1 BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Community & Ecosystem Approaches.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Climate Change & Biodiversity.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Biodiversity Concepts & Measurement.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Climate Change.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Ex Situ Conservation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Extinction.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Final Exam BIOL4120.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Habitat Loss and Degradation.html",
+    "items": []
+  },
+  {
+    "listing": "/conbio/topics/Invasive Alien Species (REMOTE ASYNCHRONOUS).html",
     "items": []
   },
   {

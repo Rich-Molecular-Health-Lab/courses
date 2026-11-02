@@ -42,6 +42,8 @@
     - "BIOL4120_W6D1"
     - "BIOL4120_W6D2"
     - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W8D1"
   topics:
     - "Extinction"
   themes:
@@ -50,12 +52,14 @@
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+    - "2026-10-12T16:00:00"
   class_start: "BIOL4120_W5D2"
   date_start: "2026-09-23T16:00:00"
   week_start: 5
-  class_end: "BIOL4120_W7D1"
-  date_end: "2026-10-05T16:00:00"
-  week_end: 7
+  class_end: "BIOL4120_W8D1"
+  date_end: "2026-10-12T16:00:00"
+  week_end: 8
   authors: "Shane Campbell-Staton"
   published: "2025-07-30T00:00:00.000Z"
   released: "2025-07-30"

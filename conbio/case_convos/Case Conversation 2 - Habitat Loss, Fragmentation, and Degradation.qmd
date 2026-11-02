@@ -14,7 +14,7 @@ categories:
 
 **Date:** Wednesday, September 30, 2026
 
-<a class='btn btn-outline-primary p-3 m-2' href='../topics/Habitat Loss, Fragmentation, and Degradation.html'>Habitat Loss, Fragmentation, and Degradation <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-primary p-3 m-2' href='../topics/Habitat Loss and Degradation.html'>Habitat Loss and Degradation <i class='fa-solid fa-link'></i></a>
 <a class='btn btn-outline-primary p-3 m-2' href='../units/Threats to Biodiversity.html'>Threats to Biodiversity <i class='fa-solid fa-link'></i></a>
 
 ## Discussion Leaders

@@ -15,7 +15,7 @@
   topics_possible:
     - "Extinction"
     - "Biodiversity Concepts & Measurement"
-    - "Habitat Loss, Fragmentation, and Degradation"
+    - "Habitat Loss and Degradation"
     - "Overexploitation"
     - "Climate Change & Biodiversity"
   genre: "Education"
@@ -46,6 +46,8 @@
     - "BIOL4120_W6D1"
     - "BIOL4120_W6D2"
     - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W8D1"
   topics:
     - "Extinction"
   themes:
@@ -54,6 +56,8 @@
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+    - "2026-10-12T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:
@@ -110,6 +114,51 @@
   profile: "video"
   attachments:
     []
+- mx-uid: "j9w1sf4ef7umafj7ybn1uthx"
+  video: "https://www.youtube.com/watch?v=Qs0VlZT6Sac"
+  title: "Game changer for small shrimp farmers"
+  description: "Where does environmentally sustainable shrimp come from? How do buyers know the product they are purchasing is sustainable? How is Seafood Watch using technology to help verify the environmental sustainability of small shrimp farms in Vietnam? Cormac O’Sullivan, Seafood Watch senior fellow global aquaculture science, answers these questions and more in “Game changer for small shrimp farmers | Seafood Watch Voices on Sustainable Seafood.” \n\nLearn more about the Improvement Verification Platform..."
+  duration: 91
+  creator: "Seafood Watch"
+  creator_url: "https://www.youtube.com/channel/UCW8MY8F5ifkFCa11F_oTjMg"
+  tags:
+    - "teaching"
+    - "video"
+  view_count: 1131
+  cover: "https://i.ytimg.com/vi/Qs0VlZT6Sac/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFcgZShHMA8=&rs=AOn4CLAXgklx8MIbA8FN_oxQQB1zuw6vdw"
+  aspect_ratio: "16 / 9"
+  embed: "https://www.youtube.com/embed/Qs0VlZT6Sac?si=3CLTf8OMyYyBEsC8"
+  type: "video"
+  image: "![Game changer for small shrimp farmers](https://i.ytimg.com/vi/Qs0VlZT6Sac/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFcgZShHMA8=&rs=AOn4CLAXgklx8MIbA8FN_oxQQB1zuw6vdw)"
+  duration_string: "00:01:31"
+  authors: "Seafood Watch"
+  series: "Seafood Watch"
+  author_first: "Watch"
+  author_last: "Watch"
+  author_display: "Seafood Watch"
+  assigned: true
+  topics_possible:
+    - "Habitat Loss and Degradation"
+  themes_possible:
+    - "Threats to Biodiversity"
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+  topics:
+    - "Habitat Loss and Degradation"
+  themes:
+    - "Threats to Biodiversity"
+  projects:
+    - "Conservation Biology Fall 2026"
+  dates:
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
+  profile: "video"
+  attachments:
+    []
 - title: "How one scientist took on the chemical industry"
   video: "https://www.youtube.com/watch?v=ezVEzCmiXM4"
   description: "Discover the groundbreaking environmental work of Rachel Carson, whose book “Silent Spring” explores how human actions threaten the balance of nature. --In 1958, after receiving a letter describin"
@@ -127,7 +176,7 @@
   topics_possible:
     - "The Rise of Conservation Biology"
     - "Habitat Degradation"
-    - "Habitat Loss, Fragmentation, and Degradation"
+    - "Habitat Loss and Degradation"
   genre: "Education"
   source: "YouTube"
   tags:
@@ -211,6 +260,8 @@
     - "BIOL4120_W6D1"
     - "BIOL4120_W6D2"
     - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W8D1"
   topics:
     - "Extinction"
   themes:
@@ -219,6 +270,8 @@
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+    - "2026-10-12T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:
@@ -278,6 +331,116 @@
   profile: "video"
   attachments:
     []
+- title: "Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima"
+  video: "https://www.youtube.com/watch?v=PyhZcWy1Ero"
+  description: "New research has found surprisingly high levels of radioactivity in soils of four isles of the Marshall Islands, six decades after U.S. nuclear testing there.SUBSCRIBE FOR MORE VIDEOS AND NEWShttp:/"
+  duration_string: "00:03:49"
+  duration: "229"
+  creator: "Los Angeles Times"
+  author: "Los Angeles Times"
+  published_at: "2019-09-27"
+  released: "2019-09-27"
+  cover: "https://i.ytimg.com/vi/PyhZcWy1Ero/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/PyhZcWy1Ero"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Habitat Loss and Degradation"
+  genre: "News & Politics"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "PyhZcWy1Ero"
+  type: "video"
+  image: "![Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima](https://i.ytimg.com/vi/PyhZcWy1Ero/maxresdefault.jpg)"
+  authors: "Los Angeles Times"
+  series: "Los Angeles Times"
+  author_first: "Times"
+  author_last: "Times"
+  author_display: "Los Angeles Times"
+  assigned: true
+  themes_possible:
+    - "Threats to Biodiversity"
+  published: "2019-09-27T00:00:00.000Z"
+  year: 2019
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+  topics:
+    - "Habitat Loss and Degradation"
+  themes:
+    - "Threats to Biodiversity"
+  dates:
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
+  course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
+- title: "Shrimp Farming in Extensive to Intensive Ponds"
+  video: "https://www.youtube.com/watch?v=sX9YD-kNRF8"
+  description: "Most shrimp produced globally are farm-raised in ponds. In areas where the shrimp are native, like giant tiger prawns in Vietnam, farmers often modify an existing landscape to make use of a nearby wat"
+  duration_string: "00:02:07"
+  duration: "127"
+  creator: "Seafood Watch"
+  author: "Seafood Watch"
+  published_at: "2024-11-20"
+  released: "2024-11-20"
+  cover: "https://i.ytimg.com/vi/sX9YD-kNRF8/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/sX9YD-kNRF8"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Habitat Loss and Degradation"
+  genre: "Nonprofits & Activism"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "sX9YD-kNRF8"
+  type: "video"
+  image: "![Shrimp Farming in Extensive to Intensive Ponds](https://i.ytimg.com/vi/sX9YD-kNRF8/maxresdefault.jpg)"
+  authors: "Seafood Watch"
+  series: "Seafood Watch"
+  published: "2024-11-20T00:00:00.000Z"
+  year: 2024
+  assigned: true
+  themes_possible:
+    - "Threats to Biodiversity"
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+  topics:
+    - "Habitat Loss and Degradation"
+  themes:
+    - "Threats to Biodiversity"
+  dates:
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
+  course_name: "Conservation Biology"
+  author_first: "Watch"
+  author_last: "Watch"
+  author_display: "Seafood Watch"
+  profile: "video"
+  attachments:
+    []
 - title: "The Cuyahoga River Fire Don't Fall in the River"
   video: "https://www.youtube.com/watch?v=nlHiaZFvcXA"
   description: "Tim Donovan recalls working on the Cuyahoga River the day that it caught fire in 1969.To learn more about the Cuyahoga River fire, visit:http://clevelandhistorical.org/items/show/63To downlo"
@@ -295,7 +458,7 @@
   topics_possible:
     - "The Rise of Conservation Biology"
     - "Habitat Degradation"
-    - "Habitat Loss, Fragmentation, and Degradation"
+    - "Habitat Loss and Degradation"
   genre: "Education"
   source: "YouTube"
   tags:
@@ -348,7 +511,7 @@
   projects:
     - "Conservation Biology Fall 2026"
   topics_possible:
-    - "Habitat Loss, Fragmentation, and Degradation"
+    - "Habitat Loss and Degradation"
     - "Overexploitation"
     - "Landscape-Scale Approaches"
   genre: "News & Politics"
@@ -378,14 +541,15 @@
     - "BIOL4120_W7D2"
     - "BIOL4120_W9D2"
     - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
   topics:
-    - "Habitat Loss, Fragmentation, and Degradation"
+    - "Habitat Loss and Degradation"
   themes:
     - "Threats to Biodiversity"
   dates:
-    - "2026-10-07T16:00:00"
     - "2026-10-21T16:00:00"
     - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:
@@ -436,6 +600,8 @@
     - "BIOL4120_W6D1"
     - "BIOL4120_W6D2"
     - "BIOL4120_W7D1"
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W8D1"
   topics:
     - "Extinction"
   themes:
@@ -444,6 +610,125 @@
     - "2026-09-23T16:00:00"
     - "2026-09-28T16:00:00"
     - "2026-10-05T16:00:00"
+    - "2026-10-07T16:00:00"
+    - "2026-10-12T16:00:00"
+  course_name: "Conservation Biology"
+  profile: "video"
+  attachments:
+    []
+- title: "What Causes Desertification, and How Can We Restore Land (from ‘Kiss the Ground’ documentary)"
+  video: "https://www.youtube.com/watch?v=qXZn0-6f75g"
+  description: "Healthy soils absorb water and carbon dioxide. But when we damage or destroy soil with deforestation or industrial farming, the exact opposite occurs: the so..."
+  duration_string: "00:03:34"
+  duration: "214"
+  creator: "Groundswell Film"
+  author: "Groundswell Film"
+  published_at: "2023-08-07"
+  released: "2023-08-07"
+  cover: "https://i.ytimg.com/vi/qXZn0-6f75g/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/qXZn0-6f75g"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  projects:
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Habitat Loss and Degradation"
+  genre: "Education"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "qXZn0-6f75g"
+  type: "video"
+  image: "![What Causes Desertification, and How Can We Restore Land (from ‘Kiss the Ground’ documentary)](https://i.ytimg.com/vi/qXZn0-6f75g/maxresdefault.jpg)"
+  published: "2023-08-07T00:00:00.000Z"
+  year: 2023
+  assigned: true
+  themes_possible:
+    - "Threats to Biodiversity"
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+  topics:
+    - "Habitat Loss and Degradation"
+  themes:
+    - "Threats to Biodiversity"
+  dates:
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
+  course_name: "Conservation Biology"
+  authors: "Groundswell Film"
+  series: "Groundswell Film"
+  author_first: "Film"
+  author_last: "Film"
+  author_display: "Groundswell Film"
+  profile: "video"
+  attachments:
+    []
+- title: "What's a Superfund Site and Why Should You Know About Them"
+  video: "https://www.youtube.com/watch?v=0mB1vUQ1gig"
+  description: "Watch Sovereign Innovations: https://www.youtube.com/watch?v=TQw5e5yA-ekClimate change impacts our natural environment, but it's also a racial justice issue. Communities of color in the US and globa"
+  duration_string: "00:08:21"
+  duration: "501"
+  creator: "PBS Documentaries"
+  author: "PBS Documentaries"
+  published_at: "2024-04-24"
+  released: "2024-04-24"
+  cover: "https://i.ytimg.com/vi/0mB1vUQ1gig/maxresdefault.jpg"
+  embed: "https://www.youtube.com/embed/0mB1vUQ1gig"
+  course_prefix: "BIOL"
+  course_number: "4120"
+  projects:
+    - "Human Health & the Environment Fall 2026"
+    - "Conservation Biology Fall 2026"
+  topics_possible:
+    - "Environmental Justice"
+    - "Synthetic Chemicals & Pollutants"
+    - "Heavy Metals"
+    - "Habitat Degradation"
+    - "Habitat Loss and Degradation"
+  genre: "Education"
+  source: "YouTube"
+  tags:
+    - "teaching"
+    - "resource"
+    - "video"
+  area: "teaching"
+  aspect_ratio: "16 / 9"
+  mx-uid: "0mB1vUQ1gig"
+  type: "video"
+  image: "![What's a Superfund Site and Why Should You Know About Them](https://i.ytimg.com/vi/0mB1vUQ1gig/maxresdefault.jpg)"
+  authors: "PBS Documentaries"
+  series: "PBS Documentaries"
+  author_first: "Documentaries"
+  author_last: "Documentaries"
+  author_display: "PBS Documentaries"
+  published: "2024-04-24T00:00:00.000Z"
+  year: 2024
+  assigned: true
+  themes_possible:
+    - "Introduction"
+    - "Toxins"
+    - "Threats to Biodiversity"
+  class_days:
+    - "BIOL4120_W7D2"
+    - "BIOL4120_W9D2"
+    - "BIOL4120_W10D1"
+    - "BIOL4120_W10D2"
+  topics:
+    - "Habitat Loss and Degradation"
+  themes:
+    - "Threats to Biodiversity"
+  dates:
+    - "2026-10-21T16:00:00"
+    - "2026-10-26T16:00:00"
+    - "2026-10-28T16:00:00"
   course_name: "Conservation Biology"
   profile: "video"
   attachments:

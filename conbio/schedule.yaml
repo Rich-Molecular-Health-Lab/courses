@@ -121,7 +121,7 @@ W6:
     themes: "Threats to Biodiversity"
     case_convo:
       - number: 2
-        topic: "Habitat Loss, Fragmentation, and Degradation"
+        topic: "Habitat Loss and Degradation"
         leaders:
           - "Kier L."
           - "Jay C."
@@ -140,27 +140,19 @@ W7:
     date: "2026-10-07"
     themes: "Threats to Biodiversity"
     topics:
-      - title: "Habitat Loss, Fragmentation, and Degradation"
-        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
+      - title: "Extinction"
+        path: "topics/Extinction.qmd"
     slides:
-      - "slides/Habitat Loss/index.html"
-    background:
-      - title: "Habitat fragmentation and landscape change"
-        type: "textbook"
-        path_pdf: "attachments/bennett_saunders_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 5
-        duration_string: "18 pages"
-      - title: "Habitat destruction: death by a thousand cuts"
-        type: "textbook"
-        path_pdf: "attachments/laurance_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 4
-        duration_string: "14 pages"
+      - "slides/Patterns & Risk of Extinction/index.html"
 W8:
   D1:
     date: "2026-10-12"
     themes: "Threats to Biodiversity"
+    topics:
+      - title: "Extinction"
+        path: "topics/Extinction.qmd"
+    slides:
+      - "slides/Patterns & Risk of Extinction/index.html"
     case_convo:
       - number: 3
         topic: "Overexploitation"
@@ -182,21 +174,56 @@ W9:
     date: "2026-10-21"
     themes: "Threats to Biodiversity"
     topics:
-      - title: "Habitat Loss, Fragmentation, and Degradation"
-        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
+      - title: "Habitat Loss and Degradation"
+        path: "topics/Habitat Loss and Degradation.qmd"
     slides:
-      - "slides/Habitat Loss/index.html"
+      - "slides/Habitat Loss and Degradation Slides/index.html"
+    background:
+      - title: "Habitat destruction: death by a thousand cuts"
+        type: "textbook"
+        path_pdf: "attachments/laurance_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 4
+        duration_string: "14 pages"
 W10:
   D1:
     date: "2026-10-26"
     themes: "Threats to Biodiversity"
     topics:
-      - title: "Habitat Loss, Fragmentation, and Degradation"
-        path: "topics/Habitat Loss, Fragmentation, and Degradation.qmd"
+      - title: "Habitat Loss and Degradation"
+        path: "topics/Habitat Loss and Degradation.qmd"
     slides:
-      - "slides/Habitat Loss/index.html"
+      - "slides/Habitat Loss and Degradation Slides/index.html"
   D2:
     date: "2026-10-28"
+    themes: "Threats to Biodiversity"
+    topics:
+      - title: "Habitat Loss and Degradation"
+        path: "topics/Habitat Loss and Degradation.qmd"
+    slides:
+      - "slides/Habitat Loss and Degradation Slides/index.html"
+W11:
+  D1:
+    date: "2026-11-02"
+    themes: "Threats to Biodiversity"
+    topics:
+      - title: "Habitat Fragmentation"
+        path: "topics/Habitat Fragmentation.qmd"
+    slides:
+      - "slides/Habitat Fragmentation and Metapopulations/index.html"
+    background:
+      - title: "Habitat fragmentation and landscape change"
+        type: "textbook"
+        path_pdf: "attachments/bennett_saunders_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 5
+        duration_string: "18 pages"
+    case_convo:
+      - number: 4
+        topic: "Invasive Alien Species (REMOTE ASYNCHRONOUS)"
+        path: "case_convos/Case Conversation 4 - Invasive Alien Species.qmd"
+  D2:
+    date: "2026-11-04"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Overexploitation"
@@ -208,23 +235,23 @@ W10:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 6
         duration_string: "23 pages"
-    case_convo:
-      - number: 4
-        topic: "Invasive Alien Species"
-        path: "case_convos/Case Conversation 4 - Invasive Alien Species.qmd"
-W11:
+W12:
   D1:
-    date: "2026-11-02"
+    date: "2026-11-09"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Overexploitation"
         path: "topics/Overexploitation.qmd"
+    case_convo:
+      - number: 5
+        topic: "Climate Change & Biodiversity"
+        path: "case_convos/Case Conversation 5 - Climate Change.qmd"
   D2:
-    date: "2026-11-04"
+    date: "2026-11-11"
     themes: "Threats to Biodiversity"
     topics:
-      - title: "Invasive Alien Species"
-        path: "topics/Invasive Alien Species.qmd"
+      - title: "Invasive Alien Species (REMOTE ASYNCHRONOUS)"
+        path: "topics/Invasive Alien Species (REMOTE ASYNCHRONOUS).qmd"
     background:
       - title: "Invasive Species"
         type: "textbook"
@@ -232,9 +259,9 @@ W11:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 7
         duration_string: "21 pages"
-W12:
+W13:
   D1:
-    date: "2026-11-09"
+    date: "2026-11-16"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Climate Change & Biodiversity"
@@ -246,19 +273,15 @@ W12:
         path_external: "https://conbio.org/publications/free-textbook/"
         chapter: 8
         duration_string: "9 pages"
-    case_convo:
-      - number: 5
-        topic: "Climate Change & Biodiversity"
-        path: "case_convos/Case Conversation 5 - Climate Change.qmd"
   D2:
-    date: "2026-11-11"
+    date: "2026-11-18"
     themes: "Threats to Biodiversity"
     topics:
       - title: "Climate Change & Biodiversity"
         path: "topics/Climate Change & Biodiversity.qmd"
-W13:
+W14:
   D1:
-    date: "2026-11-16"
+    date: "2026-11-23"
     themes: "Approaches to Conservation"
     topics:
       - title: "Ex Situ Conservation"
@@ -270,28 +293,6 @@ W13:
         path_external: "https://www.annualreviews.org/content/journals/10.1146/annurev-animal-050622-104306"
         author_display: "Mirandaet al."
         year: "2023"
-  D2:
-    date: "2026-11-18"
-    themes: "Approaches to Conservation"
-    topics:
-      - title: "Ex Situ Conservation"
-        path: "topics/Ex Situ Conservation.qmd"
-      - title: "Species-Level Approaches"
-        path: "topics/Species-Level Approaches.qmd"
-    background:
-      - title: "Endangered species management: the US experience"
-        type: "textbook"
-        path_pdf: "attachments/wilcove_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 12
-        duration_string: "15 pages"
-W14:
-  D1:
-    date: "2026-11-23"
-    themes: "Approaches to Conservation"
-    topics:
-      - title: "Species-Level Approaches"
-        path: "topics/Species-Level Approaches.qmd"
     case_convo:
       - number: 6
         topic: "Species-Level Approaches"
@@ -309,27 +310,23 @@ W15:
     date: "2026-11-30"
     themes: "Approaches to Conservation"
     topics:
+      - title: "Ex Situ Conservation"
+        path: "topics/Ex Situ Conservation.qmd"
       - title: "Species-Level Approaches"
         path: "topics/Species-Level Approaches.qmd"
+    background:
+      - title: "Endangered species management: the US experience"
+        type: "textbook"
+        path_pdf: "attachments/wilcove_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 12
+        duration_string: "15 pages"
   D2:
     date: "2026-12-02"
     themes: "Approaches to Conservation"
     topics:
-      - title: "Community & Ecosystem Approaches"
-        path: "topics/Community & Ecosystem Approaches.qmd"
-    background:
-      - title: "Conservation planning and priorities"
-        type: "textbook"
-        path_pdf: "attachments/brooks_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 11
-        duration_string: "20 pages"
-      - title: "From conservation theory to practice: crossing the divide"
-        type: "textbook"
-        path_pdf: "attachments/rao_ginsberg_2010.pdf"
-        path_external: "https://conbio.org/publications/free-textbook/"
-        chapter: 15
-        duration_string: "28 pages"
+      - title: "Species-Level Approaches"
+        path: "topics/Species-Level Approaches.qmd"
     case_convo:
       - number: 7
         topic: "Community & Ecosystem Approaches"
@@ -344,6 +341,18 @@ W16:
       - title: "Landscape-Scale Approaches"
         path: "topics/Landscape-Scale Approaches.qmd"
     background:
+      - title: "Conservation planning and priorities"
+        type: "textbook"
+        path_pdf: "attachments/brooks_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 11
+        duration_string: "20 pages"
+      - title: "From conservation theory to practice: crossing the divide"
+        type: "textbook"
+        path_pdf: "attachments/rao_ginsberg_2010.pdf"
+        path_external: "https://conbio.org/publications/free-textbook/"
+        chapter: 15
+        duration_string: "28 pages"
       - title: "Conservation in human‐modified landscapes"
         type: "textbook"
         path_pdf: "attachments/koh_gardner_2010.pdf"

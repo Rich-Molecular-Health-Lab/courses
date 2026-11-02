@@ -1,0 +1,99 @@
+---
+title: "Habitat Fragmentation"
+date: "2026-11-02T16:00:00"
+date-modified: "2026-08-29T11:15:01"
+profile:
+  - "topic"
+  - "conbio"
+categories:
+  - "topic"
+  - "BIOL4120"
+listing:
+  template: "resources.ejs.md"
+  contents: "Habitat Fragmentation_resources.yaml"
+---
+
+## Class Meetings
+
+**Dates:** 2026-11-02T16:00:00
+
+<a class='btn btn-outline-primary p-3 m-2' href='../slides/Habitat Fragmentation and Metapopulations/index.html'>Habitat Fragmentation and Metapopulations <i class='fa-solid fa-link'></i></a>
+<a class='btn btn-outline-secondary p-3 m-2' href='../slides/Habitat Fragmentation and Metapopulations/index.html?print-pdf' target='_blank' rel='noopener'>Printable PDF <i class='fa-solid fa-file-pdf'></i></a>
+
+## Assigned Background
+
+### Habitat fragmentation and landscape change
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Habitat fragmentation and landscape change
+
+**Ch No.:** 5 (Threats to Biodiversity)
+
+**Pages:** 88-106 (Habitat Loss and Degradation, Habitat Fragmentation)
+
+**PDF:** [bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2, BIOL4120_W6D1, BIOL4120_W6D2, BIOL4120_W7D1, BIOL4120_W7D2, BIOL4120_W10D2, BIOL4120_W11D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Andrew F. Bennett, Denis A. Saunders
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193199032)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+:::
+
+## Optional Material (Dive Deeper)
+
+### Readings
+
+#### Habitat fragmentation and landscape change
+
+::: {.callout-note collapse="false" title="Assigned Reading"}
+
+**Chapter:** Habitat fragmentation and landscape change
+
+**Ch No.:** 5 (Threats to Biodiversity)
+
+**Pages:** 88-106 (Habitat Loss and Degradation, Habitat Fragmentation)
+
+**PDF:** [bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+**Textbook:** Conservation Biology for All *(see details below)*
+
+**Days Covered:** BIOL4120_W5D1, BIOL4120_W5D2, BIOL4120_W6D1, BIOL4120_W6D2, BIOL4120_W7D1, BIOL4120_W7D2, BIOL4120_W10D2, BIOL4120_W11D1
+
+:::
+
+::: {.callout-note collapse="true" title="Textbook Details"}
+
+**Text:** Conservation Biology for All by Andrew F. Bennett, Denis A. Saunders
+
+**Edition:**  (2010)
+
+**ISBN:** 978-0-19-955423-2
+
+[![Conservation Biology for All](https://conbio.org/images/content_about_scb/consbioall_cover_reduced.jpg){width=50px}](https://academic.oup.com/book/25710/chapter/193199032)
+
+:::
+
+::: {.callout-note collapse="true" title="View PDF"}
+
+![bennett_saunders_2010.pdf](../attachments/bennett_saunders_2010.pdf)
+
+:::

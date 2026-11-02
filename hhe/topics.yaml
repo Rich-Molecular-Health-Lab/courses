@@ -2151,6 +2151,19 @@
   video_duration_string: "00:56:11"
   film_duration: 3281
   film_duration_string: "00:54:41"
+  question_bank:
+    - "housing_mc_24"
+    - "housing_mc_25"
+    - "housing_mc_26"
+    - "housing_mc_27"
+    - "housing_mc_28"
+    - "housing_mc_29"
+    - "housing_mc_30"
+    - "housing_mc_31"
+    - "housing_tf_7"
+    - "housing_tf_8"
+    - "housing_tf_9"
+    - "housing_tf_10"
 - title: "Vectors"
   keywords: null
   unit: "Pathogens"

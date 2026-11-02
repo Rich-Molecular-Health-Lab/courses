@@ -7,16 +7,12 @@
     - "Landscape-Scale Approaches"
     - "Species-Level Approaches"
   class_days:
-    - "BIOL4120_W13D1"
-    - "BIOL4120_W13D2"
     - "BIOL4120_W14D1"
     - "BIOL4120_W15D1"
     - "BIOL4120_W15D2"
     - "BIOL4120_W16D1"
     - "BIOL4120_W16D2"
   dates:
-    - "2026-11-16T16:00:00"
-    - "2026-11-18T16:00:00"
     - "2026-11-23T16:00:00"
     - "2026-11-30T16:00:00"
     - "2026-12-02T16:00:00"
@@ -46,17 +42,17 @@
   background:
     - "Endangered species management - the US experience"
     - "Conservation in human‐modified landscapes"
-    - "miranda_etal_2023a"
     - "Conservation planning and priorities"
     - "From conservation theory to practice - crossing the divide"
+    - "miranda_etal_2023a"
   slides:
     []
   course_name: "Conservation Biology"
   videos:
     []
-  class_start: "BIOL4120_W13D1"
-  date_start: "2026-11-16T16:00:00"
-  week_start: 13
+  class_start: "BIOL4120_W14D1"
+  date_start: "2026-11-23T16:00:00"
+  week_start: 14
   class_end: "BIOL4120_W16D2"
   date_end: "2026-12-09T16:00:00"
   week_end: 16
@@ -278,8 +274,9 @@
   topics:
     - "Climate Change & Biodiversity"
     - "Extinction"
-    - "Habitat Loss, Fragmentation, and Degradation"
-    - "Invasive Alien Species"
+    - "Habitat Fragmentation"
+    - "Habitat Loss and Degradation"
+    - "Invasive Alien Species (REMOTE ASYNCHRONOUS)"
     - "Overexploitation"
   class_days:
     - "BIOL4120_W10D1"
@@ -288,6 +285,8 @@
     - "BIOL4120_W11D2"
     - "BIOL4120_W12D1"
     - "BIOL4120_W12D2"
+    - "BIOL4120_W13D1"
+    - "BIOL4120_W13D2"
     - "BIOL4120_W4D2"
     - "BIOL4120_W5D2"
     - "BIOL4120_W6D1"
@@ -311,6 +310,8 @@
     - "2026-11-04T16:00:00"
     - "2026-11-09T16:00:00"
     - "2026-11-11T16:00:00"
+    - "2026-11-16T16:00:00"
+    - "2026-11-18T16:00:00"
   exams: null
   films:
     - "Vanishing Act"
@@ -333,33 +334,47 @@
   created: "2026-08-29"
   datetimeModified: "Saturday 29th August 2026 11:40:47"
   content:
-    - "Habitat Loss"
+    - "Habitat Fragmentation and Metapopulations"
+    - "Habitat Loss and Degradation Slides"
+    - "What Causes Desertification, and How Can We Restore Land"
+    - "Shrimp Farming in Extensive to Intensive Ponds"
+    - "Game changer for small shrimp farmers"
+    - "What Are Wild Coyotes Doing in the Big City"
     - "The Everyday Ingredient Destroying the Planet"
+    - "What's a Superfund Site and Why Should You Know About Them"
+    - "Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima"
     - "Patterns & Risk of Extinction"
     - "How poaching is changing the face of African elephants"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
     - "Are We Living In the Sixth Extinction"
     - "Vanishing Act"
   background:
-    - "Overharvesting"
     - "Invasive Species"
+    - "Overharvesting"
     - "Habitat fragmentation and landscape change"
     - "Habitat destruction - death by a thousand cuts"
     - "Extinctions and the practice of preventing them"
     - "Climate Change"
   slides:
-    - "Habitat Loss"
+    - "Habitat Fragmentation and Metapopulations"
+    - "Habitat Loss and Degradation Slides"
     - "Patterns & Risk of Extinction"
   course_name: "Conservation Biology"
   videos:
+    - "What Causes Desertification, and How Can We Restore Land"
+    - "Shrimp Farming in Extensive to Intensive Ponds"
+    - "Game changer for small shrimp farmers"
+    - "What Are Wild Coyotes Doing in the Big City"
     - "The Everyday Ingredient Destroying the Planet"
+    - "What's a Superfund Site and Why Should You Know About Them"
+    - "Parts of the Marshall Islands just as radioactive as Chernobyl and Fukushima"
     - "How poaching is changing the face of African elephants"
     - "This Is Martha, the World's Last-Known Passenger Pigeon"
     - "Are We Living In the Sixth Extinction"
   class_start: "BIOL4120_W4D2"
   date_start: "2026-09-16T16:00:00"
   week_start: 4
-  class_end: "BIOL4120_W12D2"
-  date_end: "2026-11-11T16:00:00"
-  week_end: 12
+  class_end: "BIOL4120_W13D2"
+  date_end: "2026-11-18T16:00:00"
+  week_end: 13
   title: "Threats to Biodiversity"

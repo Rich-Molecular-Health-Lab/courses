@@ -1,0 +1,10 @@
+---
+title: "What Are Wild Coyotes Doing in the Big City"
+profile:
+  - "other"
+  - "conbio"
+categories:
+  - "other"
+  - "BIOL4120"
+---
+

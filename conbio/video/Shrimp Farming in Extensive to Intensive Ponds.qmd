@@ -1,0 +1,63 @@
+---
+title: "Shrimp Farming in Extensive to Intensive Ponds"
+profile:
+  - "video"
+  - "conbio"
+categories:
+  - "video"
+  - "BIOL4120"
+---
+
+**Seafood Watch**, *2024-11-20*
+
+## Video (00:02:07)
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/sX9YD-kNRF8 title="Shrimp Farming in Extensive to Intensive Ponds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Description
+
+Most shrimp produced globally are farm-raised in ponds. In areas where the shrimp are native, like giant tiger prawns in Vietnam, farmers often modify an existing landscape to make use of a nearby water source, which allows the pond to fill with water along with native shrimp. Extensive ponds like these mimic the shrimp’s natural ecosystem and use minimal or no outside feed or other inputs beyond any additional shrimp stocked into the pond. 
+
+To harvest, farmers will open the pond gates during low tide and use nets to trap the shrimp as the water flows toward the outlet. While many of these ponds incorporate natural vegetation like mangroves, others might include or rotate in crops like rice, increasing the economic potential for the farmer.
+
+By contrast, as external inputs like fertilizers, aerators, and feed are added to the pond, they become what we call intensified. While this helps to boost yields of farmed shrimp, it may negatively impact the surrounding ecosystem.
+
+The modification of these ponds ranges from extensive or low input to intensive or high input farms. Each step towards intensification works to increase the production of the pond beyond its natural capacity. In extensive ponds, limited inputs means shrimp are produced by relying on naturally available foods and water quality, which often leads to a low impact harvest. Intensive ponds carry the potential for greater environmental consequences when not farmed responsibly. Consequences include potential impacts like the discharge of contaminated wastewater and the escape of non-native species.
+
+No matter the method, risks are present when altering any landscape, making it important for farmers to use sustainable aquaculture practices so they can benefit from the surrounding environment while promoting the well being of the landscape.
+
+## Transcript
+
+### Extensive shrimp farming
+
+**0:01** · Most shrimp produced globally are farm-raised in ponds.
+
+**0:04** · In areas where the shrimp are native, like giant tiger prawns in Vietnam, farmers often modify an existing landscape to make use of a nearby water source, which allows the pond to fill with water along with native shrimp.
+
+**0:17** · Extensive ponds like these mimic the shrimp’s natural ecosystem and use minimal or no outside feed or other inputs beyond any additional shrimp stocked into the pond.
+
+**0:28** · To harvest, farmers will open the pond gates during low tide and use nets to trap the shrimp as the water flows toward the outlet.
+
+**0:36** · While many of these ponds incorporate natural vegetation like mangroves, others might include or rotate in crops like rice, increasing the economic potential for the farmer.
+
+### Integrated farming systems
+
+**0:48** · By contrast, as external inputs like fertilizers, aerators, and feed are added to the pond, they become what we call intensified.
+
+**0:58** · While this helps to boost yields of farmed shrimp, it may negatively impact the surrounding ecosystem.
+
+### Intensive farming impacts
+
+**1:05** · The modification of these ponds ranges from extensive or low input to intensive or high input farms.
+
+**1:11** · Each step towards intensification works to increase the production of the pond beyond its natural capacity.
+
+**1:18** · In extensive ponds, limited inputs means shrimp are produced by relying on naturally available foods and water quality, which often leads to a low impact harvest.
+
+**1:28** · Intensive ponds carry the potential for greater environmental consequences when not farmed responsibly.
+
+### Sustainable aquaculture
+
+**1:34** · Consequences include potential impacts like the discharge of contaminated wastewater and the escape of non-native species.
+
+**1:44** · No matter the method, risks are present when altering any landscape, making it important for farmers to use sustainable aquaculture practices so they can benefit from the surrounding environment while promoting the well-being of the landscape.
